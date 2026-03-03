@@ -1,0 +1,33 @@
+# Large data files (too large for GitHub, available upon request)
+data/processed/
+data/raw/losi/
+data/raw/transcripts/
+data/raw/transcripts_audit/
+data/raw/transcripts_minister/
+data/raw/llm_batch/
+data/raw/embeddings/
+
+# Analysis outputs (not part of the dataset itself)
+results/
+models/
+figures/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# API keys and credentials
+*.rtf
+.env
+*api_key*
+*secret*
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

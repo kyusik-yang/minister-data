@@ -1,0 +1,288 @@
+ministry,name,name_en,start,end,admin,admin_ideology,dual_office,mp_party_at_appt,mp_district,assembly_num_at_appt,confirmation_hearing,confirmation_date,notes
+국무총리,이한동,Lee Han-dong,2000-05-22,2002-07-11,김대중,Progressive,True,자유민주연합,경기 포천군·연천군,16.0,True,2000-05-22,"겸직 총리 (16대 경기 포천군·연천군, 자유민주연합; 2000-05-22 임명, 16대 개원 2000-05-30 직전); mp_district CORRECTION 충북 청주시 상당구→경기 포천군·연천군"
+국무총리,장상,Jang Sang,2002-07-31,2002-12-05,김대중,Progressive,False,,,,True,2002-07-31,비겸직
+국무총리,고건,Ko Kun,2003-02-27,2004-05-24,노무현,Progressive,False,,,,True,2003-02-27,비겸직
+농림부,김영진,Kim Yeong-jin,2003-02-27,2004-01-09,노무현,Progressive,True,새천년민주당,비례대표,16.0,False,,겸직 장관 (16대 비례의원 재임 중); date approx; district corrected from 안양 동안구 을; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+재정경제부,김진표,Kim Jin-pyo,2003-02-27,2004-01-09,노무현,Progressive,False,,,,False,,비겸직 (관료 출신; 의원 경력 별도 - 장관 이전 16대 당선 여부 verify); confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+교육인적자원부,윤덕홍,Yun Deok-hong,2003-02-27,2004-01-09,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+과학기술부,박호군,Park Ho-gun,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+통일부,정세현,Jeong Se-hyeon,2003-02-27,2004-06-30,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+외교통상부,윤영관,Yun Yeong-gwan,2003-02-27,2004-01-19,노무현,Progressive,False,,,,False,,"비겸직 (교수 출신, 서울대); date approx; 인사청문회 대상 아님(2005년 이전)"
+법무부,강금실,Kang Geum-sil,2003-02-27,2004-06-30,노무현,Progressive,False,,,,False,,비겸직 (변호사 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+국방부,조영길,Jo Yeong-gil,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (군인 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+행정자치부,김두관,Kim Du-gwan,2003-02-27,2003-09-01,노무현,Progressive,False,,,,False,,"비겸직 (정치운동가 출신, 의원 경력 없음); date approx; 인사청문회 대상 아님"
+문화관광부,이창동,Lee Chang-dong,2003-02-27,2004-06-30,노무현,Progressive,False,,,,False,,비겸직 (영화감독 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+산업자원부,윤진식,Yun Jin-sik,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전); verify
+정보통신부,진대제,Jin Dae-je,2003-02-27,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (삼성전자 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+보건복지부,김화중,Kim Hwa-jung,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (의사 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+환경부,한명숙,Han Myeong-suk,2003-02-27,2004-01-09,노무현,Progressive,False,,,,False,,비겸직 (장관 퇴임 후 17대 당선); date approx; agent confirmed NOT 겸직
+노동부,권기홍,Gwon Gi-hong,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+여성가족부,지은희,Ji Eun-hee,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (교수/활동가 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+건설교통부,최종찬,Choe Jong-chan,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+해양수산부,허성관,Heo Seong-gwan,2003-02-27,2004-01-09,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+기획예산처,박봉흠,Park Bong-heum,2003-02-27,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+행정자치부,허성관,Heo Seong-gwan,2003-09-01,2006-09-12,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+재정경제부,이헌재,Lee Heon-jae,2004-01-09,2004-07-01,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+교육인적자원부,안병영,Ahn Byeong-yeong,2004-01-09,2004-02-01,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+농림부,허상만,Heo Sang-man,2004-01-09,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+해양수산부,최낙정,Choe Nak-jeong,2004-01-09,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+외교통상부,반기문,Ban Ki-moon,2004-01-19,2006-11-17,노무현,Progressive,False,,,,False,,비겸직 (외교관 출신; 후 유엔 사무총장); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+교육인적자원부,김진표,Kim Jin-pyo,2005-01-28,2005-01-03,노무현,Progressive,True,열린우리당,경기 수원시 영통구,17.0,False,,겸직 장관 (17대 의원 경기 수원시 영통구); 임명 2005-01-28은 국무위원 인사청문 의무화(2005-07-28 국회법 개정) 이전 → 인사청문 미실시; confirmation_hearing CORRECTION True→False
+국무총리,이해찬,Lee Hae-chan,2004-06-30,2006-02-14,노무현,Progressive,True,열린우리당,서울 관악구 을,17.0,True,2004-06-30,겸직 총리 (17대)
+문화관광부,정동채,Jeong Dong-chae,2004-06-30,2006-02-09,노무현,Progressive,True,열린우리당,광주 서구 을,17.0,False,,겸직 장관 (17대); district corrected 서구 갑→서구 을; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+법무부,김승규,Kim Seung-gyu,2004-06-30,2005-06-20,노무현,Progressive,False,,,,False,,비겸직 (검사 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+통일부,정동영,Jeong Dong-yeong,2004-07-01,2006-01-21,노무현,Progressive,False,,,,False,,비겸직 (17대 총선 불출마; 임명 당시 현직 의원 아님; 16대 전북 전주시 덕진구 의원 전력 있음)
+재정경제부,한덕수,Han Deok-su,2004-07-01,2006-07-03,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+교육인적자원부,이기준,Lee Gi-jun,2004-07-01,2004-08-01,노무현,Progressive,False,,,,False,,"비겸직 (교수 출신, 서울대 총장); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared"
+과학기술부,오명,O Myeong,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; 인사청문회 대상 아님(2005년 이전)
+국방부,윤광웅,Yun Gwang-ung,2004-07-01,2006-11-17,노무현,Progressive,False,,,,False,,비겸직 (군인 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+행정자치부,오영교,O Yeong-gyo,2004-07-01,2006-09-12,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+산업자원부,이희범,Lee Hui-beom,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (기업인 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+환경부,곽결호,Gwak Gyeol-ho,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+노동부,김대환,Kim Dae-hwan,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+건설교통부,강동석,Kang Dong-seok,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+기획예산처,김병일,Kim Byeong-il,2004-07-01,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (관료 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+보건복지부,김근태,Kim Geun-tae,2004-07-27,2005-12-28,노무현,Progressive,True,열린우리당,서울 도봉구 갑,17.0,False,,겸직 장관 (17대) - 청문회 도입 전
+통일부,이종석,Lee Jong-seok,2005-01-03,2006-02-09,노무현,Progressive,False,,,,False,,비겸직 (교수 출신); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+환경부,이치범,Lee Chi-beom,2005-01-03,2006-02-10,노무현,Progressive,False,,,,False,,비겸직 (16대 비례의원이었으나 임기 종료 후 임명); date approx; confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+법무부,천정배,Cheon Jeong-bae,2005-06-20,2006-07-14,노무현,Progressive,True,열린우리당,경기 안산시 단원구 갑,17.0,False,,겸직 장관 (17대); district corrected 광주 서구→경기 안산시 단원구 갑 (광주 서구 을은 19대부터); confirmation_hearing CORRECTION TRUE→FALSE: 2005-07-28 이전 임명 (국무위원 인사청문 의무화 이전); confirmation_date cleared
+보건복지부,유시민,Yu Si-min,2006-02-07,2007-05-25,노무현,Progressive,True,열린우리당,경기 고양시 덕양구 갑,17.0,True,2006-02-07,겸직 장관 (17대)
+산업자원부,정세균,Jeong Se-gyun,2006-02-10,2007-01-03,노무현,Progressive,True,열린우리당,전북 진안군·무주군·장수군·임실군,17.0,True,2006-02-10,겸직 장관 (17대); district corrected 전주시 덕진구→진안·무주·장수·임실; date approx
+통일부,이재정,Lee Jae-jeong,2006-12-29,2008-02-24,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (16대 비례의원 임기 종료 후 임명; 임명 당시 현직 의원 아님); date approx
+교육인적자원부,김병준,Kim Byeong-jun,2006-02-10,2006-09-12,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (교수 출신); date approx
+과학기술부,김우식,Kim U-sik,2006-02-10,2008-02-24,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (교수 출신); date approx
+법무부,김성호,Kim Seong-ho,2006-02-10,2007-09-15,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (검사 출신); date approx
+문화관광부,김명곤,Kim Myeong-gon,2006-02-10,2007-01-03,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (예술인 출신); date approx
+농림부,박홍수,Park Hong-su,2006-02-10,2007-09-15,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+정보통신부,노준형,No Jun-hyeong,2006-02-10,2007-01-03,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+환경부,이재용,Lee Jae-yong,2006-02-10,2006-09-12,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+노동부,이상수,Lee Sang-su,2006-02-10,2008-02-24,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (16대 의원 임기 종료 후 임명); date approx; agent confirmed NOT 겸직
+건설교통부,추병직,Chu Byeong-jik,2006-02-10,2007-09-15,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+해양수산부,장승우,Jang Seung-u,2006-02-10,2006-09-12,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+기획예산처,변양균,Byeon Yang-gyun,2006-02-10,2007-01-03,노무현,Progressive,False,,,,True,2006-02-10,비겸직 (관료 출신); date approx
+국무총리,한명숙,Han Myeong-sook,2006-04-19,2007-03-07,노무현,Progressive,True,열린우리당,경기 고양시 일산구 갑,17.0,True,2006-04-19,겸직 총리 (17대) - 여성 최초 총리
+여성가족부,장하진,Jang Ha-jin,2006-06-23,2008-02-24,노무현,Progressive,False,,,,True,2006-06-23,비겸직 (교수 출신); date approx
+재정경제부,권오규,Gwon O-gyu,2006-07-03,2008-02-24,노무현,Progressive,False,,,,True,2006-07-03,비겸직 (관료 출신); date approx
+기획예산처,장병완,Jang Byeong-wan,2006-07-21,2008-02-24,노무현,Progressive,False,,,,True,2006-07-21,"비겸직 (18대 의원이었으나 장관 재임 후 당선; 장관 2006-2008, 18대 MP 2010); agent confirmed"
+행정자치부,이용섭,Lee Yong-seop,2006-03-27,2007-02-28,노무현,Progressive,False,,,,True,2006-09-12,비겸직 (대통령비서실 출신 관료; 18대 MP는 2008년 이후); date corrected 2006-09-12→2006-03-27
+교육인적자원부,김신일,Kim Sin-il,2006-09-12,2008-02-24,노무현,Progressive,False,,,,True,2006-09-12,비겸직 (교수 출신); date approx
+행정자치부,박명재,Park Myeong-jae,2006-09-12,2007-03-01,노무현,Progressive,False,,,,True,2006-09-12,비겸직 (관료 출신); date approx
+환경부,이규용,Lee Gyu-yong,2006-09-12,2008-02-24,노무현,Progressive,False,,,,True,2006-09-12,비겸직 (관료 출신); date approx
+해양수산부,오거돈,O Geo-don,2006-09-12,2007-04-01,노무현,Progressive,False,,,,True,2006-09-12,비겸직 (관료 출신); date approx
+외교통상부,송민순,Song Min-sun,2006-11-17,2008-02-24,노무현,Progressive,False,,,,True,2006-11-17,비겸직 (외교관 출신); date approx
+국방부,김장수,Kim Jang-su,2006-11-17,2008-02-24,노무현,Progressive,False,,,,True,2006-11-17,비겸직 (군인 출신); date approx
+문화관광부,김종민,Kim Jong-min,2007-01-03,2008-02-24,노무현,Progressive,False,,,,True,2007-01-03,비겸직 (공무원 출신); date approx; agent confirmed NOT 겸직
+정보통신부,유영환,Yu Yeong-hwan,2007-01-03,2008-02-24,노무현,Progressive,False,,,,True,2007-01-03,비겸직 (외교관 출신); date approx
+해양수산부,김성진,Kim Seong-jin,2007-04-01,2007-09-15,노무현,Progressive,False,,,,True,2007-04-01,비겸직 (교수 출신); date approx
+국무총리,한덕수,Han Duck-soo,2007-04-02,2008-02-29,노무현,Progressive,False,,,,True,2007-04-02,비겸직
+산업자원부,김영주,Kim Yeong-ju,2007-01-29,2008-02-24,노무현,Progressive,False,,,,True,2007-08-01,비겸직 (관료 출신 김영주 1950년생; 17대 비례의원 김영주 1955년생과 동명이인 혼동; date corrected)
+건설교통부,이용섭,Lee Yong-seop,2006-12-11,2008-02-24,노무현,Progressive,False,,,,True,2007-09-15,비겸직 (관료 출신; 18대 MP는 2008년 이후); date corrected 2007-09-15→2006-12-11
+법무부,정성진,Jeong Seong-jin,2007-09-15,2008-02-24,노무현,Progressive,False,,,,True,2007-09-15,비겸직 (검사 출신); date approx
+농림부,임상규,Im Sang-gyu,2007-09-15,2008-02-24,노무현,Progressive,False,,,,True,2007-09-15,비겸직 (관료 출신); date approx
+보건복지부,변재진,Byeon Jae-jin,2007-09-15,2008-02-24,노무현,Progressive,False,,,,True,2007-09-15,비겸직 (관료 출신); date approx
+해양수산부,강무현,Kang Mu-hyeon,2007-09-15,2008-02-24,노무현,Progressive,False,,,,True,2007-09-15,비겸직 (관료 출신); date approx
+국무총리,한승수,Han Seung-soo,2008-02-29,2009-09-28,이명박,Conservative,False,,,,True,2008-02-29,비겸직
+기획재정부,강만수,Kang Man-su,2008-02-29,2009-02-05,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+교육과학기술부,김도연,Kim Do-yeon,2008-02-29,2008-08-06,이명박,Conservative,False,,,,True,2008-02-29,"비겸직 (교수 출신, 포항공대 총장); date approx"
+외교통상부,유명환,Yu Myeong-hwan,2008-02-29,2010-09-17,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (외교관 출신); date approx
+법무부,김경한,Kim Gyeong-han,2008-02-29,2009-09-24,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (검사 출신); date approx
+국방부,이상희,Lee Sang-hee,2008-02-29,2009-09-24,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (군인 출신); date approx
+행정안전부,원세훈,Won Se-hun,2008-02-29,2009-02-05,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+문화체육관광부,유인촌,Yu In-chon,2008-02-29,2010-08-10,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (연예인 출신); date approx
+지식경제부,이윤호,Lee Yun-ho,2008-02-29,2009-09-24,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+보건복지부,김성이,Kim Seong-i,2008-02-29,2010-04-16,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (교수 출신); date approx
+환경부,이만의,Lee Man-eui,2008-02-29,2011-09-15,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+고용노동부,이영희,Lee Yeong-hee,2008-02-29,2010-08-10,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+국토해양부,정종환,Jeong Jong-hwan,2008-02-29,2011-06-01,이명박,Conservative,False,,,,True,2008-02-29,비겸직 (관료 출신); date approx
+통일부,김하중,Kim Ha-jung,2008-03-02,2009-09-24,이명박,Conservative,False,,,,True,2008-03-02,비겸직 (외교관 출신); date approx
+여성가족부,변도윤,Byeon Do-yun,2008-03-02,2009-09-24,이명박,Conservative,False,,,,True,2008-03-02,비겸직 (관료 출신); date approx
+교육과학기술부,안병만,Ahn Byeong-man,2008-08-06,2010-12-03,이명박,Conservative,False,,,,True,2008-08-06,비겸직 (관료 출신); date approx
+농림수산식품부,정운천,Jeong Un-cheon,2008-02-29,2008-08-06,이명박,Conservative,False,,,,True,2009-02-05,비겸직 (초대 이명박 농림수산식품부 장관; 18대 MP 아님; 최초 의원 당선은 20대 2016년)
+기획재정부,윤증현,Yun Jeung-hyeon,2009-02-05,2011-06-01,이명박,Conservative,False,,,,True,2009-02-05,비겸직 (관료 출신); date approx
+특임장관,주호영,Ju Ho-yeong,2009-09-30,2010-08-10,이명박,Conservative,True,한나라당,대구 수성구 을,18.0,True,2009-09-15,겸직 장관 (18대 의원 대구 수성구 을); 인사청문: 2009-09-15 (채택); confirmation_hearing CORRECTION False→True; 출처: 나무위키 인사청문회 5.3절
+통일부,현인택,Hyeon In-taek,2009-09-24,2011-09-15,이명박,Conservative,False,,,,True,2009-09-24,비겸직 (교수 출신); date approx
+법무부,이귀남,Lee Gwi-nam,2009-09-24,2011-09-15,이명박,Conservative,False,,,,True,2009-09-24,비겸직 (검사 출신); date approx
+국방부,김태영,Kim Tae-yeong,2009-09-24,2010-11-26,이명박,Conservative,False,,,,True,2009-09-24,비겸직 (군인 출신); date approx
+농림수산식품부,장태평,Jang Tae-pyeong,2009-09-24,2011-09-05,이명박,Conservative,False,,,,True,2009-09-24,비겸직 (관료 출신); date approx
+여성가족부,백희영,Baek Hui-yeong,2009-09-24,2011-09-15,이명박,Conservative,False,,,,True,2009-09-24,비겸직 (교수 출신); date approx
+국무총리,정운찬,Jeong Un-chan,2009-09-29,2010-08-10,이명박,Conservative,False,,,,True,2009-09-29,비겸직 (서울대 총장 출신)
+행정안전부,이달곤,Lee Dal-gon,2009-02-04,2010-03-20,이명박,Conservative,False,,,,True,2010-04-16,비겸직 (18대 의원직 2009-02-03 사퇴 후 다음날 장관 임명; date approx)
+보건복지부,전재희,Jeon Jae-hee,2008-08-06,2010-08-30,이명박,Conservative,True,한나라당,경기 광명시 을,18.0,False,,겸직 장관 (18대 의원 경기 광명시 을); 인사청문 미실시 - 18대 국회 보건복지가족위원회 구성(2008-09-01) 이전 임명(2008-08-06); 나무위키 인사청문회 5.3절 확인; confirmation_hearing CORRECTION True→False
+특임장관,이재오,Lee Jae-oh,2010-08-30,2012-01-30,이명박,Conservative,True,한나라당,서울 은평구 을,18.0,True,2010-08-23,겸직 장관 (18대 의원 서울 은평구 을; 2010-07-28 보궐선거 당선 후 임명); 인사청문: 2010-08-23 (채택); confirmation_hearing CORRECTION False→True; 출처: 나무위키 인사청문회 5.3절
+문화체육관광부,정병국,Jeong Byeong-guk,2011-01-27,2011-09-16,이명박,Conservative,True,한나라당,경기 양평군·가평군,18.0,True,2011-01-17,겸직 장관 (18대 의원 경기 양평군·가평군); 인사청문: 2011-01-17 (채택); 출처: 나무위키 인사청문회 5.3절
+고용노동부,임태희,Im Tae-hee,2009-09-30,2010-07-15,이명박,Conservative,True,한나라당,경기 성남시 분당구 을,18.0,True,2009-09-22,겸직 장관 (18대 의원 경기 성남시 분당구 을); 인사청문: 2009-09-22 (미채택 후 임명 강행); 출처: 나무위키 인사청문회 5.3절
+행정안전부,맹형규,Maeng Hyeong-gyu,2010-04-15,2013-02-24,이명박,Conservative,False,,,,True,2010-08-10,비겸직 (17대 서울 송파구 갑; 18대 공천 배제 낙마; 청와대 정무수석 2008-2009); start CORRECTION 2010-08-10→2010-04-15 (Wikipedia: 2010년 4월 15일 제3대 행안부 장관 임명)
+외교통상부,김성환,Kim Seong-hwan,2010-09-17,2013-02-24,이명박,Conservative,False,,,,True,2010-09-17,비겸직 (외교관 출신); date approx
+국무총리,김황식,Kim Hwang-shik,2010-10-01,2013-02-26,이명박,Conservative,False,,,,True,2010-10-01,비겸직 (감사원장 출신)
+고용노동부,박재완,Park Jae-wan,2010-08-30,2011-06-01,이명박,Conservative,False,,,,True,2010-11-01,비겸직 (17대 비례의원이었으나 18대에는 의원직 없음; 기획재정부 차관 출신 관료 신분으로 임명)
+국방부,김관진,Kim Gwan-jin,2010-11-26,2013-02-24,이명박,Conservative,False,,,,True,2010-11-26,비겸직 (군인 출신); date approx
+교육과학기술부,이주호,Lee Ju-ho,2010-08-30,2013-03-11,이명박,Conservative,False,,,,True,2010-12-03,비겸직 (17대 비례의원 2004~2008; 의원직 사퇴 후 이명박 수석→차관→장관; 임명 당시 현직 의원 아님; start/end corrected; 18대 서울 용산구는 오류)
+보건복지부,진수희,Jin Su-hee,2010-08-30,2011-09-15,이명박,Conservative,True,한나라당,서울 성동구 갑,18.0,True,2010-08-23,겸직 장관 (18대 의원 서울 성동구 갑); 인사청문: 2010-08-23 (채택); 출처: 나무위키 인사청문회 5.3절
+국토해양부,권도엽,Gwon Do-yeop,2011-06-01,2013-02-24,이명박,Conservative,False,,,,True,2011-06-01,비겸직 (관료 출신); date approx
+지식경제부,최경환,Choe Gyeong-hwan,2009-09-19,2011-01-26,이명박,Conservative,True,한나라당,경북 경산시·청도군,18.0,True,2009-09-15,"겸직 장관 (18대 의원 경북 경산시·청도군, 한나라당); 인사청문: 2009-09-15 (채택); mp_district CORRECTION 대구 달성군→경북 경산시·청도군 (notes field already correct; 대구 달성군은 추경호 21대 기재부); 출처: 나무위키 인사청문회 5.3절"
+농림수산식품부,유정복,Yu Jeong-bok,2010-08-30,2011-06-01,이명박,Conservative,True,한나라당,경기 김포시,18.0,True,2010-08-23,겸직 장관 (18대 의원 경기 김포시); 인사청문: 2010-08-23 (채택); 출처: 나무위키 인사청문회 5.3절
+여성가족부,김금래,Kim Geum-rae,2011-09-16,2013-02-24,이명박,Conservative,True,한나라당,비례대표,18.0,True,2011-09-15,겸직 장관 (18대 비례의원; 임명 당시 의원 신분); start corrected 2011-09-15→2011-09-16
+통일부,류우익,Ryu U-ik,2011-09-15,2013-02-24,이명박,Conservative,False,,,,True,2011-09-15,비겸직 (교수 출신); date approx
+법무부,권재진,Gwon Jae-jin,2011-09-15,2013-02-24,이명박,Conservative,False,,,,True,2011-09-15,비겸직 (검사 출신); date approx
+문화체육관광부,최광식,Choe Gwang-sik,2011-09-15,2013-02-24,이명박,Conservative,False,,,,True,2011-09-15,비겸직 (교수 출신); date approx
+지식경제부,최중경,Choe Jung-gyeong,2011-09-15,2012-03-01,이명박,Conservative,False,,,,True,2011-09-15,비겸직 (관료 출신); date approx
+환경부,유영숙,Yu Yeong-suk,2011-09-15,2013-02-24,이명박,Conservative,False,,,,True,2011-09-15,비겸직 (교수 출신); date approx
+특임장관,고흥길,Ko Heung-gil,2012-02-24,2013-03-23,이명박,Conservative,True,한나라당,경기 성남시 분당구 갑,18.0,True,2012-02-14,겸직 장관 (18대 의원 경기 성남시 분당구 갑); 인사청문: 2012-02-14 (채택); confirmation_hearing CORRECTION False→True; 출처: 나무위키 인사청문회 5.3절
+기획재정부,박재완,Park Jae-wan,2011-06-02,2013-02-24,이명박,Conservative,False,,,,True,2012-01-06,비겸직 (17대 비례의원이었으나 18대에는 의원직 없음; 기획재정부 장관으로 임명 시 관료 신분); start corrected
+지식경제부,홍석우,Hong Seok-u,2012-03-01,2013-02-24,이명박,Conservative,False,,,,True,2012-03-01,비겸직 (기업인 출신); date approx
+고용노동부,이채필,Lee Chae-pil,2012-03-01,2013-02-24,이명박,Conservative,False,,,,True,2012-03-01,비겸직 (관료 출신); date approx
+보건복지부,임채민,Im Chae-min,2012-09-01,2013-02-24,이명박,Conservative,False,,,,True,2012-09-01,비겸직 (관료 출신); date approx
+농림수산식품부,서규용,Seo Gyu-yong,2012-10-01,2013-02-24,이명박,Conservative,False,,,,True,2012-10-01,비겸직 (관료 출신); date approx
+국방부,김관진,Kim Gwan-jin,2013-02-25,2014-07-03,박근혜,Conservative,False,,,,True,2013-02-25,비겸직 (군인 출신; 이명박 정부에서 유임); date approx
+국무총리,정홍원,Jeong Hong-won,2013-02-26,2015-02-16,박근혜,Conservative,False,,,,True,2013-02-26,비겸직
+교육부,서남수,Seo Nam-su,2013-03-11,2014-07-16,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (교육학자)
+기획재정부,현오석,Hyun Oh-seok,2013-03-11,2014-07-16,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (KDI 원장 출신)
+안전행정부,유정복,Yu Jeong-bok,2013-03-13,2014-03-06,박근혜,Conservative,True,새누리당,경기 김포시,19.0,True,2013-03-11,겸직 장관 (19대 의원 경기 김포시); start/end/district corrected; 인천 계양구는 오류
+보건복지부,진영,Jin Yeong,2013-03-11,2013-09-10,박근혜,Conservative,True,새누리당,서울 용산구,19.0,True,2013-03-11,겸직 장관 (19대); 후 문재인 정부 행안부 장관 (별도 row 있음); date approx
+여성가족부,조윤선,Jo Yun-seon,2013-03-11,2014-07-03,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (18대 한나라당 비례의원 2008-2012; 19대 종로구 공천 실패; 임명 당시 현직 의원 아님)
+외교부,윤병세,Yun Byeong-se,2013-03-11,2017-03-10,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (외교관 출신)
+통일부,류길재,Ryu Gil-jae,2013-03-11,2014-07-03,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (교수 출신); date approx
+법무부,황교안,Hwang Gyo-ahn,2013-03-11,2015-02-16,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (검사 출신); 후 국무총리 별도 row
+문화체육관광부,유진룡,Yu Jin-ryong,2013-03-11,2014-07-03,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (관료 출신); date approx
+농림축산식품부,이동필,Lee Dong-pil,2013-03-11,2016-01-13,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (관료 출신); date approx
+산업통상자원부,윤상직,Yun Sang-jik,2013-03-11,2016-01-13,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (관료 출신); date approx
+환경부,윤성규,Yun Seong-gyu,2013-03-11,2016-09-09,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (관료 출신); date approx
+고용노동부,방하남,Bang Ha-nam,2013-03-11,2014-07-03,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (교수 출신); date approx
+국토교통부,서승환,Seo Seung-hwan,2013-03-11,2014-07-16,박근혜,Conservative,False,,,,True,2013-03-11,비겸직 (교수 출신); date approx
+해양수산부,이주영,Lee Ju-yeong,2014-03-06,2015-03-16,박근혜,Conservative,True,새누리당,경남 창원시 마산합포구,19.0,True,2014-03-04,겸직 장관 (19대 의원 경남 창원시 마산합포구); 인사청문: 2014-03-04 (채택); start MAJOR CORRECTION 2013-03-22→2014-03-06 (윤진숙 후임); 출처: 나무위키 인사청문회 5.4절
+미래창조과학부,최문기,Choe Mun-gi,2013-03-22,2014-07-03,박근혜,Conservative,False,,,,True,2013-03-22,"비겸직 (교수 출신, KAIST); date approx"
+해양수산부,윤진숙,Yun Jin-suk,2013-03-22,2013-10-28,박근혜,Conservative,False,,,,True,2013-03-22,비겸직 (관료 출신); date approx
+보건복지부,문형표,Mun Hyeong-pyo,2013-09-10,2015-02-17,박근혜,Conservative,False,,,,True,2013-09-10,비겸직 (교수 출신); date approx
+여성가족부,김희정,Kim Hui-jeong,2014-07-16,2015-03-12,박근혜,Conservative,True,새누리당,부산 연제구,19.0,True,2014-07-03,겸직 장관 (19대 의원 부산 연제구 지역구); district CORRECTION 비례대표→부산 연제구; start corrected 2014-07-03→2014-07-16
+미래창조과학부,최양희,Choe Yang-hee,2014-07-03,2017-03-10,박근혜,Conservative,False,,,,True,2014-07-03,"비겸직 (교수 출신, 서울대); date approx"
+국방부,한민구,Han Min-gu,2014-07-03,2017-03-10,박근혜,Conservative,False,,,,True,2014-07-03,비겸직 (군인 출신); date approx
+행정자치부,강병규,Kang Byeong-gyu,2014-07-03,2014-11-19,박근혜,Conservative,False,,,,True,2014-07-03,비겸직 (관료 출신); date approx
+문화체육관광부,김종덕,Kim Jong-deok,2014-07-03,2015-12-01,박근혜,Conservative,False,,,,True,2014-07-03,비겸직 (교수 출신); date approx
+고용노동부,이기권,Lee Gi-gweon,2014-07-03,2017-03-10,박근혜,Conservative,False,,,,True,2014-07-03,비겸직 (관료 출신); date approx
+교육부,황우여,Hwang Woo-yea,2014-08-08,2016-01-13,박근혜,Conservative,True,새누리당,인천 연수구,19.0,True,2014-07-16,겸직 장관 (19대 의원 인천 연수구); start corrected 2014-07-16→2014-08-08 (취임식일)
+기획재정부,최경환,Choi Kyung-hwan,2014-07-16,2016-01-13,박근혜,Conservative,True,새누리당,경북 경산시·청도군,19.0,True,2014-07-16,겸직 경제부총리 겸 기재부장관 (19대)
+국토교통부,유일호,Yu Il-ho,2015-03-16,2016-01-13,박근혜,Conservative,True,새누리당,서울 송파구 을,19.0,True,2014-07-16,"겸직 장관 (19대 의원 서울 송파구 을); start MAJOR CORRECTION 2014-07-16→2015-03-16 (서승환 후임, 서승환은 2013-03-11~2015-03-13); dual_office FALSE NEGATIVE 수정 (TRUE); end→2016-01-13 (기재부 이동)"
+행정자치부,정종섭,Jeong Jong-seop,2014-11-19,2016-01-13,박근혜,Conservative,False,,,,True,2014-11-19,"비겸직 (교수 출신, 서울대); date approx"
+국민안전처,박인용,Park In-yong,2014-11-19,2017-03-10,박근혜,Conservative,False,,,,True,2014-11-19,"비겸직 (군인 출신, 해병대); date approx"
+해양수산부,유기준,Yu Gi-jun,2015-03-16,2015-11-11,박근혜,Conservative,True,새누리당,부산 서구,19.0,True,2014-12-24,겸직 장관 (19대 의원 부산 서구); start MAJOR CORRECTION 2014-12-24→2015-03-16; end updated 2015-09-24→2015-11-11
+국무총리,이완구,Lee Wan-koo,2015-02-17,2015-04-27,박근혜,Conservative,True,새누리당,충남 부여군·청양군,19.0,True,2015-02-16,겸직 장관 (19대 의원 충남 부여·청양); start corrected 2015-02-16→2015-02-17
+통일부,홍용표,Hong Yong-pyo,2015-02-17,2017-03-10,박근혜,Conservative,False,,,,True,2015-02-17,비겸직 (교수 출신); date approx
+법무부,김현웅,Kim Hyeon-ung,2015-02-17,2017-03-10,박근혜,Conservative,False,,,,True,2015-02-17,비겸직 (검사 출신); date approx
+보건복지부,정진엽,Jeong Jin-yeop,2015-02-17,2017-03-10,박근혜,Conservative,False,,,,True,2015-02-17,비겸직 (의사 출신); date approx
+여성가족부,강은희,Kang Eun-hee,2016-01-13,2016-08-18,박근혜,Conservative,True,새누리당,비례대표,19.0,True,2016-01-07,겸직 장관 (19대 비례의원); 인사청문: 2016-01-07 (채택); start MAJOR CORRECTION 2015-03-12→2016-01-13 (취임식일 확인); 출처: 나무위키 인사청문회 5.4절
+국무총리,황교안,Hwang Kyo-ahn,2015-06-18,2017-05-31,박근혜,Conservative,False,,,,True,2015-06-18,비겸직 (법무부장관 출신)
+해양수산부,김영석,Kim Yeong-seok,2015-09-24,2017-03-10,박근혜,Conservative,False,,,,True,2015-09-24,비겸직 (관료 출신); date approx
+문화체육관광부,조윤선,Jo Yun-seon,2016-09-05,2017-01-20,박근혜,Conservative,False,,,,True,2015-12-01,비겸직 (임명일 2016-09-05 당시 19대 임기 만료 2016-05-29 이후; 비의원 신분; start MAJOR CORRECTION 2015-12-01→2016-09-05)
+행정자치부,홍윤식,Hong Yun-sik,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
+농림축산식품부,김재수,Kim Jae-su,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
+산업통상자원부,주형환,Ju Hyeong-hwan,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
+국토교통부,강호인,Kang Ho-in,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
+기획재정부,유일호,Yu Il-ho,2016-01-13,2017-03-10,박근혜,Conservative,True,새누리당,서울 송파구 을,19.0,True,2016-01-13,겸직 장관 (19대 의원 서울 송파구 을; 19대 임기 2012-05-30~2016-05-29); dual_office FALSE NEGATIVE 수정 (TRUE); 2016-01-13 임명 당시 현직 19대 의원 신분
+환경부,조경규,Jo Gyeong-gyu,2016-09-09,2017-03-10,박근혜,Conservative,False,,,,True,2016-09-09,비겸직 (관료 출신); date approx
+국무총리,이낙연,Lee Nak-yon,2017-05-31,2020-01-14,문재인,Progressive,False,,,,True,2017-05-31,비겸직 (임명 당시 전남도지사 재직 중; 20대 국회의원 아님; 19대 의원 전력 있음)
+기획재정부,김동연,Kim Dong-yeon,2017-06-09,2018-12-07,문재인,Progressive,False,,,,True,2017-06-09,"비겸직 (관료 출신, 한국개발연구원장)"
+행정안전부,김부겸,Kim Bu-kyum,2017-06-16,2019-03-08,문재인,Progressive,True,더불어민주당,대구 수성구 갑,20.0,True,2017-06-14,겸직 장관 (20대 의원 대구 수성구 갑); start corrected 2017-06-14→2017-06-16
+해양수산부,김영춘,Kim Yeong-chun,2017-06-16,2019-05-09,문재인,Progressive,True,더불어민주당,부산 진구 갑,20.0,True,2017-06-14,겸직 장관 (20대 의원 부산 진구 갑); start corrected 2017-06-14→2017-06-16
+문화체육관광부,도종환,Do Jong-hwan,2017-06-16,2019-05-09,문재인,Progressive,True,더불어민주당,충북 청주시 흥덕구,20.0,True,2017-06-14,겸직 장관 (20대 의원 충북 청주시 흥덕구); start corrected 2017-06-14→2017-06-16
+농림축산식품부,김영록,Kim Yeong-rok,2017-07-03,2018-04-27,문재인,Progressive,False,,,,True,2017-06-14,비겸직 (19대 의원 임기 만료 후 20대 미출마; 농림부 장관 임명 2017-07-03 당시 현직 의원 아님)
+고용노동부,김영주,Kim Yeong-ju,2017-08-14,2018-11-08,문재인,Progressive,True,더불어민주당,서울 영등포구 갑,20.0,True,2017-06-14,겸직 장관 (20대 의원 서울 영등포구 갑); start corrected 2017-06-14→2017-08-14; district 을→갑
+외교부,강경화,Kang Kyung-wha,2017-06-17,2021-02-08,문재인,Progressive,False,,,,True,2017-06-17,비겸직 (외교관 출신)
+국토교통부,김현미,Kim Hyeon-mi,2017-06-21,2021-01-20,문재인,Progressive,True,더불어민주당,경기 고양시 정,20.0,True,2017-07-03,겸직 장관 (20대 의원 경기 고양시 정); start corrected 2017-07-03→2017-06-21; district 일산서구→고양시 정
+교육부,김상곤,Kim Sang-gon,2017-07-03,2018-10-02,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (교육감 출신)
+과학기술정보통신부,유영민,Yu Yeong-min,2017-07-03,2020-01-14,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (기업인 출신)
+통일부,조명균,Jo Myeong-gyun,2017-07-03,2019-04-08,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (관료 출신); agent confirmed NOT 겸직
+국방부,송영무,Song Yeong-mu,2017-07-03,2019-01-14,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (군인 출신)
+산업통상자원부,백운규,Baek Un-gyu,2017-07-03,2019-03-08,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (교수 출신)
+보건복지부,박능후,Park Neung-hu,2017-07-03,2021-01-20,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (교수 출신)
+환경부,김은경,Kim Eun-gyeong,2017-07-03,2019-01-14,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (환경운동가 출신)
+여성가족부,정현백,Jeong Hyeon-baek,2017-07-03,2018-09-06,문재인,Progressive,False,,,,True,2017-07-03,비겸직 (교수 출신)
+법무부,박상기,Park Sang-ki,2017-07-17,2019-09-09,문재인,Progressive,False,,,,True,2017-07-17,비겸직 (법학교수)
+중소벤처기업부,홍종학,Hong Jong-hak,2017-11-17,2019-04-08,문재인,Progressive,False,,,,True,2017-11-17,"비겸직 (19대 비례 후 의원직 사임, 교수 출신)"
+농림축산식품부,이개호,Lee Gae-ho,2018-08-09,2019-04-08,문재인,Progressive,True,더불어민주당,전남 담양·함평·영광·장성,20.0,True,2018-04-27,겸직 장관 (20대 의원 전남 담양·함평·영광·장성); start corrected 2018-04-27→2018-08-09
+여성가족부,진선미,Jin Seon-mi,2018-09-21,2019-04-05,문재인,Progressive,True,더불어민주당,서울 강동구 갑,20.0,True,2018-09-06,겸직 장관 (20대 의원 서울 강동구 갑); start corrected 2018-09-06→2018-09-21; district 을→갑
+해양수산부,문성혁,Mun Seong-hyeok,2018-09-21,2022-05-09,문재인,Progressive,False,,,,True,2018-09-21,비겸직 (교수 출신)
+교육부,유은혜,Yu Eun-hye,2018-10-02,2022-02-14,문재인,Progressive,True,더불어민주당,경기 고양시 병,20.0,True,2018-10-02,겸직 사회부총리 겸 교육부장관 (20대) - 20대 종료 후에도 계속 재직
+고용노동부,이재갑,Lee Jae-gap,2018-11-08,2021-01-20,문재인,Progressive,False,,,,True,2018-11-08,비겸직 (관료 출신)
+기획재정부,홍남기,Hong Nam-gi,2018-12-07,2022-05-09,문재인,Progressive,False,,,,True,2018-12-07,비겸직 (관료 출신)
+국방부,정경두,Jeong Gyeong-du,2019-01-14,2020-09-18,문재인,Progressive,False,,,,True,2019-01-14,비겸직 (군인 출신)
+환경부,조명래,Jo Myeong-rae,2019-01-14,2021-01-20,문재인,Progressive,False,,,,True,2019-01-14,비겸직 (교수 출신)
+산업통상자원부,성윤모,Seong Yun-mo,2019-03-08,2021-02-19,문재인,Progressive,False,,,,True,2019-03-08,비겸직 (관료 출신)
+여성가족부,이정옥,Lee Jeong-ok,2019-04-05,2020-12-29,문재인,Progressive,False,,,,True,2019-04-05,비겸직 (교수 출신)
+중소벤처기업부,박영선,Park Yeong-seon,2019-04-08,2021-04-07,문재인,Progressive,True,더불어민주당,서울 구로구 을,20.0,True,2019-04-08,겸직 장관 (20대 4선)
+행정안전부,진영,Jin Yeong,2019-04-08,2020-12-28,문재인,Progressive,True,더불어민주당,서울 용산구,20.0,True,2019-04-08,겸직 장관 (20대 4선)
+통일부,김연철,Kim Yeon-cheol,2019-04-08,2020-07-27,문재인,Progressive,False,,,,True,2019-04-08,비겸직 (교수 출신)
+문화체육관광부,박양우,Park Yang-u,2019-04-08,2020-12-29,문재인,Progressive,False,,,,True,2019-04-08,비겸직 (관료 출신)
+농림축산식품부,김현수,Kim Hyeon-su,2019-04-08,2022-05-09,문재인,Progressive,False,,,,True,2019-04-08,비겸직 (관료 출신)
+과학기술정보통신부,최기영,Choe Gi-yeong,2019-08-09,2021-05-14,문재인,Progressive,False,,,,True,2019-08-09,비겸직 (교수 출신)
+법무부,조국,Cho Guk,2019-09-09,2019-10-14,문재인,Progressive,False,,,,True,2019-09-09,비겸직 (법학교수 출신) - 35일 재임
+법무부,추미애,Choo Mi-ae,2020-01-02,2021-01-20,문재인,Progressive,True,더불어민주당,서울 광진구 을,20.0,True,2020-01-02,겸직 장관? (20대 의원 임기 2020-05까지) - 임명 시점 요확인
+국무총리,정세균,Jeong Se-gyun,2020-01-14,2021-04-16,문재인,Progressive,True,더불어민주당,서울 종로구,20.0,True,2020-01-14,겸직 총리 (20대 국회의장 역임) - 임기 중 20대 종료 (2020-05)
+통일부,이인영,Lee In-yeong,2020-07-27,2021-11-03,문재인,Progressive,True,더불어민주당,서울 구로구 갑,21.0,True,2020-07-27,겸직 장관 (21대)
+국방부,서욱,Seo Wook,2020-09-18,2022-05-09,문재인,Progressive,False,,,,True,2020-09-18,비겸직 (군인 출신)
+문화체육관광부,황희,Hwang Hee,2021-02-11,2022-05-09,문재인,Progressive,True,더불어민주당,서울 양천구 갑,21.0,True,2020-12-29,겸직 장관 (21대 의원 서울 양천구 갑); start corrected 2020-12-29→2021-02-11; district MAJOR CORRECTION 경기 김포시 을→서울 양천구 갑
+국토교통부,변창흠,Byeon Chang-heum,2020-12-29,2021-04-16,문재인,Progressive,False,,,,True,2020-12-29,비겸직 (교수 출신)
+행정안전부,전해철,Jeon Hae-cheol,2020-12-24,2022-05-10,문재인,Progressive,True,더불어민주당,경기 안산시 상록구 갑,21.0,True,2021-01-20,겸직 장관 (21대 의원 경기 안산시 상록구 갑); start corrected 2021-01-20→2020-12-24
+환경부,한정애,Han Jeong-ae,2021-01-22,2022-05-09,문재인,Progressive,True,더불어민주당,서울 강서구 병,21.0,True,2021-01-20,겸직 장관 (21대 의원 서울 강서구 병); start corrected 2021-01-20→2021-01-22; district 갑→병
+법무부,박범계,Park Beom-gye,2021-01-28,2022-05-10,문재인,Progressive,True,더불어민주당,대전 서구 을,21.0,True,2021-01-20,겸직 장관 (21대 의원 대전 서구 을); start corrected 2021-01-20→2021-01-28
+보건복지부,권덕철,Gwon Deok-cheol,2021-01-20,2022-05-09,문재인,Progressive,False,,,,True,2021-01-20,비겸직 (관료 출신)
+고용노동부,안경덕,Ahn Gyeong-deok,2021-01-20,2022-05-09,문재인,Progressive,False,,,,True,2021-01-20,비겸직 (관료 출신)
+여성가족부,정영애,Jeong Yeong-ae,2021-01-20,2022-05-09,문재인,Progressive,False,,,,True,2021-01-20,비겸직 (활동가 출신)
+외교부,정의용,Jeong Ui-yong,2021-02-09,2022-05-09,문재인,Progressive,False,,,,True,2021-02-09,비겸직 (외교관 출신)
+산업통상자원부,문승욱,Mun Seung-uk,2021-02-19,2022-05-09,문재인,Progressive,False,,,,True,2021-02-19,비겸직 (관료 출신)
+중소벤처기업부,권칠승,Gwon Chil-seung,2021-02-05,2022-05-09,문재인,Progressive,True,더불어민주당,경기 화성시 병,21.0,True,2021-02-03,겸직 장관 (21대 의원 경기 화성시 병); 인사청문: 2021-02-03 (채택); 출처: 나무위키 인사청문회 5.5절
+국토교통부,노형욱,No Hyeong-uk,2021-04-16,2022-05-09,문재인,Progressive,False,,,,True,2021-04-16,비겸직 (관료 출신)
+국무총리,김부겸,Kim Bu-kyum,2021-05-14,2022-05-20,문재인,Progressive,False,,,,True,2021-05-14,비겸직 총리 (21대 총선 낙선)
+과학기술정보통신부,임혜숙,Im Hye-suk,2021-05-14,2022-05-09,문재인,Progressive,False,,,,True,2021-05-14,비겸직 (이화여자대학교 교수 출신; 21대 비례의원 아님; 의원 경력 없음)
+국토교통부,원희룡,Won Hee-ryong,2022-05-13,2023-12-25,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (임명 당시 제주특별자치도지사 재직 중; 21대 의원 아님; 20대 총선 인천 남동구 갑 낙선; 이전 의원직은 16~18대 서울 양천구 갑/관악구 을)
+중소벤처기업부,이영,Lee Yeong,2022-05-13,2023-12-28,윤석열,Conservative,True,국민의힘,비례대표,21.0,True,2022-05-10,"겸직 장관 (21대 미래한국당 비례의원; 임명 2022-05-13, 의원직 사퇴 2022-05-20); district CORRECTION 대전 중구→비례대표; start corrected 2022-05-10→2022-05-13"
+과학기술정보통신부,이종호,Lee Jong-ho,2022-05-10,2024-08-01,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (교수 출신)
+문화체육관광부,박보균,Park Bo-gyun,2022-05-10,2023-09-22,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (18대 의원이었으나 21대/22대 아님; 언론인 출신)
+농림축산식품부,정황근,Jeong Hwang-geun,2022-05-10,2023-01-10,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (20대 비례의원이었으나 21대 아님; 농업전문가); date approx
+산업통상자원부,이창양,Lee Chang-yang,2022-05-10,2023-10-01,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (교수 출신)
+보건복지부,조규홍,Jo Gyu-hong,2022-05-10,2025-06-03,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (관료 출신)
+환경부,한화진,Han Hwa-jin,2022-05-10,2024-08-01,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (교수 출신)
+고용노동부,이정식,Lee Jeong-sik,2022-05-10,2024-07-01,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (관료 출신)
+여성가족부,김현숙,Kim Hyeon-suk,2022-05-10,2025-06-03,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (20대 비례의원이었으나 21대 아님); date approx
+해양수산부,조승환,Jo Seung-hwan,2022-05-10,2023-12-29,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (관료 출신)
+국무총리,한덕수,Han Duck-soo,2022-05-21,2024-12-27,윤석열,Conservative,False,,,,True,2022-05-21,비겸직 (재임)
+통일부,권영세,Kwon Yeong-se,2022-05-16,2023-07-28,윤석열,Conservative,True,국민의힘,서울 용산구,21.0,True,2022-05-21,겸직 장관 (21대 의원 서울 용산구); start corrected 2022-05-21→2022-05-16; end MAJOR CORRECTION 2023-12-21→2023-07-28 (후임 김영호 취임)
+기획재정부,추경호,Chu Gyeong-ho,2022-05-10,2023-12-29,윤석열,Conservative,True,국민의힘,대구 달성군,21.0,True,2022-05-21,겸직 장관 (21대 의원 대구 달성군); start corrected 2022-05-21→2022-05-10 (윤석열 취임일 동시 임명); end corrected 2023-12-28→2023-12-29 (후임 최상목 임명)
+외교부,박진,Park Jin,2022-05-12,2024-01-10,윤석열,Conservative,True,국민의힘,서울 강남구 을,21.0,True,2022-05-21,겸직 장관 (21대 의원 서울 강남구 을); start corrected 2022-05-21→2022-05-12 (임명재가); end corrected 2024-01-12→2024-01-10 (후임 조태열 임명)
+행정안전부,이상민,Lee Sang-min,2022-05-21,2023-02-07,윤석열,Conservative,False,,,,True,2022-05-21,비겸직
+교육부,박순애,Park Sun-ae,2022-07-29,2022-08-09,윤석열,Conservative,False,,,,True,2022-07-29,비겸직 (교수 출신); 단기 재임
+교육부,이주호,Lee Ju-ho,2022-11-09,2025-06-03,윤석열,Conservative,False,,,,True,2022-11-09,비겸직 (18대 의원이었으나 21대/22대 아님; 교수 출신); date approx
+국가보훈부,박민식,Park Min-sik,2023-06-05,2023-12-28,윤석열,Conservative,False,,,,True,2023-06-01,비겸직 (21대 총선 부산 북구강서구 갑 낙선; 임명 당시 현직 의원 아님; 국가보훈처장 2022-05-13→부 승격 2023-06-05; end approx 강정애 후임)
+국가보훈부,강정애,Kang Jeong-ae,2023-09-01,2025-06-03,윤석열,Conservative,False,,,,True,2023-09-01,비겸직; date approx
+국방부,신원식,Sin Won-sik,2023-10-07,2024-11-22,윤석열,Conservative,True,국민의힘,비례대표,21.0,True,2023-10-07,겸직 장관 (21대 미래한국당→국민의힘 비례의원 8번; 임명 2023-10-07 재가; 의원직 사퇴 2023-10-31; start CORRECTED 2023-09-22→2023-10-07; 2023-09-13 지명; 2023-09-22는 오류; dual_office FALSE NEGATIVE 수정)
+문화체육관광부,유인촌,Yu In-chon,2023-10-07,2025-06-03,윤석열,Conservative,False,,,,True,2023-09-22,비겸직 (연예인/전직 장관 출신; 국회의원 아님); start CORRECTION 2023-09-22→2023-10-07 (실제 임명일; 신원식 동일일자)
+산업통상자원부,방문규,Bang Mun-gyu,2023-10-01,2024-08-01,윤석열,Conservative,False,,,,True,2023-10-01,비겸직 (관료 출신); date approx
+해양수산부,강도형,Kang Do-hyeong,2023-12-29,2025-06-03,윤석열,Conservative,False,,,,True,2023-12-29,비겸직; date approx
+법무부,박성재,Park Seong-jae,2024-01-22,2025-06-03,윤석열,Conservative,False,,,,True,2024-01-22,비겸직 (검사 출신); date approx
+산업통상자원부,안덕근,Ahn Deok-geun,2024-01-22,2025-06-03,윤석열,Conservative,False,,,,True,2024-01-22,비겸직 (교수/관료 출신); date approx
+고용노동부,김문수,Kim Moon-su,2024-07-01,2025-06-03,윤석열,Conservative,False,,,,True,2024-07-01,비겸직 (15·16대 의원이었으나 22대 아님; 경기도지사 출신); date approx
+과학기술정보통신부,유상임,Yu Sang-im,2024-08-01,2025-06-03,윤석열,Conservative,False,,,,True,2024-08-01,비겸직 (교수 출신); date approx
+환경부,김완섭,Kim Wan-seop,2024-08-01,2025-06-03,윤석열,Conservative,False,,,,True,2024-08-01,비겸직 (관료 출신); date approx
+국방부,김용현,Kim Yong-hyeon,2024-11-22,2024-12-06,윤석열,Conservative,False,,,,True,2024-11-22,비겸직 (군인 출신); 12.3 계엄 관련 구속
+농림축산식품부,송미령,Song Mi-ryeong,2025-06-04,,이재명,Progressive,False,,,,False,,비겸직; 윤석열 정부에서 유임
+국무총리,김민석,Kim Min-seok,2025-07-03,,이재명,Progressive,True,더불어민주당,서울 영등포구 을,22.0,True,2025-06-24,겸직 총리 (22대 의원 서울 영등포구 을 4선); 인사청문: 2025-06-24~25 (미채택 후 가결); district MAJOR CORRECTION 인천 계양구 을→서울 영등포구 을 (이재명의 전 지역구와 혼동); confirmation_date CORRECTION 2025-07-03→2025-06-24; 출처: 나무위키 인사청문회 5.7절
+법무부,정성호,Jeong Seong-ho,2025-07-18,,이재명,Progressive,True,더불어민주당,경기 동두천시·양주시·연천군 갑,22.0,True,2025-07-16,겸직 장관 (22대 의원 경기 동두천시·양주시·연천군 갑 5선); district corrected 경기 양주시→동두천시·양주시·연천군 갑; 인사청문: 2025-07-16 (채택); confirmation_date CORRECTION 2025-07-18→2025-07-16; 출처: 나무위키 인사청문회 5.7절
+외교부,조현,Jo Hyeon,2025-07-18,,이재명,Progressive,False,,,,True,2025-07-17,비겸직 (외교관 출신; 국회의원 아님); 인사청문: 2025-07-17 (채택); confirmation_date CORRECTION 2025-07-18→2025-07-17; 출처: 나무위키 인사청문회 5.7절
+행정안전부,윤호중,Yun Ho-jung,2025-07-19,,이재명,Progressive,True,더불어민주당,경기 구리시,22.0,True,2025-07-18,겸직 장관 (22대 의원 경기 구리시 5선); 인사청문: 2025-07-18 (채택); confirmation_date CORRECTION 2025-07-19→2025-07-18; 출처: 나무위키 인사청문회 5.7절
+보건복지부,정은경,Jeong Eun-gyeong,2025-07-21,,이재명,Progressive,False,,,,True,2025-07-18,비겸직 (질병관리청장 출신; 국회의원 아님); 인사청문: 2025-07-18 (채택); confirmation_date CORRECTION 2025-07-21→2025-07-18; 출처: 나무위키 인사청문회 5.7절
+고용노동부,김영훈,Kim Yeong-hun,2025-07-21,,이재명,Progressive,False,,,,True,2025-07-16,비겸직 (노동계 출신; 국회의원 아님); 인사청문: 2025-07-16 (채택); confirmation_date CORRECTION 2025-07-21→2025-07-16; 출처: 나무위키 인사청문회 5.7절
+중소벤처기업부,한성숙,Han Seong-suk,2025-07-23,,이재명,Progressive,False,,,,True,2025-07-15,비겸직 (네이버 CEO 출신; 국회의원 아님); 인사청문: 2025-07-15 (채택); confirmation_date CORRECTION 2025-07-23→2025-07-15; 출처: 나무위키 인사청문회 5.7절
+통일부,정동영,Jeong Dong-yeong,2025-07-25,,이재명,Progressive,True,더불어민주당,전북 전주시 병,22.0,True,2025-07-14,겸직 장관 (22대 의원 전북 전주시 병 5선; 22대 선거구 개편으로 완산구→전주시 병); district corrected 완산구 갑→전주시 병; 인사청문: 2025-07-14 (미채택 후 임명); confirmation_date CORRECTION 2025-07-25→2025-07-14; 출처: 나무위키 인사청문회 5.7절
+국방부,안규백,Ahn Gyu-baek,2025-07-25,,이재명,Progressive,True,더불어민주당,서울 동대문구 갑,22.0,True,2025-07-15,겸직 장관 (22대 의원 서울 동대문구 갑 5선); 인사청문: 2025-07-15 (미채택 후 임명); confirmation_date CORRECTION 2025-07-25→2025-07-15; 출처: 나무위키 인사청문회 5.7절
+국가보훈부,권오을,Gwon O-eul,2025-07-25,,이재명,Progressive,False,,,,True,2025-07-15,비겸직 (국회의원 아님); 인사청문: 2025-07-15 (미채택 후 임명); confirmation_date CORRECTION 2025-07-25→2025-07-15; 출처: 나무위키 인사청문회 5.7절
+국토교통부,김윤덕,Kim Yun-deok,2025-07-31,,이재명,Progressive,True,더불어민주당,전북 전주시 갑,22.0,True,2025-07-29,겸직 장관 (22대 의원 전북 전주시 갑 3선); district corrected 완산구 을→전주시 갑 (22대 선거구 개편); 인사청문: 2025-07-29 (채택); confirmation_date CORRECTION 2025-07-31→2025-07-29; 출처: 나무위키 인사청문회 5.7절
+문화체육관광부,최휘영,Choi Hwi-yeong,2025-07-31,,이재명,Progressive,False,,,,True,2025-07-29,비겸직 (국회의원 아님); 인사청문: 2025-07-29 (채택); confirmation_date CORRECTION 2025-07-31→2025-07-29; 출처: 나무위키 인사청문회 5.7절
+기후에너지환경부,김성환,Kim Seong-hwan,2025-10-01,,이재명,Progressive,True,더불어민주당,서울 노원구 을,22.0,True,2025-07-15,겸직 장관 (22대 의원 서울 노원구 을 3선); 2025년 7월 환경부장관 인사청문 2025-07-15 (채택) 후 임명; 2025-10-01 기후에너지환경부 출범으로 직함 변경; confirmation_date CORRECTION 2025-10-01→2025-07-15 (환경부장관 청문일; 기후에너지환경부 출범일 아님); 출처: 나무위키 인사청문회 5.7절
+해양수산부,전재수,Jeon Jae-su,2025-07-24,2025-12-11,이재명,Progressive,True,더불어민주당,부산 북구 갑,22.0,True,2025-07-14,겸직 장관 (22대 의원 부산 북구 갑 3선; 21대는 북구·강서구 갑이었으나 22대 선거구 개편으로 강서구 분리); mp_district CORRECTION 부산 북구·강서구 갑→부산 북구 갑; 인사청문: 2025-07-14 (채택); 출처: 나무위키 인사청문회 5.7절
+과학기술정보통신부,배경훈,Bae Gyeong-hun,2025-10-01,,이재명,Progressive,False,,,,True,2025-07-14,비겸직 (국회의원 아님); 인사청문: 2025-07-14 (채택); confirmation_date CORRECTION 2025-10-01→2025-07-14; 출처: 나무위키 인사청문회 5.7절
+교육부,최교진,Choi Gyo-jin,2025-10-01,,이재명,Progressive,False,,,,True,2025-09-02,비겸직 (교육감 출신; 국회의원 아님); 2차 교육부장관 후보 (1차 이진숙 2025-07-16 미채택 철회 후 재지명); 인사청문: 2025-09-02 (채택); confirmation_date CORRECTION 2025-10-01→2025-09-02; 출처: 나무위키 인사청문회 5.7절
+산업통상자원부,김정관,Kim Jeong-gwan,2025-10-01,,이재명,Progressive,False,,,,True,2025-07-17,비겸직 (국회의원 아님); 인사청문: 2025-07-17 (채택); confirmation_date CORRECTION 2025-10-01→2025-07-17; 출처: 나무위키 인사청문회 5.7절
+성평등가족부,원민경,Won Min-gyeong,2025-10-01,,이재명,Progressive,False,,,,True,2025-09-03,비겸직 (국회의원 아님); 2차 성평등가족부장관 후보 (1차 강선우 2025-07-14 미채택 사퇴 후 재지명); 인사청문: 2025-09-03 (채택); confirmation_date CORRECTION 2025-10-01→2025-09-03; 출처: 나무위키 인사청문회 5.7절
+기획재정부,구윤철,Gu Yun-cheol,2026-01-02,,이재명,Progressive,False,,,,True,2025-07-17,비겸직 (국회의원 아님); 기획재정부장관 인사청문: 2025-07-17 (채택); start=2026-01-02은 기획예산처 신설에 따른 부처 재편 후 기획재정부장관 재임 시작일로 추정; confirmation_date CORRECTION 2026-01-02→2025-07-17; 출처: 나무위키 인사청문회 5.7절
+국무총리,한덕수,Han Duck-soo,2025-03-24,,한덕수,Conservative,False,,,,True,2025-03-24,권한대행 경유 재임명
+여성가족부,강선우,Kang Seon-woo,,,이재명,Progressive,True,더불어민주당,서울 강서구갑,22.0,True,2025-07-14,청문회 후 자진사퇴 (미임명); 22대 서울 강서구갑 민주당
+교육부,이진숙,Lee Jin-sook,,,이재명,Progressive,False,,,,True,2025-07-16,지명 철회 (미임명); 충남대 총장 출신
