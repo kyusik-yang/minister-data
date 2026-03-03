@@ -211,9 +211,9 @@ pip install pandas requests openpyxl beautifulsoup4
 
 This dataset was constructed for:
 
-> Yang, Kyusik. "Dual Office, Divided Loyalty? Executive-Legislative Personnel Overlap and Parliamentary Oversight in South Korea." Under review, *Comparative Political Studies*.
+> Yang, Kyusik. "Dual Office, Divided Loyalty? Executive-Legislative Personnel Overlap and Parliamentary Oversight in South Korea." Working paper.
 
-Please cite the paper if you use this dataset (citation will be updated upon publication).
+Citation will be updated upon publication.
 
 ---
 
