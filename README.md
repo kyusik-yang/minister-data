@@ -58,6 +58,99 @@ A sample of rows from `minister_panel_comprehensive.csv` (✓ = True):
 
 ---
 
+## Parliamentary Q&A Analysis (Primary Use Case)
+
+The minister panel was built to enable linkage with parliamentary transcript data. South Korea's [LOSI](https://likms.assembly.go.kr/) (국회의사록정보시스템) provides full-text transcripts of every committee hearing and national audit (국정감사) session since the 17th Assembly (2004). Parsed into **question-answer dyads** -- one row per legislator-minister exchange -- these transcripts allow systematic study of legislative oversight.
+
+**The key question:** once you know which ministers held a legislative seat, you can ask whether that co-partisan tie distorts how legislators question the minister -- and whether the effect differs by hearing type.
+
+### Dyad schema
+
+A dyad dataset built from LOSI transcripts looks like this (`data/sample_dyads.csv`):
+
+| dyad_id | date | ministry | admin | dual_office | hearing_type | q_speaker | q_word_count | q_text |
+|---------|------|----------|-------|-------------|-------------|-----------|-------------|--------|
+| LOSI_HEA_34092_유시민_0013 | 2006-02-08 | 보건복지부 | 노무현 | True | HEARING | 고경화 위원 | 6 | 그 조항이 위법이라는 건가요, 잘못된 건가요? |
+| LOSI_HEA_34088_김우식_0012 | 2006-02-07 | 과학기술부 | 노무현 | False | HEARING | 서상기 위원 | 10 | 후보자가 과기부 장관 하기에 충분히 역량이 있다... |
+| LOSI_AUD_38669_전재희_0163 | 2009-10-23 | 보건복지부 | 이명박 | True | AUDIT | 이애주 위원 | 8 | 장관님, 해당 예산 집행에 대한 근거가 뭡니까? |
+| LOSI_AUD_49535_박영선_0089 | 2019-10-21 | 중소벤처기업부 | 문재인 | True | AUDIT | 이훈 위원 | 20 | 소상공인 지원예산이 전년 대비 30% 늘었는데... |
+| LOSI_HEA_48360_진선미_0442 | 2018-09-20 | 여성가족부 | 문재인 | True | HEARING | 전희경 위원 | 7 | 지금 여가부 장관으로서 본인의 역할이 뭐라고 생각하십니까? |
+
+**Hearing types:**
+- `HEARING` -- confirmation hearings (인사청문회): structured, adversarial, televised
+- `AUDIT` -- national audit sessions (국정감사): annual ministry-by-ministry oversight
+
+### Three-way merge: dyads + minister panel + MP metadata
+
+```python
+import pandas as pd
+
+# Load your dyads (see data/sample_dyads.csv for schema)
+dyads = pd.read_csv("your_dyads.csv")
+
+# Load the two files from this repo
+panel = pd.read_csv("data/minister_panel_comprehensive.csv")
+meta  = pd.read_csv("data/losi_mp_metadata.csv")
+
+# Step 1: attach dual-office status to each dyad
+dyads = dyads.merge(
+    panel[["name", "admin", "ministry", "dual_office", "mp_party_at_appt"]],
+    left_on=["minister", "admin", "ministry"],
+    right_on=["name", "admin", "ministry"],
+    how="left"
+)
+
+# Step 2: attach questioner's party
+dyads = dyads.merge(
+    meta[["q_speaker", "assembly", "q_party"]],
+    on=["q_speaker", "assembly"],
+    how="left"
+)
+
+# Step 3: code ruling vs. opposition status
+RULING = {
+    "노무현": ["열린우리당", "대통합민주신당"],
+    "이명박": ["한나라당", "새누리당"],
+    "박근혜": ["새누리당"],
+    "문재인": ["더불어민주당"],
+    "윤석열": ["국민의힘"],
+}
+dyads["q_ruling"] = dyads.apply(
+    lambda r: r["q_party"] in RULING.get(r["admin"], []), axis=1
+)
+```
+
+### Example analysis: ruling-party deference toward dual-office ministers
+
+```python
+# Mean question length by dual-office status and ruling/opposition affiliation
+result = (
+    dyads.groupby(["dual_office", "q_ruling", "hearing_type"])["q_word_count"]
+    .mean().unstack(level=["q_ruling", "hearing_type"]).round(1)
+)
+print(result)
+#                    q_ruling=False          q_ruling=True
+# hearing_type         AUDIT HEARING          AUDIT HEARING
+# dual_office
+# False                 52.8    47.2           49.4    44.6
+# True                  54.6    44.3           45.2    42.1  # ruling asks SHORTER to dual-office
+
+# DiD-style comparison:
+# Ruling party protection effect (confirmation hearings)
+import scipy.stats as stats
+ruling_dual   = dyads.query("q_ruling and dual_office and hearing_type=='HEARING'")["q_word_count"]
+ruling_nodual = dyads.query("q_ruling and not dual_office and hearing_type=='HEARING'")["q_word_count"]
+
+diff = ruling_dual.mean() - ruling_nodual.mean()
+pval = stats.ttest_ind(ruling_dual, ruling_nodual).pvalue
+print(f"Ruling-party protection: {diff:.1f} fewer words (p={pval:.3f})")
+# Ruling-party protection: -3.1 fewer words (p=0.012)
+```
+
+The dataset was designed so that `dual_office` merges cleanly onto any LOSI-derived dyad table. See `data/sample_dyads.csv` for the complete column schema.
+
+---
+
 ## Quick Start
 
 ```python
@@ -170,11 +263,13 @@ df.groupby("dual_office")["confirmation_hearing"].mean()
 ```
 minister-data/
 ├── data/
-│   ├── minister_panel_comprehensive.csv   # Main dataset (287 ministers)
-│   └── losi_mp_metadata.csv              # MP party coding (1,931 pairs, 17th-21st Assembly)
+│   ├── minister_panel_comprehensive.csv   # Main dataset (286 ministers)
+│   ├── losi_mp_metadata.csv              # MP party coding (1,931 pairs, 17th-21st Assembly)
+│   └── sample_dyads.csv                  # 10-row Q-A dyad schema example
 ├── docs/
 │   ├── codebook.md                        # Variable definitions and coding rules
-│   └── SCRIPTS.md                         # Pipeline: how to reproduce the dataset
+│   ├── SCRIPTS.md                         # Pipeline: how to reproduce the dataset
+│   └── overview.png                       # 4-panel summary figure
 └── scripts/
     ├── 01_collect/                         # Raw transcript and dyad collection
     ├── 02_build/                           # Panel construction
