@@ -31,8 +31,7 @@ A panel dataset of South Korean cabinet ministers (2000-2025) with hand-coded **
 | 문재인 | Progressive | 54 | 18 |
 | 윤석열 | Conservative | 30 | 5 |
 | 이재명 | Progressive | 22 | 9 |
-| 한덕수 (caretaker) | -- | 1 | 0 |
-| **Total** | | **287** | **63** |
+| **Total** | | **286** | **63** |
 
 ---
 
