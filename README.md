@@ -324,11 +324,17 @@ pip install pandas requests openpyxl beautifulsoup4
 
 ---
 
-## Known Gaps
+## Status: Actively Updated
+
+> **This dataset is under active development.** New appointments are added as they occur; historical coverage is being extended backward. Check the commit history for the latest additions.
+
+Current known gaps:
 
 - **Kim Dae-jung era (2000-2003):** Only 2 entries currently. Full collection ongoing.
 - **22nd Assembly (2024-present):** Not yet fully archived in LOSI.
 - **Interim ministers (직무대행):** Not included.
+
+If you spot an error or missing entry, please open an [issue](https://github.com/kyusik-yang/minister-data/issues).
 
 ---
 
@@ -358,3 +364,7 @@ Code: [MIT](https://opensource.org/licenses/MIT)
 ## Contact
 
 Kyusik Yang -- kyusik.yang@nyu.edu -- PhD Candidate, NYU Department of Politics
+
+---
+
+*Dataset compiled and maintained by Kyusik Yang. Repository structure and documentation built with [Claude Code](https://claude.ai/code).*
