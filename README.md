@@ -15,7 +15,6 @@ A panel dataset of South Korean cabinet ministers (2000-2025) with hand-coded **
 
 Merge these with [LOSI](https://likms.assembly.go.kr/) transcript data to produce question-answer dyads with dual-office status and ruling/opposition coding attached -- enabling systematic analysis of whether legislative oversight depends on the minister's co-partisan tie to the legislature.
 
-![Research Pipeline](docs/pipeline.png)
 
 **What is dual-office?** South Korea's constitution uniquely permits sitting National Assembly members to simultaneously serve as cabinet ministers, retaining both their legislative seat and executive appointment. No other established presidential democracy has an equivalent provision.
 
