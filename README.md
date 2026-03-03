@@ -214,6 +214,24 @@ pip install pandas requests openpyxl beautifulsoup4
 
 ---
 
+## Citation
+
+If you use this dataset, please cite the repository:
+
+```bibtex
+@misc{yang2025ministerdata,
+  author       = {Yang, Kyusik},
+  title        = {Korean Cabinet Minister Dataset: Dual-Office Status Panel (2000--2025)},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/kyusik-yang/minister-data}
+}
+```
+
+Or in text: Yang, Kyusik. 2025. "Korean Cabinet Minister Dataset." GitHub. https://github.com/kyusik-yang/minister-data.
+
+---
+
 ## License
 
 Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) -- Attribution required
