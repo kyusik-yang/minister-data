@@ -10,6 +10,25 @@ A panel dataset of South Korean cabinet ministers (2000-2025) with hand-coded **
 
 ---
 
+## Data Preview
+
+A sample of rows from `minister_panel_comprehensive.csv` (✓ = True):
+
+| name | name_en | ministry | admin | start | end | dual_office | mp_district | confirmation_hearing |
+|------|---------|----------|-------|-------|-----|-------------|-------------|----------------------|
+| 고건 | Ko Kun | 국무총리 | 노무현 | 2003-02-27 | 2004-05-24 | | | ✓ |
+| 김영진 | Kim Yeong-jin | 농림부 | 노무현 | 2003-02-27 | 2004-01-09 | ✓ | 비례대표 | |
+| 주호영 | Ju Ho-yeong | 특임장관 | 이명박 | 2009-09-30 | 2010-08-10 | ✓ | 대구 수성구 을 | ✓ |
+| 김관진 | Kim Gwan-jin | 국방부 | 박근혜 | 2013-02-25 | 2014-07-03 | | | ✓ |
+| 김부겸 | Kim Bu-kyum | 행정안전부 | 문재인 | 2017-06-16 | 2019-03-08 | ✓ | 대구 수성구 갑 | ✓ |
+| 김영춘 | Kim Yeong-chun | 해양수산부 | 문재인 | 2017-06-16 | 2019-05-09 | ✓ | 부산 진구 갑 | ✓ |
+| 원희룡 | Won Hee-ryong | 국토교통부 | 윤석열 | 2022-05-13 | 2023-12-25 | | | ✓ |
+| 김민석 | Kim Min-seok | 국무총리 | 이재명 | 2025-07-03 | | ✓ | 서울 영등포구 을 | ✓ |
+
+→ [View full dataset on GitHub](https://github.com/kyusik-yang/minister-data/blob/main/data/minister_panel_comprehensive.csv) &nbsp;|&nbsp; [Interactive explorer](https://kyusik-yang.github.io/minister-data/)
+
+---
+
 ## At a Glance
 
 | | |
