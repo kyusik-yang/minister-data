@@ -260,7 +260,7 @@ df.groupby("dual_office")["confirmation_hearing"].mean()
 
 ### 6. Research questions this dataset enables
 
-- **Oversight distortion:** Do ruling-party legislators ask softer questions to dual-office ministers in parliamentary hearings? ([Yang 2025](https://github.com/kyusik-yang/minister-data))
+- **Oversight distortion:** Do ruling-party legislators ask softer questions to dual-office ministers in parliamentary hearings?
 - **Appointment selection:** Which administrations appoint more dual-office ministers, and why? Are progressive or conservative governments more likely to do so?
 - **Legislative absenteeism:** Do legislators who become ministers show reduced bill sponsorship or committee attendance?
 - **Career paths:** Is dual-office appointment a stepping stone to future leadership positions?
