@@ -10,10 +10,10 @@ A panel dataset of South Korean cabinet ministers (2000-2025) with hand-coded **
 
 | | |
 |--|--|
-| `minister_panel_comprehensive.csv` | 286 ministerial appointments, each coded for dual-office status -- whether the minister simultaneously held a National Assembly seat |
+| `minister_panel_comprehensive.csv` | 296 ministerial appointments, each coded for dual-office status - whether the minister simultaneously held a National Assembly seat |
 | `losi_mp_metadata.csv` | Party and electoral metadata for 1,931 legislators appearing as questioners in parliamentary transcripts (17th-21st Assembly, 2004-2024) |
 
-Merge these with [LOSI](https://likms.assembly.go.kr/) transcript data to produce question-answer dyads with dual-office status and ruling/opposition coding attached -- enabling systematic analysis of whether legislative oversight depends on the minister's co-partisan tie to the legislature.
+Merge these with [LOSI](https://likms.assembly.go.kr/) transcript data to produce question-answer dyads with dual-office status and ruling/opposition coding attached, enabling systematic analysis of whether legislative oversight depends on the minister's co-partisan tie to the legislature.
 
 
 **What is dual-office?** South Korea's constitution uniquely permits sitting National Assembly members to simultaneously serve as cabinet ministers, retaining both their legislative seat and executive appointment. No other established presidential democracy has an equivalent provision.
@@ -49,8 +49,8 @@ A sample of rows from `minister_panel_comprehensive.csv` (✓ = True):
 |--|--|
 | **Coverage** | 2000-2025 (Kim Dae-jung through Lee Jae-myung) |
 | **Administrations** | 7 (김대중, 노무현, 이명박, 박근혜, 문재인, 윤석열, 이재명) |
-| **Ministers** | 287 appointments |
-| **Dual-office rate** | 63 / 287 (~22%) |
+| **Ministers** | 296 appointments |
+| **Dual-office rate** | 63 / 296 (~21%) |
 | **Unit** | One row per ministerial appointment |
 
 **Administration breakdown:**
@@ -60,11 +60,11 @@ A sample of rows from `minister_panel_comprehensive.csv` (✓ = True):
 | 김대중 | Progressive | 2 | 1 |
 | 노무현 | Progressive | 80 | 9 |
 | 이명박 | Conservative | 52 | 10 |
-| 박근혜 | Conservative | 46 | 11 |
+| 박근혜 | Conservative | 47 | 11 |
 | 문재인 | Progressive | 54 | 18 |
-| 윤석열 | Conservative | 30 | 5 |
+| 윤석열 | Conservative | 39 | 5 |
 | 이재명 | Progressive | 22 | 9 |
-| **Total** | | **286** | **63** |
+| **Total** | | **296** | **63** |
 
 ---
 
@@ -87,8 +87,8 @@ A dyad dataset built from LOSI transcripts looks like this (`data/sample_dyads.c
 | LOSI_HEA_48360_진선미_0442 | 2018-09-20 | 여성가족부 | 문재인 | True | HEARING | 전희경 위원 | 7 | 지금 여가부 장관으로서 본인의 역할이 뭐라고 생각하십니까? |
 
 **Hearing types:**
-- `HEARING` -- confirmation hearings (인사청문회): structured, adversarial, televised
-- `AUDIT` -- national audit sessions (국정감사): annual ministry-by-ministry oversight
+- `HEARING` - confirmation hearings (인사청문회): structured, adversarial, televised
+- `AUDIT` - national audit sessions (국정감사): annual ministry-by-ministry oversight
 
 ### Three-way merge: dyads + minister panel + MP metadata
 
@@ -273,7 +273,7 @@ df.groupby("dual_office")["confirmation_hearing"].mean()
 ```
 minister-data/
 ├── data/
-│   ├── minister_panel_comprehensive.csv   # Main dataset (286 ministers)
+│   ├── minister_panel_comprehensive.csv   # Main dataset (296 ministers)
 │   ├── losi_mp_metadata.csv              # MP party coding (1,931 pairs, 17th-21st Assembly)
 │   └── sample_dyads.csv                  # 10-row Q-A dyad schema example
 ├── docs/
@@ -368,12 +368,12 @@ Or in text: Yang, Kyusik. 2025. "Korean Cabinet Minister Dataset." GitHub. https
 
 ## License
 
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) -- Attribution required
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Attribution required
 Code: [MIT](https://opensource.org/licenses/MIT)
 
 ## Contact
 
-Kyusik Yang -- kyusik.yang@nyu.edu -- PhD Candidate, NYU Department of Politics
+Kyusik Yang - kyusik.yang@nyu.edu - PhD Candidate, NYU Department of Politics
 
 ---
 

@@ -173,6 +173,7 @@ ministry,name,name_en,start,end,admin,admin_ideology,dual_office,mp_party_at_app
 국무총리,황교안,Hwang Kyo-ahn,2015-06-18,2017-05-31,박근혜,Conservative,False,,,,True,2015-06-18,비겸직 (법무부장관 출신)
 해양수산부,김영석,Kim Yeong-seok,2015-09-24,2017-03-10,박근혜,Conservative,False,,,,True,2015-09-24,비겸직 (관료 출신); date approx
 문화체육관광부,조윤선,Jo Yun-seon,2016-09-05,2017-01-20,박근혜,Conservative,False,,,,True,2015-12-01,비겸직 (임명일 2016-09-05 당시 19대 임기 만료 2016-05-29 이후; 비의원 신분; start MAJOR CORRECTION 2015-12-01→2016-09-05)
+교육부,이준식,Lee Jun-sik,2016-01-13,2017-07-04,박근혜,Conservative,False,,,,True,2016-01-07,비겸직 (서울대 기계항공공학부 교수 출신 사회부총리 겸 교육부장관)
 행정자치부,홍윤식,Hong Yun-sik,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
 농림축산식품부,김재수,Kim Jae-su,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
 산업통상자원부,주형환,Ju Hyeong-hwan,2016-01-13,2017-03-10,박근혜,Conservative,False,,,,True,2016-01-13,비겸직 (관료 출신); date approx
@@ -244,6 +245,9 @@ ministry,name,name_en,start,end,admin,admin_ideology,dual_office,mp_party_at_app
 고용노동부,이정식,Lee Jeong-sik,2022-05-10,2024-07-01,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (관료 출신)
 여성가족부,김현숙,Kim Hyeon-suk,2022-05-10,2025-06-03,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (20대 비례의원이었으나 21대 아님); date approx
 해양수산부,조승환,Jo Seung-hwan,2022-05-10,2023-12-29,윤석열,Conservative,False,,,,True,2022-05-10,비겸직 (관료 출신)
+국방부,이종섭,Lee Jong-seop,2022-05-10,2023-09-22,윤석열,Conservative,False,,,,True,2022-05-04,비겸직 (군인 출신); 초대 윤석열 정부 국방부장관
+보건복지부,정호영,Jeong Ho-yeong,2022-05-10,2022-08-12,윤석열,Conservative,False,,,,True,2022-05-03,비겸직 (의사 출신); 인사청문 논란에도 임명; 단기 재임 후 조규홍 후임
+법무부,한동훈,Han Dong-hoon,2022-05-12,2024-09-01,윤석열,Conservative,False,,,,True,2022-05-09,비겸직 (검사 출신); 2024-09 당대표 출마로 사임
 국무총리,한덕수,Han Duck-soo,2022-05-21,2024-12-27,윤석열,Conservative,False,,,,True,2022-05-21,비겸직 (재임)
 통일부,권영세,Kwon Yeong-se,2022-05-16,2023-07-28,윤석열,Conservative,True,국민의힘,서울 용산구,21.0,True,2022-05-21,겸직 장관 (21대 의원 서울 용산구); start corrected 2022-05-21→2022-05-16; end MAJOR CORRECTION 2023-12-21→2023-07-28 (후임 김영호 취임)
 기획재정부,추경호,Chu Gyeong-ho,2022-05-10,2023-12-29,윤석열,Conservative,True,국민의힘,대구 달성군,21.0,True,2022-05-21,겸직 장관 (21대 의원 대구 달성군); start corrected 2022-05-21→2022-05-10 (윤석열 취임일 동시 임명); end corrected 2023-12-28→2023-12-29 (후임 최상목 임명)
@@ -253,10 +257,16 @@ ministry,name,name_en,start,end,admin,admin_ideology,dual_office,mp_party_at_app
 교육부,이주호,Lee Ju-ho,2022-11-09,2025-06-03,윤석열,Conservative,False,,,,True,2022-11-09,비겸직 (18대 의원이었으나 21대/22대 아님; 교수 출신); date approx
 국가보훈부,박민식,Park Min-sik,2023-06-05,2023-12-28,윤석열,Conservative,False,,,,True,2023-06-01,비겸직 (21대 총선 부산 북구강서구 갑 낙선; 임명 당시 현직 의원 아님; 국가보훈처장 2022-05-13→부 승격 2023-06-05; end approx 강정애 후임)
 국가보훈부,강정애,Kang Jeong-ae,2023-09-01,2025-06-03,윤석열,Conservative,False,,,,True,2023-09-01,비겸직; date approx
+통일부,김영호,Kim Yeong-ho,2023-07-28,2025-06-03,윤석열,Conservative,False,,,,True,2023-07-21,비겸직 (교수 출신); 권영세 후임
 국방부,신원식,Sin Won-sik,2023-10-07,2024-11-22,윤석열,Conservative,True,국민의힘,비례대표,21.0,True,2023-10-07,겸직 장관 (21대 미래한국당→국민의힘 비례의원 8번; 임명 2023-10-07 재가; 의원직 사퇴 2023-10-31; start CORRECTED 2023-09-22→2023-10-07; 2023-09-13 지명; 2023-09-22는 오류; dual_office FALSE NEGATIVE 수정)
 문화체육관광부,유인촌,Yu In-chon,2023-10-07,2025-06-03,윤석열,Conservative,False,,,,True,2023-09-22,비겸직 (연예인/전직 장관 출신; 국회의원 아님); start CORRECTION 2023-09-22→2023-10-07 (실제 임명일; 신원식 동일일자)
+여성가족부,김행,Kim Haeng,2023-10-12,2025-06-03,윤석열,Conservative,False,,,,True,2023-10-05,비겸직 (관료 출신); 김현숙 후임
 산업통상자원부,방문규,Bang Mun-gyu,2023-10-01,2024-08-01,윤석열,Conservative,False,,,,True,2023-10-01,비겸직 (관료 출신); date approx
+기획재정부,최상목,Choe Sang-mok,2023-12-28,,윤석열,Conservative,False,,,,True,2023-12-19,비겸직 (관료 출신); 추경호 후임; 부총리 겸 기획재정부 장관
+국토교통부,박상우,Park Sang-woo,2023-12-28,2025-06-03,윤석열,Conservative,False,,,,True,2023-12-20,비겸직 (관료 출신); 원희룡 후임
+중소벤처기업부,오영주,Oh Yeong-ju,2023-12-28,2025-06-03,윤석열,Conservative,False,,,,True,2023-12-21,비겸직 (관료 출신); 이영 후임
 해양수산부,강도형,Kang Do-hyeong,2023-12-29,2025-06-03,윤석열,Conservative,False,,,,True,2023-12-29,비겸직; date approx
+외교부,조태열,Jo Tae-yeol,2024-01-11,2025-06-03,윤석열,Conservative,False,,,,True,2024-01-08,비겸직 (외교관 출신); 박진 후임
 법무부,박성재,Park Seong-jae,2024-01-22,2025-06-03,윤석열,Conservative,False,,,,True,2024-01-22,비겸직 (검사 출신); date approx
 산업통상자원부,안덕근,Ahn Deok-geun,2024-01-22,2025-06-03,윤석열,Conservative,False,,,,True,2024-01-22,비겸직 (교수/관료 출신); date approx
 고용노동부,김문수,Kim Moon-su,2024-07-01,2025-06-03,윤석열,Conservative,False,,,,True,2024-07-01,비겸직 (15·16대 의원이었으나 22대 아님; 경기도지사 출신); date approx
