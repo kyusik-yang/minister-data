@@ -68,12 +68,12 @@ A minister who served in two different ministries within the same administration
 | 김대중 | 2 | 1 | Partial (2000-2003 not yet complete) |
 | 노무현 | 80 | 9 | Complete (2003-2008) |
 | 이명박 | 52 | 10 | Complete (2008-2013) |
-| 박근혜 | 46 | 11 | Complete (2013-2017) |
+| 박근혜 | 47 | 11 | Complete (2013-2017) |
 | 문재인 | 54 | 18 | Complete (2017-2022) |
-| 윤석열 | 30 | 5 | Through 2024-12 |
+| 윤석열 | 39 | 5 | Through 2025-06 |
 | 이재명 | 22 | 9 | Through 2025-03 (data collection ongoing) |
 | 한덕수 (caretaker) | 1 | 0 | Caretaker PM only |
-| **Total** | **287** | **63** | |
+| **Total** | **296** | **63** | |
 
 ---
 
