@@ -1,0 +1,1257 @@
+{
+ "lineage": "defense",
+ "built_at": "2026-09-26T09:51:11-0400",
+ "window": {
+  "from": "1988-02-25",
+  "to": "1998-02-24",
+  "rule": "every spell with any day in office in the window. The holdover continuing past 1998-02-24 is copied unchanged from roster/defense.verified.json with from_main true."
+ },
+ "ministry_names": [
+  {
+   "ministry": "국방부",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (version effective 1987-01-01, in force at the window start), 제29조② '행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고', and 제34조, as listed in offices_1988.json. The same provisions stand in 법률 제5153호 (version effective 1996-08-08, in force at the window end). No renaming in the window. The ministry existed before the window (국가기록원 OG0002302, 존립기간 1948.07.17 ~ present) and continues after it (offices.json OF014).",
+   "source": "offices_1988.json OFA16 (sources GOA_3854, GOA_5153, ARCH_OG0002302, law.go.kr)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "정호용",
+   "name_hanja": "鄭鎬溶",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1932-09-10",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1987-07-14",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1987-07-14 p.1 \"全대통령 임명장 수여\" (Naver News Library article 1987071400099201012, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400099201012&editNo=1&printCount=1&publishDate=1987-07-14&officeId=00009&pageNo=1&printNo=6572&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1987071400099201012.json, accessed 2026-09-26T09:08:56-0400). Excerpt: '全斗煥대통령은 14일 상오청와대에서 신임 金貞烈국무총리서리를 비롯 鄭寬溶내무,鄭鎬溶국방,徐明源문교,曺相鎬체육,吳明체신,張基梧총무처,朴肯植과기처,李鍾律정무제1장관에게 임명장을 수여했다.'",
+    "한국경제 1987-07-15 \"신임閣僚들에 임명장\" (BigKinds news_id 02100601.19870715190013104, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_02100601.19870715190013104.json, accessed 2026-09-26T09:32:39-0400). Excerpt: '全斗煥대통령은 14일상오 청와대에서 金貞烈신임국무총리서리를 비롯 鄭寬溶내무, 徐明源문교, 鄭鎬溶국방, 曺相鎬체육, 吳明체신, 張基梧총무처, 朴肯植과기처, 李鍾律정무제1관에게 임명장을 수여했다.'",
+    "동아일보 1987-07-14 p.7 \"국방장관 離就任式\" (Naver News Library article 1987071400209207009, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400209207009&editNo=2&printCount=1&publishDate=1987-07-14&officeId=00020&pageNo=7&printNo=20239&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1987071400209207009.json, accessed 2026-09-26T09:32:35-0400). Excerpt: '李基百전임국방부장관과鄭鎬溶신임국방부장관의 이취임식이 14일오후 합참의장육해공군참모총장「메니트리」한미연합사령관 국회국방위소속 의원들이 참석한가운데육군본부광장에서 거행됐다.'",
+    "국방부 official 역대장관 list (tier 2), row 25대 정호용 재임기간 '1987.7.14 ~ 1988.2.25', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제25대 정호용 1987년 7월 14일 ~ 1988년 2월 25일",
+    "조선일보 1987-07-14 p.1 \"새 總理 金貞烈씨\" (Naver News Library article 1987071400239101006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400239101006&editNo=1&printCount=1&publishDate=1987-07-14&officeId=00023&pageNo=1&printNo=20391&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1987071400239101006.json, accessed 2026-09-26T09:21:44-0400). Excerpt: '全대통령은 이날 改閣에서국방장관에 鄭鎬溶전내무장관을' Announcement of the 7·13 개각 (조간, so the day after). Verifier source (ext88 adversarial check).",
+    "경향신문 1987-07-14 p.1 \"全대통령,새總理등에 임명장수여\" (Naver News Library article 1987071400329201017, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400329201017&editNo=3&printCount=1&publishDate=1987-07-14&officeId=00032&pageNo=1&printNo=12859&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1987071400329201017.json, accessed 2026-09-26T09:45:07-0400). Excerpt: '全斗煥대통령은 14일상오 청와대에서 신임 金貞烈 국무총리서리(사진)와 8部장관, 崔在旭청와 대대변인에게 임명장을 주었다.' The 8部장관 are the eight ministers of the 7·13 개각, 국방 among them. Verifier source (ext88 adversarial check).",
+    "조선일보 1987-07-15 p.1 \"신임總理등 임명장 全대통령\" (Naver News Library article 1987071500239101007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071500239101007&editNo=1&printCount=1&publishDate=1987-07-15&officeId=00023&pageNo=1&printNo=20392&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1987071500239101007.json, accessed 2026-09-26T13:21:03-0400). Excerpt: '全斗煥대통령은 14일 오전青瓦臺에서 金貞烈국무총리서리등 신임 국무위원들과 崔在旭 청와대대변인에게 임명장을주었다.' Verifier source (ext88 adversarial check).",
+    "대통령기록관 연도별 대통령 일정 (전두환 1987), 1987-07-13 '국무총리 김정렬 임명 등 내각 대폭 개편' / '새 내각의 임무는 민주발전 위한 제반 조치를 과감하고 신속히 발전시키는 데 있다고 강조', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=전두환, year=1987; snapshot roster/sources/defense/ext88/verify88/pa/pa_schedule_전두환_1987_p1.html, accessed 2026-09-26T09:04:56-0400) Announcement day (tier 2). The 임명장 followed on 1987-07-14. Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1988022600239101004.json, accessed 2026-09-26T08:49:40-0400). Excerpt: '盧대통령은 이어 26일저녁서울江南구 소재 한국종합전시관에서 있는 보통사람리셉션에 참석할 예정이다.한편 金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다.'",
+    "매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988022500099201010.json, accessed 2026-09-26T09:05:34-0400). Excerpt: '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다.'",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100901.19880225005009001.json, accessed 2026-09-26T09:06:02-0400). Excerpt: '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다.'",
+    "국방부 official 역대장관 list (tier 2), row 25대 정호용 재임기간 '1987.7.14 ~ 1988.2.25', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제25대 정호용 1987년 7월 14일 ~ 1988년 2월 25일",
+    "조선일보 1988-02-25 p.1 \"国務委員 일괄 사표 全대통령 閣議주재\" (Naver News Library article 1988022500239101011, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239101011&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=1&printNo=20581&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988022500239101011.json, accessed 2026-09-26T09:27:05-0400). Excerpt: '이날 국무회의에서 金貞烈국무총리를비롯,국무위원전원은 일괄사표를 제출했으며,이들의 사표는 25일 오전盧泰愚신임대통령에게전달된다.' The resignations reached the new President on the morning of 1988-02-25. Verifier source (ext88 adversarial check).",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任국무위원들의 한마디\" (Naver News Library article 1988022500239102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988022500239102002.json, accessed 2026-09-26T09:06:31-0400). Excerpt: '제5공화국이 24일밤12시로 종료됨에 따라 金貞烈국무총리를 비롯한 국무위원전원이 이날 사표를 냈다.7부 장관들은 재기용이 결정됐지만 그밖의 장관들은자리를 떠난다.' The piece carries a farewell statement by '鄭鎬溶국방부장관' among the 離任국무위원. Verifier source (ext88 adversarial check).",
+    "한국일보 1988-02-25 \"[사진]◇鄭국방과 鄭昇和·金桂元씨\" (BigKinds news_id 01101101.19880225092501108, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19880225092501108.json, accessed 2026-09-26T13:23:08-0400). Excerpt: '국방장관은 이임이틀전인 23일 하오 7시' The BigKinds text prints the name as 鄭錯溶, a typo for 鄭鎬溶. Two days after the 23rd is the 25th. Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during the spell. na_members_12_22.csv has no 12th-Assembly row for him. He entered the 13th NA on 1988-05-30 (민주정의당, 대구 서구갑, mona_cd UOQ61895), after this spell ended.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "전두환 appointee (7·13 개각). Named on 1987-07-13 (중앙일보 1987-07-14, BigKinds 01100901.19870714194838001, '전두환대통령은 13일 하오 ... 국방장관에 정호용전내무장관'), 임명장 on the morning of 1987-07-14, and 이·취임식 with 이기백 that afternoon. Start predates the window. Caretaker holdover under 노태우 for part of 1988-02-25. The 5공 cabinet's 일괄사표 was accepted on the morning of 1988-02-25 and the new ministers received their 임명장 the same morning (11:40 per 서울신문 1988-02-26, BigKinds 01100611.19880226163159002, search snapshot roster/sources/defense/ext88/probe/bk_임명장_1988-02-24_1988-02-27.json), so his last day in office is 1988-02-25, the successor's appointment day, as in the main roster's handover convention. He had refused reappointment (경향신문 1988-02-20 p.10 '鄭국방 退陣재고요청 거절', News Library 1988022000329210014). The 국방부 list and ko.wikipedia both end his term on 1988.2.25. Birth date agrees in na_members_12_22.csv (term 13 and 14 rows, 1932-09-10) and ko.wikipedia (ko.wikipedia \"정호용\" https://ko.wikipedia.org/w/index.php?oldid=42493525 (snapshot roster/sources/defense/ext88/bios/wiki_정호용.json, accessed 2026-09-26T09:43:10-0400), infobox 출생일 1932-09-10). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "오자복",
+   "name_hanja": "吳滋福",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1930-06-16",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "medium",
+   "start_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1988022600239101004.json, accessed 2026-09-26T08:49:40-0400). Excerpt: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여,제6공화국 정부를 공식 출범시켰다.'",
+    "경향신문 1988-02-25 p.3 \"祝砲·비둘기 날리며\"希望의 나라로\"\" (Naver News Library article 1988022500329203002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329203002&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=3&printNo=13049&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988022500329203002.json, accessed 2026-09-26T09:08:05-0400). Excerpt: '盧대통령은 신임 吳滋福국방부장관,金容甲총무처장관,全錫洪국가보훈처장을 대동,현충탑에헌화한후 호국영령들앞에 대통령으로서의 책무를 헌신적으로 수행할 것을 다짐했다.'",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100901.19880225005009001.json, accessed 2026-09-26T09:06:02-0400). Excerpt: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다.'",
+    "한국일보 1988-02-26 \"大赦免 오늘 議決…발표\" (BigKinds news_id 01101101.19880226092506104, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19880226092506104.json, accessed 2026-09-26T09:35:17-0400). Excerpt: '盧泰愚대통령은 25일상오 제13代대통령취임식에 참석한뒤 李賢宰신임국무총리등 새 각료들과 洪性徹대통령비서실장 李興雨청와대경호실장 청와대수석 비서관등에게 임명장을 수여,새정부의 진용을 갖췄다.'",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; snapshot roster/sources/defense/ext88/events/pa_schedule_노태우_1988_p1.html, accessed 2026-09-26T08:49:52-0400)",
+    "국방부 official 역대장관 list (tier 2), row 26대 오자복 재임기간 '88. 02. 25 ~ 88. 12. 4', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제26대 오자복 1988년 2월 25일 ~ 1988년 12월 4일",
+    "중앙일보 1988-02-25 \"노태우 13대 대통령 취임|\"「함께 걷는 민주주의」시대로\"\" (BigKinds news_id 01100901.19880225005006001, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100901.19880225005006001.json, accessed 2026-09-26T13:29:48-0400). Excerpt: '노 대통령은 이날 오후 오자복 국방장관·김용갑 총무처장관·전석홍 국가보훈처장을 대동하고 국립묘지를 참배하고' Names 오자복 as 국방장관 on inauguration day (중앙일보 is not in the News Library, so independent of the builder's 경향신문 story). Verifier source (ext88 adversarial check).",
+    "동아일보 1988-02-25 p.1 \"새内閣은 내일부터\" (Naver News Library article 1988022500209201007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500209201007&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00020&pageNo=1&printNo=20429&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988022500209201007.json, accessed 2026-09-26T09:07:16-0400). Excerpt: '盧泰愚대통령은 25일 제13대대통령취임식이 끝난후 李賢宰국무총리등 새각료들에게 임명장을 수여,새정부의진용을 갖췄다.' Verifier source (ext88 adversarial check).",
+    "조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\" (Naver News Library article 1988022600239103011, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239103011&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=3&printNo=20582&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988022600239103011.json, accessed 2026-09-26T09:05:29-0400). Excerpt: '25일오전 靑瓦臺에서 있은 신임국무위원 24명과 대통령首席비서관들에 대한 임명장수여식' Verifier source (ext88 adversarial check).",
+    "한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\" (BigKinds news_id 02100601.19880226193114109, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_02100601.19880226193114109.json, accessed 2026-09-26T09:06:16-0400). Excerpt: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120500329201003.json, accessed 2026-09-26T09:22:02-0400). Excerpt: '이에 앞서 李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다.'",
+    "동아일보 1988-12-05 p.1 \"新任장관에 임명장 盧大統領\" (Naver News Library article 1988120500209201032, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120500209201032.json, accessed 2026-09-26T09:21:56-0400). Excerpt: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다.'",
+    "한국일보 1988-12-06 \"政局往來\" (BigKinds news_id 01101101.19881206102907110, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19881206102907110.json, accessed 2026-09-26T09:23:35-0400). Excerpt: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여하고 기념촬영을 한 뒤 대접견실로 자리를 옮겨 신임 국무위원들과 첫 간담회를 주재.'",
+    "동아일보 1988-12-06 p.2 \"吳前국방\"날아갈것같다\"\" (Naver News Library article 1988120600209202010, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600209202010&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00020&pageNo=2&printNo=20673&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120600209202010.json, accessed 2026-09-26T09:33:24-0400). Excerpt: '吳전임장관은 또 6일오전 육군본부광장에서 있은국방부장관 이취임식에서이임사를 통해\"가장 어려운 시기에 능력이 부족한본인이 국방장관이라는 중책을 맡아 軍의 권익도 수호하지 못했을뿐 아니라사기 복지등 軍발전에도이렇다할 업적하나 남기지못했다\"고 겸사.' Ceremony only. The 이·취임식 was held the morning after the successor's 임명장.",
+    "국방부 official 역대장관 list (tier 2), row 26대 오자복 재임기간 '88. 02. 25 ~ 88. 12. 4', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제26대 오자복 1988년 2월 25일 ~ 1988년 12월 4일",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988120500209201003.json, accessed 2026-09-26T09:08:16-0400). Excerpt: '이번 개각으로 국무총리와24개부처의 장관 처장중 20개부처의 장관 처장이 경질되었으며' Same-day 석간. The list heading the story reads '국방李相薰', and the four ministries kept were 동자, 총무처, 통일원, 법제처. Verifier source (ext88 adversarial check).",
+    "조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120600239101029, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988120600239101029.json, accessed 2026-09-26T09:54:45-0400). Excerpt: '盧대통령은 이날낮신임총리서리,오후에는 신임각료들에게 청와대에서 임명장을 수여했다.' The same story names '국방장관에는 李相薰국가안보회의 비상기획 위원장'. Verifier source (ext88 adversarial check).",
+    "한국일보 1988-12-06 \"\"民主化 국민요구 수렴, 轉換期 어려움 극복을\"\" (BigKinds news_id 01101101.19881206102906105, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19881206102906105.json, accessed 2026-09-26T10:08:03-0400). Excerpt: '盧泰愚 대통령은 5일 하오 姜英勳국무총리서리 및 신임 국무위원 전원에게 임명장을 수여한 뒤' Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Named in the 조각 announced by 차기대통령 노태우 on 1988-02-19 and appointed on inauguration day 1988-02-25 (임명장 after the inauguration ceremony). Replaced in the 12·5 전면개각 (1988-12-05), when the whole 이현재 cabinet submitted a 일괄사표 that morning and the new ministers received their 임명장 in the afternoon. The 국방부 list ends him on 88.12.4, the day before, and the 이·취임식 was held on 1988-12-06 (동아일보 1988-12-06). This file follows the successor's appointment day. He had tendered his resignation on 1988-08-30 over the 오홍근 테러 사건, but 노태우 returned it on 1988-08-31 (동아일보 1988-09-01 p.1 '吳국방 辭表반려', News Library 1988090100209201009, snapshot of the search roster/sources/defense/ext88/probe/nl_오자복_사표_1988-08-01_1988-12-04_p1.json), so end_reason is replaced, not resigned. Birth date from ko.wikipedia (ko.wikipedia \"오자복\" https://ko.wikipedia.org/w/index.php?oldid=41481861 (snapshot roster/sources/defense/ext88/bios/wiki_오자복.json, accessed 2026-09-26T09:43:11-0400), infobox 출생일 1930-06-16). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "이상훈",
+   "name_hanja": "李相薰",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1933-06-26",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1988-12-05 p.1 \"新任장관에 임명장 盧大統領\" (Naver News Library article 1988120500209201032, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120500209201032.json, accessed 2026-09-26T09:21:56-0400). Excerpt: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다.'",
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120500329201003.json, accessed 2026-09-26T09:22:02-0400). Excerpt: '이에 앞서 李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다.'",
+    "한국일보 1988-12-06 \"政局往來\" (BigKinds news_id 01101101.19881206102907110, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19881206102907110.json, accessed 2026-09-26T09:23:35-0400). Excerpt: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여하고 기념촬영을 한 뒤 대접견실로 자리를 옮겨 신임 국무위원들과 첫 간담회를 주재.'",
+    "서울신문 1988-12-06 \"새總理 姜英勳씨\" (BigKinds news_id 01100611.19881206160851003, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.19881206160851003.json, accessed 2026-09-26T09:32:51-0400). Excerpt: '외무 崔浩中 내무 李漢東 재무 李揆成 법무 許亨九 국방 李相薰 문교 鄭元植 체육 金潗 농수산 金湜 상공 韓昇洙 동자 李鳳瑞 건설 朴昇 보사 文太俊 노동 張永喆 교통 金昌槿 체신 崔永喆 문공 崔秉烈 총무처 金容甲 과기처 李祥義 통일원 李洪九 정무1 鄭宗澤 정무2 金榮禎 법제처 玄鴻柱 보훈처 李相淵'",
+    "국사편찬위원회 대한민국사연표 1988-12-05 entry tcct_1988_12_05_0010 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각', https://db.history.go.kr/id/tcct_1988_12_05_0010 (snapshot roster/sources/defense/ext88/events/chron_1988-12-05.html, accessed 2026-09-26T08:40:41-0400)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; snapshot roster/sources/defense/ext88/events/pa_schedule_노태우_1988_p1.html, accessed 2026-09-26T08:49:52-0400)",
+    "국방부 official 역대장관 list (tier 2), row 27대 이상훈 재임기간 '1988.12.5 ~ 1990.10.8', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제27대 이상훈 1988년 12월 4일 ~ 1990년 10월 8일",
+    "조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120600239101029, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988120600239101029.json, accessed 2026-09-26T09:54:45-0400). Excerpt: '국방장관에는 李相薰국가안보회의 비상기획 위원장이 각각 임명됐다.' Verifier source (ext88 adversarial check).",
+    "경향신문 1988-12-06 p.1 \"\"公權力확립이 國民의 여망\"\" (Naver News Library article 1988120600329201010, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600329201010&editNo=3&printCount=1&publishDate=1988-12-06&officeId=00032&pageNo=1&printNo=13293&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988120600329201010.json, accessed 2026-09-26T09:48:32-0400). Excerpt: '盧泰愚대통령은 5일하오姜英勳국무총리서리와 신임국무위원들에게 임명장을 수여한뒤' Verifier source (ext88 adversarial check).",
+    "서울신문 1988-12-06 \"\"강력한 公權力 확립 左傾暴力확산 國民불안 해소를\"\" (BigKinds news_id 01100611.19881206160852002, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100611.19881206160852002.json, accessed 2026-09-26T09:22:59-0400). Excerpt: '盧泰愚대통령은 5일하오 청와대 대접견실에서 신임 국무위원들에게 임명장을 수여하고' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1990-10-08",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1990-10-08 p.1 \"국방장관 李鍾九씨\" (Naver News Library article 1990100800329201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800329201001&editNo=3&printCount=1&publishDate=1990-10-08&officeId=00032&pageNo=1&printNo=13858&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1990100800329201001.json, accessed 2026-09-26T09:33:32-0400). Excerpt: '盧泰愚대통령은 8일 국군보안사의 민간인사찰사건에대한 정치적·도의적책임을 물어 李相薰국방부장관의 사표룰 수리하고 후임에 李鍾九 전육군참모총장(육사14기)을 임명했다.'",
+    "동아일보 1990-10-08 p.1 \"國防장관-保安사령관 경질\" (Naver News Library article 1990100800209201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800209201001&editNo=2&printCount=1&publishDate=1990-10-08&officeId=00020&pageNo=1&printNo=21262&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1990100800209201001.json, accessed 2026-09-26T09:33:36-0400). Excerpt: '盧泰愚대통령은 8일오전국군보안사의 민간인에 대한정치사찰문제와 관련,李相薰국방부장관과 趙南豊국군보안사령관을 문책 해임하고후임국방부장관에 李鍾九前육군참모총장(陸士 14期)을,보안사령관에 具昌會현수도방위사령관(육군中將·陸士18期)을 각각 임명했다.'",
+    "서울신문 1990-10-09 \"「보안사 사찰」 문책인사 단행/이종구 국방ㆍ구창회 보안사령관 임명\" (BigKinds news_id 01100611.20160420221531226, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160420221531226.json, accessed 2026-09-26T09:36:05-0400). Excerpt: '노태우 대통령은 8일 상오 보안사 민간인 사찰사건에 대한 정치ㆍ도의적 책임을 물어 이상훈 국방부 장관의 사표를 수리하고 후임에 이종구 전육군참모 총장을 임명했다.'",
+    "세계일보 1990-10-09 \"「사찰」 문책인사 단행/노대통령\" (BigKinds news_id 01100701.19901009000000105, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19901009000000105.json, accessed 2026-09-26T09:36:33-0400). Excerpt: '◎국방 이종구씨­보안사령관에 구창회중장노태우 대통령은 8일 오전 국군보안사의 민간인 사찰파문과 관련,이상훈 국방장관을 해임하고 후임에 이종구 전 육군참모총장(육사 14기)을 임명했다.'",
+    "국사편찬위원회 대한민국사연표 1990-10-08 entry tcct_1990_10_08_0010 '노태우 대통령, 윤석양 이병의 보안사령부 민간사찰 폭로 관련해 국방부장관·보안사령관 경질', https://db.history.go.kr/id/tcct_1990_10_08_0010 (snapshot roster/sources/defense/ext88/events/chron_1990-10-08.html, accessed 2026-09-26T09:10:05-0400)",
+    "국방부 official 역대장관 list (tier 2), row 27대 이상훈 재임기간 '1988.12.5 ~ 1990.10.8', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제27대 이상훈 1988년 12월 4일 ~ 1990년 10월 8일",
+    "매일경제 1990-10-08 p.1 \"國防장관 해임\" (Naver News Library article 1990100800099201006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800099201006&editNo=1&printCount=1&publishDate=1990-10-08&officeId=00009&pageNo=1&printNo=7591&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1990100800099201006.json, accessed 2026-09-26T13:21:07-0400). Excerpt: '盧泰愚대통령은 8일 상오 李相薰국방부장관의 사표를 수리하고 후임에 李鍾九前육군참모총장(육사14기)을 임명했다.' The same story says he submitted the 사표 on 1990-10-07. Verifier source (ext88 adversarial check).",
+    "경향신문 1990-10-08 p.1 \"국방장관 離就任式\" (Naver News Library article 1990100800329201007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800329201007&editNo=3&printCount=1&publishDate=1990-10-08&officeId=00032&pageNo=1&printNo=13858&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1990100800329201007.json, accessed 2026-09-26T13:21:06-0400). Excerpt: '국방부장관 이·취임식이8일 상오11시 李鍾九신임장관과 李相薰전임장관을비롯' Verifier source (ext88 adversarial check).",
+    "한국일보 1990-10-09 \"신ㆍ구 국방장관 인터뷰\" (BigKinds news_id 01101101.19901009000000503, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19901009000000503.json, accessed 2026-09-26T13:24:37-0400). Excerpt: '이상훈 전 국방부장관은 8일 상오 이임식에 앞서 국방부 기자실에서 퇴임 기자간담회를 갖고' Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "dismissed",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Appointed in the 12·5 전면개각. ko.wikipedia gives 1988-12-04 as the start, which the 국방부 list (1988.12.5), the 연표 and same-day news (임명장 on the afternoon of 1988-12-05, 4 p.m. per 한국일보) contradict. Removed as the person responsible for the 보안사 민간인 사찰 affair (윤석양 이병 폭로). He handed in a 사표 at the PM's residence on the evening of 1990-10-07, and 노태우 accepted it and named 이종구 on the morning of 1990-10-08. The 청와대 spokesman framed it as a 문책 인사, not a 의원면직 (동아일보 1990-10-08 p.5 '依願해임 아닌 문책인사'), so end_reason is dismissed, the convention used elsewhere in the roster for removal in the form of an accepted resignation. Hanja 李相薰 (경향신문, 동아일보 1988-12-05). 조선일보 prints the variant 李相薫. Birth date from ko.wikipedia (ko.wikipedia \"이상훈 (1933년)\" https://ko.wikipedia.org/w/index.php?oldid=41473344 (snapshot roster/sources/defense/ext88/bios/wiki_이상훈_1933년_.json, accessed 2026-09-26T09:43:11-0400), infobox 출생일 1933-06-26). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "이종구",
+   "name_hanja": "李鍾九",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1935-11-21",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1990-10-08",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1990-10-08 p.5 \"依願해임 아닌 문책인사\" (Naver News Library article 1990100800209205008, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800209205008&editNo=2&printCount=1&publishDate=1990-10-08&officeId=00020&pageNo=5&printNo=21262&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1990100800209205008.json, accessed 2026-09-26T09:33:29-0400). Excerpt: '◇┉盧泰愚대통령은 8일오전9시 신임 李鍾九국방장관에게 임명장을 수여한후 배석한 姜英勳국무총리와 함께 본관 서재에서차를 마시며\"국민의 의혹을 사지않도록 軍관계업무를 개선해 나가라\"고 특별지시.'",
+    "경향신문 1990-10-08 p.1 \"국방장관 李鍾九씨\" (Naver News Library article 1990100800329201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800329201001&editNo=3&printCount=1&publishDate=1990-10-08&officeId=00032&pageNo=1&printNo=13858&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1990100800329201001.json, accessed 2026-09-26T09:33:32-0400). Excerpt: '盧대통령은 이날상오 신임李鍾九국방부장관에게임명장을 수여했다.'",
+    "서울신문 1990-10-09 \"「보안사 사찰」 문책인사 단행/이종구 국방ㆍ구창회 보안사령관 임명\" (BigKinds news_id 01100611.20160420221531226, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160420221531226.json, accessed 2026-09-26T09:36:05-0400). Excerpt: '노 대통령은 이날 상오 신임 이종구 국방장관에게 임명장을 주었다.'",
+    "세계일보 1990-10-09 \"「사찰」 문책인사 단행/노대통령\" (BigKinds news_id 01100701.19901009000000105, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19901009000000105.json, accessed 2026-09-26T09:36:33-0400). Excerpt: '노 대통령도 이날 오전 신임 이 장관에게 임명장을 수여한 후 『민주화 상황에 맞추어 사고를 전환하고 시대상황에 맞도록 군의 업무를 개선토록 하라』고 지시했다.'",
+    "국사편찬위원회 대한민국사연표 1990-10-08 entry tcct_1990_10_08_0010 '노태우 대통령, 윤석양 이병의 보안사령부 민간사찰 폭로 관련해 국방부장관·보안사령관 경질', https://db.history.go.kr/id/tcct_1990_10_08_0010 (snapshot roster/sources/defense/ext88/events/chron_1990-10-08.html, accessed 2026-09-26T09:10:05-0400)",
+    "국방부 official 역대장관 list (tier 2), row 28대 이종구 재임기간 '1990.10.8 ~ 1991.12.20', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제28대 이종구 1990년 10월 8일 ~ 1991년 12월 20일",
+    "매일경제 1990-10-08 p.1 \"國防장관 해임\" (Naver News Library article 1990100800099201006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800099201006&editNo=1&printCount=1&publishDate=1990-10-08&officeId=00009&pageNo=1&printNo=7591&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1990100800099201006.json, accessed 2026-09-26T13:21:07-0400). Excerpt: '盧대통령은 이날상오 청와대에서 李鍾九 국방장관에게 임명장을 수여했다.' Verifier source (ext88 adversarial check).",
+    "한겨레 1990-10-09 p.1 \"국방장관·보안사령관 경질\" (Naver News Library article 1990100900289101008, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100900289101008&editNo=4&printCount=1&publishDate=1990-10-09&officeId=00028&pageNo=1&printNo=743&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1990100900289101008.json, accessed 2026-09-26T13:21:10-0400). Excerpt: '한편 노 대통령은 8일 오전 신임 이 장관에게 임명장을 준 뒤' Verifier source (ext88 adversarial check).",
+    "한국일보 1990-10-09 \"신ㆍ구 국방장관 인터뷰\" (BigKinds news_id 01101101.19901009000000503, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19901009000000503.json, accessed 2026-09-26T13:24:37-0400). Excerpt: '오늘 아침 임명장을 받는 자리에서야 알았다.' 이종구's own answer in the interview after his 취임식 of 1990-10-08 상오. Verifier source (ext88 adversarial check).",
+    "중앙일보 1990-10-08 \"“보안사 기능 약화 안된다”/이 국방 회견/필요하면 기구는 축소\" (BigKinds news_id 01100901.19901008214347002, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100901.19901008214347002.json, accessed 2026-09-26T13:23:49-0400). Excerpt: '신임 이종구 국방장관은 8일 취임 직후 가진 기자회견에서' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1991-12-20",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1991-12-21 p.2 \"「国防장관 이취임」\" (Naver News Library article 1991122100239102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100239102002&editNo=1&printCount=1&publishDate=1991-12-21&officeId=00023&pageNo=2&printNo=21849&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1991122100239102002.json, accessed 2026-09-26T09:33:56-0400). Excerpt: '『국군은 남의 군대가 아니며,허약한 군대는 불필요하다.』취임일성부터강성이미지를 뿌려왔던 李鍾九 전국방부장관이 20일 오전육군회관에서 있었던 이취임식을 끝으로 자리를 물러났다.불과 이틀전전군주요지휘관 회의를 주재했을 때만해도 그의 유임을 기정사실로 여겨왔던 국방부로서는 이날 뜻밖의「행사」를 치른 셈이 됐다.'",
+    "경향신문 1991-12-21 p.2 \"국방장관 이·취임\" (Naver News Library article 1991122100329102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329102002&editNo=15&printCount=1&publishDate=1991-12-21&officeId=00032&pageNo=2&printNo=14265&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1991122100329102002.json, accessed 2026-09-26T09:33:50-0400). Excerpt: '신임 崔世昌국방부장관中과 金振永육참총장右등이 20일 이임식을 끝내고 국방부를 떠나는 李鍾九前장관을 전송하고있다.'",
+    "국민일보 1991-12-20 \"노 대통령 임명장 수여\" (BigKinds news_id 01100201.19911220000000106, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100201.19911220000000106.json, accessed 2026-09-26T09:37:30-0400). Excerpt: '노태우대통령은 20일 오전 최세창국방장관등 신임장관 7명과 장관급으로 승진한 김종휘외교안보수석비서관,김학준신임공보수석비서관에게 임명장을 수여했다.노대통령은 이 자리에서 『민주화가 뿌리내리고 북방정책도 통일의 날은 기대할 수 있을정도로 많은 열매를 맺은 만큼 이제 우리가 총력을 기울일 분야는 경제』라고 강조하고 『제조업분야의 경쟁력강화와 생산성 향상을 통해 국제수지를 개선하는데 총력을 기울이라』고 지시했다.' Successor's 임명장 on the same morning.",
+    "세계일보 1991-12-20 \"7부장관 경질\" (BigKinds news_id 01100701.19911220000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19911220000000101.json, accessed 2026-09-26T09:33:27-0400). Excerpt: '◎국방 최세창/문화 이수정/체육청소년 이진삼/상공 한봉수/건설 서영택/총무처 이상배/정무2 김갑현/외교안보수석 김종휘/청와대대변인 김학준/철도청장 최평욱/산림청장 유종탁노태우대통령은 19일 오후 개각을 단행,국방 문화 체육청소년 상공 건설 총무처 정무2등 7개부처의 장관을 경질했다.'",
+    "국사편찬위원회 대한민국사연표 1991-12-19 entry tcct_1991_12_19_0010 '노태우 대통령, 국방부장관 등 7개 부처장관 경질', https://db.history.go.kr/id/tcct_1991_12_19_0010 (snapshot roster/sources/defense/ext88/events/chron_1991-12-19.html, accessed 2026-09-26T09:10:57-0400)",
+    "국방부 official 역대장관 list (tier 2), row 28대 이종구 재임기간 '1990.10.8 ~ 1991.12.20', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제28대 이종구 1990년 10월 8일 ~ 1991년 12월 20일",
+    "경향신문 1991-12-21 p.9 \"국방행정공개로 民과 거리좁힐터 崔世昌 국방부장관\" (Naver News Library article 1991122100329109007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329109007&editNo=15&printCount=1&publishDate=1991-12-21&officeId=00032&pageNo=9&printNo=14265&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1991122100329109007.json, accessed 2026-09-26T13:21:13-0400). Excerpt: '이날 상오9시반 盧泰愚대통령으로부터 임명장을 받은뒤 이·취임식에 이어' About the successor 崔世昌 on 1991-12-20 (이날 = 20일 per the story). Verifier source (ext88 adversarial check).",
+    "동아일보 1991-12-20 p.3 \"\"예상보다小幅\"…官街차분\" (Naver News Library article 1991122000209203005, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203005&editNo=2&printCount=1&publishDate=1991-12-20&officeId=00020&pageNo=3&printNo=21684&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1991122000209203005.json, accessed 2026-09-26T09:29:16-0400). Excerpt: '그는 청와대에서 11시50분경 국방부로 와 측근들을 불러\"자리를 정리해야겠다\"고 처음으로 자신의 이임사실만 공개.' Told of his replacement on 1991-12-19. The formal handover followed on 1991-12-20. Verifier source (ext88 adversarial check).",
+    "한국일보 1991-12-20 \"신임각료에 임명장\" (BigKinds news_id 01101101.19911220000000102, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19911220000000102.json, accessed 2026-09-26T09:44:13-0400). Excerpt: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화,' Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Former 육군참모총장, appointed on 1990-10-08 (임명장 at 09:00) after 이상훈's removal. Replaced in the 12·19 개각 (7개 부처). The reshuffle was announced on the afternoon of 1991-12-19 (the 연표 dates it 12-19), the successor's 임명장 was given on the morning of 1991-12-20 and 이종구 held his 이임식 that morning. Hanja 李鍾九 as printed by 동아일보 and 경향신문 1990-10-08. 매일경제 and ko.wikipedia write 李鐘九. The 이종구 in na_members_12_22.csv (born 1950-09-22, 17th, 18th and 20th NA) is a namesake, not this person. Birth date from ko.wikipedia (ko.wikipedia \"이종구 (1935년)\" https://ko.wikipedia.org/w/index.php?oldid=41473330 (snapshot roster/sources/defense/ext88/bios/wiki_이종구_1935년_.json, accessed 2026-09-26T09:43:12-0400), infobox 출생일 1935-11-21). 서울신문 1990-10-09 (BigKinds 01100611.20160420221531226) gives his age as 55 and his origin as 경북 칠곡, while ko.wikipedia gives 대구. No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "최세창",
+   "name_hanja": "崔世昌",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1934-04-17",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1991-12-20",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1991-12-20 p.2 \"盧 대통령 신임 장관에 임명장\" (Naver News Library article 1991122000099202020, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000099202020&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00009&pageNo=2&printNo=7985&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1991122000099202020.json, accessed 2026-09-26T09:29:20-0400). Excerpt: '盧泰愚대통령은 20일 오전 청와대에서 신임 崔世昌국방 李秀正문화 李鎭三체육청소년 韓鳳洙상공 徐榮澤건설 李相培총무처 金甲現정무2장관과 장관급으로 승진한 金宗輝대통령외교·안보수석비서관 金學俊대통령공보수석비서관겸대변인에게 각각 임명장을수여했다.'",
+    "조선일보 1991-12-21 p.2 \"◇임명장 수여\" (Naver News Library article 1991122100239102003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100239102003&editNo=1&printCount=1&publishDate=1991-12-21&officeId=00023&pageNo=2&printNo=21849&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1991122100239102003.json, accessed 2026-09-26T09:33:42-0400). Excerpt: '盧泰愚대통령이 20일 오전 청와대에서 崔世昌 국방장관등 신임 각료에게 임명장을 주고 있다.<具滋虎기자>'",
+    "국민일보 1991-12-20 \"노 대통령 임명장 수여\" (BigKinds news_id 01100201.19911220000000106, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100201.19911220000000106.json, accessed 2026-09-26T09:37:30-0400). Excerpt: '노태우대통령은 20일 오전 최세창국방장관등 신임장관 7명과 장관급으로 승진한 김종휘외교안보수석비서관,김학준신임공보수석비서관에게 임명장을 수여했다.노대통령은 이 자리에서 『민주화가 뿌리내리고 북방정책도 통일의 날은 기대할 수 있을정도로 많은 열매를 맺은 만큼 이제 우리가 총력을 기울일 분야는 경제』라고 강조하고 『제조업분야의 경쟁력강화와 생산성 향상을 통해 국제수지를 개선하는데 총력을 기울이라』고 지시했다.'",
+    "세계일보 1991-12-20 \"7부장관 경질\" (BigKinds news_id 01100701.19911220000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19911220000000101.json, accessed 2026-09-26T09:33:27-0400). Excerpt: '국방장관에는 최세창전합참의장,문화장관에는 이수정청와대대변인,체육청소년장관에는 이진삼전육군참모총장,상공장관에는 한봉수전대한무역진흥공사사장,건설장관에는 서영택국세청장,총무처장관에는 이상배전청와대행정수석,정무2장관에는 김갑현YWCA연합회회장이 임명됐다.'",
+    "국방부 official 역대장관 list (tier 2), row 29대 최세창 재임기간 '1991.12.20 ~ 1993.2.26', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제29대 최세창 1991년 12월 20일 ~ 1993년 2월 26일",
+    "동아일보 1991-12-20 p.3 \"새内閣 협조 당부\" (Naver News Library article 1991122000209203004, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203004&editNo=2&printCount=1&publishDate=1991-12-20&officeId=00020&pageNo=3&printNo=21684&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1991122000209203004.json, accessed 2026-09-26T13:21:12-0400). Excerpt: '盧泰愚대통령이 20일오전 靑瓦臺에서 崔世昌국방장관등 신임장관들에게 임명장을 준뒤' Verifier source (ext88 adversarial check).",
+    "한국일보 1991-12-20 \"신임각료에 임명장\" (BigKinds news_id 01101101.19911220000000102, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19911220000000102.json, accessed 2026-09-26T09:44:13-0400). Excerpt: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화,' Verifier source (ext88 adversarial check).",
+    "서울경제 1991-12-21 \"신임장관·수석비서관 盧대통령, 임명장수여\" (BigKinds news_id 02100311.19911221172532003, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_02100311.19911221172532003.json, accessed 2026-09-26T09:43:49-0400). Excerpt: '盧泰愚대통령은 20일 상오 청와대에서 신임 崔世昌국방,' Verifier source (ext88 adversarial check).",
+    "경향신문 1991-12-21 p.9 \"국방행정공개로 民과 거리좁힐터 崔世昌 국방부장관\" (Naver News Library article 1991122100329109007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329109007&editNo=15&printCount=1&publishDate=1991-12-21&officeId=00032&pageNo=9&printNo=14265&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1991122100329109007.json, accessed 2026-09-26T13:21:13-0400). Excerpt: '이날 상오9시반 盧泰愚대통령으로부터 임명장을 받은뒤' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1993022600209201001.json, accessed 2026-09-26T09:12:13-0400). Excerpt: '金대통령은 이날 새내각의 전국무위원과 안기부장서울시장 平統사무총장등모두 27명의 새정부진용을임명,발령했다.' Successor named and appointed on 1993-02-26.",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01601101.19930226014940103.json, accessed 2026-09-26T09:31:22-0400). Excerpt: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다.'",
+    "문화일보 1993-02-27 \"기획원李經植 통일원韓完相씨\" (BigKinds news_id 01100501.19930227052852101, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100501.19930227052852101.json, accessed 2026-09-26T09:38:58-0400). Excerpt: '金泳三대통령은 26일 24개 부처의 장관을 비롯 서울시장、 안기부장、 민주평통 사무총장등 27명의명단을 발표한뒤 임명장을 수여했다。'",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; snapshot roster/sources/defense/ext88/events/pa_schedule_김영삼_1993_p1.html, accessed 2026-09-26T08:49:55-0400)",
+    "국사편찬위원회 대한민국사연표 1993-02-26 entry tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표', https://db.history.go.kr/id/tcct_1993_02_26_0010 (snapshot roster/sources/defense/ext88/events/chron_1993-02-26.html, accessed 2026-09-26T09:05:03-0400)",
+    "국방부 official 역대장관 list (tier 2), row 29대 최세창 재임기간 '1991.12.20 ~ 1993.2.26', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제29대 최세창 1991년 12월 20일 ~ 1993년 2월 26일",
+    "조선일보 1993-02-24 p.3 \"法으론 0시 離-就任…선서는 10시 「두 大統領」10시간\" (Naver News Library article 1993022400239103001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400239103001&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00023&pageNo=3&printNo=22267&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993022400239103001.json, accessed 2026-09-26T13:21:15-0400). Excerpt: '6共의 국무총리와 각료들은 신임 국무총리와 각료들이 정식임명되는 시점까지 직책을계속 수행한다는 설명이다.예를들어 25일에 국방관련 문제가 발생했을경우 현崔世昌국방장관이金泳三대통령을 보필하게되는 것이다.' Verifier source (ext88 adversarial check).",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常사태 새政府가 대처\"\" (Naver News Library article 1993022400099202004, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, snapshot roster/sources/defense/ext88/verify88/transition93/nl_1993022400099202004.json, accessed 2026-09-26T09:13:01-0400). Excerpt: '따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.' Reported as the 총무처 interpretation of 1993-02-24. Verifier source (ext88 adversarial check).",
+    "동아일보 1993-02-26 p.3 \"\"適任\"…\"意外\"…환영과 우려\" (Naver News Library article 1993022600209203001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=3&printNo=22097&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993022600209203001.json, accessed 2026-09-26T09:36:12-0400). Excerpt: '퇴임하는 崔世昌장관에게 가' The morning of 1993-02-26, right after the 조각 announcement. Verifier source (ext88 adversarial check).",
+    "서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\" (BigKinds news_id 01100611.20160421220544125, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100611.20160421220544125.json, accessed 2026-09-26T09:53:05-0400). Excerpt: '권장관은 조각발표 직후 쇄도하는 축하객들을 물리치고 곧바로 장관실로 직행,퇴임하는 최세창장관에게 정중히 인사.' Verifier source (ext88 adversarial check).",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993022700289101001.json, accessed 2026-09-26T09:12:18-0400). Excerpt: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다.' The successor's 임명장, afternoon of 1993-02-26. Verifier source (ext88 adversarial check).",
+    "세계일보 1993-02-25 \"새 정부출범 전야 관가표정\" (BigKinds news_id 01100701.19930225000000201, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930225000000201&returnCnt=1&sectionDiv=1000, snapshot roster/sources/defense/ext88/verify88/rerun0927/articles/bk_01100701.19930225000000201.json, accessed 2026-09-26T09:50:08-0400). Excerpt: '장관 이취임식은 대통령취임다음날인 26일 오후2시 육군회관에서 가질 예정으로,부속실등 관련부서에서는 이취임식및 업무인계인수 준비작업으로 바쁜 분위기.' The same story says '노대통령 임기의 마지막 내각인 현승종총리 이하 현국무위원들은 26일 새내각이 탄생하면 곧바로 이취임식을 갖고 대부분 야인으로 돌아간다.' The story reports events of 1993-02-24, including 최세창's last 국무회의, and the plan for the handover, so it predates the event. Verifier source (ext88 adversarial check, re-run 2026-09-27).",
+    "동아일보 1993-02-27 p.2 \"「內部승진」과 軍의 기대\" (Naver News Library article 1993022700209202014, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209202014&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=2&printNo=22098&publishType=00020, snapshot roster/sources/defense/ext88/verify88/rerun0927/articles/nl_1993022700209202014.json, accessed 2026-09-27T21:50:58-0400). Excerpt: '26일 저녁 6시반 국방부안에 있는 육군회관. 합참의장과 육해공군 참모총장을 비롯한 군수뇌와 퇴역원로들이 참석한 가운데 국방부장관의 이취임 리셉션이 열렸다.' A report after the event of the 국방부장관 이·취임 reception on the evening of 1993-02-26. Verifier source (ext88 adversarial check, re-run 2026-09-27)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Appointed in the 12·19 개각 (announced 1991-12-19, 임명장 1991-12-20). Caretaker holdover after the 김영삼 inauguration on 1993-02-25. He was still acting as 국방부장관 that day, seeing the new President off at the 국립묘지 (매일경제 1993-02-25 p.2 and 조선일보 1993-02-26 p.2, News Library 1993022500099202005 and 1993022600239102002, search snapshot roster/sources/defense/ext88/probe/nl_최세창_이임_1993-02-25_1993-03-02_p1.json). The successor was named and received his 임명장 on the afternoon of 1993-02-26, so the end date is the successor's appointment day. The verifier re-run of 2026-09-27 found dated reports of the 국방부 handover itself. 세계일보 1993-02-25 says the 이·취임식 was set for 14:00 on 1993-02-26 at the 육군회관, and 동아일보 1993-02-27 p.2 reports the 국방부장관 이·취임 reception at the 육군회관 at 18:30 on 1993-02-26. Birth date from ko.wikipedia (ko.wikipedia \"최세창\" https://ko.wikipedia.org/w/index.php?oldid=41842980 (snapshot roster/sources/defense/ext88/bios/wiki_최세창.json, accessed 2026-09-26T09:43:12-0400), infobox 출생일 1934-04-17). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3). Verifier (ext88) dispute note. 중앙일보 1993-02-25 \"내일 조각발표\" (BigKinds 01100901.19930225151908002, snapshot roster/sources/defense/ext88/verify88/transition93/bk_01100901.19930225151908002.json, accessed 2026-09-26T09:12:16-0400) says '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다', which would put the last day on 1993-02-25. It is a single report. The 총무처 view reported by 매일경제 1993-02-24 p.2 (News Library 1993022400099202004) was that the outgoing ministers need not resign and leave when the new President appoints their successors, 조선일보 1993-02-24 p.3 (1993022400239103001) says the 6공 ministers serve until their successors are formally appointed and names 崔世昌 as the minister who would serve 김영삼 on 02-25, and 동아일보 1993-02-26 p.3 and 서울신문 1993-02-27 still call him '퇴임하는 崔世昌장관' on the morning of 1993-02-26. The 국방부 list (tier 2) also prints 1993.2.26. No 관보 exists for these years, so the legal effective date of any 사표 수리 cannot be read from a tier-1 record. The end is kept at 1993-02-26 as the better-supported value and the spell is marked disputed. Cross-lineage state at the verifier re-run of 2026-09-27T21:54:41-0400. Every other verified ext88 file ends its outgoing minister on 1993-02-26 (21 files). The foreign and education builder files used 1993-02-25 from the same 중앙일보 report, and their verifiers moved 이상옥 and 조완규 to 1993-02-26. Health and transport had no verified file at this check, and their builder files end on 1993-02-26. The PM files end 현승종 on 1993-02-25, the day 황인성 was appointed after the consent vote."
+  },
+  {
+   "name": "권영해",
+   "name_hanja": "權寧海",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-09-09",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1993022600209201001.json, accessed 2026-09-26T09:12:13-0400). Excerpt: '金대통령은 외무부장관에 韓昇洲고려대교수,내무장관에 李海龜民自黨의원,재무장관에 洪在馨한국외환은행장,법무장관에 朴熺太民自黨의원,국방장관에權寧海국방차관을 각각 임명했다.'",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article 1993022700239101006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993022700239101006.json, accessed 2026-09-26T09:29:49-0400). Excerpt: '金泳三대통령이 26일 오후 청와대 본관 앞에서 이날 임명장을 받은 신임 국무위원들과 밝게웃으며 기념촬영을 하고있다.①金泳三대통령②黃寅性총리③李經植기획원④韓完相통일원⑤韓昇洲외무⑥李海龜내무⑦洪在馨재무⑧朴熺太법무⑨權寧海국방⑩吳炳文교육⑪李敏燮문체⑫許信行농수산⑬金喆壽상공자원⑭許在榮건설⑮朴孃實보사⑯李仁濟노동⑰李啓謚교통⑱尹東潤체신⑲崔昌潤총무처⑳金始中과기처㉑黃山城환경처㉒吳隣煥공보처㉓金德龍정무1㉔權英子정무2㉕黃吉秀법제처㉖李炳台보훈처㉗金尙哲서울시장㉘金悳안기부장㉙柳瓊賢평통총장㉚朴寬用비서실장'",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01601101.19930226014940103.json, accessed 2026-09-26T09:31:22-0400). Excerpt: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다.'",
+    "부산일보 1993-02-26 \"부총리 李經植(경제)·韓完相씨(통일)\" (BigKinds news_id 01500701.20160409010410104, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01500701.20160409010410104.json, accessed 2026-09-26T09:38:30-0400). Excerpt: '또 국방장관에는 권영해 국방차관, 교육장관에는 오병문 전남대 전 총장, 문화체육장관에는 이민섭 민자당의원, 농림수산장관에는 허신행 한국농촌경제연구원 원장이 임명됐다.'",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; snapshot roster/sources/defense/ext88/events/pa_schedule_김영삼_1993_p1.html, accessed 2026-09-26T08:49:55-0400)",
+    "국방부 official 역대장관 list (tier 2), row 30대 권영해 재임기간 '93.2.26 ~ ', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400); Wayback capture 20250120152042 https://web.archive.org/web/20250120152042id_/https://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&pageIndex=3&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20250120152042_mnd_pastministers_p3_2025.html, accessed 2026-09-25T13:50:45-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제30대 권영해 1993년 2월 26일 ~ 1993년 12월 22일",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993022700289101001.json, accessed 2026-09-26T09:12:18-0400). Excerpt: '△국방＝권영해 국방차관' The same story says the 27 appointees received the 임명장 that afternoon (1993-02-26). Verifier source (ext88 adversarial check).",
+    "한겨레 1993-02-27 p.3 \"새 진용\" (Naver News Library article 1993022700289103002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289103002&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=3&printNo=1487&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993022700289103002.json, accessed 2026-09-26T09:33:21-0400). Excerpt: '김영삼 대통령이 26일 오후 청와대에서 새 내각 각료들에게 임명장을 준 뒤 기념사진을 찍고 있다.' Verifier source (ext88 adversarial check).",
+    "한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\" (BigKinds news_id 01101101.19930227000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19930227000000101.json, accessed 2026-09-26T09:24:53-0400). Excerpt: '국방장관에는 권영해 국방차관이 승진·임명됐으며' Verifier source (ext88 adversarial check).",
+    "중부매일 1993-02-27 \"[政街抄錄] 金대통령 임명장 수여도 기존 儀典에 얽매이지 않고 破格的\" (BigKinds news_id 01400401.19930227172200104, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01400401.19930227172200104.json, accessed 2026-09-26T10:28:50-0400). Excerpt: '26일 오후 24개 부처장관과 안기부장 등 이날 임명된 27명에게 임명장을 수여하면서도' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1993-12-22",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1993-12-23 p.4 \"22일 오전 국방부장관 이취임식에서 李炳台신임...\" (Naver News Library article 1993122300209104009, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300209104009&editNo=40&printCount=1&publishDate=1993-12-23&officeId=00020&pageNo=4&printNo=22380&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993122300209104009.json, accessed 2026-09-26T09:34:12-0400). Excerpt: '22일 오전 국방부장관 이취임식에서 李炳台신임국방부장관(왼쪽)이 權寧海전장관으로부터 국방부기를 넘겨받고 있다.'",
+    "한국일보 1993-12-23 \"무기사기 등 추궁… 군수뇌 “진땀”/이 국방　취임첫날\" (BigKinds news_id 01101101.19931223000003107, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19931223000003107.json, accessed 2026-09-26T09:39:38-0400). Excerpt: '22일　상오　이취임식에　이어　하오　1시30분부터　국방부　제1회의실에는　합참의장과　각군총장　국방부　직할부대장등　장군　1백여명이　모여　긴장된　표정으로　신임장관을　맞았다.'",
+    "부산일보 1993-12-22 \"＂軍개혁 철저히 완성＂\" (BigKinds news_id 01500701.20160409041329344, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01500701.20160409041329344.json, accessed 2026-09-26T09:40:04-0400). Excerpt: '이신임 장관은 이날 오전 11시 국방부 내 육군회관에서 열린 장관 이·취임식에서『국방을 이끌어가면서 전임자가 정립해 놓은 정책방향과 추진전략을 계승, 발전시켜 군이 한 차원 높게 도약 할 수 있도록 심혈을 기울여 나 갈 것』이라면서 이 같이 밝혔다.'",
+    "국사편찬위원회 대한민국사연표 1993-12-21 entry tcct_1993_12_21_0010 '김영삼 대통령, 14개 부처 장관 경질', https://db.history.go.kr/id/tcct_1993_12_21_0010 (snapshot roster/sources/defense/ext88/events/chron_1993-12-21.html, accessed 2026-09-26T09:05:05-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제30대 권영해 1993년 2월 26일 ~ 1993년 12월 22일",
+    "동아일보 1993-12-23 p.4 \"\"軍개혁기류 어떻게 바뀔까\"「하나회」長官 行步에 촉각\" (Naver News Library article 1993122300209104008, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300209104008&editNo=40&printCount=1&publishDate=1993-12-23&officeId=00020&pageNo=4&printNo=22380&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993122300209104008.json, accessed 2026-09-26T13:21:16-0400). Excerpt: '22일 오전시 국방부구내 육군회관에서 열린 제30대 국방부장관이임및 제31대장관취임식에 참석한많은 장성들은' A different article from the builder's photo caption on the same 동아일보 page (1993122300209104009), same outlet. Verifier source (ext88 adversarial check).",
+    "조선일보 1993-12-23 p.2 \"\"일 안하는 각료 용서안해\"\" (Naver News Library article 1993122300239102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102002&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993122300239102002.json, accessed 2026-09-26T09:45:50-0400). Excerpt: '金대통령은 이날 오전청와대에서 丁渽錫경제부총리와 李榮德통일부총리등 신임 각료 14명에게 임명장을 수여하는 자리에서' Verifier source (ext88 adversarial check).",
+    "한국일보 1993-12-23 \"“국제경쟁력　지상과제”/김 대통령,새내각에　지시\" (BigKinds news_id 01101101.19931223000000104, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19931223000000104.json, accessed 2026-09-26T13:25:17-0400). Excerpt: '『신임　국방장관은　책임을　지고　국민의　의혹이　없도록　모든　것을　밝히도록　하라』고　지시했다.' Instruction given at the 1993-12-22 임명장 ceremony. Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "First 국방부장관 of the 김영삼 government, promoted from 국방부 차관. Named and given the 임명장 on 1993-02-26. Replaced in the 12·21 개각 (14개 부처, announced 1993-12-21). The successor's 임명장 was given at 09:00 on 1993-12-22 and the 이·취임식 followed at 11:00 that day, so the last day is 1993-12-22. The 국방부 list leaves his end date blank ('93.2.26 ~'). He became 국가안전기획부장 in the 1994-12-23 reshuffle. Birth date from ko.wikipedia (ko.wikipedia \"권영해 (1937년)\" https://ko.wikipedia.org/w/index.php?oldid=41473345 (snapshot roster/sources/defense/ext88/bios/wiki_권영해_1937년_.json, accessed 2026-09-26T09:43:13-0400), infobox 출생일 1937-09-09). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "이병태",
+   "name_hanja": "李炳台",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-02-01",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1993-12-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "한겨레 1993-12-23 p.1 \"새 국무위원 임명장 김대통령\" (Naver News Library article 1993122300289101010, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289101010&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=1&printNo=1768&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993122300289101010.json, accessed 2026-09-26T09:34:05-0400). Excerpt: '김 대통령은 이병태 신임 국방부장관에게“무기수입 사기 사건이 지난 정부에서 일어난 일인데도 1년이 넘도록 은폐했고 특히국군통수권자인 대통령까지 속이고 숨겨온 일은 용납할 수 없다”며“국민의 의혹이 없도록 모든 것을 밝히도록 하라”고 지시했다.'",
+    "경향신문 1993-12-23 p.3 \"\"새출발\"\" (Naver News Library article 1993122300329103007, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300329103007&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00032&pageNo=3&printNo=14953&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993122300329103007.json, accessed 2026-09-26T09:34:08-0400). Excerpt: '金泳三대통령이 22일 오전 청와대에서 신임 각료들에게 임명장을 수여한뒤 기념촬영을 하고 있다.'",
+    "중앙일보 1993-12-22 \"“일 않는 장관 용서않겠다”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100901.19931222204343001, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100901.19931222204343001.json, accessed 2026-09-26T09:39:18-0400). Excerpt: '김 대통령은 이날 신임 국무위원들에게 임명장을 수여한 자리에서 이렇게 말하고 『급격한 변화와 개혁의 세계적 흐름앞에서 우리는 이에 한발 앞서 끊임없이 변화와 개혁을 추구해야 할 과제를 안고 있다』며 새 내각의 분발을 거듭 촉구했다.'",
+    "한국일보 1993-12-23 \"무기사기 등 추궁… 군수뇌 “진땀”/이 국방　취임첫날\" (BigKinds news_id 01101101.19931223000003107, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19931223000003107.json, accessed 2026-09-26T09:39:38-0400). Excerpt: '22일　상오　이취임식에　이어　하오　1시30분부터　국방부　제1회의실에는　합참의장과　각군총장　국방부　직할부대장등　장군　1백여명이　모여　긴장된　표정으로　신임장관을　맞았다.'",
+    "국방부 official 역대장관 list (tier 2), row 31대 이병태 재임기간 '1993.12.22 ~ 1994.12.24', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제31대 이병태 1993년 12월 22일 ~ 1994년 12월 24일",
+    "조선일보 1993-12-23 p.2 \"「국방장관 상견례」\" (Naver News Library article 1993122300239102001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102001&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993122300239102001.json, accessed 2026-09-26T13:21:21-0400). Excerpt: '22일 오후 1시30분 국방부청사 2층 회의실.신임 李炳台국방부장관(육사 17기·예비역중장)과 국방부및 합참의 장성급과 과장(대령)이상 1백50여명이 참석한 가운데 상견례가 열린' The same story says the 이-취임식 preceded the 상견례. Verifier source (ext88 adversarial check).",
+    "한겨레 1993-12-23 p.3 \"새국방 기용배경 아리송\" (Naver News Library article 1993122300289103003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289103003&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=3&printNo=1768&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993122300289103003.json, accessed 2026-09-26T13:21:18-0400). Excerpt: '이 장관은 22일 취임 뒤 국방부·합참 소속 장성급 직원들이 참석한 가운데 열린첫 상견례에서' Verifier source (ext88 adversarial check).",
+    "한국일보 1993-12-23 \"“국제경쟁력　지상과제”/김 대통령,새내각에　지시\" (BigKinds news_id 01101101.19931223000000104, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19931223000000104.json, accessed 2026-09-26T13:25:17-0400). Excerpt: '김대통령은　이날　상오　청와대에서　정재석경제부총리와　이영덕통일부총리등　신임각료　14명에게　임명장을　수여하는　자리에서' Verifier source (ext88 adversarial check).",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100101.19931223000000104.json, accessed 2026-09-26T09:33:33-0400). Excerpt: '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는 자리에서' Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1994-12-24",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1994-12-25 p.4 \"◇이임 李前국방\" (Naver News Library article 1994122500239104010, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104010&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122500239104010.json, accessed 2026-09-26T09:34:17-0400). Excerpt: '李炳台전국방장관이 24일 오전 육군회관에서 이임식을 가진뒤 직원들과 차례로 악수하고 있다.'",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122500099102002.json, accessed 2026-09-26T09:28:16-0400). Excerpt: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다.'",
+    "중앙일보 1994-12-24 \"부총리 洪在馨.金悳 임명-전면 개각단행\" (BigKinds news_id 01100901.19941224155530002, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100901.19941224155530002.json, accessed 2026-09-26T09:40:32-0400). Excerpt: '金대통령은 이날 오전 청와대에서 홍재형(洪在馨)부총리겸 재정경제원장관등 신임 국무위원들에게 임명장을 준 뒤 국무회의를 주재,『이번 개각은 문민정부의 새출발을 다지는 중요한 계기』라고말하고『역사에 이끌려다니는 민족이 아니라 역사를 창조하는 민족이 될 수 있도록 새로운 결심과 다짐을 해달라』고 당부했다.'",
+    "국사편찬위원회 대한민국사연표 1994-12-23 entry tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질', https://db.history.go.kr/id/tcct_1994_12_23_0010 (snapshot roster/sources/defense/ext88/events/chron_1994-12-23.html, accessed 2026-09-26T09:05:22-0400)",
+    "국방부 official 역대장관 list (tier 2), row 31대 이병태 재임기간 '1993.12.22 ~ 1994.12.24', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제31대 이병태 1993년 12월 22일 ~ 1994년 12월 24일",
+    "경향신문 1994-12-25 p.5 \"취임 첫날 部處 표정「1部2차관·2과장」진풍경 財經院\" (Naver News Library article 1994122500329105002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329105002&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=5&printNo=15293&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122500329105002.json, accessed 2026-09-26T09:28:19-0400). Excerpt: '국방부는 업무를 잘아는 李養鎬 합참의장이장관에 기용됨에 따라 장관 이·취임식및 장군 면담식(면알식),국·실별 업무보고를 갖는등 개각 첫날을 차분하게 보내는 모습.' The same round-up dates the first day by '24일 열린 洪在馨부총리겸 재정경제원장관 취임식'. Verifier source (ext88 adversarial check).",
+    "한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\" (Naver News Library article 1994122400289101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400289101001&editNo=5&printCount=1&publishDate=1994-12-24&officeId=00028&pageNo=1&printNo=2103&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122400289101001.json, accessed 2026-09-26T10:26:30-0400). Excerpt: '이날 개각 발표에 앞서 이홍구총리 주재로 열린 임시국무회의에서 이 총리를 뺀 모든 각료들은 일괄사표를 제출했다.' 1994-12-23. The resignations took effect with the successors' 임명장 on 1994-12-24. Verifier source (ext88 adversarial check).",
+    "조선일보 1994-12-25 p.4 \"물러난 각료들은 어디로\" (Naver News Library article 1994122500239104006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104006&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122500239104006.json, accessed 2026-09-26T10:05:39-0400). Excerpt: '李炳台 前국방장관은 지난 1년동안「격무에 시달렸기 때문」당분간 조용히 휴식을 취할 계획인 것으로 알려졌다.' Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Moved from 국가보훈처장. Named in the 12·21 개각 on 1993-12-21 and appointed with the 임명장 at 09:00 on 1993-12-22 (동아일보, 한겨레 and 매일경제 of 1993-12-22 announce the ceremony for that morning, News Library 1993122200209101001, 1993122200289101001 and 1993122200099101001, search snapshot roster/sources/defense/ext88/appt/nl_T_1993_12_이병태_임명장_p1.json). Replaced in the 12·23 개각 (19개 부처, announced 1994-12-23 after the 정부조직법 개정). He took part in the cabinet's 일괄사표 국무회의 on the afternoon of 1994-12-23 (조선일보 1994-12-24 p.3, News Library 1994122400239103007, search snapshot roster/sources/defense/ext88/events/nl_T_1994_12_이병태_p1.json) and held his 이임식 on the morning of 1994-12-24, the day the new ministers received their 임명장. Birth date from ko.wikipedia (ko.wikipedia \"이병태 (1937년)\" https://ko.wikipedia.org/w/index.php?oldid=42254316 (snapshot roster/sources/defense/ext88/bios/wiki_이병태_1937년_.json, accessed 2026-09-26T09:43:13-0400), infobox 출생일 1937-02-01). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "이양호",
+   "name_hanja": "李養鎬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-06-16",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1994-12-24",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122500099102002.json, accessed 2026-09-26T09:28:16-0400). Excerpt: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다.'",
+    "중앙일보 1994-12-24 \"부총리 洪在馨.金悳 임명-전면 개각단행\" (BigKinds news_id 01100901.19941224155530002, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100901.19941224155530002.json, accessed 2026-09-26T09:40:32-0400). Excerpt: '金대통령은 이날 오전 청와대에서 홍재형(洪在馨)부총리겸 재정경제원장관등 신임 국무위원들에게 임명장을 준 뒤 국무회의를 주재,『이번 개각은 문민정부의 새출발을 다지는 중요한 계기』라고말하고『역사에 이끌려다니는 민족이 아니라 역사를 창조하는 민족이 될 수 있도록 새로운 결심과 다짐을 해달라』고 당부했다.'",
+    "조선일보 1994-12-25 p.4 \"개각후 첫각의\"최대권한-무한책임\"강조 金대통령\" (Naver News Library article 1994122500239104001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122500239104001.json, accessed 2026-09-26T09:31:22-0400). Excerpt: '이날 국무회의에 앞선임명장 수여식에는 미처귀국하지 못한 孔魯明외무장관,韓昇洙비서실장,柳宗夏외교안보수석 등이 불참해 26일 추가로 임명장수여식을 가질 예정.' Only 공노명, 한승수 and 유종하, who were abroad, missed the 1994-12-24 ceremony.",
+    "조선일보 1994-12-24 p.1 \"軍수뇌도 人事\" (Naver News Library article 1994122400239101003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239101003&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=1&printNo=22895&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122400239101003.json, accessed 2026-09-26T09:34:20-0400). Excerpt: '金泳三대통령은 23일 李養鎬합참의장을 예편시켜국방장관에 임명한 뒤 軍후속 인사도단행,합참의장에 金東鎭육군참모총장을,육참총장에 尹龍男3군사령관을 각각 임명했다.' Named and discharged from the air force on 1994-12-23.",
+    "서울신문 1994-12-24 \"부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편\" (BigKinds news_id 01100611.20160422183118192, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160422183118192.json, accessed 2026-09-26T09:34:57-0400). Excerpt: '이날 개각에서 외무부장관에는 공로명주일본대사,내무부장관에 김용태민자당의원,법무부장관에 안우만전대법관,국방부장관에 이양호합참의장,문화체육부장관에 주돈식청와대대변인,초대 통상산업부장관에 박재윤재무부장관이 임명됐다.'",
+    "국방부 official 역대장관 list (tier 2), row 32대 이양호 재임기간 '1994.12.24 ~ 1996.10.18', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제32대 이양호 1994년 12월 24일 ~ 1996년 10월 18일",
+    "경향신문 1994-12-25 p.5 \"취임 첫날 部處 표정「1部2차관·2과장」진풍경 財經院\" (Naver News Library article 1994122500329105002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329105002&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=5&printNo=15293&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122500329105002.json, accessed 2026-09-26T09:28:19-0400). Excerpt: '국방부는 업무를 잘아는 李養鎬 합참의장이장관에 기용됨에 따라 장관 이·취임식및 장군 면담식(면알식),국·실별 업무보고를 갖는등 개각 첫날을 차분하게 보내는 모습.' 개각 첫날 = 1994-12-24. Verifier source (ext88 adversarial check).",
+    "경향신문 1994-12-25 p.5 \"신임각료 語錄\" (Naver News Library article 1994122500329105001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329105001&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=5&printNo=15293&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122500329105001.json, accessed 2026-09-26T13:21:24-0400). Excerpt: '◇李養鎬 국방부장관=안보상황이 시시각각으로변화·발전하고' Quoted from his 취임사 of 1994-12-24. Verifier source (ext88 adversarial check).",
+    "한겨레 1994-12-26 p.4 \"군 후속인사 당분간 없을듯\" (Naver News Library article 1994122600289104011, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122600289104011&editNo=5&printCount=1&publishDate=1994-12-26&officeId=00028&pageNo=4&printNo=2105&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122600289104011.json, accessed 2026-09-26T13:21:27-0400). Excerpt: '신임 이양호 국방장관도 취임 뒤 기자회견에서' Verifier source (ext88 adversarial check).",
+    "세계일보 1994-12-24 \"“실무관료 중용” 환영일색/「12·23」 대폭 개각\" (BigKinds news_id 01100701.19941224000000204, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01100701.19941224000000204.json, accessed 2026-09-26T10:05:22-0400). Excerpt: '특히 이의장이 국방장관에 임명된 것과 관련' Named on 1994-12-23 while still 합참의장. The 임명장 date is not in this story. Verifier source (ext88 adversarial check)."
+   ],
+   "end": "1996-10-18",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1996-10-19 p.1 \"◇침통한 李전국방\" (Naver News Library article 1996101900239101011, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996101900239101011&editNo=1&printCount=1&publishDate=1996-10-19&officeId=00023&pageNo=1&printNo=23516&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1996101900239101011.json, accessed 2026-09-26T09:34:32-0400). Excerpt: '18일 오전 11시국방부내 국방회관에서 열린 국방장관 이취임식에서 李養鎬(이양호)전장관이 침통한 표정으로 앉아 있다.<金昌鍾기자>'",
+    "경향신문 1996-10-19 p.1 \"침통한 離任\" (Naver News Library article 1996101900329101002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996101900329101002&editNo=45&printCount=1&publishDate=1996-10-19&officeId=00032&pageNo=1&printNo=15913&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1996101900329101002.json, accessed 2026-09-26T09:34:34-0400). Excerpt: '군기밀 유출의혹을 받고있는 李養鎬전국방장관이 18일 이임식을가진 뒤 착잡한 표정으로 국방부를 떠나고있다.'",
+    "국민일보 1996-10-18 \"“군 인사 대북 단호의지 메시지”/김 대통령\" (BigKinds news_id 01100201.19961018000000204, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100201.19961018000000204.json, accessed 2026-09-26T09:41:26-0400). Excerpt: '김 대통령은 이날 오전 청와대에서 신임 김동진 국방장관에게 임명장을 수여하고 윤용남 합참의장,도일규 육군참모총장 등 군 수뇌부로부터 진급 및 보직신고를 받는 자리에서 이같이 밝혔다.' Successor's 임명장 on the same morning.",
+    "한국일보 1996-10-18 \"국방장관 경질/군 수뇌부도 개편/후임 김동진씨 임명\" (BigKinds news_id 01101101.19961018000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01101101.19961018000000101.json, accessed 2026-09-26T09:41:53-0400). Excerpt: '김영삼 대통령은 17일 하오 이양호 국방장관을 전격 경질, 후임에 김동진 합참의장(육사 17기)을 임명했다.'",
+    "국사편찬위원회 대한민국사연표 1996-10-17 entry tcct_1996_10_17_0010 '김영삼 대통령, 국방장관에 김동진 합창의장 등 군 고위급 인사', https://db.history.go.kr/id/tcct_1996_10_17_0010 (snapshot roster/sources/defense/ext88/events/chron_1996-10-17.html, accessed 2026-09-26T09:13:44-0400)",
+    "국방부 official 역대장관 list (tier 2), row 32대 이양호 재임기간 '1994.12.24 ~ 1996.10.18', mnd.go.kr selectPastcommandersForUser.do (componentId=114, the live URL now returns 404) via Wayback capture 20181123023724 https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/ext88/lists/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/ext88/lists/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제32대 이양호 1994년 12월 24일 ~ 1996년 10월 18일",
+    "헤럴드경제 1996-10-18 \"국방장관에 金東鎭씨\" (BigKinds news_id 02100701.19961018052919102, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_02100701.19961018052919102.json, accessed 2026-09-26T13:26:41-0400). Excerpt: '金泳三대통령은 18일 오전 청와대에서 金東鎭 신임 국방장관에게 임명장을 수여하고' Verifier source (ext88 adversarial check).",
+    "경향신문 1996-10-19 p.2 \"金대통령 임명장수여 \"軍인사 北에도 단호한 메시지\"\" (Naver News Library article 1996101900329102002, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996101900329102002&editNo=45&printCount=1&publishDate=1996-10-19&officeId=00032&pageNo=2&printNo=15913&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1996101900329102002.json, accessed 2026-09-26T13:21:28-0400). Excerpt: '金대통령은 이날 청와대에서 金東鎭신임국방장관에게 임명장을 주고' 이날 = 18일 per the lead. Verifier source (ext88 adversarial check).",
+    "경향신문 1996-10-18 p.1 \"국방장관 金東鎭씨\" (Naver News Library article 1996101800329101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996101800329101001&editNo=45&printCount=1&publishDate=1996-10-18&officeId=00032&pageNo=1&printNo=15912&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1996101800329101001.json, accessed 2026-09-26T13:21:31-0400). Excerpt: '金泳三대통령은 17일 李養鎬국방부장관을 경질,후임에 金東鎭합참의장을 예편시켜 임명하는 등' Announcement 1996-10-17. The same story says the 임명장 was due on 18일 오전. Verifier source (ext88 adversarial check).",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1996), 1996-10-17 '군 고위급 인사' / '국방부장관 김동진 합참의장, 합참의장에 윤용남 육군참모총장 등 임명', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1996; snapshot roster/sources/defense/ext88/verify88/pa/pa_schedule_김영삼_1996_p1.html, accessed 2026-09-26T09:05:02-0400) Announcement day (tier 2). Verifier source (ext88 adversarial check)."
+   ],
+   "end_reason": "dismissed",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Air force general, 합참의장 when named on 1994-12-23 and discharged that day (동아일보 1994-12-24 p.1 '李신임국방장관은 이 날짜로예편했다'). The start date is the 임명장 ceremony of 1994-12-24, which the 국방부 list and ko.wikipedia also give. No story names him at that ceremony, but the only absentees reported were 공노명, 한승수 and 유종하. Removed on the afternoon of 1996-10-17 in a '전격 경질'. 한국일보 1996-10-18 (BigKinds 01101101.19961018000000301) calls it '사실상 문책성', 매일신문 1996-10-18 (01500601.19961018121904001) '문책성' and 강원도민일보 1996-10-18 (01300101.20160615083255434) '공비침투 등 문책' (search snapshot roster/sources/defense/ext88/events/bk_T_1996_10_김동진.json). The successor received his 임명장 on the morning of 1996-10-18 and 이양호 held his 이임식 at 11:00 that day, so the last day is 1996-10-18, matching the main roster's start for 김동진. The 군사기밀 유출 allegations were made public by 국민회의 at an afternoon briefing on 1996-10-17 after the removal (세계일보 1996-10-18, BigKinds 01100701.19961018000000102, search snapshot roster/sources/defense/ext88/appt/bk_T_1996_10_김동진.json), and the President ordered an investigation on 1996-10-18 (연표). Birth date from ko.wikipedia (ko.wikipedia \"이양호 (1937년)\" https://ko.wikipedia.org/w/index.php?oldid=42493747 (snapshot roster/sources/defense/ext88/bios/wiki_이양호_1937년_.json, accessed 2026-09-26T09:43:14-0400), infobox 출생일 1937-06-16). No digital 관보 exists before 2001, so dates rest on the 국방부 list (tier 2), the 대통령기록관 schedule or 국사편찬위 연표 (tier 2) and same-day news from two archives with different outlets (tier 3)."
+  },
+  {
+   "name": "김동진",
+   "name_hanja": "金東鎭",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-10-10",
+   "gender": "M",
+   "ministry": "국방부",
+   "office_title": "국방부장관",
+   "deputy_pm": false,
+   "start": "1996-10-18",
+   "start_confidence": "medium",
+   "start_sources": [
+    "경인일보 1996-10-19 \"金국방장관에 임명장\" (BigKinds metadata, news_id 01200201.19961019161610102, snapshot roster/sources/defense/news_early/bigkinds_김동진_국방장관_1996-10-17_1996-10-21.json, accessed 2026-09-24T22:47:08-0400)",
+    "서울신문 1996-10-19 \"“사랑받는 군돼야”/공직기강 확립 지시/김 대통령\" (BigKinds metadata, news_id 01100611.20160421031959112, snapshot roster/sources/defense/news_early/bigkinds_김동진_국방장관_1996-10-17_1996-10-21.json, accessed 2026-09-24T22:47:08-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제33대 김동진 1996년 10월 18일 ~ 1998년 3월 3일, 김영삼 정부",
+    "국방부 official 역대장관 list (tier 2), row 제33대 김동진 재임기간 1996.10.18 ~ 1998.3.3, mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do (componentId=114) via Wayback capture 20181123023724, https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/verify/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)"
+   ],
+   "end": "1998-03-03",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "연합뉴스 1998-03-03 11:35:00 \"<조각 발표 官街표정>-국방부\" https://n.news.naver.com/mnews/article/001/0004377538 (snapshot roster/sources/defense/news_early/naver_001_0004377538.html, accessed 2026-09-24T22:46:20-0400)",
+    "서울신문 1998-03-04 \"새 정부 첫 내각 출범/총리서리 김종필씨 임명\" (BigKinds metadata, news_id 01100611.20160421192309246, snapshot roster/sources/defense/news_early/bigkinds_천용택_국방장관_1998-03-01_1998-03-06.json, accessed 2026-09-24T22:47:14-0400)",
+    "ko.wikipedia \"대한민국 국방부 장관\" list, revid 42533700, https://ko.wikipedia.org/w/index.php?oldid=42533700 (snapshot roster/sources/defense/wiki_국방부_장관.json, accessed 2026-09-24T22:42:40-0400), row: 제33대 김동진 ... 1998년 3월 3일",
+    "국방부 official 역대장관 list (tier 2), row 제33대 김동진 재임기간 1996.10.18 ~ 1998.3.3, mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do (componentId=114) via Wayback capture 20181123023724, https://web.archive.org/web/20181123023724id_/http://www.mnd.go.kr/cop/pastcmndr/selectPastcommandersForUser.do?siteId=mnd&componentId=114&sortOrdr=--%EC%84%A0%ED%83%9D%EF%BF%BD&pageIndex=2&id=mnd_060304000000&commanderSeq=&commanderPhotoPath= (snapshot roster/sources/defense/verify/wayback_20181123023724_mnd_pastministers_p2_2018.html, accessed 2026-09-25T13:51:22-0400)",
+    "중앙일보 1998-03-04 \"김대중 대통령, '총리서리' 진통속 組閣\" (BigKinds metadata, news_id 01100901.19980304230248002, snapshot roster/sources/defense/verify/bigkinds_chun_appt.json, accessed 2026-09-25T14:04:58-0400). Reports the 1998-03-03 조각 in which 천용택 was named 국방부장관.",
+    "문화일보 1998-03-04 \"호남 출신 첫 육참 총장 나오나/군 수뇌인사 곧 단행\" (BigKinds metadata, news_id 01100501.19980304000000402, snapshot roster/sources/defense/verify/r2/bk_김동진_천용택_국방장관_임명_1998-03-03_1998-03-05.json, accessed 2026-09-25T21:50:06-0400). Round-2 verifier source. '정부는 3일 천용택 국방장관과 박춘택 신임 공군참모총장을 임명', successor appointed on 1998-03-03.",
+    "세계일보 1998-03-03 \"ROTC 어제 임관식\" (BigKinds metadata, news_id 01100701.19980303000002606, snapshot roster/sources/defense/verify/r2/bk_김동진_김동진_국방장관_1998-03-02_1998-03-06.json, accessed 2026-09-25T21:50:04-0400). Round-2 verifier source. 김동진 국방장관 attended the ROTC 임관식 on 1998-03-02, so he was still in office the day before the 조각."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No minister rows for this person in the valid hearing types (transcripts cover 2000-06 to 2025-01).",
+   "notes": "Kim Young-sam appointee who stayed on as caretaker after the 1998-02-25 inauguration. SBS still reports him acting as 국방장관 on 1998-03-02 (SBS 1998-03-02 \"김대통령, 민주국군 당부\" (BigKinds metadata, news_id 08100301.19980302153821001, snapshot roster/sources/defense/news_early/bigkinds_김동진_국방장관_1998-02-24_1998-03-06.json, accessed 2026-09-24T22:47:17-0400)). Start predates the window. The start date is the 임명장 date reported on 1996-10-19 by 경인일보 and 서울신문 (no digital gazette before 2001). Successor 천용택 was appointed on 1998-03-03 and the 이·취임식 was held on 1998-03-04 (연합뉴스 1998-03-03), so 1998-03-03 is taken as the last day. Birth date from ko.wikipedia \"김동진 (1938년)\" https://ko.wikipedia.org/w/index.php?oldid=41473323 (snapshot roster/sources/defense/bios/wiki_김동진_1938년_.json, accessed 2026-09-25T13:00:37-0400).",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "오자복",
+   "office_title": "국방부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府 組閣 발표\" (Naver News Library article 1988021900209201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988021900209201003.json, accessed 2026-09-26T09:04:13-0400). Excerpt: '盧泰愚차기대통령은 19일경제기획원장관겸 부총리에羅雄培현상공부장관을 기용하는등 제6공화국의 행정부를 이끌어갈 각료진을 확정,발표했다.'",
+    "동아일보 1988-02-19 p.1 \"세政府 組閣 발표\" (Naver News Library article 1988021900209201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988021900209201003.json, accessed 2026-09-26T09:04:13-0400). Excerpt: '새로 기용된 각료들은 국방에 吳滋福전합참의장 문교金永植교육개발원장 농림수산尹勤煥농협중앙회장 상공安秉華한국중공업사장 동자李鳳瑞현차관 보사 權彜赫전문교부장관 노동 崔明憲民正黨의원(국회의장비서실장)교통 李範俊民正黨의원 문공鄭漢模 문예진흥원장 총무처金容甲청와대민정수석비서관과기처 李寬울산대총장 통일원 李洪九서울대교수 정무제2 趙敬姬예총회장등이며 법제처장에는 玄鴻柱民正黨의원 국가보훈처장에는 全錫洪全南지사가 임명됐다.'",
+    "서울신문 1988-02-20 \"새정부 內閣名單 발표\" (BigKinds news_id 01100611.19880220164719005, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.19880220164719005.json, accessed 2026-09-26T09:20:54-0400). Excerpt: '새 각료로는 국방장관에 吳滋福전합참의장, 문교장관에 金永植한국교육개발원장, 농림수산장관에 尹勤煥농협중앙회장, 상공장관에 安秉華한국중공업이사장이 각각 내정됐다고 대통령취임준비위의 康容植대변인이 이날상오 발표했다.'",
+    "국사편찬위원회 대한민국사연표 1988-02-19 entry tcct_1988_02_19_0010 '노태우 차기대통령, 부총리 나웅배 등 새 정부 첫 내각 발표', https://db.history.go.kr/id/tcct_1988_02_19_0010 (day list served from tools/cache, originally fetched 2026-09-26T09:24:53-0400, snapshot roster/sources/defense/ext88/verify88/chron/chron_day_1988-02-19.html) Announcement by the president-elect (tier 2). Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named by 차기대통령 노태우 in the 조각 announced on 1988-02-19 (the 취임준비위 spokesman read the list), appointed with the 임명장 on inauguration day."
+  },
+  {
+   "nominee": "이상훈",
+   "office_title": "국방부장관",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1988120500329201003.json, accessed 2026-09-26T09:22:02-0400). Excerpt: '盧泰愚대통령은 5일 상오국무총리를 포함,25개부처중동자·총무처·통일원·법제처등 4개부처를 제외한 21개부처에 대한 전면개각을 단행했다.'",
+    "서울신문 1988-12-06 \"새總理 姜英勳씨\" (BigKinds news_id 01100611.19881206160851003, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.19881206160851003.json, accessed 2026-09-26T09:32:51-0400). Excerpt: '외무 崔浩中 내무 李漢東 재무 李揆成 법무 許亨九 국방 李相薰 문교 鄭元植 체육 金潗 농수산 金湜 상공 韓昇洙 동자 李鳳瑞 건설 朴昇 보사 文太俊 노동 張永喆 교통 金昌槿 체신 崔永喆 문공 崔秉烈 총무처 金容甲 과기처 李祥義 통일원 李洪九 정무1 鄭宗澤 정무2 金榮禎 법제처 玄鴻柱 보훈처 李相淵'",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1988120500209201003.json, accessed 2026-09-26T09:08:16-0400). Excerpt: '盧泰愚대통령은 5일 오전국무총리서리에 姜英勳民正黨의원(전국구)을임명하고' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named in the 12·5 전면개각 and given the 임명장 the same afternoon. The nominees were notified on the night of 1988-12-04 (중앙일보 1988-12-05, BigKinds 01100901.19881205055134001)."
+  },
+  {
+   "nominee": "이종구",
+   "office_title": "국방부장관",
+   "nomination_date": "1990-10-08",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-10-08",
+   "sources": [
+    "동아일보 1990-10-08 p.1 \"國防장관-保安사령관 경질\" (Naver News Library article 1990100800209201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800209201001&editNo=2&printCount=1&publishDate=1990-10-08&officeId=00020&pageNo=1&printNo=21262&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1990100800209201001.json, accessed 2026-09-26T09:33:36-0400). Excerpt: '盧泰愚대통령은 8일오전국군보안사의 민간인에 대한정치사찰문제와 관련,李相薰국방부장관과 趙南豊국군보안사령관을 문책 해임하고후임국방부장관에 李鍾九前육군참모총장(陸士 14期)을,보안사령관에 具昌會현수도방위사령관(육군中將·陸士18期)을 각각 임명했다.'",
+    "세계일보 1990-10-09 \"「사찰」 문책인사 단행/노대통령\" (BigKinds news_id 01100701.19901009000000105, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19901009000000105.json, accessed 2026-09-26T09:36:33-0400). Excerpt: '◎국방 이종구씨­보안사령관에 구창회중장노태우 대통령은 8일 오전 국군보안사의 민간인 사찰파문과 관련,이상훈 국방장관을 해임하고 후임에 이종구 전 육군참모총장(육사 14기)을 임명했다.'",
+    "매일경제 1990-10-08 p.1 \"國防장관 해임\" (Naver News Library article 1990100800099201006, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990100800099201006&editNo=1&printCount=1&publishDate=1990-10-08&officeId=00009&pageNo=1&printNo=7591&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1990100800099201006.json, accessed 2026-09-26T13:21:07-0400). Excerpt: '盧泰愚대통령은 8일 상오 李相薰국방부장관의 사표를 수리하고 후임에 李鍾九前육군참모총장(육사14기)을 임명했다.' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named on the morning of 1990-10-08 and given the 임명장 at 09:00 that morning. 세계일보 1990-10-09 reports that the 총무처 had prepared the 임명장 with the name left blank."
+  },
+  {
+   "nominee": "최세창",
+   "office_title": "국방부장관",
+   "nomination_date": "1991-12-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1991-12-20",
+   "sources": [
+    "세계일보 1991-12-20 \"7부장관 경질\" (BigKinds news_id 01100701.19911220000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100701.19911220000000101.json, accessed 2026-09-26T09:33:27-0400). Excerpt: '◎국방 최세창/문화 이수정/체육청소년 이진삼/상공 한봉수/건설 서영택/총무처 이상배/정무2 김갑현/외교안보수석 김종휘/청와대대변인 김학준/철도청장 최평욱/산림청장 유종탁노태우대통령은 19일 오후 개각을 단행,국방 문화 체육청소년 상공 건설 총무처 정무2등 7개부처의 장관을 경질했다.'",
+    "국사편찬위원회 대한민국사연표 1991-12-19 entry tcct_1991_12_19_0010 '노태우 대통령, 국방부장관 등 7개 부처장관 경질', https://db.history.go.kr/id/tcct_1991_12_19_0010 (snapshot roster/sources/defense/ext88/events/chron_1991-12-19.html, accessed 2026-09-26T09:10:57-0400)",
+    "동아일보 1991-12-20 p.3 \"\"예상보다小幅\"…官街차분\" (Naver News Library article 1991122000209203005, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203005&editNo=2&printCount=1&publishDate=1991-12-20&officeId=00020&pageNo=3&printNo=21684&publishType=00020, snapshot roster/sources/defense/ext88/verify88/articles/nl_1991122000209203005.json, accessed 2026-09-26T09:29:16-0400). Excerpt: '세종로의 정부종합청사는 19일7개부처 장관을경질하는 부분개각이 단행됐음에도 불구' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named in the 12·19 개각 (announced on the afternoon of 1991-12-19) and given the 임명장 on the morning of 1991-12-20."
+  },
+  {
+   "nominee": "권영해",
+   "office_title": "국방부장관",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, snapshot roster/sources/defense/ext88/articles/nl_1993022600209201001.json, accessed 2026-09-26T09:12:13-0400). Excerpt: '金대통령은 외무부장관에 韓昇洲고려대교수,내무장관에 李海龜民自黨의원,재무장관에 洪在馨한국외환은행장,법무장관에 朴熺太民自黨의원,국방장관에權寧海국방차관을 각각 임명했다.'",
+    "부산일보 1993-02-26 \"부총리 李經植(경제)·韓完相씨(통일)\" (BigKinds news_id 01500701.20160409010410104, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01500701.20160409010410104.json, accessed 2026-09-26T09:38:30-0400). Excerpt: '또 국방장관에는 권영해 국방차관, 교육장관에는 오병문 전남대 전 총장, 문화체육장관에는 이민섭 민자당의원, 농림수산장관에는 허신행 한국농촌경제연구원 원장이 임명됐다.'",
+    "한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\" (BigKinds news_id 01101101.19930227000000101, full text via detailView.do, snapshot roster/sources/defense/ext88/verify88/articles/bk_01101101.19930227000000101.json, accessed 2026-09-26T09:24:53-0400). Excerpt: '국방장관에는 권영해 국방차관이 승진·임명됐으며' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named on the morning of 1993-02-26 in the first 김영삼 cabinet and given the 임명장 that afternoon."
+  },
+  {
+   "nominee": "이병태",
+   "office_title": "국방부장관",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993122200209101001.json, accessed 2026-09-26T09:32:41-0400). Excerpt: '金泳三대통령은 21일 경제 통일 두 부총리를 포함한 14개부처에 대한 내각개편을 단행했다.'",
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1993122200209101001.json, accessed 2026-09-26T09:32:41-0400). Excerpt: '또 내무부장관에 崔炯佑民自黨의원,국방부장관에李炳台국가보훈처장,교육부장관에 金淑喜이화여대교수,농림수산부장관에 金良培 대통령행정 수석비서관,건설부장관에 金佑錫토지개발공사사장,보사부장관에 徐相穆民自黨의원을임명했다.'",
+    "국사편찬위원회 대한민국사연표 1993-12-21 entry tcct_1993_12_21_0010 '김영삼 대통령, 14개 부처 장관 경질', https://db.history.go.kr/id/tcct_1993_12_21_0010 (snapshot roster/sources/defense/ext88/events/chron_1993-12-21.html, accessed 2026-09-26T09:05:05-0400)",
+    "경향신문 1993-12-22 p.6 \"신임각료 취임소감\" (Naver News Library article 1993122200329106003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329106003&editNo=15&printCount=1&publishDate=1993-12-22&officeId=00032&pageNo=6&printNo=14952&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1993122200329106003.json, accessed 2026-09-26T13:28:19-0400). Excerpt: '21일 새로 임명된 각료들은 개혁과 국가경쟁력제고라는 시대적 과제를 소신껏 추진하겠다는포부를 밝혔다.' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named in the 12·21 개각 on 1993-12-21 and given the 임명장 on the morning of 1993-12-22."
+  },
+  {
+   "nominee": "이양호",
+   "office_title": "국방부장관",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "조선일보 1994-12-24 p.1 \"軍수뇌도 人事\" (Naver News Library article 1994122400239101003, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239101003&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=1&printNo=22895&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1994122400239101003.json, accessed 2026-09-26T09:34:20-0400). Excerpt: '金泳三대통령은 23일 李養鎬합참의장을 예편시켜국방장관에 임명한 뒤 軍후속 인사도단행,합참의장에 金東鎭육군참모총장을,육참총장에 尹龍男3군사령관을 각각 임명했다.'",
+    "서울신문 1994-12-24 \"부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편\" (BigKinds news_id 01100611.20160422183118192, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160422183118192.json, accessed 2026-09-26T09:34:57-0400). Excerpt: '김영삼대통령은 23일 하오 부총리 겸 초대 재정경제원장관에 홍재형경제기획원장관,부총리 겸 통일원장관에 김덕국가안전기획부장을 임명하는등 22개 부처장관 가운데 19명을 새로 기용하는 전면적인 개각을 단행했다.'",
+    "서울신문 1994-12-24 \"부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편\" (BigKinds news_id 01100611.20160422183118192, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160422183118192.json, accessed 2026-09-26T09:34:57-0400). Excerpt: '이날 개각에서 외무부장관에는 공로명주일본대사,내무부장관에 김용태민자당의원,법무부장관에 안우만전대법관,국방부장관에 이양호합참의장,문화체육부장관에 주돈식청와대대변인,초대 통상산업부장관에 박재윤재무부장관이 임명됐다.'",
+    "한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\" (Naver News Library article 1994122400289101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400289101001&editNo=5&printCount=1&publishDate=1994-12-24&officeId=00028&pageNo=1&printNo=2103&publishType=00010, snapshot roster/sources/defense/ext88/verify88/articles/nl_1994122400289101001.json, accessed 2026-09-26T10:26:30-0400). Excerpt: '또 외무장관에는 공로명 주일대사가, 내무장관에는 김용태 의원이,법무장관에는 안우만 전 대법관이, 국방장관에는 이양호 합참의장이 각각 임명됐다.' Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named in the 12·23 개각 on the afternoon of 1994-12-23 and given the 임명장 on the morning of 1994-12-24."
+  },
+  {
+   "nominee": "김동진",
+   "office_title": "국방부장관",
+   "nomination_date": "1996-10-17",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1996-10-18",
+   "sources": [
+    "동아일보 1996-10-18 p.1 \"국방장관 경질\" (Naver News Library article 1996101800209101001, OCR text as printed, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996101800209101001&editNo=45&printCount=1&publishDate=1996-10-18&officeId=00020&pageNo=1&printNo=23342&publishType=00010, snapshot roster/sources/defense/ext88/articles/nl_1996101800209101001.json, accessed 2026-09-26T09:34:38-0400). Excerpt: '金泳三대통령은 17일 李養鎬국방장관을 경질,후임에 金東鎭합참의장을 임명했다.'",
+    "서울신문 1996-10-18 \"국방장관·군수뇌부 경질/군분위기 일신·국방태세 강화\" (BigKinds news_id 01100611.20160421031802823, full text via detailView.do, snapshot roster/sources/defense/ext88/articles/bk_01100611.20160421031802823.json, accessed 2026-09-26T09:42:17-0400). Excerpt: '김영삼 대통령은 17일 이양호 국방장관을 경질,후임에 김동진 합참의장(육사17기)을 예편시켜 임명했다.'",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1996), 1996-10-17 '군 고위급 인사' / '국방부장관 김동진 합참의장, 합참의장에 윤용남 육군참모총장 등 임명', https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1996; snapshot roster/sources/defense/ext88/verify88/pa/pa_schedule_김영삼_1996_p1.html, accessed 2026-09-26T09:05:02-0400) Announcement day (tier 2). Verifier source (ext88 adversarial check)."
+   ],
+   "notes": "Appointment before 2005-07-28, when 국무위원 hearings did not exist, so no hearing was required. Named on the afternoon of 1996-10-17 when 이양호 was removed, discharged as 합참의장 that day, and given the 임명장 on the morning of 1996-10-18. The spell itself is the main roster's record (from_main)."
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Cross-lineage convention for the 1988-02-25 holdovers. The 5공 cabinet's 일괄사표 was accepted on the morning of 1988-02-25 (조선일보 1988-02-26, 매일경제 1988-02-25, 중앙일보 1988-02-25), after 노태우's term began at 0시, and the new ministers received their 임명장 at 11:40 that morning. This file therefore ends 정호용 on 1988-02-25 and includes him as a one-day holdover (appointing_president 전두환). Pages with a day-before convention print 1988-02-24 for other 5공 ministers (the culture checkpoint copies MCST's 이웅희 end 1988-02-24). If other lineages end their 5공 holders on 1988-02-24 they drop out of the window, and the panel would treat 국방부 differently from the other ministries. The orchestrator should apply one convention."
+  },
+  {
+   "severity": "medium",
+   "desc": "Announcement and 임명장 fall on different days in six handovers: 1987-07-13/14, 1988-02-19/25, 1991-12-19/20, 1993-12-21/22, 1994-12-23/24 and 1996-10-17/18. Starts use the 임명장 date, which the 국방부 list gives in every case and which follows the main roster's 1996-10-18 start for 김동진. The nominations record the announcement date. The 국사편찬위 연표 dates the 1991, 1993 and 1994 reshuffles by the announcement day, and the 1988 announcements came from the president-elect before he took office."
+  },
+  {
+   "severity": "medium",
+   "desc": "ko.wikipedia (revid 42533700) gives 1988-12-04 as 이상훈's start. The 국방부 list gives 1988.12.5 and same-day news (동아일보 and 경향신문 1988-12-05, 한국일보 and 한겨레 1988-12-06) put the 임명장 on the afternoon of 1988-12-05. This file uses 1988-12-05."
+  },
+  {
+   "severity": "low",
+   "desc": "The 국방부 list is not consistent about end dates. 오자복 is printed '88. 02. 25 ~ 88. 12. 4' (day before the successor), while every other row in 1987-1996 ends on the successor's start day. 권영해's end is blank. This file ends each spell on the successor's appointment day."
+  },
+  {
+   "severity": "low",
+   "desc": "이양호's 임명장 date (1994-12-24) is inferred from the collective ceremony for the new cabinet that morning. Papers of 1994-12-24 say he was named and discharged from the air force on 1994-12-23 and attended his own 합참의장 이임 및 전역식 that afternoon as 신임 국방장관, but no story names him at the 12-24 ceremony. The 국방부 list and ko.wikipedia both give 1994-12-24."
+  },
+  {
+   "severity": "low",
+   "desc": "The 이·취임식 was held the day after the legal handover in 1988-02 (26일, 한국일보 and 경향신문 1988-02-26) and 1988-12 (12-06, 동아일보 1988-12-06). End dates for 정호용 and 오자복 follow the 사표 수리 and the successor's 임명장, not the ceremony."
+  },
+  {
+   "severity": "low",
+   "desc": "News Library quotes are OCR text as printed. The page images at viewer_url were not opened. Each date that rests on an OCR story is also stated by a BigKinds story from a different outlet (in 1988-1989 the two archives hold different papers, from 1990 the BigKinds outlets used are 서울신문, 세계일보, 국민일보, 한국일보, 중앙일보 and regional dailies, none of which is in the News Library)."
+  },
+  {
+   "severity": "low",
+   "desc": "No 국방부장관 직무대행 was needed in 1988-1998. Every handover in the window happened on the successor's appointment day, so acting[] is empty."
+  },
+  {
+   "severity": "medium",
+   "added_by": "verifier ext88",
+   "desc": "1993 transition. 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) reports that the outgoing 현승종 cabinet resigned on 1993-02-25 and that all resignations were accepted that day, while the 총무처 view in 매일경제 1993-02-24, 조선일보 1993-02-24 and reports of 02-26 have the ministers in office until their successors' 임명장 on the afternoon of 1993-02-26. This file keeps 최세창's end at 1993-02-26 and marks it disputed. At the verifier re-run of 2026-09-27T21:54:41-0400 every verified ext88 file other than PM ends its outgoing minister on 1993-02-26. The foreign and education verifiers moved 이상옥 and 조완규 there from the same 중앙일보 report, and the PM files end 현승종 on 1993-02-25. Some verifiers mark the 1993-02-26 end disputed and others confirmed, so the orchestrator should still apply one rule across lineages. The re-run also found 세계일보 1993-02-25 and 동아일보 1993-02-27 p.2 dating the 국방부 이·취임 ceremony and reception to 1993-02-26."
+  },
+  {
+   "severity": "low",
+   "added_by": "verifier ext88",
+   "desc": "정호용 declined reappointment in February 1988 (경향신문 1988-02-20 p.10). He is coded 'replaced', like the other non-reappointed 1988 holdovers. If the panel wants to separate voluntary departures at a transition, he would be 'resigned'."
+  }
+ ],
+ "continuity": {
+  "chain": [
+   {
+    "from": "정호용",
+    "to": "오자복",
+    "end": "1988-02-25",
+    "next_start": "1988-02-25",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "오자복",
+    "to": "이상훈",
+    "end": "1988-12-05",
+    "next_start": "1988-12-05",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "이상훈",
+    "to": "이종구",
+    "end": "1990-10-08",
+    "next_start": "1990-10-08",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "이종구",
+    "to": "최세창",
+    "end": "1991-12-20",
+    "next_start": "1991-12-20",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "최세창",
+    "to": "권영해",
+    "end": "1993-02-26",
+    "next_start": "1993-02-26",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "권영해",
+    "to": "이병태",
+    "end": "1993-12-22",
+    "next_start": "1993-12-22",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "이병태",
+    "to": "이양호",
+    "end": "1994-12-24",
+    "next_start": "1994-12-24",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   },
+   {
+    "from": "이양호",
+    "to": "김동진",
+    "end": "1996-10-18",
+    "next_start": "1996-10-18",
+    "vacancy_days": 0,
+    "same_day_handover": true
+   }
+  ],
+  "vacancies": [],
+  "summary": "9 spells from 정호용 (1987-07-14) to 김동진 (to 1998-03-03). Every handover is same-day, no vacancy in the window. The holder list matches the 국방부 역대장관 list rows 25-33 and the ko.wikipedia list, with no additional holder in either."
+ },
+ "verification": {
+  "verified_at": "2026-09-26T13:44:35-0400",
+  "verifier": "adversarial verifier 1988-1998 (ext88), lineage defense, restarted run",
+  "base_file": "roster/defense.ext88.json built_at 2026-09-26T09:51:11-0400",
+  "restart_note": "This run restarted the verification on the user's request. The search snapshots of an interrupted first run (scripts 01-04, roster/sources/defense/ext88/verify) were reused as raw material. Every judgement was made again. The 대한민국사연표 host timed out for new requests from about 13:15 EDT on 2026-09-26, so only day lists already in tools/cache were used (374 days, including every reshuffle day cited).",
+  "builder_verification": {
+   "built_by": "roster builder 1988-1998, lineage defense",
+   "scripts": [
+    "roster/scripts/defense_ext88_01_lists.py",
+    "roster/scripts/defense_ext88_02_events.py",
+    "roster/scripts/defense_ext88_03_appt.py",
+    "roster/scripts/defense_ext88_04_probe.py",
+    "roster/scripts/defense_ext88_05_fulltext.py",
+    "roster/scripts/defense_ext88_06_build.py",
+    "roster/scripts/defense_ext88_07_probe2.py"
+   ],
+   "snapshots": "roster/sources/defense/ext88/ (lists, events, appt, probe, articles, bios)",
+   "checkpoint": "roster/defense.ext88.partial.json",
+   "sources_used": [
+    "국방부 역대장관 list via Wayback (tier 2)",
+    "대통령기록관 연도별 대통령 일정 (tier 2)",
+    "국사편찬위원회 대한민국사연표 (tier 2)",
+    "Naver News Library OCR full text (tier 3)",
+    "BigKinds full text (tier 3)",
+    "ko.wikipedia list and bios (tier 4)",
+    "na_members/na_members_12_22.csv (NA seats, for mp_hint and one birth date)"
+   ],
+   "not_used": "likms PM 임명동의안 records are not relevant to this lineage. No 관보 exists for these years."
+  },
+  "scripts": [
+   "roster/scripts/defense_ext88_verify_01_lists.py",
+   "roster/scripts/defense_ext88_verify_02_news_search.py",
+   "roster/scripts/defense_ext88_verify_03_ceremony_search.py",
+   "roster/scripts/defense_ext88_verify_04_more_search.py",
+   "roster/scripts/defense_ext88_verify_05_cited.py",
+   "roster/scripts/defense_ext88_verify_06_chron_scan.py",
+   "roster/scripts/defense_ext88_verify_07_pa_schedule.py",
+   "roster/scripts/defense_ext88_verify_08_holder_scan.py",
+   "roster/scripts/defense_ext88_verify_09_fulltext.py",
+   "roster/scripts/defense_ext88_verify_10_fields.py",
+   "roster/scripts/defense_ext88_verify_11_targeted.py",
+   "roster/scripts/defense_ext88_verify_12_transition93.py",
+   "roster/scripts/defense_ext88_verify_13_viewer_index.py",
+   "roster/scripts/defense_ext88_verify_14_extra.py",
+   "roster/scripts/defense_ext88_verify_15a_text.py",
+   "roster/scripts/defense_ext88_verify_15_build.py",
+   "roster/scripts/defense_ext88_verify_16_resume.py",
+   "roster/scripts/defense_ext88_verify_17_rerun_search.py",
+   "roster/scripts/defense_ext88_verify_18_rerun_fulltext.py",
+   "roster/scripts/defense_ext88_verify_19_rerun_excerpts.py",
+   "roster/scripts/defense_ext88_verify_20_rerun_listrows.py",
+   "roster/scripts/defense_ext88_verify_21_rerun_apply.py"
+  ],
+  "snapshots": [
+   "roster/sources/defense/ext88/verify (search snapshots of the interrupted first run, reused)",
+   "roster/sources/defense/ext88/verify88",
+   "roster/sources/defense/ext88/verify88/rerun0927"
+  ],
+  "summary": "9 spells and 8 nominations re-checked against sources the builder did not cite. No start or end date changed. Eight spells confirmed and one disputed (최세창's end, kept at 1993-02-26 against a single 중앙일보 report of 1993-02-25). Every start and end of spells 0-7 gained at least two new sources, including a typed BigKinds story or a tier-2 record for each. The holder list is complete by an independent news scan, the presidential schedules and the chronology. No short tenure, 직무대행, renaming or resignation to run exists in the window. Fields and continuity pass. The from_main record is untouched. A re-run on 2026-09-27 re-checked the file, found every cited excerpt and list row in its snapshot, and added two dated reports of the 1993-02-26 국방부 handover. 최세창's end_confidence rose to medium and his end stays disputed.",
+  "per_spell": [
+   {
+    "index": 0,
+    "name": "정호용",
+    "start": "1987-07-14",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1987-07-14 confirmed with sources the builder did not cite. 조선일보 1987-07-14 p.1 (1987071400239101006) reports the 7·13 개각 naming him 국방장관, 경향신문 1987-07-14 p.1 (1987071400329201017) and 조선일보 1987-07-15 p.1 (1987071500239101007) put the 임명장 on the morning of 1987-07-14, and the 대통령기록관 schedule for 전두환 1987 (tier 2) dates the reshuffle announcement 1987-07-13.",
+     "end 1988-02-25 confirmed. 조선일보 1988-02-25 p.1 (1988022500239101011) says the 5공 cabinet's resignations would reach 노태우 on the morning of 02-25, 조선일보 1988-02-25 p.2 (1988022500239102002) prints his farewell among the 離任국무위원, and 한국일보 1988-02-25 (BigKinds 01101101.19880225092501108, typed text, not OCR) dates his 이임 two days after 1988-02-23. offices_1988.json (holdovers_1988) notes that 헌법 제10호 부칙 제4조① deems officials in office on 1988-02-25 appointed under the new constitution, so he held office on the morning of 02-25 until the successor's 임명장.",
+     "end_reason 'replaced' reviewed. 경향신문 1988-02-20 p.10 (builder source) says he had firmly declined reappointment ('재기용을적극 고사'). He left through the cabinet's collective resignation and the appointment of a successor, like other 1988 holdovers who were not reappointed and are coded 'replaced' in the ext88 files (for example 김정렬, 이웅희, 서명원), so the value is kept. The nuance is recorded in issues.",
+     "No resignation to run. He was nominated by 민정당 in March 1988 after leaving office (동아일보 1988-03-16, 경향신문 1988-03-16, search snapshot targeted/nl_S4a_*).",
+     "birth_date rests on na_members_12_22.csv and ko.wikipedia as the builder recorded. Not re-verified here."
+    ]
+   },
+   {
+    "index": 1,
+    "name": "오자복",
+    "start": "1988-02-25",
+    "end": "1988-12-05",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed. 중앙일보 1988-02-25 (BigKinds 01100901.19880225005006001, an outlet not in the News Library) names 오자복 국방장관 accompanying the new President to the 국립묘지 that afternoon. 동아일보 1988-02-25 p.1 (1988022500209201007), 조선일보 1988-02-26 p.3 (1988022600239103011, 신임국무위원 24명) and 한국경제 1988-02-26 (BigKinds 02100601.19880226193114109) put the new cabinet's 임명장 on the morning of 02-25.",
+     "end 1988-12-05 confirmed. 동아일보 1988-12-05 p.1 (1988120500209201003) lists 국방李相薰 among the 20 ministries changed that day, 조선일보 1988-12-06 p.1 (1988120600239101029) puts the new ministers' 임명장 on the afternoon of 12-05, and 한국일보 1988-12-06 (BigKinds 01101101.19881206102906105) says all new 국무위원 received it at 16:00 that day. The 국방부 list's 88.12.4 is the day before and is not the last day in office.",
+     "end_reason 'replaced' kept. His resignation offer of 1988-08-30 was returned (builder), 매일경제 1988-11-28 (search snapshot targeted/nl_S5_1988_*) lists him among ministers who had signalled they would go, and he left in the 12·5 전면개각 with the whole cabinet."
+    ]
+   },
+   {
+    "index": 2,
+    "name": "이상훈",
+    "start": "1988-12-05",
+    "end": "1990-10-08",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-12-05 confirmed with 조선일보 1988-12-06 p.1, 경향신문 1988-12-06 p.1 (1988120600329201010) and 서울신문 1988-12-06 (BigKinds 01100611.19881206160852002). The ko.wikipedia start of 1988-12-04 is not supported.",
+     "end 1990-10-08 confirmed. 매일경제 1990-10-08 p.1 (1990100800099201006) says 노태우 accepted his 사표 on the morning of 10-08 (submitted 10-07) and appointed 이종구, 경향신문 1990-10-08 p.1 (1990100800329201007) dates the 이·취임식 to 11:00 that day, and 한국일보 1990-10-09 (BigKinds 01101101.19901009000000503) reports his farewell press talk before the 이임식 on the morning of 10-08.",
+     "Retained at the 1990-03-17 reshuffle (조선일보 1990-03-18 p.1 1990031800239101001 '이상훈국방장관등 11개부처 장관은 유임', 한겨레 1990-03-18 p.1). end_reason 'dismissed' fits the roster convention for a 문책 removal in the form of an accepted 사표."
+    ]
+   },
+   {
+    "index": 3,
+    "name": "이종구",
+    "start": "1990-10-08",
+    "end": "1991-12-20",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-10-08 confirmed with 매일경제 1990-10-08 p.1, 한겨레 1990-10-09 p.1 (1990100900289101008), 중앙일보 1990-10-08 (BigKinds 01100901.19901008214347002) and his own words in 한국일보 1990-10-09 that he learned of the post at the 임명장 ceremony that morning.",
+     "end 1991-12-20 confirmed. 동아일보 1991-12-20 p.3 (1991122000209203005) reports he was told on 1991-12-19 and said farewell to the press that afternoon, and 경향신문 1991-12-21 p.9 (1991122100329109007) and 한국일보 1991-12-20 (BigKinds 01101101.19911220000000102) put the successor's 임명장 and the 이·취임식 on the morning of 12-20.",
+     "Not a resignation to run. 조선일보 1991-12-20 p.3 (1991122000239103002) separates his 퇴진 from the two ministers who left for the 14대 총선. He declared an independent candidacy for 대구 동갑 only in February 1996 (조선일보 1996-01-27 p.4, 매일신문 1996-02-08), long after the spell."
+    ]
+   },
+   {
+    "index": 4,
+    "name": "최세창",
+    "start": "1991-12-20",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1991-12-20 confirmed with 동아일보 1991-12-20 p.3 (1991122000209203004), 한국일보 1991-12-20, 서울경제 1991-12-21 (BigKinds 02100311.19911221172532003) and 경향신문 1991-12-21 p.9 (임명장 at 09:30).",
+     "end disputed, value kept at 1993-02-26. 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) says the outgoing cabinet resigned on 02-25 and every resignation was accepted that day. Against it, 매일경제 1993-02-24 p.2 (1993022400099202004) reports the 총무처 view that ministers need not resign and leave when successors are appointed, 조선일보 1993-02-24 p.3 (1993022400239103001) says the 6공 ministers serve until successors are formally appointed and names 崔世昌 as the minister who would serve 김영삼 on 02-25, and 동아일보 1993-02-26 p.3 (1993022600209203001) and 서울신문 1993-02-27 (BigKinds 01100611.20160421220544125) still call him the outgoing minister (퇴임하는 최세창장관) on the morning of 02-26. With the 국방부 list (tier 2, 1993.2.26) the weight of evidence favours 02-26. No tier-1 record settles when any 사표 took effect.",
+     "Retained at the 1992-03-30 and 1992-10-09 reshuffles (경향신문 1992-03-31 p.2 and 한겨레 1992-04-01 on 국방부장관 유임, 대통령기록관 1992-10-09 row listing only 내무, 법무, 공보처 and 정무1).",
+     "Re-run 2026-09-27. Two new sources date the 국방부 handover itself to 1993-02-26. 세계일보 1993-02-25 (BigKinds 01100701.19930225000000201, typed text) reports that 최세창 attended his last 국무회의 on 02-24 and that the 장관 이·취임식 was set for 14:00 on 02-26 at the 육군회관. 동아일보 1993-02-27 p.2 (News Library 1993022700209202014) reports the 국방부장관 이·취임 reception at the 육군회관 at 18:30 on 02-26, with 權寧海 speaking as 신임국방부장관. end_confidence goes from inferred_from_successor to medium. The status stays disputed, since the 중앙일보 report of 02-25 is still contrary and no 관보 exists to show when any 사표 took effect."
+    ]
+   },
+   {
+    "index": 5,
+    "name": "권영해",
+    "start": "1993-02-26",
+    "end": "1993-12-22",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26 confirmed with 한겨레 1993-02-27 p.1 (1993022700289101001, 국방＝권영해 and 27명 임명장 that afternoon) and p.3, 한국일보 1993-02-27 (BigKinds 01101101.19930227000000101) and 중부매일 1993-02-27 (BigKinds 01400401.19930227172200104).",
+     "end 1993-12-22 confirmed. 동아일보 1993-12-23 p.4 (1993122300209104008, a different article from the builder's photo caption on the same page) dates the 30대 이임 and 31대 취임식 to the morning of 12-22, and 조선일보 1993-12-23 p.2 (1993122300239102002) and 한국일보 1993-12-23 put the successor's 임명장 that morning.",
+     "end_reason 'replaced' kept. 경향신문 1993-12-21 and 중앙일보 1993-12-22 (search snapshots) say the 포탄도입 사기 affair ended his expected retention, but he left in the general 12·21 개각 of 14 ministries and was not removed alone."
+    ]
+   },
+   {
+    "index": 6,
+    "name": "이병태",
+    "start": "1993-12-22",
+    "end": "1994-12-24",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-12-22 confirmed with 조선일보 1993-12-23 p.2 (1993122300239102001, 상견례 after the 이-취임식 on 12-22), 한겨레 1993-12-23 p.3 (1993122300289103003), 한국일보 1993-12-23 and 경향신문 1993-12-23 (BigKinds 01101101.19931223000000104, 01100101.19931223000000104).",
+     "end 1994-12-24 confirmed. 경향신문 1994-12-25 p.5 (1994122500329105002) reports the 국방부 held the 장관 이·취임식 on the first day of the new cabinet (1994-12-24), and 한겨레 1994-12-24 p.1 (1994122400289101001) says all ministers handed in 일괄사표 on 12-23 before the announcement. 조선일보 1994-12-25 p.4 (1994122500239104006) calls him 前국방장관."
+    ]
+   },
+   {
+    "index": 7,
+    "name": "이양호",
+    "start": "1994-12-24",
+    "end": "1996-10-18",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-12-24 confirmed. 경향신문 1994-12-25 p.5 reports the 이·취임식 on 12-24 and prints his 취임사 (1994122500329105001), and 한겨레 1994-12-26 p.4 (1994122600289104011) reports his press conference after the 취임. This answers the builder's low issue that no story tied him to the 12-24 ceremony, although no story names him at the 청와대 임명장 ceremony itself.",
+     "end 1996-10-18 confirmed. 헤럴드경제 1996-10-18 (BigKinds 02100701.19961018052919102) and 경향신문 1996-10-19 p.2 (1996101900329102002) put 김동진's 임명장 on the morning of 10-18, and the 대통령기록관 schedule for 김영삼 1996 (tier 2) dates the announcement 10-17.",
+     "Retained at the 1995-12-20 and 1996-08-08 reshuffles (서울신문 1995-12-21 BigKinds 01100611.20160423094157179 '유임 ... 국방 이양호', 조선일보 1996-08-09 p.3). Not a candidate in the 1995 local or 1996 general elections (he issued the army's election-neutrality order on 1995-04-04)."
+    ]
+   },
+   {
+    "index": 8,
+    "name": "김동진",
+    "start": "1996-10-18",
+    "end": "1998-03-03",
+    "status": "confirmed",
+    "checks": [
+     "from_main record. Identical to roster/defense.verified.json apart from the from_main flag (fields_check.json). Not modified.",
+     "start 1996-10-18 agrees with the 이양호 handover checked above. The end lies after the window and was verified in the main roster's round 2.",
+     "Retained at the 1997-03-05 and 1997-08-05 reshuffles (한겨레 1997-08-06 p.1 1997080600289101002, 매일경제 1997-08-06 p.2)."
+    ]
+   }
+  ],
+  "per_nomination": [
+   {
+    "nominee": "오자복",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1988-02-19 matches 대한민국사연표 tcct_1988_02_19_0010 (cached day list). outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "이상훈",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1988-12-05 matches 동아일보 1988-12-05 p.1 (announced that morning). outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "이종구",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1990-10-08 matches 매일경제 1990-10-08 p.1. outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "최세창",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1991-12-19 matches 동아일보 1991-12-20 p.3 (7개부처 개각 on the 19th). outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "권영해",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1993-02-26 matches 한국일보 1993-02-27. outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "이병태",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1993-12-21 matches 경향신문 1993-12-22 p.6 ('21일 새로 임명된 각료들'). outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "이양호",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1994-12-23 matches 한겨레 1994-12-24 p.1. outcome_date equals the spell start.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   },
+   {
+    "nominee": "김동진",
+    "status": "confirmed",
+    "checks": [
+     "nomination_date 1996-10-17 matches the 대통령기록관 schedule row of 1996-10-17. outcome_date equals the spell start of the from_main record.",
+     "Before 2005-07-28, so no hearing. na_consent_vote not_applicable (not a PM)."
+    ]
+   }
+  ],
+  "completeness": [
+   "Holder list from sources the builder did not rely on. (1) A news scan over 1988-01-01..1998-03-10 in both archives (queries 신임 국방장관 and 국방장관 경질, script 08, holders/holder_scan.json) found no Korean 국방장관 in the window beyond the nine holders. The unmatched names are foreign ministers, pre-1987 ministers (노재현, 이기붕) or regex fragments, plus 이춘구, who was only rumoured on 1990-10-08 (동아일보 1990-10-08 p.5). (2) 대통령기록관 schedules for every year 1987-1998 (tier 2, script 07) and 29 cached 대한민국사연표 day lists for every reshuffle day in the window (script 14) show no 국방 change other than the eight handovers. (3) Wikidata P39 (live) lists only 권영해 in the window, which is incomplete but not contradictory. en.wikipedia (revid 1376365356) has the same nine people and dates, apart from ending 오자복 and starting 이상훈 on 4 December 1988 as ko.wikipedia does. Namu Wiki returned HTTP 403.",
+   "Reshuffles that kept the minister, each with a report of 국방 유임 or a ministry list without 국방 (script 11 S5, targeted/). 1990-03-17 (조선일보 1990-03-18 p.1, 한겨레 1990-03-18 p.1), 1992-03-30 (경향신문 1992-03-31 p.2, 한겨레 1992-04-01), 1992-10-09 (대통령기록관 row), 1993-03-08 (연표 title lists 법무, 건설, 서울시장), 1995-12-20 (서울신문 1995-12-21, 조선일보 1995-12-21 p.5), 1996-08-08 (조선일보 1996-08-09 p.3, 한겨레 and 경향신문 1996-08-09), 1997-03-05 and 1997-08-05 (한겨레 1997-08-06 p.1). The 1989-07-19, 1990-09-19, 1990-12-27, 1991-05, 1994-04, 1994-10, 1995-05-15, 1996-11-13, 1996-12-20 and 1997-11-19 changes fall inside spells whose holder is named as the outgoing minister at the next handover, so a hidden change would contradict those reports.",
+   "Short tenures. None. The shortest spell in the window is 권영해 (1993-02-26 to 1993-12-22). No 국방부장관 직무대행 period exists, since every handover was on the successor's appointment day.",
+   "1988 transition. 정호용 stayed until the morning of 1988-02-25 and 오자복 was appointed that morning (see spells 0 and 1). Every 1988 holdover in the other ext88 files also ends on 1988-02-25, so the builder's cross-lineage concern about 1988-02-24 does not arise in the current files.",
+   "1993 transition. 최세창 continued into the 김영삼 term until 권영해's appointment on the afternoon of 1993-02-26. The end is disputed because of one 중앙일보 report (spell 4). The re-run of 2026-09-27 added 세계일보 1993-02-25 and 동아일보 1993-02-27 p.2, which date the 국방부 이·취임 ceremony and reception to 1993-02-26.",
+   "Elections. 1988 general election, 정호용 left at the transition and was persuaded to run only in March. 1992 general election, 이종구's replacement was unrelated to the election (조선일보 1991-12-20 p.3). 1995 local elections, 이양호 was in office and ordered army neutrality (동아일보, 경향신문, 한국일보, 중앙일보 1995-04-05). 1996 general election, 이양호 was kept at the 1995-12-20 reshuffle and did not run. No 국방부장관 resigned to run in the window.",
+   "Renaming or merger. None. 국방부 keeps its name and 국무위원 status under every 정부조직법 version in offices_1988.json (OFA16, law_versions_checked).",
+   "Transcript and PM checks are not applicable (spells before 2000-06, no PM in this lineage)."
+  ],
+  "continuity": "Recomputed from the spell dates (fields_check.json). Eight same-day handovers on 1988-02-25, 1988-12-05, 1990-10-08, 1991-12-20, 1993-02-26, 1993-12-22, 1994-12-24 and 1996-10-18. No gap and no overlap beyond the handover day. The window 1988-02-25..1998-02-24 is covered from 정호용 (from 1987-07-14) to 김동진 (to 1998-03-03). The builder's continuity object is confirmed unchanged.",
+  "fields": "Checked by script 10 against offices_1988.json. appointing_president equals the president in office on every start date (전두환 for 정호용, 노태우 for 오자복 to 최세창, 김영삼 for 권영해 to 김동진). No acting president held office in 1987-1998, so appointed_by_acting_president is false throughout. deputy_pm is false (OFA16 deputy_pm_title is empty and no deputy_pm_designation points at defense). reorg_continuation false and reappointed_on_reorg null (no reorganisation of 국방부). office_title 국방부장관 and ministry 국방부 throughout. pm_status and pm_acting_until are null. The from_main record 김동진 is untouched.",
+  "builder_issues_reviewed": [
+   "Issue 1 (1988-02-25 convention). Resolved as consistent. All 1988 holdovers in the ext88 files end on 1988-02-25.",
+   "Issue 2 (announcement against 임명장). Starts follow the 임명장 day in all six cases, and the new sources agree (for example 경향신문 1991-12-21 p.9, 임명장 at 09:30 on 1991-12-20).",
+   "Issue 3 (ko.wikipedia 1988-12-04 for 이상훈). Confirmed that 1988-12-05 is right.",
+   "Issue 4 (국방부 list end-date conventions). Confirmed. The list's 88.12.4 for 오자복 is the day before the handover.",
+   "Issue 5 (이양호's 임명장). Partly resolved. 경향신문 1994-12-25 p.5 places the 국방부 이·취임식 and his 취임사 on 1994-12-24.",
+   "Issue 6 (이·취임식 the day after in 1988). Confirmed as a ceremony date only.",
+   "Issue 7 (OCR). Each date in this file now also has a typed BigKinds source, and the new News Library excerpts are quoted as printed (compatibility ideographs kept).",
+   "Issue 8 (no 직무대행). Confirmed."
+  ],
+  "open_items": [
+   "Birth dates of 오자복 to 김동진 rest on ko.wikipedia only (secondary). Not re-verified in this pass.",
+   "News Library page images were not opened. Each date is also carried by a typed BigKinds text or a tier-2 record.",
+   "The 1993 end-date rule needs a cross-lineage decision (see issues)."
+  ],
+  "changes": [
+   {
+    "target": "spells[0] 정호용",
+    "field": "start_sources (append)",
+    "old": "5 sources",
+    "new": "9 sources",
+    "evidence": "Sources not cited by the builder: 조선일보 1987-07-14 p.1 \"새 總理 金貞烈씨\"; 경향신문 1987-07-14 p.1 \"全대통령,새總理등에 임명장수여\"; 조선일보 1987-07-15 p.1 \"신임總理등 임명장 全대통령\"; 대통령기록관 연도별 대통령 일정"
+   },
+   {
+    "target": "spells[0] 정호용",
+    "field": "end_sources (append)",
+    "old": "5 sources",
+    "new": "8 sources",
+    "evidence": "Sources not cited by the builder: 조선일보 1988-02-25 p.1 \"国務委員 일괄 사표 全대통령 閣議주재\"; 조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任국무위원들의 한마디\"; 한국일보 1988-02-25 \"[사진]◇鄭국방과 鄭昇和·金桂元씨\""
+   },
+   {
+    "target": "spells[1] 오자복",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 중앙일보 1988-02-25 \"노태우 13대 대통령 취임|\"「함께 걷는 민주주의」시대로\"\"; 동아일보 1988-02-25 p.1 \"새内閣은 내일부터\"; 조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\"; 한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\""
+   },
+   {
+    "target": "spells[1] 오자복",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "9 sources",
+    "evidence": "Sources not cited by the builder: 동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\"; 조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\"; 한국일보 1988-12-06 \"\"民主化 국민요구 수렴, 轉換期 어려움 극복을\"\""
+   },
+   {
+    "target": "spells[2] 이상훈",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\"; 경향신문 1988-12-06 p.1 \"\"公權力확립이 國民의 여망\"\"; 서울신문 1988-12-06 \"\"강력한 公權力 확립 左傾暴力확산 國民불안 해소를\"\""
+   },
+   {
+    "target": "spells[2] 이상훈",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "10 sources",
+    "evidence": "Sources not cited by the builder: 매일경제 1990-10-08 p.1 \"國防장관 해임\"; 경향신문 1990-10-08 p.1 \"국방장관 離就任式\"; 한국일보 1990-10-09 \"신ㆍ구 국방장관 인터뷰\""
+   },
+   {
+    "target": "spells[3] 이종구",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 매일경제 1990-10-08 p.1 \"國防장관 해임\"; 한겨레 1990-10-09 p.1 \"국방장관·보안사령관 경질\"; 한국일보 1990-10-09 \"신ㆍ구 국방장관 인터뷰\"; 중앙일보 1990-10-08 \"“보안사 기능 약화 안된다”/이 국방 회견/필요하면 기구는 축소\""
+   },
+   {
+    "target": "spells[3] 이종구",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "10 sources",
+    "evidence": "Sources not cited by the builder: 경향신문 1991-12-21 p.9 \"국방행정공개로 民과 거리좁힐터 崔世昌 국방부장관\"; 동아일보 1991-12-20 p.3 \"\"예상보다小幅\"…官街차분\"; 한국일보 1991-12-20 \"신임각료에 임명장\""
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "start_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources not cited by the builder: 동아일보 1991-12-20 p.3 \"새内閣 협조 당부\"; 한국일보 1991-12-20 \"신임각료에 임명장\"; 서울경제 1991-12-21 \"신임장관·수석비서관 盧대통령, 임명장수여\"; 경향신문 1991-12-21 p.9 \"국방행정공개로 民과 거리좁힐터 崔世昌 국방부장관\""
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "12 sources",
+    "evidence": "Sources not cited by the builder: 조선일보 1993-02-24 p.3 \"法으론 0시 離-就任…선서는 10시 「두 大統領」10시간\"; 매일경제 1993-02-24 p.2 \"\"25일0시이후 非常사태 새政府가 대처\"\"; 동아일보 1993-02-26 p.3 \"\"適任\"…\"意外\"…환영과 우려\"; 서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\"; 한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\""
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "notes (append)",
+    "old": "no mention of the 중앙일보 1993-02-25 report",
+    "new": "dispute note with both sides",
+    "evidence": "BigKinds 01100901.19930225151908002 against News Library 1993022400099202004, 1993022400239103001, 1993022600209203001 and BigKinds 01100611.20160421220544125"
+   },
+   {
+    "target": "spells[5] 권영해",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\"; 한겨레 1993-02-27 p.3 \"새 진용\"; 한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\"; 중부매일 1993-02-27 \"[政街抄錄] 金대통령 임명장 수여도 기존 儀典에 얽매이지 않고 破格的\""
+   },
+   {
+    "target": "spells[5] 권영해",
+    "field": "end_sources (append)",
+    "old": "5 sources",
+    "new": "8 sources",
+    "evidence": "Sources not cited by the builder: 동아일보 1993-12-23 p.4 \"\"軍개혁기류 어떻게 바뀔까\"「하나회」長官 行步에 촉각\"; 조선일보 1993-12-23 p.2 \"\"일 안하는 각료 용서안해\"\"; 한국일보 1993-12-23 \"“국제경쟁력　지상과제”/김 대통령,새내각에　지시\""
+   },
+   {
+    "target": "spells[6] 이병태",
+    "field": "start_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources not cited by the builder: 조선일보 1993-12-23 p.2 \"「국방장관 상견례」\"; 한겨레 1993-12-23 p.3 \"새국방 기용배경 아리송\"; 한국일보 1993-12-23 \"“국제경쟁력　지상과제”/김 대통령,새내각에　지시\"; 경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\""
+   },
+   {
+    "target": "spells[6] 이병태",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "9 sources",
+    "evidence": "Sources not cited by the builder: 경향신문 1994-12-25 p.5 \"취임 첫날 部處 표정「1部2차관·2과장」진풍경 財經院\"; 한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\"; 조선일보 1994-12-25 p.4 \"물러난 각료들은 어디로\""
+   },
+   {
+    "target": "spells[7] 이양호",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 경향신문 1994-12-25 p.5 \"취임 첫날 部處 표정「1部2차관·2과장」진풍경 財經院\"; 경향신문 1994-12-25 p.5 \"신임각료 語錄\"; 한겨레 1994-12-26 p.4 \"군 후속인사 당분간 없을듯\"; 세계일보 1994-12-24 \"“실무관료 중용” 환영일색/「12·23」 대폭 개각\""
+   },
+   {
+    "target": "spells[7] 이양호",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources not cited by the builder: 헤럴드경제 1996-10-18 \"국방장관에 金東鎭씨\"; 경향신문 1996-10-19 p.2 \"金대통령 임명장수여 \"軍인사 北에도 단호한 메시지\"\"; 경향신문 1996-10-18 p.1 \"국방장관 金東鎭씨\"; 대통령기록관 연도별 대통령 일정"
+   },
+   {
+    "target": "nominations 오자복",
+    "field": "sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "국사편찬위원회 대한민국사연표 1988-02-19 entry tcct_1988_02_19_0010 '노태우 차기대통령, 부총리 나웅배 등 새 정부 첫 내각 발표', https://db.history.go.kr/id/tcct_1988_02_19_0010"
+   },
+   {
+    "target": "nominations 이상훈",
+    "field": "sources (append)",
+    "old": "2 sources",
+    "new": "3 sources",
+    "evidence": "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\""
+   },
+   {
+    "target": "nominations 이종구",
+    "field": "sources (append)",
+    "old": "2 sources",
+    "new": "3 sources",
+    "evidence": "매일경제 1990-10-08 p.1 \"國防장관 해임\""
+   },
+   {
+    "target": "nominations 최세창",
+    "field": "sources (append)",
+    "old": "2 sources",
+    "new": "3 sources",
+    "evidence": "동아일보 1991-12-20 p.3 \"\"예상보다小幅\"…官街차분\""
+   },
+   {
+    "target": "nominations 권영해",
+    "field": "sources (append)",
+    "old": "2 sources",
+    "new": "3 sources",
+    "evidence": "한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\""
+   },
+   {
+    "target": "nominations 이병태",
+    "field": "sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "경향신문 1993-12-22 p.6 \"신임각료 취임소감\""
+   },
+   {
+    "target": "nominations 이양호",
+    "field": "sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\""
+   },
+   {
+    "target": "nominations 김동진",
+    "field": "sources (append)",
+    "old": "2 sources",
+    "new": "3 sources",
+    "evidence": "대통령기록관 연도별 대통령 일정"
+   },
+   {
+    "target": "spells[4] 최세창 and issues (1993 transition)",
+    "field": "notes and issue desc (cross-lineage remark refreshed)",
+    "old": "Other ext88 lineages split on this transition (foreign and education use 1993-02-25 from the same 중앙일보 report, most others use 1993-02-26).",
+    "new": "Cross-lineage state at the resume check of 2026-09-26T21:17:22-0400. Every other ext88 file ends its outgoing minister on 1993-02-26 except the foreign builder file (이상옥, not yet verified), which uses 1993-02-25 from the same 중앙일보 report. The education builder file also used 1993-02-25, but its verifier moved 조완규 to 1993-02-26. The PM files end 현승종 on 1993-02-25.",
+    "evidence": "Recomputed from the current roster/*.ext88*.json files by script 16. education.ext88.verified.json changes list records 조완규 end 1993-02-25 -> 1993-02-26."
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "end_sources (append)",
+    "old": "12 sources",
+    "new": "14 sources",
+    "evidence": "세계일보 1993-02-25 \"새 정부출범 전야 관가표정\" (BigKinds 01100701.19930225000000201); 동아일보 1993-02-27 p.2 \"「內部승진」과 軍의 기대\" (News Library 1993022700209202014)"
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "end_confidence",
+    "old": "inferred_from_successor",
+    "new": "medium",
+    "evidence": "Two dated reports from independent outlets place the 국방부 이·취임 events on 1993-02-26, the day of 권영해's 임명장 (see the two end_sources added in this re-run). The end date itself is unchanged."
+   },
+   {
+    "target": "spells[4] 최세창",
+    "field": "notes (sentence replaced)",
+    "old": "No dated report of his own 이임식 was found.",
+    "new": "The verifier re-run of 2026-09-27 found dated reports of the 국방부 handover itself. 세계일보 1993-02-25 says the 이·취임식 was set for 14:00 on 1993-02-26 at the 육군회관, and 동아일보 1993-02-27 p.2 reports the 국방부장관 이·취임 reception at the 육군회관 at 18:30 on 1993-02-26.",
+    "evidence": "roster/sources/defense/ext88/verify88/rerun0927/articles/fulltext18.json"
+   },
+   {
+    "target": "spells[4] 최세창 and issues (1993 transition)",
+    "field": "notes and issue desc (cross-lineage remark refreshed)",
+    "old": "Cross-lineage state at the resume check of 2026-09-26T21:17:22-0400. Every other ext88 file ends its outgoing minister on 1993-02-26 except the foreign builder file (이상옥, not yet verified), which uses 1993-02-25 from the same 중앙일보 report. The education builder file also used 1993-02-25, but its verifier moved 조완규 to 1993-02-26. The PM files end 현승종 on 1993-02-25.",
+    "new": "Cross-lineage state at the verifier re-run of 2026-09-27T21:54:41-0400. Every other verified ext88 file ends its outgoing minister on 1993-02-26 (21 files). The foreign and education builder files used 1993-02-25 from the same 중앙일보 report, and their verifiers moved 이상옥 and 조완규 to 1993-02-26. Health and transport had no verified file at this check, and their builder files end on 1993-02-26. The PM files end 현승종 on 1993-02-25, the day 황인성 was appointed after the consent vote.",
+    "evidence": "Recomputed from the current roster/*.ext88*.json files by script 21. foreign.ext88.verified.json changes list records 이상옥 end 1993-02-25 -> 1993-02-26."
+   }
+  ],
+  "resume_check": {
+   "at": "2026-09-26T21:17:22-0400",
+   "note": "Workflow re-run on the user's request. The checkpoint was at stage done, so no source was re-fetched and no judgement changed. Script 16 re-asserted that the nine spells keep the builder's dates and fields, that the from_main record 김동진 equals roster/defense.verified.json apart from the flag, and that every handover is same-day. It refreshed the stale cross-lineage remark on the 1993 transition.",
+   "script": "roster/scripts/defense_ext88_verify_16_resume.py"
+  },
+  "last_rerun_at": "2026-09-27T21:54:41-0400",
+  "rerun_2026_09_27": {
+   "at": "2026-09-27T21:54:41-0400",
+   "trigger": "Workflow re-run on the user's request. The checkpoint was at stage done. The earlier judgements were re-checked rather than discarded, and the search snapshots of the earlier runs were reused.",
+   "checks": [
+    "Integrity. Builder file unchanged since 2026-09-26T09:51:11-0400. Dates, end_reason, appointing_president, deputy_pm, reorg fields and confidences of all nine spells equal the builder's before this re-run. The from_main record 김동진 equals roster/defense.verified.json apart from the flag. Eight same-day handovers, no gap.",
+    "Quote audit (script 19). 116 of 116 excerpts in spells 0-7 occur in their snapshots after NFKC and whitespace normalisation (verify88/rerun0927/excerpt_audit.json). After the two new end_sources were added, script 19 was run again and found 118 of 118 (the file now holds the post-change audit).",
+    "List-row audit (script 20). 45 of 45 quoted 국방부 list, 대통령기록관 schedule, 연표 and ko.wikipedia rows in spells 0-7 occur in their snapshots (verify88/rerun0927/listrow_audit.json).",
+    "Holder list. A web search for other official 역대 국방부장관 lists (mnd.go.kr, 군사편찬연구소) found none beyond the 국방부 list the builder used. The earlier independent news scan, schedules and chronology stand.",
+    "1993 handover (scripts 17 and 18). 14 searches in both archives for 1993-02-24..03-03. New dated reports in 세계일보 1993-02-25 and 동아일보 1993-02-27 p.2. No report of a 사표 수리 other than the 중앙일보 one was found (queries 일괄사표 수리, 각료 사표 수리, 사표 반려 국무위원)."
+   ],
+   "result": {
+    "confirmed": 8,
+    "disputed": 1,
+    "corrected": 0,
+    "added": 0,
+    "field_changes_this_rerun": 4
+   }
+  }
+ }
+}

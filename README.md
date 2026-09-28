@@ -1,380 +1,167 @@
 # Korean Cabinet Minister Dataset
-## 한국 국무위원 겸직 데이터셋
+## 한국 국무총리·국무위원 데이터셋 (1988-2026)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
 
-A panel dataset of South Korean cabinet ministers (2000-2025) with hand-coded **dual-office status**, designed for linkage with parliamentary transcript data (LOSI) to study legislative oversight.
+Every South Korean prime minister and cabinet minister (국무위원) in office between the start of the current constitution (1988-02-25) and 2026-09-24. Each tenure has its appointment and exit dates with sources, the minister's nomination and confirmation-hearing record, and whether the minister was also a sitting member of the National Assembly (dual office, 국회의원 겸직), coded day by day.
 
-**Two datasets, one research infrastructure:**
+**Interactive explorer:** https://kyusik-yang.github.io/minister-data/
 
-| | |
-|--|--|
-| `minister_panel_comprehensive.csv` | 296 ministerial appointments, each coded for dual-office status - whether the minister simultaneously held a National Assembly seat |
-| `losi_mp_metadata.csv` | Party and electoral metadata for 1,931 legislators appearing as questioners in parliamentary transcripts (17th-21st Assembly, 2004-2024) |
-
-Merge these with [LOSI](https://likms.assembly.go.kr/) transcript data to produce question-answer dyads with dual-office status and ruling/opposition coding attached, enabling systematic analysis of whether legislative oversight depends on the minister's co-partisan tie to the legislature.
-
-
-**What is dual-office?** South Korea's constitution uniquely permits sitting National Assembly members to simultaneously serve as cabinet ministers, retaining both their legislative seat and executive appointment. No other established presidential democracy has an equivalent provision.
-
-![Dataset Overview](docs/overview.png)
-
-→ [Interactive explorer](https://kyusik-yang.github.io/minister-data/)
+Version 2.0.0 replaces the first release (2026-03), which had serious errors. See [CHANGELOG.md](CHANGELOG.md) for what was wrong and what changed.
 
 ---
 
-## Data Preview
+## Coverage
 
-A sample of rows from `minister_panel_comprehensive.csv` (✓ = True):
+| Administration | Rows | Persons | Dual-office rows | Carried over from the previous government |
+|---|---:|---:|---:|---:|
+| 노태우 Roh Tae-woo (1988-02-25) | 141 | 120 | 24 | 22 |
+| 김영삼 Kim Young-sam (1993-02-25) | 152 | 127 | 28 | 25 |
+| 김대중 Kim Dae-jung (1998-02-25) | 124 | 115 | 23 | 22 |
+| 노무현 Roh Moo-hyun (2003-02-25) | 101 | 92 | 11 | 20 |
+| 이명박 Lee Myung-bak (2008-02-25) | 71 | 67 | 13 | 16 |
+| 박근혜 Park Geun-hye (2013-02-25) | 72 | 60 | 13 | 17 |
+| 문재인 Moon Jae-in (2017-05-10) | 73 | 70 | 19 | 17 |
+| 윤석열 Yoon Suk Yeol (2022-05-10) | 54 | 54 | 9 | 16 |
+| 이재명 Lee Jae-myung (2025-06-04) | 46 | 39 | 11 | 14 |
+| **Total** | **834** | **565** | **151** | |
 
-| name | name_en | ministry | admin | start | end | dual_office | mp_district | confirmation_hearing |
-|------|---------|----------|-------|-------|-----|-------------|-------------|----------------------|
-| 고건 | Ko Kun | 국무총리 | 노무현 | 2003-02-27 | 2004-05-24 | | | ✓ |
-| 김영진 | Kim Yeong-jin | 농림부 | 노무현 | 2003-02-27 | 2004-01-09 | ✓ | 비례대표 | |
-| 주호영 | Ju Ho-yeong | 특임장관 | 이명박 | 2009-09-30 | 2010-08-10 | ✓ | 대구 수성구 을 | ✓ |
-| 김관진 | Kim Gwan-jin | 국방부 | 박근혜 | 2013-02-25 | 2014-07-03 | | | ✓ |
-| 김부겸 | Kim Bu-kyum | 행정안전부 | 문재인 | 2017-06-16 | 2019-03-08 | ✓ | 대구 수성구 갑 | ✓ |
-| 김영춘 | Kim Yeong-chun | 해양수산부 | 문재인 | 2017-06-16 | 2019-05-09 | ✓ | 부산 진구 갑 | ✓ |
-| 원희룡 | Won Hee-ryong | 국토교통부 | 윤석열 | 2022-05-13 | 2023-12-25 | | | ✓ |
-| 김민석 | Kim Min-seok | 국무총리 | 이재명 | 2025-07-03 | | ✓ | 서울 영등포구 을 | ✓ |
+A row is one continuous tenure within one administration. The same data at the tenure level has 687 spells. There are also 686 nominations, including 35 that were withdrawn or rejected.
 
-→ [View full dataset on GitHub](https://github.com/kyusik-yang/minister-data/blob/main/data/minister_panel_comprehensive.csv) &nbsp;|&nbsp; [Interactive explorer](https://kyusik-yang.github.io/minister-data/)
-
----
-
-## At a Glance
-
-| | |
-|--|--|
-| **Coverage** | 2000-2025 (Kim Dae-jung through Lee Jae-myung) |
-| **Administrations** | 7 (김대중, 노무현, 이명박, 박근혜, 문재인, 윤석열, 이재명) |
-| **Ministers** | 296 appointments |
-| **Dual-office rate** | 63 / 296 (~21%) |
-| **Unit** | One row per ministerial appointment |
-
-**Administration breakdown:**
-
-| Administration | Ideology | N | Dual-office |
-|---------------|----------|---|-------------|
-| 김대중 | Progressive | 2 | 1 |
-| 노무현 | Progressive | 80 | 9 |
-| 이명박 | Conservative | 52 | 10 |
-| 박근혜 | Conservative | 47 | 11 |
-| 문재인 | Progressive | 54 | 18 |
-| 윤석열 | Conservative | 39 | 5 |
-| 이재명 | Progressive | 22 | 9 |
-| **Total** | | **296** | **63** |
+**Offices in scope.** The prime minister (including acting-before-consent 서리 periods) and every office whose head held 국무위원 status under the Government Organization Act, 30 office lineages in all. A lineage follows one office through its renamings, for example 재무부, 재정경제원, 재정경제부, 기획재정부 and 재정경제부 again. The legal basis for every office period is in `evidence/offices/`.
 
 ---
 
-## Parliamentary Q&A Analysis (Primary Use Case)
+## Files (`data/v2/`)
 
-The minister panel was built to enable linkage with parliamentary transcript data. South Korea's [LOSI](https://likms.assembly.go.kr/) (국회의사록정보시스템) provides full-text transcripts of every committee hearing and national audit (국정감사) session since the 17th Assembly (2004). Parsed into **question-answer dyads** -- one row per legislator-minister exchange -- these transcripts allow systematic study of legislative oversight.
+| File | Rows | One row per | Use it for |
+|---|---:|---|---|
+| `spells.csv` | 687 | continuous tenure in one ministry name | the main tenure table |
+| `panel_admin.csv` | 834 | tenure x administration | analysis by government. Keeps the column names of the first release |
+| `nominations.csv` | 686 | nomination (appointed, withdrawn or rejected) | confirmation hearings, report adoption, failed nominations |
+| `persons.csv` | 565 | person | person ids, Hanja names, National Assembly member codes |
+| `acting_heads.csv` | 130 | acting head (직무대행) | acting prime ministers (complete) and acting ministers (partial) |
+| `offices.csv` | 118 | office period | legal office periods and deputy-PM titles |
+| `ministry_alias.csv` | 778 | spelling of an office title | normalizing titles found in transcripts and news |
+| `person_name_variants.csv` | 23 | transcript variant of a name | linking transcripts with Hanja variants or typos |
+| `spell_disputes.csv` | 925 | competing date | alternative start and end dates found in sources |
+| `MANIFEST.json` | | | version, build time, row counts, sha256 of every file |
 
-**The key question:** once you know which ministers held a legislative seat, you can ask whether that co-partisan tie distorts how legislators question the minister -- and whether the effect differs by hearing type.
+The column definitions and coding rules are in [docs/codebook.md](docs/codebook.md).
 
-### Dyad schema
+The first release's `data/minister_panel_comprehensive.csv` is still in place because downstream projects read it. It is deprecated and should not be used for new work.
 
-A dyad dataset built from LOSI transcripts looks like this (`data/sample_dyads.csv`):
+---
 
-| dyad_id | date | ministry | admin | dual_office | hearing_type | q_speaker | q_word_count | q_text |
-|---------|------|----------|-------|-------------|-------------|-----------|-------------|--------|
-| LOSI_HEA_34092_유시민_0013 | 2006-02-08 | 보건복지부 | 노무현 | True | HEARING | 고경화 위원 | 6 | 그 조항이 위법이라는 건가요, 잘못된 건가요? |
-| LOSI_HEA_34088_김우식_0012 | 2006-02-07 | 과학기술부 | 노무현 | False | HEARING | 서상기 위원 | 10 | 후보자가 과기부 장관 하기에 충분히 역량이 있다... |
-| LOSI_AUD_38669_전재희_0163 | 2009-10-23 | 보건복지부 | 이명박 | True | AUDIT | 이애주 위원 | 8 | 장관님, 해당 예산 집행에 대한 근거가 뭡니까? |
-| LOSI_AUD_49535_박영선_0089 | 2019-10-21 | 중소벤처기업부 | 문재인 | True | AUDIT | 이훈 위원 | 20 | 소상공인 지원예산이 전년 대비 30% 늘었는데... |
-| LOSI_HEA_48360_진선미_0442 | 2018-09-20 | 여성가족부 | 문재인 | True | HEARING | 전희경 위원 | 7 | 지금 여가부 장관으로서 본인의 역할이 뭐라고 생각하십니까? |
-
-**Hearing types:**
-- `HEARING` - confirmation hearings (인사청문회): structured, adversarial, televised
-- `AUDIT` - national audit sessions (국정감사): annual ministry-by-ministry oversight
-
-### Three-way merge: dyads + minister panel + MP metadata
+## Quick start
 
 ```python
 import pandas as pd
 
-# Load your dyads (see data/sample_dyads.csv for schema)
-dyads = pd.read_csv("your_dyads.csv")
+spells = pd.read_csv("data/v2/spells.csv")
 
-# Load the two files from this repo
-panel = pd.read_csv("data/minister_panel_comprehensive.csv")
-meta  = pd.read_csv("data/losi_mp_metadata.csv")
-
-# Step 1: attach dual-office status to each dyad
-dyads = dyads.merge(
-    panel[["name", "admin", "ministry", "dual_office", "mp_party_at_appt"]],
-    left_on=["minister", "admin", "ministry"],
-    right_on=["name", "admin", "ministry"],
-    how="left"
-)
-
-# Step 2: attach questioner's party
-dyads = dyads.merge(
-    meta[["q_speaker", "assembly", "q_party"]],
-    on=["q_speaker", "assembly"],
-    how="left"
-)
-
-# Step 3: code ruling vs. opposition status
-RULING = {
-    "노무현": ["열린우리당", "대통합민주신당"],
-    "이명박": ["한나라당", "새누리당"],
-    "박근혜": ["새누리당"],
-    "문재인": ["더불어민주당"],
-    "윤석열": ["국민의힘"],
-}
-dyads["q_ruling"] = dyads.apply(
-    lambda r: r["q_party"] in RULING.get(r["admin"], []), axis=1
-)
+# Share of new appointments that went to sitting National Assembly members, by appointing president
+new = spells[~spells["reorg_continuation"].fillna(False).astype(bool)]
+order = ["노태우", "김영삼", "김대중", "노무현", "이명박", "박근혜", "문재인", "윤석열", "이재명"]
+print(new.groupby("appointing_president")["dual_office_at_start"].mean().reindex(order).round(3))
 ```
 
-### Example analysis: ruling-party deference toward dual-office ministers
+Output with v2.0.0:
+
+```
+노태우    0.202
+김영삼    0.220
+김대중    0.220
+노무현    0.139
+이명박    0.212
+박근혜    0.239
+문재인    0.333
+윤석열    0.135
+이재명    0.385
+```
+
+Who held an office on a given date:
 
 ```python
-# Mean question length by dual-office status and ruling/opposition affiliation
-result = (
-    dyads.groupby(["dual_office", "q_ruling", "hearing_type"])["q_word_count"]
-    .mean().unstack(level=["q_ruling", "hearing_type"]).round(1)
-)
-print(result)
-#                    q_ruling=False          q_ruling=True
-# hearing_type         AUDIT HEARING          AUDIT HEARING
-# dual_office
-# False                 52.8    47.2           49.4    44.6
-# True                  54.6    44.3           45.2    42.1  # ruling asks SHORTER to dual-office
-
-# DiD-style comparison:
-# Ruling party protection effect (confirmation hearings)
-import scipy.stats as stats
-ruling_dual   = dyads.query("q_ruling and dual_office and hearing_type=='HEARING'")["q_word_count"]
-ruling_nodual = dyads.query("q_ruling and not dual_office and hearing_type=='HEARING'")["q_word_count"]
-
-diff = ruling_dual.mean() - ruling_nodual.mean()
-pval = stats.ttest_ind(ruling_dual, ruling_nodual).pvalue
-print(f"Ruling-party protection: {diff:.1f} fewer words (p={pval:.3f})")
-# Ruling-party protection: -3.1 fewer words (p=0.012)
+d = "2019-10-21"
+on = spells[(spells.spell_start <= d) & (spells.spell_end.fillna("9999-12-31") >= d) & (spells.lineage == "sme")]
+print(on[["name", "ministry", "spell_start", "spell_end", "dual_office_at_start"]])
+#  name  ministry        spell_start  spell_end   dual_office_at_start
+#  박영선  중소벤처기업부   2019-04-08   2021-01-20  True
 ```
 
-The dataset was designed so that `dual_office` merges cleanly onto any LOSI-derived dyad table. See `data/sample_dyads.csv` for the complete column schema.
+**Dual office varies within a tenure.** A minister's seat can end in the middle of a tenure, for example at the end of an Assembly term or on resignation from the Assembly. For any analysis at the level of a date, such as linking parliamentary speeches, use `dual_office_start` and `dual_office_end`, not the row-level flag.
+
+**Linking to transcripts.** [kr-hearings-data](https://github.com/kyusik-yang/kr-hearings-data) links National Assembly speeches to this dataset. The recommended rule is person name (or Hanja, or an entry in `person_name_variants.csv`) plus the speech date inside `[spell_start, spell_end]`, with the ministry resolved through `ministry_alias.csv`. Speeches by acting prime ministers link to `acting_heads.csv`.
+
+### Linked datasets
+
+| Dataset | Version used | Role |
+|---|---|---|
+| [kna](https://github.com/kyusik-yang/kna) | 0.7.1 | National Assembly member lists (terms 17-22) and resignation motions used for dual-office coding |
+| [kr-hearings-data](https://github.com/kyusik-yang/kr-hearings-data) | v10 build | Parliamentary speeches linked to this dataset. Its full-build check (2026-09-28) linked all but 66 of 1.15 million minister turns, and those 66 are label errors in the minutes |
+
+The versions and check results are recorded in `data/v2/MANIFEST.json` under `linked_datasets`. When kna publishes a new release, run `python3 pipeline/build/check_linked_datasets.py`. It compares the local kna version with the recorded one and lists the steps to rebuild the National Assembly member table and the panel.
 
 ---
 
-## Quick Start
+## How the data were built and checked
 
-```python
-import pandas as pd
+**Sources, in order of authority**
+1. The Official Gazette (관보). Appointment notices from 2001 onward were read in full text, and 2,709 personnel items were harvested.
+2. National Assembly records: bill records of confirmation-hearing requests and prime-minister consent motions (의안정보시스템), and member histories from the Open Assembly API.
+3. Official pages: ministries' lists of past ministers, the Presidential Archives (대통령기록관) and 정책브리핑.
+4. News on the day of the appointment or exit, from BigKinds, Naver News and, before 1990, the Naver News Library.
 
-df = pd.read_csv("data/minister_panel_comprehensive.csv")
+Wikipedia and Namu Wiki were used only to find candidates, never as the sole source for a date. Every start and end date has at least two independent sources, at least one of them outside the wikis. The sources are cited with access times in `spells.csv` and in the roster files under `evidence/roster/`.
 
-# Dual-office rate by administration
-df.groupby("admin")["dual_office"].mean().round(2)
-# 노무현    0.11
-# 이명박    0.19
-# 박근혜    0.24
-# 문재인    0.33
-# 윤석열    0.17
-# 이재명    0.41
+**Verification.** Each office lineage was compiled by one agent and then re-checked by a second agent working from different sources, whose instructions were to look for errors and omissions. Of 687 spells, 566 were confirmed, 75 corrected and 46 remain disputed. A disputed spell keeps the better-supported date and lists the alternative in `spell_disputes.csv`. Party membership on the appointment date was re-verified for all 151 dual-office rows. The panel was also checked against every minister's appearances in the National Assembly transcripts from 2000 to 2026. Apart from label errors in the minutes, every appearance falls inside a tenure of the same person.
 
-# List all dual-office ministers
-dual = df[df["dual_office"] == True][["name", "name_en", "ministry", "admin", "mp_district"]]
-print(dual.to_string(index=False))
-```
+**Blind audit.** A stratified random sample was re-collected from scratch by auditors who saw only names and years, and each disagreement was then adjudicated with sources.
 
----
+| Period | Sample | Fields compared | Exact agreement | Errors found in the data |
+|---|---|---:|---:|---|
+| 1998-2026 | 72 tenures (dates) | 144 | 133 | 3, all one day, corrected |
+| 1998-2026 | 24 nominations | 120 | 118 | 2, corrected |
+| 1998-2026 | 24 dual-office rows | 96 | 95 | 0 |
+| 1988-1997 | 24 tenures (dates) | 48 | 44 | 1, corrected |
 
-## Use Cases
+No date in either sample was off by more than one day. The remaining one-day differences are convention questions, described in the codebook, not errors. The samples, the auditors' answers and the adjudications are in `evidence/blind_audit/`.
 
-### 1. Look up a specific minister's dual-office status
+**Use of AI.** The collection, verification and audit were carried out by large-language-model agents (Anthropic's Claude) working under the source rules above, directed and checked by the author. Every value in the data can be traced to a cited source.
 
-```python
-df[df["name"] == "김부겸"][["name", "ministry", "admin", "dual_office", "mp_district"]]
-#    name ministry admin  dual_office       mp_district
-# 김부겸  행정안전부  문재인         True  대구 수성구 갑 (20대)
-```
-
-### 2. Dual-office rate over time (longitudinal trend)
-
-```python
-import matplotlib.pyplot as plt
-
-rate = df.groupby("admin")["dual_office"].mean()
-admin_order = ["노무현", "이명박", "박근혜", "문재인", "윤석열", "이재명"]
-
-rate.reindex(admin_order).plot(kind="bar", figsize=(8, 4))
-plt.ylabel("Dual-office rate")
-plt.title("Share of dual-office ministers by administration")
-plt.tight_layout()
-plt.savefig("dual_office_rate.png", dpi=150)
-```
-
-### 3. Which ministries appoint dual-office ministers most?
-
-```python
-ministry_rate = (
-    df.groupby("ministry")["dual_office"]
-    .agg(["mean", "sum", "count"])
-    .rename(columns={"mean": "rate", "sum": "n_dual", "count": "n_total"})
-    .query("n_total >= 5")
-    .sort_values("rate", ascending=False)
-)
-print(ministry_rate.head(10))
-```
-
-### 4. Merge with Q-A dyad data for oversight analysis
-
-The minister panel is designed to join cleanly with parliamentary Q-A transcript data (e.g., from [LOSI](https://likms.assembly.go.kr/)) on minister name + administration + ministry:
-
-```python
-# dyads: a dataframe of question-answer pairs from parliamentary transcripts
-# minister_panel: this dataset
-
-dyads = pd.read_csv("your_qa_dyads.csv")
-panel = pd.read_csv("data/minister_panel_comprehensive.csv")
-
-# Match on minister name + administration
-merged = dyads.merge(
-    panel[["name", "admin", "ministry", "dual_office", "confirmation_hearing"]],
-    left_on=["r_speaker", "admin", "ministry"],
-    right_on=["name", "admin", "ministry"],
-    how="left"
-)
-
-# Now analyze: do ruling-party legislators ask softer questions to dual-office ministers?
-merged.groupby(["dual_office", "q_ruling"])["q_word_count"].mean()
-```
-
-### 5. Study confirmation hearing patterns
-
-```python
-# Ministers with confirmation hearings, by year
-df["year"] = pd.to_datetime(df["confirmation_date"], errors="coerce").dt.year
-hearing_by_year = df[df["confirmation_hearing"]].groupby("year").size()
-
-# Did dual-office ministers face confirmation hearings at the same rate?
-df.groupby("dual_office")["confirmation_hearing"].mean()
-# False    0.88
-# True     0.95
-```
-
-### 6. Research questions this dataset enables
-
-- **Oversight distortion:** Do ruling-party legislators ask softer questions to dual-office ministers in parliamentary hearings?
-- **Appointment selection:** Which administrations appoint more dual-office ministers, and why? Are progressive or conservative governments more likely to do so?
-- **Legislative absenteeism:** Do legislators who become ministers show reduced bill sponsorship or committee attendance?
-- **Career paths:** Is dual-office appointment a stepping stone to future leadership positions?
-- **Comparative study:** How does Korean dual-officeholding compare to cabinet formation in semi-presidential systems (e.g., France, Finland)?
+**Known limits**
+- Acting heads are complete for the prime minister and partial for other ministries.
+- There are no digital Gazette files before 2001. For 1988-2000, start dates are the day the appointment certificate (임명장) was given, unless an official record gives the legal appointment date. The announcement day is kept as an alternative.
+- Party labels are the party on the appointment date, including renamings and mergers.
+- The data stop at 2026-09-24.
 
 ---
 
-## Files
+## Reproducing the dataset
 
-```
-minister-data/
-├── data/
-│   ├── minister_panel_comprehensive.csv   # Main dataset (296 ministers)
-│   ├── losi_mp_metadata.csv              # MP party coding (1,931 pairs, 17th-21st Assembly)
-│   └── sample_dyads.csv                  # 10-row Q-A dyad schema example
-├── docs/
-│   ├── codebook.md                        # Variable definitions and coding rules
-│   ├── SCRIPTS.md                         # Pipeline: how to reproduce the dataset
-│   └── overview.png                       # 4-panel summary figure
-└── scripts/
-    ├── 01_collect/                         # Raw transcript and dyad collection
-    ├── 02_build/                           # Panel construction
-    ├── 03_validate/                        # Correction patches (v1-v6)
-    └── 04_metadata/                        # MP party metadata
-```
-
----
-
-## Variable Reference
-
-| Variable | Type | Description |
-|----------|------|-------------|
-| `ministry` | String | Ministry name (Korean) |
-| `name` | String | Minister's name (Korean) |
-| `name_en` | String | Minister's name (romanized) |
-| `start` | Date | Appointment start (YYYY-MM-DD) |
-| `end` | Date | Appointment end (YYYY-MM-DD) |
-| `admin` | String | Administration (e.g., 노무현, 이명박) |
-| `admin_ideology` | String | Progressive / Conservative |
-| `dual_office` | Boolean | **True** = simultaneous National Assembly member |
-| `mp_party_at_appt` | String | Minister's party at appointment (if dual) |
-| `mp_district` | String | Electoral district or 비례대표 (if dual) |
-| `assembly_num_at_appt` | Float | National Assembly term number (if dual) |
-| `confirmation_hearing` | Boolean | Had a confirmation hearing (인사청문회)? |
-| `confirmation_date` | Date | Date of confirmation hearing |
-| `notes` | String | Source notes and corrections |
-
-See `docs/codebook.md` for full documentation and coding rules.
-
----
-
-## Supplementary: `losi_mp_metadata.csv`
-
-Party coding for National Assembly members appearing as questioners in parliamentary transcripts. Covers the 17th-21st Assemblies (2004-2024). Used to code questioner ruling/opposition status in Q-A dyad analysis.
-
-Variables: `q_speaker`, `assembly`, `q_party`, `q_sex`, `q_elect_type`, `q_birth`, `q_term_count`, `q_mona_cd`
-
----
-
-## Reproducing the Dataset
-
-See `docs/SCRIPTS.md` for the full pipeline. In brief:
-
-```
-01_collect/   →   02_build/   →   03_validate/ (v1→v6)   →   04_metadata/
-```
-
-```
-pip install pandas requests openpyxl beautifulsoup4
-```
-
----
-
-## Status: Actively Updated
-
-> **This dataset is under active development.** New appointments are added as they occur; historical coverage is being extended backward. Check the commit history for the latest additions.
-
-Current known gaps:
-
-- **Kim Dae-jung era (2000-2003):** Only 2 entries currently. Full collection ongoing.
-- **22nd Assembly (2024-present):** Not yet fully archived in LOSI.
-- **Interim ministers (직무대행):** Not included.
-
-If you spot an error or missing entry, please open an [issue](https://github.com/kyusik-yang/minister-data/issues).
+The collection and build scripts are in [pipeline/](pipeline/README.md). The raw source snapshots (web pages, Gazette PDFs, news articles, about 2 GB) are archived by the author and are available on request. The verified rosters and review tables that the build reads are in `evidence/`.
 
 ---
 
 ## Citation
 
-If you use this dataset, please cite the repository:
-
 ```bibtex
-@misc{yang2025ministerdata,
+@misc{yang2026ministerdata,
   author       = {Yang, Kyusik},
-  title        = {Korean Cabinet Minister Dataset: Dual-Office Status Panel (2000--2025)},
-  year         = {2025},
+  title        = {Korean Cabinet Minister Dataset, 1988-2026},
+  year         = {2026},
+  version      = {2.0.0},
   publisher    = {GitHub},
   url          = {https://github.com/kyusik-yang/minister-data}
 }
 ```
 
-Or in text: Yang, Kyusik. 2025. "Korean Cabinet Minister Dataset." GitHub. https://github.com/kyusik-yang/minister-data.
-
----
-
 ## License
 
-Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) - Attribution required
-Code: [MIT](https://opensource.org/licenses/MIT)
+Data: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: [MIT](LICENSE).
 
 ## Contact
 
-Kyusik Yang - kyusik.yang@nyu.edu - PhD Candidate, NYU Department of Politics
-
----
-
-*Dataset compiled and maintained by Kyusik Yang. Repository structure and documentation built with [Claude Code](https://claude.ai/code).*
+Kyusik Yang, NYU Department of Politics (kyusik.yang@nyu.edu). Please report errors through [issues](https://github.com/kyusik-yang/minister-data/issues).

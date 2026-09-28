@@ -1,0 +1,77 @@
+{
+ "dataset": "minister-data (Korean cabinet ministers)",
+ "version": "v2.0.0",
+ "built_at": "2026-09-28T08:59:16-0400",
+ "linked_datasets": {
+  "kna": {
+   "repository": "https://github.com/kyusik-yang/kna",
+   "version": "0.7.1",
+   "commit": "2b40444",
+   "used_for": "National Assembly member lists for terms 17-22 and resignation motions (pipeline/na_members, evidence/na_members). Seat dates come from the NA Open API, so kna updates do not change dual-office coding unless member lists change.",
+   "checked": "2026-09-27. Rebuilt against kna 0.7.1: 0 seat-date changes, 0 disagreements between kna member files and this table."
+  },
+  "kr-hearings-data": {
+   "repository": "https://github.com/kyusik-yang/kr-hearings-data",
+   "version": "v10 build (not yet released)",
+   "used_for": "Links National Assembly speeches (terms 16-22) to spells.csv, nominations.csv and acting_heads.csv using ministry_alias.csv and person_name_variants.csv.",
+   "checked": "2026-09-28. Link check on the full v10 build: minister turns 1,151,623 linked and 66 unlinked (label errors in the minutes), nominee turns 138,743 linked and 0 unlinked, prime-minister turns 91,384 linked to spells plus 2,598 to acting heads, 2 unlinked (label fragments). No roster date change was needed."
+  }
+ },
+ "window": [
+  "1988-02-25",
+  "2026-09-24"
+ ],
+ "status": "release",
+ "files": {
+  "acting_heads.csv": {
+   "sha256": "fcc002b790199c1fb05444823188e2149c3afe43cc8664c8f4ebdf39e3b7c0e7",
+   "rows": 130,
+   "bytes": 215447
+  },
+  "lineage_family_crosswalk.csv": {
+   "sha256": "88bcfd08334dd10de39f3b6275edf4e6eb3901442980a63477f1e90f3db8ccdf",
+   "rows": 33,
+   "bytes": 4213
+  },
+  "ministry_alias.csv": {
+   "sha256": "5256ef1cacf843bc9f3269b6f07ee0819e7aa6698f73df639f7a5d707570e64d",
+   "rows": 778,
+   "bytes": 375192
+  },
+  "nominations.csv": {
+   "sha256": "c907a63615eff49fc7419ab2475a5ffb29d3b7fecab8a8be0434bcd86c9cc3e4",
+   "rows": 686,
+   "bytes": 1292523
+  },
+  "offices.csv": {
+   "sha256": "7d8fdd5b84e5da603a5e521c8fb489ac95765e4f01d794e4599894acd4339e25",
+   "rows": 118,
+   "bytes": 29501
+  },
+  "panel_admin.csv": {
+   "sha256": "93d8270d725eaa8eccfb387e8948fa1668003866b11d7a10374bdc7afab4ebcd",
+   "rows": 834,
+   "bytes": 6166206
+  },
+  "person_name_variants.csv": {
+   "sha256": "6cef7f4d5325929e1e547c9e26da75a9071fd17004c9599b19ca8b299d7f2009",
+   "rows": 23,
+   "bytes": 24876
+  },
+  "persons.csv": {
+   "sha256": "730e6d4bd05d100cc7908a3feb0ce832693ddb4534b2b99dbab561decb17f0be",
+   "rows": 565,
+   "bytes": 35505
+  },
+  "spell_disputes.csv": {
+   "sha256": "c69068a4d6f88b938cca7bf983f26e76dfe54dd5fcbc396efcb059b6b5ac59f3",
+   "rows": 925,
+   "bytes": 3854125
+  },
+  "spells.csv": {
+   "sha256": "451493cc2493d5b6a087bee4a7c764d869c63fa30eb5c799b5281700976add0f",
+   "rows": 687,
+   "bytes": 5080573
+  }
+ }
+}

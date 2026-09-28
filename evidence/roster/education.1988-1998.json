@@ -1,0 +1,990 @@
+{
+ "lineage": "education",
+ "built_at": "2026-09-26T14:00:32-0400",
+ "window": "1988-02-25..1998-02-24",
+ "ministry_names": [
+  {
+   "ministry": "문교부",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (version effective 1987-01-01) 제29조② and 제35조, head is 국무위원. Renamed 교육부 by 법률 제4268호 (promulgated and effective 1990-12-27, 부칙 제1조 본문, 제2조, 제10조). In existence since 1948-07-17 (국가기록원 OG0017159).",
+   "source": "offices_1988.json OFA17 (GOA_3854, GOA_4268, ARCH_OG0017159)"
+  },
+  {
+   "ministry": "교육부",
+   "from": "1990-12-27",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4268호 (1990-12-27) 제29조② and 제35조. 법률 제5153호 (version effective 1996-08-08) in force at the window end. Continues after 1998-02-27 as offices.json OF015 (법률 제5529호), see education.verified.json.",
+   "source": "offices_1988.json OFA18 (GOA_4268, GOA_5153, ARCH_OG0003530)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "서명원",
+   "name_hanja": "徐明源",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1919-10-27",
+   "gender": "M",
+   "ministry": "문교부",
+   "office_title": "문교부장관",
+   "deputy_pm": false,
+   "start": "1987-07-14",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1987-07-14 p.1 \"全대통령 임명장 수여\" (Naver News Library article 1987071400099201012, OCR text: '全斗煥대통령은 14일 상오청와대에서 신임 金貞烈국무총리서리를 비롯 鄭寬溶내무,鄭鎬溶국방,徐明源문교,曺相鎬체육,吳明체신,張基梧총무처,朴肯植과기처,李鍾律정무제1장관에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400099201012; accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/education/ext88/articles/nl_1987071400099201012.json)",
+    "조선일보 1987-07-15 p.11 \"\"文教部기능大学에 대폭넘겨\"\" (Naver News Library article 1987071500239111014, OCR text: '徐明源신임 문교부장관은 14일'; https://newslibrary.naver.com/viewer/index.naver?articleId=1987071500239111014; accessed 2026-09-26T09:47:43-0400; snapshot roster/sources/education/ext88/articles/nl_1987071500239111014.json)",
+    "BigKinds 01100901.19870714194838001: 중앙일보 1987-07-14 \"내 무 정관용 국 방 정호용 문 교 서명원 체 욱 조상호 체 신 오 명 총무처 장기오 과기처 박긍식 정무1 이 종 율\" (full text: '전두환대통령은 13일 하오 국무총리에 김정열국정자문위원을 임명하고'; accessed 2026-09-26T09:21:32-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19870714194838001.json) (announcement of the 7·13 reshuffle, 13일 하오)",
+    "동아일보 1987-07-14 p.1 \"總理에 金貞烈씨 8部장관 경질\" (Naver News Library article 1987071400209201003, OCR text: '全斗煥대통령은 13일오후국무총리(서리)에 金貞烈국정자문위원을 임명하는등 8개부처장관을 경질하는 대폭개각을 단행했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400209201003; accessed 2026-09-26T09:21:39-0400; snapshot roster/sources/education/ext88/articles/nl_1987071400209201003.json) (announcement, names 문교부장관에 徐明源)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '28대 서명원 1987-07-14 ~ 1988-02-24' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-04-07 https://web.archive.org/web/20000407061354id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=10: '제 28대 서명원 1987-07-14 1988-02-24' (tier 2, archived by the Internet Archive; accessed 2026-09-26T09:11:55-0400; snapshot roster/sources/education/ext88/wayback/moe2000_old_list_sno10.html)",
+    "국사편찬위원회 대한민국사연표 1987-07-14 \"서명원 문교부장관, 문교부의 권한과 기능을 시·도 교육위원회에 위임 천명\" https://db.history.go.kr/id/tcct_1987_07_14_0030 (tier 2; accessed 2026-09-26T09:24:51-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1987_07_14_0030.html)",
+    "대통령기록관 연도별 대통령 일정, 전두환 1987, 1987-07-13 \"국무총리 김정렬 임명 등 내각 대폭 개편\", '새 내각의 임무는 민주발전 위한 제반 조치를 과감하고 신속히 발전시키는 데 있다고 강조' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=전두환, year=1987; tier 2; accessed 2026-09-26T09:04:56-0400; snapshot roster/sources/education/ext88/pa/pa_전두환_1987_p1.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제28대 서명원 1987년 7월 14일 ~ 1988년 2월 24일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 02100601.19870715190013104: 한국경제 1987-07-15 \"신임閣僚들에 임명장\" (full text: '全斗煥대통령은 14일상오 청와대에서 金貞烈신임국무총리서리를 비롯 鄭寬溶내무, 徐明源문교, 鄭鎬溶국방, 曺相鎬체육, 吳明체신, 張基梧총무처, 朴肯植과기처, 李鍾律정무제1관에게 임명장을 수여했다.'; accessed 2026-09-26T09:32:39-0400; snapshot roster/sources/education/ext88_verify/articles/bk_02100601.19870715190013104.json)",
+    "[verifier] 동아일보 1987-07-14 p.1 \"새國務委員에 임명장\" (Naver News Library article 1987071400209201013, OCR text: '全斗煥대통령은 14일오전金貞烈국무총리서리를 비롯한 신임 국무위원들에게 임명장을 수여했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400209201013; accessed 2026-09-26T10:20:52-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1987071400209201013.json)"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '한편 金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004; accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/education/ext88/articles/nl_1988022600239101004.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010; accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/education/ext88/articles/nl_1988022500099201010.json)",
+    "BigKinds 01100901.19880225005009001: 중앙일보 1988-02-25 \"신임각료들에 임명장\" (full text: '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다'; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19880225005009001.json)",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任국무위원들의 한마디\" (Naver News Library article 1988022500239102002, OCR text: '제5공화국이 24일밤12시로 종료됨에 따라 金貞烈국무총리를 비롯한 국무위원전원이 이날 사표를 냈다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002; accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/education/ext88/articles/nl_1988022500239102002.json) (resignations handed in on 24일, 徐明源문교부장관 among the 이임국무위원)",
+    "동아일보 1988-02-26 p.10 \"좋은분위기「악수교대」\" (Naver News Library article 1988022600209210005, OCR text: '26일오전 열린 문교부장관이취임식은 전례없이신구장관이한자리에모여'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600209210005; accessed 2026-09-26T09:47:45-0400; snapshot roster/sources/education/ext88/articles/nl_1988022600209210005.json) (joint 이·취임식 the day after the acceptance)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '28대 서명원 1987-07-14 ~ 1988-02-24' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "대통령기록관 연도별 대통령 일정, 노태우 1988, 1988-02-25 \"신임 각료와 수석비서관에게 임명장 수여\", '국무총리 이현재, 대통령 비서실장 홍성철 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; tier 2; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/education/ext88/pa/pa_노태우_1988_p1.html)",
+    "[verifier] 동아일보 1988-02-24 p.1 \"國務委員 일괄사표\" (Naver News Library article 1988022400209201012, OCR text: '이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012; accessed 2026-09-26T09:09:55-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988022400209201012.json) (resignations handed in on 1988-02-24, not yet accepted)",
+    "[verifier] BigKinds 02100601.19880225193101106: 한국경제 1988-02-25 \"盧 새大統領내외에 무궁화大勳章 수여\" (full text: '한편 金頁烈국무총리등 전 국무위원들은 이날 일괄사표를 제출했다.'; accessed 2026-09-26T09:19:34-0400; snapshot roster/sources/education/ext88_verify/articles/bk_02100601.19880225193101106.json) (same, 한국경제, OCR '金頁烈' as printed)",
+    "[verifier] 경향신문 1988-02-25 p.1 \"全 前任대통령 환송 새閣僚들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어제6共和國 정부를 출범시켰다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003; accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988022500329201003.json) (successor cabinet appointed 1988-02-25)",
+    "[verifier] BigKinds 01100901.19880226005230001: 중앙일보 1988-02-26 \"\"대과 없이 보냈다\"\" (full text: '「7개월 시한부 장관」을 마친 서명원 문교부 장관은 고별간담회에서'; accessed 2026-09-26T09:49:06-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100901.19880226005230001.json) (farewell reported the day after)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "전두환-era minister still in office on 1988-02-25 (caretaker holdover). Named in the 7·13 reshuffle on the afternoon of 1987-07-13 and given his 임명장 on the morning of 1987-07-14, the date the MOE list prints. With the rest of the 김정렬 cabinet he handed in his resignation when the 5th Republic ended at midnight of 1988-02-24, and 노태우 accepted the resignations on the morning of 1988-02-25 before giving the new cabinet its 임명장 (same-day handover). The MOE list prints 1988-02-24 as his last day, following its day-before-the-successor convention. He attended the joint 이·취임식 on the morning of 1988-02-26 as former minister. Birth date from ko.wikipedia \"서명원\" revid 42303006 https://ko.wikipedia.org/w/index.php?oldid=42303006 lead '(徐明源, 1919년 10월 27일 충청남도 논산 ~ 2006년 4월 14일)' (secondary; accessed 2026-09-26T09:38:57-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_서명원.json). No 관보 files exist before 2001."
+  },
+  {
+   "name": "김영식",
+   "name_hanja": "金永植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1930-05-04",
+   "gender": "M",
+   "ministry": "문교부",
+   "office_title": "문교부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds 01100901.19880225005009001: 중앙일보 1988-02-25 \"신임각료들에 임명장\" (full text: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다'; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19880225005009001.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010; accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/education/ext88/articles/nl_1988022500099201010.json)",
+    "BigKinds 01100611.19880226163135001: 서울신문 1988-02-26 \"新任각료에 임명장 하오 慶祝宴會 참석\" (full text: '盧대통령은 취임식에 이어 靑瓦臺에서 李賢宰신임국무 총리와 신임국무위원, 그리고 洪性澈대통령비서실장과 수석비서관들에게 각각 임명장을 수여한뒤'; accessed 2026-09-26T09:06:28-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.19880226163135001.json)",
+    "BigKinds 01100901.19880219004312001: 중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨...7부 장관 유임\" (full text: '▲문교=김영식 한국교육개발원장'; accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19880219004312001.json) (cabinet named on 1988-02-19)",
+    "경향신문 1988-02-19 p.1 \"새政府 內閣명단 발표\" (Naver News Library article 1988021900329201004, OCR text: '문교장관에는 金永植 교육개발원장이'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004; accessed 2026-09-26T09:04:12-0400; snapshot roster/sources/education/ext88/articles/nl_1988021900329201004.json) (cabinet named on 1988-02-19)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '29대 김영식 1988-02-25 ~ 1988-12-04' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-04-07 https://web.archive.org/web/20000407061354id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=10: '제 29대 김영식 1988-02-25 1988-12-04' (tier 2, archived by the Internet Archive; accessed 2026-09-26T09:11:55-0400; snapshot roster/sources/education/ext88/wayback/moe2000_old_list_sno10.html)",
+    "대통령기록관 연도별 대통령 일정, 노태우 1988, 1988-02-25 \"신임 각료와 수석비서관에게 임명장 수여\", '국무총리 이현재, 대통령 비서실장 홍성철 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; tier 2; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/education/ext88/pa/pa_노태우_1988_p1.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제29대 김영식 1988년 2월 25일 ~ 1988년 12월 4일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] 동아일보 1988-02-25 p.1 \"새内閣은 내일부터\" (Naver News Library article 1988022500209201007, OCR text: '盧泰愚대통령은 25일 제13대대통령취임식이 끝난후 李賢宰국무총리등 새각료들에게 임명장을 수여,새정부의진용을 갖췄다.' ... '새내각의 각료들은 26일부터 공식집무에 들어간다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500209201007; accessed 2026-09-26T09:07:16-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988022500209201007.json)",
+    "[verifier] BigKinds 02100601.19880226193114109: 한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\" (full text: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작'; accessed 2026-09-26T09:06:16-0400; snapshot roster/sources/education/ext88_verify/articles/bk_02100601.19880226193114109.json)",
+    "[verifier] 조선일보 1988-02-27 p.11 \"교사 海外연수 대폭 넓히기로 金永植 문교장관\" (Naver News Library article 1988022700239111021, OCR text: '金永植 신임문교부장관은26일' ... '金장관은 이날 문교부상황실에서있은 취임식에서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988022700239111021; accessed 2026-09-26T09:47:52-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988022700239111021.json) (취임식 on 1988-02-26, the day after the 임명장)"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text: '문교부장관鄭元植서울대사대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003; accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/education/ext88/articles/nl_1988120500209201003.json) (12·5 reshuffle, 석간 of the day)",
+    "조선일보 1988-12-06 p.14 \"\"산적한 현안...과감한 추진 기대\" 새長官맞는 각部処 이모저모\" (Naver News Library article 1988120600239114006, OCR text: '한편 전임 金永植장관은『재임했던 9개월동안이평상시의 2~3년과 맞먹는격동기였다』며'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006; accessed 2026-09-26T09:47:57-0400; snapshot roster/sources/education/ext88/articles/nl_1988120600239114006.json)",
+    "BigKinds 01101101.19881206102907110: 한국일보 1988-12-06 \"政局往來\" (full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여하고'; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19881206102907110.json)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 \"노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각\" https://db.history.go.kr/id/tcct_1988_12_05_0010 (tier 2; accessed 2026-09-26T08:40:49-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1988_12_05_0010.html)",
+    "대통령기록관 연도별 대통령 일정, 노태우 1988, 1988-12-05 \"총리에 강영훈 임명 등 전면개각\", '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; tier 2; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/education/ext88/pa/pa_노태우_1988_p1.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '29대 김영식 1988-02-25 ~ 1988-12-04' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "[verifier] 경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '새로 임명된 장관은▲외무崔浩中 駐사우디대사' ... '▲문교 鄭元植서울사대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988120500329201003.json)",
+    "[verifier] 한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006; accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988120600289101006.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named on 1988-02-19 as 문교부장관 of the first 노태우 cabinet and appointed with it on the morning of 1988-02-25, right after the inauguration. Replaced in the 12·5 reshuffle of 1988-12-05, announced that day, with the new ministers given their 임명장 at 4 p.m. the same day. No separate exit date was found, so the end is the successor's appointment day (same-day handover). The MOE list prints 1988-12-04. Birth date from ko.wikipedia \"김영식 (1930년)\" revid 41473425 https://ko.wikipedia.org/w/index.php?oldid=41473425 lead '(1930년 5월 4일~2022년 7월 29일)' (secondary; accessed 2026-09-26T09:38:57-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_김영식_(1930년).json)."
+  },
+  {
+   "name": "정원식",
+   "name_hanja": "鄭元植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1928-08-05",
+   "gender": "M",
+   "ministry": "문교부",
+   "office_title": "문교부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1988-12-05 p.1 \"新任장관에 임명장 盧大統領\" (Naver News Library article 1988120500209201032, OCR text: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032; accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/education/ext88/articles/nl_1988120500209201032.json)",
+    "BigKinds 01101101.19881206102907110: 한국일보 1988-12-06 \"政局往來\" (full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여하고'; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19881206102907110.json)",
+    "BigKinds 01100611.19881206160852002: 서울신문 1988-12-06 \"\"강력한 公權力 확립 左傾暴力확산 國民불안 해소를\"\" (full text: '盧泰愚대통령은 5일하오 청와대 대접견실에서 신임 국무위원들에게 임명장을 수여하고'; accessed 2026-09-26T09:22:59-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.19881206160852002.json)",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text: '문교부장관鄭元植서울대사대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003; accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/education/ext88/articles/nl_1988120500209201003.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '30대 정원식 1988-12-05 ~ 1990-12-26' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 30대 정원식 1988-12-05 1990-12-26' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 \"노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각\" https://db.history.go.kr/id/tcct_1988_12_05_0010 (tier 2; accessed 2026-09-26T08:40:49-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1988_12_05_0010.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제30대 정원식 1988년 12월 5일 ~ 1990년 12월 26일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] 경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '새로 임명된 장관은▲외무崔浩中 駐사우디대사' ... '▲문교 鄭元植서울사대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988120500329201003.json)",
+    "[verifier] 경향신문 1988-12-06 p.1 \"\"公權力확립이 國民의 여망\"\" (Naver News Library article 1988120600329201010, OCR text: '盧泰愚대통령은 5일하오姜英勳국무총리서리와 신임국무위원들에게 임명장을 수여한뒤'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600329201010; accessed 2026-09-26T09:48:32-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988120600329201010.json)",
+    "[verifier] 한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006; accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1988120600289101006.json)"
+   ],
+   "end": "1990-12-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1990-12-28 p.3 \"11월초 첫構想... 蘇귀국직후 착수,지난週末 매듭\" (Naver News Library article 1990122800239103002, OCR text: '鄭元植문교와 崔秉烈공보처장관의 경질은 2년이상된「長寿장관」정리 차원에서 이루어진것'; https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103002; accessed 2026-09-26T09:48:00-0400; snapshot roster/sources/education/ext88/articles/nl_1990122800239103002.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122800239101002, OCR text: '교육부장관에 尹亨燮교원총연합회장'; https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/education/ext88/articles/nl_1990122800239101002.json)",
+    "BigKinds 01101101.19901228000002203: 한국일보 1990-12-28 \"신임 윤형섭교육/집안 23명 교육자/“드문 교육가족” 화제\" (full text: '초대 교육부장관에 임명된 윤형섭 한국교총회장'; accessed 2026-09-26T09:49:34-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19901228000002203.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '30대 정원식 1988-12-05 ~ 1990-12-26' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 30대 정원식 1988-12-05 1990-12-26' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "offices_1988.json OFA17 문교부 to 1990-12-26 and OFA18 교육부 from 1990-12-27 (정부조직법 법률 제4268호, promulgated 1990-12-27, 부칙 제1조 본문 '이 법은 공포한 날로부터 시행한다'; 국가기록원 OG0017159 문교부 존립기간 1948.07.17 ~ 1990.12.26)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 \"노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명\" https://db.history.go.kr/id/tcct_1990_12_27_0010 (tier 2; accessed 2026-09-26T09:13:55-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1990_12_27_0010.html)",
+    "[verifier] BigKinds 01500701.19901227201600101: 부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (full text: '盧泰愚대통령은 27일 상오 姜英勳국무총리와 외무 문교 등 10개부처장관들을 교체하는 대폭적인 改閣을 단행' ... '교육부장관에 尹亨燮교원단체총연합회장'; accessed 2026-09-26T09:34:17-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01500701.19901227201600101.json) (replaced on the morning of 1990-12-27, the day the rename took effect)",
+    "[verifier] 정부조직법 법률 제4268호 [1990·12·27] 부칙 제1조, read in inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json (law.go.kr MST=5792, accessed 2026-09-26T08:33:46-0400 by the inventory agent, re-read 2026-09-26): '제1조 (시행일) 이 법은 공포한 날로부터 시행한다. 다만, 제2조제3항·제4항·제6항(문교부를 교육부로 개정하는 사항을 제외한다), 제9조 및 제31조의 개정규정과 ...' (the rename of 문교부 is expressly left out of the deferred items, so it took effect on promulgation, 1990-12-27)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Appointed in the 12·5 reshuffle of 1988-12-05 (임명장 in the afternoon). Replaced in the 12·27 reshuffle of 1990-12-27, announced that morning, on the day 법률 제4268호 took effect on promulgation and renamed 문교부 to 교육부. His successor was appointed 교육부장관 that afternoon ('초대 교육부장관'), so, as for 이돈희 at the 2001 renaming in the main file, the spell ends on 1990-12-26, the last day of the name 문교부, and no continuation spell in 교육부 is created. He may have held the renamed office for part of 1990-12-27. The MOE list also prints 1990-12-26. He was 국무총리 by 1992-01-22 (경향신문 1992-01-23 names 鄭元植국무총리), an office covered by the pm lineage. Birth date from ko.wikipedia \"정원식\" revid 42403708 https://ko.wikipedia.org/w/index.php?oldid=42403708 lead '(鄭元植, 1928년 8월 5일 ~ 2020년 4월 12일)' (secondary; accessed 2026-09-26T09:38:58-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_정원식.json)."
+  },
+  {
+   "name": "윤형섭",
+   "name_hanja": "尹亨燮",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1933",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1990-12-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds 01101101.19901228000000102: 한국일보 1990-12-28 \"노대통령,임명장 수여\" (full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와 정해창 대통령비서실장 및 신임 수석비서관 등에게 임명장을 수여했다'; accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19901228000000102.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122800239101002, OCR text: '盧대통령은 이날 오후 신임盧총리서리를 비롯,새 각료들에게 임명장을 수여했으며'; https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/education/ext88/articles/nl_1990122800239101002.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122800239101002, OCR text: '교육부장관에 尹亨燮교원총연합회장'; https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/education/ext88/articles/nl_1990122800239101002.json)",
+    "BigKinds 01101101.19901228000002203: 한국일보 1990-12-28 \"신임 윤형섭교육/집안 23명 교육자/“드문 교육가족” 화제\" (full text: '초대 교육부장관에 임명된 윤형섭 한국교총회장'; accessed 2026-09-26T09:49:34-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19901228000002203.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '31대 윤형섭 1990-12-27 ~ 1992-01-22' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 31대 윤형섭 1990-12-27 1992-01-22' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 \"노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명\" https://db.history.go.kr/id/tcct_1990_12_27_0010 (tier 2; accessed 2026-09-26T09:13:55-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1990_12_27_0010.html)",
+    "대통령기록관 연도별 대통령 일정, 노태우 1990, 1990-12-27 \"국무총리 임명\", '국무총리 노재봉, 통일원장관 최호중 등 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1990; tier 2; accessed 2026-09-26T09:04:39-0400; snapshot roster/sources/education/ext88/pa/pa_노태우_1990_p1.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제31대 윤형섭 1990년 12월 27일 ~ 1992년 1월 22일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 01500701.19901227201600101: 부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (full text: '盧泰愚대통령은 27일 상오 姜英勳국무총리와 외무 문교 등 10개부처장관들을 교체하는 대폭적인 改閣을 단행' ... '교육부장관에 尹亨燮교원단체총연합회장'; accessed 2026-09-26T09:34:17-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01500701.19901227201600101.json)",
+    "[verifier] BigKinds 01200101.19901227163601103: 경기일보 1990-12-27 \"새 각료에 임명장\" (full text: '盧泰愚 대통령은 27일 오후 청와대에서 새로 임명된 盧材鳳 총리서리와 신임 각료들에게 임명장을 수여했다.'; accessed 2026-09-26T13:19:34-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01200101.19901227163601103.json)",
+    "[verifier] BigKinds 01100611.20160421001252461: 서울신문 1990-12-28 \"“법질서 확립 피부로 느끼게”/노대통령,새각료에 임명장 수여\" (full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 총리서리를 비롯한 신임각료와 정해창 대통령비서실장 등에게 임명장을 수여하면서'; accessed 2026-09-26T10:08:01-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100611.20160421001252461.json)"
+   ],
+   "end": "1992-01-22",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1992-01-23 p.1 \"敎育部장관 趙完圭씨\" (Naver News Library article 1992012300329101007, OCR text: '盧泰愚대통령은 22일 하오 후기대입시시험지 도난사건에 책임을 지고 사표를 제출한 尹亨燮교육부장관의 사표를 수리하고 후임에 趙完圭 前서울大총장을 임명했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012300329101007; accessed 2026-09-26T09:48:06-0400; snapshot roster/sources/education/ext88/articles/nl_1992012300329101007.json)",
+    "BigKinds 01100611.20160421090310812: 서울신문 1992-01-23 \"새 교육장관 조완규씨/노 대통령,「시험지 도난」인책\" (full text: '노태우대통령은 22일 하오 후기대 입시 시험지 도난사건에 대해 책임을 지고 사표를 제출한 윤형섭교육부장관의 사표를 수리하고'; accessed 2026-09-26T09:49:42-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.20160421090310812.json)",
+    "BigKinds 01100201.19920123000000105: 국민일보 1992-01-23 \"교육장관 조완규씨\" (full text: '노태우대통령은 22일 오후 후기대입시 시험지 도난사건의 책임을 지고 사표를 제출한 윤형섭 교육부장관의 사표를 수리하고'; accessed 2026-09-26T09:49:54-0400; snapshot roster/sources/education/ext88/articles/bk_01100201.19920123000000105.json)",
+    "국사편찬위원회 대한민국사연표 1992-01-22 \"노태우 대통령, 대학입시 시험지 도난사건 책임지고 사표 제출한 교육부장관 후임에 조완규 임명\" https://db.history.go.kr/id/tcct_1992_01_22_0010 (tier 2; accessed 2026-09-26T09:54:52-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1992_01_22_0010.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '31대 윤형섭 1990-12-27 ~ 1992-01-22' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 31대 윤형섭 1990-12-27 1992-01-22' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "[verifier] BigKinds 01101001.19920123000000104: 한겨레 1992-01-23 \"새 교육장관 조완규씨/노대통령, 윤형섭 전장관 인책 경질\" (full text: '노태우 대통령은 22일 오후 후기대 입시 시험지 도난사건에 대해 책임을 지고 사표를 제출한 윤형섭 교육부장관의 사표를 수리하고, 후임에 조완규 전 서울대 총장을 임명했다.'; accessed 2026-09-26T13:20:20-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01101001.19920123000000104.json)",
+    "[verifier] BigKinds 01100701.19920123000001903: 세계일보 1992-01-23 \"“대입제 급격개편 혼란 가중/윤형섭 전장관 이임사\" (full text: '22일 사퇴한 윤형섭전교육부장관은 이임사에서'; accessed 2026-09-26T13:21:32-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100701.19920123000001903.json)",
+    "[verifier] 국사편찬위원회 대한민국사연표 1992-01-21 \"윤형섭 교육부장관, 일본교과서 역사왜곡부분 시정 강력 촉구 선언\" https://db.history.go.kr/id/tcct_1992_01_21_0010 (tier 2; accessed 2026-09-26T09:14:55-0400; day list in roster/sources/education/ext88_verify/chron/chron_walk.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "First 교육부장관, appointed in the 12·27 reshuffle on the day the ministry was renamed (announced in the morning, 임명장 in the afternoon of 1990-12-27). Resigned over the theft of the 후기대 entrance exam papers. He handed his resignation to the PM on the morning of 1992-01-22 and the president accepted it that afternoon. Birth year only, from ko.wikipedia \"윤형섭\" revid 42199600 https://ko.wikipedia.org/w/index.php?oldid=42199600 lead '(尹亨燮, 1933년 ~)' (secondary; accessed 2026-09-26T09:38:58-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_윤형섭.json), consistent with the age 57 printed in 경향신문 1990-12-27 p.2 (News Library article 1990122700329202034, search snippet '57세', snapshot roster/sources/education/ext88/news/search/nl_t90_12_p1.json)."
+  },
+  {
+   "name": "조완규",
+   "name_hanja": "趙完圭",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1928-02-11",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1992-01-23",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1992-01-23 p.1 \"敎育部장관 趙完圭씨\" (Naver News Library article 1992012300099201005, OCR text: '盧泰愚대통령은 23일 오전 趙完圭신임 교육부장관에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012300099201005; accessed 2026-09-26T09:48:09-0400; snapshot roster/sources/education/ext88/articles/nl_1992012300099201005.json)",
+    "BigKinds 01100201.19920123000000105: 국민일보 1992-01-23 \"교육장관 조완규씨\" (full text: '노대통령은 23일 오전 신임 조장관에게 임명장을 수여한 자리에서'; accessed 2026-09-26T09:49:54-0400; snapshot roster/sources/education/ext88/articles/bk_01100201.19920123000000105.json)",
+    "BigKinds 01100611.20160421090310812: 서울신문 1992-01-23 \"새 교육장관 조완규씨/노 대통령,「시험지 도난」인책\" (full text: '노대통령은 23일 상오 신임 조장관에게 임명장을 수여할 예정이다'; accessed 2026-09-26T09:49:42-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.20160421090310812.json)",
+    "경향신문 1992-01-23 p.1 \"敎育部장관 趙完圭씨\" (Naver News Library article 1992012300329101007, OCR text: '후임에 趙完圭 前서울大총장을 임명했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012300329101007; accessed 2026-09-26T09:48:06-0400; snapshot roster/sources/education/ext88/articles/nl_1992012300329101007.json) (appointment announced 22일 하오)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '32대 조완규 1992-01-23 ~ 1993-02-25' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 32대 조완규 1992-01-23 1993-02-25' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "국사편찬위원회 대한민국사연표 1992-01-22 \"노태우 대통령, 대학입시 시험지 도난사건 책임지고 사표 제출한 교육부장관 후임에 조완규 임명\" https://db.history.go.kr/id/tcct_1992_01_22_0010 (tier 2; accessed 2026-09-26T09:54:52-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1992_01_22_0010.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제32대 조완규 1992년 1월 23일 ~ 1993년 2월 25일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 01100901.19920123073432001: 중앙일보 1992-01-23 \"조교육에 임명장/보강수사 철저히/노대통령\" (full text: '노태우 대통령은 23일 오전 청와대에서 신임 조완규 교육부장관에게 임명장을 수여했다.'; accessed 2026-09-26T13:20:56-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100901.19920123073432001.json)",
+    "[verifier] BigKinds 01101001.19920123000000104: 한겨레 1992-01-23 \"새 교육장관 조완규씨/노대통령, 윤형섭 전장관 인책 경질\" (full text: '노 대통령은 23일 오전 신임 조 장관에게 임명장을 줄 예정이다.'; accessed 2026-09-26T13:20:20-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01101001.19920123000000104.json)",
+    "[verifier] 한겨레 1992-01-24 p.14 \"조 교육부장관 취임\" (Naver News Library article 1992012400289114003, OCR text: '조완규 신임 교육부장관이 23일 오전 장관 취임식에 참석키 위해 청사취임식장에 들어서고 있다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012400289114003; accessed 2026-09-26T13:20:58-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1992012400289114003.json)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds 01100901.19930225151908002: 중앙일보 1993-02-25 \"내일 조각발표\" (full text: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다'; accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19930225151908002.json)",
+    "BigKinds 01100701.19930225000000201: 세계일보 1993-02-25 \"새 정부출범 전야 관가표정\" (full text: '조완규교육부장관은 23일 「규장각 영인본」등 재임시절 각계로부터 기증받은 서적과 개인적으로 소장해온 과학교육및 대학교육 관련서적등 50여권을 서울 사당동 사저로 옮기는등 퇴임준비를 마무리'; accessed 2026-09-26T09:50:08-0400; snapshot roster/sources/education/ext88/articles/bk_01100701.19930225000000201.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '32대 조완규 1992-01-23 ~ 1993-02-25' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 32대 조완규 1992-01-23 1993-02-25' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "[verifier] 매일경제 1993-02-24 p.2 \"\"25일0시이후 非常사태 새政府가 대처\"\" (Naver News Library article 1993022400099202004, OCR text: '玄총리를 비롯한 각료들은 임기시한이 없다.' ... '따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.' ... '총무처 관계자는24일 이같은 해석을 내렸다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004; accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022400099202004.json) (총무처 ruling that the outgoing ministers stay until successors are appointed)",
+    "[verifier] BigKinds 01100611.20160421220052003: 서울신문 1993-02-25 \"김영삼대통령 오늘 취임/문민정부시대 역사적 개막/“헌법 준수”선서\" (full text: '26일 상오 9시 안기부장과 내각명단을 일괄 발표할 예정'; accessed 2026-09-26T09:31:02-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100611.20160421220052003.json) (new cabinet due on 1993-02-26)",
+    "[verifier] 한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library article 1993022600289106003, OCR text: '26일 일제히 퇴임하는 경제부처 장관들은'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600289106003; accessed 2026-09-26T09:32:04-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022600289106003.json)",
+    "[verifier] 동아일보 1993-02-26 p.3 \"\"適任\"…\"意外\"…환영과 우려\" (Naver News Library article 1993022600209203001, OCR text: '韓鳳洙前장관은 이날 9시정각에 출근,신임金장관과 잠시 전화통화로축하인사를 한뒤 간부들을장관실로 불러 그동안의노고를 치하하고 곧바로이임식을 가졌다.' ... '李龍萬前장관은 26일오전10시 이임식을 가졌다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001; accessed 2026-09-26T09:36:12-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022600209203001.json) (outgoing ministers went to work and held their 이임식 on 1993-02-26)",
+    "[verifier] BigKinds 01601101.19930226014940103: 전북일보 1993-02-26 \"閣僚들에 임명장\" (full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다.'; accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01601101.19930226014940103.json) (successor appointed 1993-02-26)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named on the afternoon of 1992-01-22, when 윤형섭's resignation was accepted, and given his 임명장 on the morning of 1992-01-23, the date the MOE list prints. The start follows the 임명장 day (see issues), so 1992-01-22 is the alternative. Left with the last 노태우 cabinet. The outgoing ministers' 일괄사표 were handed in and all accepted on 1993-02-25, the day 김영삼 took office, and the new cabinet was named and appointed on 1993-02-26. Several outgoing ministers held their 이임식 on 1993-02-26 (경향신문 1993-02-27 for 한봉수). No 이임식 report for 조완규 was found. Birth date from ko.wikipedia \"조완규\" revid 42127876 https://ko.wikipedia.org/w/index.php?oldid=42127876 lead '(趙完圭, 1928년 2월 11일~2026년 7월 13일)' (secondary; accessed 2026-09-26T09:38:59-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_조완규.json). [verifier] End changed from 1993-02-25 to 1993-02-26 (verification status corrected, end_confidence medium, one conflicting report kept). The only report that the outgoing cabinet's resignations were accepted on 1993-02-25 is 중앙일보 1993-02-25 (cited above by the builder). Against it, 총무처 ruled on 1993-02-24 that the 노태우 ministers had no term limit, did not need to resign and would hand over when the new president appointed successors (매일경제 1993-02-24), 세계일보 1993-02-25 (cited above by the builder) expected them to hold their 이·취임식 when the new cabinet was formed on the 26th, 한겨레 1993-02-26 describes the economic ministers as leaving office on the 26th, and 동아일보 1993-02-26 reports 한봉수 going to work and 이용만 holding his 이임식 on the morning of the 26th. The new cabinet, 오병문 included, was named on the morning of 1993-02-26 and received its 임명장 that afternoon. No report of 조완규's own 이임식 was found. The MOE 퇴임일자 1993-02-25 follows the page's day-before-the-successor rule and so does not decide the question. In the verified ext88 files as of 2026-09-27, all 21 other ministerial lineages end their last 노태우 minister on 1993-02-26, foreign included after its verifier corrected 이상옥 from 1993-02-25. The unverified health and transport builder files also use 1993-02-26. The pm file ends 현승종 on 1993-02-25, when 황인성 was appointed after the consent vote. Handover with 오병문 is now same-day."
+  },
+  {
+   "name": "오병문",
+   "name_hanja": "吳炳文",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1928-10-20",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds 01601101.19930227015114102: 전북일보 1993-02-27 \"[팔공산] 金대통령 모든것 걸고 한번 해보자 각료들에 당부\" (full text: '김영삼대통령은 26일 하오 24개 부처장관과 안기부장등 이날 임명된 27명에게 임명장을 수여하면서도'; accessed 2026-09-26T09:36:41-0400; snapshot roster/sources/education/ext88/articles/bk_01601101.19930227015114102.json)",
+    "경향신문 1993-02-27 p.4 \"\"매주 장관~4명 만날수 있게 日程짜라\"YS\" (Naver News Library article 1993022700329104001, OCR text: '金대통령은 이어 이날 오후 24개 부처장관과 안기부장등 새정부의 핵심요직 27명에게 임명장을 수여하면서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329104001; accessed 2026-09-26T09:34:00-0400; snapshot roster/sources/education/ext88/articles/nl_1993022700329104001.json)",
+    "BigKinds 01100701.19930227000000101: 세계일보 1993-02-27 \"부총리 이경식(기획원) 한완상씨(통일원)\" (full text: '교육부장관에는 오병문전남대총장'; accessed 2026-09-26T09:49:04-0400; snapshot roster/sources/education/ext88/articles/bk_01100701.19930227000000101.json)",
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '또 교육부장관에 吳炳文전남대총장'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001; accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/education/ext88/articles/nl_1993022600209201001.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '33대 오병문 1993-02-26 ~ 1993-12-21' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 33대 오병문 1993-02-26 1993-12-21' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1993, 1993-02-26 \"각 부 장관 등 새정부 발표\", '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; tier 2; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/education/ext88/pa/pa_김영삼_1993_p1.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제33대 오병문 1993년 2월 26일 ~ 1993년 12월 21일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 01601101.19930226014940103: 전북일보 1993-02-26 \"閣僚들에 임명장\" (full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다.'; accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01601101.19930226014940103.json)",
+    "[verifier] BigKinds 01100501.19930227052852101: 문화일보 1993-02-27 \"기획원李經植 통일원韓完相씨\" (full text: '金泳三대통령은 26일 24개 부처의 장관을 비롯 서울시장、 안기부장、 민주평통 사무총장등 27명의명단을 발표한뒤 임명장을 수여했다。' ... '또 교육부장관에는 吳炳文전남대교수'; accessed 2026-09-26T09:38:58-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100501.19930227052852101.json)",
+    "[verifier] BigKinds 01100201.19930227000001806: 국민일보 1993-02-27 \"신임 오병문 교육장관/“교육비리 척결 국민신뢰회복 최선”\" (full text: '신임 오병문교육부장관은 대학입시부정에 따른 세간의 따가운 눈총을 의식한듯 26일 취임 일성으로 교육비리 척결을 강조했다.'; accessed 2026-09-26T13:22:10-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100201.19930227000001806.json)",
+    "[verifier] 조선일보 1993-02-27 p.23 \"解職교수 출시\" (Naver News Library article 1993022700239123002, OCR text: '교육부에서 있은 취임식에서그의 일성(一声)은『교육행정의 법치주의 확립과권위주의 청산』이었다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239123002; accessed 2026-09-26T13:41:14-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022700239123002.json)"
+   ],
+   "end": "1993-12-21",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1993-12-22 p.1 \"14부처장관 경질\" (Naver News Library article 1993122200329101001, OCR text: '金泳三대통령은 21일 오후 부총리겸 경제기획원장관에 丁渽錫교통부장관,부총리겸 통일원장관에 李榮德명지대총장을 임명하는등 모두 14명의 각료를교체하는 전면적인 개각을단행했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329101001; accessed 2026-09-26T09:48:12-0400; snapshot roster/sources/education/ext88/articles/nl_1993122200329101001.json)",
+    "BigKinds 01100611.20160422071242556: 서울신문 1993-12-22 \"부총리 정재석(경제) 이영덕씨(통일)/14개부처장관 경질\" (full text: '김영삼대통령은 21일 부총리겸 경제기획원장관에 정재석교통부장관,부총리겸 통일원장관에 이영덕명지대교수를 임명하는등 14개부처에 대한 대폭적인 개각을 단행했다'; accessed 2026-09-26T09:50:40-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.20160422071242556.json)",
+    "동아일보 1993-12-22 p.5 \"\"감사원 인정받았다\"잇단入閣 환성\" (Naver News Library article 1993122200209105001, OCR text: '직원들은 吳炳文전장관의「개혁의지」에 만족하지못해 경질을 했다면'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209105001; accessed 2026-09-26T09:37:11-0400; snapshot roster/sources/education/ext88/articles/nl_1993122200209105001.json)",
+    "국사편찬위원회 대한민국사연표 1993-12-21 \"김영삼 대통령, 14개 부처 장관 경질\" https://db.history.go.kr/id/tcct_1993_12_21_0010 (tier 2; accessed 2026-09-26T09:07:48-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1993_12_21_0010.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '33대 오병문 1993-02-26 ~ 1993-12-21' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 33대 오병문 1993-02-26 1993-12-21' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "[verifier] BigKinds 01101001.19931222000000101: 한겨레 1993-12-22 \"부총리 정재석(기획원장관) 이영덕(통일원장관)/김 대통령 개각단행\" (full text: '김영삼 대통령은 21일 오후 경제부총리에 정재석 현 교통부장관, 통일 부총리에 이영덕 명지대 총장을 기용해 양대 부총리를 모두 경질하는 등 14개 부처의 각료를 교체하는 전면개각을 단행해' ... '교육부장관에는 김숙희 이화여대 교수가 발탁됐다.'; accessed 2026-09-26T13:22:58-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01101001.19931222000000101.json)",
+    "[verifier] 국사편찬위원회 대한민국사연표 1993-12-18 \"오병문 교육부장관, 노동조합 활동 계속하는 해직교사 교원임용 배제 발표\" https://db.history.go.kr/id/tcct_1993_12_18_0020 (tier 2; accessed 2026-09-26T09:09:21-0400; day list in roster/sources/education/ext88_verify/chron/chron_walk.json)",
+    "[verifier] BigKinds 01101101.19931221000000401: 한국일보 1993-12-21 \"끝까지 예측불허… 속타는 가슴/개각전야　청와대·관가　스케치\" (full text: '교육부는　오병문장관의　경질여부에　계속　엇갈린　반응.'; accessed 2026-09-27T21:51:31-0400; snapshot roster/sources/education/ext88_verify/farewell/bk_01101101.19931221000000401.json) (published on the morning of the 12·21 reshuffle, 오병문 still minister, ideographic spaces as printed)",
+    "[verifier] BigKinds 01101101.19931222000000501: 한국일보 1993-12-22 \"환영… 당혹… 아쉬움… 엇갈린 반응/「12·21개각」 관가 표정\" (full text: '황전장관은　하오　3시　이임식에서'; accessed 2026-09-26T21:57:34-0400; snapshot roster/sources/education/ext88_verify/farewell/bk_01101101.19931222000000501.json) (outgoing 환경처장관 of the same reshuffle held her 이임식 at 3 p.m. on 1993-12-21, which supports the relieved-on-announcement-day end, not a report on 오병문 himself)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named in the first 김영삼 cabinet on the morning of 1993-02-26 and given his 임명장 that afternoon. Replaced in the 12·21 reshuffle, announced on the afternoon of 1993-12-21 (outgoing ministers such as 허신행 held their 이임식 that afternoon, 동아일보 1993-12-22). The successor's 임명장 followed on the morning of 1993-12-22. The end is the day he was relieved, as in the MOE list. If the legal end is tied to the successor's 임명장, it would be 1993-12-22. Birth date from ko.wikipedia \"오병문 (1928년)\" revid 41473403 https://ko.wikipedia.org/w/index.php?oldid=41473403 lead '(吳炳文, 1928년 10월 20일 ~ 2010년 6월 21일)' (secondary; accessed 2026-09-26T09:38:59-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_오병문_(1928년).json)."
+  },
+  {
+   "name": "김숙희",
+   "name_hanja": "金淑喜",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937",
+   "gender": "F",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1993-12-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "경향신문 1993-12-23 p.1 \"\"무한경쟁 승리 至上과제\"\" (Naver News Library article 1993122300329101014, OCR text: '金대통령은 이날 오전청와대에서 丁渽錫부총리겸 경제기획원장관과 李榮德부총리겸 통일원장관등신임각료 14명에게 임명장을 수여하는 자리에서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300329101014; accessed 2026-09-26T09:33:30-0400; snapshot roster/sources/education/ext88/articles/nl_1993122300329101014.json)",
+    "BigKinds 01100901.19931222204343001: 중앙일보 1993-12-22 \"“일 않는 장관 용서않겠다”/김 대통령,새 각료에 임명장\" (full text: '김 대통령은 이날 신임 국무위원들에게 임명장을 수여한 자리에서'; accessed 2026-09-26T09:39:18-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19931222204343001.json)",
+    "BigKinds 01101101.19931223000003002: 한국일보 1993-12-23 \"“자율교육으로 경쟁력 재고”/교육부 두번째 여장관 김숙희씨\" (full text: '22일 신임 김숙희장관(56)의 취임으로 교육부는 두번째 여성장관을 맞이했다'; accessed 2026-09-26T09:50:24-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19931223000003002.json)",
+    "경향신문 1993-12-22 p.1 \"14부처장관 경질\" (Naver News Library article 1993122200329101001, OCR text: '교육부장관에 金淑喜이화여대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329101001; accessed 2026-09-26T09:48:12-0400; snapshot roster/sources/education/ext88/articles/nl_1993122200329101001.json) (appointment announced 21일 오후)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '34대 김숙희 1993-12-22 ~ 1995-05-11' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 34대 김숙희 1993-12-22 1995-05-12' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1993, 1993-12-16 \"신임 국무총리 이회창 임명\", '황인성 국무총리 사표 수리 신임 국무총리 이회창 및 감사원장 이시윤 임명 *12.21 부총리를 포함한 14개 부처 개각 단행' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; tier 2; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/education/ext88/pa/pa_김영삼_1993_p1.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제34대 김숙희 1993년 12월 22일 ~ 1995년 5월 11일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] 동아일보 1993-12-23 p.3 \"새각료 한자리에\" (Naver News Library article 1993122300209103003, OCR text: '12.21개각으로 입각한신임각료들은 22일 靑瓦臺에서 金泳三대통령으로부터 임명장을 받은뒤'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300209103003; accessed 2026-09-26T10:25:06-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993122300209103003.json)",
+    "[verifier] 매일경제 1993-12-23 p.1 \"청와대首席 4명 교체\" (Naver News Library article 1993122300099101004, OCR text: '金대통령은 이에앞서 이날 오전 丁渽錫경제부총리와 李榮德통일부총리등 신임각료 14명에게 임명장을수여하고'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099101004; accessed 2026-09-26T13:32:50-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993122300099101004.json)",
+    "[verifier] 매일경제 1993-12-23 p.31 \"\"신바람나는 社會조성 앞장\"\" (Naver News Library article 1993122300099131001, OCR text: '金淑喜 신임 교육부장관도 교육부 상황실에서열린 취임식에서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099131001; accessed 2026-09-26T12:57:07-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993122300099131001.json)"
+   ],
+   "end": "1995-05-12",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1995-05-13 p.1 \"金淑喜교육 問責 해임\" (Naver News Library article 1995051300329101001, OCR text: '金泳三대통령은 12일 6.25및 베트남전참전 관련발언으로 물의를 빚은 金淑喜교육부장관을 전격 해임했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300329101001; accessed 2026-09-26T09:48:16-0400; snapshot roster/sources/education/ext88/articles/nl_1995051300329101001.json)",
+    "BigKinds 01100901.19950513191511001: 중앙일보 1995-05-13 \"金교육 퇴임사-\"부끄럼없이 소신껏 일했다\"\" (full text: '전격 해임된 김숙희(金淑喜)교육부장관은 12일 오후3시부터 5분여간 정부종합청사 16층 상황실에서 이임식을 갖고 교육부를떠났다'; accessed 2026-09-26T09:50:58-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19950513191511001.json)",
+    "한겨레 1995-05-13 p.3 \"관리들\"솔직해서 탈\"교육개혁안 향배 불안 김장관\"개혁 갈망하면서 모든 가능성 차단\"\" (Naver News Library article 1995051300289103003, OCR text: '12일전격 해임된 김숙희 교육부장관은'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300289103003; accessed 2026-09-26T09:48:18-0400; snapshot roster/sources/education/ext88/articles/nl_1995051300289103003.json)",
+    "국사편찬위원회 대한민국사연표 1995-05-12 \"김영삼 대통령, 6·25전쟁 및 월남전 ‘양키 용병’ 발언 관련 김숙희 교육부장관 해임\" https://db.history.go.kr/id/tcct_1995_05_12_0010 (tier 2; accessed 2026-09-26T09:54:53-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1995_05_12_0010.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 34대 김숙희 1993-12-22 1995-05-12' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '34대 김숙희 1993-12-22 ~ 1995-05-11' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "[verifier] 동아일보 1995-05-13 p.1 \"金교육 전격해임\" (Naver News Library article 1995051300209101001, OCR text: '金泳三대통령은 국방대학원 특별강연에서 6.25및 월남참전 관련발언으로물의를 빚은 金淑喜교육부장관을 12일낮 전격 해임했다.' ... '후임 교육부장관은15일 귀국하는 李총리의제청을 받아 임명하게 될것'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300209101001; accessed 2026-09-26T13:23:02-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051300209101001.json)",
+    "[verifier] 매일경제 1995-05-13 p.1 \"金교육 해임…내주초 補閣\" (Naver News Library article 1995051300099101016, OCR text: '金淑喜교육부장관을 12일 해임했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300099101016; accessed 2026-09-26T13:23:05-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051300099101016.json)",
+    "[verifier] 한겨레 1995-05-13 p.1 \"\"소신껏 했습니다\"\" (Naver News Library article 1995051300289101009, OCR text: '해임된 김숙희 교육부장관이 12일오후“그동안 소신껏 일해 왔다”는 내용의 이임사를 마친 뒤 교육부를 나서고 있다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300289101009; accessed 2026-09-26T13:23:10-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051300289101009.json)"
+   ],
+   "end_reason": "dismissed",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named in the 12·21 reshuffle on the afternoon of 1993-12-21 and given her 임명장 on the morning of 1993-12-22, the day of her 취임 and the date the MOE list prints. The second woman to head the ministry. Dismissed (해임) on 1995-05-12 over remarks on the Korean and Vietnam wars made at the 국방대학원 on 1995-05-10, announced by the presidential spokesman that morning, with her 이임식 at 3 p.m. the same day. The 2000 edition of the MOE list gives 1995-05-12 and the current list and ko.wikipedia give 1995-05-11. This file follows the day of the dismissal. The PA schedule row of 1993-12-16 carries the note '*12.21 부총리를 포함한 14개 부처 개각 단행'. Birth year only, from ko.wikipedia \"김숙희\" revid 41876613 https://ko.wikipedia.org/w/index.php?oldid=41876613 lead '(金淑喜, 1937년~)' (secondary; accessed 2026-09-26T09:39:00-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_김숙희.json), consistent with the age 56 printed in 한국일보 1993-12-23."
+  },
+  {
+   "name": "박영식",
+   "name_hanja": "朴煐植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1934-01-26",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1995-05-16",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1995-05-17 p.2 \"신임 장관들에 임명장 金대통령\" (Naver News Library article 1995051700209102011, OCR text: '金泳三대통령은 16일 오전 청와대에서 신임 朴煐植교육부장관과 李聖浩보건복지부장관에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051700209102011; accessed 2026-09-26T09:48:21-0400; snapshot roster/sources/education/ext88/articles/nl_1995051700209102011.json)",
+    "BigKinds 01100611.20160423031215523: 서울신문 1995-05-17 \"“대학의 양적 팽창 억제”/박 교육 기자간담\" (full text: '박 장관은 이날 취임식직후 기자간담회에서'; accessed 2026-09-26T09:51:18-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.20160423031215523.json)",
+    "BigKinds 01100901.19950516191824001: 중앙일보 1995-05-16 \"2部장관 임명-교육부 朴煐植.보건복지부 李聖浩씨\" (full text: '김영삼(金泳三)대통령은 15일 월남전 참전관련 발언으로 해임된 김숙희(金淑喜)교육부장관 후임에 박영식(朴煐植)정부공직자윤리위원장(前연세대총장)을'; accessed 2026-09-26T09:51:37-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19950516191824001.json) (appointment announced 15일 오후)",
+    "동아일보 1995-05-16 p.1 \"보건복지長官 경질\" (Naver News Library article 1995051600209101006, OCR text: '金泳三대통령은 15일 부분개각을 단행,공석중인교육부장관에 朴煐植전연세대총장을 임명하고'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051600209101006; accessed 2026-09-26T09:48:24-0400; snapshot roster/sources/education/ext88/articles/nl_1995051600209101006.json)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '35대 박영식 1995-05-16 ~ 1995-12-20' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 35대 박영식 1995-05-16 1995-12-20' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1995, 1995-05-15 \"교육부장관 등 임명\", '교육부장관 박영식 전 연세대 총장 임명 보건복지부 장관에 민자당 이성호 의원 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1995; tier 2; accessed 2026-09-26T09:04:49-0400; snapshot roster/sources/education/ext88/pa/pa_김영삼_1995_p1.html)",
+    "국사편찬위원회 대한민국사연표 1995-05-15 \"김영삼 대통령, 부분 개각\" https://db.history.go.kr/id/tcct_1995_05_15_0010 (tier 2; accessed 2026-09-26T09:54:54-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1995_05_15_0010.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제35대 박영식 1995년 5월 16일 ~ 1995년 12월 20일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 01500401.19950516125000103: 국제신문 1995-05-16 \"장관 2명 任命\" (full text: '金泳三대통령은 16일 오전 청와대에서 신임朴煐植교육장관과 李聖浩보건복지부장관에게 임명장을 수여했다.'; accessed 2026-09-26T13:50:42-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01500401.19950516125000103.json)",
+    "[verifier] BigKinds 02100701.19950516022629101: 헤럴드경제 1995-05-16 \"교육개혁 안정적 정착 大入試 전반 개선시사\" (full text: '朴장관은 이날 오전 청와대로부터 임명장을 받고 국무회의에 참석한 뒤 교육부상황실에서 취임식을 갖고'; accessed 2026-09-26T13:51:00-0400; snapshot roster/sources/education/ext88_verify/articles/bk_02100701.19950516022629101.json)",
+    "[verifier] 한겨레 1995-05-16 p.1 \"교육 박영식 보건복지 이성호씨\" (Naver News Library article 1995051600289101006, OCR text: '김영삼 대통령은 15일 김숙희 장관의 해임으로 자리가 빈 교육부 장관에박영식 전 연세대 총장을 임명했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051600289101006; accessed 2026-09-26T10:09:38-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051600289101006.json) (named on 1995-05-15)"
+   ],
+   "end": "1995-12-20",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1995-12-21 p.1 \"11部장관 경질\" (Naver News Library article 1995122100329101001, OCR text: '金泳三대통령은 20일 부총리겸 재경원장관에 羅雄培통일부총리,부총리겸 통일원장관에 權五琦동아일보사장을 발탁하는등 11개부처 장관을 경질하는 대폭개각을단행했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100329101001; accessed 2026-09-26T09:33:53-0400; snapshot roster/sources/education/ext88/articles/nl_1995122100329101001.json)",
+    "BigKinds 01100101.19951221000000402: 경향신문 1995-12-21 \"“민주계실세 왔다” 긴장­내무부/12·20개각­각부처 표정\" (full text: '박영식 장관이 전격 경질되고 후임에 안병영 연세대교수가 발탁되자'; accessed 2026-09-26T09:52:55-0400; snapshot roster/sources/education/ext88/articles/bk_01100101.19951221000000402.json)",
+    "국사편찬위원회 대한민국사연표 1995-12-20 \"김영삼 대통령, 11개 부처 장관 경질·청와대 수석비서관 7명 교체\" https://db.history.go.kr/id/tcct_1995_12_20_0010 (tier 2; accessed 2026-09-26T09:30:17-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1995_12_20_0010.html)",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1995, 1995-12-20 \"11개 부처 장관 경질\", '11개 부처 장관 경질 청와대 수석비서관 7명 교체 부총리겸 재정경제원장관에 나웅배 통일부총리, 부총리겸 통일원 장관 권오설 동아일보 사장 발탁' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1995; tier 2; accessed 2026-09-26T09:04:49-0400; snapshot roster/sources/education/ext88/pa/pa_김영삼_1995_p1.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '35대 박영식 1995-05-16 ~ 1995-12-20' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 35대 박영식 1995-05-16 1995-12-20' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "[verifier] BigKinds 01101001.19951221000000501: 한겨레 1995-12-21 \"12·20 개각­각 부처 표정/‘경험’없는 뜻밖인물 당혹­통일원\" (full text: '대폭 개각이 이루어진 20일 정부 각 부처에서는' ... '유임될 것으로 알려졌던 박영식 장관이 교체되자'; accessed 2026-09-26T09:52:09-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01101001.19951221000000501.json)",
+    "[verifier] 동아일보 1995-12-21 p.1 \"11개部장관 경질\" (Naver News Library article 1995122100209101001, OCR text: '金泳三대통령은 20일 부총리겸 재정경제원장관에羅雄培통일부총리를' ... '교육장관엔 安秉永연세대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100209101001; accessed 2026-09-26T09:37:39-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995122100209101001.json)",
+    "[verifier] BigKinds 01101101.19951220000000401: 한국일보 1995-12-20 \"“새 장관 누가 오나” 새벽까지 촉각/오늘 개각­각 부처 표정\" (full text: '박영식 장관의 유임을 자신했다'; accessed 2026-09-26T12:54:15-0400; snapshot roster/sources/education/ext88_verify/farewell/bk_01101101.19951220000000401.json) (published on the morning of 1995-12-20, the reshuffle day, 박영식 still minister)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named on the afternoon of 1995-05-15 to the post left vacant by 김숙희's dismissal, and given his 임명장 and 취임 on 1995-05-16, the date the MOE list prints. Replaced in the 12·20 reshuffle of 1995-12-20 (the outgoing 내무부장관 held his 이임식 right after the announcement that day, 경향신문 1995-12-21). The successor's 임명장 followed on the morning of 1995-12-21. Birth date from ko.wikipedia \"박영식 (1934년)\" revid 41475744 https://ko.wikipedia.org/w/index.php?oldid=41475744 lead '(朴煐植, 1934년 1월 26일 ~ 2013년 11월 23일)' (secondary; accessed 2026-09-26T09:39:00-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_박영식_(1934년).json)."
+  },
+  {
+   "name": "안병영",
+   "name_hanja": "安秉永",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1941-09-07",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1995-12-21",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1995-12-22 p.1 \"새진용\" (Naver News Library article 1995122200099101004, OCR text: '金泳三대통령은 21일 오전 청와대에서 신임각료와 수석비서관들에게 임명장을 수여한 뒤 현관에서 기념촬영을 했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099101004; accessed 2026-09-26T09:33:57-0400; snapshot roster/sources/education/ext88/articles/nl_1995122200099101004.json)",
+    "BigKinds 01500701.20160409134357877: 부산일보 1995-12-21 \"2단계 改革 추진\" (full text: '金대통령은 이날 오전 청와대에서 신임 각료들에게 임명장을 수여하고'; accessed 2026-09-26T09:51:53-0400; snapshot roster/sources/education/ext88/articles/bk_01500701.20160409134357877.json)",
+    "BigKinds 01100611.20160423094425635: 서울신문 1995-12-22 \"각 부처 이취임식 이모저모\" (full text: '안병영 교육부장관은 취임사에서'; accessed 2026-09-26T09:43:47-0400; snapshot roster/sources/education/ext88/articles/bk_01100611.20160423094425635.json) (이·취임식 report)",
+    "경향신문 1995-12-21 p.1 \"11部장관 경질\" (Naver News Library article 1995122100329101001, OCR text: '교육부장관에 安秉永연세대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100329101001; accessed 2026-09-26T09:33:53-0400; snapshot roster/sources/education/ext88/articles/nl_1995122100329101001.json) (appointment announced 20일)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '36대 안병영 1995-12-21 ~ 1997-08-05' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 36대 안병영 1995-12-21 1997-08-05' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "ko.wikipedia \"대한민국 교육부 장관\" revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제36대 안병영 1995년 12월 21일 ~ 1997년 8월 5일 (secondary; accessed 2026-09-24T22:43:18-0400; snapshot roster/sources/education/ext88/wiki_대한민국_교육부_장관.json)",
+    "[verifier] BigKinds 01100101.19951222000000201: 경향신문 1995-12-22 \"“내년은 제2건국의 해”/역사 바로세우기 강조\" (full text: '김대통령은 이날 오전 청와대에서 나웅배경제·권오기 통일부총리를 비롯한 신임각료와 청와대수석들에게 임명장을 준 뒤'; accessed 2026-09-26T13:49:48-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100101.19951222000000201.json)",
+    "[verifier] BigKinds 01100401.19951222080827001: 동아일보 1995-12-22 \"金대통령 閣議주재 \"내년은 제2건국의해 歷史바로세우기 실현\"\" (full text: '金대통령은 이날 오전청와대에서 羅雄培경제、權五琦통일부총리와 金光一 청와대비서실장 등 신임각료와 청와대수석들에게임명장을 수여한 뒤'; accessed 2026-09-26T10:16:19-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100401.19951222080827001.json)",
+    "[verifier] BigKinds 01100611.20160423094425635: 서울신문 1995-12-22 \"각 부처 이취임식 이모저모\" (full text: '안병영 교육부장관은 취임사에서 남과 경쟁하기에 앞서 더불어 사는 문제에 천착하는 진정한 세계인 육성을 통한 우리 사회의 인간화를 교육 목표로 제시.'; accessed 2026-09-26T09:43:47-0400; snapshot roster/sources/education/ext88_verify/farewell/bk_01100611.20160423094425635.json) (round-up of the ceremonies held after the 1995-12-21 임명장, the 통일원 item in the same story dates them '21일')"
+   ],
+   "end": "1997-08-05",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1997-08-06 p.4 \"떠나는 장관\" (Naver News Library article 1997080600209104002, OCR text: '5일 개각에서 경질된 姜雲太(강운태·왼쪽)전내무장관과 安秉永(안병영)전교육부장관이 이임식을 가진 뒤 간부들의 배웅을 받으며 정부종합청사를 떠나고 있다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209104002; accessed 2026-09-26T09:45:37-0400; snapshot roster/sources/education/ext88/articles/nl_1997080600209104002.json)",
+    "조선일보 1997-08-06 p.1 \"11개部處 장관 교체\" (Naver News Library article 1997080600239101004, OCR text: '이밖에 安秉永(안병영)교육,陳稔(진념)노동장관도 교체,후임에 각각李明賢(이명현)서울대교수와 李起浩(이기호)총리행정조정실장을 임명했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004; accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/education/ext88/articles/nl_1997080600239101004.json)",
+    "BigKinds 01100501.19970806000000102: 문화일보 1997-08-06 \"11개부처 장관 교체\" (full text: '김영삼 대통령은 5일 오후 개각을 단행, 강운태 내무장관을 경질하고 후임에 조해령 전 총무처장관을 임명하는 등 11개부처 장관을 교체했다'; accessed 2026-09-26T09:52:33-0400; snapshot roster/sources/education/ext88/articles/bk_01100501.19970806000000102.json)",
+    "국사편찬위원회 대한민국사연표 1997-08-05 \"김영삼 대통령, 11개 부처 개각\" https://db.history.go.kr/id/tcct_1997_08_05_0010 (tier 2; accessed 2026-09-26T09:30:16-0400; snapshot roster/sources/education/ext88/chron/entry_tcct_1997_08_05_0010.html)",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '36대 안병영 1995-12-21 ~ 1997-08-05' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "교육부 역대장관 page (columns 취임일자, 퇴임일자; 최신 정보 수정일 1999.10.27), edition archived 2000-12-04 https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 36대 안병영 1995-12-21 1997-08-05' (tier 2, archived by the Internet Archive; accessed 2026-09-25T21:45:04-0400; snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html)",
+    "[verifier] BigKinds 01101001.19970806000000102: 한겨레 1997-08-06 \"11개 부처 장관 교체\" (full text: '김영삼 대통령은 5일 강운태 내무장관을 경질해 후임에 조해녕 전 총무처 장관을 임명하는 등 11개 부처 장관을 바꾸는 개각을 단행했다.' ... '교육부 장관에 이명현 서울대 교수'; accessed 2026-09-26T13:50:18-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01101001.19970806000000102.json)",
+    "[verifier] 조선일보 1997-08-06 p.4 \"법무-교육-복지-노동부“뜻밖”\" (Naver News Library article 1997080600239104001, OCR text: '安秉永(안병영)장관의 경질 소식을 들은 교육부 직원들은 대부분 의외라는 반응.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239104001; accessed 2026-09-26T09:28:32-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1997080600239104001.json)",
+    "[verifier] 대통령기록관 연도별 대통령 일정, 김영삼 1997, 1997-07-08 \"학교폭력 대책회의 주재\", '강운태 내무부장관, 최상엽 법무부장관, 안병영 교육부장관, 김종민 문화체육부 차관 등 참석' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1997; tier 2; accessed 2026-09-26T09:05:07-0400; snapshot roster/sources/education/ext88_verify/pa/pa_김영삼_1997_p1.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06-05 .. 2025-01-07), and 1988-1998 is outside the transcript check.",
+   "notes": "Named in the 12·20 reshuffle of 1995-12-20 and given his 임명장 on the morning of 1995-12-21, the date the MOE list prints. Replaced in the 8·5 reshuffle announced on the afternoon of 1997-08-05, after which he held his 이임식 (동아일보 1997-08-06). His successor 이명현 received the 임명장 at 9:30 a.m. on 1997-08-06 (main file). He served again as 부총리 겸 교육인적자원부장관 from 2003-12-24 (main file, separate spell). Birth date from ko.wikipedia \"안병영\" revid 40993096 https://ko.wikipedia.org/w/index.php?oldid=40993096 lead '(安秉永, 1941년 9월 7일 ~ )' (secondary; accessed 2026-09-25T13:33:22-0400; snapshot roster/sources/education/ext88/wiki/kowiki_bio_안병영.json)."
+  },
+  {
+   "name": "이명현",
+   "name_hanja": "李明賢",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1942",
+   "gender": "M",
+   "ministry": "교육부",
+   "office_title": "교육부장관",
+   "deputy_pm": false,
+   "start": "1997-08-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds 01100501.19970806000000102: 문화일보 1997-08-06 '11개부처 장관 교체' [BigKinds search '이명현 교육부장관' 1997-08-05..1997-08-07; snapshot roster/sources/education/news/bigkinds/bk_lmh_start_d37a969487.json; accessed 2026-09-25T13:00:39-0400]",
+    "BigKinds 01100901.19970807175316001: 중앙일보 1997-08-07 '[인터뷰]이명현 신임 교육부장관' [BigKinds search '이명현 교육부장관' 1997-08-05..1997-08-07; snapshot roster/sources/education/news/bigkinds/bk_lmh_start_d37a969487.json; accessed 2026-09-25T13:00:39-0400]",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: 37대 이명현 1997-08-06 ~ 1998-03-02 [snapshot roster/sources/education/official/moe_mnstrHistory.html; accessed 2026-09-24T22:44:04-0400]",
+    "ko.wikipedia '대한민국 교육부 장관' revid 41145356 https://ko.wikipedia.org/w/index.php?oldid=41145356: 제37대 이명현 1997년 8월 6일 ~ 1998년 3월 2일 [snapshot roster/sources/education/wiki/kowiki_대한민국_교육부_장관.json; accessed 2026-09-24T22:43:18-0400] (secondary)",
+    "[verifier] Naver News 연합뉴스 1997-08-06 09:44:00 '金대통령 靑瓦臺서 비상대책회의 주재(종합)' https://n.news.naver.com/mnews/article/001/0004181698: '金대통령은 이날오전 9시30분 청와대에서 曺海寧내무, 金鍾求법무장관을 비롯한 신임각료 11명에게 임명장을 주었다' [snapshot roster/sources/education/verify/naver/naver_001_0004181698.html; accessed 2026-09-25T13:01:46-0400]",
+    "[verifier] BigKinds 01100611.20160421115451026: 서울신문 1997-08-07 '신임 각료에 임명장': '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다' [BigKinds search '임명장' 1997-08-05..1997-08-07; snapshot roster/sources/education/verify/bigkinds/lmh_start_fd1802c333.json; accessed 2026-09-25T22:10:44-0400]",
+    "[verifier] 교육부 역대장관 page, edition archived 2000-12-04 (최신 정보 수정일 1999.10.27) https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 37대 | 이명현 | 1997-08-06 | 1998-03-02' [snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html; accessed 2026-09-25T21:45:04-0400] (tier 2, edition archived by the Internet Archive)"
+   ],
+   "end": "1998-03-03",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds 01500601.19980303111455002: 매일신문 1998-03-03 '17部 [국민內閣]임명' [BigKinds search '교육부 장관 서리' 1998-02-25..1998-03-03; snapshot roster/sources/education/news/bigkinds/bk_lmh_end_18f9209ecb.json; accessed 2026-09-25T13:24:09-0400]",
+    "BigKinds 01100901.19980304230318002: 중앙일보 1998-03-04 '새장관 6명 병역 미필' [BigKinds search '이해찬 교육부장관' 1998-03-03..1998-03-04; snapshot roster/sources/education/news/bigkinds/bk_lhc_start_a24096f4aa.json; accessed 2026-09-25T13:00:53-0400]",
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: 37대 이명현 ~ 1998-03-02; 38대 이해찬 1998-03-03 ~ [snapshot roster/sources/education/official/moe_mnstrHistory.html; accessed 2026-09-24T22:44:04-0400]",
+    "[verifier] BigKinds 01101001.19980304000000503: 한겨레 1998-03-04 'DJ “고 총리 헌신 기억할 것”/첫 조각 안팎': '김대중 대통령은 3일 오후 2시 신임 각료 17명에 대한 임명장을 수여했다' [BigKinds search '임명장 수여' 1998-03-03..1998-03-04; snapshot roster/sources/education/verify/bigkinds/lhc_start_ce298dcac8.json; accessed 2026-09-25T21:52:00-0400]",
+    "[verifier] 교육부 역대장관 page, edition archived 2000-12-04 (최신 정보 수정일 1999.10.27) https://web.archive.org/web/20001204075300id_/http://www.moe.go.kr:80/cgi-bin/chief/old_list.cgi?table=chief&sno=0: '제 38대 | 이해찬 | 1998-03-03' [snapshot roster/sources/education/verify/wayback/wb_20001204075300__80_cgi_bin_chief_old_list_cgi_table_chief_sno_0.html; accessed 2026-09-25T21:45:04-0400] (tier 2, edition archived by the Internet Archive)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage 2000-06-05 .. 2025-01-07.",
+   "notes": "Kim Young-sam-era holdover in office on 1998-02-25. Appointed in the 1997-08-05 reshuffle (문화일보 1997-08-06: '김영삼 대통령은 5일 오후 개각을 단행, ... 교육부장관에 이명현 서울대교수, ... 각각 임명했다'). The MOE page and ko.wikipedia give 1997-08-06, probably the 임명장/취임 date, which cannot be checked in the 관보 because there are no digital files before 2001. End set to the 1998-03-03 appointment of the Kim Dae-jung cabinet (same-day handover); the MOE page lists 1998-03-02. Birth date from ko.wikipedia '이명현 (1942년)' revid 41473420 https://ko.wikipedia.org/w/index.php?oldid=41473420 [snapshot roster/sources/education/wiki/kowiki_bio_이명현_(1942년).json; accessed 2026-09-25T13:33:17-0400] (secondary). [verifier] Start changed from 1997-08-05 (announcement) to 1997-08-06, the day the 임명장 were given (연합뉴스 1997-08-06, 서울신문 1997-08-07) and the date in the contemporaneous 2000 edition of the ministry list. In the gazette era the printed appointment date usually equals the 임명장 day (for example 윤덕홍, named 2003-03-06 evening, 관보 2003-03-07, and 이기준, named 2005-01-04, 임명장 and 관보 2005-01-05), but not always (박순애, 재가 and 관보 2022-07-04, 임명장 2022-07-05), so the value is disputed.",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "서명원",
+   "office_title": "문교부장관",
+   "nomination_date": "1987-07-13",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1987-07-14",
+   "sources": [
+    "BigKinds 01100901.19870714194838001: 중앙일보 1987-07-14 \"내 무 정관용 국 방 정호용 문 교 서명원 체 욱 조상호 체 신 오 명 총무처 장기오 과기처 박긍식 정무1 이 종 율\" (full text: '전대통렴은 이날 개각에서 문교장관에 서명원교육개혁심의위'; accessed 2026-09-26T09:21:32-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19870714194838001.json)",
+    "매일경제 1987-07-14 p.1 \"全대통령 임명장 수여\" (Naver News Library article 1987071400099201012, OCR text: '全斗煥대통령은 14일 상오청와대에서 신임 金貞烈국무총리서리를 비롯 鄭寬溶내무,鄭鎬溶국방,徐明源문교'; https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400099201012; accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/education/ext88/articles/nl_1987071400099201012.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Appointed by 전두환 before the window, listed because the spell reaches 1988-02-25. Named on the afternoon of 1987-07-13, 임명장 on 1987-07-14."
+  },
+  {
+   "nominee": "김영식",
+   "office_title": "문교부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "BigKinds 01100901.19880219004312001: 중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨...7부 장관 유임\" (full text: '노태우 차기 대통령은 19일 새 내각 및 청와대수석비서관을 확정, 강용식 대통령 취임 준비위 대변인을 통해 발표했다'; accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19880219004312001.json)",
+    "경향신문 1988-02-19 p.1 \"새政府 內閣명단 발표\" (Naver News Library article 1988021900329201004, OCR text: '문교장관에는 金永植 교육개발원장이'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004; accessed 2026-09-26T09:04:12-0400; snapshot roster/sources/education/ext88/articles/nl_1988021900329201004.json)",
+    "BigKinds 01100901.19880225005009001: 중앙일보 1988-02-25 \"신임각료들에 임명장\" (full text: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다'; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19880225005009001.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named by the president-elect on 1988-02-19 and appointed after the inauguration on 1988-02-25."
+  },
+  {
+   "nominee": "정원식",
+   "office_title": "문교부장관",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text: '문교부장관鄭元植서울대사대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003; accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/education/ext88/articles/nl_1988120500209201003.json)",
+    "BigKinds 01101101.19881206102907110: 한국일보 1988-12-06 \"政局往來\" (full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여하고'; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19881206102907110.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named and appointed the same day."
+  },
+  {
+   "nominee": "윤형섭",
+   "office_title": "교육부장관",
+   "nomination_date": "1990-12-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-12-27",
+   "sources": [
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122800239101002, OCR text: '교육부장관에 尹亨燮교원총연합회장'; https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/education/ext88/articles/nl_1990122800239101002.json)",
+    "BigKinds 01101101.19901228000000102: 한국일보 1990-12-28 \"노대통령,임명장 수여\" (full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와 정해창 대통령비서실장 및 신임 수석비서관 등에게 임명장을 수여했다'; accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/education/ext88/articles/bk_01101101.19901228000000102.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named in the morning and appointed in the afternoon of 1990-12-27."
+  },
+  {
+   "nominee": "조완규",
+   "office_title": "교육부장관",
+   "nomination_date": "1992-01-22",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1992-01-23",
+   "sources": [
+    "경향신문 1992-01-23 p.1 \"敎育部장관 趙完圭씨\" (Naver News Library article 1992012300329101007, OCR text: '후임에 趙完圭 前서울大총장을 임명했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012300329101007; accessed 2026-09-26T09:48:06-0400; snapshot roster/sources/education/ext88/articles/nl_1992012300329101007.json)",
+    "매일경제 1992-01-23 p.1 \"敎育部장관 趙完圭씨\" (Naver News Library article 1992012300099201005, OCR text: '盧泰愚대통령은 23일 오전 趙完圭신임 교육부장관에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1992012300099201005; accessed 2026-09-26T09:48:09-0400; snapshot roster/sources/education/ext88/articles/nl_1992012300099201005.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named on the afternoon of 1992-01-22, 임명장 on 1992-01-23."
+  },
+  {
+   "nominee": "오병문",
+   "office_title": "교육부장관",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "BigKinds 01100701.19930227000000101: 세계일보 1993-02-27 \"부총리 이경식(기획원) 한완상씨(통일원)\" (full text: '교육부장관에는 오병문전남대총장'; accessed 2026-09-26T09:49:04-0400; snapshot roster/sources/education/ext88/articles/bk_01100701.19930227000000101.json)",
+    "BigKinds 01601101.19930227015114102: 전북일보 1993-02-27 \"[팔공산] 金대통령 모든것 걸고 한번 해보자 각료들에 당부\" (full text: '김영삼대통령은 26일 하오 24개 부처장관과 안기부장등 이날 임명된 27명에게 임명장을 수여하면서도'; accessed 2026-09-26T09:36:41-0400; snapshot roster/sources/education/ext88/articles/bk_01601101.19930227015114102.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named in the morning and appointed in the afternoon of 1993-02-26."
+  },
+  {
+   "nominee": "김숙희",
+   "office_title": "교육부장관",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "경향신문 1993-12-22 p.1 \"14부처장관 경질\" (Naver News Library article 1993122200329101001, OCR text: '교육부장관에 金淑喜이화여대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329101001; accessed 2026-09-26T09:48:12-0400; snapshot roster/sources/education/ext88/articles/nl_1993122200329101001.json)",
+    "경향신문 1993-12-23 p.1 \"\"무한경쟁 승리 至上과제\"\" (Naver News Library article 1993122300329101014, OCR text: '金대통령은 이날 오전청와대에서 丁渽錫부총리겸 경제기획원장관과 李榮德부총리겸 통일원장관등신임각료 14명에게 임명장을 수여하는 자리에서'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300329101014; accessed 2026-09-26T09:33:30-0400; snapshot roster/sources/education/ext88/articles/nl_1993122300329101014.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named on the afternoon of 1993-12-21, 임명장 on 1993-12-22."
+  },
+  {
+   "nominee": "박영식",
+   "office_title": "교육부장관",
+   "nomination_date": "1995-05-15",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1995-05-16",
+   "sources": [
+    "동아일보 1995-05-16 p.1 \"보건복지長官 경질\" (Naver News Library article 1995051600209101006, OCR text: '金泳三대통령은 15일 부분개각을 단행,공석중인교육부장관에 朴煐植전연세대총장을 임명하고'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051600209101006; accessed 2026-09-26T09:48:24-0400; snapshot roster/sources/education/ext88/articles/nl_1995051600209101006.json)",
+    "동아일보 1995-05-17 p.2 \"신임 장관들에 임명장 金대통령\" (Naver News Library article 1995051700209102011, OCR text: '金泳三대통령은 16일 오전 청와대에서 신임 朴煐植교육부장관과 李聖浩보건복지부장관에게 임명장을 수여했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051700209102011; accessed 2026-09-26T09:48:21-0400; snapshot roster/sources/education/ext88/articles/nl_1995051700209102011.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named on the afternoon of 1995-05-15, 임명장 on 1995-05-16."
+  },
+  {
+   "nominee": "안병영",
+   "office_title": "교육부장관",
+   "nomination_date": "1995-12-20",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1995-12-21",
+   "sources": [
+    "경향신문 1995-12-21 p.1 \"11部장관 경질\" (Naver News Library article 1995122100329101001, OCR text: '교육부장관에 安秉永연세대교수'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100329101001; accessed 2026-09-26T09:33:53-0400; snapshot roster/sources/education/ext88/articles/nl_1995122100329101001.json)",
+    "매일경제 1995-12-22 p.1 \"새진용\" (Naver News Library article 1995122200099101004, OCR text: '金泳三대통령은 21일 오전 청와대에서 신임각료와 수석비서관들에게 임명장을 수여한 뒤 현관에서 기념촬영을 했다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099101004; accessed 2026-09-26T09:33:57-0400; snapshot roster/sources/education/ext88/articles/nl_1995122200099101004.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named on 1995-12-20, 임명장 on 1995-12-21."
+  },
+  {
+   "nominee": "이명현",
+   "office_title": "교육부장관",
+   "nomination_date": "1997-08-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1997-08-06",
+   "sources": [
+    "BigKinds 01100501.19970806000000102: 문화일보 1997-08-06 \"11개부처 장관 교체\" (full text: '교육부장관에 이명현 서울대교수'; accessed 2026-09-26T09:52:33-0400; snapshot roster/sources/education/ext88/articles/bk_01100501.19970806000000102.json)",
+    "조선일보 1997-08-06 p.1 \"11개部處 장관 교체\" (Naver News Library article 1997080600239101004, OCR text: '金 대통령은 6일오전 신임 각료들에게 임명장을 수여하며'; https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004; accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/education/ext88/articles/nl_1997080600239101004.json)",
+    "BigKinds 01500601.19970806004701001: 매일신문 1997-08-06 \"사태수습 만전지시\" (full text: '김대통령은 이날 오전 9시30분 청와대 조해녕내무, 김종구법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤'; accessed 2026-09-26T09:46:01-0400; snapshot roster/sources/education/ext88/articles/bk_01500601.19970806004701001.json)"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so none was required. Named on the afternoon of 1997-08-05, 임명장 on the morning of 1997-08-06. The main file has no nomination record for this pre-1998 appointment. The spell itself is copied from the main file."
+  }
+ ],
+ "acting": [
+  {
+   "name": "이천수",
+   "role": "교육부 차관 (37대, 1993-03-04 ~ 1995-12-25 per the MOE list), the sitting 차관 during the vacancy after 김숙희's dismissal. Inferred, no source naming him 장관 직무대행 was found.",
+   "from": "1995-05-13",
+   "to": "1995-05-15",
+   "inferred": true,
+   "sources": [
+    "교육부 역대 장·차관 소개 https://www.moe.go.kr/mnstrHistory.do: '37대 이천수 1993-03-04 ~ 1995-12-25' (tier 2; the page prints the predecessor's 퇴임 as the day before the successor's 취임; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/education/ext88/moe_mnstrHistory.html)",
+    "조선일보 1995-05-13 p.31 \"\"長官이 못할말\"청와대격노\" (Naver News Library article 1995051300239131005, OCR text: '金장관은 이임식후 종합청사 현관에서 李千洙차관 등 간부들의 배웅을 받았으나'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051300239131005; accessed 2026-09-26T09:48:30-0400; snapshot roster/sources/education/ext88/articles/nl_1995051300239131005.json)",
+    "조선일보 1995-05-15 p.2 \"후임 교육부장관 빠르면 오늘임명\" (Naver News Library article 1995051500239102006, OCR text: '교육개혁위간사인 李千洙현교육차관등이 거론되고 있다'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051500239102006; accessed 2026-09-26T09:48:29-0400; snapshot roster/sources/education/ext88/articles/nl_1995051500239102006.json)",
+    "BigKinds 01100901.19950516191934001: 중앙일보 1995-05-16 \"어제 스승의날 국민훈장등 5천3백38명 포상\" (full text: '15일 교총회관 강당에서 이천수(李千洙)교육부차관과 윤형원(尹亨遠)교총회장 등 8백여명이 참석한 가운데 기념식을 가졌다'; accessed 2026-09-26T09:52:43-0400; snapshot roster/sources/education/ext88/articles/bk_01100901.19950516191934001.json)",
+    "[verifier] 조선일보 1995-05-14 p.19 \"「공선련」스승기리는 사은의 밤\" (Naver News Library article 1995051400239119023, OCR text: '金泳三대통령도 李千洙교육부차관이 대독한 치사를 통해 이들의 노고를치하했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051400239119023; accessed 2026-09-26T13:52:17-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051400239119023.json) (event of 1995-05-13, the 차관 standing in for the office)",
+    "[verifier] BigKinds 01200201.19950515150517106: 경인일보 1995-05-15 \"공석 교육부장관 후임 오늘 중 임명\" (full text: '공석중인 교육 장관을 가급적 빠른 시일내 임명한다는 방침'; accessed 2026-09-26T13:52:34-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01200201.19950515150517106.json) (the post described as vacant on 1995-05-15)",
+    "[verifier] 한겨레 1995-05-16 p.1 \"교육 박영식 보건복지 이성호씨\" (Naver News Library article 1995051600289101006, OCR text: '김영삼 대통령은 15일 김숙희 장관의 해임으로 자리가 빈 교육부 장관에박영식 전 연세대 총장을 임명했다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1995051600289101006; accessed 2026-09-26T10:09:38-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1995051600289101006.json)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Start convention. Before 2001 there is no digital 관보, so the start is the 임명장 day, which is also the MOE 취임일자. In six transitions the appointment was announced the day before (1987-07-13, 1992-01-22, 1993-12-21, 1995-05-15, 1995-12-20, 1997-08-05). For the same reshuffles the official lists of 내무부 (mois), 총무처, 보건사회부/보건복지부, 과학기술처/체신부 (msit), 환경처/환경부 (mcee), 통일원 (unikorea) and 농림수산부 (mafra) also print the 임명장 day. In ext88/other_ministry_pages.json the reshuffle announced 1987-07-13 is printed as 1987-07-14 by mois_govadmin, mois_home, msit, the reshuffle announced 1993-12-21 is printed as 1993-12-22 by mafra, mcee, mohw, mois_govadmin, mois_home, unikorea, the reshuffle announced 1995-05-15 is printed as 1995-05-16 by mohw, the reshuffle announced 1995-12-20 is printed as 1995-12-21 by mcee, mohw, mois_home, msit, unikorea, the reshuffle announced 1997-08-05 is printed as 1997-08-06 by mcee, mohw, mois_govadmin, mois_home and as 1997-08-05 by moj. The 법무부 list prints 1997-08-05 for 김종구 in the 8·5 reshuffle, and the main justice file uses that date, while the main education file uses 1997-08-06 for 이명현. The two main files follow different conventions for the same reshuffle. This file follows the education one. The announcement dates are in the notes and in nominations[].nomination_date."
+  },
+  {
+   "severity": "medium",
+   "desc": "End convention and differences from the MOE list. The MOE 퇴임일자 is the day before the successor's 취임일자. This file uses the day the minister was relieved, so it differs from the MOE list for 서명원 (MOE 1988-02-24, file 1988-02-25, the 5th Republic cabinet's 일괄사표 were accepted on the morning of 1988-02-25 per 조선일보 1988-02-26, 매일경제 1988-02-25 and 중앙일보 1988-02-25), 김영식 (MOE 1988-12-04, file 1988-12-05, same-day reshuffle and 임명장) and 김숙희 (current MOE list and ko.wikipedia 1995-05-11, the 2000 edition of the MOE list and the news 1995-05-12, the day of the 해임). Everywhere else the file and the MOE list agree."
+  },
+  {
+   "severity": "low",
+   "desc": "1993-02-25/26 and 1988-02-25/26. The outgoing cabinets' 일괄사표 were accepted on 1993-02-25 (중앙일보 1993-02-25) and on 1988-02-25 (조선일보 1988-02-26), and the files end 조완규 and 서명원 on those days. Some outgoing ministers still held their 이임식 the next day (경향신문 and 서울신문 1993-02-27, and the joint 문교부 이·취임식 on the morning of 1988-02-26 reported by 동아일보 1988-02-26). If the end is tied to the farewell ceremony, both ends move by one day."
+  },
+  {
+   "severity": "low",
+   "desc": "Renaming of 문교부 to 교육부. 정부조직법 법률 제4268호 took effect on promulgation, 1990-12-27 (부칙 제1조), and the reshuffle of the same day appointed 윤형섭 as 교육부장관 ('초대 교육부장관', 한국일보 1990-12-28). The 국사편찬위원회 chronology entry tcct_1990_12_27_0020 reads '정부, 1991년 1월부터 문교부를 교육부로 명칭 변경 발표', which conflicts with the law text and the news. This file follows the law (offices_1988.json). 정원식 ends on 1990-12-26, the last day of the name 문교부, by the rule the main file used for 이돈희 in 2001."
+  },
+  {
+   "severity": "low",
+   "desc": "One vacancy, 1995-05-13..1995-05-15, between 김숙희's dismissal (1995-05-12) and 박영식's 임명장 (1995-05-16). The acting record for 차관 이천수 is inferred. He was the sitting 차관 (MOE list) and led the ministry's events in those days, but no source calls him 장관 직무대행."
+  },
+  {
+   "severity": "low",
+   "desc": "이명현 (1997-08-06..1998-03-03) is copied unchanged from education.verified.json with from_main=true. No tier 1-3 evidence against it was found. His predecessor 안병영 ends on 1997-08-05, so the chain has no gap or overlap. The start date depends on the convention above."
+  },
+  {
+   "severity": "low",
+   "desc": "Source notes. News Library quotes are from the OCR text field (hanja as printed) and were not checked against the page images. Each date that rests on a News Library story is also supported by a BigKinds story from a different paper or by the MOE list. Birth dates come from ko.wikipedia (secondary), with years only for 윤형섭 (1933) and 김숙희 (1937). None of the holders sat in the National Assembly while in office (na_members_12_22.csv has no matching member, and the 김영식 listed there was born in 1959). No 부총리 title applied to this lineage in 1988-1998 (offices_1988.json deputy_pm_designations)."
+  },
+  {
+   "severity": "medium",
+   "desc": "[verifier] 조완규 end moved from 1993-02-25 to 1993-02-26 (status corrected, end_confidence medium). This supersedes the builder's issue on 1993-02-25/26 for 조완규 (the 1988 part of that issue stands, because in 1988 the resignations were handed in on 02-24 and accepted on the morning of 02-25 before the new cabinet was appointed). In 1993 총무처 ruled that no resignations were needed (매일경제 1993-02-24) and the outgoing ministers left when the new cabinet was appointed on 1993-02-26. The one report of acceptance on 1993-02-25 is 중앙일보 1993-02-25. The foreign verifier has since corrected 이상옥 to 1993-02-26 on the same grounds, so all 22 verified ministerial lineages now end the 노태우 cabinet on 1993-02-26."
+  },
+  {
+   "severity": "medium",
+   "desc": "[verifier] 이명현 (from_main, not edited). 서울신문 and 중부매일 of 1997-08-09 report that he received his 임명장 on 1997-08-08 after returning late from Harvard, where he was a visiting professor when the 1997-08-05 reshuffle named him (중앙일보 1997-08-07). The main file dates his start to 1997-08-06 on the ground that the 8·5 appointees received their 임명장 that morning. The main file should choose between 1997-08-05 (appointment announced), 1997-08-06 (MOE list, batch 발령) and 1997-08-08 (his 임명장). The nomination record's outcome_date 1997-08-06 follows the same value."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Cross-lineage convention for next-day handovers, recounted on 2026-09-27 over the 24 verified ext88 files. This file ends the outgoing minister on the day he was relieved, when the reshuffle was announced, and starts the successor on the 임명장 day. For the 1993-12-21 reshuffle agriculture, education, environment and epb end on 1993-12-21, while defense, general_affairs, interior, labor, land, special and unification end on 1993-12-22. For 1995-12-20 agriculture, education, environment and ict end on 1995-12-20, while culture, finance, interior, land, special and unification end on 1995-12-21. For 1997-08-05 education and justice end on 1997-08-05, while agriculture, environment, gender, general_affairs, interior, labor, oceans and special end on 1997-08-06. 동아일보 1997-08-06 p.4 shows 안병영 and the outgoing 내무부장관 강운태 leaving after their 이임식 in one photo, yet the two files end them on different days. A single rule should be applied when the ext88 files are merged. No value is changed here, because each end is supported under this file's stated convention and the chain has no gap."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Acting record for 이천수 (1995-05-13..1995-05-15) is still inferred. Added stories show him standing in for the office on 1995-05-13 and 1995-05-15 and the post described as vacant, but no story calls him 장관 직무대행."
+  }
+ ],
+ "continuity": {
+  "window": "1988-02-25..1998-02-24",
+  "vacancies": [
+   {
+    "after": "김숙희",
+    "before": "박영식",
+    "vacant_from": "1995-05-13",
+    "vacant_to": "1995-05-15",
+    "days": 3,
+    "acting": [
+     "이천수 1995-05-13..1995-05-15 (inferred)"
+    ],
+    "days_without_acting_record": 0
+   }
+  ],
+  "same_day_handovers": [
+   "1988-02-25: 서명원 -> 김영식",
+   "1988-12-05: 김영식 -> 정원식",
+   "1993-02-26: 조완규 -> 오병문"
+  ],
+  "next_day_handovers": [
+   "1990-12-26 / 1990-12-27: 정원식 -> 윤형섭",
+   "1992-01-22 / 1992-01-23: 윤형섭 -> 조완규",
+   "1993-12-21 / 1993-12-22: 오병문 -> 김숙희",
+   "1995-12-20 / 1995-12-21: 박영식 -> 안병영",
+   "1997-08-05 / 1997-08-06: 안병영 -> 이명현"
+  ],
+  "note": "next_day_handovers are not vacancies. The predecessor was relieved on the announcement day and the successor received the 임명장 the next morning, or (1990-12-26/27) the predecessor's spell ends on the last day of the name 문교부. [verifier] Recomputed after the 조완규 correction, so 1993-02-26 is now a same-day handover. The only vacancy is 1995-05-13..1995-05-15, covered by the inferred acting record for 차관 이천수. If 이명현's start were set to his own 임명장 day (1997-08-08), 1997-08-06..1997-08-07 would become a vacancy with the 차관 acting (이영탁 until 1997-08-07, then 이용원)."
+ },
+ "build": {
+  "scripts": [
+   "roster/scripts/education_ext88_01_lists.py",
+   "roster/scripts/education_ext88_02_wayback_moe.py",
+   "roster/scripts/education_ext88_03_checkpoint_list.py",
+   "roster/scripts/education_ext88_04_schedule_chron.py",
+   "roster/scripts/education_ext88_05_news_search.py",
+   "roster/scripts/education_ext88_06_other_ministry_pages.py",
+   "roster/scripts/education_ext88_07_news_search2.py",
+   "roster/scripts/education_ext88_08_news_search3.py",
+   "roster/scripts/education_ext88_09_wiki_bio.py",
+   "roster/scripts/education_ext88_10_read_articles.py",
+   "roster/scripts/education_ext88_11_read_extra.py",
+   "roster/scripts/education_ext88_12_kys_named.py",
+   "roster/scripts/education_ext88_13_build.py",
+   "roster/scripts/education_ext88_quote.py",
+   "roster/scripts/education_ext88_show.py"
+  ],
+  "snapshots": "roster/sources/education/ext88/",
+  "method": "Holder list from the MOE 역대 장·차관 page (current and the archived 2000 edition) cross-checked against ko.wikipedia and the 노태우/김영삼/전두환 정부의 국무위원 pages. Dates from same-day news (Naver News Library OCR for 동아, 경향, 매경, 조선, 한겨레, and BigKinds full text for other papers), the 대통령기록관 schedule and the 국사편찬위원회 chronology."
+ },
+ "built_at_original": "2026-09-26T10:02:43-0400",
+ "verification": {
+  "verified_at": "2026-09-27T21:53:41-0400",
+  "verifier": "adversarial verifier 1988-1998, lineage education",
+  "input": {
+   "file": "roster/education.ext88.json",
+   "built_at": "2026-09-26T10:02:43-0400"
+  },
+  "per_spell": {
+   "서명원|1987-07-14": "confirmed",
+   "김영식|1988-02-25": "confirmed",
+   "정원식|1988-12-05": "confirmed",
+   "윤형섭|1990-12-27": "confirmed",
+   "조완규|1992-01-23": "corrected",
+   "오병문|1993-02-26": "confirmed",
+   "김숙희|1993-12-22": "confirmed",
+   "박영식|1995-05-16": "confirmed",
+   "안병영|1995-12-21": "confirmed",
+   "이명현|1997-08-06": "disputed"
+  },
+  "per_spell_notes": {
+   "서명원|1987-07-14": "Start 1987-07-14 (임명장, 한국경제 1987-07-15 and 동아일보 1987-07-14) and end 1988-02-25 confirmed. Resignations were handed in on 1988-02-24 (동아일보 1988-02-24, 한국경제 1988-02-25) and the new cabinet was appointed on 1988-02-25. No source found that the resignation took effect on 1988-02-24.",
+   "김영식|1988-02-25": "Start (임명장 1988-02-25, 취임식 1988-02-26) and end (replaced 1988-12-05, same-day 임명장 of the successor) confirmed with 동아일보, 경향신문, 한국경제, 조선일보 and 한겨레 stories the builder did not cite. Survived the 1988-05-07 partial reshuffle (중앙일보 1988-06-10 names him minister).",
+   "정원식|1988-12-05": "Start confirmed (한겨레, 경향신문 1988-12-06). End kept at 1990-12-26 by the rename rule. He was actually replaced on the morning of 1990-12-27 (부산일보 1990-12-27), the day 법률 제4268호 took effect on promulgation (부칙 제1조, read by the verifier). Survived the reshuffles of 1989-03-17, 1989-07-19, 1990-01-03, 1990-03-19, 1990-09-19, 1990-10-08 and 1990-11-10 (survival.json).",
+   "윤형섭|1990-12-27": "Start (named and given the 임명장 on 1990-12-27) and end (resignation accepted on the afternoon of 1992-01-22) confirmed with 부산일보, 경기일보, 서울신문, 한겨레 and 세계일보. His earlier resignation of 1991-06-05 over the assault on PM 정원식 was returned by the president on 1991-06-07 (동아일보 1991-06-06, 한겨레 1991-06-08), so there is no break in the spell.",
+   "조완규|1992-01-23": "Start confirmed (임명장 1992-01-23, 중앙일보 1992-01-23, 한겨레 1992-01-24). End corrected from 1993-02-25 to 1993-02-26 on tier 3 evidence (see changes). One tier 3 report, 중앙일보 1993-02-25, says the outgoing cabinet's resignations were all accepted on 1993-02-25. It stays in end_sources and end_confidence is medium. The first write labelled this spell disputed although the value was changed. The resume pass of 2026-09-27 labels it corrected, as the foreign verifier did for the same change to 이상옥.",
+   "오병문|1993-02-26": "Start confirmed (named on the morning and given the 임명장 on the afternoon of 1993-02-26, 전북일보, 문화일보, 국민일보, 조선일보). End 1993-12-21 confirmed as the day he was relieved (한겨레 1993-12-22). He was still acting as minister on 1993-12-18 and 1993-12-20 (대한민국사연표, 한겨레 1993-12-21). Resume pass 2026-09-27 added 한국일보 1993-12-21 (still minister on the reshuffle morning) and 한국일보 1993-12-22 (환경처장관 황산성's 이임식 at 3 p.m. on 1993-12-21 in the same reshuffle). No report of his own 이임식 was found (searches in sources/education/ext88_verify/farewell/searches.json).",
+   "김숙희|1993-12-22": "Start confirmed (임명장 on the morning of 1993-12-22, 동아일보 and 매일경제 1993-12-23). 동아일보 1995-05-13 says she entered the cabinet on 1993-12-21, the announcement day, which is the known alternative under the start convention. End 1995-05-12 confirmed (해임 at noon and 이임사 in the afternoon, 동아일보, 매일경제, 한겨레 1995-05-13). The current MOE page date 1995-05-11 is contradicted by all reports.",
+   "박영식|1995-05-16": "Start confirmed (임명장 on the morning of 1995-05-16 and 취임식 the same day, 국제신문, 헤럴드경제). Named on 1995-05-15 (한겨레 1995-05-16). End 1995-12-20 confirmed (한겨레 1995-12-21, 동아일보 1995-12-21). Resume pass 2026-09-27 added 한국일보 1995-12-20 (still minister and expected to stay on the reshuffle morning). No report of his own 이임식 was found.",
+   "안병영|1995-12-21": "Start confirmed (임명장 on the morning of 1995-12-21, 경향신문 and 동아일보 1995-12-22). End 1997-08-05 confirmed (한겨레 1997-08-06, 조선일보 1997-08-06). Still minister on 1997-07-08 (대통령기록관 일정) after the 1997-03-05/06 reshuffle, and named in office after the 1996-08-08, 1996-12-20 and 1997-02-13 reshuffles. Resume pass 2026-09-27 added 서울신문 1995-12-22 (his 취임사 in the round-up of the 12-21 ceremonies).",
+   "이명현|1997-08-06": "from_main record, copied unchanged. Already disputed in education.verified.json (1997-08-05 announcement vs 1997-08-06). New evidence: he was a visiting professor at Harvard when appointed on 1997-08-05 (중앙일보 1997-08-07 telephone interview from Boston) and received his own 임명장 on the morning of 1997-08-08 after returning late (서울신문 and 중부매일 1997-08-09). The main file's reason for 1997-08-06, that the 8·5 appointees got their 임명장 that morning, does not hold for him. 1997-08-06 may still be the formal 발령 date (MOE list, 2000 edition). Needs a decision in the main file, not made here."
+  },
+  "changes": [
+   {
+    "spell": "조완규|1992-01-23",
+    "field": "end",
+    "old": "1993-02-25",
+    "new": "1993-02-26",
+    "evidence": "[verifier] 매일경제 1993-02-24 p.2 \"\"25일0시이후 非常사태 새政府가 대처\"\" (Naver News Library article 1993022400099202004, OCR text: '玄총리를 비롯한 각료들은 임기시한이 없다.' ... '따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.' ... '총무처 관계자는24일 이같은 해석을 내렸다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004; accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022400099202004.json) (총무처 ruling that the outgoing ministers stay until successors are appointed) | [verifier] BigKinds 01100611.20160421220052003: 서울신문 1993-02-25 \"김영삼대통령 오늘 취임/문민정부시대 역사적 개막/“헌법 준수”선서\" (full text: '26일 상오 9시 안기부장과 내각명단을 일괄 발표할 예정'; accessed 2026-09-26T09:31:02-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01100611.20160421220052003.json) (new cabinet due on 1993-02-26) | [verifier] 한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library article 1993022600289106003, OCR text: '26일 일제히 퇴임하는 경제부처 장관들은'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600289106003; accessed 2026-09-26T09:32:04-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022600289106003.json) | [verifier] 동아일보 1993-02-26 p.3 \"\"適任\"…\"意外\"…환영과 우려\" (Naver News Library article 1993022600209203001, OCR text: '韓鳳洙前장관은 이날 9시정각에 출근,신임金장관과 잠시 전화통화로축하인사를 한뒤 간부들을장관실로 불러 그동안의노고를 치하하고 곧바로이임식을 가졌다.' ... '李龍萬前장관은 26일오전10시 이임식을 가졌다.'; https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001; accessed 2026-09-26T09:36:12-0400; snapshot roster/sources/education/ext88_verify/articles/nl_1993022600209203001.json) (outgoing ministers went to work and held their 이임식 on 1993-02-26) | [verifier] BigKinds 01601101.19930226014940103: 전북일보 1993-02-26 \"閣僚들에 임명장\" (full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다.'; accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/education/ext88_verify/articles/bk_01601101.19930226014940103.json) (successor appointed 1993-02-26)"
+   },
+   {
+    "spell": "조완규|1992-01-23",
+    "field": "end_confidence",
+    "old": "high",
+    "new": "medium",
+    "evidence": "conflicting tier 3 reports, see the end change"
+   }
+  ],
+  "completeness": [
+   "Holder list rebuilt without the MOE page or ko.wikipedia. (a) News tally. Every year 1987-07..1998-03 searched in the Naver News Library (6 phrasings) and BigKinds (4 phrasings), 20005 News Library and 487 BigKinds hits over 120 query-years. The names printed after appointment phrasing are the 10 holders and rumoured candidates who were not appointed (현승종 1988-02-17, 정병휴 1993-02-26, 현승일 1994-12-23, 박영식 already rumoured 1993-02-26). No other holder (sources/education/ext88_verify/news_holders/tally.json).",
+   "(b) 국사편찬위원회 대한민국사연표 read for 273 days, every day on which any ext88 lineage starts or ends a spell plus and minus one day. The first pass read 196 days and timed out on 33. The resume pass at 2026-09-26T21:18:30-0400 read those 33 days and the boundary days of ext88 files updated since, with no failures. Entries on an education appointment or dismissal only on 1992-01-22, 1995-05-12 and 1995-05-15. Entries of 1992-01-21 and 1993-12-18 name 윤형섭 and 오병문 as sitting ministers. The 1998-03-03 entry reports the 김대중 cabinet completed that day, which fits the from_main end of 이명현. The general reshuffles are checked in (d) (sources/education/ext88_verify/chron/chron_walk.json).",
+   "(c) 대통령기록관 yearly schedule read in full for 전두환 1987-1988, 노태우 1988-1993 and 김영삼 1993-1998. No row names an education minister outside the roster. 1997-07-08 names 안병영 교육부장관, 1991-05-24 names 정원식 as former 문교부장관.",
+   "(d) Survival check. For each of the 41 days inside an education spell on which another lineage starts a spell, a BigKinds search 1-45 days later finds the holder still named as minister (41 of 41 hit). This covers the 1988, 1992 and 1996 general elections and the 1995 local elections. No education minister resigned to run.",
+   "(e) Secondary lists the builder did not use. Namu Wiki '교육부장관' (Playwright, status 200) gives the same 10 holders 1987-1998 (it has 김숙희 to 1995-05-12). en.wikipedia has no list. Wikidata Q12592394 has no holder before 1998.",
+   "Transitions. In 1988 서명원 (전두환 appointee) was in office on 1988-02-25 and handed over the same day. In 1993 조완규 (노태우 appointee) stayed to 1993-02-26 (corrected). Renaming 문교부 -> 교육부 on 1990-12-27 coincides with the 12·27 reshuffle (no continuation spell). No merger touched the office in 1988-1998 (offices_1988.json OFA17, OFA18).",
+   "Short tenures. The shortest spells are 박영식 (1995-05-16..1995-12-20), 서명원 (1987-07-14..1988-02-25, a holdover) and 김영식 (1988-02-25..1988-12-05). Neither the tally nor the survival check found a shorter tenure or an unlisted holder."
+  ],
+  "continuity": "Recomputed. Same-day handovers are 1988-02-25: 서명원 -> 김영식 | 1988-12-05: 김영식 -> 정원식 | 1993-02-26: 조완규 -> 오병문. Next-day handovers are 1990-12-26 / 1990-12-27: 정원식 -> 윤형섭 | 1992-01-22 / 1992-01-23: 윤형섭 -> 조완규 | 1993-12-21 / 1993-12-22: 오병문 -> 김숙희 | 1995-12-20 / 1995-12-21: 박영식 -> 안병영 | 1997-08-05 / 1997-08-06: 안병영 -> 이명현. Vacancy 1995-05-13..1995-05-15 (3 days) after 김숙희's dismissal, acting 이천수 (inferred). No overlaps. Survival check results follow. 1988-05-07 김영식 named as minister 1988-06-10 중앙일보 \"\"고교생자살문제 책임통감 종합대책 강구\"\" (BigKinds 01100901.19880610023622001) [snapshot roster/sources/education/ext88_verify/survival/bk_1988-05-07_김영식.json; accessed 2026-09-26T13:06:37-0400] | 1989-03-17 정원식 named as minister 1989-03-30 중앙일보 \"전문대 대폭 증원\" (BigKinds 01100901.19890330111605001) [snapshot roster/sources/education/ext88_verify/survival/bk_1989-03-17_정원식.json; accessed 2026-09-26T13:07:09-0400] | 1989-07-19 정원식 named as minister 1989-07-20 중앙일보 \"「교육 특별 회계법」제정\" (BigKinds 01100901.19890720133137003) [snapshot roster/sources/education/ext88_verify/survival/bk_1989-07-19_정원식.json; accessed 2026-09-26T13:07:47-0400] | 1990-01-03 정원식 named as minister 1990-01-06 세계일보 \"명예훼손혐의 피소/정 문교 무혐의 처분\" (BigKinds 01100701.19900106000001007) [snapshot roster/sources/education/ext88_verify/survival/bk_1990-01-03_정원식.json; accessed 2026-09-26T13:08:30-0400] | 1990-03-19 정원식 named as minister 1990-03-24 세계일보 \"“대학 자율화 계속 추진/정 문교/극렬사태는 강력 대응”\" (BigKinds 01100701.19900324000000203) [snapshot roster/sources/education/ext88_verify/survival/bk_1990-03-19_정원식.json; accessed 2026-09-26T13:09:08-0400] | 1990-09-19 정원식 named as minister 1990-10-11 한국일보 \"대학 기여입학제/문교장관에 건의/전국교무처장협\" (BigKinds 01101101.19901011000002310) [snapshot roster/sources/education/ext88_verify/survival/bk_1990-09-19_정원식.json; accessed 2026-09-26T13:09:38-0400] | 1990-10-08 정원식 named as minister 1990-10-11 한국일보 \"대학 기여입학제/문교장관에 건의/전국교무처장협\" (BigKinds 01101101.19901011000002310) [snapshot roster/sources/education/ext88_verify/survival/bk_1990-10-08_정원식.json; accessed 2026-09-26T13:10:12-0400] | 1990-11-10 정원식 named as minister 1990-11-30 국민일보 \"기여 입학제도 불허/정 문교 밝혀\" (BigKinds 01100201.19901130000001407) [snapshot roster/sources/education/ext88_verify/survival/bk_1990-11-10_정원식.json; accessed 2026-09-26T13:10:52-0400] | 1991-02-19 윤형섭 named as minister 1991-02-22 경향신문 \"전문대 학기제 검토/대입보다 먼저 전형도\" (BigKinds 01100101.19910222000001505) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-02-19_윤형섭.json; accessed 2026-09-26T13:11:40-0400] | 1991-04-26 윤형섭 named as minister 1991-06-06 세계일보 \"윤 교육부장관 사표/수리 가능성 높아\" (BigKinds 01100701.19910606000000103) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-04-26_윤형섭.json; accessed 2026-09-26T13:12:22-0400] | 1991-04-29 윤형섭 named as minister 1991-06-06 세계일보 \"윤 교육부장관 사표/수리 가능성 높아\" (BigKinds 01100701.19910606000000103) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-04-29_윤형섭.json; accessed 2026-09-26T13:13:05-0400] | 1991-05-24 윤형섭 named as minister 1991-06-08 세계일보 \"대학자율성 최대한 보장/「학사징계」 학칙개정 요청땐 승인방침\" (BigKinds 01100701.19910608000000103) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-05-24_윤형섭.json; accessed 2026-09-26T13:13:43-0400] | 1991-05-27 윤형섭 named as minister 1991-06-08 세계일보 \"대학자율성 최대한 보장/「학사징계」 학칙개정 요청땐 승인방침\" (BigKinds 01100701.19910608000000103) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-05-27_윤형섭.json; accessed 2026-09-26T13:14:25-0400] | 1991-12-20 윤형섭 named as minister 1991-12-25 전북일보 \"운전 假免許證制 실시\" (BigKinds 01601101.19911225150517102) [snapshot roster/sources/education/ext88_verify/survival/bk_1991-12-20_윤형섭.json; accessed 2026-09-26T13:15:05-0400] | 1992-03-31 조완규 named as minister 1992-04-15 전북일보 \"國庫서 지원 추진\" (BigKinds 01601101.19920415150517193) [snapshot roster/sources/education/ext88_verify/survival/bk_1992-03-31_조완규.json; accessed 2026-09-26T13:15:51-0400] | 1992-06-08 조완규 named as minister 1992-06-21 서울신문 \"해직교사 복직위 가담자 엄중문책/조 교육 긴급담화\" (BigKinds 01100611.20160421130923929) [snapshot roster/sources/education/ext88_verify/survival/bk_1992-06-08_조완규.json; accessed 2026-09-26T13:16:37-0400] | 1992-06-26 조완규 named as minister 1992-07-04 한국일보 \"「강의평가제」 내년 실시/「기여입학」은 94년부터\" (BigKinds 01101101.19920704000002201) [snapshot roster/sources/education/ext88_verify/survival/bk_1992-06-26_조완규.json; accessed 2026-09-26T13:17:23-0400] | 1992-10-08 조완규 named as minister 1992-10-21 경인일보 \"대학 「修學」평가 自發학습이 관건\" (BigKinds 01200201.19921021150517179) [snapshot roster/sources/education/ext88_verify/survival/bk_1992-10-08_조완규.json; accessed 2026-09-26T13:18:09-0400] | 1992-10-09 조완규 named as minister 1992-10-21 경인일보 \"대학 「修學」평가 自發학습이 관건\" (BigKinds 01200201.19921021150517179) [snapshot roster/sources/education/ext88_verify/survival/bk_1992-10-09_조완규.json; accessed 2026-09-26T13:18:52-0400] | 1993-03-06 오병문 named as minister 1993-04-16 세계일보 \"교육부 오늘 개혁인사 단행/본부 국장10여명 전원 산하기관 발령\" (BigKinds 01100701.19930416000000103) [snapshot roster/sources/education/ext88_verify/survival/bk_1993-03-06_오병문.json; accessed 2026-09-26T13:19:36-0400] | 1993-03-08 오병문 named as minister 1993-04-17 세계일보 \"위기의 「백년대계」 개혁본격화/오교육「자정종합대책」의미와 문제점\" (BigKinds 01100701.19930417000000301) [snapshot roster/sources/education/ext88_verify/survival/bk_1993-03-08_오병문.json; accessed 2026-09-26T13:20:22-0400] | 1993-12-17 오병문 named as minister 1993-12-18 중앙일보 \"전교조 계속땐 복직제외/오 교육/“지부장피선·집단행동등 묵과못해”\" (BigKinds 01100901.19931218204209003) [snapshot roster/sources/education/ext88_verify/survival/bk_1993-12-17_오병문.json; accessed 2026-09-26T13:21:02-0400] | 1994-04-06 김숙희 named as minister 1994-04-14 전북일보 \"大入제도 대폭변경 검토\" (BigKinds 01601101.19940414080724101) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-04-06_김숙희.json; accessed 2026-09-26T13:21:40-0400] | 1994-04-30 김숙희 named as minister 1994-05-03 서울신문 \"국교서 예·체능 과외지도/교육부/내년부터… 수업종료후 희망자 대상\" (BigKinds 01100611.20160422111503516) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-04-30_김숙희.json; accessed 2026-09-26T13:22:24-0400] | 1994-10-05 김숙희 named as minister 1994-10-18 서울신문 \"교원 채용때 대학성적 반영/교육부,사립고 자율입시안 연내 마련\" (BigKinds 01100611.20160422163814147) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-10-05_김숙희.json; accessed 2026-09-26T13:23:12-0400] | 1994-12-17 김숙희 named as minister 1995-01-20 세계일보 \"고입시험 부활 안 된다(사설)\" (BigKinds 01100701.19950120000000304) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-12-17_김숙희.json; accessed 2026-09-26T13:23:59-0400] | 1994-12-23 김숙희 named as minister 1995-01-20 세계일보 \"고입시험 부활 안 된다(사설)\" (BigKinds 01100701.19950120000000304) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-12-23_김숙희.json; accessed 2026-09-26T13:24:45-0400] | 1994-12-24 김숙희 named as minister 1995-01-20 세계일보 \"고입시험 부활 안 된다(사설)\" (BigKinds 01100701.19950120000000304) [snapshot roster/sources/education/ext88_verify/survival/bk_1994-12-24_김숙희.json; accessed 2026-09-26T13:25:27-0400] | 1995-02-22 김숙희 named as minister 1995-03-09 한국일보 \"「국민학교 개정」구체화/김교육,어제 민간추진단체 대표 만나\" (BigKinds 01101101.19950309000003003) [snapshot roster/sources/education/ext88_verify/survival/bk_1995-02-22_김숙희.json; accessed 2026-09-26T13:26:03-0400] | 1995-08-07 박영식 named as minister 1995-08-31 세계일보 \"교육재정 62조3천억 조성/98년까지\" (BigKinds 01100701.19950831000000102) [snapshot roster/sources/education/ext88_verify/survival/bk_1995-08-07_박영식.json; accessed 2026-09-26T13:26:51-0400] | 1995-12-18 박영식 named as minister 1995-12-19 중앙일보 \"<동정>박영식,中國도서 1,300권 기증식\" (BigKinds 01100901.19951219032325001) [snapshot roster/sources/education/ext88_verify/survival/bk_1995-12-18_박영식.json; accessed 2026-09-26T13:27:39-0400] | 1996-01-31 안병영 named as minister 1996-02-08 경인일보 \"학교新·增築 6千億 지원을\" (BigKinds 01200201.19960208101629103) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-01-31_안병영.json; accessed 2026-09-26T13:28:23-0400] | 1996-08-08 안병영 named as minister 1996-08-28 세계일보 \"한의대생 제적 조건부 구제/안 교육 간담회서 밝혀\" (BigKinds 01100701.19960828000003005) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-08-08_안병영.json; accessed 2026-09-26T13:29:07-0400] | 1996-08-09 안병영 named as minister 1996-08-28 세계일보 \"한의대생 제적 조건부 구제/안 교육 간담회서 밝혀\" (BigKinds 01100701.19960828000003005) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-08-09_안병영.json; accessed 2026-09-26T13:29:50-0400] | 1996-10-18 안병영 named as minister 1996-11-20 세계일보 \"「교육감 임명제」 전면 재검토/당정/비난여론 고려 다각대안 모색\" (BigKinds 01100701.19961120000000204) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-10-18_안병영.json; accessed 2026-09-26T13:30:32-0400] | 1996-11-07 안병영 named as minister 1996-11-22 동아일보 \"\"교육감 교육위서 선출\"\" (BigKinds 01100401.19961122084630001) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-11-07_안병영.json; accessed 2026-09-26T13:31:12-0400] | 1996-12-20 안병영 named as minister 1996-12-22 동아일보 \"취임 1주년 安秉永 교육부장관 \"빡빡한 입시일정 조정 검토\"\" (BigKinds 01100401.19961222085013004) [snapshot roster/sources/education/ext88_verify/survival/bk_1996-12-20_안병영.json; accessed 2026-09-26T13:31:48-0400] | 1997-02-13 안병영 named as minister 1997-02-28 서울신문 \"전교조 불법행동 강력대응/교육부/오늘 안병영 장관 담화문\" (BigKinds 01100611.20160421071644792) [snapshot roster/sources/education/ext88_verify/survival/bk_1997-02-13_안병영.json; accessed 2026-09-26T13:32:36-0400] | 1997-03-05 안병영 named as minister 1997-03-09 동아일보 \"安교육부장관 장애인돕기\"흐뭇한 하루\"\" (BigKinds 01100401.19970309085810002) [snapshot roster/sources/education/ext88_verify/survival/bk_1997-03-05_안병영.json; accessed 2026-09-26T13:33:18-0400] | 1997-03-06 안병영 named as minister 1997-03-09 동아일보 \"安교육부장관 장애인돕기\"흐뭇한 하루\"\" (BigKinds 01100401.19970309085810002) [snapshot roster/sources/education/ext88_verify/survival/bk_1997-03-06_안병영.json; accessed 2026-09-26T13:33:52-0400] | 1997-11-19 이명현 named as minister 1997-12-07 동아일보 \"「특집 방송—교육개혁의 결실을위하여」〈EBS 밤 8·00〉\" (BigKinds 01100401.19971207092726005) [snapshot roster/sources/education/ext88_verify/survival/bk_1997-11-19_이명현.json; accessed 2026-09-26T13:34:35-0400]",
+  "field_hygiene": "appointing_president matches each start (전두환 for 서명원, 노태우 for 김영식..조완규, 김영삼 for 오병문..이명현). No acting president appointed anyone. deputy_pm false throughout, correct because offices_1988.json deputy_pm_designations has no education title in 1988-1998. ministry and office_title follow the rename (문교부 to 1990-12-26, 교육부 from 1990-12-27). reorg_continuation false and reappointed_on_reorg null everywhere, correct because the rename coincided with a change of person. name_hanja checked against the stories read (徐明源, 金永植, 鄭元植, 尹亨燮, 趙完圭, 吳炳文, 金淑喜, 朴煐植, 安秉永, 李明賢). No holder sat in the Assembly (na_members_12_22.csv, only an unrelated 김영식 b. 1959). from_main record 이명현 copied byte for byte. Birth dates remain ko.wikipedia (secondary), not rechecked. Rechecked on 2026-09-27. appointing_president follows each start date, ministry follows OFA17 (to 1990-12-26) and OFA18 (from 1990-12-27), and offices_1988.json deputy_pm_designations lists only epb, unification and finance titles. The 이명현 record equals the builder's copy, which equals the main file record except for the from_main flag.",
+  "nominations_check": "10 nominations, one per spell, all outcome appointed. nomination_date is the announcement day and matches the stories read (1987-07-13, 1988-02-19, 1988-12-05, 1990-12-27, 1992-01-22, 1993-02-26, 1993-12-21, 1995-05-15, 1995-12-20, 1997-08-05). No hearing existed for 국무위원 before 2005. No PM nomination belongs to this lineage, so the PM checks (서리, consent votes) do not apply. 이명현 outcome_date 1997-08-06 is left as in the main file (see issues).",
+  "pm_checks": "not applicable (education lineage)",
+  "transcript_check": "not applicable, all spells end before the transcript coverage (2000-06-05 onward) except 이명현, which is from_main.",
+  "scripts": [
+   "roster/scripts/education_ext88_verify_00_init.py",
+   "roster/scripts/education_ext88_verify_01_chron_walk.py",
+   "roster/scripts/education_ext88_verify_02_pa_schedule.py",
+   "roster/scripts/education_ext88_verify_03_news_holders.py",
+   "roster/scripts/education_ext88_verify_04_secondary_lists.py",
+   "roster/scripts/education_ext88_verify_04b_wikidata.py",
+   "roster/scripts/education_ext88_verify_05_transition_search.py",
+   "roster/scripts/education_ext88_verify_06_read_articles.py",
+   "roster/scripts/education_ext88_verify_07_survival.py",
+   "roster/scripts/education_ext88_verify_08_cwk_end.py",
+   "roster/scripts/education_ext88_verify_09_lmh_start.py",
+   "roster/scripts/education_ext88_verify_10_news_tally.py",
+   "roster/scripts/education_ext88_verify_11_build.py",
+   "roster/scripts/education_ext88_verify_12_resume.py",
+   "roster/scripts/education_ext88_verify_13_quote_audit.py",
+   "roster/scripts/education_ext88_verify_14_farewell.py",
+   "roster/scripts/education_ext88_verify_15_farewell_read.py",
+   "roster/scripts/education_ext88_verify_16_resume_build.py"
+  ],
+  "snapshots": "roster/sources/education/ext88_verify/ (articles/, transitions/, news_holders/, survival/, chron/, pa/, secondary/, cwk_end/, lmh_start/, builder_cited_ids.json, farewell/, quote_audit_2026-09-27.json)",
+  "steps_done": [
+   "1 completeness (news tally, chronology days, presidential schedule, survival check, Namu/en.wiki/Wikidata)",
+   "2 dates. Every start and end re-verified with stories the builder did not cite (asserted against builder_cited_ids.json), quotes checked against the stored text",
+   "3 continuity recomputed",
+   "4 PM checks not applicable",
+   "5 field hygiene",
+   "6 resume pass 2026-09-26T21:18:30-0400: chronology walk completed (273 days, 0 failing). Entries whose title names an education minister change are 1992-01-22 (조완규 appointed) and 1995-05-12 (김숙희 dismissed). The 1988-03-04 entry (college deans) and the 1991-05-24 entry (정원식 as former minister named PM) are not changes in this office. The other transition days carry general reshuffle entries only. No spell changed.",
+   "7 resume pass 2026-09-27T21:53:41-0400: rerun requested. Stage was 'written'. Audited the written file instead of redoing it. Quote audit 167 of 167 passages found in their snapshots (163 before the additions, 4 added). Source independence rechecked, every start and end carries at least two verifier stories or records the builder did not cite. 조완규 relabelled disputed -> corrected (value change already logged). Stale cross-lineage statements replaced (foreign now 1993-02-26, recounted next-day handover split). Added 4 stories for 오병문 end, 박영식 end and 안병영 start. No date changed."
+  ],
+  "counts": {
+   "spells": 10,
+   "nominations": 10,
+   "acting": 1,
+   "confirmed": 8,
+   "corrected": 1,
+   "disputed": 1,
+   "added": 0
+  },
+  "quote_audit": {
+   "run_at": "2026-09-27T21:53:41-0400",
+   "script": "roster/scripts/education_ext88_verify_13_quote_audit.py",
+   "report": "roster/sources/education/ext88_verify/quote_audit_2026-09-27.json",
+   "result": {
+    "builder:ok": 89,
+    "verifier:ok": 78
+   },
+   "method": "Every quoted passage tied to a snapshot (spell sources, acting, nominations, change evidence) was searched in the stored snapshot text after NFKC normalisation and removal of whitespace. All matched. NFKC is needed because the News Library OCR prints some hanja as CJK compatibility ideographs."
+  },
+  "resume_passes": [
+   {
+    "at": "2026-09-27T21:53:41-0400",
+    "added_sources": [
+     {
+      "spell": "오병문|1993-02-26",
+      "field": "end_sources",
+      "source": "[verifier] BigKinds 01101101.19931221000000401: 한국일보 1993-12-21 \"끝까지 예측불허… 속타는 가슴/개각전야　청와대·관가　스케치\" (full text: '교육부는　오병문장관의　경질여부에　계속　엇갈린　반응.'; accessed 2026-09-"
+     },
+     {
+      "spell": "오병문|1993-02-26",
+      "field": "end_sources",
+      "source": "[verifier] BigKinds 01101101.19931222000000501: 한국일보 1993-12-22 \"환영… 당혹… 아쉬움… 엇갈린 반응/「12·21개각」 관가 표정\" (full text: '황전장관은　하오　3시　이임식에서'; accessed 2026-09-26T21:57"
+     },
+     {
+      "spell": "박영식|1995-05-16",
+      "field": "end_sources",
+      "source": "[verifier] BigKinds 01101101.19951220000000401: 한국일보 1995-12-20 \"“새 장관 누가 오나” 새벽까지 촉각/오늘 개각­각 부처 표정\" (full text: '박영식 장관의 유임을 자신했다'; accessed 2026-09-26T12:54:1"
+     },
+     {
+      "spell": "안병영|1995-12-21",
+      "field": "start_sources",
+      "source": "[verifier] BigKinds 01100611.20160423094425635: 서울신문 1995-12-22 \"각 부처 이취임식 이모저모\" (full text: '안병영 교육부장관은 취임사에서 남과 경쟁하기에 앞서 더불어 사는 문제에 천착하는 진정한 세계인 육성을 통한 우리 사회의"
+     }
+    ],
+    "relabelled": [
+     {
+      "spell": "조완규|1992-01-23",
+      "old": "disputed",
+      "new": "corrected"
+     }
+    ],
+    "dates_changed": 0
+   }
+  ]
+ }
+}

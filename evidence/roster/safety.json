@@ -1,0 +1,345 @@
+{
+  "lineage": "safety",
+  "built_at": "2026-09-25T21:30:28-0400",
+  "ministry_names": [
+    {
+      "ministry": "국민안전처",
+      "from": "2014-11-19",
+      "to": "2017-07-25",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제12844호 (2014-11-19 공포·시행) 제22조의2 신설. 제2항 '국민안전처에 장관 1명과 차관 1명을 두되, 장관은 국무위원으로 보하고, 차관은 정무직으로 한다' (verified in the law text). 국무총리 소속 처. Abolished by 법률 제14839호 (2017-07-26 공포·시행), functions to 행정안전부, 소방청, 해양경찰청. No renaming in between.",
+      "source": "offices.json OF056 (GOA_12844, GOA_14839); 정부조직법 법률 제12844호 (2014-11-19 공포·시행) 제22조의2②, https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=162063&efYd=20141119 (accessed 2026-09-25T06:47:55-0400; snapshot inventory_sources/law_go_kr/govorg/text_20141119_162063.json); 정부조직법 법률 제14839호 (2017-07-26 공포·시행), 국민안전처와 행정자치부를 통합하여 행정안전부 신설, https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=195013&efYd=20170726 (accessed 2026-09-25T06:48:00-0400; snapshot inventory_sources/law_go_kr/govorg/text_20170726_195013.json)"
+    }
+  ],
+  "spells": [
+    {
+      "name": "박인용",
+      "name_hanja": "朴仁鎔",
+      "name_en": "Park In-yong",
+      "name_en_source": "Wikidata Q18605143 English label (https://www.wikidata.org/wiki/Q18605143, SPARQL accessed 2026-09-25). Secondary only. No official English page for the minister was found (archived korea.net cabinet page checked, no match).",
+      "birth_date": "1952-09-01",
+      "gender": "M",
+      "ministry": "국민안전처",
+      "office_title": "국민안전처장관",
+      "deputy_pm": false,
+      "start": "2014-12-05",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제18408호 (published 2014-12-12), 인사발령(인사혁신처): '박인용(朴仁鎔) 국무위원에 임함 국민안전처장관에 보함 2014. 12. 5.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001418271500870000&tocId=00000000000000001418271538409000&isTocOrder=N (accessed 2026-09-25T07:04:12-0400; snapshot roster/sources/safety/gazette_20141212_18408_00000000000000001418271538409000.pdf, also harvest/gazette_text/20141212_18408_00000000000000001418271538409000.txt)",
+        "연합뉴스 2014-12-05 18:15:13 '朴대통령 \"물살 센 시기 잘넘겨 선진국 진입해야\"' https://n.news.naver.com/mnews/article/001/0007285813 (accessed 2026-09-25T07:06:16-0400; snapshot roster/sources/safety/news/naver_001_0007285813.html) (5일 청와대에서 박인용 국민안전처 장관 등에게 임명장 수여)",
+        "헤럴드경제 2014-12-05 18:24:03 '박 대통령 국민안전처 장관에 임명장 수여' https://n.news.naver.com/mnews/article/016/0000590265 (accessed 2026-09-25T07:06:17-0400; snapshot roster/sources/safety/news/naver_016_0000590265.html)",
+        "이데일리 2014-12-05 14:51:04 '박인용 국민안전처 장관, 오늘 오후 5시 취임식' https://n.news.naver.com/mnews/article/018/0003132920 (accessed 2026-09-25T07:06:15-0400; snapshot roster/sources/safety/news/naver_018_0003132920.html) (취임식 전 청와대에서 임명장, same day)",
+        "행정안전부 열린장관실 역대장관, 국민안전처 tab, https://www.mois.go.kr/mns/sub/a02/MinistryPSS/screen.do (tier 2, accessed 2026-09-25T21:42:46-0400; snapshot roster/sources/safety/verify/v2_mois_MinistryPSS.html). The page has one row, '제1대 장관 박인용 재임기간 2014년 12월 5일 ~ 2017년 7월 25일'",
+        "서울신문 2014-12-06 03:02:02 '朴대통령, 신임 장·차관에게 임명장' https://n.news.naver.com/mnews/article/081/0002493609 (accessed 2026-09-25T21:41:19-0400; snapshot roster/sources/safety/verify/news/v2_naver_081_0002493609.html) ('박근혜(왼쪽 두 번째) 대통령이 5일 청와대에서 신임 장·차관에게 임명장을 수여한 뒤 박인용(오른쪽 두 번째) 국민안전처 장관 등과 함께 환담 장소로 가고 있다.')",
+        "KBS 2014-12-05 17:21:14 '박인용 국민안전처 장관 취임' https://n.news.naver.com/mnews/article/056/0010101452 (accessed 2026-09-25T07:06:14-0400; snapshot roster/sources/safety/verify/news/v2_naver_056_0010101452.html) ('국민안전처의 초대 장관으로 임명된 박인용 장관의 취임식이 오늘 오후 정부 서울청사 별관 대강당에서 열렸습니다.')"
+      ],
+      "end": "2017-07-25",
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2017-07-25 12:02:49 '안전처 '처음이자 마지막 장관' 박인용, 조용한 퇴임' https://n.news.naver.com/mnews/article/001/0009431816 (accessed 2026-09-25T13:01:07-0400; snapshot roster/sources/safety/news/naver_001_0009431816.html) ('25일 별도의 퇴임식 없이 조용히 자리에서 물러났다')",
+        "정부조직법 법률 제14839호 (2017-07-26 공포·시행), 국민안전처와 행정자치부를 통합하여 행정안전부 신설, https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=195013&efYd=20170726 (accessed 2026-09-25T06:48:00-0400; snapshot inventory_sources/law_go_kr/govorg/text_20170726_195013.json)",
+        "뉴시스 2017-07-25 13:05:32 '이임식 대신 상황보고 선택한 박인용 장관' https://n.news.naver.com/mnews/article/003/0008086647 (accessed 2026-09-25T07:07:43-0400; snapshot roster/sources/safety/news/naver_003_0008086647.html)",
+        "뉴시스 2017-07-26 13:18:48 '하루 만에 바뀐 재난 컨트롤타워' https://n.news.naver.com/mnews/article/003/0008089009 (accessed 2026-09-25T13:01:32-0400; snapshot roster/sources/safety/news/naver_003_0008089009.html) (caption: '행정안전부 출범 첫날인 26일 ... 김부겸 행안부 장관 ... 첫 상황보고를 받고 있다. 같은 장소에서 전날인 25일에는 폐지된 국민안전처 박인용 장관이 마지막 상황보고를 받았다'. The 25일 dates his last report. The office itself ended with the law taking effect on 26일)",
+        "연합뉴스 2017-07-25 13:30:02 '중소벤처기업·과학기술정보통신·행정안전부 내일 출범' https://n.news.naver.com/mnews/article/001/0009431991 (accessed 2026-09-25T13:00:50-0400; snapshot roster/sources/safety/news/naver_001_0009431991.html) (정부조직법 개정 26일 공포·시행)",
+        "YTN 2017-07-25 14:46:16 '국민안전처 박인용 장관 퇴임...\"국민에게 폐만 끼친 것 같아\"' https://n.news.naver.com/mnews/article/052/0001038577 (accessed 2026-09-25T13:40:21-0400; snapshot roster/sources/safety/verify/news/naver_052_0001038577.html) ('박인용 장관이 퇴임식 없이 자리에서 물러났습니다. 오늘(25일) 오전 11시쯤 ... 마지막 상황 보고를 받는 것으로 퇴임 행사를 대신')",
+        "KBS 2017-07-25 14:10:41 '박인용 국민안전처 장관 2년 8개월 만 퇴임' https://n.news.naver.com/mnews/article/056/0010485409 (accessed 2026-09-25T13:40:24-0400; snapshot roster/sources/safety/verify/news/naver_056_0010485409.html) ('부임 2년 8개월 만에 퇴임했다 ... 11시 반쯤 청사를 떠났다')",
+        "서울경제 2017-07-25 13:03:56 '처음이자 마지막 '안전처 수장'...박인용 장관 퇴임' https://n.news.naver.com/mnews/article/011/0003078253 (accessed 2026-09-25T13:40:22-0400; snapshot roster/sources/safety/verify/news/naver_011_0003078253.html) ('25일 별도의 퇴임식 없이 조용히 자리에서 물러났다')",
+        "이데일리 2017-07-26 06:00:55 '964일간 '안전 불침번' 선 처음이자 마지막 안전처 장관' https://n.news.naver.com/mnews/article/018/0003883024 (accessed 2026-09-25T13:40:28-0400; snapshot roster/sources/safety/verify/news/naver_018_0003883024.html) ('국민안전처의 처음이자 마지막 장관이 25일 퇴임했다'. 964 days is the inclusive count from 2014-12-05 to 2017-07-25, consistent with both endpoints)",
+        "뉴스1 2017-07-25 11:51:34 '文대통령 임명 장관만 참석한 첫 국무회의…'동거정부' 끝' https://n.news.naver.com/mnews/article/421/0002857427 (accessed 2026-09-25T13:40:25-0400; snapshot roster/sources/safety/verify/news/naver_421_0002857427.html) (25일 국무회의 when 박인용 was still one of 18 국무위원 but absent. After the revised law is promulgated '국민안전처 장관은 빠지고 중소벤처기업부 장관이 국무위원에 새롭게 포함된다')",
+        "행정안전부 열린장관실 역대장관, 국민안전처 tab, https://www.mois.go.kr/mns/sub/a02/MinistryPSS/screen.do (tier 2, accessed 2026-09-25T21:42:46-0400; snapshot roster/sources/safety/verify/v2_mois_MinistryPSS.html). The page has one row, '제1대 장관 박인용 재임기간 2014년 12월 5일 ~ 2017년 7월 25일'",
+        "세계일보 2017-07-25 20:28:15 '8개 부처 개편 완료… 국민안전처 ‘역사속으로’' https://n.news.naver.com/mnews/article/022/0003195038 (accessed 2026-09-25T21:41:09-0400; snapshot roster/sources/safety/verify/news/v2_naver_022_0003195038.html) ('행정자치부는 25일 국무회의에서 정부조직법 개정안과 관련 법령안이 심의·확정됨에 따라 26일부터 이를 공포·시행한다고 밝혔다.' and '취임 초부터 상황관리를 가장 강조해온 박 장관은 안전처의 마지막 날에도 상황보고를 끝으로 퇴임 행사를 갈음했다.')",
+        "매일경제 2017-07-25 18:09:08 '文 \"검경수사권 제3기구서 논의…정치검사들 확실히 책임 물어야\"' https://n.news.naver.com/mnews/article/009/0003985637 (accessed 2026-09-25T21:41:11-0400; snapshot roster/sources/safety/verify/news/v2_naver_009_0003985637.html) (25일 국무회의 '17부 장관과 국민안전처 장관까지 총 18명이 국무위원인데, 이 중 이기권 전 고용노동부 장관이 전날 퇴임했고, 박인용 국민안전처 장관이 불참했기 때문이다'. He was still a 국무위원 on 25일)",
+        "BigKinds metadata, 중앙일보 2017-07-26 '안전 위해 노력했지만 폐를 끼친 게 아닌지 …' (news_id 01100901.20170726052129001), snippet '국민안전처 박인용(65·사진) 장관이 25일 퇴임했다. 2014년 12월 5일 초대 장관으로 취임한 지 2년 8개월여 만이다.' (query '박인용 퇴임' 2017-07-24..2017-07-27, accessed 2026-09-25T21:39:43-0400; snapshot roster/sources/safety/verify/v2_bigkinds_박인용_퇴임_2017-07-24_2017-07-27.json)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "inputs/minister_role_meetings.csv, valid types only (re-run by the verifier with roster/scripts/safety_verify_03_transcripts.py, same counts). As minister (affiliation 국민안전처) 34 상임위원회 meetings and 4 국정감사 meetings, first 2014-12-09 and last 2017-03-24, all inside 2014-12-05..2017-07-25. As nominee, 안전행정위원회 meeting 44636 on 2014-12-04 (nominee_hearing_meetings.csv). Four rows labeled '국민안전처장관 박인용' dated 2011-08-08, 2011-08-09, 2011-08-11 (저축은행 국정조사특위, type 국정조사) and 2012-09-10 (국회본회의) predate the office and come from hearing types whose content is misattached. They are ignored. audit/coverage_gaps.csv lines 134 and 275 (0-based data rows 132 and 273) (박인용) are both explained by this and by the old panel's wrong end date 2017-03-10.",
+      "notes": "Held the office for its whole existence after the first appointment. Continued under acting president 황교안 (2016-12-09..2017-05-10) and under 문재인 from 2017-05-10 until the office was abolished on 2017-07-26 (not split here, presidential transitions are split in code). He did not continue into 행정안전부 (김부겸, 행정자치부장관, became 행정안전부장관). Birth date from ko.wikipedia (https://ko.wikipedia.org/w/index.php?oldid=41876731, snapshot roster/sources/safety/wiki_박인용.json) and Wikidata Q18605143 (1952-09-01), consistent with news age 62 in Nov 2014 (국민일보 2014-11-18, https://n.news.naver.com/mnews/article/005/0000706581). Navy officer (해군사관학교 28기, 해군 대장 예편), not a marine. Not in na_members_15_22.csv. Holdover under 문재인 is also confirmed by a tier-2 source. 정책브리핑 briefing '박수현 대변인, 국무위원 오찬 간담회 결과 관련 브리핑' (2017-05-26, https://www.korea.kr/briefing/presidentView.do?newsId=148836798, accessed 2026-09-25T13:07:22-0400, snapshot roster/sources/safety/verify/korea_148836798.html) quotes '박인용 국민안전처 장관' at 문재인's lunch with the previous government's 국무위원. In November 2016 the President tried to replace him (nominee 박승주, 2016-11-02). The nominee withdrew on 2016-11-09 and no successor was named, so the spell is continuous. Namu Wiki (snapshot roster/sources/safety/verify/namu_박인용.html, accessed 2026-09-25T13:39:42-0400) gives 2014-11-19 as his start, which is the office's establishment date and conflicts with the gazette (2014-12-05). Its end date 2017-07-25 agrees."
+    }
+  ],
+  "nominations": [
+    {
+      "nominee": "박인용",
+      "office_title": "국민안전처장관",
+      "nomination_date": "2014-11-18",
+      "request_date": "2014-11-21",
+      "likms_bill_id": "PRC_S1R4W1M1W2X1S1N7V3G3O1C9J2G0C8",
+      "hearing_dates": [
+        "2014-12-04"
+      ],
+      "hearing_committee": "안전행정위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2014-12-05",
+      "sources": [
+        "의안정보시스템 ZZ19138 '국무위원후보자(국민안전처장관 박인용) 인사청문요청안(대통령)', 제안일자 2014-11-21, 안전행정위원회 회부 2014-11-24, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S1R4W1M1W2X1S1N7V3G3O1C9J2G0C8 (accessed 2026-09-25T06:51:20-0400; harvest/likms/PRC_S1R4W1M1W2X1S1N7V3G3O1C9J2G0C8.txt; search snapshot roster/sources/safety/likms_search_safety.json)",
+        "inputs/nominee_hearing_meetings.csv rows for 박인용, 안전행정위원회 meeting 44636, agenda '국무위원후보자(국민안전처장관 박인용) 인사청문회', 2014-12-04",
+        "연합뉴스 2014-11-18 10:32:18 '초대 국민안전처장관 박인용…공정거래위원장 정재찬' https://n.news.naver.com/mnews/article/001/0007253083 (accessed 2026-09-25T07:06:00-0400; snapshot roster/sources/safety/news/naver_001_0007253083.html) (18일 청와대 민경욱 대변인 발표, 내정)",
+        "국민일보 2014-11-18 10:41:06 '초대 국민안전처장관 박인용…공정거래위원장 정재찬' https://n.news.naver.com/mnews/article/005/0000706581 (accessed 2026-09-25T07:06:01-0400; snapshot roster/sources/safety/news/naver_005_0000706581.html)",
+        "연합뉴스 2014-12-05 11:21:53 '국회, 박인용·정재찬 인사청문보고서 채택' https://n.news.naver.com/mnews/article/001/0007284784 (accessed 2026-09-25T07:06:23-0400; snapshot roster/sources/safety/news/naver_001_0007284784.html) (4일 청문회, 5일 오전 안행위 전체회의 경과보고서 채택, 부적합 의견 병기)",
+        "뉴시스 2014-12-05 11:42:35 '안행위, 박인용 후보자 인사청문보고서 채택' https://n.news.naver.com/mnews/article/003/0006236543 (accessed 2026-09-25T07:06:27-0400; snapshot roster/sources/safety/news/naver_003_0006236543.html)",
+        "관보 제18408호 (published 2014-12-12), 인사발령(인사혁신처): '박인용(朴仁鎔) 국무위원에 임함 국민안전처장관에 보함 2014. 12. 5.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001418271500870000&tocId=00000000000000001418271538409000&isTocOrder=N (accessed 2026-09-25T07:04:12-0400; snapshot roster/sources/safety/gazette_20141212_18408_00000000000000001418271538409000.pdf, also harvest/gazette_text/20141212_18408_00000000000000001418271538409000.txt)",
+        "뉴시스 2014-11-18 11:24:24 '[종합]국민안전처 장관에 박인용…장·차관급 11명 인선' https://n.news.naver.com/mnews/article/003/0006203264 (accessed 2026-09-25T13:43:03-0400; snapshot roster/sources/safety/verify/news/naver_003_0006203264.html) (18일 민경욱 청와대 대변인 브리핑, '국민안전처 장관에 ... 박 전 차장을 ... 내정')",
+        "조선비즈 2014-12-05 13:19:03 '국회, 박인용·정재찬 후보자 인사청문보고서 채택' https://n.news.naver.com/mnews/article/366/0000233365 (accessed 2026-09-25T07:06:25-0400; snapshot roster/sources/safety/verify/news/naver_366_0000233365.html) ('국회 안전행정위원회는 이날 오전 전체회의를 열고 박 후보자에 대한 적합 의견과 부적합 의견을 병기한 경과보고서를 채택했다')",
+        "MBC 2014-12-05 13:23:01 '국회, 박인용·정재찬 인사청문경과보고서 채택' https://n.news.naver.com/mnews/article/214/0000441434 (accessed 2026-09-25T07:06:26-0400; snapshot roster/sources/safety/verify/news/naver_214_0000441434.html) (안행위 전체회의 경과보고서 채택, 적합·부적합 의견 병기)",
+        "데일리안 2014-12-05 14:50:02 '국회, 박인용·정재찬 인사청문보고서 채택' https://n.news.naver.com/mnews/article/119/0002052619 (accessed 2026-09-25T13:41:52-0400; snapshot roster/sources/safety/verify/news/naver_119_0002052619.html) (hearing '4일 국회 안전행정위원회 회의실', report adopted 5일)",
+        "BigKinds metadata, query '박인용 임명장' 2014-12-04..2014-12-07 (accessed 2026-09-25T21:39:49-0400; snapshot roster/sources/safety/verify/v2_bigkinds_박인용_임명장_2014-12-04_2014-12-07.json): 브레이크뉴스 2014-12-05 '안행위, 박인용 안전처 장관 후보 인사청문보고서 채택' (news_id 04100608.20141205095831001). Query '박인용 취임' 2014-12-04..2014-12-08 (accessed 2026-09-25T21:39:51-0400; snapshot roster/sources/safety/verify/v2_bigkinds_박인용_취임_2014-12-04_2014-12-08.json): KBS 2014-12-05 '[간추린 단신] 국회, 인사청문보고서 채택…안전처 장관 취임 외', snippet '국회가 박인용 초대 국민안전처 장관과 정재찬 공정거래위원장 후보자에 대한 인사청문 경과보고서를 채택했습니다.'"
+      ],
+      "notes": "The rendered likms record shows only 접수 2014-11-21 and 회부 2014-11-24, with blank 처리일 and 처리결과. Report adoption on 2014-12-05 comes from two wire reports. The report was adopted with the opposition's unfitness opinion attached."
+    },
+    {
+      "nominee": "박승주",
+      "office_title": "국민안전처장관",
+      "nomination_date": "2016-11-02",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": true,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "nominee_withdrew",
+      "outcome_date": "2016-11-09",
+      "sources": [
+        "연합뉴스 2016-11-02 10:22:32 '<프로필> 박승주 국민안전처 장관 내정자' https://n.news.naver.com/mnews/article/001/0008795010 (accessed 2026-09-25T07:06:57-0400; snapshot roster/sources/safety/news/naver_001_0008795010.html)",
+        "서울경제 2016-11-02 16:49:04 '[프로필]박승주 국민안전처 장관 후보자' https://n.news.naver.com/mnews/article/011/0002910553 (accessed 2026-09-25T07:06:58-0400; snapshot roster/sources/safety/news/naver_011_0002910553.html)",
+        "연합뉴스 2016-11-09 21:05:27 '박승주 안전처장관 내정자 자진사퇴…\"심려 끼쳐 죄송\"(종합)' https://n.news.naver.com/mnews/article/001/0008812730 (accessed 2026-09-25T07:07:22-0400; snapshot roster/sources/safety/news/naver_001_0008812730.html) (9일 오후 9시 기자회견, 내정 1주 만에 낙마)",
+        "KBS 2016-11-09 21:03:05 '박승주 안전처 장관 내정자, '자진사퇴' 발표' https://n.news.naver.com/mnews/article/056/0010382945 (accessed 2026-09-25T12:58:55-0400; snapshot roster/sources/safety/news/naver_056_0010382945.html) ('정부는 아직 국회에 총리와 박 내정자의 인사청문요청서를 국회에 제출하지 않았다')",
+        "연합뉴스 2016-11-08 17:12:59 '안전처, '장관 내정 원점 재검토'에 청문회 준비 관망' https://n.news.naver.com/mnews/article/001/0008809187 (accessed 2026-09-25T12:59:15-0400; snapshot roster/sources/safety/news/naver_001_0008809187.html) (청와대 관계자 '두 내정자 모두 인사청문회를 진행하기 위한 행정 절차가 시작되지 않은 상태')",
+        "likms_search('국무위원후보자', 20), likms_search('인사청문요청안', 20), likms_search('박승주', 20) and likms_search('국민안전처', 20) run 2026-09-25 through tools/src.py return no request for 박승주 (20th-Assembly requests jump from 2016-08-19 to 2017-05-23)",
+        "관보 제16568호 (2007-08-16) 박승주(朴昇柱) 여성가족부 차관에 임함, harvest/gazette_text/20070816_16568_00000000000000001319078500373000.txt (identity and hanja)",
+        "한국경제 2016-11-02 09:55:04 '朴 대통령, 책임총리에 김병준 국민대 교수·경제부총리 임종룡 내정' https://n.news.naver.com/mnews/article/015/0003678536 (accessed 2026-09-25T13:42:36-0400; snapshot roster/sources/safety/verify/news/naver_015_0003678536.html) ('국민안전처 장관에는 김 신임 총리 내정자의 추천을 받아 박승주 전 여성가족부 차관을 내정했다')",
+        "머니투데이 2016-11-02 10:11:17 '[프로필]박승주 신임 국민안전처 장관 후보자' https://n.news.naver.com/mnews/article/008/0003766808 (accessed 2026-09-25T07:07:00-0400; snapshot roster/sources/safety/verify/news/naver_008_0003766808.html) (청와대 '김병준 국무총리 내정자 추천을 받아 내정했다')",
+        "조선비즈 2016-11-09 22:39:03 '박승주 국민안전처 장관 내정자 자진사퇴' https://n.news.naver.com/mnews/article/366/0000348735 (accessed 2026-09-25T13:42:39-0400; snapshot roster/sources/safety/verify/news/naver_366_0000348735.html) ('9일 장관 후보자 직에서 사퇴했다 ... 지난 2일 ... 후보자에 지명됐으나')",
+        "서울신문 2016-11-09 21:16:03 '박승주 안전처 장관내정자, 자진 사퇴' https://n.news.naver.com/mnews/article/081/0002772777 (accessed 2026-09-25T13:42:40-0400; snapshot roster/sources/safety/verify/news/naver_081_0002772777.html) ('박 내정자는 이날 오후 9시 인사청문회 준비 사무실이 있는 서울 광화문의 이마빌딩에서 기자회견을 갖고' (이날 = 9일 per the lead sentence))",
+        "BigKinds metadata, queries '안전처 장관 내정자' (381 hits), '안전처 장관 후보자' (432) and '안전처 장관 교체' (286), 2014-11-01..2017-07-31, all pages read (accessed 2026-09-25, roster/sources/safety/verify/bigkinds_pages.json). Only two persons are ever titled 안전처 장관 내정자/후보자, 박인용 (2014-11-18..2014-12-05) and 박승주 (2016-11-02..2016-11-11).",
+        "동아일보 2016-11-02 10:39:04 '朴대통령, 신임 국무총리 김병준-경제부총리 임종룡 내정' https://n.news.naver.com/mnews/article/020/0003016218 (accessed 2026-09-25T21:41:46-0400; snapshot roster/sources/safety/verify/news/v2_naver_020_0003016218.html) ('박근혜 대통령은 2일 신임 국무총리에 김병준 전 대통령정책실장(현 국민대 교수)을 내정했다.' and '신임 경제부총리에는 임종룡 금융위원장, 국민안전처 장관에는 박승주 전 여성가족부 차관을 각각 내정했다.')",
+        "세계일보 2016-11-02 09:38:00 '책임총리 김병준, 경제 부총리 임종룡, 안전처 장관 박승주 전격 단행' https://n.news.naver.com/mnews/article/022/0003112240 (accessed 2026-09-25T21:41:48-0400; snapshot roster/sources/safety/verify/news/v2_naver_022_0003112240.html) ('국민안전처 장관에는 김 총리 내정자의 추천을 받아 참여정부 시절 여성가족부 차관을 지낸 박승주 씨를 내정했다.')",
+        "경향신문 2016-11-09 21:13:02 '박승주 국민안전처 장관 내정자 일주일만에 자진사퇴' https://n.news.naver.com/mnews/article/032/0002741364 (accessed 2026-09-25T21:41:41-0400; snapshot roster/sources/safety/verify/news/v2_naver_032_0002741364.html) ('박승주 국민안전처 장관 내정자가 9일 기자회견을 열고 자진사퇴 의사를 밝혔다.')",
+        "국민일보 2016-11-09 21:12:05 '박승주 안전처장관 내정자 자진사퇴…내정 일주일 만에' https://n.news.naver.com/mnews/article/005/0000951153 (accessed 2026-09-25T13:42:41-0400; snapshot roster/sources/safety/verify/news/v2_naver_005_0000951153.html) ('박 내정자는 9일 오후 9시 인사청문회 준비 사무실이 있는 서울 광화문의 이마빌딩에서 기자회견을 갖고 “저는 오늘 국민안전처 장관 내정자의 지위를 내려놓겠다”고 밝혔다.')"
+      ],
+      "notes": "Announced by 청와대 on 2016-11-02 together with PM nominee 김병준 (who recommended him) and 경제부총리 nominee 임종룡. Hanja 朴昇柱 (former 여성가족부 차관). The 인사청문요청서 was never sent to the National Assembly. 법무부장관 김현웅 said on 2016-11-03 that the 제청 procedure for 임종룡 and 박승주 departed from legal rules (머니투데이 https://n.news.naver.com/mnews/article/008/0003767839). He announced his withdrawal on the evening of 2016-11-09. 박인용 stayed in office throughout."
+    }
+  ],
+  "acting": [
+    {
+      "name": "이성호",
+      "role": "국민안전처 차관, 장관 직무대행",
+      "from": "2014-11-19",
+      "to": "2014-12-04",
+      "sources": [
+        "정책브리핑 2014-11-27 14:32:03 '국민안전처「연말연시 100일 특별재난안전대책」추진' https://n.news.naver.com/mnews/article/298/0000146528 (accessed 2026-09-25T07:06:46-0400; snapshot roster/sources/safety/news/naver_298_0000146528.html) ('국민안전처 장관 직무대행 이성호 차관 주재')",
+        "뉴시스 2014-11-27 11:32:20 '안전처 '연말연시 100일 특별재난안전대책' 추진' https://n.news.naver.com/mnews/article/003/0006221129 (accessed 2026-09-25T07:06:43-0400; snapshot roster/sources/safety/news/naver_003_0006221129.html)",
+        "연합뉴스 2014-11-19 10:20:01 '정총리 \"국민안전처·인사혁신처는 공공혁신 양대축\"' https://n.news.naver.com/mnews/article/001/0007255353 (accessed 2026-09-25T13:02:10-0400; snapshot roster/sources/safety/news/naver_001_0007255353.html) (19일 출범식, 이성호 국민안전처 차관)",
+        "연합뉴스 2014-11-20 15:49:23 '갓 출범 국민안전처 첫 업무보고…호된 '신고식'' https://n.news.naver.com/mnews/article/001/0007258641 (accessed 2026-09-25T13:02:30-0400; snapshot roster/sources/safety/news/naver_001_0007258641.html) (20일 국회 특위 업무보고, 이성호 안전처 차관)",
+        "inputs/hearing_speaker_roles_summary.csv: 이성호 vice_minister, 국민안전처, 상임위원회, first 2014-11-25",
+        "연합뉴스 2014-11-18 10:54:32 '<프로필> 이성호 국민안전처 차관' https://n.news.naver.com/mnews/article/001/0007253216 (accessed 2026-09-25T13:43:05-0400; snapshot roster/sources/safety/verify/news/naver_001_0007253216.html) (photo caption '국민안전처 차관에 내정된 이성호 행정안전부 제2차관')",
+        "뉴스1 2014-11-18 12:28:02 '초대 국민안전처 장관 박인용… 장·차관급 11명 인사(종합)' https://n.news.naver.com/mnews/article/421/0001121796 (accessed 2026-09-25T13:43:04-0400; snapshot roster/sources/safety/verify/news/naver_421_0001121796.html) ('안전처 차관과 중앙소방본부장 및 해양경비안전본부장 ... 이성호 ... 각각 내정 또는 임명됐다')",
+        "BigKinds metadata, query '이성호 국민안전처 차관 임명' 2014-11-17..2014-11-21 (accessed 2026-09-25T21:40:09-0400; snapshot roster/sources/safety/verify/v2_bigkinds_이성호_국민안전처_차관_임명_2014-11-17_2014-11-21.json): 강원도민일보 2014-11-19 '국민안전처장관 박인용씨 내정', snippet '또 국민안전처 차관에 이성호(60) 전 안전행정부 제2차관을, 인사혁신처장에 이근면(62) 삼성광통신 경영고문을 각각 임명했다.'",
+        "BigKinds metadata, query '이성호 차관 직무대행' 2014-11-18..2014-12-06 (accessed 2026-09-25T21:40:07-0400; snapshot roster/sources/safety/verify/v2_bigkinds_이성호_차관_직무대행_2014-11-18_2014-12-06.json): 헤럴드경제 2014-11-27 '국민안전처, ‘연말연시 100일 특별재난안전대책’ 추진', snippet '국민안전처는 27일 정부서울청사에서 국민안전처 장관 직무대행 이성호 차관 주재로'",
+        "관보 제18312호 (published 2014-07-23) '이성호(李聖浩) 안전행정부 제2차관에 임함 2014.7.16.', harvest/gazette_text/20140723_18312_*.txt (identity and hanja of the acting head)"
+      ],
+      "notes": "The acting 'from' date (2014-11-19) is the office's establishment date. 이성호's own legal appointment date as 차관 is not confirmed. The 2014-11 gazette 인사 items do not contain it (verifier grep of harvest/gazette_text for 2014-2015 found no notice), outlets on 2014-11-18/19 use both 내정자 and 차관, and he received his 임명장 with 박인용 on 2014-12-05 (헤럴드경제 2014-12-05 18:24). He is called 차관 at the NA special committee on 2014-11-20 and 장관 직무대행 in the government's own release of 2014-11-27. Round-2 verifier. Hanja 李聖浩 from 관보 제18312호 (appointed 안전행정부 제2차관 2014-07-16). 강원도민일보 2014-11-19 reports him as 임명 on 2014-11-18 while calling 박인용 내정. The legal date of his 차관 appointment is still not in the gazette corpus. His successor as 차관, 류희인(柳熙寅), was appointed 2017-06-07 (관보 제19036호), so the office never lacked a 차관 who could act."
+    }
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "desc": "The old release (data/minister_panel_comprehensive.csv line 166) has 박인용 2014-11-19..2017-03-10 with confirmation_date 2014-11-19 and a note calling him a marine (해병대). The gazette dates the appointment 2014-12-05, he served until the office was abolished (last day 2017-07-25), the hearing was 2014-12-04, and he was a navy officer. 2014-11-19 is the office's establishment date, which ko.wikipedia (revid 41112314 and 41876731) and Wikidata also give as his start."
+    },
+    {
+      "severity": "low",
+      "desc": "Vacancy 2014-11-19..2014-12-04 (16 days) between the office's creation and the first appointment. 차관 이성호 acted. His own 차관 appointment notice is not in the gazette index (the 2014-11 인사 items do not contain it), and some outlets on 2014-11-19 still call him 차관 내정자. He received his 임명장 on 2014-12-05 (연합뉴스 2014-12-05 18:15). The acting 'from' date is the establishment date, with 2014-11-20 and 2014-11-27 reports confirming him as 차관 and 장관 직무대행."
+    },
+    {
+      "severity": "low",
+      "desc": "End date convention. 법률 제14839호 was promulgated and took effect on 2017-07-26, and 박인용 left on 2017-07-25 (연합뉴스 '25일 ... 자리에서 물러났다'). end = 2017-07-25 matches offices.json (국민안전처 to 2017-07-25). No exit notice exists in the gazette (it does not print exits)."
+    },
+    {
+      "severity": "low",
+      "desc": "Completeness checks. Every 인사 item of the gazette index published 2014-11-17..2017-08-31 was read (156 items, 0 errors, scan file roster/sources/safety/gazette_scan_2014-11-17_2017-08-31.json). The only 국민안전처장관 appointment is 박인용 (제18408호). likms 19th and 20th Assembly searches give one hearing request (ZZ19138). Transcripts show no other person as 국민안전처 minister. No legal renaming occurred during the office's life, so no reorg split. The office did not exist in 2025-2026, so no news search for that period was needed."
+    },
+    {
+      "severity": "low",
+      "desc": "Verifier. The builder's paraphrase of the 뉴시스 2017-07-26 caption suggested the office was abolished on 25일. The caption dates the last situation report on 25일. The law (법률 제14839호) was promulgated and took effect on 2017-07-26 (law.go.kr JSON 공포일자 20170726, 시행일자 20170726, 부칙 제1조 '공포한 날부터 시행'). Citation text corrected, dates unchanged."
+    },
+    {
+      "severity": "low",
+      "desc": "Verifier. Secondary sources (ko.wikipedia, Wikidata, Namu Wiki) give 박인용's start as 2014-11-19, the office's establishment date. The gazette (제18408호) and same-day news give 2014-12-05, one day after the 2014-12-04 hearing. The panel keeps 2014-12-05."
+    },
+    {
+      "severity": "low",
+      "desc": "Verifier round 2. The 행정안전부 official 역대장관 page for 국민안전처 (tier 2, not cited by the builder) has one row, 박인용 2014-12-05 ~ 2017-07-25, which matches both endpoints and the single-holder roster. The gazette notice (제18408호) was re-read from a fresh copy of the item PDF. 세계일보 and 매일경제 of 2017-07-25 (outlets not used before) confirm the last day."
+    },
+    {
+      "severity": "low",
+      "desc": "Verifier round 2. birth_date 1952-09-01 rests on ko.wikipedia and Wikidata only. News ages (62 in 국민일보 2014-11-18, 65 in 중앙일보 2017-07-26) fit birth year 1952 under year-difference counting. Month and day are not confirmed by a tier 1-3 source. Not a start or end date, so the value is kept."
+    }
+  ],
+  "verification": {
+    "verified_at": "2026-09-25T21:46:28-0400",
+    "verifier": "adversarial verifier, lineage safety, round 2 (restarted on safety.json built 2026-09-25T21:30:28-0400, which equals the round-1 safety.verified.json apart from built_at)",
+    "input": "roster/safety.json",
+    "scripts": [
+      "roster/scripts/safety_v2_01_gazette_grep.py",
+      "roster/scripts/safety_v2_02_web.py",
+      "roster/scripts/safety_v2_02b_naver.py",
+      "roster/scripts/safety_v2_03_transcripts.py",
+      "roster/scripts/safety_v2_04_gazette_reread.py",
+      "roster/scripts/safety_v2_05_build.py"
+    ],
+    "snapshots": "roster/sources/safety/verify (files prefixed v2_, log v2_log.jsonl)",
+    "per_spell": {
+      "0": {
+        "name": "박인용",
+        "start": "2014-12-05",
+        "end": "2017-07-25",
+        "status": "confirmed",
+        "checks": [
+          "start 2014-12-05: gazette 제18408호 re-read by the verifier from a fresh download of item PDF toc_seq 00000000000000001418271538409000 (snapshot roster/sources/safety/verify/v2_gazette_18408_00000000000000001418271538409000.pdf) with src.pdf_text, '박인용(朴仁鎔) 국무위원에 임함 국민안전처장관에 보함 2014. 12. 5.' Independent tier-2 agreement from the MOIS 역대장관 page (2014년 12월 5일) and tier-3 서울신문 2014-12-06 and KBS 2014-12-05.",
+          "end 2017-07-25: MOIS 역대장관 page (2017년 7월 25일), 세계일보 2017-07-25 ('안전처의 마지막 날에도 상황보고를 끝으로 퇴임 행사를 갈음'), 매일경제 2017-07-25 (still a 국무위원 absent from the 25일 국무회의), 중앙일보 2017-07-26 via BigKinds ('25일 퇴임'). 법률 제14839호 공포일자 and 시행일자 20170726 (law.go.kr JSON, 부칙 제1조 '이 법은 공포한 날부터 시행한다'), so 2017-07-25 is the office's last day under the offices.json convention. All builder quotes spot-checked in the saved snapshots (연합 0009431816, YTN, KBS, 이데일리, 뉴스1).",
+          "transcripts: re-run with roster/scripts/safety_v2_03_transcripts.py. As minister 34 상임위원회 and 4 국정감사 meetings, 2014-12-09..2017-03-24, and the nominee hearing 44636 on 2014-12-04. The four rows dated 2011-08-08..2012-09-10 come from 국정조사 and 국회본회의 and are excluded. No other person appears as 국민안전처 minister in any hearing type.",
+          "fields: appointing_president 박근혜 (2014-12-05 is inside 2013-02-25..2017-03-10), appointed_by_acting_president false, deputy_pm false (OF056 deputy_pm_title empty), in_scope true (법률 제12844호 제22조의2② '장관은 국무위원으로 보하고' read in the law.go.kr snapshot), end_reason ministry_reorganized, reorg_continuation false, reappointed_on_reorg null (he did not move to 행정안전부, 김부겸 was appointed 행정안전부장관 2017-07-26 per 관보 제19067호), suspensions none, mp_hint null (no 박인용 in na_members_15_22.csv). The spell crosses 2016-12-09 (acting president 황교안), 2017-03-10 and 2017-05-10. It is kept unsplit, as in the other lineages (e.g. science 최양희, interior 홍윤식)."
+        ]
+      }
+    },
+    "per_nomination": {
+      "0": {
+        "nominee": "박인용",
+        "status": "confirmed",
+        "checks": [
+          "likms ZZ19138 is the only 국민안전처 bill in harvest/likms_cabinet_bills.csv (291 bills). 제안일자 2014-11-21, 회부 2014-11-24, 처리 blank (harvest/likms/PRC_S1R4W1M1W2X1S1N7V3G3O1C9J2G0C8.txt re-read). Hearing 2014-12-04 from transcript meeting 44636 (two agenda items, 인사청문회 and 인사청문회(계속)). Report adopted 2014-12-05 (builder's 연합 quote re-read in its snapshot, plus 브레이크뉴스 and KBS via BigKinds)."
+        ]
+      },
+      "1": {
+        "nominee": "박승주",
+        "status": "confirmed",
+        "checks": [
+          "nomination 2016-11-02 (동아일보, 세계일보, not cited before), withdrawal 2016-11-09 at 21:00 (경향신문, 국민일보). No likms request in the harvest. KBS 2016-11-09 quote '정부는 아직 국회에 총리와 박 내정자의 인사청문요청서를 국회에 제출하지 않았다' re-read in the snapshot."
+        ]
+      }
+    },
+    "per_acting": {
+      "0": {
+        "name": "이성호",
+        "status": "confirmed_with_caveat",
+        "checks": [
+          "차관 and 장관 직무대행 during the 2014-11-19..2014-12-04 vacancy (정책브리핑 2014-11-27 quote re-read in its snapshot). His own 차관 appointment date is not in the gazette corpus."
+        ]
+      }
+    },
+    "completeness": {
+      "independent_holder_list": "행정안전부 역대장관 page for 국민안전처 (tier 2) lists 박인용 alone. Not cited by the builder.",
+      "gazette": "Whitespace-insensitive grep of all 2,709 files in harvest/gazette_text (2001-01..2026-09, GAZETTE_DONE present) with roster/scripts/safety_v2_01_gazette_grep.py. One 국민안전처장관 appointment (박인용, 제18408호). The only other '국민안전처장관' hit is an aide post (장관정책보좌관, 제18429호). The other 29 of the 30 '국무위원에 임함' notices published 2014-11-17..2017-08-31 map to other offices. Result file roster/sources/safety/verify/v2_gazette_grep.json.",
+      "likms": "No 국민안전처 bill other than ZZ19138 among the 291 harvested bills. None for 박승주, and none in 2017-05-10..07-25 for this office.",
+      "news": "BigKinds queries '안전처 장관 후임' (69 hits), '국민안전처 장관 지명' 2016-11-10..2017-07-31 (58), '안전처 장관 사표' (31) and the nomination queries name only 박인용 and 박승주 as holder or nominee (name extraction over all titles and snippets).",
+      "transitions": "2017-05-10 falls inside the spell. The holdover is confirmed (매일경제 and 세계일보 2017-07-25, korea.kr 2017-05-26). No 문재인 nominee for this office. Other transitions fall outside 2014-11-19..2017-07-25.",
+      "elections": "2016-04-13 general election and 2014-06-04 local election (before the office). No resignation to run.",
+      "short_tenures": "none",
+      "renaming_mid_tenure": "none. 제22조의2 stood unchanged from 법률 제12844호 to 제14839호 (offices.json OF056).",
+      "2025_2026": "office did not exist"
+    },
+    "gazette_reread": "1 of 1 gazette-backed start re-read from a fresh item PDF (제18408호). Also re-read 제19036호 (류희인 국민안전처차관 2017.6.7.) and 제19067호 (김부겸 행정안전부장관 2017.7.26.). Result file roster/sources/safety/verify/v2_gazette_reread.json.",
+    "transcript_check": {
+      "script": "roster/scripts/safety_v2_03_transcripts.py",
+      "valid_types": [
+        "상임위원회",
+        "국정감사",
+        "인사청문특별위원회"
+      ],
+      "minister_meetings": {
+        "상임위원회": 34,
+        "국정감사": 4
+      },
+      "first": "2014-12-09",
+      "last": "2017-03-24",
+      "nominee_hearing": "2014-12-04 (meeting 44636)",
+      "contradictions": 0,
+      "excluded_rows": "2011-08-08, 2011-08-09, 2011-08-11 (국정조사) and 2012-09-10 (국회본회의)",
+      "result_file": "roster/sources/safety/verify/v2_transcript_check.json"
+    },
+    "continuity": [
+      {
+        "from": "2014-11-19",
+        "to": "2014-12-04",
+        "type": "gap",
+        "days": 16,
+        "explanation": "Office created 2014-11-19 (법률 제12844호). The first minister needed a hearing (request 2014-11-21, hearing 2014-12-04) and was appointed 2014-12-05. 차관 이성호 acted (정책브리핑 2014-11-27, 헤럴드경제 2014-11-27)."
+      },
+      {
+        "from": "2014-12-05",
+        "to": "2017-07-25",
+        "type": "covered",
+        "explanation": "One spell to the office's last day. No overlaps."
+      }
+    ],
+    "field_hygiene": "All spell and nomination fields checked, no change needed (see per_spell and per_nomination).",
+    "changes": [
+      {
+        "target": "spells[0] 박인용",
+        "field": "start_sources (append)",
+        "old": "4 sources",
+        "new": "7 sources",
+        "evidence": "Added the MOIS 역대장관 page (tier 2), 서울신문 2014-12-06 and KBS 2014-12-05, none cited by the builder. Start value unchanged."
+      },
+      {
+        "target": "spells[0] 박인용",
+        "field": "end_sources (append)",
+        "old": "10 sources",
+        "new": "14 sources",
+        "evidence": "Added the MOIS 역대장관 page (tier 2), 세계일보 and 매일경제 2017-07-25 and 중앙일보 2017-07-26 (BigKinds). End value unchanged."
+      },
+      {
+        "target": "nominations[0] 박인용",
+        "field": "sources (append)",
+        "old": "11 sources",
+        "new": "12 sources",
+        "evidence": "BigKinds 브레이크뉴스 and KBS 2014-12-05 on report adoption. Values unchanged."
+      },
+      {
+        "target": "nominations[1] 박승주",
+        "field": "sources (append)",
+        "old": "12 sources",
+        "new": "16 sources",
+        "evidence": "동아일보 and 세계일보 2016-11-02, 경향신문 and 국민일보 2016-11-09. Values unchanged."
+      },
+      {
+        "target": "acting[0] 이성호",
+        "field": "sources (append) and notes (append)",
+        "old": "7 sources",
+        "new": "10 sources, hanja 李聖浩 and successor 차관 류희인 noted",
+        "evidence": "관보 제18312호 (2014-07-23) and 제19036호 (2017-06-23), BigKinds 강원도민일보 2014-11-19 and 헤럴드경제 2014-11-27. Dates unchanged."
+      },
+      {
+        "target": "issues",
+        "field": "append",
+        "old": "6 issues",
+        "new": "8 issues",
+        "evidence": "Round-2 summary and the secondary-only birth_date caveat."
+      }
+    ],
+    "summary": {
+      "spells_in": 1,
+      "spells_out": 1,
+      "confirmed": 1,
+      "corrected": 0,
+      "disputed": 0,
+      "added": 0,
+      "removed": 0,
+      "nominations_in": 2,
+      "nominations_out": 2,
+      "date_values_changed": 0
+    }
+  }
+}

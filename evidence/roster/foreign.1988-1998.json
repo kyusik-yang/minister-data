@@ -1,0 +1,780 @@
+{
+ "lineage": "foreign",
+ "built_at": "2026-09-26T12:52:33-0400",
+ "window": {
+  "start": "1988-02-25",
+  "end": "1998-02-24",
+  "note": "Every spell with a day in office in the window. 유종하 continues to 1998-02-27 and is copied from foreign.verified.json (from_main)."
+ },
+ "ministry_names": [
+  {
+   "ministry": "외무부",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (version effective 1987-01-01, in force at window start) 제29조② '장관은 국무위원으로 보하고'. Abolished by 법률 제5529호 (전부개정, effective 1998-02-28), 외무부를 외교통상부로 개편. 국가기록원 gives 외무부 1948.07.17 ~ 1998.02.28.",
+   "source": "offices_1988.json OFA12 (GOA_3854, GOA_5529, ARCH_OG0016832)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "최광수",
+   "name_hanja": "崔侊洙",
+   "name_en": "Choi Kwang-soo",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Choi Kwang-soo 1986.08.27. - 1988.12.05.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": "1935-02-24",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1986-08-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"21대 장관 최광수(崔侊洙) 1986.08.27. - 1988.12.05.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "동아일보 1986-08-26 p.1 \"대폭改閣(개각) 10개部處長官(부처장관) 경질\" (Naver News Library article_id 1986082600209201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600209201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00020&pageNo=1&printNo=19970&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:09:34-0400, snapshot roster/sources/foreign/ext88/nl_1986082600209201004.json) quote: \"全대통령은 이날△외무장관에 崔侊洙「유엔」大使\"",
+    "매일경제 1986-08-27 p.1 \"全大統領(전대통령) 신임閣僚(각료)에 임명장\" (Naver News Library article_id 1986082700099201005, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700099201005&editNo=1&printCount=1&publishDate=1986-08-27&officeId=00009&pageNo=1&printNo=6304&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:50:19-0400, snapshot roster/sources/foreign/ext88/nl_1986082700099201005.json) quote: \"全斗煥대통령은 27일 상오청와대에서 金宗鎬내무장관등신임 각료 9명과 李相薰비상기획위원장에게 각각 임명장을 수여했다.\" quote: \"崔侊洙 신임외무장관은 귀국후 임명장을 받는다.\"",
+    "중앙일보 1986-08-27 \"신임 각료에 임명장\" (BigKinds news_id 01100901.19860827214434005, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860827214434005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:53-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19860827214434005.json) quote: \"전두환 대통령은 27일 상오 김종호 내무장관 등 9개 부처장관과 이상훈 비상기획위원장에게 임명장을 수여했다.\"",
+    "한국일보 1986-08-28 \"[政局往來]民正, 改編따른 連鎖이동 불가피로 아직 \"술렁\"\" (BigKinds news_id 01101101.19860828183358104, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860828183358104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:10:18-0400, snapshot roster/sources/foreign/ext88/bk_01101101.19860828183358104.json) quote: \"국무위원중에 외무장관으로 임명된 崔侊洙장관은 오는31일 귀국할 예정이어서 李相玉차관이\"",
+    "동아일보 1986-09-01 p.1 \"崔外務(최외무)장관에 任命狀(임명장) 全大統領(전대통령)\" (Naver News Library article_id 1986090100209201005, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986090100209201005&editNo=2&printCount=1&publishDate=1986-09-01&officeId=00020&pageNo=1&printNo=19975&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:50:17-0400, snapshot roster/sources/foreign/ext88/nl_1986090100209201005.json) quote: \"全斗煥대통령은 1일오전신임 崔侊洙외무부장관에게임명장을 수여했다.\"",
+    "중앙일보 1986-09-01 \"신임 최광수 외무에 전 대통령이 임명장\" (BigKinds news_id 01100901.19860901214337007, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860901214337007&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:25-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19860901214337007.json) quote: \"전두환 대통령은 1일 상오신임 최광수 외무장관에게 임명장을 수여했다.\"",
+    "ko.wikipedia \"대한민국의 외교부 장관\" https://ko.wikipedia.org/w/index.php?oldid=42216879 (revid 42216879, accessed 2026-09-26T09:48:51-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_list_대한민국의_외교부_장관.json) table text: \"! rowspan=\"2\"| 제21대\" table text: \"| rowspan=\"2\"| [[최광수 (공무원)|최광수]]\" table text: \"| 1986년 8월 26일\" table text: \"| 1988년 2월 24일\" [secondary]",
+    "[verifier] 조선일보 1986-08-28 p.1 \"신임閣僚(각료)에 임명장\" (Naver News Library article_id 1986082800239101018, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082800239101018&editNo=1&printCount=1&publishDate=1986-08-28&officeId=00023&pageNo=1&printNo=20124&publishType=00010, accessed 2026-09-26T10:21:35-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1986082800239101018.json) quote: \"全斗煥 대통령은 27일 오전青瓦臺에서 金宗鎬내무장관등9개부처 장관과 李相薰비상기획위원장에게임명장을 주었다.\" quote: \"崔侊洙 외무장관은 유엔서의잔무처리관계로 31일귀국한다.\"",
+    "[verifier] 동아일보 1986-08-27 p.1 \"신임閣僚(각료)에 任命狀(임명장)\" (Naver News Library article_id 1986082700209201006, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700209201006&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00020&pageNo=1&printNo=19971&publishType=00020, accessed 2026-09-26T09:41:41-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1986082700209201006.json) quote: \"全斗煥대통령은 27일오전金宗鎬내무부장관등 신임각료들에게 임명장을수여했다.\"",
+    "[verifier] 전북일보 1986-08-27 \"全대통령 새 閣僚에 임명장\" (BigKinds news_id 01601101.19860827100306107, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19860827100306107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:24:30-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01601101.19860827100306107.json) quote: \"崔侊洙 신임 외무장관은 귀국후 임명장을 받는다.\"",
+    "[verifier] 조선일보 1986-09-02 p.1 \"崔(최)외무에 임명장 수여\" (Naver News Library article_id 1986090200239101004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986090200239101004&editNo=1&printCount=1&publishDate=1986-09-02&officeId=00023&pageNo=1&printNo=20128&publishType=00010, accessed 2026-09-26T13:53:34-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1986090200239101004.json) quote: \"全斗煥대통령은 1일 오전青瓦臺에서 신임 崔侊洙외무장관에게 임명장을 주었다.\" [his own 임명장 on 1986-09-01, the known later alternative]",
+    "[verifier] 국사편찬위원회 대한민국사연표 1986-08-26 entry tcct_1986_08_26_0010 \"전두환 대통령, 외무부장관 최광수·내무부장관 김종호·체육부장관 이세기·상공부장관 나웅배·노동부장관 이헌기·교통부장관 차주헌·체신부장관 이대형·문공부장관 이웅희·과기처장관 이태섭·통일원장관 허문도 임명\" (https://db.history.go.kr/id/tcct_1986_08_26_0010, day list https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1986_08_26&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:04:54-0400, snapshot roster/sources/foreign/ext88_verify/chron_pa/hist_1986-08-26.html) [dates the 임명 to the announcement day 1986-08-26, the known earlier alternative]",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"최광수 장관 ( 1986.08.27 ~ 1988.12.05 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19880225005009001.json) quote: \"이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다.\"",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article_id 1988022500099201010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:05:34-0400, snapshot roster/sources/foreign/ext88/nl_1988022500099201010.json) quote: \"이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다.\"",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article_id 1988022600239101004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T08:49:40-0400, snapshot roster/sources/foreign/ext88/nl_1988022600239101004.json) quote: \"한편 金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다.\"",
+    "ko.wikipedia \"대한민국의 외교부 장관\" https://ko.wikipedia.org/w/index.php?oldid=42216879 (revid 42216879, accessed 2026-09-26T09:48:51-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_list_대한민국의_외교부_장관.json) table text: \"| rowspan=\"2\"| [[최광수 (공무원)|최광수]]\" table text: \"| 1988년 2월 24일\" [secondary]",
+    "[verifier] 동아일보 1988-02-24 p.1 \"國務委員(국무위원) 일괄사표\" (Naver News Library article_id 1988022400209201012, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T09:09:55-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022400209201012.json) quote: \"이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다.\"",
+    "[verifier] 조선일보 1988-02-25 p.1 \"国務委員(국무위원) 일괄 사표 全(전)대통령 閣議(각의)주재\" (Naver News Library article_id 1988022500239101011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239101011&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=1&printNo=20581&publishType=00010, accessed 2026-09-26T09:27:05-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022500239101011.json) quote: \"이날 국무회의에서 金貞烈국무총리를비롯,국무위원전원은 일괄사표를 제출했으며,이들의 사표는 25일 오전盧泰愚신임대통령에게전달된다.\"",
+    "[verifier] 조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\" (Naver News Library article_id 1988022600239103011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239103011&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=3&printNo=20582&publishType=00010, accessed 2026-09-26T09:05:29-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022600239103011.json) quote: \"25일오전 靑瓦臺에서 있은 신임국무위원 24명과 대통령首席비서관들에 대한 임명장수여식에서\""
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "Appointed by 전두환 in the 8·26 개각 while 주유엔대사 (named 1986-08-26, 동아일보 1986-08-26). The other nine new ministers received their 임명장 on 1986-08-27, the date the 외교부 page gives as his start. He was still in New York, 차관 李相玉 stood in for him at the 1986-08-27 국무회의 (한국일보 1986-08-28), and he received his own 임명장 on 1986-09-01 after returning on 08-31. Start follows the batch date on the ministry page, hence medium confidence. ko.wikipedia gives 1986-08-26. The spell ends on 1988-02-25 because the collective resignation of the 제5공화국 cabinet was accepted on the morning of 1988-02-25, and 노태우 then reappointed him the same day (next spell). end_reason 'resigned' records that formal acceptance, as finance.ext88.json (사공일), justice.ext88.json (정해창) and interior.ext88.json (이상희) code the same event. It is not a departure, since the two spells are one continuous stay in office. He held office on 1988-02-25 under this appointment until the acceptance, which puts this spell in the window. The 외교부 page lists 최광수 as a single 21대 entry 1986.08.27 - 1988.12.05, while ko.wikipedia splits the same 대수 into 1986-08-26..1988-02-24 and 1988-02-25..1988-12-05. Birth date from ko.wikipedia only (ko.wikipedia \"최광수 (공무원)\" https://ko.wikipedia.org/w/index.php?oldid=41920779 (revid 41920779, accessed 2026-09-26T09:49:04-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_최광수_(공무원).json) lead: '崔侊洙, 1935년 2월 24일' [secondary]). Not a member of the 12th-22nd National Assembly (na_members/na_members_12_22.csv has no 崔侊洙)."
+  },
+  {
+   "name": "최광수",
+   "name_hanja": "崔侊洙",
+   "name_en": "Choi Kwang-soo",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Choi Kwang-soo 1986.08.27. - 1988.12.05.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": "1935-02-24",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article_id 1988021900209201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:04:13-0400, snapshot roster/sources/foreign/ext88/nl_1988021900209201003.json) quote: \"이번 새내각에는 외무 崔侊洙 내무 李相熙 재무 司空壹 법무 丁海昌 체육 曺相鎬건설 崔同燮 체신 吳明장관등 7개부처장관이 재기용됐으며\"",
+    "경향신문 1988-02-19 p.1 \"새政府(정부) 內閣(내각)명단 발표\" (Naver News Library article_id 1988021900329201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004&editNo=3&printCount=1&publishDate=1988-02-19&officeId=00032&pageNo=1&printNo=13044&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:04:12-0400, snapshot roster/sources/foreign/ext88/nl_1988021900329201004.json) quote: \"盧차기대통령은 그러나 崔侊洙외무 李相熙내무 司空壹재무 丁海昌법무 曺相鎬체육崔同燮건설 吳明체신부장관등 7명을 재기용했으며\"",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:04:24-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19880219004312001.json) quote: \"노 당선자는 이날 오전 24개 부처장관 중 정무 제1장관을 제외한 23개 부처장 관내정자를 발표했는데\" quote: \"현 내각에서 최광수 외무, 이상희 내무, 사공일 재무, 정해창 법무, 서상호 체육, 최동섭 건설, 오명 체신장관 등 7명을 재기용했으며\"",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19880225005009001.json) quote: \"노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다.\"",
+    "한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\" (BigKinds news_id 02100601.19880226193114109, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:16-0400, snapshot roster/sources/foreign/ext88/bk_02100601.19880226193114109.json) quote: \"李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작\"",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article_id 1988022600239101004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T08:49:40-0400, snapshot roster/sources/foreign/ext88/nl_1988022600239101004.json) quote: \"盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여,제6공화국 정부를 공식 출범시켰다.\"",
+    "경향신문 1988-02-26 p.4 \"\"閣下(각하)\"없애고 本人(본인) 대신\"제가…\"\" (Naver News Library article_id 1988022600329204002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329204002&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=4&printNo=13050&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:05:44-0400, snapshot roster/sources/foreign/ext88/nl_1988022600329204002.json) quote: \"상오11시40분 청와대 본관대접견실에서 있은 신임각료및 수석비서관임명장 수여식에서\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1988), row 1988-02-25 \"신임 각료와 수석비서관에게 임명장 수여\" / \"국무총리 이현재, 대통령 비서실장 홍성철 임명\" (accessed 2026-09-26T08:49:52-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1988_0.html)",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"\" (Naver News Library article_id 1993022400099202004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:13:01-0400, snapshot roster/sources/foreign/ext88/nl_1993022400099202004.json) quote: \"만약 유임 되면 임명장만다시 받는다.\" [총무처 official's statement of the practice, 1993]",
+    "ko.wikipedia \"대한민국의 외교부 장관\" https://ko.wikipedia.org/w/index.php?oldid=42216879 (revid 42216879, accessed 2026-09-26T09:48:51-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_list_대한민국의_외교부_장관.json) table text: \"| rowspan=\"2\"| [[최광수 (공무원)|최광수]]\" table text: \"| 1988년 2월 25일\" table text: \"| 1988년 12월 5일\" [secondary]",
+    "[verifier] 조선일보 1988-02-20 p.1 \"새政府(정부) 첫內閣(내각) 발표 就任(취임)직후 대규모 후속人事(인사)\" (Naver News Library article_id 1988022000239101024, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022000239101024&editNo=1&printCount=1&publishDate=1988-02-20&officeId=00023&pageNo=1&printNo=20577&publishType=00010, accessed 2026-09-26T09:07:02-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022000239101024.json) quote: \"새內閣에는 24개부처중 외무의 崔侊洙,내무 李相熙,재무 司空壹,체육 曺相鎬,건설 崔同燮,체신 吳明장관등 7개부처장관이 再기용됐고\"",
+    "[verifier] 매일경제 1988-02-20 p.2 \"\"언론들 칭찬에 짠것같다\"\" (Naver News Library article_id 1988022000099202011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022000099202011&editNo=1&printCount=1&publishDate=1988-02-20&officeId=00009&pageNo=2&printNo=6758&publishType=00020, accessed 2026-09-26T21:30:48-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022000099202011.json) quote: \"19일 귀국한 崔侊洙외무부장관으로부터 재기용에 대한 인사를 받은뒤\"",
+    "[verifier] 한국일보 1988-02-20 \"새內閣명단 발표하던 날\" (BigKinds news_id 01101101.19880220092406105, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880220092406105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:57:11-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01101101.19880220092406105.json) quote: \"『새 대통령이 취임하면 각료 임명권자가 바뀌기 때문에 留任이 아니라 재기용이 적합하다』\"",
+    "[verifier] 중앙일보 1988-02-20 \"새 각료에 25일 임명장\" (BigKinds news_id 01100901.19880220004436002, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880220004436002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:56:43-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100901.19880220004436002.json) quote: \"노태우 대통령당선자는 6공화국 각료 내정자들에 대한 임명장수여를 25일 오전 취임직 후 청와대에서 하기로 했다.\"",
+    "[verifier] 서울신문 1988-02-26 \"新任각료에 임명장 하오 慶祝宴會 참석\" (BigKinds news_id 01100611.19880226163135001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163135001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:28-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100611.19880226163135001.json) quote: \"李賢宰신임국무 총리와 신임국무위원, 그리고 洪性澈대통령비서실장과 수석비서관들에게 각각 임명장을 수여한뒤\"",
+    "[verifier] 조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\" (Naver News Library article_id 1988022600239103011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239103011&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=3&printNo=20582&publishType=00010, accessed 2026-09-26T09:05:29-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988022600239103011.json) quote: \"25일오전 靑瓦臺에서 있은 신임국무위원 24명과 대통령首席비서관들에 대한 임명장수여식에서\""
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"21대 장관 최광수(崔侊洙) 1986.08.27. - 1988.12.05.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "동아일보 1988-12-06 p.2 \"\"KAL폭파사건때곤혹\"\" (Naver News Library article_id 1988120600209202009, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600209202009&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00020&pageNo=2&printNo=20673&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:30:48-0400, snapshot roster/sources/foreign/ext88/nl_1988120600209202009.json) quote: \"「12.5改閣」으로 퇴임하는 崔侊洙전외무장관은 5일 오후 기자실에 들러\"",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article_id 1988120500329201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:22:02-0400, snapshot roster/sources/foreign/ext88/nl_1988120500329201003.json) quote: \"이에 앞서 李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며\"",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article_id 1988120500209201032, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:21:56-0400, snapshot roster/sources/foreign/ext88/nl_1988120500209201032.json) quote: \"盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다.\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1988), row 1988-12-05 \"총리에 강영훈 임명 등 전면개각\" / \"제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각\" (accessed 2026-09-26T08:49:52-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1988_0.html)",
+    "[verifier] 한국일보 1988-12-06 \"總理에 姜英勳씨\" (BigKinds news_id 01101101.19881206102906101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:09-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01101101.19881206102906101.json) quote: \"이에 앞서 李賢宰 국무총리는 이날 상오 8시 임시국무회의를 소집, 전 국무위원의 일괄사표를 받아 盧대통령에게 제출했다.\"",
+    "[verifier] 조선일보 1988-12-06 p.14 \"\"산적한 현안…과감한 추진 기대\" 새長官(장관)맞는 각部処(부처) 이모저모\" (Naver News Library article_id 1988120600239114006, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=14&printNo=20825&publishType=00010, accessed 2026-09-26T09:47:57-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600239114006.json) quote: \"외무부는 崔侊洙 전임장관이 5共후반이래 2년3개월간 재임해온 탓인지 담담한 표정으로 이번 개각을받아들이면서 신임 崔浩中장관의 부임을 기대하는모습.\"",
+    "[verifier] 한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article_id 1988120600289101006, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600289101006.json) quote: \"노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서\"",
+    "[verifier] 조선일보 1988-12-06 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article_id 1988120600239101029, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600239101029.json) quote: \"한편 盧대통령은 이날낮신임총리서리,오후에는 신임각료들에게 청와대에서 임명장을 수여했다.\"",
+    "[verifier] 중앙일보 1988-12-05 \"내각 일괄사표 제출 어제 오후 총리실에 지시\" (BigKinds news_id 01100901.19881205054942001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054942001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:58:27-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100901.19881205054942001.json) quote: \"5일 아침 일괄사표 제출을 위해 정부종합청사에서 열린 임시국무 회의는 30여분 동안 진행.\"",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"최광수 장관 ( 1986.08.27 ~ 1988.12.05 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "Reappointment by 노태우 on inauguration day. 최광수 was one of seven sitting ministers the President-elect announced as 재기용 on 1988-02-19. On 1988-02-25 the 제5공화국 cabinet's collective resignation was accepted in the morning and the PM 서리 and the 23 ministers of the announced list, the seven retained ones included, received 임명장 at 11:40 (경향신문 1988-02-26 p.4). No source names 최광수 individually at the ceremony. The reading that the retained ministers were newly appointed rests on the accepted resignations, the count of 23, and the practice stated by a 총무처 official in 1993 (매일경제 1993-02-24: '만약 유임 되면 임명장만다시 받는다.'). The 법무부 page numbers the retained 정해창 as '36,37대' for the same event (법무부 역대 장관 page https://www.moj.go.kr/minister/2090/subview.do?page=5: \"대순 36,37대 성명 정해창 (丁 海 昌) 재임기간 1987.05.26 ~ 1988.12.04\" (accessed 2026-09-24T22:37:07-0400, snapshot roster/sources/foreign/ext88/moj_pastministers_p5.html)). Replaced in the 12·5 개각. The 이현재 cabinet submitted a collective resignation on the morning of 1988-12-05 and the new ministers received 임명장 that afternoon. Same-day handover. He said goodbye to the press on the afternoon of 12-05. Birth date from ko.wikipedia only."
+  },
+  {
+   "name": "최호중",
+   "name_hanja": "崔浩中",
+   "name_en": "Choi Ho-joong",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Choi Ho-joong 1988.12.05. - 1990.12.27.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": "1930-09-22",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "medium",
+   "start_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"22대 장관 최호중(崔浩中) 1988.12.05. - 1990.12.27.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article_id 1988120500329201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:22:02-0400, snapshot roster/sources/foreign/ext88/nl_1988120500329201003.json) quote: \"새로 임명된 장관은▲외무崔浩中 駐사우디대사\"",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article_id 1988120500209201032, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:21:56-0400, snapshot roster/sources/foreign/ext88/nl_1988120500209201032.json) quote: \"盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다.\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1988), row 1988-12-05 \"총리에 강영훈 임명 등 전면개각\" / \"제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각\" (accessed 2026-09-26T08:49:52-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1988_0.html)",
+    "한겨레 1988-12-11 p.1 \"신임 최호중 외무장관 귀국\" (Naver News Library article_id 1988121100289101013, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988121100289101013&editNo=2&printCount=1&publishDate=1988-12-11&officeId=00028&pageNo=1&printNo=182&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:09-0400, snapshot roster/sources/foreign/ext88/nl_1988121100289101013.json) quote: \"최호중 신임 외무장관이 전임지인 사우디아라비아를 떠나 10일 오후 서울에 도착했다.\"",
+    "서울신문 1988-12-13 \"신임 崔외무에 任命狀\" (BigKinds news_id 01100611.19881213161153002, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881213161153002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:04-0400, snapshot roster/sources/foreign/ext88/bk_01100611.19881213161153002.json) quote: \"盧泰愚대통령은 12일 상오 靑瓦臺에서 신임 崔浩中외무장관에게 임명장을 수여했다.\"",
+    "동아일보 1988-12-12 p.2 \"崔浩中(최호중)외무 취임\" (Naver News Library article_id 1988121200209202016, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988121200209202016&editNo=2&printCount=1&publishDate=1988-12-12&officeId=00020&pageNo=2&printNo=20678&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:30:58-0400, snapshot roster/sources/foreign/ext88/nl_1988121200209202016.json) quote: \"崔浩中신임외무부장관은12일 취임식을 갖고\"",
+    "ko.wikipedia \"최호중 (외교관)\" https://ko.wikipedia.org/w/index.php?oldid=41883134 (revid 41883134, accessed 2026-09-26T09:38:28-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_최호중_(외교관).json) infobox 외무부 장관 '임기 = 1988년 12월 5일~1990년 12월 27일' [secondary]",
+    "[verifier] 조선일보 1988-12-06 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article_id 1988120600239101029, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600239101029.json) quote: \"외무장관에는 崔浩中駐사우디대사가,내무장관에는 李漢東민정당정책위의장이,법무장관에는 許亨九전검찰총장이,국방장관에는 李相薰국가안보회의 비상기획 위원장이 각각 임명됐다.\"",
+    "[verifier] 한겨레 1988-12-06 p.1 \"내각 전면적 개편\" (Naver News Library article_id 1988120600289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:44:44-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600289101001.json) quote: \"새로 임명된 각료는 부총리 겸경제기획원 장관에 조순 서울대교수, 외무 최호중 주사우디대사\"",
+    "[verifier] 한국일보 1988-12-06 \"總理에 姜英勳씨\" (BigKinds news_id 01101101.19881206102906101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:09-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01101101.19881206102906101.json) quote: \"▲외무장관 崔浩中 駐사우디아라비아대사\"",
+    "[verifier] 조선일보 1988-12-05 p.1 \"총리 姜英勳(강영훈)·부총리 趙淳(조순)씨\" (Naver News Library article_id 1988120500230101033, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500230101033&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00023&pageNo=1&printNo=1&publishType=00030, accessed 2026-09-26T09:32:21-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120500230101033.json) quote: \"▲외무장관 崔浩中 駐사우디대사\"",
+    "[verifier] 조선일보 1988-12-06 p.14 \"\"산적한 현안…과감한 추진 기대\" 새長官(장관)맞는 각部処(부처) 이모저모\" (Naver News Library article_id 1988120600239114006, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=14&printNo=20825&publishType=00010, accessed 2026-09-26T09:47:57-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1988120600239114006.json) quote: \"신임 崔장관은 사우디 현지업무정리를 마친뒤 며칠후에 부임할 예정이어서\" [abroad on the appointment day, own 임명장 1988-12-12 per the builder's sources]",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"최호중 장관 ( 1988.12.05 ~ 1990.12.27 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end": "1990-12-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"22대 장관 최호중(崔浩中) 1988.12.05. - 1990.12.27.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:08:13-0400, snapshot roster/sources/foreign/ext88/nl_1990122700099201001.json) quote: \"부총리로격상된 국토통일원장관에崔浩中외무장관을 임명하고 외무장관에 李相玉駐제네바대사\" quote: \"한편 盧대통령은 이날하오 신임각료및 청와대비서진들에게 임명장을 수여하고 임시국무회의를 주재했다.\"",
+    "부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (BigKinds news_id 01500701.19901227201600101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201600101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:17-0400, snapshot roster/sources/foreign/ext88/bk_01500701.19901227201600101.json) quote: \"새해부터 부총리를 겸임하게 되는 통일원장관에 崔浩中외무장관을 임명하고\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1990), row 1990-12-27 \"국무총리 임명\" / \"국무총리 노재봉, 통일원장관 최호중 등 임명\" (accessed 2026-09-26T09:04:39-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1990_0.html)",
+    "[verifier] 동아일보 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122700209201001.json) quote: \"盧대통령은 이날 부총리급으로 격상된 통일원장관에崔浩中외무부장관을,외무부장관에 李相玉駐제네바대사를\"",
+    "[verifier] 경향신문 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700329201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329201001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=1&printNo=13927&publishType=00020, accessed 2026-09-26T09:08:01-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122700329201001.json) quote: \"이번개각에서 부총리급으로격상된 통일원장관에는 崔浩中외무장관이 기용됐으며\"",
+    "[verifier] 한겨레 1990-12-28 p.1 \"새 총리 노재봉씨\" (Naver News Library article_id 1990122800289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122800289101001.json) quote: \"노 대통령은 이날 정부조직법개정에 따라 부총리급으로 격상된 통일원장관에 최호중 외무부장관을, 외무부장관에 이상옥 주제네바 대사를 임명하고\"",
+    "[verifier] 조선일보 1990-12-28 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122800239101002, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=1&printNo=21500&publishType=00010, accessed 2026-09-26T09:08:04-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122800239101002.json) quote: \"盧대통령은 이날 오후 신임盧총리서리를 비롯,새 각료들에게 임명장을 수여했으며\"",
+    "[verifier] 국사편찬위원회 대한민국사연표 1990-12-27 entry tcct_1990_12_27_0010 \"노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명\" (https://db.history.go.kr/id/tcct_1990_12_27_0010, day list https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1990_12_27&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:04:58-0400, snapshot roster/sources/foreign/ext88_verify/chron_pa/hist_1990-12-27.html)",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"최호중 장관 ( 1988.12.05 ~ 1990.12.27 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end_reason": "other",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "Named 외무부장관 in the 12·5 개각 while 주사우디대사. The ministry page and the day's reports date the appointment 1988-12-05, the day the other new ministers received their 임명장. He returned on 1988-12-10 and received his own 임명장 and held his 취임식 on 1988-12-12. Start follows the batch date on the ministry page, hence medium confidence. Retained in the 1990-03-17 개각 (조선일보 1990-03-18, see continuity). Left on 1990-12-27 to become 통일원장관, raised to 부총리 rank (end_reason 'other' = moved to another cabinet post), with the 임명장 given on the afternoon of 12-27. Birth date from ko.wikipedia (ko.wikipedia \"최호중 (외교관)\" https://ko.wikipedia.org/w/index.php?oldid=41883134 (revid 41883134, accessed 2026-09-26T09:38:28-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_최호중_(외교관).json) lead: '崔浩中, 1930년 9월 22일' [secondary]) and Wikidata Q19349777 (both secondary)."
+  },
+  {
+   "name": "이상옥",
+   "name_hanja": "李相玉",
+   "name_en": "Lee Sang-ock",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Lee Sang-ock 1990.12.27. - 1993.02.26.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1990-12-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"23대 장관 이상옥(李相玉) 1990.12.27. - 1993.02.26.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:08:13-0400, snapshot roster/sources/foreign/ext88/nl_1990122700099201001.json) quote: \"부총리로격상된 국토통일원장관에崔浩中외무장관을 임명하고 외무장관에 李相玉駐제네바대사\" quote: \"상공부장관에李鳳瑞前동자부장관을 각각 임명·발령했다.\"",
+    "부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (BigKinds news_id 01500701.19901227201600101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201600101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:17-0400, snapshot roster/sources/foreign/ext88/bk_01500701.19901227201600101.json) quote: \"외무장관에는 李相玉駐제네바대사\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1990), row 1990-12-27 \"국무총리 임명\" / \"국무총리 노재봉, 통일원장관 최호중 등 임명\" (accessed 2026-09-26T09:04:39-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1990_0.html)",
+    "한국일보 1991-01-01 \"신임 이 외무에 임명장/노대통령\" (BigKinds news_id 01101101.19910101000000210, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19910101000000210&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:35-0400, snapshot roster/sources/foreign/ext88/bk_01101101.19910101000000210.json) quote: \"노태우 대통령은 31일 이상옥 신임 외무부 장관에게 임명장을 수여했다.\"",
+    "한겨레 1991-01-01 \"북방외교 내실있게/이상옥외무 취임사\" (BigKinds news_id 01101001.19910101000000106, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19910101000000106&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:43-0400, snapshot roster/sources/foreign/ext88/bk_01101001.19910101000000106.json) quote: \"이 장관은 이날 취임식에서\"",
+    "[verifier] 경향신문 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700329201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329201001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=1&printNo=13927&publishType=00020, accessed 2026-09-26T09:08:01-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122700329201001.json) quote: \"▲외무 李相玉駐제네바대사\" quote: \"盧대통령은 또 서울특별시장에 朴世直 전올림픽조직위원장,그리고 비상기획위원장에 鄭鎭泰 전韓美연합사부사령관(예비역대장)을 임명,발령했다.\"",
+    "[verifier] 동아일보 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122700209201001.json) quote: \"盧대통령은 이날 부총리급으로 격상된 통일원장관에崔浩中외무부장관을,외무부장관에 李相玉駐제네바대사를\"",
+    "[verifier] 한겨레 1990-12-28 p.1 \"새 총리 노재봉씨\" (Naver News Library article_id 1990122800289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122800289101001.json) quote: \"노 대통령은 이날 정부조직법개정에 따라 부총리급으로 격상된 통일원장관에 최호중 외무부장관을, 외무부장관에 이상옥 주제네바 대사를 임명하고\"",
+    "[verifier] 경향신문 1990-12-27 p.2 \"「紙上(지상)발령」에 앞당겨 斷行(단행)\" (Naver News Library article_id 1990122700329202001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329202001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=2&printNo=13927&publishType=00020, accessed 2026-09-26T09:31:06-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1990122700329202001.json) quote: \"외무부는 李相玉대사가 신임장관으로 기용된데 대해\"",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"이상옥 장관 ( 1990.12.27 ~ 1993.02.26 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "중앙일보 1993-02-25 \"내일 조각발표\" (BigKinds news_id 01100901.19930225151908002, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19930225151908002.json) quote: \"현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.\"",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article_id 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:12:13-0400, snapshot roster/sources/foreign/ext88/nl_1993022600209201001.json) quote: \"金대통령은 이날 새내각의 전국무위원과 안기부장서울시장 平統사무총장등모두 27명의 새정부진용을임명,발령했다.\" [successor appointed on 1993-02-26]",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"23대 장관 이상옥(李相玉) 1990.12.27. - 1993.02.26.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"\" (Naver News Library article_id 1993022400099202004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:13:01-0400, snapshot roster/sources/foreign/ext88/nl_1993022400099202004.json) quote: \"따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.\" [expectation stated on 1993-02-24, before the event]",
+    "동아일보 1993-02-26 p.3 \"\"適任(적임)\"…\"意外(의외)\"…환영과 우려\" (Naver News Library article_id 1993022600209203001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=3&printNo=22097&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:36:12-0400, snapshot roster/sources/foreign/ext88/nl_1993022600209203001.json) quote: \"26일 崔珏圭부총리의 이임식에 참석할 준비를 하던 기획원 관계자들은\" [outgoing ministers still holding 이임식 on 1993-02-26, contrary indication]",
+    "[verifier] 조선일보 1993-02-24 p.3 \"法(법)으론 0시 離(이)-就任(취임)…선서는 10시 「두 大統領(대통령)」10시간\" (Naver News Library article_id 1993022400239103001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400239103001&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00023&pageNo=3&printNo=22267&publishType=00010, accessed 2026-09-26T13:21:15-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022400239103001.json) quote: \"6共의 국무총리와 각료들은 신임 국무총리와 각료들이 정식임명되는 시점까지 직책을계속 수행한다는 설명이다.\" quote: \"25일0시부터 金泳三신임대통령의 내각이 정식으로 발족하는 26일오전까지\"",
+    "[verifier] 서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\" (BigKinds news_id 01100611.20160421220544125, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220544125&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:05-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100611.20160421220544125.json) quote: \"한편 이날 퇴임한 백광현장관은 이임식을 마친뒤 기자들에게\" [이날 = 1993-02-26, the day of the cabinet announcement, 내무부장관 of the same outgoing cabinet]",
+    "[verifier] 한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library article_id 1993022600289106003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:32:04-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022600289106003.json) quote: \"26일 일제히 퇴임하는 경제부처 장관들은\"",
+    "[verifier] 서울경제 1993-02-27 \"\"환영\" \"당혹\" 교차속 「스타일점치기」 분주\" (BigKinds news_id 02100311.19930227162756004, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19930227162756004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:24:40-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_02100311.19930227162756004.json) quote: \"崔珏圭부총리겸 경제기획원장관은 26일 상오 새 정부의 組閣발표가 난 직후 이임식을 갖고 공직생활을 마감.\"",
+    "[verifier] 국민일보 1993-02-27 \"마지막 장관/정진영 경제부(현장기자)\" (BigKinds news_id 01100201.19930227000000705, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000705&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:30-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100201.19930227000000705.json) quote: \"이날 이임식은 비슷한 시각 다른 곳에서 열린 여타 정부부처의 이임식과는 판이한 의미를 지녔기 때문이었다.\"",
+    "[verifier] 헤럴드경제 1993-02-25 \"국가발전 礎石… “홀가분”\" (BigKinds news_id 02100701.19930225160631003, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100701.19930225160631003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:03:56-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_02100701.19930225160631003.json) quote: \"따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 그만인 입장.\"",
+    "[verifier] 조선일보 1993-02-25 p.4 \"특1급대사 마지막 인사\" (Naver News Library article_id 1993022500239104005, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022500239104005&editNo=1&printCount=1&publishDate=1993-02-25&officeId=00023&pageNo=4&printNo=22268&publishType=00010, accessed 2026-09-26T09:56:43-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022500239104005.json) quote: \"李相玉외무장관은24일,李丙琪대통령 외교안보 수석을 특1급 대사로 발령하는등 재임중 마지막 人事를 단행.\" [still acting as minister on 1993-02-24]",
+    "[verifier] 국민일보 1993-02-26 \"부총리 이경식(경제)·한완상(통일)씨/김 대통령 조각발표\" (BigKinds news_id 01100201.19930226000000101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930226000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:34-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100201.19930226000000101.json) quote: \"김대통령은 26일 오후 신임각료등 이날 인선발표자들에게 임명장을 수여했으며\" [successor appointed 1993-02-26]",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"이상옥 장관 ( 1990.12.27 ~ 1993.02.26 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "Named in the 12·27 개각 while 주제네바대사. The ministry page and the day's reports give 1990-12-27, the day the new ministers were 임명·발령 and the others received 임명장. His own 임명장 and 취임식 were on 1990-12-31. Start follows the ministry page, hence medium confidence. Retained at the 1991-05 and 1992-10-09 reshuffles (see continuity). Last day set to 1993-02-25. 중앙일보 of 1993-02-25 reports that the outgoing 현승종 cabinet resigned that day and that all resignations were accepted, and the 김영삼 cabinet was appointed on 1993-02-26. This is a single report. The ministry page, ko.wikipedia and Wikidata give 1993-02-26 (the page prints the successor's start as every end date), 매일경제 of 1993-02-24 had reported the 총무처 view that no resignation was needed, and 동아일보 1993-02-26 p.3 reports the outgoing 부총리 최각규 holding his 이임식 on the morning of 02-26. Hence medium confidence (see issues). Birth date not established. Wikidata Q117327463 has the year 1934 only, and there is no ko.wikipedia article. The 13th-Assembly member 이상옥 (李相玉, born 1950-03-22, 평화민주당, na_members_12_22.csv) is a different person, so mp_hint is null. Age 57 in 세계일보 1992-10-10. Verifier note of 2026-09-26. The last day was changed from 1993-02-25 to 1993-02-26. 조선일보 1993-02-24 p.3 reports the government's explanation that the 6共 PM and ministers stay in office until their successors are formally appointed, and the new cabinet was appointed on 1993-02-26 with the 임명장 that afternoon. Outgoing ministers of the same cabinet came to work and held their 이임식 on 1993-02-26 (서울신문, 서울경제, 국민일보 and 한겨레, stories the builder did not cite), and the 외교부 page gives 1993.02.26. The single contrary report is 중앙일보 1993-02-25 ('25일 일괄사표를 제출,전원 수리됐다'), kept in end_sources. The handover to 한승주 is now same-day, as at the other handovers of this file and in the other ext88 lineages for this transition."
+  },
+  {
+   "name": "한승주",
+   "name_hanja": "韓昇洲",
+   "name_en": "Han Sung-joo",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Han Sung-joo 1993.02.26. - 1994.12.24.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": "1940-09-13",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"24대 장관 한승주(韓昇洲) 1993.02.26. - 1994.12.24.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article_id 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:12:13-0400, snapshot roster/sources/foreign/ext88/nl_1993022600209201001.json) quote: \"金대통령은 외무부장관에 韓昇洲고려대교수\" quote: \"金대통령은 이날 새내각의 전국무위원과 안기부장서울시장 平統사무총장등모두 27명의 새정부진용을임명,발령했다.\"",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article_id 1993022700239101006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:29:49-0400, snapshot roster/sources/foreign/ext88/nl_1993022700239101006.json) quote: \"金泳三대통령이 26일 오후 청와대 본관 앞에서 이날 임명장을 받은 신임 국무위원들과 밝게웃으며 기념촬영을 하고있다.\" quote: \"⑤韓昇洲외무\"",
+    "중앙일보 1993-02-27 \"“한일 관계개선 중점”/한승주외무 신임회견\" (BigKinds news_id 01100901.19930227152604002, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930227152604002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:59-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19930227152604002.json) quote: \"한 장관은 이날 취임직후 기자들을 만나\"",
+    "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=김영삼, year=1993), row 1993-02-26 \"각 부 장관 등 새정부 발표\" / \"국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표\" (accessed 2026-09-26T08:49:55-0400, snapshot roster/sources/foreign/ext88/pa_schedule_김영삼_1993_0.html)",
+    "[verifier] 국민일보 1993-02-26 \"부총리 이경식(경제)·한완상(통일)씨/김 대통령 조각발표\" (BigKinds news_id 01100201.19930226000000101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930226000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:34-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100201.19930226000000101.json) quote: \"또 외무장관에는 한승주고려대교수\" quote: \"김대통령은 26일 오후 신임각료등 이날 인선발표자들에게 임명장을 수여했으며\"",
+    "[verifier] 세계일보 1993-02-27 \"부총리 이경식(기획원) 한완상씨(통일원)\" (BigKinds news_id 01100701.19930227000000101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:04-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100701.19930227000000101.json) quote: \"김대통령은 외무장관에 한승주고려대교수,내무장관에 이해구민자당의원,재무장관에 홍재형한국외환은행장,법무장관에 박희태 민자당의원,국방장관에 권영해국방차관을 각각 임명했다.\"",
+    "[verifier] 경향신문 1993-02-28 p.4 \"「외교·안보」이끌 교수4人幇(인방)\" (Naver News Library article_id 1993022800329104008, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022800329104008&editNo=15&printCount=1&publishDate=1993-02-28&officeId=00032&pageNo=4&printNo=14686&publishType=00010, accessed 2026-09-26T21:31:34-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022800329104008.json) quote: \"26일 임명된 韓完相부총리겸 통일원장관,韓昇洲외무장관,金悳안기부장\"",
+    "[verifier] 경향신문 1993-02-27 p.4 \"주요閣僚(각료) 취임의 辯(변) \"物價(물가)잡고 경제활성화 급선무\" 李(이)부총리\" (Naver News Library article_id 1993022700329104007, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329104007&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=4&printNo=14685&publishType=00010, accessed 2026-09-26T09:45:23-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022700329104007.json) quote: \"韓昇洲신임외무부장관은이같이 취임 첫소감을 밝히고\"",
+    "[verifier] 국사편찬위원회 대한민국사연표 1993-02-26 entry tcct_1993_02_26_0010 \"김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표\" (https://db.history.go.kr/id/tcct_1993_02_26_0010, day list https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1993_02_26&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:05:03-0400, snapshot roster/sources/foreign/ext88_verify/chron_pa/hist_1993-02-26.html)",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"한승주 장관 ( 1993.02.26 ~ 1994.12.24 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end": "1994-12-24",
+   "end_confidence": "high",
+   "end_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"24대 장관 한승주(韓昇洲) 1993.02.26. - 1994.12.24.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "조선일보 1994-12-25 p.4 \"◇이임 韓前(한전)외무\" (Naver News Library article_id 1994122500239104009, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104009&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:31-0400, snapshot roster/sources/foreign/ext88/nl_1994122500239104009.json) quote: \"韓昇洲전외무장관이 24일오전 광화문정부제1종합청사에서 이임식을 마친뒤직원들의 박수를 받으며 청사를 떠나고 있다.\"",
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article_id 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/foreign/ext88/nl_1994122400209101001.json) quote: \"이날 새롭게 기용된 장관은△외무 孔魯明駐日대사\" quote: \"金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며\"",
+    "조선일보 1994-12-25 p.4 \"개각후 첫각의\"최대권한-무한책임\"강조 金(김)대통령\" (Naver News Library article_id 1994122500239104001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:22-0400, snapshot roster/sources/foreign/ext88/nl_1994122500239104001.json) quote: \"金泳三대통령은 24일 오전 청와대에서 주재한 국무회의에서\"",
+    "[verifier] 경향신문 1994-12-25 p.5 \"떠나는 韓前(한전)외무\" (Naver News Library article_id 1994122500329105003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329105003&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=5&printNo=15293&publishType=00010, accessed 2026-09-26T14:08:06-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1994122500329105003.json) quote: \"韓昇洲 전외무장관이 24일 오전 이임식을 마친뒤 간부들과 악수를 나누고 있다.\"",
+    "[verifier] 서울신문 1994-12-25 \"장관 스타일·진용개편 “촉각”/새장관 첫출근… 각부처 표정\" (BigKinds news_id 01100611.20160422183322302, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183322302&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:58:39-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100611.20160422183322302.json) quote: \"한편 한승주 전장관은 24일 상오 종합청사 19층 대회의실에서 이임식을 갖고\"",
+    "[verifier] 조선일보 1994-12-25 p.4 \"물러난 각료들은 어디로\" (Naver News Library article_id 1994122500239104006, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104006&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, accessed 2026-09-26T10:05:39-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1994122500239104006.json) quote: \"그는 24일 이임식에서\"",
+    "[verifier] 한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\" (Naver News Library article_id 1994122400289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400289101001&editNo=5&printCount=1&publishDate=1994-12-24&officeId=00028&pageNo=1&printNo=2103&publishType=00010, accessed 2026-09-26T10:26:30-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1994122400289101001.json) quote: \"이날 개각 발표에 앞서 이홍구총리 주재로 열린 임시국무회의에서 이 총리를 뺀 모든 각료들은 일괄사표를 제출했다.\"",
+    "[verifier] 국제신문 1994-12-24 \"世界化·지방화 본격추진 金대통령 새閣僚임명 南北화해 협력·經濟안정 당부\" (BigKinds news_id 01500401.19941224121037104, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19941224121037104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:14:51-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01500401.19941224121037104.json) quote: \"金대통령은 이날 오전 청와대에서 洪在馨재경부총리 金悳통일부총리를 비롯한신임각료와 청와대수석비서관들에게 임명장을 수여한뒤\"",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"한승주 장관 ( 1993.02.26 ~ 1994.12.24 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "First 김영삼 cabinet, named and appointed on 1993-02-26 with the 임명장 that afternoon. Retained in the 12·21 개각 of 1993 (조선일보 1993-12-22) and after the 1994-04 PM change (he acted as 외무장관 on 1994-08-01 per the 대통령기록관 schedule). Replaced in the 12·23 개각 of 1994. The successors were announced on 12-23 and received their 임명장 on the morning of 12-24, and he held his 이임식 on the morning of 12-24. Same-day handover as on the ministry page. Birth date from ko.wikipedia (ko.wikipedia \"한승주\" https://ko.wikipedia.org/w/index.php?oldid=41742122 (revid 41742122, accessed 2026-09-26T09:49:18-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_한승주.json) lead: '韓昇洲, 1940년 9월 13일' [secondary]) and Wikidata Q1186827 (both secondary)."
+  },
+  {
+   "name": "공로명",
+   "name_hanja": "孔魯明",
+   "name_en": "Gong Ro-myung",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Gong Ro-myung 1994.12.24. - 1996.11.07.\" (accessed 2026-09-25T13:17:05-0400, snapshot roster/sources/foreign/ext88/mofa_eng_former_ministers.html)",
+   "birth_date": "1932-02-25",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1994-12-24",
+   "start_confidence": "medium",
+   "start_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"25대 장관 공로명(孔魯明) 1994.12.24. - 1996.11.07.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article_id 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/foreign/ext88/nl_1994122400209101001.json) quote: \"이날 새롭게 기용된 장관은△외무 孔魯明駐日대사\" quote: \"金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며\"",
+    "조선일보 1994-12-25 p.4 \"개각후 첫각의\"최대권한-무한책임\"강조 金(김)대통령\" (Naver News Library article_id 1994122500239104001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:22-0400, snapshot roster/sources/foreign/ext88/nl_1994122500239104001.json) quote: \"이날 국무회의에 앞선임명장 수여식에는 미처귀국하지 못한 孔魯明외무장관,韓昇洙비서실장,柳宗夏외교안보수석 등이 불참해 26일 추가로 임명장수여식을 가질 예정.\"",
+    "서울신문 1994-12-26 \"신임 외무·비서실장/공·한대사 귀국\" (BigKinds news_id 01100611.20160422183434280, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183434280&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:47-0400, snapshot roster/sources/foreign/ext88/bk_01100611.20160422183434280.json) quote: \"「12·23」개각에서 외무부장관으로 임명된 공로명 전주일대사가 25일 하오 대한항공편으로 귀국했다.\" quote: \"이들은 26일 청와대에서 각각 임명장을 받고 취임식을 가진뒤 업무에 들어간다.\"",
+    "한겨레 1994-12-27 p.2 \"공로명 외무의 미소\" (Naver News Library article_id 1994122700289102002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122700289102002&editNo=5&printCount=1&publishDate=1994-12-27&officeId=00028&pageNo=2&printNo=2106&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:50:14-0400, snapshot roster/sources/foreign/ext88/nl_1994122700289102002.json) quote: \"26일 오전 취임식을 마친 공로명 신임 외무장관이 직원들과 악수를 하고있다.\"",
+    "ko.wikipedia \"공로명\" https://ko.wikipedia.org/w/index.php?oldid=41473397 (revid 41473397, accessed 2026-09-26T09:49:19-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_공로명.json) infobox 외무부 장관 '임기 = 1994년 12월 24일 ~ 1996년 11월 7일' [secondary]",
+    "[verifier] 한겨레 1994-12-24 p.1 \"부총리 홍재형 재경원장관 김덕 통일원장관\" (Naver News Library article_id 1994122400289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400289101001&editNo=5&printCount=1&publishDate=1994-12-24&officeId=00028&pageNo=1&printNo=2103&publishType=00010, accessed 2026-09-26T10:26:30-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1994122400289101001.json) quote: \"또 외무장관에는 공로명 주일대사가, 내무장관에는 김용태 의원이,법무장관에는 안우만 전 대법관이, 국방장관에는 이양호 합참의장이 각각 임명됐다.\"",
+    "[verifier] 한국일보 1994-12-24 \"전면개각… 18부처　경질/부총리　홍재형(재경)·김덕(통일)\" (BigKinds news_id 01101101.19941224000000101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941224000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:34-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01101101.19941224000000101.json) quote: \"김대통령은　이날　개각에서　외무부장관에　공로명주일대사,\"",
+    "[verifier] 국제신문 1994-12-24 \"世界化·지방화 본격추진 金대통령 새閣僚임명 南北화해 협력·經濟안정 당부\" (BigKinds news_id 01500401.19941224121037104, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19941224121037104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:14:51-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01500401.19941224121037104.json) quote: \"金대통령은 이날 오전 청와대에서 洪在馨재경부총리 金悳통일부총리를 비롯한신임각료와 청와대수석비서관들에게 임명장을 수여한뒤\"",
+    "[verifier] 서울신문 1994-12-25 \"장관 스타일·진용개편 “촉각”/새장관 첫출근… 각부처 표정\" (BigKinds news_id 01100611.20160422183322302, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183322302&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:58:39-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100611.20160422183322302.json) quote: \"일본에서 잔무를 정리하고 있는 공로명 신임장관이 귀국하기도 전에\" quote: \"공신임장관은 임명사실을 23일 왕궁 연회석에서 전달받고\"",
+    "[verifier] 한국경제 1994-12-27 \"【사진】비서실장 외무장관에 임명장\" (BigKinds news_id 02100601.19941227111053101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19941227111053101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:09:13-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_02100601.19941227111053101.json) quote: \"金泳三대통령이 26일 오전 청와대에서 韓昇洙신임 청와대 비서실장과 孔魯明외무장관에게 각각 임명장을 수여하고 있다.\" [his own 임명장 on 1994-12-26, the known later alternative]",
+    "[verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"공로명 장관 ( 1994.12.24 ~ 1996.11.07 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page]"
+   ],
+   "end": "1996-11-06",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1996-11-07 p.1 \"새外務(외무)에 柳宗夏(유종하)씨\" (Naver News Library article_id 1996110700239101018, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110700239101018&editNo=1&printCount=1&publishDate=1996-11-07&officeId=00023&pageNo=1&printNo=23535&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:48-0400, snapshot roster/sources/foreign/ext88/nl_1996110700239101018.json) quote: \"金泳三(김영삼)대통령은 6일 孔魯明(공로명)외무장관의 사표를 수리하고 새 외무장관에 柳宗夏(유종하)청와대 외교안보수석비서관을 기용했다.\"",
+    "서울경제 1996-11-07 \"건강문제·인사 잡음 등 복합/김 대통령,외무부 장관 경질 배경\" (BigKinds news_id 02100311.20160315175024828, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.20160315175024828&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:41-0400, snapshot roster/sources/foreign/ext88/bk_02100311.20160315175024828.json) quote: \"김영삼 대통령은 6일 아침 공로명 외무장관의 사표를 수리하고 후임에 유종하 외교안보 수석 비서관을 임명\"",
+    "매일경제 1996-11-07 \"새 외무장관 유종하씨/외교안보수석 반기문 의전 이해순씨\" (BigKinds news_id 02100101.20160113130539738, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100101.20160113130539738&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:59-0400, snapshot roster/sources/foreign/ext88/bk_02100101.20160113130539738.json) quote: \"김영삼 대통령은 6일 일신상의 이유로 사의를 표명한 공로명 외무장관의 사표를 수리하고 후임에 유종하 청와대외교안보수석을 임명했다.\" quote: \"이에 앞서 공장관은 지난 4일 이수성 총리를 통해 김대통령에게 건강상의 이유를 들어 사의를 표명했다.\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"25대 장관 공로명(孔魯明) 1994.12.24. - 1996.11.07.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/ext88/mofa_past_ministers.html) [the page prints each end date as the successor's start date]",
+    "[verifier] 세계일보 1996-11-07 \"신임 외무장관 유종하씨/공 전 외무 사표수리\" (BigKinds news_id 01100701.19961107000000102, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961107000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:10:57-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100701.19961107000000102.json) quote: \"김영삼 대통령은 6일 6·25전쟁중 인민군복무문제와 관련,사의를 표명한 공노명 외무장관의 사표를 수리,후임장관에 유종하 청와대 외교안보수석비서관을 임명했다.\"",
+    "[verifier] 한국일보 1996-11-07 \"외무장관 유종하씨/외교안보수석 반기문·의전수석 이해순씨\" (BigKinds news_id 01101101.19961107000000103, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19961107000000103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:11:29-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01101101.19961107000000103.json) quote: \"김영삼 대통령은 6일 건강상의 이유로 사표를 제출한 공로명 외무장관의 사표를 수리하고 후임에 유종하 청와대외교안보수석을 임명했다.\"",
+    "[verifier] 한겨레 1996-11-07 p.1 \"새 외무에 유종하씨\" (Naver News Library article_id 1996110700289101011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110700289101011&editNo=6&printCount=1&publishDate=1996-11-07&officeId=00028&pageNo=1&printNo=2720&publishType=00010, accessed 2026-09-26T14:11:40-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1996110700289101011.json) quote: \"김영삼 대통령은 6일 건강상의 이유로 사의를 밝힌 공로명 외무장관의 사표를 받아들이고\"",
+    "[verifier] 조선일보 1996-11-07 p.4 \"◇외무차관 대리참석\" (Naver News Library article_id 1996110700239104011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110700239104011&editNo=1&printCount=1&publishDate=1996-11-07&officeId=00023&pageNo=4&printNo=23535&publishType=00010, accessed 2026-09-26T14:11:23-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1996110700239104011.json) quote: \"6일 국회 통일외무위에서 孔魯明(공로명)외무장관의 경질로 대신 참석한 李祺周차관\"",
+    "[verifier] 경향신문 1996-11-08 p.4 \"孔(공) 前(전)장관 이임사\"지나간 일은 고칠수 없음을 깨달았다\"\" (Naver News Library article_id 1996110800329104004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110800329104004&editNo=45&printCount=1&publishDate=1996-11-08&officeId=00032&pageNo=4&printNo=15931&publishType=00010, accessed 2026-09-26T14:10:46-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1996110800329104004.json) quote: \"孔전장관은 이날 오전 정부종합청사에서거행된 외무장관 이·취임식에서\" [이날 = 1996-11-07, farewell read by the vice minister after the acceptance of 11-06]",
+    "[verifier] 동아일보 1996-11-06 p.1 \"孔(공)외무 돌연 사표\" (Naver News Library article_id 1996110600209101007, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110600209101007&editNo=45&printCount=1&publishDate=1996-11-06&officeId=00020&pageNo=1&printNo=23359&publishType=00010, accessed 2026-09-26T14:11:52-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1996110600209101007.json) quote: \"孔장관은 4일 李壽成국무총리에게 사표를 제출했으며\""
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript input starts (2000-06).",
+   "notes": "Named in the 12·23 개각 of 1994 while 주일대사. The batch of new ministers received 임명장 on 1994-12-24, the date on the ministry page. He was abroad, returned on 12-25, and received his own 임명장 and held his 취임식 on 1994-12-26. Start follows the ministry page, hence medium confidence. Retained in the 12·20 개각 of 1995 (한겨레 1995-12-21). He offered his resignation on 1996-11-04 through the PM, citing health, and the President accepted it on the morning of 1996-11-06. Contemporary reports also link the exit to complaints over personnel decisions and to his 1950 service in a 인민군 학도의용군 unit (서울경제 1996-11-07). The successor was named on 11-06 and received his 임명장 on 11-07, so the handover is adjacent with no vacant day. The ministry page prints 1996.11.07 as his last day by its same-day convention. Birth date from ko.wikipedia (ko.wikipedia \"공로명\" https://ko.wikipedia.org/w/index.php?oldid=41473397 (revid 41473397, accessed 2026-09-26T09:49:19-0400, snapshot roster/sources/foreign/ext88/wiki/kowiki_공로명.json) lead: '孔魯明, 1932년 2월 25일' [secondary]) and Wikidata Q12584648 (both secondary)."
+  },
+  {
+   "name": "유종하",
+   "name_hanja": "柳宗夏",
+   "name_en": "Yoo Chong-ha",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yoo Chong-ha 1996.11.07. - 1998.03.03.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1936-07-28",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1996-11-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds metadata: 매일경제 19961108 '유 외무 등 임명장/김대통령' news_id 02100101.20160113130650071 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:49:29-0400, snapshot sources/foreign/news/bigkinds_1996-11-06_9ba2be5e8f.json) snippet: \"김영삼 대통령은 7일 오전 청와대에서 신임 유종하 외무장관과\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"26대 장관 유종하(柳宗夏) 1996.11.07. - 1998.03.03.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot sources/foreign/news/naver_001_0004298139.html) quote: \"외무부와 통상산업부는 기능을 재조정해 외교통상부와 산업자원부로 바뀌었다\"",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot sources/foreign/news/naver_001_0004298139.html) quote: \"재경부 등 기관장이 자동면직되는 7개부에 대해선 현재의 차관이 행정편의상 차관역할을 하도록 지시했으며\"",
+    "BigKinds metadata: 한국일보 19980302 '예산청엔　문패만　‘덜렁’/계속되는　행정공백　표정' news_id 01101101.19980302000000602 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:36:14-0400, snapshot sources/foreign/news/bigkinds_1998-02-28_cacc9202b7.json) snippet: \"조직이　개편된　부처의　장관이　자동　면직됨에　따라\"",
+    "offices.json OF009 (외무부 to 1998-02-27) and OF025 (외교통상부 from 1998-02-28), 정부조직법 법률 제5529호 (law.go.kr 정부조직법 texts listed there)"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript input starts 2000-06, after this spell.",
+   "notes": "Kim Young-sam-era minister still in office at the window start (caretaker under 김대중 from 1998-02-25, after 법제처 ruled that sitting ministers remain in office until successors are appointed, BigKinds metadata: 한겨레 19980227 '국정 사실상 마비/각 정부부처 표정' news_id 01101001.19980227000000405 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:47:41-0400, snapshot sources/foreign/news/bigkinds_1998-02-25_656ed645cf.json) snippet: \"새 장관 임명 전까지는 현 장관의 임기가 계속된다는 법제처의 유권해석에 따라\"). 정부조직법 법률 제5529호 was promulgated and took effect on 1998-02-28 (afternoon), turning 외무부 into 외교통상부. Contemporaneous reports say the heads of the seven new or reorganized ministries, 외교통상부 among them, were automatically dismissed (자동면직) and that the vice ministers were told to keep the offices running. He was therefore not carried over into 외교통상부, and no appointment of him to 외교통상부 was found. The 외교부 역대 장관 page and ko.wikipedia list him until 1998-03-03 without that break. He was de jure 외무부장관 for part of 1998-02-28 until the act took effect. The date convention of offices.json puts 외무부's last day on 1998-02-27. Birth date from ko.wikipedia only (ko.wikipedia '유종하' https://ko.wikipedia.org/w/index.php?oldid=41473390 (revid 41473390, accessed 2026-09-25T13:16:32-0400, snapshot sources/foreign/wiki/kowiki_유종하.json)).",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "최광수",
+   "office_title": "외무부장관",
+   "nomination_date": "1986-08-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1986-08-27",
+   "sources": [
+    "동아일보 1986-08-26 p.1 \"대폭改閣(개각) 10개部處長官(부처장관) 경질\" (Naver News Library article_id 1986082600209201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600209201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00020&pageNo=1&printNo=19970&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:09:34-0400, snapshot roster/sources/foreign/ext88/nl_1986082600209201004.json) quote: \"全대통령은 이날△외무장관에 崔侊洙「유엔」大使\"",
+    "매일경제 1986-08-27 p.1 \"全大統領(전대통령) 신임閣僚(각료)에 임명장\" (Naver News Library article_id 1986082700099201005, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700099201005&editNo=1&printCount=1&publishDate=1986-08-27&officeId=00009&pageNo=1&printNo=6304&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:50:19-0400, snapshot roster/sources/foreign/ext88/nl_1986082700099201005.json) quote: \"全斗煥대통령은 27일 상오청와대에서 金宗鎬내무장관등신임 각료 9명과 李相薰비상기획위원장에게 각각 임명장을 수여했다.\" quote: \"崔侊洙 신임외무장관은 귀국후 임명장을 받는다.\"",
+    "중앙일보 1986-08-27 \"신임 각료에 임명장\" (BigKinds news_id 01100901.19860827214434005, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860827214434005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:53-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19860827214434005.json) quote: \"전두환 대통령은 27일 상오 김종호 내무장관 등 9개 부처장관과 이상훈 비상기획위원장에게 임명장을 수여했다.\""
+   ],
+   "notes": "Named by 전두환 in the 8·26 개각 of 1986 while 주유엔대사. The appointment is dated 1986-08-27 on the ministry page, the day the other new ministers received their 임명장, and his own 임명장 followed on 1986-09-01 after his return. Added in the resumed run of 2026-09-26 so that the 전두환-era spell also has an appointment record, as unification.ext88.json (허문도 1986) and finance.ext88.json (사공일 1987) have. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "최광수",
+   "office_title": "외무부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article_id 1988021900209201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:04:13-0400, snapshot roster/sources/foreign/ext88/nl_1988021900209201003.json) quote: \"이번 새내각에는 외무 崔侊洙 내무 李相熙 재무 司空壹 법무 丁海昌 체육 曺相鎬건설 崔同燮 체신 吳明장관등 7개부처장관이 재기용됐으며\"",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:04:24-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19880219004312001.json) quote: \"노 당선자는 이날 오전 24개 부처장관 중 정무 제1장관을 제외한 23개 부처장 관내정자를 발표했는데\" quote: \"현 내각에서 최광수 외무, 이상희 내무, 사공일 재무, 정해창 법무, 서상호 체육, 최동섭 건설, 오명 체신장관 등 7명을 재기용했으며\"",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/foreign/ext88/bk_01100901.19880225005009001.json) quote: \"노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다.\""
+   ],
+   "notes": "Announced on 1988-02-19 by the President-elect's spokesman as one of seven retained (재기용) ministers of the first 노태우 cabinet, appointed on inauguration day while 이현재 was 국무총리서리. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "최호중",
+   "office_title": "외무부장관",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article_id 1988120500329201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:22:02-0400, snapshot roster/sources/foreign/ext88/nl_1988120500329201003.json) quote: \"새로 임명된 장관은▲외무崔浩中 駐사우디대사\"",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article_id 1988120500209201032, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:21:56-0400, snapshot roster/sources/foreign/ext88/nl_1988120500209201032.json) quote: \"盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다.\""
+   ],
+   "notes": "Named and appointed in the 12·5 개각 while abroad, own 임명장 on 1988-12-12. 강영훈 was 국무총리서리. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "이상옥",
+   "office_title": "외무부장관",
+   "nomination_date": "1990-12-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-12-27",
+   "sources": [
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article_id 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:08:13-0400, snapshot roster/sources/foreign/ext88/nl_1990122700099201001.json) quote: \"부총리로격상된 국토통일원장관에崔浩中외무장관을 임명하고 외무장관에 李相玉駐제네바대사\" quote: \"상공부장관에李鳳瑞前동자부장관을 각각 임명·발령했다.\"",
+    "부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (BigKinds news_id 01500701.19901227201600101, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201600101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:17-0400, snapshot roster/sources/foreign/ext88/bk_01500701.19901227201600101.json) quote: \"외무장관에는 李相玉駐제네바대사\""
+   ],
+   "notes": "Named and appointed (임명·발령) in the 12·27 개각 while abroad, own 임명장 on 1990-12-31. 노재봉 was 국무총리서리. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "한승주",
+   "office_title": "외무부장관",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article_id 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:12:13-0400, snapshot roster/sources/foreign/ext88/nl_1993022600209201001.json) quote: \"金대통령은 외무부장관에 韓昇洲고려대교수\" quote: \"金대통령은 이날 새내각의 전국무위원과 안기부장서울시장 平統사무총장등모두 27명의 새정부진용을임명,발령했다.\"",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article_id 1993022700239101006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:29:49-0400, snapshot roster/sources/foreign/ext88/nl_1993022700239101006.json) quote: \"金泳三대통령이 26일 오후 청와대 본관 앞에서 이날 임명장을 받은 신임 국무위원들과 밝게웃으며 기념촬영을 하고있다.\" quote: \"⑤韓昇洲외무\""
+   ],
+   "notes": "Named and appointed with the first 김영삼 cabinet. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "공로명",
+   "office_title": "외무부장관",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article_id 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/foreign/ext88/nl_1994122400209101001.json) quote: \"이날 새롭게 기용된 장관은△외무 孔魯明駐日대사\" quote: \"金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며\"",
+    "조선일보 1994-12-25 p.4 \"개각후 첫각의\"최대권한-무한책임\"강조 金(김)대통령\" (Naver News Library article_id 1994122500239104001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:22-0400, snapshot roster/sources/foreign/ext88/nl_1994122500239104001.json) quote: \"이날 국무회의에 앞선임명장 수여식에는 미처귀국하지 못한 孔魯明외무장관,韓昇洙비서실장,柳宗夏외교안보수석 등이 불참해 26일 추가로 임명장수여식을 가질 예정.\"",
+    "서울신문 1994-12-26 \"신임 외무·비서실장/공·한대사 귀국\" (BigKinds news_id 01100611.20160422183434280, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183434280&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:47-0400, snapshot roster/sources/foreign/ext88/bk_01100611.20160422183434280.json) quote: \"「12·23」개각에서 외무부장관으로 임명된 공로명 전주일대사가 25일 하오 대한항공편으로 귀국했다.\" quote: \"이들은 26일 청와대에서 각각 임명장을 받고 취임식을 가진뒤 업무에 들어간다.\""
+   ],
+   "notes": "Announced in the 12·23 개각, appointment dated 1994-12-24 on the ministry page, own 임명장 on 1994-12-26. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  },
+  {
+   "nominee": "유종하",
+   "office_title": "외무부장관",
+   "nomination_date": "1996-11-06",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1996-11-07",
+   "sources": [
+    "조선일보 1996-11-07 p.1 \"새外務(외무)에 柳宗夏(유종하)씨\" (Naver News Library article_id 1996110700239101018, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110700239101018&editNo=1&printCount=1&publishDate=1996-11-07&officeId=00023&pageNo=1&printNo=23535&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:48-0400, snapshot roster/sources/foreign/ext88/nl_1996110700239101018.json) quote: \"金泳三(김영삼)대통령은 6일 孔魯明(공로명)외무장관의 사표를 수리하고 새 외무장관에 柳宗夏(유종하)청와대 외교안보수석비서관을 기용했다.\"",
+    "동아일보 1996-11-08 p.2 \"柳(유)외무등에 임명장\" (Naver News Library article_id 1996110800209102004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110800209102004&editNo=45&printCount=1&publishDate=1996-11-08&officeId=00020&pageNo=2&printNo=23361&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:55-0400, snapshot roster/sources/foreign/ext88/nl_1996110800209102004.json) quote: \"金泳三대통령은 7일오전 청와대에서 신임 柳宗夏외무장관과 潘基文청와대외교안보,李海淳의전수석비서관에게 각각 임명장을 수여했다.\""
+   ],
+   "notes": "Named on 1996-11-06 when 공로명's resignation was accepted, 임명장 on 1996-11-07. The spell is in roster/foreign.verified.json (from_main), which has no nomination record for it. 국무위원 were appointed without an Assembly hearing before the 인사청문 extension of 2005-07-28, so no hearing was required."
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Cross-lineage convention for 1988-02-25. The 제5공화국 cabinet's collective resignation was accepted on the morning of 1988-02-25 and the 23 ministers of 노태우's list received 임명장 that day, seven of them retained from the 전두환 cabinet (외무 최광수, 내무 이상희, 재무 사공일, 법무 정해창, 체육 조상호, 건설 최동섭, 체신 오명, 동아일보 and 경향신문 1988-02-19). This file splits 최광수 into a 전두환 spell ending 1988-02-25 (end_reason 'resigned') and a 노태우 spell starting 1988-02-25. The 법무부 page numbers 정해창 '36,37대' and ko.wikipedia splits 최광수's row at 1988-02-24/25, while the 외교부 page shows one entry. State of the sibling files at the resumed run of 2026-09-26. finance.ext88.json (사공일), justice.ext88.json (정해창) and interior.ext88.json (이상희) split the same way with end_reason 'resigned', and this file now uses that code too (the first run had 'other'). sports.ext88.json keeps 조상호 as one spell from 1987-07-14 to 1988-12-05 with no split, and no construction or ict ext88 file existed yet. The orchestrator should make sports, construction (최동섭) and ict (오명) consistent."
+  },
+  {
+   "severity": "medium",
+   "desc": "Start dates of ministers named while posted abroad follow the batch date printed on the 외교부 page, which is the day the other new ministers were appointed. Each man's own 임명장 came later. 최광수 was named 1986-08-26, the batch date was 08-27 and his own 임명장 09-01. 최호중 was named on the batch date 1988-12-05 and got his own 임명장 on 12-12. 이상옥 was named on the batch date 1990-12-27 and got his own on 12-31. 공로명 was named 1994-12-23, the batch date was 12-24 and his own 임명장 12-26. The legal appointment date cannot be read from a 관보 (gwanbo.go.kr lists 제10424호 1986-08-27, 제10428호 1986-09-01, 제11100호 1988-12-06 and 제11709호 1990-12-27 with file_size 0). These starts are marked medium. 매일경제 1990-12-27 reports the 1990 appointments as '임명·발령' on 12-27, which supports the batch date."
+  },
+  {
+   "severity": "medium",
+   "desc": "이상옥's last day is 1993-02-25, based on the report in 중앙일보 1993-02-25 that the ministers of the 현승종 cabinet handed in blanket resignations that day and that all were accepted. This is the only source for 1993-02-25, so the date does not meet the two-source rule. The resumed run of 2026-09-26 searched again and found no second report (steps 20 and 21). The search covered the 대한민국사연표 for 1993-02-24 to 02-27, the 대통령기록관 김영삼 1993 schedule, and BigKinds and News Library queries over 1993-02-25 to 03-01 for 일괄사표, 사표, 사표 수리, 이임식, 李相玉 and 외무장관 이임 (snapshots roster/sources/foreign/ext88/hist_1993-02-2[4-7].html, pa_schedule_김영삼_1993_step20_*.html, bk_search_1993c_*.json, bk_search_1993d_*.json, nl_search_1993c_*.json, nl_search_1993d_*.json, step20_1993c.json and step21_1993d.json). The 외교부 page, ko.wikipedia and Wikidata give 1993-02-26, the successor's start. 매일경제 1993-02-24 had reported a 총무처 view that no resignation was needed. Outgoing ministers held their 이임식 on 1993-02-26 (최각규 and 이용만 in 동아일보 1993-02-26 p.3, 한봉수 in 경향신문 1993-02-27 p.6, 진념 in 조선일보 1993-02-27 p.5), and no report of 이상옥's own 이임식 was found. The handover is adjacent either way. The ext88 files disagree. foreign, education (조완규) and general_affairs (이문석) end on 1993-02-25, all on the same 중앙일보 report, and pm.ext88.json ends 현승종 on 1993-02-25 because 황인성 was appointed that afternoon. agriculture, culture, defense, energy, environment, epb, finance, interior, justice, public_info, science, sports and unification end on 1993-02-26. The orchestrator should pick one convention for the ministers. If it is 1993-02-26, this spell's end moves to 1993-02-26 and stays medium. Verifier note of 2026-09-26. Resolved. The last day is now 1993-02-26, see verification.changes. education.ext88.verified.json (조완규) was moved to 1993-02-26 by its verifier and the rebuilt general_affairs.ext88.json (이문석) already ends on 1993-02-26, so all ext88 lineages now end the 현승종 cabinet ministers on 1993-02-26. pm.ext88 ends 현승종 on 1993-02-25, which is a separate office."
+  },
+  {
+   "severity": "low",
+   "desc": "공로명's last day is 1996-11-06, the day his resignation was accepted (조선일보, 서울경제, 매일경제 1996-11-07). The 외교부 page prints 1996.11.07, following its same-day convention. The from_main spell of 유종하 starts 1996-11-07 (임명장 day), and the new evidence here agrees with it (named 11-06, 임명장 11-07, 동아일보 1996-11-08). No change is proposed to the main file."
+  },
+  {
+   "severity": "low",
+   "desc": "No vacancy in the lineage from 1986-08-27 to 1998-02-27. All handovers are same-day or adjacent. Retention at the reshuffles of 1990-03, 1991-05, 1992-10, 1993-12, 1995-12 and 1997-08 is documented in continuity. For 1994-04 and 1997-03 only presence in office is shown (대통령기록관 schedule 1994-08-01, 1997-08-06) and pre-event reports of retention (국민일보 1997-03-05). No reappointment at these reshuffles was found. In 1990-03 only the new ministers received 임명장 (조선일보 1990-03-18)."
+  },
+  {
+   "severity": "low",
+   "desc": "Birth dates come from ko.wikipedia and Wikidata only (secondary). 이상옥's birth date is unknown (Wikidata year 1934 only, no ko.wikipedia article). None of the five sat in the 12th-22nd Assembly. The 13th-Assembly member 이상옥 (李相玉, born 1950) is a different person."
+  },
+  {
+   "severity": "low",
+   "desc": "News Library texts are OCR. Quotes were matched to the stored OCR text, which keeps the paper's missing spaces and hanja. Names and dates were read in several papers of the same day. Page images were not opened."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier (2026-09-26). Start dates of the four ministers named while abroad (최광수 1986, 최호중 1988, 이상옥 1990, 공로명 1994) stay on the batch date given by the 외교부 page. Two alternatives remain on record, the announcement day (대한민국사연표 dates 최광수's 임명 to 1986-08-26) and each man's own 임명장 day (1986-09-01, 1988-12-12, 1990-12-31, 1994-12-26). 경향신문 and 매일경제 of 1990-12-27 describe the 1990 list as 임명·발령 that day, and the 1986 cohort in the other ext88 lineages starts on 1986-08-27. These starts keep medium confidence."
+  }
+ ],
+ "continuity": {
+  "window": "1988-02-25..1998-02-24 (외무부 abolished at the end of 1998-02-27, see foreign.verified.json for 외교통상부)",
+  "vacancies": [],
+  "same_day_or_overlapping_handovers": [
+   {
+    "a": "최광수",
+    "b": "최광수",
+    "a_end": "1988-02-25",
+    "b_start": "1988-02-25"
+   },
+   {
+    "a": "최광수",
+    "b": "최호중",
+    "a_end": "1988-12-05",
+    "b_start": "1988-12-05"
+   },
+   {
+    "a": "최호중",
+    "b": "이상옥",
+    "a_end": "1990-12-27",
+    "b_start": "1990-12-27"
+   },
+   {
+    "a": "이상옥",
+    "b": "한승주",
+    "a_end": "1993-02-26",
+    "b_start": "1993-02-26"
+   },
+   {
+    "a": "한승주",
+    "b": "공로명",
+    "a_end": "1994-12-24",
+    "b_start": "1994-12-24"
+   }
+  ],
+  "adjacent_handovers": [
+   "공로명 1996-11-06 -> 유종하 1996-11-07"
+  ],
+  "overlaps_longer_than_same_day": [],
+  "predecessor_handover": "이원경 (20대, ministry page 1983.10.15 - 1986.08.26) -> 최광수 1986-08-27, adjacent, outside the window",
+  "retained_at_reshuffles": [
+   {
+    "reshuffle": "1990-03-17",
+    "holder": "최호중",
+    "evidence": "조선일보 1990-03-18 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article_id 1990031800239101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:31:16-0400, snapshot roster/sources/foreign/ext88/nl_1990031800239101001.json) quote: \"姜英勳총리를 비롯,徐東權안기부장,金永駿감사원장과崔浩中외무,李相薰국방장관등 11개부처 장관은 유임됐으며\" quote: \"盧대통령은 19일오전李부총리를 비롯한 신임각료에게 임명장을 수여하며\""
+   },
+   {
+    "reshuffle": "1991-05 (정원식 cabinet)",
+    "holder": "이상옥",
+    "evidence": "세계일보 1991-05-28 \"여전한 “강성”… 여전히 「무거운 짐」/정 내각 출범과 향후 과제\" (BigKinds news_id 01100701.19910528000000301, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19910528000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:39-0400, snapshot roster/sources/foreign/ext88/bk_01100701.19910528000000301.json) quote: \"이는 기존각료만도 이상옥 외무(안동)\""
+   },
+   {
+    "reshuffle": "1992-10-09",
+    "holder": "이상옥",
+    "evidence": "세계일보 1992-10-10 \"「10·9개각」 새 내각 명단\" (BigKinds news_id 01100701.19921010000000213, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19921010000000213&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:59-0400, snapshot roster/sources/foreign/ext88/bk_01100701.19921010000000213.json) quote: \"●직위:외무\" quote: \"이름:이상옥(유)\" [the two lines are consecutive in the list, (유) = retained]"
+   },
+   {
+    "reshuffle": "1993-12-21",
+    "holder": "한승주",
+    "evidence": "조선일보 1993-12-22 p.6 \"서울-충청,부산-경남출신 늘어\" (Naver News Library article_id 1993122200239106005, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200239106005&editNo=1&printCount=1&publishDate=1993-12-22&officeId=00023&pageNo=6&printNo=22553&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:50:22-0400, snapshot roster/sources/foreign/ext88/nl_1993122200239106005.json) quote: \"서울은 지난번 韓昇洲외무,金喆壽상공,吳隣煥공보등이었는데,이들이모두 유임되고\""
+   },
+   {
+    "reshuffle": "1995-12-20",
+    "holder": "공로명",
+    "evidence": "한겨레 1995-12-21 p.1 \"부총리 나웅배(경제)권오기(통일)씨\" (Naver News Library article_id 1995122100289101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100289101001&editNo=5&printCount=1&publishDate=1995-12-21&officeId=00028&pageNo=1&printNo=2431&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:32:03-0400, snapshot roster/sources/foreign/ext88/nl_1995122100289101001.json) quote: \"공로명 외무, 안우만 법무, 이양호 국방, 김기재 총무처 장관 등은유임됐다.\""
+   },
+   {
+    "reshuffle": "1997-03-05 (고건 cabinet, pre-event report only)",
+    "holder": "유종하",
+    "evidence": "국민일보 1997-03-05 \"정책 일관성 최우선 고려/외교안보팀 전원 유임 배경\" (BigKinds news_id 01100201.19970305000000403, metadata and snippet from POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-26T09:39:16-0400, snapshot roster/sources/foreign/ext88/bk_search_D5_1997_03.json) quote: \"내각의 외교 안보팀이 전원 유임될 것으로 알려졌다.\""
+   },
+   {
+    "reshuffle": "1997-08-05",
+    "holder": "유종하",
+    "evidence": "한겨레 1997-08-06 p.1 \"장관11명 교체\" (Naver News Library article_id 1997080600289101002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600289101002&editNo=6&printCount=1&publishDate=1997-08-06&officeId=00028&pageNo=1&printNo=2950&publishType=00010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:32:12-0400, snapshot roster/sources/foreign/ext88/nl_1997080600289101002.json) quote: \"권오기 통일부총리, 유종하 외무, 김동진 국방장관 등 외교안보팀, 권영해 안기부장은 모두 유임됐다.\""
+   }
+  ],
+  "presence_in_office": [
+   "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1991), row 1991-01-24 \"외무부장관 보고 지시\" / \"이상옥 외무부장관에게 북한에 유엔 동시가입을 설득하되 불응하면 한국 단독가입을 연내 실현하도록 지시\" (accessed 2026-09-26T09:04:52-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1991_0.html)",
+   "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=노태우, year=1992), row 1992-05-20 \"태국 왕세자 접견\" / \"마하와지라 롱콘 태국 왕세자가 이상옥 외무장관 초청으로 방문해 노태우 대통령 예방\" (accessed 2026-09-26T09:04:41-0400, snapshot roster/sources/foreign/ext88/pa_schedule_노태우_1992_0.html)",
+   "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=김영삼, year=1994), row 1994-02-11 \"북한 핵문제 한미공조 등 강조한 친서 전달\" / \"한승주 외무장관을 통해 북한핵문제의 한미 공조체제 유지를 강조하고 에 유감을 표명하는 친서를 클린턴 미 대통령에게 전달\" (accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/foreign/ext88/pa_schedule_김영삼_1994_0.html)",
+   "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=김영삼, year=1994), row 1994-08-01 \"납북자 송환 지시\" / \"고상문 씨가 강제납북되어 수용소에 구금된 사실이 알려진 뒤 이영덕 국무총리, 이홍구 통일부총리, 한승주 외무장관을 각각 청와대로 불러 납북된 인사들의 억류문제는 인권 차원을 넘어 생존권과 직접 관련된 사안인 만큼 국제기구를 통해 송환을 요구하라고 지시\" (accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/foreign/ext88/pa_schedule_김영삼_1994_0.html)",
+   "대통령기록관 연도별 대통령 일정 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do, selPresident=김영삼, year=1997), row 1997-08-06 \"KAL 추락사고 긴급대책회의 주재\" / \"고건 총리와 유종하 외무, 김동진 국방, 이환균 건설교통부장관 등이 참석한 가운데 대한항공기 추락사고 긴급대책회의를 주재하고 인명구조와 사고수습을 위한 최선의 전력을 기울일 것을 지시\n* 대한항공 여객기가 6일 새벽 0시 55분 괌 아가냐공항 근처 정글지대에 추락 225명 사망(254명 탑승)\" (accessed 2026-09-26T09:05:07-0400, snapshot roster/sources/foreign/ext88/pa_schedule_김영삼_1997_0.html)"
+  ],
+  "de_facto_absences_not_vacancies": [
+   "1986-08-27..1986-08-31 최광수 abroad after appointment, 차관 李相玉 attended the 1986-08-27 국무회의 in his place (한국일보 1986-08-28)",
+   "1988-12-05..1988-12-11 최호중 abroad after appointment (returned 12-10, 임명장 12-12)",
+   "1990-12-27..1990-12-30 이상옥 abroad after appointment (임명장 12-31)",
+   "1994-12-24..1994-12-25 공로명 abroad after appointment (returned 12-25, 임명장 12-26)"
+  ],
+  "recomputed_by": "roster/scripts/foreign_ext88_verify_11_build.py"
+ },
+ "method": {
+  "scripts": [
+   "roster/scripts/foreign_ext88_01_mofa.py",
+   "roster/scripts/foreign_ext88_02_probe1988.py",
+   "roster/scripts/foreign_ext88_03_read1988.py",
+   "roster/scripts/foreign_ext88_04_appt1988.py",
+   "roster/scripts/foreign_ext88_05_read1988b.py",
+   "roster/scripts/foreign_ext88_06_transitions.py",
+   "roster/scripts/foreign_ext88_07_1986.py",
+   "roster/scripts/foreign_ext88_08_immyeongjang.py",
+   "roster/scripts/foreign_ext88_09_ends.py",
+   "roster/scripts/foreign_ext88_10_continuity.py",
+   "roster/scripts/foreign_ext88_11_read.py",
+   "roster/scripts/foreign_ext88_12_details.py",
+   "roster/scripts/foreign_ext88_13_1993.py",
+   "roster/scripts/foreign_ext88_14_1993b.py",
+   "roster/scripts/foreign_ext88_15_wiki.py",
+   "roster/scripts/foreign_ext88_16_wiki_persons.py",
+   "roster/scripts/foreign_ext88_17_read_more.py",
+   "roster/scripts/foreign_ext88_18_build.py",
+   "roster/scripts/foreign_ext88_19_read_1993.py",
+   "roster/scripts/foreign_ext88_20_1993c.py",
+   "roster/scripts/foreign_ext88_21_1993d.py",
+   "roster/scripts/foreign_ext88_22_audit.py"
+  ],
+  "sources_dir": "roster/sources/foreign/ext88",
+  "holder_list": "외교부 역대 장관 page (Korean and English), cross-checked with ko.wikipedia list revid 42216879 and Wikidata P39 of Q12592509",
+  "dates": "Naver News Library OCR text (동아, 경향, 매경, 조선, 한겨레), BigKinds full text (서울신문, 한국일보, 중앙일보, 한국경제, 부산일보, 세계일보, 국민일보, 서울경제, 매일경제), 대통령기록관 연도별 대통령 일정"
+ },
+ "verification": {
+  "verified_at": "2026-09-26T21:36:18-0400",
+  "verifier": "adversarial verifier 1988-1998, lineage foreign (resumed pass, steps 01-08 of the interrupted run reused)",
+  "input": {
+   "file": "roster/foreign.ext88.json",
+   "built_at": "2026-09-26T12:52:33-0400"
+  },
+  "per_spell": {
+   "최광수|1986-08-27": "confirmed",
+   "최광수|1988-02-25": "confirmed",
+   "최호중|1988-12-05": "confirmed",
+   "이상옥|1990-12-27": "corrected",
+   "한승주|1993-02-26": "confirmed",
+   "공로명|1994-12-24": "confirmed",
+   "유종하|1996-11-07": "confirmed"
+  },
+  "per_spell_notes": {
+   "최광수|1986-08-27": "Start 1986-08-27 confirmed as the batch date of the 8·26 개각 (조선일보 1986-08-28, 동아일보 1986-08-27, 전북일보 1986-08-27, none cited by the builder), with 1986-08-26 (대한민국사연표, announcement) and 1986-09-01 (own 임명장, 조선일보 1986-09-02) kept as alternatives. The nine other 1986 appointees start 1986-08-27 in the sibling files. End 1988-02-25 confirmed. The resignations were handed in on 1988-02-24 (동아일보 1988-02-24) and were to reach 노태우 on the morning of 1988-02-25 (조선일보 1988-02-25), and the new cabinet received its 임명장 that morning (조선일보 1988-02-26 p.3). Held office through the 1987-05 and 1987-07 reshuffles (중앙일보 1987-06-20, 1987-07-22).",
+   "최광수|1988-02-25": "Start confirmed. 조선일보 and 매일경제 1988-02-20 report him as one of seven ministers 재기용, the 노태우 spokesman stressed that this was 재기용 and not 유임 because the appointing authority changes (한국일보 1988-02-20), and the 임명장 ceremony of 1988-02-25 is confirmed by 중앙일보 1988-02-20, 서울신문 and 조선일보 1988-02-26. No story names him individually at the ceremony. End 1988-12-05 confirmed (한국일보 1988-12-06, 조선일보 1988-12-06 p.1 and p.14, 한겨레 1988-12-06, 중앙일보 1988-12-05). In office after the 1988-05-07 reshuffle (중앙일보 1988-06-02).",
+   "최호중|1988-12-05": "Start confirmed as the appointment day of the 12·5 개각 (조선일보 1988-12-05 and 1988-12-06, 한겨레 and 한국일보 1988-12-06). He was abroad and took up the post days later (조선일보 1988-12-06 p.14). End 1990-12-27 confirmed, moved to 부총리 겸 통일원장관 that day (동아일보, 경향신문 1990-12-27, 한겨레, 조선일보 1990-12-28, 대한민국사연표). unification.ext88.verified.json starts him there on 1990-12-27. In office after the 1989-07, 1990-01, 1990-03 and 1990-09/10 reshuffles (survival.json).",
+   "이상옥|1990-12-27": "Start confirmed. 경향신문 1990-12-27 names him in the list and reports the day's appointments as 임명,발령. End corrected from 1993-02-25 to 1993-02-26 (see changes). In office after every reshuffle from 1991-04 to 1992-10 (survival.json), and still acting as minister on 1993-02-24 (조선일보 1993-02-25 p.4).",
+   "한승주|1993-02-26": "Start confirmed (named and given the 임명장 on the afternoon of 1993-02-26, 국민일보 1993-02-26, 세계일보 1993-02-27, 경향신문 1993-02-27 and 1993-02-28, 대한민국사연표). End 1994-12-24 confirmed, his 이임식 on the morning of 1994-12-24 (경향신문, 서울신문, 조선일보 p.4 of 1994-12-25) and the successors' 임명장 that morning (국제신문 1994-12-24). In office after the 1993-03-08, 1993-12-21 and 1994-10-04 reshuffles (survival.json).",
+   "공로명|1994-12-24": "Start confirmed as the batch date (named 1994-12-23 while 주일대사, batch 임명장 1994-12-24, 한겨레 and 한국일보 1994-12-24, 국제신문 1994-12-24, 서울신문 1994-12-25), with his own 임명장 on 1994-12-26 (한국경제 1994-12-27) kept as the alternative. End 1996-11-06 confirmed, resignation accepted that day (세계일보, 한국일보, 한겨레 1996-11-07), and the vice minister replaced him at the Assembly committee that day (조선일보 1996-11-07 p.4). In office after the 1995-05, 1995-12 and 1996-08 reshuffles (survival.json).",
+   "유종하|1996-11-07": "from_main record, identical to roster/foreign.verified.json and not edited. Start 1996-11-07 re-confirmed with stories the builder did not cite, namely [verifier] 국민일보 1996-11-07 \"유 외무 등에 임명장/의전수석 이해순씨\" (BigKinds news_id 01100201.19961107000000204, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19961107000000204&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:10:09-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100201.19961107000000204.json) quote: \"김영삼 대통령은 7일 오전 청와대에서 신임 유종하 외무장관과 반기문 외교안보수석,이해순 의전수석에게 임명장을 수여했다.\" | [verifier] 경향신문 1996-11-08 p.2 \"신임外務(외무)에 임명장\" (Naver News Library article_id 1996110800329102004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996110800329102004&editNo=45&printCount=1&publishDate=1996-11-08&officeId=00032&pageNo=2&printNo=15931&publishType=00010, accessed 2026-09-26T14:10:29-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1996110800329102004.json) quote: \"金泳三대통령이 7일오전 청와대에서 신임柳宗夏외무장관에게 임명장을 수여한뒤 악수로격려하고 있다.\". Named on 1996-11-06 (announcement), which is the nomination date. End 1998-02-27 lies after the window and is the main file's value. In office after the 1996-12, 1997-03, 1997-08 and 1997-11 reshuffles (survival.json)."
+  },
+  "changes": [
+   {
+    "spell": "이상옥|1990-12-27",
+    "name": "이상옥",
+    "field": "end",
+    "old": "1993-02-25",
+    "new": "1993-02-26",
+    "evidence": "[verifier] 조선일보 1993-02-24 p.3 \"法(법)으론 0시 離(이)-就任(취임)…선서는 10시 「두 大統領(대통령)」10시간\" (Naver News Library article_id 1993022400239103001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400239103001&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00023&pageNo=3&printNo=22267&publishType=00010, accessed 2026-09-26T13:21:15-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022400239103001.json) quote: \"6共의 국무총리와 각료들은 신임 국무총리와 각료들이 정식임명되는 시점까지 직책을계속 수행한다는 설명이다.\" quote: \"25일0시부터 金泳三신임대통령의 내각이 정식으로 발족하는 26일오전까지\" | [verifier] 서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\" (BigKinds news_id 01100611.20160421220544125, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220544125&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:05-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100611.20160421220544125.json) quote: \"한편 이날 퇴임한 백광현장관은 이임식을 마친뒤 기자들에게\" [이날 = 1993-02-26, the day of the cabinet announcement, 내무부장관 of the same outgoing cabinet] | [verifier] 한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library article_id 1993022600289106003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json, accessed 2026-09-26T09:32:04-0400, snapshot roster/sources/foreign/ext88_verify/articles/nl_1993022600289106003.json) quote: \"26일 일제히 퇴임하는 경제부처 장관들은\" | [verifier] 서울경제 1993-02-27 \"\"환영\" \"당혹\" 교차속 「스타일점치기」 분주\" (BigKinds news_id 02100311.19930227162756004, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19930227162756004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:24:40-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_02100311.19930227162756004.json) quote: \"崔珏圭부총리겸 경제기획원장관은 26일 상오 새 정부의 組閣발표가 난 직후 이임식을 갖고 공직생활을 마감.\" | [verifier] 국민일보 1993-02-27 \"마지막 장관/정진영 경제부(현장기자)\" (BigKinds news_id 01100201.19930227000000705, full text via GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000705&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:30-0400, snapshot roster/sources/foreign/ext88_verify/articles/bk_01100201.19930227000000705.json) quote: \"이날 이임식은 비슷한 시각 다른 곳에서 열린 여타 정부부처의 이임식과는 판이한 의미를 지녔기 때문이었다.\" | [verifier] 국가기록원 기록물생산기관 변천정보, 외무부 (OG0016832) 기관장 \"이상옥 장관 ( 1990.12.27 ~ 1993.02.26 )\" (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016832&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:52:34-0400, snapshot roster/sources/foreign/ext88_verify/archives/archives_viewDetailInfo_OG0016832.html) [tier 2, but the page gives 외교통상부 홈페이지 as its reference, so it is not independent of the 외교부 page] | contrary source kept in end_sources, 중앙일보 1993-02-25 (builder's source) '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.'"
+   }
+  ],
+  "conflicts_considered_not_disputed": [
+   "최광수 start 1986-08-27 against 1986-08-26 (대한민국사연표 and ko.wikipedia, the announcement day) and 1986-09-01 (his own 임명장). The 외교부 page and the batch 임명장 of the other nine appointees give 1986-08-27, and the sibling files start the whole 1986 cohort on 1986-08-27.",
+   "최호중 start 1988-12-05, 이상옥 start 1990-12-27 and 공로명 start 1994-12-24 against each man's own 임명장 (1988-12-12, 1990-12-31, 1994-12-26). The batch date is the 외교부 page date, and for 1990 it is reported as the 발령 date (경향신문 1990-12-27).",
+   "한승주 end 1994-12-24 against the phrase '23일 개각에서 물러난' (조선일보 1994-12-25 p.4). The same story says he held his 이임식 on 12-24, the successors received their 임명장 that morning, and justice, science and general_affairs end their outgoing ministers on 1994-12-24.",
+   "공로명 end 1996-11-06 against the 외교부 page (1996.11.07, the successor's 임명장 day). Four stories the builder did not cite put the acceptance on 11-06."
+  ],
+  "completeness": [
+   "Holder list rebuilt without the 외교부 page. (a) Yearly news scan 1986-08..1998-03, News Library ('신임 외무장관', '외무장관 경질') and BigKinds ('신임 외무장관' from 1988), 37 query-years and 1936 hits. The names printed next to 외무장관 are the six holders, the predecessor 이원경, foreign counterparts and retrospective mentions (박동진, 이범석, 김동조, 정일형). No other Korean holder (roster/sources/foreign/ext88_verify/sweep/yearly_scan.json).",
+   "(b) 대한민국사연표, 385 cached days 1986-08..1998-03. Every entry naming a sitting 외무부장관 names a roster holder (1988-03-21 최광수, 1989-07-07 and 1989-07-09 최호중, 1990-09-21 최호중, 1991-01-24 to 1991-07-18 이상옥, 1994-10-03 한승주, 1996-10-19 공로명). db.history.go.kr did not answer new requests on 2026-09-26, so days outside the cache were not read (roster/sources/foreign/ext88_verify/chron_pa/chron_cached_scan.json).",
+   "(c) 대통령기록관 yearly schedules read for 전두환 1986-1988, 노태우 1988-1993, 김영삼 1993-1998 and 김대중 1998. No row names another 외무장관 (roster/sources/foreign/ext88_verify/chron_pa/).",
+   "(d) 국가기록원 기관장 list for 외무부 (OG0016832) gives the same six holders with the 외교부 page dates, but names the 외교통상부 homepage as its reference, so it only confirms that the builder read the page correctly. en.wikipedia (revid 1373781355, secondary, also sourced to the 외교부 page) agrees.",
+   "(e) Survival check. For 43 pairs of reshuffle day and sitting holder (reshuffle days from the 연표 and from start dates shared by three or more ext88 lineages), a later story names the same person as 외무장관 in 42 cases. The 43rd is 한승주 on 1994-12-23, the day his own replacement was announced (roster/sources/foreign/ext88_verify/survival/survival.json). The pairs and first stories are 최광수|1987-05-18 -> 19870620 중앙일보 \"더윈스키 내한\" (01100901.19870620194253001) | 최광수|1987-05-26 -> 19870620 중앙일보 \"더윈스키 내한\" (01100901.19870620194253001) | 최광수|1987-07-13 -> 19870722 중앙일보 \"릴리 미대사 일시 귀국\" (01100901.19870722194734009) | 최광수|1987-07-14 -> 19870722 중앙일보 \"릴리 미대사 일시 귀국\" (01100901.19870722194734009) | 최광수|1988-02-25 -> 1988-03-04 중앙일보 \"김형귀 총재비서실장|젊은 사람들과 친화력\" (01100901.19880304005831001) | 최광수|1988-03-25 -> 19880404 중앙일보 \"한-호 외무회담\" (01100901.19880404012815002) | 최광수|1988-05-07 -> 19880602 중앙일보 \"미 수교국 88연락관 영사 기능 허용 검토-최 외무\" (01100901.19880602022555001) | 최호중|1989-07-19 -> 19890720 중앙일보 \"최호중 외무장관 방미|25일「베이커」와 회담\" (01100901.19890720133107002) | 최호중|1990-01-03 -> 1990-03-15 한겨레 \"합당뒤 첫 개각 초읽기\" (1990031500289103002) | 최호중|1990-03-19 -> 19900530 한겨레 \"일왕 방한 공식초청/최외무 밝혀\" (01101001.19900530000000108) | 최호중|1990-09-19 -> 1990-12-27 한겨레 \"개각 임박…'점치기'무성\" (1990122700289102001) | 최호중|1990-10-12 -> 1990-12-27 한겨레 \"개각 임박…'점치기'무성\" (1990122700289102001) | 이상옥|1991-04-27 -> 19910806 경향신문 \"유엔가입 신청/오늘 새벽에/8일 안보리서 처리\" (01100101.19910806000000103) | 이상옥|1991-05-24 -> 1991-09-18 한겨레 \"'남북한 유엔가입 통과'현장 중계\" (1991091800289103004) | 이상옥|1991-05-26 -> 1991-09-18 한겨레 \"'남북한 유엔가입 통과'현장 중계\" (1991091800289103004) | 이상옥|1991-05-27 -> 1991-09-18 한겨레 \"'남북한 유엔가입 통과'현장 중계\" (1991091800289103004) | 이상옥|1991-12-20 -> 1992-02-06 국민일보 \"한­러연 우호조약 적극추진/정부\" (01100201.19920206000000204) | 이상옥|1992-01-22 -> 1992-02-06 국민일보 \"한­러연 우호조약 적극추진/정부\" (01100201.19920206000000204) | 이상옥|1992-03-31 -> 19920715 한국일보 \"65년 한·일 회담자료/민주당서 공개 요구\" (01101101.19920715000000209) | 이상옥|1992-05-25 -> 1992-09-10 한겨레 \"초대 주한중국대사 장칭옌\" (1992091000289101009) | 이상옥|1992-06-25 -> 1992-09-10 한겨레 \"초대 주한중국대사 장칭옌\" (1992091000289101009) | 이상옥|1992-06-26 -> 1992-09-10 한겨레 \"초대 주한중국대사 장칭옌\" (1992091000289101009) | 이상옥|1992-07-23 -> 1992-09-10 한겨레 \"초대 주한중국대사 장칭옌\" (1992091000289101009) | 이상옥|1992-10-09 -> 19921224 부산일보 \"上海·廣州·瀋陽에 총영사관\" (01500701.20160409002613688) | 한승주|1993-03-08 -> 1993-03-09 한겨레 \"고위공직자 3명 또'미국국적'구설수\" (1993030900289105003) | 한승주|1993-10-18 -> 1993-12-20 한겨레 \"조각보다 난해한 2기개각\" (1993122000289103001) | 한승주|1993-12-22 -> 19940408 중앙일보 \"한 외무­블릭스 12일 긴급회동/추가사찰 시한확정\" (01100901.19940408214149003) | 한승주|1994-10-04 -> 1994-10-11 한겨레 \"김대통령 대북 강경발언 한-미 마찰 파문 북-미회담 장애 우려 미'불쾌감' 관행 벗어난 발언 한국입지 좁혀\" (1994101100289103003) | 한승주|1994-12-23 -> none (reshuffle announced that day, holder replaced on 1994-12-24) | 공로명|1995-05-15 -> 19950802 매일경제 \"안 목사 실종규명 강주석 방한 논의/한·중 외무회담\" (02100101.20160113060029530) | 공로명|1995-05-24 -> 19950818 매일경제 \"브라질 차수입제한 조속철폐 공식요청\" (02100101.20160113061149081) | 공로명|1995-07-04 -> 19951012 한겨레 \"정부,일 총리 발언 항의\" (01101001.19951012000000106) | 공로명|1995-12-21 -> 1996-01-13 한겨레 \"한-일 외무도 통화\" (1996011300289102012) | 공로명|1996-08-08 -> 1996-11-06 국민일보 \"신임 외무장관 유종하씨/외교안보수석엔 반기문씨/김 대통령 임명\" (01100201.19961106000000102) | 공로명|1996-08-09 -> 1996-11-06 국민일보 \"신임 외무장관 유종하씨/외교안보수석엔 반기문씨/김 대통령 임명\" (01100201.19961106000000102) | 유종하|1996-11-13 -> 19970223 한국일보 \"“4자 본회담 적극 추진”/한­미 외무회담\" (01101101.19970223000000104) | 유종하|1996-12-20 -> 19970414 세계일보 \"북 개혁­개방 지원용의/유종하 외무 밝혀\" (01100701.19970414000000207) | 유종하|1997-02-13 -> 1997-05-03 매일경제 \"인물 동정\" (1997050300099123009) | 유종하|1997-03-05 -> 1997-05-03 매일경제 \"인물 동정\" (1997050300099123009) | 유종하|1997-03-06 -> 1997-05-03 매일경제 \"인물 동정\" (1997050300099123009) | 유종하|1997-08-05 -> 1997-08-07 한겨레 \"정부부처 대응 KAL기 참사 청와대\"개각하자마자 대참사\"침통\" (1997080700289107001) | 유종하|1997-08-06 -> 1997-08-07 한겨레 \"정부부처 대응 KAL기 참사 청와대\"개각하자마자 대참사\"침통\" (1997080700289107001) | 유종하|1997-11-19 -> 1997-12-03 중앙일보 \"[간추린 소식]유종하외무장관,스티븐 보스워스 신임 주한미국대사 만나\" (01100901.19971203211540002)",
+   "(f) Election resignations and short tenures. No 외무장관 left to run in the 1988, 1992 or 1996 general elections or the 1995 local elections, and the scans show no short tenure. 외무부 was not renamed or merged inside the window. It became 외교통상부 on 1998-02-28, after the window (from_main spell of 유종하)."
+  ],
+  "continuity": "Recomputed. Same-day handovers are 1988-02-25 최광수 -> 최광수 | 1988-12-05 최광수 -> 최호중 | 1990-12-27 최호중 -> 이상옥 | 1993-02-26 이상옥 -> 한승주 | 1994-12-24 한승주 -> 공로명. The next-day handover is 공로명 1996-11-06 -> 유종하 1996-11-07. No vacancy and no overlap longer than the handover day. The window 1988-02-25..1998-02-24 is fully covered (최광수 from 1986-08-27, 유종하 to 1998-02-27). The 1988-02-25 same-day pair is the 전두환/노태우 split of 최광수, the same convention used for the other six 재기용 ministers in finance, justice, interior, sports, land and ict. Days on which a newly named minister was still abroad are not vacancies (continuity.de_facto_absences_not_vacancies).",
+  "field_hygiene": "appointing_president matches each start (전두환 for 최광수 1986, 노태우 for 최광수 1988, 최호중 and 이상옥, 김영삼 for 한승주, 공로명 and 유종하). No acting president appointed anyone. deputy_pm false throughout, correct because offices_1988.json gives 외무부 (OFA12) no 부총리 title and lists no foreign designation in deputy_pm_designations. ministry 외무부 and office_title 외무부장관 for every spell. reorg_continuation false and reappointed_on_reorg null everywhere, correct because no reorganisation touched 외무부 in the window. pm_status and pm_acting_until null. from_main record 유종하 identical to foreign.verified.json. name_hanja checked against the stories read (崔侊洙, 崔浩中, 李相玉, 韓昇洲, 孔魯明, 柳宗夏). Birth dates stay secondary (ko.wikipedia, Wikidata) and were not re-sourced (roster/sources/foreign/ext88_verify/fields_check.json).",
+  "nominations_check": "7 nominations, one per spell, all appointed, none needing a hearing or a consent vote (국무위원 hearings began in 2005). nomination_date is the announcement day and outcome_date the spell start, both matching the stories read (1986-08-26/27, 1988-02-19/25, 1988-12-05, 1990-12-27, 1993-02-26, 1994-12-23/24, 1996-11-06/07). No change.",
+  "pm_checks": "not applicable (foreign lineage)",
+  "cross_lineage_notes": [
+   "1993-02 transition. With this change every ext88 lineage ends the 현승종 cabinet ministers on 1993-02-26.",
+   "1988-02-25. All seven 재기용 ministers (foreign, finance, justice, interior, sports, land, ict) are split into a 전두환 spell ending 1988-02-25 with end_reason 'resigned' and a 노태우 spell starting 1988-02-25.",
+   "1990-12-27. 최호중's foreign end and unification start are both 1990-12-27."
+  ],
+  "source_access": [
+   "db.history.go.kr answered only from the shared cache on 2026-09-26 (new requests timed out in the earlier run), so the 연표 check covers the 385 cached days of the window.",
+   "News Library texts are OCR and quotes are matched to the stored text. The 1988-1989 papers in BigKinds (서울신문, 한국일보, 중앙일보, 한국경제) are independent of the News Library papers (동아, 경향, 매경, 조선, 한겨레)."
+  ],
+  "scripts": [
+   "roster/scripts/foreign_ext88_verify_01_cited.py",
+   "roster/scripts/foreign_ext88_verify_02_monthly_sweep.py",
+   "roster/scripts/foreign_ext88_verify_02b_yearly_scan.py",
+   "roster/scripts/foreign_ext88_verify_03_chron_pa.py",
+   "roster/scripts/foreign_ext88_verify_04_targeted.py",
+   "roster/scripts/foreign_ext88_verify_04b_show.py",
+   "roster/scripts/foreign_ext88_verify_04c_targeted_T67.py",
+   "roster/scripts/foreign_ext88_verify_05_archives.py",
+   "roster/scripts/foreign_ext88_verify_06_read.py",
+   "roster/scripts/foreign_ext88_verify_07_fields.py",
+   "roster/scripts/foreign_ext88_verify_08_1993.py",
+   "roster/scripts/foreign_ext88_verify_09_1993b.py",
+   "roster/scripts/foreign_ext88_verify_10_survival.py",
+   "roster/scripts/foreign_ext88_verify_11_build.py"
+  ],
+  "snapshots": "roster/sources/foreign/ext88_verify/ (articles/, targeted/, sweep/, chron_pa/, archives/, secondary/, y1993/, y1993b/, survival/, builder_cited.json, fields_check.json)",
+  "steps_done": [
+   "01 builder_cited.json (ids the builder used)",
+   "02b yearly holder scan 1986-1998 (News Library and BigKinds)",
+   "03 대한민국사연표 cached days and 대통령기록관 schedules",
+   "04 targeted searches T1-T7 around every start and end, stories read and quotes checked",
+   "05 국가기록원 기관장 list",
+   "07 field hygiene",
+   "08, 09 extra searches for 이상옥's exit in 1993-02",
+   "10 survival check across 43 reshuffle days",
+   "11 build and assertions (quotes in text, no builder id reused, continuity, from_main identity)"
+  ],
+  "counts": {
+   "spells": 7,
+   "nominations": 7,
+   "acting": 0,
+   "confirmed": 6,
+   "corrected": 1,
+   "disputed": 0,
+   "added": 0
+  }
+ }
+}

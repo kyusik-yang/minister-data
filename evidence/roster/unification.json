@@ -1,0 +1,1658 @@
+{
+ "lineage": "unification",
+ "built_at": "2026-09-25T21:36:19-0400",
+ "ministry_names": [
+  {
+   "ministry": "통일원",
+   "from": "1998-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 통일원장관 (1998-02-25..1998-02-27; 정부조직법 제17조③, 법률 제5153호 version)",
+   "legal_basis": "정부조직법 법률 제5153호 제17조, 제23조의2 (in force at window start); abolished by 법률 제5529호 (1998-02-28), 부칙 제3조",
+   "source": "offices.json OF003 (GOA_5153 https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808, GOA_5529)"
+  },
+  {
+   "ministry": "통일부",
+   "from": "1998-02-28",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5529호 제26조①②, 제28조 (establishes); 법률 제8852호 (2008-02-29), 제11690호 (2013-03-23) continue it; 법률 제21065호 version effective 2026-01-02 제29조①② still lists it",
+   "source": "offices.json OF024 (GOA_5529 https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228, GOA_8852, GOA_11690, GOA_21065_b)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "권오기",
+   "name_hanja": "權五琦",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1932-12-10",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1995-12-21",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 page, entry '23대 권오기 1995.12.21∼ 1998.03.02 부총리 겸 통일원장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "BigKinds metadata: 국민일보 1995-12-20 \"부총리 나웅배<경제>·권오기<통일>씨/새 비서실장 김광일씨\" (news_id 01100201.19951220000000101) (headline names 권오기 as 통일 부총리 in the reshuffle announced 1995-12-20); snapshot sources/unification/bigkinds/bk_1995-12-20_1995-12-22_28263a3de3.json; accessed 2026-09-25T13:41:03-0400",
+    "BigKinds metadata: 한국경제 1995-12-21 \"경제부총리 나웅배씨/11부장관 경질/통일부총리 권오기씨\" (news_id 02100601.20160116002514946) (headline 통일부총리 권오기씨, 1995-12-21 edition); snapshot sources/unification/bigkinds/bk_1995-12-20_1995-12-22_28263a3de3.json; accessed 2026-09-25T13:41:03-0400",
+    "연합뉴스 1995-12-20 00:00 \"權五琦부총리 기용 배경\" (12.20 개각 names 權五琦 통일부총리); https://n.news.naver.com/mnews/article/001/0003962717; snapshot sources/unification/news/naver_001_0003962717.html; accessed 2026-09-25T12:59:54-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400",
+    "[verifier] BigKinds metadata: 중앙일보 1995-12-21 '부총리 羅雄培.權五琦씨-11部장관 경질 비서진 7명도' (news_id 01100901.19951221032608001) '김영삼 대통령은 20일 ... 부총리겸 통일원장관에는 권오기 동아일보사장을 임명하는등 11개 부처에 대한 개각을 단행했다' (reports 1995-12-20 as the day of appointment); 한겨레 1995-12-21 news_id 01101001.19951221000000303 '통일부총리로 임명된 권오기 동아일보사 사장은 20일 오후 기자들과 만나'; snapshot sources/unification/verify/bigkinds/bk_권오기_start_1995-12-20_1995-12-23_660d7f73f4.json; accessed 2026-09-25T21:59:41-0400",
+    "[verifier] BigKinds metadata: 경향신문 1995-12-22 '“내년은 제2건국의 해”/역사 바로세우기 강조' (news_id 01100101.19951222000000201) '김 대통령 새 각료에 임명장 ... 21일' and 서울신문 1995-12-22 '대북 민간대화 활성화/세계화와 연계 등 3대통일정책 제시' (news_id 01100611.20160423094400081) '권오기 부총리겸 통일원 장관은 21일 ... 취임식' (임명장 and 취임식 on 1995-12-21); snapshot sources/unification/verify/bigkinds/bk_권오기_start2_1995-12-20_1995-12-22_71c6231845.json; accessed 2026-09-25T21:59:55-0400",
+    "[verifier] Namu Wiki '통일부장관' (secondary, page revision of 2026-08-08 18:22:45) lists '23대 권오기 (權五琦) 1995년 12월 21일 ~ 1998년 3월 2일' and 나웅배 to 1995-12-20; https://namu.wiki/w/%ED%86%B5%EC%9D%BC%EB%B6%80%EC%9E%A5%EA%B4%80; snapshot sources/unification/verify/namu_통일부장관.html (+ .txt); accessed 2026-09-25T21:55:22-0400"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices.json (OF003 통일원 to 1998-02-27, OF024 통일부 from 1998-02-28; 정부조직법 법률 제5529호 부칙 제3조② transfers 통일원 staff to 통일부 '정무직을 제외한다'); offices.json; law text snapshot sources/unification/law_govorg_5529.html",
+    "연합뉴스 1998-02-28 13:29 \"새 정부조직법 발효-1\" (new 정부조직법 promulgated and effective 28일 오후; heads of the 7 new ministries incl. 통일부 궐위); https://n.news.naver.com/mnews/article/001/0004297292; snapshot sources/unification/news/naver_001_0004297292.html; accessed 2026-09-24T22:45:05-0400",
+    "연합뉴스 1998-02-28 17:06 \"새 정부조직법 공포로 여야대립 격화 조짐\" (통일부 등 7개 정부 기관장이 궐위); https://n.news.naver.com/mnews/article/001/0004297471; snapshot sources/unification/news/naver_001_0004297471.html; accessed 2026-09-24T22:45:06-0400",
+    "연합뉴스 1998-02-27 11:29 \"<행정공백 3일째 부처 표정>-총리실.공보처등\" (權五琦통일부총리 still at work on 1998-02-27); https://n.news.naver.com/mnews/article/001/0004299510; snapshot sources/unification/news/naver_001_0004299510.html; accessed 2026-09-24T22:44:49-0400",
+    "연합뉴스 1998-03-02 11:14 \"새 정부조직 발효 사흘째, 국정마비 계속\" (1998-03-02: 통일부 장·차관 임명 지연, no minister in office); https://n.news.naver.com/mnews/article/001/0004372544; snapshot sources/unification/news/naver_001_0004372544.html; accessed 2026-09-24T22:45:17-0400",
+    "[verifier] BigKinds metadata: 한국경제 1998-03-02 '정부조직법 발효 .. 김대통령, 53개 법령 서명' (news_id 02100601.20160116161620774) '새 정부조직법이 28일 오후 공포 발효 ... 재정경제부 통일부 ... 등 명칭이 바뀌는 7개 부의 ...'; 강원도민일보 1998-03-02 '7개部處 장·차관 空席' (news_id 01300101.20160621134929432); snapshot sources/unification/verify/bigkinds/bk_권오기_end2_1998-02-28_1998-03-03_f123569062.json; accessed 2026-09-25T22:00:17-0400",
+    "[verifier] BigKinds metadata: 동아일보 1998-03-04 ''서리체제'위헌 지적 權五琦 前부총리 高총리 이임식 불참' (news_id 01100401.19980304093704005) '권오기 전 통일부총리는 3일 오후 ... 장관 이임식을 가진 뒤' (farewell 1998-03-03, after the office was abolished); snapshot sources/unification/verify/bigkinds/bk_권오기_end_1998-02-26_1998-03-05_b83fbde3dd.json; accessed 2026-09-25T22:00:05-0400"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript coverage starts 2000-06.",
+   "notes": "Kim Young-sam era holdover (caretaker cabinet under PM 고건 from 1998-02-25). 통일원 was abolished when 정부조직법 법률 제5529호 took effect on the afternoon of 1998-02-28 (on gazette delivery per 연합뉴스). The 정무직 were excluded from the staff transfer, and contemporary reports say the new 통일부 head post was vacant, so he did not continue as 통일부장관 (reorg_continuation false). end is set to 1998-02-27 to match the legal day convention in offices.json. The ministry page and ko.wikipedia list 1998-03-02 (the day before his successor's appointment), and he held a farewell ceremony on 1998-03-03 (연합뉴스 1998-03-03 18:44 \"金鍾泌총리서리 취임식 안팎\" (權五琦전통일부총리와 康仁德신임통일장관이 서로 엇갈려 이.취임식); https://n.news.naver.com/mnews/article/001/0004374671; snapshot sources/unification/news/naver_001_0004374671.html; accessed 2026-09-24T22:45:11-0400). The reshuffle was announced on 1995-12-20. The ministry page gives 1995-12-21 as his start, which is used here. birth_date from Wikidata Q12586107 (via ko.wikipedia title '권오기 (1932년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. The start day is disputed between 1995-12-20 (announcement, reported by 중앙일보 and 한겨레 as the day he was appointed) and 1995-12-21 (임명장 and 취임식, ministry page). No 관보 file exists for 1995. The value 1995-12-21 is kept because it is the ministry page date and matches the 임명장-day convention most lineages used for the 1997-08-05/06 YS reshuffle. The end follows the cross-lineage convention for ministries abolished on 1998-02-28 (all such rosters end on 1998-02-27)."
+  },
+  {
+   "name": "강인덕",
+   "name_hanja": "康仁德",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1932-11-10",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 page, entry '24대 강인덕 1998.03.03∼ 1999.05.23 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "연합뉴스 1998-03-03 12:39 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" (조각 발표 1998-03-03, 통일부장관에 康仁德극동문제연구소장); https://n.news.naver.com/mnews/article/001/0004372354; snapshot sources/unification/news/naver_001_0004372354.html; accessed 2026-09-24T22:44:26-0400",
+    "연합뉴스 1998-03-03 15:43 \"金대통령 초대내각 임명장 수여 안팎\" (초대내각 임명장 수여 1998-03-03); https://n.news.naver.com/mnews/article/001/0004368749; snapshot sources/unification/news/naver_001_0004368749.html; accessed 2026-09-24T22:44:23-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400",
+    "[verifier] BigKinds metadata: 중앙일보 1998-03-04 '김대중 대통령, '총리서리' 진통속 組閣' (news_id 01100901.19980304230248002) '김대중 대통령은 3일 ... 새 정부 17개부에 대한 첫 조각을 단행'; 문화일보 1998-03-04 '“북 변화 맞춰 유연성있는 실사구시정책 추진”/강인덕 통일 회견' (news_id 01100501.19980304000000504) '강인덕 통일부장관은 3일 ... 장관 임명 직후 기자들과 만난'; snapshot sources/unification/verify/bigkinds/bk_강인덕_start_1998-03-03_1998-03-05_d8d026b158.json; accessed 2026-09-25T22:00:27-0400"
+   ],
+   "end": "1999-05-24",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1999-05-24 15:16 \"강 전통일장관 \"대북 포용정책 일관돼야\"\" (이임식 1999-05-24); https://n.news.naver.com/mnews/article/001/0004515858; snapshot sources/unification/news/naver_001_0004515858.html; accessed 2026-09-24T22:46:59-0400",
+    "연합뉴스 1999-05-24 09:54 \"<5.24 개각 부처 표정>-통일부\" (5.24 개각, 신임 임동원 통일부장관); https://n.news.naver.com/mnews/article/001/0004509786; snapshot sources/unification/news/naver_001_0004509786.html; accessed 2026-09-24T22:47:14-0400",
+    "통일부 열린장관실 역대장관 page, entry '24대 강인덕 1998.03.03∼ 1999.05.23 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 국민일보 1999-05-25 '[5·24개각] '김대중 2기내각' 출범' (news_id 01100201.19990525000000101) '김대중 대통령은 24일 ... 통일부장관에 ... 임동원 외교안보수석을 ... 발탁하는 등 ... 11개 부처 장관을 경질'; snapshot sources/unification/verify/bigkinds/bk_임동원_start1_1999-05-24_1999-05-28_02665247e3.json; accessed 2026-09-25T22:01:01-0400",
+    "[verifier] BigKinds metadata: 중앙일보 1999-05-25 '[말말말]' (news_id 01100901.19990525074358001) quotes '강인덕 전 통일장관, 퇴임과 함께'; snapshot sources/unification/verify/bigkinds/bk_강인덕_end2_1999-05-24_1999-05-25_6eaf0f4f34.json; accessed 2026-09-25T22:09:15-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "gender is M because the 1998-03-03 cabinet profile counts only 申樂均 and 朱良子 as women (연합뉴스 1998-03-03 16:14 \"金大中정부 각료 지역.학교.연령별 분포\"; https://n.news.naver.com/mnews/article/001/0004371651; snapshot sources/unification/news/naver_001_0004371651.html; accessed 2026-09-24T22:46:48-0400). His farewell ceremony and his successor's appointment were both on 1999-05-24 (same-day handover). The ministry page shows 1999-05-23 as his last day. birth_date from Wikidata Q117434875 (via ko.wikipedia title '강인덕 (공무원)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "임동원",
+   "name_hanja": "林東源",
+   "name_en": "Lim Dong-won",
+   "name_en_source": "Wikidata Q623884 (via ko.wikipedia title '임동원'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "1999-05-24",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 page, entry '25대 임동원 1999.05.24∼ 1999.12.23 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "연합뉴스 1999-05-24 09:54 \"<5.24 개각 부처 표정>-통일부\" (5.24 개각, 신임 임동원 통일부장관); https://n.news.naver.com/mnews/article/001/0004509786; snapshot sources/unification/news/naver_001_0004509786.html; accessed 2026-09-24T22:47:14-0400",
+    "연합뉴스 1999-05-24 14:12 \"임동원 통일부 장관 일문일답\" (입각이 결정된 임동원 통일부 장관은 24일); https://n.news.naver.com/mnews/article/001/0004506080; snapshot sources/unification/news/naver_001_0004506080.html; accessed 2026-09-24T22:47:13-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400",
+    "[verifier] BigKinds metadata: 세계일보 1999-05-25 '김대통령 대폭 개각 단행' (news_id 01100701.19990525000000102) '24일 ... 통일장관에 林東源 청와대외교안보수석을 임명하는등'; SBS 1999-05-24 '장관 11명 교체' (news_id 08100301.19990524170958001) '임동원 외교안보수석도 통일부장관에 임명돼'; 중앙일보 1999-05-25 '[5.24 개각] 정치권.부처 표정' (news_id 01100901.19990525074357001) '이날 오후 청와대에서 신임장관들에게 임명장'; snapshots sources/unification/verify/bigkinds/bk_임동원_start1_1999-05-24_1999-05-28_02665247e3.json (accessed 2026-09-25T22:01:01-0400) and sources/unification/verify/bigkinds/bk_임동원_start1b_1999-05-24_1999-05-28_fe296b7074.json (accessed 2026-09-25T22:01:15-0400)",
+    "[verifier] DJ-era analog for the legal date. 홍순영 was named on 2001-09-07 and 관보 제14901호 dates his appointment '◉2001년 9 월 7 일자', but he received his 임명장 only on 2001-09-12 after flying back from Beijing (BigKinds metadata 서울신문 2001-09-13 '남북장관급회담 예정대로' news_id 01100611.20160421064434844 and 서울경제 2001-09-13 '홍순영 신임 통일 귀국' news_id 02100311.20160316132109463, '12일 오후 ... 귀국 ... 청와대로 이동해 김대중 대통령으로부터 임명장을 받았다'; 중도일보 2001-09-08 news_id 01400351.20010908150517002 '7일 오후 ... 홍순영 통일 장관을 제외한 신임 장관 4명에게 임명장'); snapshot sources/unification/verify/bigkinds/bk_홍순영_imm_2001-09-07_2001-09-14_be31bb98a0.json; accessed 2026-09-25T22:07:35-0400"
+   ],
+   "end": "1999-12-23",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1999-12-23 11:19 \"신임 국정원장 임동원씨-1\" (reports that on the 23rd the President named 통일부장관 임동원 as the new 국정원장); https://n.news.naver.com/mnews/article/001/0004496066; snapshot sources/unification/news/naver_001_0004496066.html; accessed 2026-09-24T22:48:31-0400",
+    "연합뉴스 1999-12-23 17:38 \"임 전통일장관 이임식\" (임동원 전 통일부장관 이임식 23일 오후); https://n.news.naver.com/mnews/article/001/0004499870; snapshot sources/unification/news/naver_001_0004499870.html; accessed 2026-09-25T13:18:31-0400",
+    "통일부 열린장관실 역대장관 page, entry '25대 임동원 1999.05.24∼ 1999.12.23'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 동아일보 1999-12-24 '千국정원장 경질' (news_id 01100401.19991224103858001) '김대중 대통령은 23일 ... 후임에 임동원 통일부장관을 임명했다'; 경남도민일보 1999-12-24 '<사진>' (news_id 01500151.19991224173448109) '국정원장에 임명된 임동원 전 통일부장관이 23일 오후 통일부 장관실을 나서고 있다'; snapshot sources/unification/verify/bigkinds/bk_임동원_end1_1999-12-22_1999-12-26_8dc22ac4c5.json; accessed 2026-09-25T22:01:29-0400"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Named in the 1999-05-24 reshuffle while in Tokyo. The 임명장 was handed over on 1999-05-26 (연합뉴스 1999-05-26 11:33 \"김 대통령 신임 국정원장 등에 임명장\"; https://n.news.naver.com/mnews/article/001/0004511356; snapshot sources/unification/news/naver_001_0004511356.html; accessed 2026-09-24T22:47:26-0400), so the legal date may be 05-24 or 05-26. The ministry page uses 05-24. Left to become 국가정보원장 (announced 1999-12-23, 임명장 1999-12-24). Wikidata gives conflicting birth dates ['1933-01-01', '1934-01-01'], so birth_date is left null. Verifier note. The 1999-05-24 start is supported by the DJ-era practice seen in the 관보, where the appointment date follows the announcement even when the 임명장 comes later (홍순영, named and gazetted 2001-09-07, 임명장 2001-09-12). end_reason set to other because he moved to 국가정보원장."
+  },
+  {
+   "name": "박재규",
+   "name_hanja": "朴在圭",
+   "name_en": "Park Jae-Kyu",
+   "name_en_source": "Wikidata Q3365407 (via ko.wikipedia title '박재규 (1944년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1944",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "1999-12-23",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 page, entry '26대 박재규 1999.12.24∼ 2001.03.25 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "연합뉴스 1999-12-24 10:49 \"김대통령 임동원 원장에 임명장\" (24일 박재규 통일부장관에게 임명장 수여); https://n.news.naver.com/mnews/article/001/0004500874; snapshot sources/unification/news/naver_001_0004500874.html; accessed 2026-09-24T22:48:19-0400",
+    "연합뉴스 1999-12-24 11:24 \"박 통일장관 취임식\" (취임식 24일 오전); https://n.news.naver.com/mnews/article/001/0004490890; snapshot sources/unification/news/naver_001_0004490890.html; accessed 2026-09-24T22:48:01-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400",
+    "[verifier] 연합뉴스 1999-12-23 13:30 'NSC상임위 역학구도 어떻게 되나' ('임동원 통일부장관이 23일 국가정보원장으로 자리를 옮기고 박재규 경남대 총장이 임 장관의 후임으로 통일부장관에 임명됐기 때문이다'); https://n.news.naver.com/mnews/article/001/0004490253; snapshot sources/unification/verify/news/naver_001_0004490253.html; accessed 2026-09-25T22:13:39-0400",
+    "[verifier] 연합뉴스 1999-12-23 13:17 '<연합인터뷰> 박재규 신임 통일부 장관' ('박재규 신임 통일부 장관은 23일'); https://n.news.naver.com/mnews/article/001/0004488141; snapshot sources/unification/verify/news/naver_001_0004488141.html; accessed 2026-09-24T22:48:04-0400 (cache time of the original fetch)",
+    "[verifier] BigKinds metadata: 한겨레 1999-12-24 '국정원장 임동원씨 통일부 장관 박재규씨/연내 조기개각 검토' (news_id 01101001.19991224000000103), 서울신문 1999-12-24 '국정원장 임동원·통일부장관 박재규' (news_id 01100611.20160422144013111), 경향신문 1999-12-24 (news_id 01100101.19991224000000104), 중앙일보 1999-12-24 (news_id 01100901.19991224090948001) all report '김대중 대통령은 23일 ... 신임 통일부 장관에 박재규 경남대 총장을 임명'; 경남도민일보 1999-12-24 사설 (news_id 01500151.19991224173445109) '23일 오전 새 통일부장관에 박재규 전 경남대총장이 임명되었다'; snapshot sources/unification/verify/bigkinds/bk_박재규_imm_1999-12-23_1999-12-24_65d0320a84.json; accessed 2026-09-25T22:07:48-0400",
+    "[verifier] BigKinds metadata: 세계일보 1999-12-25 '박 통일부장관, 대북정책 탄력성 피력' (news_id 01100701.19991225000000502) '박장관은 23일의 장관 임명소감과 24일 취임사에서'; snapshot sources/unification/verify/bigkinds/bk_박재규_start_1999-12-23_1999-12-26_9574213244.json; accessed 2026-09-25T22:01:49-0400",
+    "[verifier] DJ-era analog for the legal date. 홍순영 was named on 2001-09-07 and 관보 제14901호 dates his appointment '◉2001년 9 월 7 일자', but he received his 임명장 only on 2001-09-12 after flying back from Beijing (BigKinds metadata 서울신문 2001-09-13 '남북장관급회담 예정대로' news_id 01100611.20160421064434844 and 서울경제 2001-09-13 '홍순영 신임 통일 귀국' news_id 02100311.20160316132109463, '12일 오후 ... 귀국 ... 청와대로 이동해 김대중 대통령으로부터 임명장을 받았다'; 중도일보 2001-09-08 news_id 01400351.20010908150517002 '7일 오후 ... 홍순영 통일 장관을 제외한 신임 장관 4명에게 임명장'); snapshot sources/unification/verify/bigkinds/bk_홍순영_imm_2001-09-07_2001-09-14_be31bb98a0.json; accessed 2026-09-25T22:07:35-0400"
+   ],
+   "end": "2001-03-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "국민일보 2001-03-26 18:28 \"[3·26 개각] 각 부처 개각 반응·표정\" (3·26 개각 당일 오전 경질 통보, 즉시 이임식 준비); https://n.news.naver.com/mnews/article/005/0000048234; snapshot sources/unification/news/naver_005_0000048234.html; accessed 2026-09-25T13:17:09-0400",
+    "관보 제14764호 (2001-03-30) 인사: ◉2001년 3 월26일자 임동원(林東源) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N; snapshot sources/unification/gazette_14764_00000000000000001319596776654000.pdf (+ .txt); accessed 2026-09-24T22:33:36-0400",
+    "통일부 열린장관실 역대장관 page, entry '26대 박재규 1999.12.24∼ 2001.03.25 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 경남신문 2001-03-27 '가는 통일' (news_id 01500051.20010327071152101) '26일 ... 이임식을 마친 박재규 前통일부장관'; 한겨레 2001-03-27 '예상밖 큰폭...맘놨던 부처들 당혹' (news_id 01101001.20010327000000504) '통일부는 박재규 장관의 교체를 뜻밖으로'; snapshot sources/unification/verify/bigkinds/bk_박재규_end_2001-03-26_2001-03-28_9151f8813e.json; accessed 2026-09-25T22:02:09-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "10 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2000-06-20 to 2001-02-19, all inside the spell.",
+   "notes": "The appointment was announced on 1999-12-23 (연합뉴스 1999-12-23 13:39 \"<통일부 표정> 박 장관 임명에 의외 반응 역력\"; https://n.news.naver.com/mnews/article/001/0004498245; snapshot sources/unification/news/naver_001_0004498245.html; accessed 2026-09-25T13:18:42-0400). The 임명장 and 취임식 were on 1999-12-24, the date the ministry page uses. Same-day handover to 임동원 on 2001-03-26. Absent from the old panel (audit coverage_gaps lead). Wikidata gives ['1944-01-01', '1944-08-11'], so only the year is kept, from Wikidata Q3365407 (via ko.wikipedia title '박재규 (1944년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier correction. start moved from 1999-12-24 to 1999-12-23, the day the President appointed him (announced by the 청와대 대변인 on the morning of 1999-12-23). The 임명장 and 취임식 were on 1999-12-24, which is the date on the ministry page and ko.wikipedia. Same-day handover from 임동원 on 1999-12-23."
+  },
+  {
+   "name": "임동원",
+   "name_hanja": "林東源",
+   "name_en": "Lim Dong-won",
+   "name_en_source": "Wikidata Q623884 (via ko.wikipedia title '임동원'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2001-03-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제14764호 (2001-03-30) 인사: ◉2001년 3 월26일자 임 동 원(林 東 源) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N; snapshot sources/unification/gazette_14764_00000000000000001319596776654000.pdf (+ .txt); accessed 2026-09-24T22:33:36-0400",
+    "동아일보 2001-03-26 18:41 \"장관급 12명 개각…국정원장 신건 통일 임동원\" (26일 ... 임동원 국정원장을 통일부장관에 새로 임명); https://n.news.naver.com/mnews/article/020/0000055089; snapshot sources/unification/news/naver_020_0000055089.html; accessed 2026-09-25T12:59:53-0400",
+    "통일부 열린장관실 역대장관 page, entry '27대 임동원 2001.03.26∼ 2001.09.06 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2001-09-07",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2001-09-07 16:28 \"林전통일 \"새 사고와 행동 필요\"\" (이임식 2001-09-07); https://n.news.naver.com/mnews/article/001/0000097758; snapshot sources/unification/news/naver_001_0000097758.html; accessed 2026-09-24T22:49:07-0400",
+    "관보 제14901호 (2001-09-13) 인사: ◉2001년 9 월 7 일자 홍순영(洪淳瑛) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N; snapshot sources/unification/gazette_14901_00000000000000001319017417050000.pdf (+ .txt); accessed 2026-09-24T22:43:59-0400",
+    "통일부 열린장관실 역대장관 page, entry '27대 임동원 2001.03.26∼ 2001.09.06 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 국민일보 2001-09-07 '통일 홍순영 건교 안정남씨… 5개部處 개각…' (news_id 01100201.20010907000000101) '김대중 대통령은 7일 임동원 통일부 장관 후임에 ... 홍순영 주중대사를 임명'; 문화일보 2001-09-07 (news_id 01100501.20010907000000502) '임동원 전통일부장관 후임에 ... 홍순영 주중대사를 임명'; snapshot sources/unification/verify/bigkinds/bk_임동원_end2b_2001-09-03_2001-09-09_cf53dba3a8.json; accessed 2026-09-25T22:02:42-0400",
+    "[verifier] BigKinds metadata: 국제신문 2001-09-08 '[말말말]' (news_id 01500401.20010908211000001) quotes '임동원 전 통일부 장관, 7일'; snapshot sources/unification/verify/bigkinds/bk_임동원_end2_2001-09-04_2001-09-09_fa13e2a76b.json; accessed 2026-09-25T22:02:23-0400"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "4 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2001-04-16 to 2001-08-29, all inside the spell.",
+   "notes": "The National Assembly passed a 해임건의안 against him on 2001-09-03 (매일경제 2001-09-03 16:19 \"임동원 통일장관 해임안 가결\"; https://n.news.naver.com/mnews/article/009/0000146450; snapshot sources/unification/news/naver_009_0000146450.html; accessed 2026-09-24T22:48:54-0400; bill 160910 filed 2001-08-24). He submitted his resignation with the whole cabinet on 2001-09-04 (매일경제 2001-09-04 17:07 \"떠나는 임동원 \"JP비난 섭섭\"\"; https://n.news.naver.com/mnews/article/009/0000146816; snapshot sources/unification/news/naver_009_0000146816.html; accessed 2026-09-24T22:49:24-0400) and was replaced on 2001-09-07 (same-day handover). Absent from the old panel (audit coverage_gaps lead). Wikidata gives conflicting birth dates ['1933-01-01', '1934-01-01'], so birth_date is left null."
+  },
+  {
+   "name": "홍순영",
+   "name_hanja": "洪淳瑛",
+   "name_en": "Hong Soon-young",
+   "name_en_source": "Wikidata Q5895672 (via ko.wikipedia title '홍순영 (외교관)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1937-01-30",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2001-09-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제14901호 (2001-09-13) 인사: ◉2001년 9 월 7 일자 홍 순 영(洪 淳 瑛) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N; snapshot sources/unification/gazette_14901_00000000000000001319017417050000.pdf (+ .txt); accessed 2026-09-24T22:43:59-0400",
+    "연합뉴스 2001-09-07 10:49 \"통일 홍순영 건교 안정남씨(종합)-1\" (7일 오전 통일부 장관에 홍순영 주중대사를 임명); https://n.news.naver.com/mnews/article/001/0000097673; snapshot sources/unification/news/naver_001_0000097673.html; accessed 2026-09-24T22:49:37-0400",
+    "통일부 열린장관실 역대장관 page, entry '28대 홍순영 2001.09.07∼ 2002.01.28 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] Re-read and 임명장 day. 홍순영 was named on 2001-09-07 and 관보 제14901호 dates his appointment '◉2001년 9 월 7 일자', but he received his 임명장 only on 2001-09-12 after flying back from Beijing (BigKinds metadata 서울신문 2001-09-13 '남북장관급회담 예정대로' news_id 01100611.20160421064434844 and 서울경제 2001-09-13 '홍순영 신임 통일 귀국' news_id 02100311.20160316132109463, '12일 오후 ... 귀국 ... 청와대로 이동해 김대중 대통령으로부터 임명장을 받았다'; 중도일보 2001-09-08 news_id 01400351.20010908150517002 '7일 오후 ... 홍순영 통일 장관을 제외한 신임 장관 4명에게 임명장'); snapshot sources/unification/verify/bigkinds/bk_홍순영_imm_2001-09-07_2001-09-14_be31bb98a0.json; accessed 2026-09-25T22:07:35-0400"
+   ],
+   "end": "2002-01-29",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2002-01-29 10:35 \"장관급 9명 경질 단행-1\" (29일 ... 홍순영 통일부 장관을 경질하고 후임에 ... 정세현); https://n.news.naver.com/mnews/article/001/0000128440; snapshot sources/unification/news/naver_001_0000128440.html; accessed 2026-09-25T13:14:24-0400",
+    "관보 제15018호 (2002-02-02) 인사: ◉2002년 1 월29일자 정세현(丁世鉉) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N; snapshot sources/unification/gazette_15018_00000000000000001319020047126000.pdf (+ .txt); accessed 2026-09-24T22:44:15-0400",
+    "통일부 열린장관실 역대장관 page, entry '28대 홍순영 2001.09.07∼ 2002.01.28 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 인천일보 2002-01-30 '장관 9명·수석 6명 교체' (news_id 01200401.20020130003119001) and 중부일보 2002-01-30 '장관(급) 9명교체' (news_id 01400501.20020130163554001) '29일 ... 홍순영 통일부장관을 경질하고 후임에 ... 정세현 국정원장 특보를 각각 기용'; snapshot sources/unification/verify/bigkinds/bk_홍순영_end3_2002-01-29_2002-01-31_1499aa9e08.json; accessed 2026-09-25T22:09:19-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "3 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2001-09-27 to 2001-11-19, all inside the spell.",
+   "notes": "Same-day handover on 2002-01-29. Absent from the old panel (audit coverage_gaps lead). birth_date from Wikidata Q5895672 (via ko.wikipedia title '홍순영 (외교관)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. 임명장 on 2001-09-12 after his return from Beijing. The legal date remains the gazette's 2001-09-07."
+  },
+  {
+   "name": "정세현",
+   "name_hanja": "丁世鉉",
+   "name_en": "Jeong Se-hyun",
+   "name_en_source": "Wikidata Q6180281 (via ko.wikipedia title '정세현 (1945년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1945",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2002-01-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15018호 (2002-02-02) 인사: ◉2002년 1 월29일자 정 세 현(丁 世 鉉) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N; snapshot sources/unification/gazette_15018_00000000000000001319020047126000.pdf (+ .txt); accessed 2026-09-24T22:44:15-0400",
+    "매일경제 2002-01-29 16:43 \"8개부처 장관 교체\" (29일 ... 홍순영 통일부 장관을 경질하고 후임에 ... 정세현 국정원장 특보); https://n.news.naver.com/mnews/article/009/0000189749; snapshot sources/unification/news/naver_009_0000189749.html; accessed 2026-09-25T13:03:26-0400",
+    "통일부 열린장관실 역대장관 page, entry '29대 정세현 2002.01.29∼ 2003.02.26 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2004-06-30",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2004-06-30 17:15 \"<떠나는 정세현 前통일장관>\" (정세현 전 통일부장관 이임식 30일 오후); https://n.news.naver.com/mnews/article/001/0000689746; snapshot sources/unification/news/naver_001_0000689746.html; accessed 2026-09-25T13:16:04-0400",
+    "통일부 열린장관실 역대장관 page, entry '30대 정세현 2003.02.27∼ 2004.06.30 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "관보 제15737호 (2004-07-06) 인사: ⊙2004년 7 월 1 일자 정동영(鄭東泳) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N; snapshot sources/unification/gazette_15737_00000000000000001319031615639000.pdf (+ .txt); accessed 2026-09-24T22:46:50-0400",
+    "[verifier] BigKinds metadata: 노컷뉴스 2004-06-30 '떠나는 정세현, 잠 좀 자고...통일 예보 전도사 되겠다' (news_id 04100058.20040630131200003) '오늘 이임식을 가진 정세현 장관'; snapshot sources/unification/verify/bigkinds/bk_정세현_end3_2004-06-30_2004-07-02_c7e1991fd2.json; accessed 2026-09-25T22:09:22-0400",
+    "[verifier] BigKinds metadata: 영남일보 2004-07-01 '3개부 개각 임명장 수여' (news_id 01500801.20040701170225001) '노무현 대통령은 30일 통일부 장관에 ... 정동영 전 의장 ... 을 임명하는 등 ... 개각을 단행하고 1일 오전 청와대에서 임명장을 수여했다'; snapshot sources/unification/verify/bigkinds/bk_정세현_end4_2004-06-30_2004-07-02_f369d88eac.json; accessed 2026-09-25T22:09:24-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "24 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2002-02-07 to 2004-04-27, all inside the spell.",
+   "notes": "One continuous tenure 2002-01-29..2004-06-30. President 노무현 issued a new appointment on 2003-02-27 (관보 제15338호 (2003-03-05) 인사: ◉2003년 2 월27일자 정 세 현(丁 世 鉉) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N; snapshot sources/unification/gazette_15338_00000000000000001319026541100000.pdf (+ .txt); accessed 2026-09-24T22:44:28-0400; 연합뉴스 2003-02-27 14:05 \"정세현 통일부장관(유임)\" (정세현 통일부장관(유임)); https://n.news.naver.com/mnews/article/001/0000326592; snapshot sources/unification/news/naver_001_0000326592.html; accessed 2026-09-25T13:14:39-0400), which the ministry page counts as a separate 30대. Not split here (presidential transitions are split in code). appointing_president refers to the original 2002 appointment. His farewell ceremony was on 2004-06-30, the day the reshuffle was announced. His successor's legal appointment date is 2004-07-01. birth_date from Wikidata Q6180281 (via ko.wikipedia title '정세현 (1945년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. The 2003-02-27 reappointment notice was re-read in harvest/gazette_text/20030305_15338_*.txt (header '◉2003년 2 월27일자' governs the 정세현 line). His exact 면직 date was not found. He held his 이임식 on 2004-06-30 and the successor's legal date is 2004-07-01, so the spells are adjacent with no vacant day."
+  },
+  {
+   "name": "정동영",
+   "name_hanja": "鄭東泳",
+   "name_en": "Chung Dong-young",
+   "name_en_source": "Wikidata Q491437 (via ko.wikipedia title '정동영'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1953-07-27",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2004-07-01",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15737호 (2004-07-06) 인사: ⊙2004년 7 월 1 일자 정 동 영(鄭 東 泳) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N; snapshot sources/unification/gazette_15737_00000000000000001319031615639000.pdf (+ .txt); accessed 2026-09-24T22:46:50-0400",
+    "연합뉴스 2004-07-01 09:45 \"노대통령 통일부장관 임명장\" (1일 오전 정동영 통일부장관에게 임명장); https://n.news.naver.com/mnews/article/001/0000690205; snapshot sources/unification/news/naver_001_0000690205.html; accessed 2026-09-25T13:16:18-0400",
+    "통일부 열린장관실 역대장관 page, entry '31대 정동영 2004.07.01∼ 2005.12.30 통일부장관 겸 NSC상임위원장'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 영남일보 2004-07-01 '3개부 개각 임명장 수여' (news_id 01500801.20040701170225001) '1일 오전 청와대에서 임명장을 수여' (the 관보 date 2004-07-01 equals the 임명장 day, the reshuffle having been announced on 2004-06-30); snapshot sources/unification/verify/bigkinds/bk_정세현_end4_2004-06-30_2004-07-02_f369d88eac.json; accessed 2026-09-25T22:09:24-0400"
+   ],
+   "end": "2005-12-30",
+   "end_confidence": "high",
+   "end_sources": [
+    "서울경제 2006-01-01 16:48 \"정동영·김근태장관 사표 수리\" (사표를 지난해 12월30일 수리); https://n.news.naver.com/mnews/article/011/0000113949; snapshot sources/unification/news/naver_011_0000113949.html; accessed 2026-09-24T22:50:28-0400",
+    "이데일리 2006-01-01 13:34 \"노대통령, 김근태 복지·정동영 통일 사표 수리\" (12월30일자로 수리); https://n.news.naver.com/mnews/article/018/0000343465; snapshot sources/unification/news/naver_018_0000343465.html; accessed 2026-09-24T22:50:23-0400",
+    "머니투데이 2006-01-01 11:25 \"盧대통령, 金복지·鄭통일장관 사표 수리\"; https://n.news.naver.com/mnews/article/008/0000614870; snapshot sources/unification/news/naver_008_0000614870.html; accessed 2026-09-24T22:50:18-0400",
+    "통일부 열린장관실 역대장관 page, entry '31대 정동영 2004.07.01∼ 2005.12.30'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 프레시안 2006-01-01 '盧, 정동영.김근태 사표 수리...1월초 개각' (news_id 04104008.20060101010220002) and 노컷뉴스 2006-01-01 (news_id 04100058.20060101223853001) '김만수 청와대 대변인 ... 지난 12월 30일 오후 늦게 정동영, 김근태 두 장관의 사표가 수리됐다'; 전북도민일보 2006-01-02 (news_id 01601001.20060102233137001); snapshot sources/unification/verify/bigkinds/bk_정동영_end_2005-12-29_2006-01-04_c9e7df49ce.json; accessed 2026-09-25T22:03:28-0400",
+    "[verifier] BigKinds metadata: 이데일리 2005-12-30 '정동영장관, 사표제출..작별사' (news_id 04101008.20160311193509473) '이날 청와대에 사표를 제출한 정 장관은 통일부 종무식과 이임식을 겸한 자리에서'; snapshot sources/unification/verify/bigkinds/bk_정동영_end2_2005-12-28_2006-01-04_1e19ddf78c.json; accessed 2026-09-25T22:03:38-0400"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 15th-16th NA member (전북 전주시덕진구, mona_cd ARP89147); not a sitting member at appointment (16th term ended 2004-05-29)",
+   "transcript_check": "ok",
+   "transcript_notes": "19 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2004-07-06 to 2005-12-07, all inside the spell.",
+   "notes": "Also NSC 상임위원장 per the ministry page. He resigned to return to 열린우리당 politics. The resignation was accepted late on 2005-12-30. Announced as nominee on 2004-06-30. birth_date from na_members_15_22.csv."
+  },
+  {
+   "name": "이종석",
+   "name_hanja": "李鍾奭",
+   "name_en": "Lee Jong-seok",
+   "name_en_source": "Wikidata Q624486 (via ko.wikipedia title '이종석 (정치인)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1958-05-11",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2006-02-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16195호 (2006-02-17) 인사: ⊙2006년 2 월10일자 이 종 석(李 鍾 奭) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600208544000&tocId=00000000000000001319600226028000&isTocOrder=N; snapshot sources/unification/gazette_16195_00000000000000001319600226028000.pdf (+ .txt); accessed 2026-09-24T22:49:51-0400",
+    "BigKinds metadata: 서울신문 2006-02-11 \"靑 “중대결함 없다” 5부 장관 임명\" (news_id 01100611.20160421043739791) (5부 장관 임명, dated 2006-02-11 morning edition); snapshot sources/unification/bigkinds/bk_2006-02-09_2006-02-11_cc5d94c054.json; accessed 2026-09-25T13:40:09-0400",
+    "통일부 열린장관실 역대장관 page, entry '32대 이종석 2006.02.10∼ 2006.12.10 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2006-12-11",
+   "end_confidence": "medium",
+   "end_sources": [
+    "국정브리핑 2006-12-11 15:08 \"노 대통령, 이재정 통일·이용섭 건교 임명\" (이종석 전 통일장관은 이날(11일) 오전 퇴임식을 갖고 장관직에서 물러났다); https://n.news.naver.com/mnews/article/078/0000028104; snapshot sources/unification/news/naver_078_0000028104.html; accessed 2026-09-24T22:52:01-0400",
+    "연합뉴스 2006-12-11 12:34 \"이종석 \"한반도 문제, 한국 의견 가장 존중돼야\"\" (이임식 11일); https://n.news.naver.com/mnews/article/001/0001910099; snapshot sources/unification/news/naver_001_0001910099.html; accessed 2026-09-24T22:51:32-0400",
+    "관보 제16401호 (2006-12-15) 인사: ⊙2006년12월11일자 이 재 정(李 在 禎) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319075212995000&tocId=00000000000000001319075232559000&isTocOrder=N; snapshot sources/unification/gazette_16401_00000000000000001319075232559000.pdf (+ .txt); accessed 2026-09-24T22:52:13-0400",
+    "통일부 열린장관실 역대장관 page, entry '32대 이종석 2006.02.10∼ 2006.12.10 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 내일신문 2006-12-11 '이재정 통일부장관 취임' (news_id 01100301.20061211100000204) '이재정 통일부장관은 이날 오후 3시 취임식 ... 앞서 이종석 장관은 오전 11시 이임식'; snapshot sources/unification/verify/bigkinds/bk_이종석_end_2006-12-10_2006-12-12_8c41a84b69.json; accessed 2026-09-25T22:03:46-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "11 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2006-02-15 to 2006-10-31, all inside the spell. Ignored 1 rows of invalid types (국회본회의) dated ['2001-12-08'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "First 통일부 nominee heard under the 2005 인사청문 extension. He announced his resignation in October 2006 and stayed until his successor was appointed on 2006-12-11 (same-day handover). Not the 헌법재판소 judge 이종석 (동명이인) who appears in nominee_hearing_meetings.csv for 2018 and 2023. birth_date from Wikidata Q624486 (via ko.wikipedia title '이종석 (정치인)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "이재정",
+   "name_hanja": "李在禎",
+   "name_en": "Lee Jae-joung",
+   "name_en_source": "Wikidata Q11266576 (via ko.wikipedia title '이재정 (1944년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1944-03-01",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2006-12-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16401호 (2006-12-15) 인사: ⊙2006년12월11일자 이 재 정(李 在 禎) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319075212995000&tocId=00000000000000001319075232559000&isTocOrder=N; snapshot sources/unification/gazette_16401_00000000000000001319075232559000.pdf (+ .txt); accessed 2026-09-24T22:52:13-0400",
+    "YTN 2006-12-11 14:43 \"노 대통령, 통일·건교장관 임명장 수여\" (11일 오전 이재정 통일부 장관 임명장); https://n.news.naver.com/mnews/article/052/0000136039; snapshot sources/unification/news/naver_052_0000136039.html; accessed 2026-09-24T22:51:50-0400",
+    "연합뉴스 2006-12-11 11:44 \"노대통령, 이재정 통일.이용섭 건교 임명\"; https://n.news.naver.com/mnews/article/001/0001492895; snapshot sources/unification/news/naver_001_0001492895.html; accessed 2026-09-24T22:52:06-0400",
+    "통일부 열린장관실 역대장관 page, entry '33대 이재정 2006.12.11∼ 2008.02.28 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2008-02-29",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2008-02-29 16:07 \"이임사하는 이재정 통일부장관\" (이임식 2008-02-29 오후); https://n.news.naver.com/mnews/article/001/0001981539; snapshot sources/unification/news/naver_001_0001981539.html; accessed 2026-09-25T13:00:29-0400",
+    "연합뉴스 2008-02-29 11:02 \"<수장 공백 통일부 \"남북현안 없는게 다행\">\" (29일 오후로 예정된 이재정 장관 이임식); https://n.news.naver.com/mnews/article/001/0001980878; snapshot sources/unification/news/naver_001_0001980878.html; accessed 2026-09-25T13:00:34-0400",
+    "국민일보 2008-02-26 19:58 \"‘李+盧’ 어색한 동거，이재정 통일 등 참여정부 일부 장관 근무중\" (2008-02-26: 후임 장관이 임명될 때까지 장관직 계속 수행, 참여정부 장관 사표는 총리실 보관 중); https://n.news.naver.com/mnews/article/005/0000305484; snapshot sources/unification/news/naver_005_0000305484.html; accessed 2026-09-25T13:18:56-0400",
+    "한겨레 2008-03-02 23:29 \"이명박 정부 4개부처 장관없이 ‘기형적 출범’\" (from 2008-02-29 통일부 is run by the vice minister (차관 대행체제)); https://n.news.naver.com/mnews/article/028/0001941805; snapshot sources/unification/news/naver_028_0001941805.html; accessed 2026-09-24T22:53:02-0400",
+    "BigKinds metadata: 아시아경제 2008-02-29 \"물러나는 李통일 \"대북 화해·협력 계속돼야\"\" (news_id 02100801.20080229190900001) (이재정 통일부 장관은 29일 중앙청사에서 이임식); snapshot sources/unification/bigkinds/bk_2008-02-28_2008-03-01_bb39e9bd66.json; accessed 2026-09-25T13:42:22-0400",
+    "통일부 열린장관실 역대장관 page, entry '33대 이재정 2006.12.11∼ 2008.02.28 (conflicts by one day)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 한겨레 2008-03-01 '4개부처 장관 없이 ‘기형적 출범’' (news_id 01101001.20080301100002021) '이명박 대통령이 29일 한승수 국무총리와 11개 부처 장관을 공식 임명 ... 장관 후보자가 공석인 통일부·환경부 ... 네 부처는 당분간 차관 대행체제' (print version of the builder's Naver article, not an independent source); snapshot sources/unification/verify/bigkinds/bk_이재정_end4_2008-02-28_2008-03-05_e01bf8ca81.json; accessed 2026-09-25T22:09:28-0400",
+    "[verifier] 매일경제 2008-03-01 08:16 '참여정부 마지막 장관들, 학교로…정계로…집으로' (이재정 전 통일부 장관 among the departed ministers); https://n.news.naver.com/mnews/article/009/0001947817; snapshot sources/unification/verify/news/naver_009_0001947817.html; accessed 2026-09-24T22:52:56-0400 (cache time of the original fetch)",
+    "[verifier] BigKinds metadata searches '이재정 사표', '장관 사표 수리', '참여정부 장관 사표 수리' and '이재정 이임식' for 2008-02-24..03-03 found no report of the day his resignation was accepted; snapshots sources/unification/verify/bigkinds/bk_이재정_end_2008-02-24_2008-03-02_b24210669d.json, sources/unification/verify/bigkinds/bk_이재정_end5_2008-02-25_2008-03-03_d621a7b417.json, sources/unification/verify/bigkinds/bk_이재정_end6_2008-02-28_2008-03-01_c9b58fe284.json, sources/unification/verify/bigkinds/bk_이재정_end7_2008-02-28_2008-03-03_114bdcb1e4.json; accessed 2026-09-25T22:03:56-0400 to 22:11:00-0400",
+    "[verifier] Namu Wiki '통일부장관' (secondary) '33대 이재정 2006년 12월 11일 ~ 2008년 2월 28일' (follows the ministry page); snapshot sources/unification/verify/namu_통일부장관.html; accessed 2026-09-25T21:55:22-0400"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 16th NA member (새천년민주당, 비례대표, seat lost 2003-10-27, mona_cd RP62407F); not sitting at appointment",
+   "transcript_check": "ok",
+   "transcript_notes": "19 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2007-02-21 to 2008-02-13, all inside the spell. Ignored 4 rows of invalid types (국회본회의, 예산결산특별위원회) dated ['2000-10-12', '2002-09-13', '2003-07-04', '2003-12-09'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "Stayed on after the 2008-02-25 transition because no successor had been appointed (남주홍 withdrew 2008-02-27). The exact day his resignation was accepted was not found. He held his farewell ceremony on the afternoon of 2008-02-29, the day 이명박 appointed the 한승수 cabinet, and he was not among the four 참여정부 ministers who stayed on as '임대 국무위원' for the 2008-03-03 cabinet meeting (서울경제 2008-03-03 17:57 \"180도 달라진 국무회의\" (임대 국무위원 4명 박명재ㆍ변재진ㆍ이규용ㆍ임상규); https://n.news.naver.com/mnews/article/011/0001942717; snapshot sources/unification/news/naver_011_0001942717.html; accessed 2026-09-24T22:55:37-0400). The ministry page gives 2008-02-28. birth_date from na_members_15_22.csv. Not the 20th-22nd NA member 이재정 (李在汀). Verifier note. End disputed. 2008-02-29 (last working day, 이임식 on the afternoon of 2008-02-29, the day 이명박 appointed the 한승수 cabinet and the new vice minister) against 2008-02-28 (통일부 역대장관 page and Namu Wiki). The ministry page does not use its day-before-successor rule here because the successor started on 2008-03-11, so its 02-28 may reflect a separate record, but no source giving the 면직 or 사표 수리 day was found. 2008-02-29 is kept as the better-documented day."
+  },
+  {
+   "name": "김하중",
+   "name_hanja": "金夏中",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1947-01-09",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2008-03-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16710호 (2008-03-17) 인사: ⊙2008년 3월 11일자 김 하 중(金 夏 中) 국무위원에 임함 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319082069995000&tocId=00000000000000001319082100242000&isTocOrder=N; snapshot sources/unification/gazette_16710_00000000000000001319082100242000.pdf (+ .txt); accessed 2026-09-24T22:54:59-0400",
+    "통일부 열린장관실 역대장관 page, entry '34대 김하중 2008.03.11∼ 2009.02.11 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "의안정보시스템 [ZZ1917] (hearing report adopted 2008-03-10, sent 2008-03-11); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_G0E8V0P3K0P4K2C2Q0G6E4U2Y9Q1C9; snapshot sources/unification/likms_detail_ZZ1917.html; accessed 2026-09-24T22:44:44-0400"
+   ],
+   "end": "2009-02-11",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2009-02-11 17:53 \"떠나는 김하중 통일부장관\" (떠나는 김하중 통일부장관, 2009-02-11); https://n.news.naver.com/mnews/article/001/0002497518; snapshot sources/unification/news/naver_001_0002497518.html; accessed 2026-09-25T13:20:10-0400",
+    "뉴시스 2009-02-11 18:17 \"김하중 통일부장관 이임\" (이임 2009-02-11); https://n.news.naver.com/mnews/article/003/0002520667; snapshot sources/unification/news/naver_003_0002520667.html; accessed 2026-09-25T13:20:18-0400",
+    "통일부 열린장관실 역대장관 page, entry '34대 김하중 2008.03.11∼ 2009.02.11'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "관보 제16941호 (2009-02-18) 인사: ⊙2009년 2월 12일자 현인택(玄仁澤) 국무위원에 임함 통일부장관에 보함 (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319106400991000&tocId=00000000000000001319106421447000&isTocOrder=N; snapshot sources/unification/gazette_16941_00000000000000001319106421447000.pdf (+ .txt); accessed 2026-09-24T22:55:42-0400",
+    "[verifier] BigKinds metadata: 파이낸셜뉴스 2009-02-11 '떠나는 김하중 통일장관 “올해 남북관계 결코 만만치 않을 것”' (news_id 02100501.20160207105252538) '11일 퇴임식을 갖고 공직생활을 마무리'; 헤럴드경제 2009-02-12 (news_id 02100701.20090212170638002) '11일 퇴임식을 가진 김하중 통일부 장관'; 매일경제 2009-02-11 (news_id 02100101.20160120203743338) '현인택 ... 취임식이 내일(12일) ... 김하중 현 장관의 이임식은 오늘(11일) 오후'; snapshot sources/unification/verify/bigkinds/bk_김하중_end3_2009-02-11_2009-02-12_16c444ba0a.json; accessed 2026-09-25T22:09:54-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "13 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2008-04-29 to 2009-01-06, all inside the spell.",
+   "notes": "Farewell ceremony 2009-02-11, successor appointed 2009-02-12. No wire report of the appointment day was retrieved (Naver throttled). The gazette and the ministry page are the start sources. birth_date from Wikidata Q12589120 (via ko.wikipedia title '김하중'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. The 면직 day was not found. His last working day (이임식) was 2009-02-11 and the successor's legal date is 2009-02-12, so the spells are adjacent with no vacant day."
+  },
+  {
+   "name": "현인택",
+   "name_hanja": "玄仁澤",
+   "name_en": "Hyun In-taek",
+   "name_en_source": "Wikidata Q5962520 (via ko.wikipedia title '현인택'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1954-09-27",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2009-02-12",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16941호 (2009-02-18) 인사: ⊙2009년 2월 12일자 현 인 택(玄 仁 澤) 국무위원에 임함 통일부장관에 보함 (hanja from plain-text re-extraction, gazette_16941_..._plain.txt); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319106400991000&tocId=00000000000000001319106421447000&isTocOrder=N; snapshot sources/unification/gazette_16941_00000000000000001319106421447000.pdf (+ .txt); accessed 2026-09-24T22:55:42-0400",
+    "연합뉴스 2009-02-12 17:11 \"李대통령, 윤증현.원세훈 등 공식 임명\" (12일 윤증현.원세훈 등 공식 임명); https://n.news.naver.com/mnews/article/001/0002499685; snapshot sources/unification/news/naver_001_0002499685.html; accessed 2026-09-25T13:26:15-0400",
+    "뉴시스 2009-02-12 16:01 \"李대통령, 윤증현·현인택·원세훈 임명장 수여\" (윤증현·현인택·원세훈 임명장 수여); https://n.news.naver.com/mnews/article/003/0002522285; snapshot sources/unification/news/naver_003_0002522285.html; accessed 2026-09-25T13:26:16-0400",
+    "통일부 열린장관실 역대장관 page, entry '35대 현인택 2009.02.12∼ 2011.09.16 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2011-09-17",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제17596호 (2011-09-21) 인사: 류우익(柳佑益) 국무위원에 임함 통일부장관에 보함 2011. 9. 17. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001320220862521000&tocId=00000000000000001320220991219001&isTocOrder=N; snapshot sources/unification/gazette_17596_00000000000000001320220991219001.pdf (+ .txt); accessed 2026-09-24T22:57:27-0400",
+    "BigKinds metadata: MBC 2011-09-17 \"이 대통령, 류우익 통일부 장관 등 임명 재가\" (news_id 08100201.20110917150000027) (이 대통령, 류우익 통일부 장관 등 임명 재가, 2011-09-17); snapshot sources/unification/bigkinds/bk_2011-09-15_2011-09-19_77e7dbc5bc.json; accessed 2026-09-25T13:37:52-0400",
+    "연합뉴스 2011-09-19 09:35 \"현인택 이임식\" (현인택 이임식 2011-09-19 (after the successor's appointment)); https://n.news.naver.com/mnews/article/001/0005270540; snapshot sources/unification/news/naver_001_0005270540.html; accessed 2026-09-25T13:26:26-0400",
+    "통일부 열린장관실 역대장관 page, entry '35대 현인택 2009.02.12∼ 2011.09.16 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 아시아경제 2011-09-19 '현인택, 오늘 퇴임..' (news_id 02100801.20110919113955001) '현인택 통일부 장관이 19일 퇴임했다 ... 이날 오전 ... 이임식'; 세계일보 2011-09-20 (news_id 01100701.20110920100000109) '19일 취임한 류우익 신임 통일부 장관' (취임식 2011-09-19, after the 2011-09-17 appointment in 관보 제17596호); snapshot sources/unification/verify/bigkinds/bk_현인택_end4_2011-09-17_2011-09-20_90d4aeeda4.json; accessed 2026-09-25T22:09:34-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "45 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2009-02-19 to 2011-08-24, all inside the spell.",
+   "notes": "A 해임건의안 (bill 1813037, filed 2011-08-29) lapsed on 2011-09-03 under 국회법 제112조⑦ (의안정보시스템 [1813037] (기한경과 폐기); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Z1W1R0O8Y2R9Z1X1C4M3V4L4C7Z2D6; snapshot sources/unification/likms_detail_1813037.html; accessed 2026-09-24T22:45:12-0400). His farewell ceremony was on Monday 2011-09-19, after 류우익's appointment on Saturday 2011-09-17. birth_date from Wikidata Q5962520 (via ko.wikipedia title '현인택'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. News of 2011-09-19 says he '퇴임했다' that day, but his successor was legally appointed on 2011-09-17 (관보 제17596호 re-read, '2011. 9. 17.'), so the end stays at the successor's date."
+  },
+  {
+   "name": "류우익",
+   "name_hanja": "柳佑益",
+   "name_en": "Yu Woo-ik",
+   "name_en_source": "Wikidata Q12594301 (via ko.wikipedia title '류우익'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1950-01-06",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2011-09-17",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17596호 (2011-09-21) 인사: 류우익(柳佑益) 국무위원에 임함 통일부장관에 보함 2011. 9. 17.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001320220862521000&tocId=00000000000000001320220991219001&isTocOrder=N; snapshot sources/unification/gazette_17596_00000000000000001320220991219001.pdf (+ .txt); accessed 2026-09-24T22:57:27-0400",
+    "BigKinds metadata: MBC 2011-09-17 \"이 대통령, 류우익 통일부 장관 등 임명 재가\" (news_id 08100201.20110917150000027) (임명 재가 2011-09-17); snapshot sources/unification/bigkinds/bk_2011-09-15_2011-09-19_77e7dbc5bc.json; accessed 2026-09-25T13:37:52-0400",
+    "통일부 열린장관실 역대장관 page, entry '36대 류우익 2011.09.17∼ 2013.03.10 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2013-03-11",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: 노컷뉴스 2013-03-11 \"류우익 통일부 장관 이임식\" (news_id 04100058.20130311121004005) (류우익 통일부 장관 이임식 2013-03-11); snapshot sources/unification/bigkinds/bk_2013-03-10_2013-03-13_25e3f76e90.json; accessed 2026-09-25T13:38:14-0400",
+    "BigKinds metadata: 매일경제 2013-03-11 \"류우익 이임식…원칙·유연성·통일준비 당부\" (news_id 02100101.20160125231225571) (류우익 이임식); snapshot sources/unification/bigkinds/bk_2013-03-10_2013-03-13_25e3f76e90.json; accessed 2026-09-25T13:38:14-0400",
+    "관보 제17971호 (2013-03-14) 인사: 류길재(柳吉在) 국무위원에 임함 통일부장관에 보함 2013. 3. 11. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N; snapshot sources/unification/gazette_17971_00000000000000001363076221739000.pdf (+ .txt); accessed 2026-09-24T22:57:54-0400",
+    "통일부 열린장관실 역대장관 page, entry '36대 류우익 2011.09.17∼ 2013.03.10 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 동아일보 2013-03-12 '류우익 “통일정책은 사랑과 이성으로”' (news_id 01100401.20130312053521015) '11일 물러난 류우익 전 통일부 장관'; 이데일리 2013-03-11 (news_id 04101008.20160312023414172) '11일 오전 11시30분 ... 새 정부 장관 13명에게 임명장 ... 류길재 통일'; snapshots sources/unification/verify/bigkinds/bk_류우익_end3_2013-03-11_2013-03-12_59bc6c6497.json (accessed 2026-09-25T22:09:38-0400) and sources/unification/verify/bigkinds/bk_류우익_end2_2013-03-11_2013-03-12_8abc0f4f61.json (accessed 2026-09-25T22:09:36-0400)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "21 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2011-09-20 to 2013-02-13, all inside the spell.",
+   "notes": "Stayed into the 박근혜 presidency (2013-02-25..03-11) until his successor was appointed on 2013-03-11 (same-day handover). birth_date from Wikidata Q12594301 (via ko.wikipedia title '류우익'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "류길재",
+   "name_hanja": "柳吉在",
+   "name_en": "Ryu Gil-jae",
+   "name_en_source": "Wikidata Q16080966 (via ko.wikipedia title '류길재'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1959-01-15",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2013-03-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17971호 (2013-03-14) 인사: 류길재(柳吉在) 국무위원에 임함 통일부장관에 보함 2013. 3. 11.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N; snapshot sources/unification/gazette_17971_00000000000000001363076221739000.pdf (+ .txt); accessed 2026-09-24T22:57:54-0400",
+    "BigKinds metadata: 머니투데이 2013-03-11 \"朴대통령, 장관 13명 임명 후 국무회의\" (news_id 02100201.20130311152431002) (11일 오전 11시30분 장관 13명에게 임명장); snapshot sources/unification/bigkinds/bk_2013-03-06_2013-03-11_08a7b3e677.json; accessed 2026-09-25T13:50:58-0400",
+    "통일부 열린장관실 역대장관 page, entry '37대 류길재 2013.03.11∼ 2015.03.12 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2015-03-13",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: YTN 2015-03-13 \"류길재 통일부 장관 퇴임 \"분단 극복해야\"\" (news_id 08100401.20150313185932001) (류길재 통일부 장관 퇴임, 2015-03-13); snapshot sources/unification/bigkinds/bk_2015-03-12_2015-03-17_f1b2b9eccc.json; accessed 2026-09-25T13:38:35-0400",
+    "BigKinds metadata: 국민일보 2015-03-13 \"울먹인 류길재 “2년간 행복했습니다”\" (news_id 01100201.20150313195855001) (2015-03-13 farewell); snapshot sources/unification/bigkinds/bk_2015-03-12_2015-03-17_f1b2b9eccc.json; accessed 2026-09-25T13:38:35-0400",
+    "관보 제18472호 (2015-03-19) 인사: 홍용표(洪容杓) 국무위원에 임함 통일부장관에 보함 2015. 3. 13. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001426641229940000&tocId=00000000000000001426641276019000&isTocOrder=N; snapshot sources/unification/gazette_18472_00000000000000001426641276019000.pdf (+ .txt); accessed 2026-09-25T07:06:46-0400",
+    "통일부 열린장관실 역대장관 page, entry '37대 류길재 2013.03.11∼ 2015.03.12 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 한국경제 2015-03-13 '류길재 통일장관 이임식…\"2년간 행복했다\"' (news_id 02100601.20160126095838903) '류길재 통일부 장관이 13일 이임했다'; snapshot sources/unification/verify/bigkinds/bk_류길재_end_2015-03-12_2015-03-14_84734919a9.json; accessed 2026-09-25T22:04:54-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "35 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2013-04-08 to 2015-02-09, all inside the spell.",
+   "notes": "Same-day handover on 2015-03-13. birth_date from Wikidata Q16080966 (via ko.wikipedia title '류길재'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "홍용표",
+   "name_hanja": "洪容杓",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1964-04-15",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2015-03-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18472호 (2015-03-19) 인사: 홍용표(洪容杓) 국무위원에 임함 통일부장관에 보함 2015. 3. 13.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001426641229940000&tocId=00000000000000001426641276019000&isTocOrder=N; snapshot sources/unification/gazette_18472_00000000000000001426641276019000.pdf (+ .txt); accessed 2026-09-25T07:06:46-0400",
+    "통일부 열린장관실 역대장관 page, entry '38대 홍용표 2015.03.13∼ 2017.07.02 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "BigKinds metadata: 헤럴드경제 2015-03-13 \"장관후보자 ‘올 패스’…홍용표 통일장관 후보자 청문보고서 채택\" (news_id 02100701.20160120035710601) (청문보고서 채택 2015-03-13); snapshot sources/unification/bigkinds/bk_2015-03-12_2015-03-16_d6e36dfb2b.json; accessed 2026-09-25T13:38:24-0400"
+   ],
+   "end": "2017-07-03",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: 헤럴드경제 2017-07-03 \"홍용표, 이임하며 “北 못된 손버릇 꽁꽁 묶어야…풀리면 평화 멀어져”\" (news_id 02100701.20170703115537001) (홍용표, 이임하며 ..., 2017-07-03); snapshot sources/unification/bigkinds/bk_2017-07-02_2017-07-05_dbe53b871e.json; accessed 2026-09-25T13:38:57-0400",
+    "BigKinds metadata: 노컷뉴스 2017-07-03 \"홍용표 전 장관 “北 못된 손버릇은 더 꽁꽁 묶어야”\" (news_id 04100058.20170703154455001) (홍용표 전 장관, 2017-07-03); snapshot sources/unification/bigkinds/bk_2017-07-02_2017-07-05_dbe53b871e.json; accessed 2026-09-25T13:38:57-0400",
+    "관보 제19052호 (2017-07-17) 인사: 조명균(趙明均) 국무위원에 임함 통일부장관에 보함 2017.7.3. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N; snapshot sources/unification/gazette_19052_00000000000000001499993578089000.pdf (+ .txt); accessed 2026-09-24T22:51:32-0400",
+    "통일부 열린장관실 역대장관 page, entry '38대 홍용표 2015.03.13∼ 2017.07.02 (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 머니투데이 2017-07-03 (news_id 02100201.20170703001140003) '홍 전 장관은 이날(3일) 오전 서울 정부청사에서 열린 이임식에서'; 중앙일보 2017-07-03 (news_id 01100901.20170703023415002); 세계일보 2017-07-03 (news_id 01100701.20170703000951002) '3일 ... 임명장 수여식 ... 조명균 통일부장관'; snapshots sources/unification/verify/bigkinds/bk_홍용표_end3_2017-07-03_2017-07-04_b8caa46b8d.json (accessed 2026-09-25T22:09:42-0400) and sources/unification/verify/bigkinds/bk_홍용표_end2_2017-07-03_2017-07-04_31722d248d.json (accessed 2026-09-25T22:09:40-0400)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "28 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2015-04-21 to 2017-02-28, all inside the spell. Ignored 2 rows of invalid types (국회본회의) dated ['2012-01-19', '2012-11-22'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "The 임명장 ceremony was on 2015-03-16 (BigKinds 한국경제 02100601.20160126100208227). The legal date is the gazette's 2015-03-13. Stayed through the 2016-12-09..2017-05-10 acting presidency and into the 문재인 presidency until 2017-07-03. birth_date from Wikidata Q19795121 (via ko.wikipedia title '홍용표'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "조명균",
+   "name_hanja": "趙明均",
+   "name_en": "Cho Myoung-gyon",
+   "name_en_source": "Wikidata Q31180634 (via ko.wikipedia title '조명균'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1957-11-17",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2017-07-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19052호 (2017-07-17) 인사: 조명 균 (趙明均) 국 무 위원에 임 함 통 일부장관에 보함 2017.7.3.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N; snapshot sources/unification/gazette_19052_00000000000000001499993578089000.pdf (+ .txt); accessed 2026-09-24T22:51:32-0400",
+    "BigKinds metadata: 뉴스핌 2017-07-03 \"문 대통령 조명균 통일·김영록 농식품부 장관에 임명장\" (news_id 04100078.20170703185837001) (3일 ... 조명균 통일부 장관 ... 임명장); snapshot sources/unification/bigkinds/bk_2017-07-02_2017-07-05_cff7893a4c.json; accessed 2026-09-25T13:38:45-0400",
+    "통일부 열린장관실 역대장관 page, entry '39대 조명균 2017.07.03∼ 2019.04.07 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2019-04-08",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: 헤럴드경제 2019-04-08 \"조명균, 취임식도 이임식도 없었다…“평범한 시민 돌아간다”\" (news_id 02100701.20190408150054001) (조명균, 취임식도 이임식도 없었다, 2019-04-08); snapshot sources/unification/bigkinds/bk_2019-04-07_2019-04-10_fc0e3fe035.json; accessed 2026-09-25T13:39:27-0400",
+    "BigKinds metadata: 한겨레 2019-04-08 \"조명균 “남북관계 주춤하지만 초심 잃지 말아야”\" (news_id 01101001.20190408143820001) (2019-04-08 departure message); snapshot sources/unification/bigkinds/bk_2019-04-07_2019-04-10_fc0e3fe035.json; accessed 2026-09-25T13:39:27-0400",
+    "관보 제19482호 (2019-04-16) 인사: 김연철(金鍊鐵) 국무위원에 임함 통일부장관에 보함 2019.4.8. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N; snapshot sources/unification/gazette_19482_00000000000000001555373338024000.pdf (+ .txt); accessed 2026-09-24T22:59:43-0400",
+    "통일부 열린장관실 역대장관 page, entry '39대 조명균 2019.04.07 end (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 조선일보 2019-04-09 '이임식도 없이… 편지 한장 남기고 장관실 비운 조명균' (news_id 01100801.20190409032846001) '조명균 전 통일부 장관은 8일 ... 장관실을 비웠다'; 한국일보 2019-04-08 (news_id 01101101.20190408050439001); snapshot sources/unification/verify/bigkinds/bk_조명균_end_2019-04-07_2019-04-09_ee40352f95.json; accessed 2026-09-25T22:05:10-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "23 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2017-07-10 to 2019-03-18, all inside the spell. Ignored 3 rows of invalid types (국정조사, 국회본회의, 예산결산특별위원회) dated ['2011-07-28', '2012-11-25', '2013-07-02'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "A 해임건의안 (bill 2016143, filed 2018-10-31) lapsed on 2018-11-04 (의안정보시스템 [2016143] (기한경과 폐기); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_T1T8X1B0S3P1Y1X0G2V1P1R2S7F9P5; snapshot sources/unification/likms_detail_2016143.html; accessed 2026-09-24T22:46:40-0400). Left on 2019-04-08 without a ceremony, same day as his successor's appointment. birth_date from Wikidata Q31180634 (via ko.wikipedia title '조명균'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "김연철",
+   "name_hanja": "金鍊鐵",
+   "name_en": "Kim Yeon-chul",
+   "name_en_source": "Wikidata Q65238771 (via ko.wikipedia title '김연철'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1964-03-26",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2019-04-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19482호 (2019-04-16) 인사: 김연철(金鍊鐵) 국무위원에 임함 통일부장관에 보함 2019.4.8.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N; snapshot sources/unification/gazette_19482_00000000000000001555373338024000.pdf (+ .txt); accessed 2026-09-24T22:59:43-0400",
+    "BigKinds metadata: 대구일보 2019-04-09 \"문 대통령, 박영선·김연철 장관 임명 강행\" (news_id 01500501.20190409134350002) (문 대통령, 박영선·김연철 장관 임명 강행 (2019-04-09 edition)); snapshot sources/unification/bigkinds/bk_2019-04-07_2019-04-09_5adcb831ef.json; accessed 2026-09-25T13:39:13-0400",
+    "통일부 열린장관실 역대장관 page, entry '40대 김연철 2019.04.08∼ 2020.06.19 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2020-06-19",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 2020-06-19 10:59 \"[속보]문 대통령, 김연철 통일장관 사표 수리\" (19일 오전 10시 40분쯤 면직안 재가); https://n.news.naver.com/mnews/article/023/0003540235; snapshot sources/unification/news/naver_023_0003540235.html; accessed 2026-09-25T13:00:55-0400",
+    "SBS 2020-06-19 11:02 \"문 대통령, 김연철 통일부 장관 사표 수리\"; https://n.news.naver.com/mnews/article/055/0000822449; snapshot sources/unification/news/naver_055_0000822449.html; accessed 2026-09-25T13:01:01-0400",
+    "헤럴드경제 2020-06-19 11:09 \"문대통령, 김연철 장관 사표 수리…만찬 갖고 사의 표명 입장 경청\"; https://n.news.naver.com/mnews/article/016/0001688600; snapshot sources/unification/news/naver_016_0001688600.html; accessed 2026-09-25T13:01:33-0400",
+    "통일부 열린장관실 역대장관 page, entry '40대 김연철 2019.04.08∼ 2020.06.19'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 동아일보 2020-06-20 '통일부 떠난 김연철 “남북, 증오로 증오 못이겨”' (news_id 01100401.20200620030155001) '문 대통령은 이날 오전 10시 40분경 김 장관의 사의 표명에 따른 면직안을 재가'; 한국일보 2020-06-19 (news_id 01101101.20200619050205001); 세계일보 2020-06-20 (news_id 01100701.20200620071420001) '19일 사표가 수리된 김연철 ... 같은 날 오후 ... 이임식'; snapshot sources/unification/verify/bigkinds/bk_김연철_end_2020-06-18_2020-06-20_4502a151dd.json; accessed 2026-09-25T22:05:16-0400"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "17 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2019-06-25 to 2020-06-16, all inside the spell. Ignored 4 rows of invalid types (국정조사, 국회본회의) dated ['2014-02-27', '2014-06-20', '2014-06-23', '2014-06-24'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "Resigned after North Korea blew up the inter-Korean liaison office (사의 표명 2020-06-17). The 면직 was approved on 2020-06-19 at 10:40. birth_date from Wikidata Q65238771 (via ko.wikipedia title '김연철'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "이인영",
+   "name_hanja": "李仁榮",
+   "name_en": "Lee In-young",
+   "name_en_source": "Wikidata Q16091058 (via ko.wikipedia title '이인영 (정치인)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1964-06-28",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2020-07-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19807호 (2020-08-03) 인사: 이인영(李仁榮) 국무위원에 임함 통일부장관에 보함 2020.7.27.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001596090824979000&tocId=00000000000000001596090827049000&isTocOrder=N; snapshot sources/unification/gazette_19807_00000000000000001596090827049000.pdf (+ .txt); accessed 2026-09-25T07:07:43-0400",
+    "BigKinds metadata: 영남일보 2020-07-28 \"이인영 통일장관 임명…취임식없이 업무 개시\" (news_id 01500801.20200728072240001) (이인영 통일장관 임명…취임식없이 업무 개시 (2020-07-28 edition)); snapshot sources/unification/bigkinds/bk_2020-07-26_2020-07-28_1c35c35460.json; accessed 2026-09-25T13:39:41-0400",
+    "통일부 열린장관실 역대장관 page, entry '41대 이인영 2020.07.27∼ 2022.05.09 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2022-05-09",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2022-05-09 18:09 \"[2보] 문대통령, 유은혜·박범계·이인영 사표 수리\" (9일 유은혜·박범계·이인영 사표 수리); https://n.news.naver.com/mnews/article/001/0013166143; snapshot sources/unification/news/naver_001_0013166143.html; accessed 2026-09-25T13:03:07-0400",
+    "부산일보 2022-05-09 18:03 \"문 대통령, 유은혜·박범계·이인영 사표 수리\" (면직안 재가); https://n.news.naver.com/mnews/article/082/0001154699; snapshot sources/unification/news/naver_082_0001154699.html; accessed 2026-09-25T13:02:16-0400",
+    "연합뉴스 2022-05-10 11:39 \"통일부, 장관 취임 전 '차관 직무대행' 체제 전환\" (이인영 전 장관은 전날 사표가 수리돼 별도 이임식 없이 물러났다); https://n.news.naver.com/mnews/article/001/0013167425; snapshot sources/unification/news/naver_001_0013167425.html; accessed 2026-09-25T13:02:35-0400",
+    "통일부 열린장관실 역대장관 page, entry '41대 이인영 2020.07.27∼ 2022.05.09'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 이투데이 2022-05-09 '문재인 대통령, 유은혜·박범계·이인영 장관 면직안 재가' (news_id 02100351.20220509183255001) '금일 오후 5시 20분경'; KBS 2022-05-09 (news_id 08100101.20220509000818002); 아주경제 2022-05-09 (news_id 02100851.20220509213940001); snapshot sources/unification/verify/bigkinds/bk_이인영_end_2022-05-08_2022-05-10_582b88b75a.json; accessed 2026-09-25T22:05:22-0400"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (더불어민주당, 서울 구로구갑, mona_cd 3ZR4438W); kept his seat while minister",
+   "transcript_check": "ok",
+   "transcript_notes": "23 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2020-08-03 to 2022-03-28, all inside the spell. Ignored 2 rows of invalid types (국회본회의, 예산결산특별위원회) dated ['2015-10-29', '2016-07-06'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "One of seven 민주당 ministers whose resignations 문재인 accepted on 2022-05-09, the last day of his term. birth_date from na_members_15_22.csv."
+  },
+  {
+   "name": "권영세",
+   "name_hanja": "權寧世",
+   "name_en": "Kwon Young-se",
+   "name_en_source": "Wikidata Q16080113 (via ko.wikipedia title '권영세 (1959년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1959-02-24",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2022-05-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20255호 (2022-05-23) 인사: 권영세(權寧世) 국무위원에 임함 통일부장관에 보함 2022. 5. 13.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N; snapshot sources/unification/gazette_20255_I0000000000000001652659816213000.pdf (+ .txt); accessed 2026-09-24T22:33:40-0400",
+    "한겨레 2022-05-13 19:09 \"윤 대통령, 원희룡·박보균·권영세 임명…정호영은 또 보류\" (청문보고서가 채택된 권영세 통일부 장관도 이날(13일) 임명); https://n.news.naver.com/mnews/article/028/0002590562; snapshot sources/unification/news/naver_028_0002590562.html; accessed 2026-09-25T13:03:49-0400",
+    "동아일보 2022-05-13 18:34 \"尹대통령, 권영세·박보균·원희룡 장관 임명\" (13일 ... 권영세 ... 임명); https://n.news.naver.com/mnews/article/020/0003428340; snapshot sources/unification/news/naver_020_0003428340.html; accessed 2026-09-25T13:04:16-0400",
+    "통일부 열린장관실 역대장관 page, entry '42대 권영세 2022.05.16∼ 2023.07.28 (ministry page start conflicts)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 동아일보 2022-05-14 '尹, 권영세-박보균-원희룡 장관 임명… 정호영은 보류' (news_id 01100401.20220514030318001) '윤석열 대통령이 13일 권영세 통일부 장관 ... 을 임명했다 ... 대통령 대변인실은 이날 오후 ... 임명을 재가'; 전북일보 2022-05-13 (news_id 01601101.20220513213223001); snapshot sources/unification/verify/bigkinds/bk_권영세_start_2022-05-13_2022-05-16_4af8883bb9.json; accessed 2026-09-25T22:09:50-0400"
+   ],
+   "end": "2023-07-28",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: 뉴스핌 2023-07-28 \"권영세 통일장관 이임식...\"통일부 변화와 혁신 요구 받고 있다\"\" (news_id 04100078.20230728113439003) (권영세 통일장관 이임식, 2023-07-28); snapshot sources/unification/bigkinds/bk_2023-07-27_2023-07-31_d13ab7e34b.json; accessed 2026-09-25T13:39:55-0400",
+    "BigKinds metadata: 세계일보 2023-07-28 \"떠나는 권영세 \"통일부, 남북관계 해소 전까지 없어질 수 없는 부처\"\" (news_id 01100701.20230728123114001) (떠나는 권영세, 2023-07-28); snapshot sources/unification/bigkinds/bk_2023-07-27_2023-07-31_d13ab7e34b.json; accessed 2026-09-25T13:39:55-0400",
+    "관보 제20558호 (2023-08-04) 인사: 김영호(金暎浩) 국무위원에 임함 통일부장관에 보함 2023. 7. 28. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001690956003651000&tocId=I0000000000000001690710424775000&isTocOrder=N; snapshot sources/unification/gazette_20558_I0000000000000001690710424775000.pdf (+ .txt); accessed 2026-09-25T12:58:46-0400",
+    "통일부 열린장관실 역대장관 page, entry '42대 권영세 2022.05.16∼ 2023.07.28'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 노컷뉴스 2023-07-29 '떠나는 권영세 취임한 김영호…눈길끄는 이·취임사' (news_id 04100058.20230729090810001) '통일부 장관의 이임과 취임이 28일 이뤄졌다'; snapshot sources/unification/verify/bigkinds/bk_권영세_end_2023-07-26_2023-07-29_b674f1f445.json; accessed 2026-09-25T22:05:28-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (미래통합당/국민의힘, 서울 용산구, mona_cd LG63087O); kept his seat while minister",
+   "transcript_check": "ok",
+   "transcript_notes": "15 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2022-05-17 to 2023-07-13, all inside the spell. Ignored 3 rows of invalid types (국정조사, 국회본회의) dated ['2015-02-03', '2016-12-26', '2017-09-11'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "The gazette and same-day reports give a start of 2022-05-13. The ministry page's 2022-05-16 is most likely the 임명장 ceremony date. Returned to the Assembly on 2023-07-28 (same-day handover). birth_date from na_members_15_22.csv."
+  },
+  {
+   "name": "김영호",
+   "name_hanja": "金暎浩",
+   "name_en": "Kim Yung-ho",
+   "name_en_source": "Wikidata Q124635869 (via ko.wikipedia title '김영호 (1959년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1959-08-01",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2023-07-28",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20558호 (2023-08-04) 인사: 김영호(金暎浩) 국무위원에 임함 통일부장관에 보함 2023. 7. 28.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001690956003651000&tocId=I0000000000000001690710424775000&isTocOrder=N; snapshot sources/unification/gazette_20558_I0000000000000001690710424775000.pdf (+ .txt); accessed 2026-09-25T12:58:46-0400",
+    "연합뉴스 2023-07-28 11:24 \"尹대통령, 김영호 통일부 장관 임명 재가…지명 한달만(종합)\" (28일 오전 김영호 통일부 장관 임명 재가, 오후 임명장); https://n.news.naver.com/mnews/article/001/0014098493; snapshot sources/unification/news/naver_001_0014098493.html; accessed 2026-09-25T13:04:37-0400",
+    "YTN 2023-07-28 11:15 \"尹, '청문보고서 불발' 김영호 통일부 장관 임명\"; https://n.news.naver.com/mnews/article/052/0001915988; snapshot sources/unification/news/naver_052_0001915988.html; accessed 2026-09-25T13:04:49-0400",
+    "통일부 열린장관실 역대장관 page, entry '43대 김영호 2023.7.28.∼ 2025.7.24. 통일부장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "end": "2025-07-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2025-07-25 15:07 \"김영호 통일부 장관 이임식\" (김영호 통일부 장관 이임식 2025-07-25); https://n.news.naver.com/mnews/article/001/0015530072; snapshot sources/unification/news/naver_001_0015530072.html; accessed 2026-09-25T13:05:35-0400",
+    "뉴스1 2025-07-25 15:10 \"김영호 통일부 장관 이임식\"; https://n.news.naver.com/mnews/article/421/0008392893; snapshot sources/unification/news/naver_421_0008392893.html; accessed 2026-09-25T13:05:48-0400",
+    "관보 제21047호 (2025-07-31) 인사: 정동영(鄭東泳) 국무위원에 임함 통일부장관에 보함 2025. 7. 25. (successor); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N; snapshot sources/unification/gazette_21047_I0000000000000001753420981908000.pdf (+ .txt); accessed 2026-09-24T22:59:54-0400",
+    "통일부 열린장관실 역대장관 page, entry '43대 김영호 2023.7.28.∼ 2025.7.24. (ministry page end = day before successor)'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] BigKinds metadata: 아주경제 2025-07-25 (news_id 02100851.20250725181407001) and 뉴스핌 2025-07-25 '김영호 통일부 장관 이임식' (news_id 04100078.20250725151950001) '25일 정부서울청사 별관에서 열린 이임식'; snapshot sources/unification/verify/bigkinds/bk_김영호_end3_2025-07-25_2025-07-26_2712cd27e4.json; accessed 2026-09-25T22:09:44-0400",
+    "[verifier] BigKinds metadata: 한국일보 2025-07-26 (news_id 01101101.20250726140509001) '이재명 대통령이 정동영 통일부 장관 ... 에 대한 임명안을 재가'; snapshot sources/unification/verify/bigkinds/bk_김영호_end4_2025-07-25_2025-07-26_a3f8c89933.json; accessed 2026-09-25T22:09:46-0400"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "20 valid meetings (상임위/국정감사/인사청문특위) as 통일부장관 from 2023-08-23 to 2024-12-16, all inside the spell. Ignored 2 rows of invalid types (국회본회의, 예산결산특별위원회) dated ['2022-09-01', '2022-09-16'] outside the spell (misattached content, per the audit caveat).",
+   "notes": "Stayed through the 2024-12-14..2025-06-04 acting presidencies and into the 이재명 presidency until 2025-07-25 (same-day handover). Not the 20th-22nd NA member 김영호 (金映豪, 서울 서대문구을). Transcript rows of type 국회본회의/예결위 labelled '통일부장관 김영호' in 2022 are noise. birth_date from Wikidata Q124635869 (via ko.wikipedia title '김영호 (1959년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary)."
+  },
+  {
+   "name": "정동영",
+   "name_hanja": "鄭東泳",
+   "name_en": "Chung Dong-young",
+   "name_en_source": "Wikidata Q491437 (via ko.wikipedia title '정동영'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400",
+   "birth_date": "1953-07-27",
+   "gender": "M",
+   "ministry": "통일부",
+   "office_title": "통일부장관",
+   "deputy_pm": false,
+   "start": "2025-07-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21047호 (2025-07-31) 인사: 정동영(鄭東泳) 국무위원에 임함 통일부장관에 보함 2025. 7. 25.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N; snapshot sources/unification/gazette_21047_I0000000000000001753420981908000.pdf (+ .txt); accessed 2026-09-24T22:59:54-0400",
+    "SBS 2025-07-25 16:06 \"이 대통령, 정동영·안규백·권오을 장관 임명안 재가\" (오늘(25일) 정동영 통일부 장관 ... 임명안 재가); https://n.news.naver.com/mnews/article/055/0001278520; snapshot sources/unification/news/naver_055_0001278520.html; accessed 2026-09-24T22:54:13-0400",
+    "KBS 2025-07-25 12:33 \"이 대통령, 정동영·안규백·권오을 장관 임명안 재가\"; https://n.news.naver.com/mnews/article/056/0011996355; snapshot sources/unification/news/naver_056_0011996355.html; accessed 2026-09-24T22:54:20-0400",
+    "JTBC 2025-07-25 13:27 \"이대통령, 정동영·안규백·권오을 임명…청문보고서 없이 강행 첫 사례\"; https://n.news.naver.com/mnews/article/437/0000450082; snapshot sources/unification/news/naver_437_0000450082.html; accessed 2026-09-24T22:54:06-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400"
+   ],
+   "end": null,
+   "end_confidence": "high",
+   "end_sources": [
+    "채널A 2026-09-23 11:10 \"정동영 “전쟁 끝내야 이산가족 아픔 해소할 수 있어”\" (정동영 통일부 장관 speaking in office on 2026-09-23); https://n.news.naver.com/mnews/article/449/0000361791; snapshot sources/unification/news/naver_449_0000361791.html; accessed 2026-09-25T13:08:36-0400",
+    "파이낸셜뉴스 2026-09-23 16:42 \"정동영 \"정전상태 끝내야 이산가족 상봉\"\" (2026-09-23); https://n.news.naver.com/mnews/article/014/0005580474; snapshot sources/unification/news/naver_014_0005580474.html; accessed 2026-09-25T13:08:50-0400",
+    "매일경제 2026-08-30 16:20 \"“본인 재판 취소에 총대 멜 장관 낙점”…국힘, 이 대통령 개각에 맹공\" (2026-08-30 reshuffle: 정동영 통일부 장관이 유임); https://n.news.naver.com/mnews/article/009/0005727695; snapshot sources/unification/news/naver_009_0005727695.html; accessed 2026-09-25T13:09:18-0400",
+    "한국경제 2026-08-30 18:01 \"부동산 정책 투톱 교체…강경파·범여권 전진 배치\" (2026-08-30: 통일부 장관 등은 이번 인사에서 자리를 지켰다); https://n.news.naver.com/mnews/article/015/0005326398; snapshot sources/unification/news/naver_015_0005326398.html; accessed 2026-09-25T13:13:54-0400",
+    "[verifier] BigKinds metadata: 뉴스핌 2026-09-22 '대화 나누는 정동영- 권오을 장관' (news_id 04100078.20260922094449001) and 아시아경제 2026-09-22 (news_id 02100801.20260922085828001) '정동영 통일부 장관 ... 22일 ... 국무회의'; 세계일보 2026-09-23 (news_id 01100701.20260923110155001) '정동영 통일부 장관이 대독한 기념사'; snapshot sources/unification/verify/bigkinds/bk_정동영_current_2026-09-22_2026-09-25_bfef2bcd5f.json; accessed 2026-09-25T22:05:40-0400",
+    "[verifier] Namu Wiki '통일부장관' (secondary, revision 2026-08-08) '현직 정동영 / 제44대 취임일 2025년 7월 25일'; snapshot sources/unification/verify/namu_통일부장관.html; accessed 2026-09-25T21:55:22-0400"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 22nd NA member (더불어민주당, 전북 전주시병, mona_cd ARP89147); kept his seat while minister",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after transcript coverage ends (2025-01).",
+   "notes": "In office at the 2026-09-24 cutoff. No 통일부 appointment appears in the 관보 인사 items from 2025-08-26 to 2026-09-24 (gazette_hits_late.json), which is consistent with, but not proof of, continuity. A 해임건의안 (bill 2218615, filed 2026-04-24, reported to the plenary 2026-04-28) lapsed on 2026-05-01 without a vote (의안정보시스템 [2218615] (국회법 제112조제7항 기한경과 폐기 2026-05-01); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M2Z6W0H4L2S4Z1A4Q4D8P2M3P3Z4L2; snapshot sources/unification/likms_detail_2218615.html; accessed 2026-09-24T22:48:04-0400). He did not resign to run in the 2026-06-03 local elections. birth_date from na_members_15_22.csv."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "강인덕",
+   "office_title": "통일부장관",
+   "nomination_date": "1998-03-03",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-03-03",
+   "sources": [
+    "연합뉴스 1998-03-03 12:39 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" (조각 발표 1998-03-03); https://n.news.naver.com/mnews/article/001/0004372354; snapshot sources/unification/news/naver_001_0004372354.html; accessed 2026-09-24T22:44:26-0400",
+    "통일부 열린장관실 역대장관 page, entry '24대 강인덕 1998.03.03'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "notes": "No hearing law for 국무위원 before 2005-07-28."
+  },
+  {
+   "nominee": "임동원",
+   "office_title": "통일부장관",
+   "nomination_date": "1999-05-24",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1999-05-24",
+   "sources": [
+    "연합뉴스 1999-05-24 14:12 \"임동원 통일부 장관 일문일답\" (입각이 결정된 ... 24일); https://n.news.naver.com/mnews/article/001/0004506080; snapshot sources/unification/news/naver_001_0004506080.html; accessed 2026-09-24T22:47:13-0400",
+    "연합뉴스 1999-05-26 11:33 \"김 대통령 신임 국정원장 등에 임명장\" (임명장 1999-05-26); https://n.news.naver.com/mnews/article/001/0004511356; snapshot sources/unification/news/naver_001_0004511356.html; accessed 2026-09-24T22:47:26-0400",
+    "통일부 열린장관실 역대장관 page, entry '25대 임동원 1999.05.24'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400"
+   ],
+   "notes": "임명장 handed over 1999-05-26 after his return from Tokyo."
+  },
+  {
+   "nominee": "박재규",
+   "office_title": "통일부장관",
+   "nomination_date": "1999-12-23",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1999-12-23",
+   "sources": [
+    "연합뉴스 1999-12-23 13:39 \"<통일부 표정> 박 장관 임명에 의외 반응 역력\" (23일 오전 박재규 ... 새로 장관에 임명된다는 소식); https://n.news.naver.com/mnews/article/001/0004498245; snapshot sources/unification/news/naver_001_0004498245.html; accessed 2026-09-25T13:18:42-0400",
+    "연합뉴스 1999-12-24 10:49 \"김대통령 임동원 원장에 임명장\" (임명장 24일); https://n.news.naver.com/mnews/article/001/0004500874; snapshot sources/unification/news/naver_001_0004500874.html; accessed 2026-09-24T22:48:19-0400",
+    "통일부 열린장관실 역대장관 page, entry '26대 박재규 1999.12.24'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "[verifier] 연합뉴스 1999-12-23 13:30 'NSC상임위 역학구도 어떻게 되나' (임명 on 1999-12-23); https://n.news.naver.com/mnews/article/001/0004490253; snapshot sources/unification/verify/news/naver_001_0004490253.html; accessed 2026-09-25T22:13:39-0400"
+   ],
+   "notes": " Verifier note. Appointed on 1999-12-23 (announcement), 임명장 on 1999-12-24."
+  },
+  {
+   "nominee": "임동원",
+   "office_title": "통일부장관",
+   "nomination_date": "2001-03-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-03-26",
+   "sources": [
+    "동아일보 2001-03-26 18:41 \"장관급 12명 개각…국정원장 신건 통일 임동원\"; https://n.news.naver.com/mnews/article/020/0000055089; snapshot sources/unification/news/naver_020_0000055089.html; accessed 2026-09-25T12:59:53-0400",
+    "관보 제14764호 (2001-03-30) 인사: ◉2001년 3 월26일자 임동원 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N; snapshot sources/unification/gazette_14764_00000000000000001319596776654000.pdf (+ .txt); accessed 2026-09-24T22:33:36-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "홍순영",
+   "office_title": "통일부장관",
+   "nomination_date": "2001-09-07",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-09-07",
+   "sources": [
+    "연합뉴스 2001-09-07 10:49 \"통일 홍순영 건교 안정남씨(종합)-1\"; https://n.news.naver.com/mnews/article/001/0000097673; snapshot sources/unification/news/naver_001_0000097673.html; accessed 2026-09-24T22:49:37-0400",
+    "관보 제14901호 (2001-09-13) 인사: ◉2001년 9 월 7 일자 홍순영 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N; snapshot sources/unification/gazette_14901_00000000000000001319017417050000.pdf (+ .txt); accessed 2026-09-24T22:43:59-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "정세현",
+   "office_title": "통일부장관",
+   "nomination_date": "2002-01-29",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-01-29",
+   "sources": [
+    "연합뉴스 2002-01-29 10:35 \"장관급 9명 경질 단행-1\"; https://n.news.naver.com/mnews/article/001/0000128440; snapshot sources/unification/news/naver_001_0000128440.html; accessed 2026-09-25T13:14:24-0400",
+    "관보 제15018호 (2002-02-02) 인사: ◉2002년 1 월29일자 정세현 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N; snapshot sources/unification/gazette_15018_00000000000000001319020047126000.pdf (+ .txt); accessed 2026-09-24T22:44:15-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "정세현",
+   "office_title": "통일부장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "연합뉴스 2003-02-27 16:01 \"<정세현 통일장관 유임, 후속인사 관심>\" (27일 새정부 조각발표에서 ... 정세현 현 장관이 유임); https://n.news.naver.com/mnews/article/001/0000326779; snapshot sources/unification/news/naver_001_0000326779.html; accessed 2026-09-25T13:15:15-0400",
+    "관보 제15338호 (2003-03-05) 인사: ◉2003년 2 월27일자 정세현 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N; snapshot sources/unification/gazette_15338_00000000000000001319026541100000.pdf (+ .txt); accessed 2026-09-24T22:44:28-0400"
+   ],
+   "notes": "Reappointment of the sitting minister by the new president 노무현 (no break in tenure)."
+  },
+  {
+   "nominee": "정동영",
+   "office_title": "통일부장관",
+   "nomination_date": "2004-06-30",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2004-07-01",
+   "sources": [
+    "이데일리 2004-06-30 14:44 \"정동영·김근태 입각..3개 부처 개각(상보)\" (30일 통일부 장관에 ... 정동영 전 의장을 임명); https://n.news.naver.com/mnews/article/018/0000176114; snapshot sources/unification/news/naver_018_0000176114.html; accessed 2026-09-25T13:16:41-0400",
+    "관보 제15737호 (2004-07-06) 인사: ⊙2004년 7 월 1 일자 정동영 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N; snapshot sources/unification/gazette_15737_00000000000000001319031615639000.pdf (+ .txt); accessed 2026-09-24T22:46:50-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "이종석",
+   "office_title": "통일부장관",
+   "nomination_date": "2006-01-02",
+   "request_date": "2006-01-11",
+   "likms_bill_id": "ZZ1773",
+   "hearing_dates": [
+    "2006-02-06"
+   ],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-02-10",
+   "sources": [
+    "BigKinds metadata: 노컷뉴스 2006-01-02 \"\"4개부처 개각, 유시민 당과 협의후 임명\"\" (news_id 04100058.20060102223811003) (2일 ... 통일부 장관에 이종석 NSC 사무차장을 내정); snapshot sources/unification/bigkinds/bk_2006-01-02_2006-01-02_d78bdadec2.json; accessed 2026-09-25T13:58:27-0400",
+    "의안정보시스템 [ZZ1773] (접수 2006-01-11, 경과보고서채택 2006-02-08, 송부 2006-02-09); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=033530; snapshot sources/unification/likms_detail_ZZ1773.html; accessed 2026-09-25T06:34:28-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 34064 (통일외교통상위원회, 2006-02-06, 국무위원후보자(통일부장관 이종석) 인사청문회)",
+    "관보 제16195호 (2006-02-17) 인사: ⊙2006년 2 월10일자 이종석 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600208544000&tocId=00000000000000001319600226028000&isTocOrder=N; snapshot sources/unification/gazette_16195_00000000000000001319600226028000.pdf (+ .txt); accessed 2026-09-24T22:49:51-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "이재정",
+   "office_title": "통일부장관",
+   "nomination_date": "2006-11-01",
+   "request_date": "2006-11-08",
+   "likms_bill_id": "ZZ1834",
+   "hearing_dates": [
+    "2006-11-17"
+   ],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-12-11",
+   "sources": [
+    "BigKinds metadata: 세계일보 2006-11-02 \"외교 안보라인 교체\" (news_id 01100701.20061102100001581) (1일 새 통일부 장관에 이재정 ... 내정); snapshot sources/unification/bigkinds/bk_2006-10-25_2006-11-08_50caa71802.json; accessed 2026-09-25T13:44:26-0400",
+    "의안정보시스템 [ZZ1834] (접수 2006-11-08, 2006-11-28 재송부 요청(기한 12-07), 경과보고서 미채택); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=037730; snapshot sources/unification/likms_detail_ZZ1834.html; accessed 2026-09-25T06:36:27-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 35024 (통일외교통상위원회, 2006-11-17)",
+    "YTN 2006-12-11 14:43 \"노 대통령, 통일·건교장관 임명장 수여\" (2차례나 인사청문 경과보고서 채택을 무산); https://n.news.naver.com/mnews/article/052/0000136039; snapshot sources/unification/news/naver_052_0000136039.html; accessed 2026-09-24T22:51:50-0400"
+   ],
+   "notes": "Appointed without a hearing report after the President's re-request lapsed."
+  },
+  {
+   "nominee": "남주홍",
+   "office_title": "통일부장관",
+   "nomination_date": "2008-02-18",
+   "request_date": "2008-02-22",
+   "likms_bill_id": "ZZ1912",
+   "hearing_dates": [],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2008-02-27",
+   "sources": [
+    "BigKinds metadata: 이데일리 2008-02-18 \"(프로필)남주홍 국무위원 내정자\" (news_id 04101008.20080218121348001) ((프로필)남주홍 국무위원 내정자, 2008-02-18); snapshot sources/unification/bigkinds/bk_2008-02-18_2008-02-18_e1699b7b31.json; accessed 2026-09-25T13:56:56-0400",
+    "BigKinds metadata: 중앙일보 2008-02-20 \"‘햇볕’ 대신 ‘응달’? … 주목받는 남주홍\" (news_id 01100901.20080220232852001) (국무위원 후보자 남주홍, 통일부가 유지될 경우 통일부 장관); snapshot sources/unification/bigkinds/bk_2008-02-18_2008-02-20_266422d5bc.json; accessed 2026-09-25T13:52:27-0400",
+    "의안정보시스템 [ZZ1912] (대통령당선인 request 2008-02-22, 2008-02-27 대통령 철회요청으로 철회); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q0B8B0Z2G2U2B1O9E2O5S1O8A8S1L3; snapshot sources/unification/likms_detail_ZZ1912.html; accessed 2026-09-24T22:44:30-0400",
+    "BigKinds metadata: 동아일보 2008-02-28 \"남주홍 - 박은경 장관후보자 사퇴\" (news_id 01100401.20080228064306036) (남주홍 - 박은경 장관후보자 사퇴); snapshot sources/unification/bigkinds/bk_2008-02-26_2008-02-28_ceecf05728.json; accessed 2026-09-25T13:45:07-0400",
+    "MBC 2008-02-28 09:24 \"결국 사퇴\" (후보자 본인들이 ... 용퇴의사); https://n.news.naver.com/mnews/article/214/0000062425; snapshot sources/unification/news/naver_214_0000062425.html; accessed 2026-09-24T22:53:26-0400"
+   ],
+   "notes": "Named on 2008-02-18 as a 국무위원 nominee who would head 통일부 if the ministry survived the reorganization talks. He stepped down before any hearing and the President withdrew the request on 2008-02-27."
+  },
+  {
+   "nominee": "김하중",
+   "office_title": "통일부장관",
+   "nomination_date": "2008-03-02",
+   "request_date": "2008-03-04",
+   "likms_bill_id": "ZZ1917",
+   "hearing_dates": [
+    "2008-03-10"
+   ],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2008-03-11",
+   "sources": [
+    "BigKinds metadata: 동아일보 2008-03-03 \"통일 김하중, 환경 이만의, 방통위장 최시중\" (news_id 01100401.20080303064312046) (이명박 대통령은 2일 통일부 장관에 김하중 주중대사 ... 내정); snapshot sources/unification/bigkinds/bk_2008-02-28_2008-03-04_171dd8bf42.json; accessed 2026-09-25T13:45:29-0400",
+    "의안정보시스템 [ZZ1917] (접수 2008-03-04, 경과보고서채택 2008-03-10); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_G0E8V0P3K0P4K2C2Q0G6E4U2Y9Q1C9; snapshot sources/unification/likms_detail_ZZ1917.html; accessed 2026-09-24T22:44:44-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 36918 (통일외교통상위원회, 2008-03-10)",
+    "관보 제16710호 (2008-03-17) 인사: ⊙2008년 3월 11일자 김하중 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319082069995000&tocId=00000000000000001319082100242000&isTocOrder=N; snapshot sources/unification/gazette_16710_00000000000000001319082100242000.pdf (+ .txt); accessed 2026-09-24T22:54:59-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "현인택",
+   "office_title": "통일부장관",
+   "nomination_date": "2009-01-19",
+   "request_date": "2009-01-23",
+   "likms_bill_id": "ZZ18036",
+   "hearing_dates": [
+    "2009-02-09"
+   ],
+   "hearing_committee": "외교통상통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2009-02-12",
+   "sources": [
+    "BigKinds metadata: 서울신문 2009-01-20 \"[1·19 개각]현인택 통일팀 정책·과제\" (news_id 01100611.20160423162755730) ([1·19 개각] ... 19일 새로운 통일정책 수장의 내정); snapshot sources/unification/bigkinds/bk_2009-01-18_2009-01-20_230a8e1b4d.json; accessed 2026-09-25T13:52:55-0400",
+    "의안정보시스템 [ZZ18036] (접수 2009-01-23, 경과보고서채택 2009-02-10); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A0W9V0O1Z2S3B1F5Q4W8N3N3D5S4Z8; snapshot sources/unification/likms_detail_ZZ18036.html; accessed 2026-09-24T22:44:58-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 37959 (외교통상통일위원회, 2009-02-09)",
+    "관보 제16941호 (2009-02-18) 인사: ⊙2009년 2월 12일자 현인택 통일부장관에 보함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319106400991000&tocId=00000000000000001319106421447000&isTocOrder=N; snapshot sources/unification/gazette_16941_00000000000000001319106421447000.pdf (+ .txt); accessed 2026-09-24T22:55:42-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "류우익",
+   "office_title": "통일부장관",
+   "nomination_date": "2011-08-30",
+   "request_date": "2011-09-01",
+   "likms_bill_id": "ZZ18159",
+   "hearing_dates": [
+    "2011-09-14"
+   ],
+   "hearing_committee": "외교통상통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2011-09-17",
+   "sources": [
+    "BigKinds metadata: 동아일보 2011-08-31 \"李대통령 8·30 개각… 장관급 5명-靑특보 1명 인사\" (news_id 01100401.20110831021517027) (李대통령 8·30 개각 ... 류우익 ... 통일부 장관으로 내정); snapshot sources/unification/bigkinds/bk_2011-08-25_2011-09-01_2268d0b832.json; accessed 2026-09-25T13:46:07-0400",
+    "의안정보시스템 [ZZ18159] (접수 2011-09-01, 경과보고서채택 2011-09-16); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A1J1P0V9Q0F1F2J0I3T8I5A7J3Z9S8; snapshot sources/unification/likms_detail_ZZ18159.html; accessed 2026-09-24T22:45:29-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 40994 (외교통상통일위원회, 2011-09-14)",
+    "관보 제17596호 (2011-09-21) 인사: 류우익 통일부장관에 보함 2011. 9. 17.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001320220862521000&tocId=00000000000000001320220991219001&isTocOrder=N; snapshot sources/unification/gazette_17596_00000000000000001320220991219001.pdf (+ .txt); accessed 2026-09-24T22:57:27-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "류길재",
+   "office_title": "통일부장관",
+   "nomination_date": "2013-02-17",
+   "request_date": "2013-02-20",
+   "likms_bill_id": "ZZ19046",
+   "hearing_dates": [
+    "2013-03-06"
+   ],
+   "hearing_committee": "외교통상통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2013-03-11",
+   "sources": [
+    "BigKinds metadata: 동아일보 2013-02-18 \"경제부총리 ‘돌아온 관료’ 복지부장관 ‘공약 지휘자’\" (news_id 01100401.20130218053435021) (박근혜 대통령 당선인이 17일 ... 국무위원 11명의 인선을 추가로 발표); snapshot sources/unification/bigkinds/bk_2013-02-15_2013-02-18_55d806adf1.json; accessed 2026-09-25T14:00:53-0400",
+    "BigKinds metadata: 강원도민일보 2013-02-18 \"경제부총리 현오석, 미래창조과학장관 김종훈 내정(종합2보)\" (news_id 01300101.20130218132146001) (통일 류길재 ... 17일); snapshot sources/unification/bigkinds/bk_2013-02-15_2013-02-18_55d806adf1.json; accessed 2026-09-25T14:00:53-0400",
+    "의안정보시스템 [ZZ19046] (대통령당선인 request 2013-02-20, 경과보고서채택 2013-03-06); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D1B3A0K2S2R0H1K1X2I4M5M8T4K7E1; snapshot sources/unification/likms_detail_ZZ19046.html; accessed 2026-09-24T22:45:44-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 42544 (외교통상통일위원회, 2013-03-06)",
+    "관보 제17971호 (2013-03-14) 인사: 류길재 통일부장관에 보함 2013. 3. 11.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N; snapshot sources/unification/gazette_17971_00000000000000001363076221739000.pdf (+ .txt); accessed 2026-09-24T22:57:54-0400"
+   ],
+   "notes": "Nominated by 대통령당선인 박근혜 (인사청문회법 제11조의2)."
+  },
+  {
+   "nominee": "홍용표",
+   "office_title": "통일부장관",
+   "nomination_date": "2015-02-17",
+   "request_date": "2015-02-25",
+   "likms_bill_id": "ZZ19146",
+   "hearing_dates": [
+    "2015-03-11"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2015-03-13",
+   "sources": [
+    "BigKinds metadata: 서울신문 2015-02-24 \"‘회전문’ 임종룡 … 땅투기 의혹 유기준\" (news_id 01100611.20160419191458542) (지난 17일 개각으로 새로 내정된 ... 홍용표 통일부 장관 후보자); snapshot sources/unification/bigkinds/bk_2015-02-12_2015-02-25_1434eff86a.json; accessed 2026-09-25T13:46:51-0400",
+    "의안정보시스템 [ZZ19146] (접수 2015-02-25, 경과보고서채택 2015-03-13); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D1S5P0K2M2E5Z1N8Q1I8B1O0Q8R7I1; snapshot sources/unification/likms_detail_ZZ19146.html; accessed 2026-09-24T22:45:58-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 44980 (외교통일위원회, 2015-03-11)",
+    "BigKinds metadata: 헤럴드경제 2015-03-13 \"장관후보자 ‘올 패스’…홍용표 통일장관 후보자 청문보고서 채택\" (news_id 02100701.20160120035710601) (홍용표 통일장관 후보자 청문보고서 채택); snapshot sources/unification/bigkinds/bk_2015-03-12_2015-03-16_d6e36dfb2b.json; accessed 2026-09-25T13:38:24-0400",
+    "관보 제18472호 (2015-03-19) 인사: 홍용표 통일부장관에 보함 2015. 3. 13.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001426641229940000&tocId=00000000000000001426641276019000&isTocOrder=N; snapshot sources/unification/gazette_18472_00000000000000001426641276019000.pdf (+ .txt); accessed 2026-09-25T07:06:46-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "조명균",
+   "office_title": "통일부장관",
+   "nomination_date": "2017-06-13",
+   "request_date": "2017-06-15",
+   "likms_bill_id": "ZZ20056",
+   "hearing_dates": [
+    "2017-06-29"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2017-07-03",
+   "sources": [
+    "BigKinds metadata: 브릿지경제 2017-06-14 \"[장관 후보자 주요 프로필] 조명균 통일부 장관, 두차례 남북정상회담 이끈 정책통\" (news_id 02100861.20170614003803002) (13일 통일부 장관에 지명된 조명균); snapshot sources/unification/bigkinds/bk_2017-06-08_2017-06-15_abe7f9a92f.json; accessed 2026-09-25T13:47:09-0400",
+    "의안정보시스템 [ZZ20056] (접수 2017-06-15, 경과보고서채택 2017-06-29); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_K1S7X0N6Z1J5P1K9S3V3H1T3A0O0S3; snapshot sources/unification/likms_detail_ZZ20056.html; accessed 2026-09-24T22:46:12-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 47195 (외교통일위원회, 2017-06-29)",
+    "관보 제19052호 (2017-07-17) 인사: 조명균 통일부장관에 보함 2017.7.3.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N; snapshot sources/unification/gazette_19052_00000000000000001499993578089000.pdf (+ .txt); accessed 2026-09-24T22:51:32-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "김연철",
+   "office_title": "통일부장관",
+   "nomination_date": "2019-03-08",
+   "request_date": "2019-03-13",
+   "likms_bill_id": "ZZ20257",
+   "hearing_dates": [
+    "2019-03-26"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2019-04-08",
+   "sources": [
+    "BigKinds metadata: 강원도민일보 2019-03-09 \"정부-국회 요직 강원출신 포진, 현안 해결 기대\" (news_id 01300101.20190309004048002) (8일 단행된 ... 개각에서 ... 김연철 통일연구원 원장이 신임 통일부 장관에 지명); snapshot sources/unification/bigkinds/bk_2019-03-07_2019-03-09_f0aaafac55.json; accessed 2026-09-25T13:53:45-0400",
+    "의안정보시스템 [ZZ20257] (접수 2019-03-13, 상정 2019-03-18/03-26, no report recorded); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_B1F9F0P3L1L3M1P7A2Q4S3J9A3V4Q7; snapshot sources/unification/likms_detail_ZZ20257.html; accessed 2026-09-24T22:46:53-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 49031 (외교통일위원회, 2019-03-26)",
+    "BigKinds metadata: 대구일보 2019-04-09 \"문 대통령, 박영선·김연철 장관 임명 강행\" (news_id 01500501.20190409134350002) (박영선·김연철 장관 임명 강행); snapshot sources/unification/bigkinds/bk_2019-04-07_2019-04-09_5adcb831ef.json; accessed 2026-09-25T13:39:13-0400",
+    "관보 제19482호 (2019-04-16) 인사: 김연철 통일부장관에 보함 2019.4.8.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N; snapshot sources/unification/gazette_19482_00000000000000001555373338024000.pdf (+ .txt); accessed 2026-09-24T22:59:43-0400"
+   ],
+   "notes": "Appointed without an adopted hearing report."
+  },
+  {
+   "nominee": "이인영",
+   "office_title": "통일부장관",
+   "nomination_date": "2020-07-03",
+   "request_date": "2020-07-08",
+   "likms_bill_id": "ZZ21012",
+   "hearing_dates": [
+    "2020-07-23"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2020-07-27",
+   "sources": [
+    "BigKinds metadata: 경향신문 2020-07-03 \"[사설]경험 중시한 외교안보라인 개편, 남북관계 회복 기대한다\" (news_id 01100101.20200703204958001) (문재인 대통령이 3일 ... 통일부 장관에는 이인영 ... 내정); snapshot sources/unification/bigkinds/bk_2020-07-03_2020-07-03_de69799d01.json; accessed 2026-09-25T13:58:11-0400",
+    "의안정보시스템 [ZZ21012] (접수 2020-07-08, 처리 2020-07-24 채택); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_P2R0A0O7I0X8Y1T5H5P6B3U5Z6J3H5; snapshot sources/unification/likms_detail_ZZ21012.html; accessed 2026-09-24T22:47:09-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 50066 (외교통일위원회, 2020-07-23)",
+    "관보 제19807호 (2020-08-03) 인사: 이인영 통일부장관에 보함 2020.7.27.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001596090824979000&tocId=00000000000000001596090827049000&isTocOrder=N; snapshot sources/unification/gazette_19807_00000000000000001596090827049000.pdf (+ .txt); accessed 2026-09-25T07:07:43-0400"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "권영세",
+   "office_title": "통일부장관",
+   "nomination_date": "2022-04-13",
+   "request_date": "2022-04-15",
+   "likms_bill_id": "ZZ21103",
+   "hearing_dates": [
+    "2022-05-12"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-13",
+   "sources": [
+    "BigKinds metadata: YTN 2022-04-13 \"초대 법무부 장관 후보자에 한동훈...통일부 장관에 권영세\" (news_id 08100401.20220413221602001) (초대 법무부 장관 후보자에 한동훈...통일부 장관에 권영세 (2022-04-13)); snapshot sources/unification/bigkinds/bk_2022-04-13_2022-04-13_2fb3a47a0b.json; accessed 2026-09-25T13:57:36-0400",
+    "의안정보시스템 [ZZ21103] (대통령당선인 request 2022-04-15, 경과보고서채택 2022-05-12); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M2J2P0C4Y1T5O1H8Z2V0C3V7Y8B8Y2; snapshot sources/unification/likms_detail_ZZ21103.html; accessed 2026-09-24T22:47:23-0400",
+    "BigKinds metadata: 데일리안 2022-05-02 \"권영세 통일부장관 후보자 인사청문회 12일 실시\" (news_id 04100158.20220502163929001) (외통위, 권영세 인사청문회를 오는 12일 실시하기로 합의 (2022-05-02)); snapshot sources/unification/bigkinds/bk_2022-05-02_2022-05-02_a06d2096b2.json; accessed 2026-09-25T13:55:08-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 51890 (외교통일위원회, 2022-05-12)",
+    "한겨레 2022-05-13 19:09 \"윤 대통령, 원희룡·박보균·권영세 임명…정호영은 또 보류\" (청문보고서가 채택된 권영세 ... 13일 임명); https://n.news.naver.com/mnews/article/028/0002590562; snapshot sources/unification/news/naver_028_0002590562.html; accessed 2026-09-25T13:03:49-0400",
+    "관보 제20255호 (2022-05-23) 인사: 권영세 통일부장관에 보함 2022. 5. 13.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N; snapshot sources/unification/gazette_20255_I0000000000000001652659816213000.pdf (+ .txt); accessed 2026-09-24T22:33:40-0400"
+   ],
+   "notes": "Nominated by 대통령당선인 윤석열. likms lists a '제1차 청문회' session on 2022-05-02 in which the request was 상정, but the hearing itself was held on 2022-05-12 per the transcript and news. The 2022-05-02 session is therefore not counted as a hearing date."
+  },
+  {
+   "nominee": "김영호",
+   "office_title": "통일부장관",
+   "nomination_date": "2023-06-29",
+   "request_date": "2023-07-05",
+   "likms_bill_id": "ZZ21154",
+   "hearing_dates": [
+    "2023-07-21"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-07-28",
+   "sources": [
+    "BigKinds metadata: 아시아투데이 2023-07-04 \"국회 외통위, 오는 21일 '김영호 통일부 장관 후보자' 인사청문회 개최\" (news_id 01100751.20230704174749001) (윤석열 대통령은 지난달 29일 신임 통일부 장관으로 김영호 ... 지명); snapshot sources/unification/bigkinds/bk_2023-06-25_2023-07-05_4d67903f6b.json; accessed 2026-09-25T13:48:34-0400",
+    "의안정보시스템 [ZZ21154] (접수 2023-07-05, 상정 2023-07-13/07-21, no report recorded); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D2Y3X0P7W0A5V1H8S1Y6T5E6E7J6B6; snapshot sources/unification/likms_detail_ZZ21154.html; accessed 2026-09-24T22:47:36-0400",
+    "inputs/nominee_hearing_meetings.csv meeting_id 53082 (외교통일위원회, 2023-07-21)",
+    "YTN 2023-07-28 11:15 \"尹, '청문보고서 불발' 김영호 통일부 장관 임명\" (청문보고서 불발 ... 재송부 요청 시한 27일); https://n.news.naver.com/mnews/article/052/0001915988; snapshot sources/unification/news/naver_052_0001915988.html; accessed 2026-09-25T13:04:49-0400",
+    "관보 제20558호 (2023-08-04) 인사: 김영호 통일부장관에 보함 2023. 7. 28.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001690956003651000&tocId=I0000000000000001690710424775000&isTocOrder=N; snapshot sources/unification/gazette_20558_I0000000000000001690710424775000.pdf (+ .txt); accessed 2026-09-25T12:58:46-0400"
+   ],
+   "notes": "Appointed after the Assembly did not answer the re-request for the report (deadline 2023-07-27)."
+  },
+  {
+   "nominee": "정동영",
+   "office_title": "통일부장관",
+   "nomination_date": "2025-06-23",
+   "request_date": "2025-06-30",
+   "likms_bill_id": "ZZ22057",
+   "hearing_dates": [
+    "2025-07-14"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-25",
+   "sources": [
+    "BigKinds metadata: 광주일보 2025-06-24 \"장·차관 잇따라 배출…전북에 경사\" (news_id 01600301.20250624020136001) (지난 23일 이재명 대통령의 11개 부처 장관 후보자 인선 ... 정동영 통일부 장관 후보자); snapshot sources/unification/bigkinds/bk_2025-06-22_2025-06-24_f10e1aefbd.json; accessed 2026-09-25T13:54:23-0400",
+    "의안정보시스템 [ZZ22057] (접수 2025-06-30, 상정 2025-07-07/07-14, no report recorded); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_T2J5P0X6F3G0G1W8L0U9Y0P5Y9Y5W4; snapshot sources/unification/likms_detail_ZZ22057.html; accessed 2026-09-24T22:47:50-0400",
+    "BigKinds metadata: SBS 2025-07-14 \"정동영 '태양광' 공방…전재수엔 \"부산시장 출마?\"\" (news_id 08100301.20250714201421001) (정동영 통일부 장관 후보자 청문회, 2025-07-14); snapshot sources/unification/bigkinds/bk_2025-07-14_2025-07-14_2fbb5ae12d.json; accessed 2026-09-25T13:54:44-0400",
+    "BigKinds metadata: 동아일보 2025-07-23 \"李대통령, 강선우 청문보고서 재송부 요청… 임명 강행 수순\" (news_id 01100401.20250723030332002) (22일 ... 정동영 ... 인사청문경과보고서 재송부를 국회에 일괄 요청, 기한 24일); snapshot sources/unification/bigkinds/bk_2025-07-15_2025-07-24_97760f1eff.json; accessed 2026-09-25T13:55:52-0400",
+    "JTBC 2025-07-25 13:27 \"이대통령, 정동영·안규백·권오을 임명…청문보고서 없이 강행 첫 사례\" (청문보고서 없이 강행 첫 사례); https://n.news.naver.com/mnews/article/437/0000450082; snapshot sources/unification/news/naver_437_0000450082.html; accessed 2026-09-24T22:54:06-0400",
+    "관보 제21047호 (2025-07-31) 인사: 정동영 통일부장관에 보함 2025. 7. 25.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N; snapshot sources/unification/gazette_21047_I0000000000000001753420981908000.pdf (+ .txt); accessed 2026-09-24T22:59:54-0400"
+   ],
+   "notes": "Hearing date 2025-07-14 is after the transcript window, so it rests on likms and news only. Appointed without an adopted report."
+  }
+ ],
+ "acting": [
+  {
+   "name": "이봉조",
+   "role": "통일부 차관, 장관 직무대행",
+   "from": "2006-01-02",
+   "to": "2006-02-09",
+   "sources": [
+    "한국경제TV 2006-01-01 11:51 \"노 대통령, 정동영 김근태 장관 사표 수리\" (2일부터 통일부, 보건복지부는 차관이 장관을 대행하는 체제); https://n.news.naver.com/mnews/article/004/0000055039; snapshot sources/unification/news/naver_004_0000055039.html; accessed 2026-09-24T22:50:14-0400",
+    "이데일리 2006-01-30 16:07 \"내일 차관급 인사 대거 단행\" (현재 장관 직무대행을 하고 있는 보건복지부와 통일부; 통일부 이봉조 차관); https://n.news.naver.com/mnews/article/018/0000351731; snapshot sources/unification/news/naver_018_0000351731.html; accessed 2026-09-24T22:51:04-0400",
+    "note: The vice minister's name comes from the 2006-01-30 report listing 통일부 이봉조 차관; no report names him as acting minister in one sentence.",
+    "[verifier] BigKinds metadata: 노컷뉴스 2006-02-09 '통일차관,복지차관 교체' (news_id 04100058.20060209220407002) '청와대는 이봉조 통일부 차관과 송재성 복지부 차관을 교체 ... 그동안 장관을 대행해왔던 두 차관'; snapshot sources/unification/verify/bigkinds/bk_acting_이봉조_2006-01-02_2006-02-10_7aebc51522.json; accessed 2026-09-25T22:14:33-0400"
+   ]
+  },
+  {
+   "name": "홍양호",
+   "role": "통일부 차관, 장관 직무대행 (차관 대행체제)",
+   "from": "2008-03-01",
+   "to": "2008-03-10",
+   "sources": [
+    "파이낸셜뉴스 2008-02-29 18:51 \"기획재정부 차관 최중경·배국환씨\" (2008-02-29 통일부 차관에 홍양호); https://n.news.naver.com/mnews/article/014/0001948307; snapshot sources/unification/news/naver_014_0001948307.html; accessed 2026-09-24T22:54:12-0400",
+    "한겨레 2008-03-02 23:29 \"이명박 정부 4개부처 장관없이 ‘기형적 출범’\" (통일부 ... 차관 대행체제); https://n.news.naver.com/mnews/article/028/0001941805; snapshot sources/unification/news/naver_028_0001941805.html; accessed 2026-09-24T22:53:02-0400",
+    "뉴시스 2008-03-02 17:51 \"통일부, 새 단장으로 분주\" (지난달 임명된 홍양호 차관을 중심으로); https://n.news.naver.com/mnews/article/003/0001985718; snapshot sources/unification/news/naver_003_0001985718.html; accessed 2026-09-24T22:54:04-0400",
+    "note: 홍양호 was appointed vice minister on 2008-02-29, the day 이재정 left. Before that, 이관세 차관 handled business while 이재정 was still minister."
+   ]
+  },
+  {
+   "name": "서호",
+   "role": "통일부 차관, 장관 직무대행",
+   "from": "2020-06-19",
+   "to": "2020-07-26",
+   "sources": [
+    "헤럴드경제 2020-06-19 11:09 \"문대통령, 김연철 장관 사표 수리…만찬 갖고 사의 표명 입장 경청\" (서호 차관, 대행 맡을 듯); https://n.news.naver.com/mnews/article/016/0001688600; snapshot sources/unification/news/naver_016_0001688600.html; accessed 2026-09-25T13:01:33-0400",
+    "뉴스1 2020-06-28 18:47 \"통일부총리 부활론 띄운 與…장관 하마평엔 임종석·이인영(종합)\" (장관 직무대행을 맡고 있는 서호 차관); https://n.news.naver.com/mnews/article/421/0004721996; snapshot sources/unification/news/naver_421_0004721996.html; accessed 2026-09-25T13:01:43-0400",
+    "note: From the 2020-06-19 10:40 면직 of 김연철."
+   ]
+  },
+  {
+   "name": "김기웅",
+   "role": "통일부 차관, 장관 직무대행",
+   "from": "2022-05-10",
+   "to": "2022-05-12",
+   "sources": [
+    "연합뉴스 2022-05-10 11:39 \"통일부, 장관 취임 전 '차관 직무대행' 체제 전환\" (새로운 장관 임명 시까지 김 차관 직무대행 체제); https://n.news.naver.com/mnews/article/001/0013167425; snapshot sources/unification/news/naver_001_0013167425.html; accessed 2026-09-25T13:02:35-0400",
+    "아시아경제 2022-05-10 12:46 \"통일부, 김기웅 신임 차관 직무대행 체제로 운영\"; https://n.news.naver.com/mnews/article/277/0005086679; snapshot sources/unification/news/naver_277_0005086679.html; accessed 2026-09-25T13:02:45-0400",
+    "note: 김기웅 was appointed vice minister on 2022-05-10."
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "1998-02-28..1998-03-02 vacancy. When 정부조직법 법률 제5529호 took effect on the afternoon of 1998-02-28, 통일원 was abolished and no 통일부 minister or vice minister was in office until 강인덕 was appointed on 1998-03-03 (contemporary reports call the new ministries' heads 궐위). 권오기's 통일원 spell is closed on 1998-02-27 to match offices.json, although he was in office for part of 1998-02-28 and the ministry page lists him to 1998-03-02. No acting head was identified for these three days. The same treatment should be applied consistently to the other YS-era ministries abolished that day."
+  },
+  {
+   "severity": "medium",
+   "desc": "End-date convention. The 통일부 역대장관 page ends each tenure on the day before the successor's start. This roster instead uses the documented last day (resignation accepted, farewell ceremony) and otherwise the successor's legal appointment date (same-day handover). Most spells that end in a replacement therefore end one day later than on the ministry page. Adjust in code if a strict non-overlap convention is wanted."
+  },
+  {
+   "severity": "medium",
+   "desc": "이재정 end date. His resignation acceptance date was not found. The roster uses 2008-02-29, the day of his farewell ceremony and the first day of 차관 대행. The ministry page says 2008-02-28. The 관보 does not print exits."
+  },
+  {
+   "severity": "medium",
+   "desc": "권영세 start. The 관보 (제20255호) and same-day reports give 2022-05-13. The ministry page and ko.wikipedia give 2022-05-16 (probably the 임명장 ceremony). The old panel likely follows 05-16."
+  },
+  {
+   "severity": "low",
+   "desc": "Pre-2001 dates, for which no digital 관보 exists, are 권오기 start 1995-12-21 (disputed, announced and reported as appointed on 1995-12-20, 임명장 and 취임식 1995-12-21), 임동원 start 1999-05-24 (announcement day, 임명장 1999-05-26), 박재규 start 1999-12-23 (announcement day, corrected by the verifier from 1999-12-24, the 임명장 day) and 임동원 end 1999-12-23. They rest on news of the day plus the ministry page. The rule used is the one the 관보 shows for the 김대중 government, where the appointment is dated by the announcement even when the 임명장 is later (홍순영 2001-09-07, 임명장 2001-09-12)."
+  },
+  {
+   "severity": "low",
+   "desc": "정세현 was reappointed by 노무현 on 2003-02-27 (관보 제15338호) after serving since 2002-01-29. He is kept as one spell per the instructions. The ministry page counts two 대수 (29대, 30대). The split at 2003-02-25 done in code will not match the 2003-02-27 reappointment date, and the 2003-02-25..02-26 days are a holdover period under 노무현."
+  },
+  {
+   "severity": "low",
+   "desc": "Holdover periods after presidential transitions are 이재정 2008-02-25..02-29, 류우익 2013-02-25..03-11, 홍용표 2017-05-10..07-03, 김영호 2025-06-04..07-25. The ministers served under a president who had not appointed them."
+  },
+  {
+   "severity": "low",
+   "desc": "Naver News searches were intermittently throttled (empty result pages) during this run, so several appointment-day and farewell reports come from BigKinds metadata (title and snippet only, snapshotted JSON) rather than full articles."
+  },
+  {
+   "severity": "low",
+   "desc": "Secondary person fields. gender is from na_members_15_22.csv (정동영, 이재정, 이인영, 권영세), Wikidata P21 (the others) and, for 강인덕 who has no P21, from the 1998-03-03 Yonhap cabinet profile that names only two women in the cabinet. birth_date is from na_members_15_22.csv or Wikidata P569 (year only where Wikidata has year precision or conflicting values). name_en is the Wikidata English label, not an official romanization. name_hanja is from the 관보 notice (2001 onward) or Yonhap (권오기, 강인덕, 박재규)."
+  },
+  {
+   "severity": "low",
+   "desc": "Day-level continuity for 통일부 (1998-02-28..2026-09-24). Vacancy 1998-02-28..1998-03-02 between the abolition of 통일원 and 강인덕, 3 day(s), with no acting head identified (장·차관 궐위). Vacancy 2005-12-31..2006-02-09 between 정동영 and 이종석, 41 day(s), with 이봉조 차관 직무대행. Vacancy 2008-03-01..2008-03-10 between 이재정 and 김하중, 10 day(s), with 홍양호 차관 (차관 대행체제). Vacancy 2020-06-20..2020-07-26 between 김연철 and 이인영, 37 day(s), with 서호 차관 직무대행. Vacancy 2022-05-10..2022-05-12 between 이인영 and 권영세, 3 day(s), with 김기웅 차관 직무대행. Same-day handovers, where the outgoing end equals the incoming start, are 강인덕->임동원 on 1999-05-24, 임동원->박재규 on 1999-12-23, 박재규->임동원 on 2001-03-26, 임동원->홍순영 on 2001-09-07, 홍순영->정세현 on 2002-01-29, 이종석->이재정 on 2006-12-11, 현인택->류우익 on 2011-09-17, 류우익->류길재 on 2013-03-11, 류길재->홍용표 on 2015-03-13, 홍용표->조명균 on 2017-07-03, 조명균->김연철 on 2019-04-08, 권영세->김영호 on 2023-07-28, 김영호->정동영 on 2025-07-25. No other gaps or overlaps were found. 통일원 (1998-02-25..02-27) was held by 권오기 throughout. Adjacent spells with no vacant day are 정세현->정동영 (2004-06-30/07-01) and 김하중->현인택 (2009-02-11/02-12). The first two days of the 2005-12-31..2006-02-09 vacancy (a weekend after the late-evening acceptance on 2005-12-30) precede the reported start of 차관 대행 on 2006-01-02."
+  },
+  {
+   "severity": "medium",
+   "desc": "Verifier dispute on 이재정 end. 2008-02-29 (이임식, last working day) is kept against 2008-02-28 on the 통일부 역대장관 page and Namu Wiki. No report of the 사표 수리 or 면직 day was found."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier dispute on 권오기 start. 1995-12-21 (ministry page, 임명장, 취임식) is kept against 1995-12-20 (announcement reported as the appointment by 중앙일보 and 한겨레). The start lies before the window."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T22:18:50-0400",
+  "verifier": "adversarial verifier, lineage unification",
+  "per_spell": {
+   "권오기|1995-12-21": "disputed",
+   "강인덕|1998-03-03": "confirmed",
+   "임동원|1999-05-24": "corrected",
+   "박재규|1999-12-23": "corrected",
+   "임동원|2001-03-26": "confirmed",
+   "홍순영|2001-09-07": "confirmed",
+   "정세현|2002-01-29": "confirmed",
+   "정동영|2004-07-01": "confirmed",
+   "이종석|2006-02-10": "confirmed",
+   "이재정|2006-12-11": "disputed",
+   "김하중|2008-03-11": "confirmed",
+   "현인택|2009-02-12": "confirmed",
+   "류우익|2011-09-17": "confirmed",
+   "류길재|2013-03-11": "confirmed",
+   "홍용표|2015-03-13": "confirmed",
+   "조명균|2017-07-03": "confirmed",
+   "김연철|2019-04-08": "confirmed",
+   "이인영|2020-07-27": "confirmed",
+   "권영세|2022-05-13": "confirmed",
+   "김영호|2023-07-28": "confirmed",
+   "정동영|2025-07-25": "confirmed"
+  },
+  "changes": [
+   {
+    "name": "권오기",
+    "field": "start (status)",
+    "old": "1995-12-21 (confirmed by builder)",
+    "new": "1995-12-21 kept, marked disputed",
+    "evidence": "중앙일보 1995-12-21 (01100901.19951221032608001) and 한겨레 1995-12-21 (01101001.19951221000000303) report the appointment on 1995-12-20; 경향신문 and 서울신문 1995-12-22 report the 임명장 and 취임식 on 1995-12-21; ministry page 1995.12.21. No gazette for 1995."
+   },
+   {
+    "name": "임동원 (1999-05-24 spell)",
+    "field": "end_reason",
+    "old": "replaced",
+    "new": "other",
+    "evidence": "He left 통일부 because he was appointed 국가정보원장 on 1999-12-23 (동아일보 1999-12-24 01100401.19991224103858001, 연합뉴스 1999-12-23 11:19 001/0004496066). Other lineages code a move to another post as 'other' (interior 김정길 1999-02-06, oceans 허성관 2003-09-19 'end_reason other = moved to another cabinet post', gender 조윤선 2014-06-13)."
+   },
+   {
+    "name": "박재규",
+    "field": "start",
+    "old": "1999-12-24",
+    "new": "1999-12-23",
+    "evidence": "연합뉴스 1999-12-23 13:30 'NSC상임위 역학구도 어떻게 되나' (001/0004490253, '박재규 경남대 총장이 임 장관의 후임으로 통일부장관에 임명됐기 때문이다'); 연합뉴스 1999-12-23 13:17 '<연합인터뷰> 박재규 신임 통일부 장관' (001/0004488141); BigKinds 동아일보, 서울신문, 한겨레, 경향신문, 중앙일보, 매일경제, 국민일보, 국제신문 of 1999-12-24 all write '김대중 대통령은 23일 ... 신임 통일부장관에 박재규 경남대 총장을 임명했다'; 경남도민일보 1999-12-24 사설 '23일 오전 새 통일부장관에 박재규 전 경남대총장이 임명되었다'. 1999-12-24 is the 임명장 and 취임식 day (연합뉴스 1999-12-24 10:49 and 11:24). In the 김대중 government the 관보 dates appointments by the announcement day, not the 임명장 day (홍순영 2001-09-07 vs 임명장 2001-09-12). The builder's own 임동원 (1999-05-24, 임명장 05-26) and 임동원 end (1999-12-23) already follow the announcement day, so 1999-12-24 was internally inconsistent."
+   },
+   {
+    "name": "이재정",
+    "field": "end (status)",
+    "old": "2008-02-29 (builder, medium)",
+    "new": "2008-02-29 kept, marked disputed",
+    "evidence": "통일부 역대장관 page and Namu Wiki give 2008-02-28. 연합뉴스 2008-02-29 16:07 (001/0001981539) and 아시아경제 2008-02-29 (02100801.20080229190900001) place his 이임식 on the afternoon of 2008-02-29. No 사표 수리 or 면직 report found in BigKinds for 2008-02-24..03-03."
+   },
+   {
+    "name": "박재규 (nomination)",
+    "field": "outcome_date",
+    "old": "1999-12-24",
+    "new": "1999-12-23",
+    "evidence": "same evidence as the 박재규 start correction"
+   },
+   {
+    "name": "이봉조 (acting)",
+    "field": "sources",
+    "old": "vice minister named only indirectly",
+    "new": "direct source added",
+    "evidence": "노컷뉴스 2006-02-09 (04100058.20060209220407002) names 이봉조 통일부 차관 as having acted for the minister"
+   },
+   {
+    "name": "issues",
+    "field": "desc (Pre-2001 dates)",
+    "old": "Pre-2001 dates, for which no digital 관보 exists, are 권오기 start 1995-12-21 (reshuffle announced 1995-12-20), 임동원 start 1999-05-24 (임명장 1999-05-26), 박재규 start 1999-12-24 (announced 1999-12-23), 임동원 end 1999-12-23. These rest on the ministry page plus Yonhap and could be off by one or two days against the legal appointment date.",
+    "new": "Pre-2001 dates, for which no digital 관보 exists, are 권오기 start 1995-12-21 (disputed, announced and reported as appointed on 1995-12-20, 임명장 and 취임식 1995-12-21), 임동원 start 1999-05-24 (announcement day, 임명장 1999-05-26), 박재규 start 1999-12-23 (announcement day, corrected by the verifier from 1999-12-24, the 임명장 day) and 임동원 end 1999-12-23. They rest on news of the day plus the ministry page. The rule used is the one the 관보 shows for the 김대중 government, where the appointment is dated by the announcement even when the 임명장 is later (홍순영 2001-09-07, 임명장 2001-09-12).",
+    "evidence": "see the 박재규 start change"
+   },
+   {
+    "name": "issues",
+    "field": "desc (continuity)",
+    "old": "Day-level continuity for 통일부 (1998-02-28..2026-09-24). Vacancy 1998-02-28..1998-03-02 between the abolition of 통일원 and 강인덕, 3 day(s), with no acting head identified (장·차관 궐위). Vacancy 2005-12-31..2006-02-09 between 정동영 and 이종석, 41 day(s), with 이봉조 차관 직무대행. Vacancy 2008-03-01..2008-03-10 between 이재정 and 김하중, 10 day(s), with 홍양호 차관 (차관 대행체제). Vacancy 2020-06-20..2020-07-26 between 김연철 and 이인영, 37 day(s), with 서호 차관 직무대행. Vacancy 2022-05-10..2022-05-12 between 이인영 and 권영세, 3 day(s), with 김기웅 차관 직무대행. Same-day handovers, where the outgoing end equals the incoming start, are 강인덕->임동원 on 1999-05-24, 박재규->임동원 on 2001-03-26, 임동원->홍순영 on 2001-09-07, 홍순영->정세현 on 2002-01-29, 이종석->이재정 on 2006-12-11, 현인택->류우익 on 2011-09-17, 류우익->류길재 on 2013-03-11, 류길재->홍용표 on 2015-03-13, 홍용표->조명균 on 2017-07-03, 조명균->김연철 on 2019-04-08, 권영세->김영호 on 2023-07-28, 김영호->정동영 on 2025-07-25. No other gaps or overlaps were found. 통일원 (1998-02-25..02-27) was held by 권오기 throughout.",
+    "new": "Day-level continuity for 통일부 (1998-02-28..2026-09-24). Vacancy 1998-02-28..1998-03-02 between the abolition of 통일원 and 강인덕, 3 day(s), with no acting head identified (장·차관 궐위). Vacancy 2005-12-31..2006-02-09 between 정동영 and 이종석, 41 day(s), with 이봉조 차관 직무대행. Vacancy 2008-03-01..2008-03-10 between 이재정 and 김하중, 10 day(s), with 홍양호 차관 (차관 대행체제). Vacancy 2020-06-20..2020-07-26 between 김연철 and 이인영, 37 day(s), with 서호 차관 직무대행. Vacancy 2022-05-10..2022-05-12 between 이인영 and 권영세, 3 day(s), with 김기웅 차관 직무대행. Same-day handovers, where the outgoing end equals the incoming start, are 강인덕->임동원 on 1999-05-24, 임동원->박재규 on 1999-12-23, 박재규->임동원 on 2001-03-26, 임동원->홍순영 on 2001-09-07, 홍순영->정세현 on 2002-01-29, 이종석->이재정 on 2006-12-11, 현인택->류우익 on 2011-09-17, 류우익->류길재 on 2013-03-11, 류길재->홍용표 on 2015-03-13, 홍용표->조명균 on 2017-07-03, 조명균->김연철 on 2019-04-08, 권영세->김영호 on 2023-07-28, 김영호->정동영 on 2025-07-25. No other gaps or overlaps were found. 통일원 (1998-02-25..02-27) was held by 권오기 throughout. Adjacent spells with no vacant day are 정세현->정동영 (2004-06-30/07-01) and 김하중->현인택 (2009-02-11/02-12). The first two days of the 2005-12-31..2006-02-09 vacancy (a weekend after the late-evening acceptance on 2005-12-30) precede the reported start of 차관 대행 on 2006-01-02.",
+    "evidence": "roster/scripts/unification_verify_07_continuity.py run on the verified file"
+   }
+  ],
+  "disputes": [
+   "권오기 start. Kept 1995-12-21 (통일부 역대장관 page, 임명장 and 취임식 per 경향신문 and 서울신문 1995-12-22). Alternative 1995-12-20 (중앙일보 1995-12-21 01100901.19951221032608001 and 한겨레 1995-12-21 01101001.19951221000000303 report him appointed on the 20th). No 1995 관보 file.",
+   "이재정 end. Kept 2008-02-29 (연합뉴스 2008-02-29 16:07 이임식 photo 001/0001981539, 아시아경제 2008-02-29 02100801.20080229190900001). Alternative 2008-02-28 (통일부 역대장관 page, Namu Wiki). No source on the 사표 수리 day."
+  ],
+  "completeness": [
+   "Independent holder list. Namu Wiki '통일부장관' (revision 2026-08-08, not used by the builder, snapshot roster/sources/unification/verify/namu_통일부장관.html) lists 23대 권오기 and 24대 강인덕 through 44대 정동영, the same 20 persons and 21 spells (29·30대 정세현 as one tenure). Wikidata Q12592549 has only 4 holders (조명균, 김연철, 이인영, 권영세), all in the roster. The old panel and audit/coverage_gaps.csv leads (박재규, 임동원 2001, 홍순영 absent from the old panel) are all in the roster.",
+   "Gazette corpus (2,709 인사 items, GAZETTE_DONE present) grepped with letter-spacing allowed for 통일(부|원)장관 (roster/scripts/unification_verify_01_gazette_grep.py, output roster/sources/unification/verify/gazette_grep.json). 32 files hit. The 18 '국무위원에 임함 통일부장관에 보함' notices (2001-03-26, 2001-09-07, 2002-01-29, 2003-02-27, 2004-07-01, 2006-02-10, 2006-12-11, 2008-03-11, 2009-02-12, 2011-09-17, 2013-03-11, 2015-03-13, 2017-07-03, 2019-04-08, 2020-07-27, 2022-05-13, 2023-07-28, 2025-07-25) all map to spells (2003-02-27 is the 정세현 reappointment). The other 14 hits are 장관정책보좌관 or 장관실 staff items. No 통일원 hit after 2001 and no 통일부장관 notice after 2025-07-25.",
+   "Transitions. 1998 holdover 권오기 (통일원 to 1998-02-27, then 통일부 궐위 to 1998-03-02). 2003 정세현 reappointed on 2003-02-27. 2008 이재정 stayed to 2008-02-29 under 이명박, 남주홍 withdrew. 2013 류우익 to 2013-03-11. 2017 홍용표 to 2017-07-03. 2022 이인영 resigned 2022-05-09 before the transition, 차관 대행 2022-05-10..12. 2025 김영호 to 2025-07-25. Acting presidencies 2004, 2016-17 and 2024-25 had no 통일부 appointment.",
+   "Elections. No 통일부장관 resigned to run in the 2000-2024 general, 2002-2022 local or 2026-06-03 elections. 정동영 left on 2005-12-30 for the 열린우리당 2006-02-18 party convention (end_reason resigned, not a public election). He remained minister through the 2026-06-03 local and by-elections and at the cutoff.",
+   "Short tenures. The shortest spells are 홍순영 (2001-09-07..2002-01-29) and 임동원 (2001-03-26..2001-09-07). No spell under 30 days exists and none was missed."
+  ],
+  "transcript_check": "roster/scripts/unification_verify_02_transcripts.py, output roster/sources/unification/verify/transcript_check.json. 330 minister rows naming 통일 with hearing types 상임위원회, 국정감사 or 인사청문특별위원회, all 330 inside the named person's spell, none outside and none unnamed. No minister_acting row for 통일부. The only lineage person with another affiliation is 김영호 as 산업자원부장관 in 2000 (a different person). Vice-minister rows (이봉조 to 2005-12-07, 서호 2019-11-21..2020-11-18) are consistent with the acting entries.",
+  "continuity": "roster/scripts/unification_verify_07_continuity.py on the verified file. 통일원 1998-02-25..02-27 held by 권오기. 통일부 vacancies 1998-02-28..03-02 (궐위, no acting head, 정무직 excluded from the transfer), 2005-12-31..2006-02-09 (이봉조 acting from 2006-01-02), 2008-03-01..03-10 (홍양호), 2020-06-20..07-26 (서호), 2022-05-10..05-12 (김기웅). Same-day handovers now include 임동원->박재규 on 1999-12-23. Adjacent spells 정세현->정동영 and 김하중->현인택. No overlaps.",
+  "nominations_check": "likms harvest has exactly 14 통일부장관 인사청문요청안 (ZZ1773, ZZ1834, ZZ1912, ZZ1917, ZZ18036, ZZ18159, ZZ19046, ZZ19146, ZZ20056, ZZ20257, ZZ21012, ZZ21103, ZZ21154, ZZ22057), all present with matching request dates. Hearing dates match inputs/nominee_hearing_meetings.csv for all 13 hearings (남주홍 had none). Report status matches the likms 처리결과 and 비고 (not adopted for 이재정, 김연철, 김영호, 정동영 2025). 남주홍 withdrawn on 2008-02-27 (likms 비고 '대통령으로부터 철회요청'). No 국무총리 임명동의안 belongs to this lineage. No 통일부 bill after 2025-06-30. Pre-2005 nominations carry hearing_required false, consistent with the 2005-07-28 extension in offices.json. One correction, 박재규 outcome_date 1999-12-23.",
+  "field_hygiene": "appointing_president matches the start date and the transition dates for all 21 spells. None falls inside an acting-presidency window, so appointed_by_acting_president is false throughout. 정세현 keeps 김대중 for the 2002 appointment with the 2003-02-27 노무현 reappointment in notes, the same one-spell treatment labor.json uses for 이기호 (retained 1998-03-03). deputy_pm true only for 권오기 (부총리 겸 통일원장관, offices.json OF003 1998-02-25..02-27). OF024 통일부 has no deputy PM title. reorg_continuation false for all (통일부 was never renamed, and 권오기 was not carried into 통일부 because 법률 제5529호 부칙 제3조② excludes 정무직). No suspensions (no 통일부장관 impeachment in offices.json). mp_hint re-checked against na_members_15_22.csv for 정동영, 이재정 (李在禎, not 李在汀), 이인영, 권영세, and 김영호 (金暎浩, not the MP 金映豪). end_reason corrected for 임동원 1999 (other). All in scope (OF003 and OF024 is_kukmuwiwon true).",
+  "gazette_reread": "All 18 gazette-backed starts were re-read in harvest/gazette_text (grep context with the governing date header or per-person date line, output gazette_grep.json). Full blocks were read for 제14764호 (◉2001년 3 월26일자 임동원), 제15338호 (◉2003년 2 월27일자 정세현), 제15737호 (⊙2004년 6 월30일자 이해찬 then ⊙2004년 7 월 1 일자 정동영), 제16195호 (⊙2006년 2 월10일자 이종석) and 제16401호 (two-column text, ⊙2006년12월11일자 governs 이재정). All dates agree with the builder.",
+  "scripts": [
+   "roster/scripts/unification_verify_01_gazette_grep.py",
+   "roster/scripts/unification_verify_02_transcripts.py",
+   "roster/scripts/unification_verify_03_independent_lists.py",
+   "roster/scripts/unification_verify_04_bigkinds.py",
+   "roster/scripts/unification_verify_05_bigkinds2.py",
+   "roster/scripts/unification_verify_06_naver.py",
+   "roster/scripts/unification_verify_07_continuity.py",
+   "roster/scripts/unification_verify_08_build.py"
+  ],
+  "snapshots": "roster/sources/unification/verify/ (bigkinds/, news/, namu_통일부장관.html, independent_lists.json, bigkinds_summary.json, naver_results.json, gazette_grep.json, transcript_check.json)",
+  "source_note": "Sources appended by the verifier carry the prefix '[verifier]'. Builder sources were left in place.",
+  "continuity_detail": {
+   "통일원": {
+    "window": [
+     "1998-02-25",
+     "1998-02-27"
+    ],
+    "gaps": [],
+    "overlaps": [],
+    "same_day": [],
+    "adjacent": []
+   },
+   "통일부": {
+    "window": [
+     "1998-02-28",
+     "2026-09-24"
+    ],
+    "gaps": [
+     {
+      "from": "1998-02-28",
+      "to": "1998-03-02",
+      "days": 3,
+      "before": "강인덕",
+      "acting": []
+     },
+     {
+      "from": "2005-12-31",
+      "to": "2006-02-09",
+      "days": 41,
+      "before": "이종석",
+      "acting": [
+       "이봉조"
+      ]
+     },
+     {
+      "from": "2008-03-01",
+      "to": "2008-03-10",
+      "days": 10,
+      "before": "김하중",
+      "acting": [
+       "홍양호"
+      ]
+     },
+     {
+      "from": "2020-06-20",
+      "to": "2020-07-26",
+      "days": 37,
+      "before": "이인영",
+      "acting": [
+       "서호"
+      ]
+     },
+     {
+      "from": "2022-05-10",
+      "to": "2022-05-12",
+      "days": 3,
+      "before": "권영세",
+      "acting": [
+       "김기웅"
+      ]
+     }
+    ],
+    "overlaps": [],
+    "same_day": [
+     "강인덕->임동원 1999-05-24",
+     "임동원->박재규 1999-12-23",
+     "박재규->임동원 2001-03-26",
+     "임동원->홍순영 2001-09-07",
+     "홍순영->정세현 2002-01-29",
+     "이종석->이재정 2006-12-11",
+     "현인택->류우익 2011-09-17",
+     "류우익->류길재 2013-03-11",
+     "류길재->홍용표 2015-03-13",
+     "홍용표->조명균 2017-07-03",
+     "조명균->김연철 2019-04-08",
+     "권영세->김영호 2023-07-28",
+     "김영호->정동영 2025-07-25"
+    ],
+    "adjacent": [
+     "정세현->정동영 2004-06-30/2004-07-01",
+     "김하중->현인택 2009-02-11/2009-02-12"
+    ]
+   }
+  }
+ },
+ "built_at_original": "2026-09-25T21:36:19-0400"
+}

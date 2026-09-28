@@ -1,0 +1,838 @@
+{
+ "group": "g3",
+ "verified_by": "adversarial challenger g3",
+ "verified_at": "2026-09-26T00:10:32-0400",
+ "rows": [
+  {
+   "row_id": "R0321",
+   "name": "진영",
+   "party_on_date": "새누리당",
+   "party_date_basis": "Member of 새누리당 (renamed from 한나라당 2012-02-13) from before the 2012 election until he left the party in March 2016. News of 2013-02-21 calls him 새누리당 진영 의원 while he was transition-committee vice chair.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.20130221210932002&returnCnt=1&sectionDiv=1000 (BigKinds, 전북일보 2013-02-21, \"부동산 취득세 감면 연장,국회 행안위 통과\", text: \"대통령직인수위원회 부위원장인 새누리당 진영 의원이 발의한\") (accessed 2026-09-25T23:22:46-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42273249 (ko.wikipedia \"진영 (정치인)\" revid 42273249, 소속 정당 table: 한나라당 1998~2012, 새누리당 2012~2016, 무소속 2016 탈당, 더불어민주당 2016~ 입당) (accessed 2026-09-25T13:29:15-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 서울 용산구, 지역구, seat 2012-05-30 to 2016-05-29 (term end) per NA open API seat record in na_members/na_member_spells_15_22.csv. Row interval lies inside the seat. No seat resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/003/0005026141 (뉴시스 2013-03-13, \"[용산역세권 부도]정부 \"직접 개입은 없다\"\", text: \"용산이 지역구인 새누리당 진영 의원(현 보건복지부 장관)\") (accessed 2026-09-26T00:04:44-0400)",
+    "https://n.news.naver.com/mnews/article/421/0000212027 (뉴스1 2013-03-19, \"與, 최고위원 공석 언제까지(종합)\", text: \"진영 새누리당 의원이 보건복지부 장관에 발탁되면서\") (accessed 2026-09-26T00:04:45-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, row of 2016-03-17 for 진영 with 새누리당 → 무소속 and reason \"새누리당 탈당\", row of 2016-03-20 with 무소속 → 더불어민주당 and reason \"더불어민주당 입당\", no earlier 진영 entry) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2013-03-11 re-established as 새누리당 from sources the checker did not cite. New news from two days and eight days after appointment calls him a sitting 새누리당 member while minister. The 19th-term party-change table has no 진영 entry before his 2016-03-17 exit."
+  },
+  {
+   "row_id": "R0323",
+   "name": "유정복",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member throughout the 19th Assembly. Described as 새누리당 유정복 의원 at nomination (2013-02-13/14) and after appointment (2013-03-14).",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/003/0004978599 (뉴시스 2013-02-14, \"의원들과 인사나누는 유정복 행정안전부 장관 후보자\", text: \"새누리당 유정복 (행정안전부장관 후보자)의원\") (accessed 2026-09-25T23:02:39-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.20160317120457905&returnCnt=1&sectionDiv=1000 (BigKinds, 서울경제 2013-02-13, \"새정부 안전행정부장관 유정복\", text: \"안전행정부 장관 후보자에 유정복 새누리당 의원을 지명했다\", original http://www.sednews.com/NewsView/1HQ9F4XIHB) (accessed 2026-09-25T23:23:01-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42424479 (ko.wikipedia \"유정복\" revid 42424479, 소속 정당 table: 한나라당 2002~2012 복당, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T13:27:39-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 경기 김포시, 지역구, seat 2012-05-30 to 2014-05-15 per NA open API seat record in na_members/na_member_spells_15_22.csv. The seat ended when he registered as 인천시장 candidate (exit_reason_text 인천시장 후보자로 등록에 따른 퇴직), after both of his minister rows ended, so the dual interval is not affected.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0006091083 (연합뉴스 2013-02-13, \"안전행정부 장관 내정자 유정복 누구인가\", text: \"새 정부 안전행정부장관에 유정복 새누리당 의원을 내정했다\") (accessed 2026-09-26T00:04:46-0400)",
+    "https://n.news.naver.com/mnews/article/003/0004980467 (뉴시스 2013-02-15, \"유정복 \"불법계약 의혹 형에 편의제공 사실 없어\"\", text: \"안전행정부 장관으로 지명된 새누리당 유정복 의원은 15일\") (accessed 2026-09-26T00:04:47-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, row of 2014-05-15 for 유정복 under 새누리당 with reason \"인천시장 후보자로 등록에 따른 퇴직\", no other 유정복 entry) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2013-03-11 re-established as 새누리당 from sources the checker did not cite. Nomination-day and follow-up news (2013-02-13, 2013-02-15) name him as a 새누리당 member. The 19th-term party-change table lists 유정복 only at 2014-05-15 as 새누리당 (퇴직 on registering for the 인천시장 race), so no party change falls between nomination and 2013-03-11."
+  },
+  {
+   "row_id": "R0334",
+   "name": "유정복",
+   "party_on_date": "새누리당",
+   "party_date_basis": "Same person and party as R0323. In the panel this row follows R0323 (ended 2013-03-22) with the ministry renamed 안전행정부, so it is a continuation of the same tenure. Called 유정복 새누리당 의원 in news of 2013-03-14, after appointment.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/028/0002179579 (한겨레 2013-03-14, \"박근혜 대통령, 국회의원 시절 후원금 ‘억’ 소리 나네\", text: \"박근혜 정부 안전행정부 장관에 임명된 유정복 새누리당 의원은\") (accessed 2026-09-25T23:04:27-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42424479 (ko.wikipedia \"유정복\" revid 42424479, 소속 정당 table: 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T13:27:39-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "Same seat as R0323 (19th, 경기 김포시, 지역구, 2012-05-30 to 2014-05-15 per NA open API seat record in na_members/na_member_spells_15_22.csv). Row end 2014-03-05 is before seat end, so dual_office_end equals the row end.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0006794365 (연합뉴스 2014-03-07, \"유정복 \"돌발 질문에 솔직 답변…野 과민반응\"\", text: \"인천시장 출마 선언을 한 새누리당 유정복 의원은 7일\") (accessed 2026-09-26T00:04:48-0400)",
+    "https://n.news.naver.com/mnews/article/001/0006091083 (연합뉴스 2013-02-13, \"안전행정부 장관 내정자 유정복 누구인가\", text: \"새 정부 안전행정부장관에 유정복 새누리당 의원을 내정했다\") (accessed 2026-09-26T00:04:46-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, only 유정복 row is the 2014-05-15 새누리당 퇴직, no party change) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2013-03-23 re-established as 새누리당 from sources the checker did not cite. Bracketed on both sides. He was named as a 새누리당 member at nomination (2013-02-13) and was still 새누리당 on 2014-03-07, two days after this row ended, when he declared for 인천시장. The 19th-term party-change table records no 유정복 party change in between."
+  },
+  {
+   "row_id": "R0339",
+   "name": "이주영",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. Nominated 2014-02-12 as 새누리당 이주영 의원 (4선, 창원 마산합포).",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01600501.20160217071904335&returnCnt=1&sectionDiv=1000 (BigKinds, 무등일보 2014-02-13, \"신임 해양수산부장관에 이주영 새누리 의원\", text: \"해양수산부 장관에 새누리당 이주영 의원(4선·마산)을 내정했다\", original http://www.honam.co.kr/news_view.php?n=434575&tmp=20140213&s=21) (accessed 2026-09-25T23:20:15-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01500801.2014021310013460494&returnCnt=1&sectionDiv=1000 (BigKinds, 영남일보 2014-02-13, \"해수부 장관에 이주영 의원 내정\", text: \"4선의 새누리당 이주영 의원(경남 창원-마산합포)을 내정했다\") (accessed 2026-09-25T23:23:03-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541583 (ko.wikipedia \"이주영 (1951년)\" revid 42541583, 소속 정당 table: 한나라당 2006~2012 복당, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T13:43:34-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 경남 창원시마산합포구, 지역구, seat 2012-05-30 to 2016-05-29 (term end) per NA open API seat record in na_members/na_member_spells_15_22.csv. No resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/082/0000434529 (부산일보 2014-03-06, \"[사설] 이주영 해수부 장관이 꼭 이뤄야 할 과제\", text: \"새누리당 이주영 의원이 오늘 새 해양수산부 장관에 취임했다\") (accessed 2026-09-26T00:04:49-0400)",
+    "https://n.news.naver.com/mnews/article/032/0002453800 (경향신문 2014-03-17, \"이주영 해수부 장관 \"남북 어업협력 추진하겠다\"\", text: \"공석인 해양수산부 장관에 4선의 새누리당 이주영 의원을 내정했다\") (accessed 2026-09-26T00:04:50-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 이주영 (1951년), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2014-03-05 re-established as 새누리당 from sources the checker did not cite. An editorial of 2014-03-06 (the 취임식 day, one day after the appointment) and news of 2014-03-17 confirm 새누리당. The row start 2014-03-05 agrees with 연합뉴스 of 2014-03-05 (https://n.news.naver.com/mnews/article/001/0006791367, text: \"대통령의 재가를 받아 오늘자로 임명됐다\", accessed 2026-09-25T23:03:32-0400)."
+  },
+  {
+   "row_id": "R0342",
+   "name": "최경환",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. News of 2014-06-17 on his nomination calls him 최경환 새누리당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=04100958.20140617070525001&returnCnt=1&sectionDiv=1000 (BigKinds, EBN 2014-06-17, \"서민·中企 규제 완화…정부 경제정책 틀 바꾼다\", text: \"최경환 새누리당 의원이 경제부총리 겸 기획재정부 장관으로 내정되면서\") (accessed 2026-09-25T23:23:05-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42334005 (ko.wikipedia \"최경환 (1955년)\" revid 42334005, 소속 정당 table: 한나라당 2002~2012, 새누리당 2012~2017 당명 변경) (accessed 2026-09-24T22:43:46-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 경북 경산시청도군, 지역구, seat 2012-05-30 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. His later 20th-term seat (경북 경산시, lost 2019-07-11 by court ruling) is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/003/0005902724 (뉴시스 2014-06-13, \"[종합]朴대통령, 내각 7명 교체…최경환 경제·김명수 교육부총리\", text: \"부총리 겸 기획재정부 장관에 새누리당 최경환 의원을\") (accessed 2026-09-26T00:04:51-0400)",
+    "https://n.news.naver.com/mnews/article/008/0003278665 (머니투데이 2014-06-13, \"경제부총리에 최경환 내정…7개 부처 '중폭개각'(종합)\", text: \"신임 경제부총리에는 새누리당 최경환 의원이\") (accessed 2026-09-26T00:04:52-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 최경환 (1955년), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2014-07-16 re-established as 새누리당 from sources the checker did not cite. Nomination-day news (2014-06-13) from two outlets not cited by the checker confirm 새누리당. No party change in the 19th-term table."
+  },
+  {
+   "row_id": "R0343",
+   "name": "김희정",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. Described as 김희정(새누리당·부산 연제) 의원 in news of 2014-06-22 after her nomination and as 새누리당 김희정 의원 on 2014-07-07.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.2014062210014584548&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2014-06-22, \"김희정 여성부장관 후보 핵심측근 '책임당원명부' 불법 유출의혹\", text: \"여성가족부장관으로 지명된 김희정(새누리당·부산 연제) 의원\", original http://www.segye.com/content/html/2014/06/22/20140622001918.html) (accessed 2026-09-25T23:23:07-0400)",
+    "https://n.news.naver.com/mnews/article/001/0007000624 (연합뉴스 2014-07-07, \"'김희정 의원 법안 철회하라'\", text: \"새누리당 김희정 의원의 법안 입법 철회를 촉구\") (accessed 2026-09-25T23:06:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42158826 (ko.wikipedia \"김희정 (1971년)\" revid 42158826, 소속 정당 table: 한나라당 2011~2012 복당, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T23:02:30-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 부산 연제구, 지역구, seat 2012-05-30 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. No resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/310/0000032118 (여성신문 2014-07-14, \"“계층의 대변자 아닌 ‘가치’의 대변자 되고 싶다”\", text: \"여성가족부 장관 후보자인 김희정 새누리당 의원과\") (accessed 2026-09-26T00:04:53-0400)",
+    "https://n.news.naver.com/mnews/article/082/0000458964 (부산일보 2014-07-25, \"장관으로, 국회 사무총장으로… 잘나가는 '권철현 사단'\", text: \"새누리당 김희정 의원은 최근 여성가족부 장관이 됐다\") (accessed 2026-09-26T00:04:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 김희정, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2014-07-16 re-established as 새누리당 from sources the checker did not cite. News of 2014-07-14 (two days before appointment) and 2014-07-25 (after appointment) confirm 새누리당."
+  },
+  {
+   "row_id": "R0347",
+   "name": "황우여",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. News of 2014-08-07 on his hearing calls him 새누리당 황우여 의원.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0007055483 (연합뉴스 2014-08-07, \"교문위, 황우여 사회부총리 후보자 청문회\", text: \"사회부총리 겸 교육부 장관 후보자에 내정된 새누리당 황우여 의원\") (accessed 2026-09-25T23:06:48-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42420733 (ko.wikipedia \"황우여\" revid 42420733, 소속 정당 table: 한나라당 1997~2012, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T13:33:27-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 인천 연수구, 지역구, seat 2012-05-30 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. No resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/047/0002064659 (오마이뉴스 2014-08-06, \"청문회 앞둔 황우여, '학림사건' 첫 유감 표현\", text: \"사회부총리 겸 교육부 장관에 내정된 황우여 새누리당 의원\") (accessed 2026-09-26T00:04:55-0400)",
+    "https://n.news.naver.com/mnews/article/008/0003310150 (머니투데이 2014-08-06, \"'황우여' 청문회, 野 '국정교과서'·'학림사건' 추궁 예고\", text: \"교육부 장관 후보자로 내정된 황우여 새누리당 의원이\") (accessed 2026-09-26T00:04:56-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 황우여, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2014-08-08 re-established as 새누리당 from sources the checker did not cite. Two pre-hearing items of 2014-08-06 confirm 새누리당."
+  },
+  {
+   "row_id": "R0349",
+   "name": "황우여",
+   "party_on_date": "새누리당",
+   "party_date_basis": "Same person continuing in office. In the panel this row follows R0347 (ended 2014-11-18) with the title changed to 부총리 겸 교육부장관, so it continues the same tenure. The membership record shows no party change between 2014-08 and 2014-11.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0007055483 (연합뉴스 2014-08-07, \"교문위, 황우여 사회부총리 후보자 청문회\", text: \"사회부총리 겸 교육부 장관 후보자에 내정된 새누리당 황우여 의원\") (accessed 2026-09-25T23:06:48-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42420733 (ko.wikipedia \"황우여\" revid 42420733, 소속 정당 table: 새누리당 2012~2017 당명 변경, no 탈당 entry) (accessed 2026-09-25T13:33:27-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "Same seat as R0347 (19th, 인천 연수구, 지역구, to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv).",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/047/0002106446 (오마이뉴스 2016-01-27, \"인천시민단체, 윤상현·황우여 낙선운동 선포\", text: \"황우여 새누리당 의원은 사회부총리였다\") (accessed 2026-09-26T00:04:57-0400)",
+    "https://n.news.naver.com/mnews/article/001/0008149069 (연합뉴스 2016-01-27, \"선진화법 '입법주역' 황우여, 법개정 논란에 침묵 일관\", text: \"이 법의 입법을 주도했던 새누리당 황우여 의원의 입장에 이목이 쏠리고 있다\") (accessed 2026-09-26T00:04:58-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 황우여, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2014-11-19 re-established as 새누리당 from sources the checker did not cite. Direct evidence within the row. 오마이뉴스 (2016-01-27) describes him as a 새누리당 member at the time (2015-10) when he was 사회부총리, and 연합뉴스 of the same day still calls him 새누리당 황우여 의원 after he left office. No party change in the 19th-term table."
+  },
+  {
+   "row_id": "R0352",
+   "name": "이완구",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member since 2013 at the latest (elected 2013-04-24 in the 부여·청양 재선거 as the 새누리당 candidate, 새누리당 원내대표 from 2014-05). News of 2015-02-17 on his confirmation calls him 새누리당 이완구 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.20150217175309002&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2015-02-17, \"이총리는 누구\", text: \"국무총리에 인준된 새누리당 이완구 의원(부여·청양)\") (accessed 2026-09-25T23:23:09-0400)",
+    "https://n.news.naver.com/mnews/article/008/0003422776 (머니투데이 2015-02-19, \"이완구·이한구, 여야 권은희…이름 비슷 울고웃는 정치인\", text: \"이완구 새누리당 원내대표(현 국무총리\") (accessed 2026-09-25T23:07:45-0400)",
+    "https://n.news.naver.com/mnews/article/015/0002870305 (한국경제 2013-04-25, \"안철수 김무성 이완구 국회의원 당선\", text: \"충남 부여·청양 재선거에서 새누리당 이완구 후보가 당선됐다\") (accessed 2026-09-25T23:06:18-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42334004 (ko.wikipedia \"이완구\" revid 42334004, 소속 정당 table: 한나라당 2002~2012 복당, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T23:02:31-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 충남 부여군청양군, 지역구. He entered through the 2013-04-24 재선거, not the 2012 general election (entered_via by_election, seat 2013-04-25 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv). mp_election_type 지역구 is correct in the two-value schema. Seat kept while PM.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0007371959 (연합뉴스 2015-01-23, \"새 총리에 이완구 새누리당 원내대표 내정\", text: \"새누리당 이완구 원내대표가 23일 새 총리에 내정됐\") (accessed 2026-09-26T00:04:59-0400)",
+    "https://n.news.naver.com/mnews/article/082/0000489950 (부산일보 2015-01-23, \"이완구 원내대표 새 총리 내정\", text: \"새누리당 이완구(사진) 원내대표가 23일 새 국무총리에 내정됐다\") (accessed 2026-09-26T00:05:00-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, row of 2013-04-25 for 이완구 under 새누리당, 충남 부여군·청양군, reason 재·보궐선거 당선, no later 이완구 entry) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2015-02-16 re-established as 새누리당 from sources the checker did not cite. Nomination-day news (2015-01-23) confirms he was 새누리당 원내대표 when named. The 19th-term table has only his 2013-04-25 by-election entry as 새누리당 and no later change."
+  },
+  {
+   "row_id": "R0353",
+   "name": "유일호",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. Nominated 2015-02-17 as 유일호 새누리당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01500301.20150217140258001&returnCnt=1&sectionDiv=1000 (BigKinds, 경상일보 2015-02-17, \"통일부 홍용표-국토부 유일호-해수부 유기준\", text: \"국토교통부장관에 유일호 새누리당 의원, 공석인 해양수산부장관에 유기준 새누리당 의원을 각각 내정했다\", original www.ksilbo.co.kr/news/articleView.html?idxno=490105) (accessed 2026-09-25T23:23:11-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42476136 (ko.wikipedia \"유일호\" revid 42476136, 소속 정당 table: 한나라당 2008~2012, 새누리당 2012~2017 당명 변경) (accessed 2026-09-24T22:43:47-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 서울 송파구을, 지역구, seat 2012-05-30 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0007418503 (연합뉴스 2015-02-17, \"<프로필> 유일호 국토교통 장관 후보자\", text: \"국토교통부장관에 내정된 유일호 새누리당 의원\") (accessed 2026-09-26T00:05:01-0400)",
+    "https://n.news.naver.com/mnews/article/001/0007418681 (연합뉴스 2015-02-17, \"유일호 국토교통 장관 후보자\", text: \"국토교통부 장관으로 내정된 새누리당 유일호 의원이 17일\") (accessed 2026-09-26T00:05:02-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 유일호, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2015-03-13 re-established as 새누리당 from sources the checker did not cite. Nomination-day news (2015-02-17) not cited by the checker confirms 새누리당."
+  },
+  {
+   "row_id": "R0354",
+   "name": "유기준",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. Nominated 2015-02-17 as 유기준 새누리당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01500301.20150217140258001&returnCnt=1&sectionDiv=1000 (BigKinds, 경상일보 2015-02-17, \"통일부 홍용표-국토부 유일호-해수부 유기준\", text: \"공석인 해양수산부장관에 유기준 새누리당 의원을 각각 내정했다\", original www.ksilbo.co.kr/news/articleView.html?idxno=490105) (accessed 2026-09-25T23:23:11-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.2015022710016400903&returnCnt=1&sectionDiv=1000 (BigKinds, 국제신문 2015-02-27, \"새누리당 나경원 의원, 사상 첫 여성 외통위원장 선임\", text: \"새누리당 유기준 의원의 해양수산부장관 후보자 지명으로\", original http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20150227.22005195002) (accessed 2026-09-25T23:23:13-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42273262 (ko.wikipedia \"유기준 (1959년)\" revid 42273262, 소속 정당 table: 한나라당 2008~2012 복당, 새누리당 2012~2017 당명 변경) (accessed 2026-09-25T13:43:34-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 부산 서구, 지역구, seat 2012-05-30 to 2016-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0007418948 (연합뉴스 2015-02-17, \"유기준 \"세월호 사건, 마무리할 때가 됐다\"\", text: \"해양수산부 장관에 내정된 새누리당 유기준 의원은 17일\") (accessed 2026-09-26T00:05:03-0400)",
+    "https://n.news.naver.com/mnews/article/417/0000091792 (동행미디어 시대 2015-03-11, \"[MW사진] 김성곤-유기준, '마주잡은 두 손'\", text: \"해양수산부장관 내정자인 새누리당 유기준 의원\") (accessed 2026-09-26T00:05:04-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 유기준 (1959년), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2015-03-13 re-established as 새누리당 from sources the checker did not cite. Nomination-day news (2015-02-17) and hearing-day news (2015-03-11, two days before appointment) confirm 새누리당."
+  },
+  {
+   "row_id": "R0362",
+   "name": "유일호",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 member. Nominated 2015-12-21 and described on 2016-01-13 as 새누리당 유일호 의원.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/005/0000860496 (국민일보 2016-01-13, \"새누리당 영입 1호 인사 대부분, 수도권 험지 출마키로\", text: \"경제부총리 겸 기획재정부 장관으로 내정된 새누리당 유일호 의원\") (accessed 2026-09-25T23:08:46-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.20151221151506848&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2015-12-21, \"기재부 유일호, 교육부 이준식, 행자부 홍윤식 내정\", text: \"신임 부총리 겸 기획재정부장관 후보에 유일호 새누리당 의원\", original http://www.segye.com/content/html/2015/12/21/20151221002556.html) (accessed 2026-09-25T23:23:15-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42476136 (ko.wikipedia \"유일호\" revid 42476136, 소속 정당 table: 새누리당 2012~2017 당명 변경) (accessed 2026-09-24T22:43:47-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 서울 송파구을, 지역구, seat to 2016-05-29 (term end) per NA open API seat record in na_members/na_member_spells_15_22.csv. He holds no 20th-term seat, so dual_office_end 2016-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/015/0003505805 (한국경제 2015-12-21, \"경제부총리에 '정치인' 유일호…국회 소통 카드\", text: \"신임 부총리 겸 기획재정부 장관에 유일호 새누리당 국회의원(60)을 내정했다\") (accessed 2026-09-26T00:05:05-0400)",
+    "https://n.news.naver.com/mnews/article/008/0003611003 (머니투데이 2016-01-11, \"유일호 \"4대개혁 완수하고 신성장동력 모색할 것\"\", text: \"새 경제부총리 겸 기획재정부 장관에 내정된 새누리당 유일호 의원이\") (accessed 2026-09-26T00:05:06-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 유일호, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2016-01-13 re-established as 새누리당 from sources the checker did not cite. Nomination-day news (2015-12-21) and pre-hearing news (2016-01-11) confirm 새누리당.",
+   "verification_seat_notes": "Re-checked. Seat to the 19th-term end 2016-05-29. The 19th-term party-change table has no 유일호 entry (no resignation), and the 20th-term member list has no 유일호, so no seat continued past 2016-05-29.",
+   "verification_seat_sources": [
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, no row for 유일호, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:55-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=40331548 (ko.wikipedia \"대한민국 제20대 국회의원 목록\" revid 40331548, 유일호 absent) (accessed 2026-09-25T23:30:48-0400)"
+   ]
+  },
+  {
+   "row_id": "R0363",
+   "name": "강은희",
+   "party_on_date": "새누리당",
+   "party_date_basis": "새누리당 PR member. Nominated 2015-12-21 as 강은희 새누리당 의원, and the NEC succession notice of 2016-01-22 still calls her 강은희 새누리당 국회의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420182411488&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 2015-12-21, \"박 대통령 개각 단행, 신임 경제부총리에 유일호 새누리당 의원\", text: \"여성가족부장관에 강은희 새누리당 의원\", original http://www.seoul.co.kr/news/newsView.php?id=20151221500264) (accessed 2026-09-25T23:23:17-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000863694 (국민일보 2016-01-22, \"“정윤숙, 19대 국회 마지막 국회의원 입성” 강은희 여가부 장관 후임 승계\", text: \"비례대표 의원인 강은희 새누리당 국회의원이 퇴직함에 따라\") (accessed 2026-09-25T23:06:03-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42179992 (ko.wikipedia \"강은희\" revid 42179992, 소속 정당 table: 새누리당 2012~2017 정계 입문, 자유한국당 2017~2018, 무소속 2018~ 탈당) (accessed 2026-09-25T23:02:32-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "19th Assembly, 비례대표 (새누리당 list rank 5), seat 2012-05-30 to 2016-01-18 per the NA API (exit 여성가족부 장관 임명후 의원직 사퇴). The spells file flags end_status conflict (wikilist 2015-12-21, which is the nomination date, and wikiseat 2016-01-19). News supports 2016-01-18. 채널A on 2016-01-16/17 reported she still held the seat after taking office on 01-13, and 충북일보 on 2016-01-19 reported 강은희 여가부장관 사퇴, 18일 의원직 승계. The NEC formally named PR successor 정윤숙 (list rank 31) on 2016-01-22, the successor's seat_start in the NA API. One 뉴시스 item (2016-01-22) says she gave up the seat on the 13th and another (2016-01-18) mentions 탈당과 의원직 사퇴, but both conflict with the reports above. Dual interval 2016-01-13 to 2016-01-18 stands. Seat sources are https://n.news.naver.com/mnews/article/449/0000084465 (채널A 2016-01-17, \"[단독]비례대표 장관, 의원직 포기 ‘미적’\", text: \"강은희 여성가족부 장관이 장관 취임을 했는데도 비례대표 국회의원직을 유지하고 있는 것으로\") (accessed 2026-09-25T23:05:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01400551.20160119182741001&returnCnt=1&sectionDiv=1000 (BigKinds, 충북일보 2016-01-19, \"새누리 정윤숙 의원 19일 청주 흥덕구 출마 선언<인물 자료사진\", text: \"강은희 여가부장관 사퇴, 18일 의원직 승계\") (accessed 2026-09-25T23:23:19-0400) | https://n.news.naver.com/mnews/article/003/0006990818 (뉴시스 2016-01-18, \"정윤숙 등판…청주 총선 '현역 대 현역' 현실화\", text: \"강 의원의 탈당과 의원직 사퇴 등 승계 절차가 지연되면서\") (accessed 2026-09-25T23:05:35-0400) | https://n.news.naver.com/mnews/article/003/0007001062 (뉴시스 2016-01-22, \"與정윤숙, 비례대표 승계…강은희 장관 후임\", text: \"강 장관이 지난 13일 장관에 취임하며 의원직을 내려놓았기 때문에\") (accessed 2026-09-25T23:05:54-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0008112561 (연합뉴스 2016-01-12, \"여가부 떠나는 김희정 장관…\"위안부 기록 남기는 일 계속해야\"\", text: \"후임 장관에는 강은희 새누리당 의원이 취임한다\") (accessed 2026-09-26T00:05:07-0400)",
+    "https://n.news.naver.com/mnews/article/018/0003449354 (이데일리 2016-01-12, \"김희정 여가부 장관 \"위안부 역사적 기록 계속해야\"\", text: \"신임 여가부 장관으로는 강은희 새누리당 의원이 내정됐다\") (accessed 2026-09-26T00:05:08-0400)",
+    "https://n.news.naver.com/mnews/article/449/0000084546 (채널A 2016-01-18, \"[단독]비례 출신 강은희 장관, 금배지 포기 안 한 이유는?\", text: \"강은희 여성가족부 장관이 장관 취임을 했는데도 비례대표 국회의원직을 유지하고 있는 것으로 채널A 취재 결과 확인됐습니다\") (accessed 2026-09-26T00:08:27-0400)",
+    "Rename dates, re-established independently of the checker, rest on https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.2012021410007668365&returnCnt=1&sectionDiv=1000 (BigKinds, 중도일보 2012-02-14, \"'박근혜 체제' 새누리당 완성\", text: \"새누리당은 13일 전당대회 수임기구인 전국위원회를 열어 당명 개정안에 관한 당헌ㆍ당규 개정안을 의결하고\", original http://www.joongdo.co.kr/jsp/article/article_view.jsp?pq=201202130293) (accessed 2026-09-25T23:36:25-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.20170214230144001&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 2017-02-14, \"당명이 무슨 죄…걸핏하면 ‘개명’, 여야 5년 전 ‘간판’ 하나도 안 남아\", text: \"새누리당은 지난 13일 자유한국당으로 당명을 바꿨다. 2012년 2월13일 한나라당에서 새누리당으로 개명한 지 꼭 5년 만이었다\", original http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201702142255015&code=910402) (accessed 2026-09-25T23:36:33-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2016-01-13 re-established as 새누리당 from sources the checker did not cite. News of 2016-01-12, the day before appointment, calls her 강은희 새누리당 의원, and 채널A on 2016-01-18 (a different item from the two 채널A reports the checker cited) reports that she still held her PR seat after taking office on the 13th. See verification_issues on a possible party exit at the seat end, which falls after dual_office_start.",
+   "verification_seat_notes": "Re-checked. Seat end 2016-01-18 confirmed. 충청투데이 (2016-01-19) reports that the party announced on the 18th that 정윤숙 had taken over the PR seat after 강은희's delayed resignation, and 머니투데이 (2016-01-22) quotes the NEC deciding the successor because of her 의원 퇴직. 한국경제 (2016-01-29) confirms she had left the Assembly. The ko.wiki 19th-term table dates the change 2016-01-19, one day later, and 뉴시스 2016-01-22 and 중앙일보 2016-01-25 speak of the 13th. Both conflict with the contemporaneous reports of 2016-01-16 to 2016-01-18 that she still held the seat after taking office, so the API date stands.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01400701.20160119010935162&returnCnt=1&sectionDiv=1000 (BigKinds, 충청투데이 2016-01-19, \"정윤숙 전 충북도의원 새누리 비례대표 의원직 승계\", text: \"새누리당은 18일 정윤숙 전 충북도의원이 비례대표 국회의원직을 승계했다고 밝혔다\" and \"강 장관의 의원직 사퇴 지연으로 이날 의원 배지를 달았다\", original http://www.cctoday.co.kr/?mod=news&act=articleView&idxno=951792) (accessed 2026-09-25T23:33:03-0400)",
+    "https://n.news.naver.com/mnews/article/008/0003617901 (머니투데이 2016-01-22, \"선관위, 새누리당 새 비례대표에 정윤숙 의원 결정\", text: \"강 장관의 의원 퇴직에 따라\") (accessed 2026-09-26T00:05:44-0400)",
+    "https://n.news.naver.com/mnews/article/015/0003535400 (한국경제 2016-01-29, \"정적들에 둘러싸인 최경환 의원\", text: \"여성가족부 장관에 임명돼 국회를 떠난 강은희 의원 자리에\") (accessed 2026-09-26T00:05:43-0400)",
+    "https://n.news.naver.com/mnews/article/449/0000084546 (채널A 2016-01-18, \"[단독]비례 출신 강은희 장관, 금배지 포기 안 한 이유는?\", text: \"강은희 여성가족부 장관이 장관 취임을 했는데도 비례대표 국회의원직을 유지하고 있는 것으로 채널A 취재 결과 확인됐습니다\") (accessed 2026-09-26T00:08:27-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.20160125050703002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 2016-01-25, \"[간추린 뉴스] 정윤숙씨, 새누리당 비례대표 승계\", text: \"강은희 전 의원이 지난 13일 여성부장관으로 취임하면서 공석이 된 자리다\", original https://www.joongang.co.kr/article/19466995) (accessed 2026-09-26T00:08:31-0400) (conflicting report, not followed)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, row of 2016-01-19 for 강은희 under 새누리당, 비례대표, reason \"여성가족부 장관 임명후 의원직 사퇴\", and for 정윤숙 reason \"강은희 의원직 사퇴에 따라 정윤숙 승계\") (accessed 2026-09-25T23:30:55-0400)"
+   ]
+  },
+  {
+   "row_id": "R0388",
+   "name": "도종환",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member (the party took this name from 새정치민주연합 on 2015-12-28). News of 2017-06-14, before his hearing, calls him 더불어민주당 도종환 의원.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0009334623 (연합뉴스 2017-06-14, \"검증대 오르는 김부겸·김영춘·도종환…두번째 '슈퍼 수요일'\", text: \"문화체육관광부장관에 지명된 더불어민주당 도종환 의원\") (accessed 2026-09-25T23:09:01-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42333661 (ko.wikipedia \"도종환\" revid 42333661, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:02:27-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 충북 청주시흥덕구, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. His 19th seat was 비례대표, which is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/081/0002830066 (서울신문 2017-06-17, \"청문회에서 웬 태권도 시범?…도종환 ‘급 당황’(영상)\", text: \"도종환 더불어민주당 국회의원이 문재인 정부의 초대 문화체육관광부 장관으로 임명됐다\") (accessed 2026-09-26T00:05:09-0400)",
+    "https://n.news.naver.com/mnews/article/003/0008009673 (뉴시스 2017-06-13, \"도종환, 농지법 위반 의혹에 \"적법한 줄 알았다…본인 불찰\"\", text: \"문화체육관광부 장관 후보자로 내정된 도종환 더불어민주당 의원이\") (accessed 2026-09-26T00:05:10-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 도종환, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-06-16 re-established as 더불어민주당 from sources the checker did not cite. News of 2017-06-17 reporting his appointment and pre-hearing news of 2017-06-13 confirm 더불어민주당."
+  },
+  {
+   "row_id": "R0389",
+   "name": "김부겸",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2017-05-30 as 더불어민주당 김부겸 (대구 수성 갑) 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01501201.20170531020304002&returnCnt=1&sectionDiv=1000 (BigKinds, 경북매일신문 2017-05-31, \"김부겸 장관, 지방분권 정착시킬 소임 부여받았다\", text: \"행정자치부장관 후보자로 더불어민주당 김부겸 (대구 수성 갑)의원을 지명했다\") (accessed 2026-09-25T23:23:21-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.20170530110344002&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 2017-05-30, \"김부겸 장관 후보자 대선 당시 '대구 격정 연설' 재조명 (영상)\", text: \"행정자치부장관 후보자에 지명된 김부겸 더불어민주당 의원\", original http://news.kmib.co.kr/article/view.asp?arcid=0011503730&code=61111111&cp=kd) (accessed 2026-09-25T23:23:23-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42432610 (ko.wikipedia \"김부겸\" revid 42432610, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:29:14-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 대구 수성구갑, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/016/0001252253 (헤럴드경제 2017-06-18, \"김부겸號 출항 ‘바뀌는 일상’…“자치경찰제 도입ㆍ소방은 국가직 전환”\", text: \"행정자치부 장관에 김부겸 더불어민주당 의원이 취임하면서\") (accessed 2026-09-26T00:05:11-0400)",
+    "https://n.news.naver.com/mnews/article/421/0002836705 (뉴스1 2017-07-13, \"'낮게 더 낮게'…자연스러운 김부겸 '겸손모드'\", text: \"문재인 정부 초대 행정자치부 장관으로 발탁된 김부겸 더불어민주당 의원이\") (accessed 2026-09-26T00:05:12-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김부겸, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-06-16 re-established as 더불어민주당 from sources the checker did not cite. Post-appointment news (2017-06-18, 2017-07-13) confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0403",
+   "name": "김부겸",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Same person continuing in office. In the panel this row follows R0389 (ended 2017-07-25) with the ministry renamed 행정안전부, so it continues the same tenure. The membership record shows no party change.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01501201.20170531020304002&returnCnt=1&sectionDiv=1000 (BigKinds, 경북매일신문 2017-05-31, \"김부겸 장관, 지방분권 정착시킬 소임 부여받았다\", text: \"행정자치부장관 후보자로 더불어민주당 김부겸 (대구 수성 갑)의원을 지명했다\") (accessed 2026-09-25T23:23:21-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42432610 (ko.wikipedia \"김부겸\" revid 42432610, 소속 정당 table: 더불어민주당 2015~현재, no 탈당 entry) (accessed 2026-09-25T13:29:14-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "Same seat as R0389 (20th, 대구 수성구갑, 지역구, to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv).",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/079/0002993458 (노컷뉴스 2017-07-26, \"홍준표, 'TK 1등' 으쓱…정작 대구시장은 위기\", text: \"김부겸(더불어민주당) 행정자치부 장관이 27.2%로\") (accessed 2026-09-26T00:05:13-0400)",
+    "https://n.news.naver.com/mnews/article/022/0003353773 (세계일보 2019-04-10, \"TK로 간 민주당 지도부… ‘김부겸 띄우기’ 하나\", text: \"더불어민주당 김부겸 의원이 10일 오전\") (accessed 2026-09-26T00:05:14-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김부겸, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-07-26 re-established as 더불어민주당 from sources the checker did not cite. Direct evidence on dual_office_start itself. 노컷뉴스 of 2017-07-26 labels him 김부겸(더불어민주당) 행정자치부 장관, and he is still 더불어민주당 김부겸 의원 on returning in 2019-04. No party change in the 20th-term table."
+  },
+  {
+   "row_id": "R0390",
+   "name": "김영춘",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member (elected 2016 under the party). Described as 김영춘 더불어민주당 의원 at his hearing report on 2017-06-15.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/081/0002829418 (서울신문 2017-06-15, \"김영춘 해양수산부 장관 후보 청문보고서 ‘무난히’ 채택\", text: \"해양수산부 장관 후보자로 지명된 김영춘 더불어민주당 의원\") (accessed 2026-09-25T23:09:31-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42481008 (ko.wikipedia \"김영춘 (1962년)\" revid 42481008, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~2020 당명 변경, a 2020 탈당 and 복당 fall outside this row) (accessed 2026-09-25T13:43:36-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 부산 부산진구갑, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0009300875 (연합뉴스 2017-05-30, \"행자 김부겸·문화 도종환·국토교통 김현미·해양수산 김영춘\", text: \"해양수산부 장관 후보자에 김영춘 더불어민주당 의원을 각각 지명했다\") (accessed 2026-09-26T00:05:15-0400)",
+    "https://n.news.naver.com/mnews/article/055/0000539338 (SBS 2017-06-14, \"심판대 오르는 김부겸·김영춘·도종환…두 번째 '슈퍼 수요일'\", text: \"장관 후보자로 지명된 더불어민주당 소속 의원 3명에 대한 국회 인사청문회가\") (accessed 2026-09-26T00:05:16-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김영춘 (1962년), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-06-16 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2017-05-30) and hearing-day news confirm 더불어민주당."
+  },
+  {
+   "row_id": "R0392",
+   "name": "김현미",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2017-05-30 as 김현미 더불어민주당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.20170531230009001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 2017-05-31, \"LTV·DTI 규제 완화부터 비판한 김현미\", text: \"국토교통부장관 후보자로 김현미 더불어민주당 의원을 포함한\", original https://www.joongang.co.kr/article/21623424) (accessed 2026-09-25T23:23:25-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42008958 (ko.wikipedia \"김현미 (정치인)\" revid 42008958, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:36:46-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 경기 고양시정, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. She has no 21st-term spell, so dual_office_end 2020-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0009302225 (연합뉴스 2017-05-30, \"'강한 여성' 김현미 장관 내정에 국토부 '깜짝'(종합)\", text: \"청와대가 30일 국토교통부 장관 후보로 더불어민주당 김현미 의원을 내정하자\") (accessed 2026-09-26T00:05:17-0400)",
+    "https://n.news.naver.com/mnews/article/421/0002762584 (뉴스1 2017-05-31, \"동료 의원들과 인사하는 김현미\", text: \"국토교통부 장관에 지명된 더불어민주당 김현미 의원이 동료 의원들과 인사를 나누고 있다\") (accessed 2026-09-26T00:05:18-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김현미 (정치인), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-06-21 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2017-05-30/31) confirms 더불어민주당, and 한국경제 of 2020-01-03 still counts her among the 장관 겸직 현역 더불어민주당 의원.",
+   "verification_seat_notes": "Re-checked. Seat to the 20th-term end 2020-05-29. She announced non-candidacy for 2020 on 2020-01-03, the 20th-term table has no seat vacancy for her, and she is absent from the 21st-term member list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100801.20200326001516001&returnCnt=1&sectionDiv=1000 (BigKinds, 조선일보 2020-03-26, \"장관은 집 팔라는데…국토부 1급 이상 절반이 다주택자\", text: \"4·15 국회의원 총선거 불출마를 선언한 김현미 국토교통부 장관의\", original https://biz.chosun.com/site/data/html_dir/2020/03/25/2020032505020.html?utm_source=bigkinds&utm_medium=original&utm_campaign=biz) (accessed 2026-09-26T00:06:13-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김현미 (정치인), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 김현미 absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0405",
+   "name": "김영주",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. News of 2017-08-15 on her appointment calls her 더불어민주당 김영주 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=04100058.20170815060101003&returnCnt=1&sectionDiv=1000 (BigKinds, 노컷뉴스 2017-08-15, \"선명성 강해진 노동부… '김영주표' 노동 개혁 드라이브\", text: \"노조 출신인 더불어민주당 김영주 의원이 고용노동부 장관에 임명되면서\") (accessed 2026-09-25T23:23:27-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42063234 (ko.wikipedia \"김영주 (1955년)\" revid 42063234, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~2024 당명 변경, 무소속 2024 탈당, 국민의힘 2024~) (accessed 2026-09-25T13:55:55-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 영등포구갑, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. Her 2024 move to 국민의힘 is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0009467983 (연합뉴스 2017-08-11, \"김영주 노동장관 후보자 인사청문회…'의원불패' 이어갈까\", text: \"고용노동부 장관 후보자로 내정된 더불어민주당 김영주 의원\") (accessed 2026-09-26T00:05:19-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 김영주 (1955년), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2017-08-14 re-established as 더불어민주당 from sources the checker did not cite. Hearing-day news (2017-08-11) confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0407",
+   "name": "이개호",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2018-07-26 as 더불어민주당 이개호 의원.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/003/0008750334 (뉴시스 2018-08-10, \"文대통령, 오늘 이개호 신임 농림부 장관에 임명장 수여\", text: \"당시 이개호 더불어민주당 의원을 지명한 바 있다\") (accessed 2026-09-25T23:11:01-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.20180727212821001&returnCnt=1&sectionDiv=1000 (BigKinds, 전북일보 2018-07-27, \"농축식품부장관에 이개호 의원 지명 靑 \"쌀·AI 등 현안 해결 적임\"\", text: \"농림축산식품부장관 후보자로 더불어민주당 이개호 의원을 지명했다\", original http://www.jjan.kr/news/articleView.html?idxno=2013028) (accessed 2026-09-25T23:23:29-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42323163 (ko.wikipedia \"이개호\" revid 42323163, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:27:44-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 전남 담양군함평군영광군장성군, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. His first seat (19th term, entered_via by_election, seat from 2014-07-30) is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/214/0000865000 (MBC 2018-08-10, \"이개호 의혹 수두룩한데…5시간 만에 청문회 '끝'\", text: \"더불어민주당 이개호 의원이 어제 인사 청문회를 거쳐서 오늘 농림축산식품부 장관으로 임명됐습니다\") (accessed 2026-09-26T00:05:20-0400)",
+    "https://n.news.naver.com/mnews/article/008/0004089436 (머니투데이 2018-08-09, \"이개호 농림부 장관 후보자 청문회 개시…현역불패?\", text: \"이개호 더불어민주당 의원을 농림부 장관 후보자를 지명하며\") (accessed 2026-09-26T00:05:21-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 이개호, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2018-08-10 re-established as 더불어민주당 from sources the checker did not cite. MBC on the appointment day (2018-08-10) reports that 더불어민주당 이개호 의원 was appointed that day."
+  },
+  {
+   "row_id": "R0409",
+   "name": "진선미",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2018-08-30 as 진선미 더불어민주당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100801.20180830161519002&returnCnt=1&sectionDiv=1000 (BigKinds, 아시아경제 2018-08-30, \"[文정부 2기 개각] 진선미 \"장관 지명 어깨가 무겁다\"\", text: \"여성가족부장관으로 내정된 진선미 더불어민주당 의원은\", original http:www.asiae.co.kr/news/view.htm?idxno=2018083016124447261) (accessed 2026-09-25T23:23:31-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42273316 (ko.wikipedia \"진선미\" revid 42273316, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:32-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 강동구갑, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. Her 19th seat was 비례대표, which is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/421/0003563165 (뉴스1 2018-08-30, \"교육 유은혜·국방 정경두·여성 진선미…2기 개각(종합)\", text: \"여성가족부 장관에 진선미 더불어민주당 의원을 지명했다\") (accessed 2026-09-26T00:05:22-0400)",
+    "https://n.news.naver.com/mnews/article/469/0000329956 (한국일보 2018-09-26, \"[지평선] 진선미의 상식\", text: \"진선미 더불어민주당 의원이 여성가족부 장관 후보자 인사청문회에서 내놓은 대답이다\") (accessed 2026-09-26T00:05:23-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 진선미, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2018-09-21 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2018-08-30) and hearing coverage confirm 더불어민주당."
+  },
+  {
+   "row_id": "R0412",
+   "name": "유은혜",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. News of the appointment day (2018-10-02) says the President appointed 더불어민주당 유은혜 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.20181002182000003&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2018-10-02, \"'유은혜·심재철' 靑·野 연일충돌…정국 ‘한파’\", text: \"문재인 대통령은 2일 더불어민주당 유은혜 의원을 사회부총리 겸 교육부 장관에 임명했다\", original http://www.segye.com/content/html/2018/10/02/20181002003787.html) (accessed 2026-09-25T23:23:33-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100101.20181002174928001&returnCnt=1&sectionDiv=1000 (BigKinds, 매일경제 2018-10-02, \"청문보고서 없이 교육수장 임명…교육현안 `첩첩산중`\", text: \"문재인 대통령이 2일 유은혜 더불어민주당 의원을 사회부총리 겸 교육부 장관에 임명했다\", original http://news.mk.co.kr/newsRead.php?year=2018&no=615436) (accessed 2026-09-25T23:23:35-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42354009 (ko.wikipedia \"유은혜\" revid 42354009, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~2025 당명 변경, 무소속 2025~ 탈당) (accessed 2026-09-25T13:33:29-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 경기 고양시병, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. She has no 21st-term spell, so dual_office_end 2020-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/469/0000324569 (한국일보 2018-08-30, \"문재인 2기 개각…신임 교육부 장관 후보자에 유은혜 의원\", text: \"문재인 대통령이 30일 유은혜 더불어민주당 의원을 부총리 겸 교육부 장관에\") (accessed 2026-09-26T00:05:24-0400)",
+    "https://n.news.naver.com/mnews/article/002/0002067237 (프레시안 2018-08-30, \"文대통령 중폭 개각…유은혜 첫 여성 부총리 탄생\", text: \"신임 교육부 장관 겸 사회부총리에 더불어민주당 유은혜 의원을 지명하고\") (accessed 2026-09-26T00:05:25-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 유은혜, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2018-10-02 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2018-08-30) confirms 더불어민주당, and 한국경제 of 2020-01-03 counts her among the 장관 겸직 현역 더불어민주당 의원.",
+   "verification_seat_notes": "Re-checked. Seat to 2020-05-29. Non-candidacy announced 2020-01-03, no vacancy in the 20th-term table, absent from the 21st-term list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=08200101.20200310204253001&returnCnt=1&sectionDiv=1000 (BigKinds, OBS 2020-03-10, \"'고양병' 민주당 홍정민-통합당 김영환 신구 맞대결\", text: \"민주당은 불출마를 선언한 유은혜 교육부총리를 대체할 인물로 홍정민 변호사를 선택했고\", original http://www.obsnews.co.kr/news/articleView.html?idxno=1205622) (accessed 2026-09-26T00:06:12-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 유은혜, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 유은혜 absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0417",
+   "name": "진영",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Left 새누리당 after being denied renomination and joined 더불어민주당 on 2016-03-20, then won the 20th-term seat under it. Nominated 2019-03-08 and described on 2019-04-04 as 진영(더불어민주당 의원).",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/088/0000585877 (매일신문 2019-04-04, \"진영 청문보고서 '적격' '부적격' 모두 병기해 채택\", text: \"진영(더불어민주당 의원) 행안부 장관 후보자\") (accessed 2026-09-25T23:12:21-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100851.20190308152945001&returnCnt=1&sectionDiv=1000 (BigKinds, 아주경제 2019-03-08, \"진영 의원 행안부장관 내정...“자치분권‧지역균형 위해 최선”\", text: \"행정안전부 장관에 내정된 더불어민주당 진영 의원\", original http://www.ajunews.com/view/20190308152658575) (accessed 2026-09-25T23:23:37-0400)",
+    "https://n.news.naver.com/mnews/article/001/0008266638 (연합뉴스 2016-03-20, \"진영, 더민주 입당…\"與, 특정인 지시로 움직이는 파당\"(종합)\", text: \"새누리당 공천에서 배제된 뒤 탈당한 3선의 진영 의원은 20일\") (accessed 2026-09-25T23:06:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42273249 (ko.wikipedia \"진영 (정치인)\" revid 42273249, 소속 정당 table: 무소속 2016 탈당, 더불어민주당 2016~현재 입당) (accessed 2026-09-25T13:29:15-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 용산구, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. He has no 21st-term spell, so dual_office_end 2020-05-29 is correct. The same person was 새누리당 on his earlier dual row R0321.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/028/0002445763 (한겨레 2019-03-08, \"문 대통령 취임 후 최대폭 개각…박영선, 진영, 김연철 등 발탁\", text: \"행정안전부 장관 후보자에 진영 더불어민주당 의원\") (accessed 2026-09-26T00:05:26-0400)",
+    "https://n.news.naver.com/mnews/article/421/0003870954 (뉴스1 2019-03-08, \"文대통령, 행안 진영·중기 박영선 등 7개 부처 개각 단행\", text: \"행안부장관에 내정된 진영 더불어민주당 의원\") (accessed 2026-09-26T00:05:27-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42216872 (ko.wikipedia \"대한민국 제19대 국회\" revid 42216872, 의석 변동 table \"19대 국회 당적 변동 사항\", covering 2012-04-11 to 2016-05-19, row of 2016-03-17 for 진영 with 새누리당 → 무소속 and reason \"새누리당 탈당\", row of 2016-03-20 with 무소속 → 더불어민주당 and reason \"더불어민주당 입당\", no earlier 진영 entry) (accessed 2026-09-25T23:30:55-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 진영, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.20200105070157001&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2020-01-05, \"진영·박영선 불출마…무주공산 지역구 누가 도전장 내미나?\", text: \"더불어민주당 소속으로 국회의원을 겸하고 있던 진영 행정안전부 장관과 박영선 중소벤처기업부 장관이\", original http://www.segye.com/content/html/2020/01/04/20200104504787.html) (accessed 2026-09-26T00:06:07-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2019-04-06 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2019-03-08) confirms 더불어민주당, and 세계일보 of 2020-01-05 describes him during his tenure as a 더불어민주당 member holding both offices. The 2016 exit from 새누리당 and entry into 더불어민주당 is re-established from the 19th-term party-change table.",
+   "verification_seat_notes": "Re-checked. Seat to 2020-05-29. Non-candidacy announced 2020-01-03, no vacancy in the 20th-term table, absent from the 21st-term list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01601001.20200225181822001&returnCnt=1&sectionDiv=1000 (BigKinds, 전북도민일보 2020-02-25, \"재경출신 약화에 전북총선 중진 바람 거세다.\", text: \"정세균 국무총리(진안)를 비롯 김현미 국토부장관(정읍), 진영 행안부장관(고창)이 4ㆍ15 총선 불출마를 선언했다\", original http://www.domin.co.kr/news/articleView.html?idxno=1283974) (accessed 2026-09-26T00:06:09-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 진영, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 진영 (정치인) absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0418",
+   "name": "박영선",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Described as 박영선 더불어민주당 의원 during her confirmation (2019-03-28).",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=04100608.20190328160714001&returnCnt=1&sectionDiv=1000 (BigKinds, 브레이크뉴스 2019-03-28, \"황교안 한국당 대표 '박지원·박영선 朴남매?' 주장에 '흔들'\", text: \"박지원 민주평화당 의원과 박영선 더불어민주당 의원\", original http://www.breaknews.com/sub_read.html?uid=643505) (accessed 2026-09-25T23:23:39-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42333616 (ko.wikipedia \"박영선 (정치인)\" revid 42333616, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:33-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 구로구을, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. She has no 21st-term spell, so dual_office_end 2020-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/421/0003870954 (뉴스1 2019-03-08, \"文대통령, 행안 진영·중기 박영선 등 7개 부처 개각 단행\", text: \"중소벤처기업부장관에 내정된 박영선 더불어민주당 의원\") (accessed 2026-09-26T00:05:27-0400)",
+    "https://n.news.naver.com/mnews/article/020/0003203180 (동아일보 2019-03-08, \"文대통령, ‘행정안전부 진영’ ‘중소벤처기업부 박영선’ 7개 부처 장관 지명\", text: \"중소벤처기업부 장관에 박영선 더불어민주당 의원\") (accessed 2026-09-26T00:05:28-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 박영선 (정치인), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.20200105070157001&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2020-01-05, \"진영·박영선 불출마…무주공산 지역구 누가 도전장 내미나?\", text: \"더불어민주당 소속으로 국회의원을 겸하고 있던 진영 행정안전부 장관과 박영선 중소벤처기업부 장관이\", original http://www.segye.com/content/html/2020/01/04/20200104504787.html) (accessed 2026-09-26T00:06:07-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2019-04-08 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2019-03-08) confirms 더불어민주당, and 세계일보 of 2020-01-05 describes her during her tenure as a 더불어민주당 member holding both offices.",
+   "verification_seat_notes": "Re-checked. Seat to 2020-05-29. Non-candidacy announced 2020-01-03, no vacancy in the 20th-term table, absent from the 21st-term list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200103164518001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-01-03, \"장관 4인방 총선 불출마 선언…한국당 \"무능 4인방, 이참에 장관직도 사퇴하라\"\", text: \"장관 겸직 현역 더불어민주당 의원 4명이 21대 총선 불출마를 선언했다\", original https://www.hankyung.com/politics/article/2020010314187) (accessed 2026-09-26T00:06:05-0400)",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.20200105070157001&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 2020-01-05, \"진영·박영선 불출마…무주공산 지역구 누가 도전장 내미나?\", text: \"더불어민주당 소속으로 국회의원을 겸하고 있던 진영 행정안전부 장관과 박영선 중소벤처기업부 장관이\", original http://www.segye.com/content/html/2020/01/04/20200104504787.html) (accessed 2026-09-26T00:06:07-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 박영선 (정치인), so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 박영선 (정치인) absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0424",
+   "name": "추미애",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Described in news of 2019-12-06 as the nominee 추미애 더불어민주당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.20191206050229002&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 2019-12-06, \"“조국 뒤 따를 것” 추미애 법무장관 지명에 날 세우는 보수야권\", text: \"법무부 장관 후보자로 지명된 추미애 더불어민주당 의원을 향해\") (accessed 2026-09-25T23:23:43-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42551858 (ko.wikipedia \"추미애\" revid 42551858, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:34-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 광진구을, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. She has no 21st-term spell (her next seat is the 22nd term), so dual_office_end 2020-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/469/0000446403 (한국일보 2019-12-06, \"박지원 “추미애, 조국보다 더 센 분… 검찰 충돌 가능성 높아”\", text: \"문재인 대통령이 5일 오전 추미애 더불어민주당 의원을 법무부 장관 후보자로 지명했다\") (accessed 2026-09-26T00:05:29-0400)",
+    "https://n.news.naver.com/mnews/article/015/0004253243 (한국경제 2019-12-06, \"박지원 \"추미애, 조국보다 세다\"…하명수사 대해선 \"靑, 입 다물어야\"\", text: \"5선의 추미애 더불어민주당 국회의원을 신임 법무부 장관에 내정한 것을\") (accessed 2026-09-26T00:05:30-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 추미애, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2020-01-02 re-established as 더불어민주당 from sources the checker did not cite. Nomination news (2019-12-06, reporting the 2019-12-05 nomination) confirms 더불어민주당.",
+   "verification_seat_notes": "Re-checked. Seat to 2020-05-29. No vacancy for her in the 20th-term table, her 광진을 seat went to 고민정 in the 2020 election, and she is absent from the 21st-term list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20200416113109001&returnCnt=1&sectionDiv=1000 (BigKinds, 한국경제 2020-04-16, \"고민정·배현진·한준호…방송인 출신 국회의원 대거 등판\", text: \"고민정 더불어민주당 후보가 서울 광진을 지역에서 승리한 것은\", original https://www.hankyung.com/politics/article/202004163677H) (accessed 2026-09-26T00:06:16-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, no row for 추미애, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 추미애 absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0425",
+   "name": "정세균",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Was 무소속 while Speaker (2016-06-09 to 2018-05-29) and rejoined 더불어민주당 on 2018-06-01. Nominated PM on 2019-12-17 as 더불어민주당 정세균 의원, and the opposition objected at his hearing (2020-01-07) that he held 민주당 당적.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.20191218050309002&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 2019-12-18, \"[포토뒷담화] 겉으로는 평온해도… 갈길 바쁜 두 ‘총리’\", text: \"문재인 대통령이 17일 더불어민주당 정세균 의원을 국무총리 후보자로 지명함에 따라\") (accessed 2026-09-25T23:23:47-0400)",
+    "https://n.news.naver.com/mnews/article/052/0001385520 (YTN 2020-01-07, \"정세균 총리 후보자 청문회 '삼권분립 훼손' 여부 두고 공방\", text: \"정세균, 민주당 당적을 갖고 있는 총리 후보가 지명된 것은\") (accessed 2026-09-25T23:05:04-0400)",
+    "https://n.news.naver.com/mnews/article/421/0003403851 (뉴스1 2018-06-01, \"정세균 전 의장, 민주당 복당…주말 지원유세 '출동'\", text: \"정세균 전 의장이 1일 더불어민주당에 복당했다\") (accessed 2026-09-25T23:04:58-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42400189 (ko.wikipedia \"정세균\" revid 42400189, 소속 정당 table: 더불어민주당 2015~2016, 무소속 2016~2018 탈당, 더불어민주당 2018~현재 복당) (accessed 2026-09-24T22:44:50-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "20th Assembly, 서울 종로구, 지역구, seat 2016-05-30 to 2020-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. He has no 21st-term spell, so dual_office_end 2020-05-29 is correct.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/214/0001001178 (MBC 2019-12-17, \"새 총리에 정세균 지명…\"전방위 소통할 것\"\", text: \"국회의장을 역임한 6선의 더불어민주당 정세균 의원을 차기 국무총리 후보자로 지명했습니다\") (accessed 2026-09-26T00:05:31-0400)",
+    "https://n.news.naver.com/mnews/article/449/0000183171 (채널A 2019-12-17, \"문재인 대통령, 새 국무총리에 정세균 지명\", text: \"이낙연 국무총리의 후임으로 정세균 더불어민주당 의원을 지명했습니다\") (accessed 2026-09-26T00:05:32-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, row of 2016-06-09 for 정세균 with 더불어민주당 → 무소속 and reason \"20대 전반기 국회의장 선출로 더불어민주당 탈당\", row of 2018-06-01 with 무소속 → 더불어민주당 and reason \"국회의장 임기 만료로 더불어민주당 복당\", no later 정세균 entry) (accessed 2026-09-25T23:30:54-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2020-01-14 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2019-12-17) confirms 더불어민주당. The 무소속 spell as Speaker and the 2018-06-01 return to 더불어민주당 are re-established from the 20th-term party-change table, which has no later 정세균 entry.",
+   "verification_seat_notes": "Re-checked. Seat to 2020-05-29. He did not run in 2020, the 20th-term table has only his 2016 and 2018 party entries and no seat vacancy, and he is absent from the 21st-term list.",
+   "verification_seat_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01601001.20200225181822001&returnCnt=1&sectionDiv=1000 (BigKinds, 전북도민일보 2020-02-25, \"재경출신 약화에 전북총선 중진 바람 거세다.\", text: \"정세균 국무총리(진안)를 비롯 김현미 국토부장관(정읍), 진영 행안부장관(고창)이 4ㆍ15 총선 불출마를 선언했다\", original http://www.domin.co.kr/news/articleView.html?idxno=1283974) (accessed 2026-09-26T00:06:09-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820069 (ko.wikipedia \"대한민국 제20대 국회\" revid 41820069, 의석 변동 table \"20대 국회 당적 변동 사항\", covering 2016-04-13 to 2020-05-29, row of 2016-06-09 for 정세균 with 더불어민주당 → 무소속 and reason \"20대 전반기 국회의장 선출로 더불어민주당 탈당\", row of 2018-06-01 with 무소속 → 더불어민주당 and reason \"국회의장 임기 만료로 더불어민주당 복당\", no later 정세균 entry) (accessed 2026-09-25T23:30:54-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42148778 (ko.wikipedia \"대한민국 제21대 국회의원 목록\" revid 42148778, 정세균 absent) (accessed 2026-09-25T23:33:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0426",
+   "name": "이인영",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member (elected 2020 under the party). Nominated 2020-07-03 as 더불어민주당 이인영 의원, and still listed as a 더불어민주당 member co-hosting an event on 2020-07-28.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01620001.20200704232900001&returnCnt=1&sectionDiv=1000 (BigKinds, 광남일보 2020-07-04, \"박지원 국정원장·서훈 안보실장·이인영 통일장관 내정\", text: \"통일부 장관에 더불어민주당 이인영 의원을 각각 내정했다\", original http://www.gwangnam.co.kr/article.php?aid=1593801370360311004) (accessed 2026-09-25T23:23:49-0400)",
+    "https://n.news.naver.com/mnews/article/421/0004781570 (뉴스1 2020-07-28, \"이인영 장관, 올해도 '통일걷기' 행사 참여키로\", text: \"더불어민주당 이인영·조오섭·최종윤 의원이 공동 주최한다\") (accessed 2026-09-25T23:14:11-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42333658 (ko.wikipedia \"이인영 (정치인)\" revid 42333658, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:35-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 서울 구로구갑, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. The row ends 2022-05-09 at the presidential transition.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0011722799 (연합뉴스 2020-07-03, \"박지원 국정원장·서훈 안보실장·이인영 통일장관 내정(종합)\", text: \"통일부 장관에 더불어민주당 이인영 의원을 각각 내정했다\") (accessed 2026-09-26T00:05:33-0400)",
+    "https://n.news.naver.com/mnews/article/056/0010863384 (KBS 2020-07-03, \"안보실장 서훈·국정원장 박지원·통일부장관 이인영 내정\", text: \"통일부 장관 후보자에 이인영 더불어민주당 의원을 각각 내정했습니다\") (accessed 2026-09-26T00:05:34-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 이인영, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2020-07-27 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2020-07-03) confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0429",
+   "name": "전해철",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. News of the appointment day (2020-12-24) calls him 3선의 민주당 전해철 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=04100058.20201224205502001&returnCnt=1&sectionDiv=1000 (BigKinds, 노컷뉴스 2020-12-24, \"[칼럼]전해철 신임 행자부장관의 과제와 국민의 기대\", text: \"행정안전부장관에 3선의 민주당 전해철 의원이 24일 취임했다\") (accessed 2026-09-25T23:23:51-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42323481 (ko.wikipedia \"전해철\" revid 42323481, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:29:16-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 경기 안산시상록구갑, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/055/0000859060 (SBS 2020-12-04, \"신임 행안부 장관 전해철·국토장관 변창흠…추미애 유임\", text: \"진영 행정안전부 장관의 후임으로는 더불어민주당 전해철 의원이 내정됐습니다\") (accessed 2026-09-26T00:05:35-0400)",
+    "https://n.news.naver.com/mnews/article/079/0003439896 (노컷뉴스 2020-12-04, \"'3철' 전해철 발탁, 김현미 교체…文대통령 개각 포문 열었다\", text: \"행정안전부 장관에 친문계 핵심 전해철 더불어민주당 의원을 내정하고\") (accessed 2026-09-26T00:05:36-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 전해철, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2020-12-24 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2020-12-04) confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0432",
+   "name": "한정애",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member and the party's 정책위의장 when named as nominee (news of 2020-12-31).",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=04100078.20201231111314001&returnCnt=1&sectionDiv=1000 (BigKinds, 뉴스핌 2020-12-31, \"환경부 장관 후보로 지명된 한정애 더불어민주당 정책위의장\", text: \"환경부 장관 후보로 지명된 한정애 더불어민주당 정책위의장이\", original http://www.newspim.com/news/view/20201231000397) (accessed 2026-09-25T23:23:53-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541204 (ko.wikipedia \"한정애\" revid 42541204, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:37:54-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 서울 강서구병, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv. Her 19th seat was 비례대표, which is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/008/0004521588 (머니투데이 2020-12-30, \"文대통령, 결국 추미애 교체…후임엔 박범계 의원\", text: \"환경부 장관 후보자엔 한정애 민주당 의원\") (accessed 2026-09-26T00:05:37-0400)",
+    "https://n.news.naver.com/mnews/article/277/0004819988 (아시아경제 2020-12-30, \"文대통령 장관급 인사…법무부 박범계, 환경부 한정애, 보훈처 황기철 (상보)\", text: \"환경부 장관에는 한정애 민주당 의원\") (accessed 2026-09-26T00:05:38-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 한정애, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2021-01-22 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2020-12-30) confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0433",
+   "name": "박범계",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. News of 2021-01-27 says the President appointed 더불어민주당 박범계 의원.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0010979135 (KBS 2021-01-27, \"문 대통령, 박범계 법무장관 임명…내일 임기 시작\", text: \"문재인 대통령이 더불어민주당 박범계 의원을 신임 법무부 장관으로 임명했습니다\") (accessed 2026-09-25T23:15:42-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42394533 (ko.wikipedia \"박범계\" revid 42394533, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:37-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 대전 서구을, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/008/0004521588 (머니투데이 2020-12-30, \"文대통령, 결국 추미애 교체…후임엔 박범계 의원\", text: \"신임 법무부 장관 후보자에 박범계 더불어민주당 의원\") (accessed 2026-09-26T00:05:37-0400)",
+    "https://n.news.naver.com/mnews/article/056/0010978958 (KBS 2021-01-27, \"문 대통령, 박범계 법무장관 임명…내일 임기 시작\", text: \"문재인 대통령이 더불어민주당 박범계 의원을 신임 법무부 장관으로 임명했습니다\") (accessed 2026-09-26T00:05:39-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 박범계, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2021-01-28 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2020-12-30) and appointment news of 2021-01-27 (a different KBS item from the one the checker cited) confirm 더불어민주당."
+  },
+  {
+   "row_id": "R0434",
+   "name": "권칠승",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2021-01-20 as 권칠승 더불어민주당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.20210120133456001&returnCnt=1&sectionDiv=1000 (BigKinds, 서울경제 2021-01-20, \"국민의힘 \"3개 부처 개각? 文 정부의 끝없는 회전문 인사\"\", text: \"중소벤처기업부 장관 후보자에 권칠승 더불어민주당 의원을 내정했다\", original http://www.sedaily.com/NewsView/22HBWFGNO9) (accessed 2026-09-25T23:23:55-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42409767 (ko.wikipedia \"권칠승\" revid 42409767, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T23:02:38-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 경기 화성시병, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0012152896 (연합뉴스 2021-01-20, \"강경화 교체, 후임에 정의용…문체 황희·중기 권칠승(종합2보)\", text: \"중소벤처기업부 장관에는 민주당 권칠승 의원을 각각 내정했다\") (accessed 2026-09-26T00:05:40-0400)",
+    "https://n.news.naver.com/mnews/article/088/0000683551 (매일신문 2021-01-20, \"외교부 장관 정의용·문체 황희·중기 권칠승 내정\", text: \"중소벤처기업부 장관에 더불어민주당 권칠승 의원을 내정했다\") (accessed 2026-09-26T00:05:41-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 권칠승, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2021-02-05 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2021-01-20) from outlets not cited by the checker confirms 더불어민주당."
+  },
+  {
+   "row_id": "R0436",
+   "name": "황희",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "더불어민주당 member. Nominated 2021-01-20 as 황희 더불어민주당 의원.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100851.20210120105508001&returnCnt=1&sectionDiv=1000 (BigKinds, 아주경제 2021-01-20, \"[프로필] '기획·소통력' 갖춘 황희 의원, 문체부 장관 후보 내정\", text: \"문화체육관광부 장관에 황희 더불어민주당 의원\", original http://www.ajunews.com/view/20210120103135968) (accessed 2026-09-25T23:23:57-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42409959 (ko.wikipedia \"황희 (1967년)\" revid 42409959, 소속 정당 table: 새정치민주연합 2014~2015, 더불어민주당 2015~현재 당명 변경) (accessed 2026-09-25T13:02:28-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly, 서울 양천구갑, 지역구, seat 2020-05-30 to 2024-05-29 per NA open API seat record in na_members/na_member_spells_15_22.csv.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0012152896 (연합뉴스 2021-01-20, \"강경화 교체, 후임에 정의용…문체 황희·중기 권칠승(종합2보)\", text: \"문화체육관광부 장관에는 더불어민주당 황희 의원\") (accessed 2026-09-26T00:05:40-0400)",
+    "https://n.news.naver.com/mnews/article/022/0003551615 (세계일보 2021-02-11, \"최영미 시인, 황희 겨냥 “어떻게 이런 자가 문체부 장관?”\", text: \"문화체육관광부 장관직에 더불어민주당 황희 의원이 임명된 점을\") (accessed 2026-09-26T00:05:42-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41820079 (ko.wikipedia \"대한민국 제21대 국회\" revid 41820079, 의석 변동 table \"21대 국회 당적 변동 사항\", covering 2020-04-28 to 2024-03-17, no row for 황희, so no party change or seat vacancy is recorded for this member in the term) (accessed 2026-09-25T23:30:56-0400)",
+    "The rename date, re-established independently of the checker, rests on https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.20151229000438735&returnCnt=1&sectionDiv=1000 (BigKinds, 전남일보 2015-12-29, \"\"무늬만 바꾼다고… 내부 혁신 먼저\"\", text: \"새 당명은 이날 중앙선거관리위원회에 등록돼 '더불어민주당'이 공식 이름이 됐다\") (accessed 2026-09-25T23:36:29-0400)"
+   ],
+   "verification_notes": "Party on dual_office_start 2021-02-11 re-established as 더불어민주당 from sources the checker did not cite. Nomination-day news (2021-01-20) and appointment news (2021-02-11) confirm 더불어민주당."
+  }
+ ],
+ "issues": [
+  "No row in this group changes party between election and dual_office_start. Every 박근혜 row is 새누리당 (all starts fall between the 2012-02-13 rename from 한나라당 and the 2017-02-13 rename to 자유한국당) and every 문재인 row is 더불어민주당 (all starts fall after the 2015-12-28 rename from 새정치민주연합). Rename dates from https://ko.wikipedia.org/w/index.php?oldid=42554252 (자유한국당 page, 새누리당 2012-02-13 and 자유한국당 2017-02-13, accessed 2026-09-25T23:08:17-0400) and https://ko.wikipedia.org/w/index.php?oldid=42541311 (더불어민주당 page, 2015-12-28, accessed 2026-09-25T23:26:35-0400).",
+  "Person-level party is not constant. 진영 (P0238) is 새누리당 on R0321 (2013) and 더불어민주당 on R0417 (2019) after joining 더불어민주당 on 2016-03-20. Any person-level party field must be dated.",
+  "정세균 (P0158) was 무소속 as Speaker from 2016-06-09 to 2018-05-29 and rejoined 더불어민주당 on 2018-06-01, before his 2020-01-14 PM appointment. mp_party_at_election is right on his row only because the appointment falls after the rejoining.",
+  "강은희 (R0363) seat end has a flagged conflict in na_member_spells_15_22.csv (API 2016-01-18, wikilist 2015-12-21, wikiseat 2016-01-19). News supports the API date 2016-01-18. The wikilist value 2015-12-21 is her nomination date and should not be used.",
+  "이완구 (R0352) entered the 19th Assembly through the 2013-04-24 재선거 (seat from 2013-04-25). mp_election_type has only the values 지역구 and 비례대표, so the by-election entry is visible only in the spells file (entered_via by_election).",
+  "Three rows (R0334 유정복, R0349 황우여, R0403 김부겸) continue the preceding row of the same person after a ministry rename or title change in the panel. Party evidence for them rests on the preceding appointment row plus the absence of any party change in the membership record.",
+  "BigKinds sources are cited through the detail endpoint https://www.bigkinds.or.kr/news/detailView.do?docId=<news_id>&returnCnt=1&sectionDiv=1000, which returned HTTP 200 JSON with the full text for all 29 items used (the outlet's original link is added where BigKinds gives one). This endpoint is not a SOURCES_TOOLKIT helper.",
+  "Quoted text in party_sources and seat_notes was checked against the fetched article or BigKinds text, with runs of whitespace collapsed."
+ ],
+ "changes": [],
+ "verification_issues": [
+  "All 32 rows confirmed. For every row the party on dual_office_start was re-established from news items the checker did not cite (63 Naver article pages re-fetched with refresh=True on 2026-09-26 between 00:04 and 00:09 EDT, each quote checked against the fetched text with runs of whitespace collapsed), plus the ko.wikipedia per-Assembly party-change tables. No row changes party between election and dual_office_start, so party_differs_from_election_party stays false everywhere and the changes list is empty.",
+  "Rename boundaries were re-established from sources the checker did not use. 새누리당 from 2012-02-13 (중도일보 2012-02-14) and 자유한국당 from 2017-02-13 (경향신문 2017-02-14) bracket all 박근혜 rows (starts 2013-03-11 to 2016-01-13). 더불어민주당 from 2015-12-28 (전남일보 2015-12-29, registered with the NEC that day) precedes all 문재인 rows (starts 2017-06-16 to 2021-02-11). The 2020-05 merger with 더불어시민당 kept the name (ko.wikipedia 21st-term table row of 2020-05-15, 더불어시민당 → 더불어민주당 합당).",
+  "Party labels in Korean news cluster on nomination day. After appointment, outlets use the ministerial title and drop the party, so for most rows the direct party evidence predates dual_office_start by one to six weeks. The gap is covered by the ko.wikipedia party-change tables for the 19th (revid 42216872), 20th (revid 41820069) and 21st (revid 41820079) terms, which record single-member exits and entries (for example 진영 2016-03-17 and 2016-03-20, 정세균 2016-06-09 and 2018-06-01) and have no entry for any other minister in this group during the row. These tables are tier 4, and the 19th-term table is the same source as the spells file's wikiseat fields, so it is not independent of the seat dates.",
+  "Rows with evidence dated inside the row itself are R0321 (2013-03-13 and 2013-03-19), R0343 (2014-07-25), R0349 (2016-01-27 item describing 2015-10), R0389 (2017-06-18 and 2017-07-13), R0392, R0412, R0417 and R0418 (2020-01-03 and 2020-01-05 items counting them as sitting 더불어민주당 members while ministers), R0403 (2017-07-26, the dual_office_start day) and R0407 (2018-08-10, the appointment day).",
+  "R0363 강은희 exit mechanism is unresolved and bears on any person-level party series after 2016-01-18. likms lists 17 사직 motions for the 19th Assembly and none for 강은희 (likms_search run 2026-09-26T00:01:50-0400), and the NEC notice reported by 머니투데이 on 2016-01-22 speaks of 의원 퇴직 rather than resignation. 뉴시스 on 2016-01-18 (003/0006990818, a checker source) quotes her successor saying 강 장관의 탈당과 의원직 사퇴 절차 이행이 늦어져 비례대표 승계 절차가 이제야 마무리됐다. Read together, these suggest the seat may have been vacated through a party exit. The statute was not checked here. Against this, 2018 coverage of her Daegu 교육감 race has her saying she left 자유한국당 on 2017-05-09, which implies she was a party member in 2017 (한국일보 2018-06-04, https://n.news.naver.com/mnews/article/469/0000304469, text: \"강은희 후보는 탈당 시점 의혹에 “지난해 5월9일 한국당 대구시당에 팩스로”\", accessed 2026-09-26T00:08:28-0400). The checker called the 탈당 mention a conflict, but it does not conflict with the 2016-01-18 date. It only concerns how the seat ended. Party on 2016-01-13 (새누리당) and the seat end (2016-01-18) are unaffected.",
+  "Seat facts for the eight rows with dual_office_share below 1 (R0362, R0363, R0392, R0412, R0417, R0418, R0424, R0425) were re-checked with sources the checker did not cite. The six 20th-term rows end at the term end 2020-05-29 because none of the six holds a 21st-term seat (ko.wikipedia 21st-term member list revid 42148778) and none has a vacancy in the 20th-term table. 김현미, 유은혜, 진영 and 박영선 announced non-candidacy together on 2020-01-03, 정세균 is reported as not running on 2020-02-25, and 추미애's 광진을 seat went to 고민정 in 2020. 유일호's seat ends at the 19th-term end 2016-05-29 with no 20th-term seat.",
+  "No source contradicting any party value was found. A scan of all strict name-party matches in the collected articles found no case where a party other than the row's party sat next to the minister's name in the relevant window.",
+  "BigKinds items are cited through https://www.bigkinds.or.kr/news/detailView.do?docId=<id>&returnCnt=1&sectionDiv=1000, as the checker did. This endpoint is not a SOURCES_TOOLKIT helper. The quotes were checked against the full text it returned."
+ ]
+}

@@ -1,0 +1,507 @@
+{
+ "group": "g4",
+ "verified_by": "adversarial challenger g4",
+ "verified_at": "2026-09-25T23:48:24-0400",
+ "rows": [
+  {
+   "row_id": "R0444",
+   "name": "황희",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2020 under 더불어민주당. Reported as one of seven 민주당 소속 ministers tendering resignation on 2022-05-09, and as returning to 더불어민주당 on 2022-05-12. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0013166342 (accessed 2026-09-25T22:27:05-0400) 연합뉴스 2022-05-09, '민주당 소속 장관 7명은 9일 일괄적으로 장관직을 떠나기로 하고 사표를 제출했다', lists 전해철 황희 한정애 권칠승",
+    "https://n.news.naver.com/mnews/article/421/0006080179 (accessed 2026-09-25T14:09:53-0400) 뉴스1 2022-05-09, '더불어민주당 현직 의원 및 의원 출신 장관 7명'",
+    "https://n.news.naver.com/mnews/article/021/0002513352 (accessed 2026-09-25T13:54:00-0400) 문화일보 2022-05-12, 정치인 장관들이 '야당이 된 더불어민주당으로 복귀'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42409959 (accessed 2026-09-25T13:02:28-0400) ko.wikipedia '황희 (1967년)' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat held 2020-05-30 to 2024-05-29 per NA spells file (seat 서울 양천구갑), district and election type match. Holdover row from the 문재인 cabinet into the 윤석열 administration. The seat was kept throughout, no resignation on appointment. News on 2022-05-09 reports the resignation from the ministry was tendered but not yet accepted. 황희 held his farewell ceremony on 2022-05-09 (뉴시스, https://n.news.naver.com/mnews/article/003/0011172010, accessed 2026-09-25T13:12:31-0400), while the row keeps him in office until 2022-05-13 when 박보균 was appointed (관보 제20255호). That is a tenure question for the boundary checker, not a seat problem.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스 on 2022-05-10, the row start, lists 황희 among the politician ministers returning to 더불어민주당. 연합뉴스 and 동아일보 on 2022-05-12, inside the row, call him 더불어민주당 황희 의원. No party change is reported between those dates.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0011173963 (accessed 2026-09-25T13:17:27-0400) 뉴시스 2022-05-10 11:36, '윤석열 정부 출범과 함께 문재인 정부 정치인 출신 장관들이 야당이 된 더불어민주당으로 원대복귀한다' and '전해철(행안부), 황희(문체부), 한정애(환경부), 권칠승(중기부) 등 네명의 장관도 ... 물러날 것으로 보인다', '3선 전해철, 박범계, 한정애 장관, 재선 권칠승, 황희 장관 모두 원대복귀 후 야당이 된 민주당의 중견급'",
+    "https://n.news.naver.com/mnews/article/001/0013172879 (accessed 2026-09-25T23:27:04-0400) 연합뉴스 2022-05-12, '더불어민주당 황희 의원(전 문화체육관광부 장관)'",
+    "https://n.news.naver.com/mnews/article/020/0003428094 (accessed 2026-09-25T23:27:01-0400) 동아일보 2022-05-12, '더불어민주당 황희 의원(전 문화체육관광부 장관)'"
+   ]
+  },
+  {
+   "row_id": "R0447",
+   "name": "한정애",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2020 under 더불어민주당. Reported as a 민주당 소속 minister on 2022-05-09. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0013166342 (accessed 2026-09-25T22:27:05-0400) 연합뉴스 2022-05-09, '민주당 소속 장관 7명은 9일 일괄적으로 장관직을 떠나기로 하고 사표를 제출했다', lists 전해철 황희 한정애 권칠승",
+    "https://n.news.naver.com/mnews/article/421/0006080179 (accessed 2026-09-25T14:09:53-0400) 뉴스1 2022-05-09, '더불어민주당 현직 의원 및 의원 출신 장관 7명'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541204 (accessed 2026-09-25T13:37:54-0400) ko.wikipedia '한정애' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat held 2020-05-30 to 2024-05-29 per NA spells file (seat 서울 강서구병), district and election type match. Holdover row from the 문재인 cabinet into the 윤석열 administration. The seat was kept throughout, no resignation on appointment. News on 2022-05-09 reports the resignation from the ministry was tendered but not yet accepted. The row is a single day (2022-05-10), matching 한화진's appointment date of 2022-05-10 in 관보 제20255호.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스 on 2022-05-10, the only day of the row, lists 한정애 among the politician ministers returning to 더불어민주당 and describes her as a 3선 member of the party. SBS and 국제신문 on 2022-05-09 name her among the seven 민주당 ministers. A YTN fact-check of 2022-05-30 (052/0001745731) was seen and not used because it labels her 정의당 and 민주당 in the same article, which is an internal error.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0011173963 (accessed 2026-09-25T13:17:27-0400) 뉴시스 2022-05-10 11:36, '윤석열 정부 출범과 함께 문재인 정부 정치인 출신 장관들이 야당이 된 더불어민주당으로 원대복귀한다' and '전해철(행안부), 황희(문체부), 한정애(환경부), 권칠승(중기부) 등 네명의 장관도 ... 물러날 것으로 보인다', '3선 전해철, 박범계, 한정애 장관, 재선 권칠승, 황희 장관 모두 원대복귀 후 야당이 된 민주당의 중견급'",
+    "https://n.news.naver.com/mnews/article/055/0000971952 (accessed 2026-09-25T22:27:06-0400) SBS 2022-05-09, '민주당 출신은 ... 한정애 환경부 장관, 권칠승 중소벤처기업부 장관 등 7명입니다'",
+    "https://n.news.naver.com/mnews/article/658/0000009124 (accessed 2026-09-25T13:17:14-0400) 국제신문 2022-05-09, '한정애 환경부 장관 ... 등 더불어민주당 출신 장관 7명은 일괄적으로 사표를 내고'"
+   ]
+  },
+  {
+   "row_id": "R0449",
+   "name": "추경호",
+   "party_on_date": "국민의힘",
+   "party_date_basis": "Elected 2020 under 미래통합당, which renamed itself 국민의힘 on 2020-09-02. Described as '추경호 국민의힘 의원' on the appointment date 2022-05-10.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/016/0001988780 (accessed 2026-09-25T23:09:26-0400) 헤럴드경제 2022-05-10, '초대 경제부총리 겸 기획재정부 장관 후보자에 추경호 국민의힘 의원이 정해졌다'",
+    "https://n.news.naver.com/mnews/article/003/0011096895 (accessed 2026-09-25T23:07:22-0400) 뉴시스 2022-04-01, '추경호 국민의힘 의원'",
+    "https://n.news.naver.com/mnews/article/001/0011855800 (accessed 2026-09-25T23:01:54-0400) 연합뉴스 2020-09-02, '미래통합당이 2일 국민의 힘으로 당명을 교체했다'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-25T22:10:41-0400) 관보 제20255호 (2022-05-23)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42257036 (accessed 2026-09-24T22:43:49-0400) ko.wikipedia '추경호' party history table, 미래통합당 2020 then 국민의힘 2020~현재 (당명 변경)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat 대구 달성군 held 2020-05-30 to 2024-05-29 per NA spells file. Appointment date 2022-05-10 matches 관보 제20255호. The seat was kept for the whole row, no resignation on appointment. His later 22nd-term seat ended 2026-04-30 (resigned to run for other office), which is outside this row.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 매일신문 on 2022-04-28 and 머니투데이 on 2022-05-03, a week before appointment, call him 추경호 국민의힘 (국회)의원. The rename from 미래통합당 to 국민의힘 on 2020-09-02 is confirmed by the 국민의힘 party article. The election party 미래통합당 no longer existed on 2022-05-10, so 국민의힘 is right.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/008/0004741310 (accessed 2026-09-25T23:36:25-0400) 머니투데이 2022-05-03, '경제부총리로 지명된 추경호 국민의힘 의원이'",
+    "https://n.news.naver.com/mnews/article/088/0000755898 (accessed 2026-09-25T23:36:10-0400) 매일신문 2022-04-28, '추경호 국민의힘 국회의원(대구 달성군)이 대표발의한'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42414959 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '국민의힘' lead, '2020년 2월 17일 ... 미래통합당이라는 당명으로 창당되었으며 2020년 9월 2일, 당명을 국민의힘으로 변경하였다'"
+   ]
+  },
+  {
+   "row_id": "R0455",
+   "name": "전해철",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2020 under 더불어민주당. Reported as a 민주당 소속 minister on 2022-05-09 and as returning to the party on 2022-05-12. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0013166342 (accessed 2026-09-25T22:27:05-0400) 연합뉴스 2022-05-09, '민주당 소속 장관 7명은 9일 일괄적으로 장관직을 떠나기로 하고 사표를 제출했다', lists 전해철 황희 한정애 권칠승",
+    "https://n.news.naver.com/mnews/article/421/0006080179 (accessed 2026-09-25T14:09:53-0400) 뉴스1 2022-05-09, '더불어민주당 현직 의원 및 의원 출신 장관 7명'",
+    "https://n.news.naver.com/mnews/article/021/0002513352 (accessed 2026-09-25T13:54:00-0400) 문화일보 2022-05-12, 정치인 장관들이 '야당이 된 더불어민주당으로 복귀'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42323481 (accessed 2026-09-25T13:29:16-0400) ko.wikipedia '전해철' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat held 2020-05-30 to 2024-05-29 per NA spells file (seat 경기 안산시상록구갑), district and election type match. Holdover row from the 문재인 cabinet into the 윤석열 administration. The seat was kept throughout, no resignation on appointment. News on 2022-05-09 reports the resignation from the ministry was tendered but not yet accepted. Row end 2022-05-12 matches 이상민's appointment date in 관보 제20255호.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스 on 2022-05-10 lists 전해철 among the politician ministers returning to 더불어민주당. 헤럴드경제 on 2022-05-11 describes him as one of six sitting members who served in the cabinet as 더불어민주당 소속.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0011173963 (accessed 2026-09-25T13:17:27-0400) 뉴시스 2022-05-10 11:36, '윤석열 정부 출범과 함께 문재인 정부 정치인 출신 장관들이 야당이 된 더불어민주당으로 원대복귀한다' and '전해철(행안부), 황희(문체부), 한정애(환경부), 권칠승(중기부) 등 네명의 장관도 ... 물러날 것으로 보인다', '3선 전해철, 박범계, 한정애 장관, 재선 권칠승, 황희 장관 모두 원대복귀 후 야당이 된 민주당의 중견급'",
+    "https://n.news.naver.com/mnews/article/016/0001989241 (accessed 2026-09-25T23:27:22-0400) 헤럴드경제 2022-05-11, '더불어민주당 소속으로 문재인 정부 순장조 장관을 지낸 현역 의원 6명이 ... 원대복귀를 시작', naming 전해철, 권칠승, 황희",
+    "https://n.news.naver.com/mnews/article/001/0013172584 (accessed 2026-09-25T07:09:33-0400) 연합뉴스 2022-05-11, '더불어민주당 출신인 전해철 행정안전부 장관, 황희 문화체육관광부 장관, 권칠승 중소벤처기업부 장관이'"
+   ]
+  },
+  {
+   "row_id": "R0464",
+   "name": "권칠승",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2020 under 더불어민주당. Reported as a 민주당 소속 minister on 2022-05-09 and as returning to the party on 2022-05-12. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0013166342 (accessed 2026-09-25T22:27:05-0400) 연합뉴스 2022-05-09, '민주당 소속 장관 7명은 9일 일괄적으로 장관직을 떠나기로 하고 사표를 제출했다', lists 전해철 황희 한정애 권칠승",
+    "https://n.news.naver.com/mnews/article/421/0006080179 (accessed 2026-09-25T14:09:53-0400) 뉴스1 2022-05-09, '더불어민주당 현직 의원 및 의원 출신 장관 7명'",
+    "https://n.news.naver.com/mnews/article/021/0002513352 (accessed 2026-09-25T13:54:00-0400) 문화일보 2022-05-12, 정치인 장관들이 '야당이 된 더불어민주당으로 복귀'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42409767 (accessed 2026-09-25T23:02:38-0400) ko.wikipedia '권칠승' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat held 2020-05-30 to 2024-05-29 per NA spells file (seat 경기 화성시병), district and election type match. Holdover row from the 문재인 cabinet into the 윤석열 administration. The seat was kept throughout, no resignation on appointment. News on 2022-05-09 reports the resignation from the ministry was tendered but not yet accepted. Row end 2022-05-12 is one day before the successor 이영's gazette date (2022-05-13, 관보 제20255호), while the other holdover rows end on the successor's gazette date. News reports the President appointed 이영 on 2022-05-12. Flagged for the boundary checker.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스 on 2022-05-10 lists 권칠승 among the politician ministers returning to 더불어민주당. 헤럴드경제 and 연합뉴스 on 2022-05-11 name him as a 더불어민주당 소속 or 출신 minister.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0011173963 (accessed 2026-09-25T13:17:27-0400) 뉴시스 2022-05-10 11:36, '윤석열 정부 출범과 함께 문재인 정부 정치인 출신 장관들이 야당이 된 더불어민주당으로 원대복귀한다' and '전해철(행안부), 황희(문체부), 한정애(환경부), 권칠승(중기부) 등 네명의 장관도 ... 물러날 것으로 보인다', '3선 전해철, 박범계, 한정애 장관, 재선 권칠승, 황희 장관 모두 원대복귀 후 야당이 된 민주당의 중견급'",
+    "https://n.news.naver.com/mnews/article/016/0001989241 (accessed 2026-09-25T23:27:22-0400) 헤럴드경제 2022-05-11, '더불어민주당 소속으로 문재인 정부 순장조 장관을 지낸 현역 의원 6명이 ... 원대복귀를 시작', naming 전해철, 권칠승, 황희",
+    "https://n.news.naver.com/mnews/article/001/0013172584 (accessed 2026-09-25T07:09:33-0400) 연합뉴스 2022-05-11, '더불어민주당 출신인 전해철 행정안전부 장관, 황희 문화체육관광부 장관, 권칠승 중소벤처기업부 장관이'"
+   ]
+  },
+  {
+   "row_id": "R0465",
+   "name": "박진",
+   "party_on_date": "국민의힘",
+   "party_date_basis": "Elected 2020 under 미래통합당, renamed 국민의힘 on 2020-09-02. Described as '박진 국민의힘 의원' when named for 외교부 on 2022-04-10.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/018/0005186383 (accessed 2026-09-25T13:34:38-0400) 이데일리 2022-04-10, '박진 국민의힘 의원은 외교부 장관으로'",
+    "https://n.news.naver.com/mnews/article/087/0000890530 (accessed 2026-09-25T13:34:37-0400) 강원일보 2022-04-10, '국민의힘 박진 의원은 외교부 장관으로'",
+    "https://n.news.naver.com/mnews/article/001/0011855800 (accessed 2026-09-25T23:01:54-0400) 연합뉴스 2020-09-02, '미래통합당이 2일 국민의 힘으로 당명을 교체했다'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-25T22:10:41-0400) 관보 제20255호 (2022-05-23)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42432373 (accessed 2026-09-25T13:16:40-0400) ko.wikipedia '박진 (정치인)' party history table, 미래통합당 2020 then 국민의힘 2020~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat 서울 강남구을 held 2020-05-30 to 2024-05-29 per NA spells file. Appointment date 2022-05-12 matches 관보 제20255호. The seat was kept for the whole row, no resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. TV조선 on 2022-04-13 and 머니투데이 and 디지털타임스 on 2022-04-20 describe him as 국민의힘 박진 의원 or 박진 외교부 장관 후보자(국민의힘 의원). No party change is reported before 2022-05-12. The rename from 미래통합당 is confirmed by the 국민의힘 party article.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/008/0004735557 (accessed 2026-09-25T23:37:27-0400) 머니투데이 2022-04-20, '박진 외교부 장관 후보자(국민의힘 의원)가 20일'",
+    "https://n.news.naver.com/mnews/article/029/0002730616 (accessed 2026-09-25T23:37:09-0400) 디지털타임스 2022-04-20, '박진 외교부 장관 후보자(국민의힘 의원)도'",
+    "https://n.news.naver.com/mnews/article/448/0000356629 (accessed 2026-09-25T23:36:54-0400) TV조선 2022-04-13, '윤석열 정부 초대 외교부 장관에 국민의힘 박진 의원(서울 강남을)이'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42414959 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '국민의힘' lead, '2020년 2월 17일 ... 미래통합당이라는 당명으로 창당되었으며 2020년 9월 2일, 당명을 국민의힘으로 변경하였다'"
+   ]
+  },
+  {
+   "row_id": "R0470",
+   "name": "이영",
+   "party_on_date": "국민의힘",
+   "party_date_basis": "Elected 2020 on the 미래한국당 PR list (rank 13). 미래한국당 merged into 미래통합당 on 2020-05-28 and 미래통합당 became 국민의힘 on 2020-09-02. The Assembly handled '국민의힘 이영 의원의 사직 안건' on 2022-05-20, a week after appointment.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0013193852 (accessed 2026-09-25T23:01:36-0400) 연합뉴스 2022-05-20, '국회는 20일 본회의에서 국민의힘 이영 의원의 사직 안건을 처리했다'",
+    "https://n.news.naver.com/mnews/article/654/0000010573 (accessed 2026-09-25T23:01:38-0400) 강원도민일보 2022-05-20, '중소벤처기업부 장관으로 임명된 이영(비례) 국회의원의 사직안을 의결했다'",
+    "https://n.news.naver.com/mnews/article/028/0002498922 (accessed 2026-09-25T23:02:01-0400) 한겨레 2020-05-28, '미래통합당과 위성정당인 미래한국당이 28일 합당을 선포했다', absorbed into 통합당",
+    "https://n.news.naver.com/mnews/article/001/0011855800 (accessed 2026-09-25T23:01:54-0400) 연합뉴스 2020-09-02, '미래통합당이 2일 국민의 힘으로 당명을 교체했다'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-25T22:10:41-0400) 관보 제20255호 (2022-05-23)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42089079 (accessed 2026-09-25T23:19:18-0400) ko.wikipedia '이영 (1969년)' party history table, '제21대 국회의원(비례대표, 미래한국당→미래통합당→국민의힘)'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly PR seat (미래한국당 list rank 13) held 2020-05-30 to 2022-05-20 per NA spells file (end_status confirmed by Wikipedia list, seat table and NA 사직 bill). Seat resigned on appointment. The plenary approved the resignation on 2022-05-20 (연합뉴스, KBS). PR successor 노용호 (list rank 20) was confirmed by the NEC on 2022-05-23 (KBS, https://n.news.naver.com/mnews/article/056/0011270866, accessed 2026-09-25T23:01:35-0400). Dual interval 2022-05-13 to 2022-05-20 is consistent. The gazette gives the appointment date as 2022-05-13 while 연합뉴스 reports the President appointed her on 2022-05-12 (https://n.news.naver.com/mnews/article/001/0013175346, accessed 2026-09-25T13:12:14-0400). The row follows the gazette.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스, 중앙일보 and YTN on 2022-05-20, the last day of the dual interval, call her 국민의힘 이영 의원 when her resignation passed. The 미래한국당 article gives the merger into 미래통합당 as declared on 2020-05-28 with dissolution on 2020-05-29, and the 국민의힘 article gives the 2020-09-02 rename. Both precede 2022-05-13. Seat re-check (share below 1). The NA bill system record 의안번호 2115634 국회의원(이영) 사직의 건 was proposed on 2022-05-17 and passed as 원안가결 at the 제397회 국회(임시회) 제3차 본회의 on 2022-05-20, which matches seat_end 2022-05-20 in the spells file. 뉴시스 2022-05-20 says the next PR list candidate 노용호 succeeds. The list ranks 13 and 20 quoted by the checker were not re-verified here.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0011198746 (accessed 2026-09-25T23:31:27-0400) 뉴시스 2022-05-20, '이영 국민의힘 의원의 국회의원 사직안이 20일 국회 본회의에서 가결됐다'",
+    "https://n.news.naver.com/mnews/article/025/0003196465 (accessed 2026-09-25T23:31:30-0400) 중앙일보 2022-05-20, '중소벤처기업부 장관으로 임명된 이영(사진) 국민의힘 의원의 자리를'",
+    "https://n.news.naver.com/mnews/article/052/0001741840 (accessed 2026-09-25T23:31:33-0400) YTN 2022-05-20, '중소벤처기업부 장관으로 임명된 국민의힘 이영 의원의 사직 안건을 처리'",
+    "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_J2D2J0A5V1E7W1K1L4R0Q2Y6N5L8E1 (accessed 2026-09-25T23:38:15-0400) 의안정보시스템 [2115634] 국회의원(이영) 사직의 건, 제안일자 2022-05-17, 의결일자 2022-05-20, 원안가결",
+    "https://ko.wikipedia.org/w/index.php?oldid=41888789 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '미래한국당' infobox, 해산 2020년 5월 29일, 통합정당 미래통합당, and '2020년 5월 28일, 미래통합당과 공식적으로 합당이 결의되었다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42414959 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '국민의힘' lead, '2020년 2월 17일 ... 미래통합당이라는 당명으로 창당되었으며 2020년 9월 2일, 당명을 국민의힘으로 변경하였다'"
+   ]
+  },
+  {
+   "row_id": "R0471",
+   "name": "권영세",
+   "party_on_date": "국민의힘",
+   "party_date_basis": "Elected 2020 under 미래통합당, renamed 국민의힘 on 2020-09-02. Described as '권영세 국민의힘 의원' in April 2022 and on the eve of appointment.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/421/0006019908 (accessed 2026-09-25T23:09:40-0400) 뉴스1 2022-04-10, '통일부 장관으로는 4선 중진 권영세 국민의힘 의원과 김병연 서울대 교수가 검토되고 있다'",
+    "https://n.news.naver.com/mnews/article/016/0001988780 (accessed 2026-09-25T23:09:26-0400) 헤럴드경제 2022-05-10, '권영세 국민의힘 의원' (the article misnames his ministry as 외교부)",
+    "https://n.news.naver.com/mnews/article/001/0011855800 (accessed 2026-09-25T23:01:54-0400) 연합뉴스 2020-09-02, '미래통합당이 2일 국민의 힘으로 당명을 교체했다'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-25T22:10:41-0400) 관보 제20255호 (2022-05-23)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42538529 (accessed 2026-09-25T23:19:19-0400) ko.wikipedia '권영세 (1959년)' party history table, 미래통합당 2020 then 국민의힘 2020~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly 지역구 seat 서울 용산구 held 2020-05-30 to 2024-05-29 per NA spells file. Appointment date 2022-05-13 matches 관보 제20255호 and news (노컷뉴스, 동아일보 2022-05-13). The seat was kept for the whole row, no resignation on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 파이낸셜뉴스 on 2022-05-09, four days before appointment, refers to 권영세 국민의힘 의원. 데일리안 on 2022-04-17 calls the two nominees 박진·권영세 국민의힘 의원. The rename from 미래통합당 is confirmed by the 국민의힘 party article.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/014/0004833128 (accessed 2026-09-25T23:35:42-0400) 파이낸셜뉴스 2022-05-09, '그 자리에 참석한 권영세 국민의힘 의원 보좌관에게 의견을 전달했다'",
+    "https://n.news.naver.com/mnews/article/119/0002594909 (accessed 2026-09-25T23:37:00-0400) 데일리안 2022-04-17, '윤석열 정부 초대 외교·통일부 장관 후보자로 각각 박진·권영세 국민의힘 의원이 내정됐다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42414959 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '국민의힘' lead, '2020년 2월 17일 ... 미래통합당이라는 당명으로 창당되었으며 2020년 9월 2일, 당명을 국민의힘으로 변경하였다'"
+   ]
+  },
+  {
+   "row_id": "R0482",
+   "name": "신원식",
+   "party_on_date": "국민의힘",
+   "party_date_basis": "Elected 2020 on the 미래한국당 PR list (rank 8), which merged into 미래통합당 on 2020-05-28, renamed 국민의힘 on 2020-09-02. Named 국방부 nominee as '국민의힘 신원식 의원' on 2023-09-13, and called '신원식 국민의힘 비례대표 국회의원' in the NEC notice about his 2023-10-31 vacancy. Wikipedia shows he left 국민의힘 only in 2024.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/023/0003787491 (accessed 2026-09-25T23:11:20-0400) 조선일보 2023-09-13, '국방부 장관 후보는 국민의힘 신원식 의원'",
+    "https://n.news.naver.com/mnews/article/021/0002602814 (accessed 2026-09-25T23:10:26-0400) 문화일보 2023-11-02, '국회의장이 10월 31일 신원식 국민의힘 비례대표 국회의원의 의원직 상실에 따른 궐원을 통보'",
+    "https://n.news.naver.com/mnews/article/028/0002498922 (accessed 2026-09-25T23:02:01-0400) 한겨레 2020-05-28, '미래통합당과 위성정당인 미래한국당이 28일 합당을 선포했다', absorbed into 통합당",
+    "https://n.news.naver.com/mnews/article/001/0011855800 (accessed 2026-09-25T23:01:54-0400) 연합뉴스 2020-09-02, '미래통합당이 2일 국민의 힘으로 당명을 교체했다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=41780115 (accessed 2026-09-25T13:00:46-0400) ko.wikipedia '신원식 (1958년)' party history table, 미래한국당 2020, 미래통합당 2020, 국민의힘 2020~2024, 무소속 2024~ (탈당)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "21st Assembly PR seat (미래한국당 list rank 8) held 2020-05-30 to 2023-10-31 per NA spells file (end_status confirmed by Wikipedia list, seat table and NA 사직 bill). Seat resigned on appointment. The plenary approved the resignation on 2023-10-31 (뉴시스 2023-11-09, https://n.news.naver.com/mnews/article/003/0012199871, accessed 2026-09-25T23:10:23-0400). PR successor 우신구 (list rank 22) was decided by the NEC on 2023-11-02. Appointment on 2023-10-07 matches 연합뉴스 2023-10-07 (https://n.news.naver.com/mnews/article/001/0014245751, accessed 2026-09-25T23:10:11-0400). Dual interval 2023-10-07 to 2023-10-31 is consistent.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 중앙일보 on 2023-10-07, the appointment date, reports that 신원식 국민의힘 의원 was appointed. 연합뉴스 on 2023-11-02 describes him as having resigned his 국민의힘 PR seat on appointment. The gazette confirms the appointment date. Seat re-check (share below 1). The NA bill system record 의안번호 2125106 국회의원(신원식) 사직의 건 was proposed on 2023-10-13 and passed as 원안가결 at the 제410회 국회(정기회) 제10차 본회의 on 2023-10-31, which matches seat_end 2023-10-31. 관보 제20602호 (2023-10-13) prints 신원식(申源湜) 국무위원에 임함 국방부장관에 보함 2023-10-07, which matches dual_office_start. 연합뉴스 2023-11-02 reports the NEC chose 우신구 as successor. The list ranks quoted by the checker were not re-verified here.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/025/0003312680 (accessed 2026-09-25T23:28:22-0400) 중앙일보 2023-10-07, '신임 국방부 장관으로 신원식 국민의힘 의원이 ... 임명됐다'",
+    "https://n.news.naver.com/mnews/article/001/0014304858 (accessed 2026-09-25T23:46:52-0400) 연합뉴스 2023-11-02, '국방부 장관으로 임명돼 국민의힘 비례대표 의원을 사직한 신원식 장관의 승계자로 우신구(73) 의원을 결정'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001697030397674000&tocId=I0000000000000001696843678833000&isTocOrder=N (accessed 2026-09-24T23:00:21-0400) 관보 제20602호 (2023-10-13), 신원식 申源湜 국무위원에 임함 국방부장관에 보함 2023-10-07",
+    "https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_I2N3X1L0I1H3H1V7X5J0K2H3V7I5D8 (accessed 2026-09-25T23:38:57-0400) 의안정보시스템 [2125106] 국회의원(신원식) 사직의 건, 제안일자 2023-10-13, 의결일자 2023-10-31, 원안가결",
+    "https://ko.wikipedia.org/w/index.php?oldid=42414959 (accessed 2026-09-25T23:36:21-0400) ko.wikipedia '국민의힘' lead, '2020년 2월 17일 ... 미래통합당이라는 당명으로 창당되었으며 2020년 9월 2일, 당명을 국민의힘으로 변경하였다'"
+   ]
+  },
+  {
+   "row_id": "R0510",
+   "name": "김민석",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Named PM designate as '민주당 김민석 최고위원' on 2025-06-04. Wikipedia lists 더불어민주당 2016 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/087/0001120888 (accessed 2026-09-25T23:13:33-0400) 강원일보 2025-06-04, '초대 국무총리로 민주당 김민석(61) 최고위원을 내정했다'",
+    "https://n.news.naver.com/mnews/article/001/0015430029 (accessed 2026-09-25T23:13:36-0400) 연합뉴스 2025-06-04, '민주당 김민석(61) 최고위원'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001752133745126000&tocId=I0000000000000001751845191656000&isTocOrder=N (accessed 2026-09-24T22:59:45-0400) 관보 제21034호 (2025-07-14), 김민석 국무총리에 임함 2025-07-04",
+    "https://ko.wikipedia.org/w/index.php?oldid=42535343 (accessed 2026-09-25T23:19:21-0400) ko.wikipedia '김민석 (정치인)' party history table, 더불어민주당 2016~현재 (합당)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 서울 영등포구을 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-04 matches 관보 제21034호. At his hearing he said he had never considered resigning the seat (뉴시스 2025-06-24, https://n.news.naver.com/mnews/article/003/0013321254, accessed 2026-09-25T23:20:19-0400), and the seat stayed with him through the row end 2026-07-01.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 매일경제 and 부산일보 on 2025-06-04 call him 더불어민주당 (김민석) 최고위원 at nomination. The 더불어민주당 article records him as party leader from 2026-08-17, after the row ends, and shows no merger or rename in between, so he was a 더불어민주당 member on 2025-07-04. No closer labelled article on 2025-07-03 to 07-05 was found in two Naver queries.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/009/0005503432 (accessed 2026-09-25T23:43:40-0400) 매일경제 2025-06-04, '새 정부의 초대 국무총리 후보자로 김민석(61) 더불어민주당 최고위원을 내정했다'",
+    "https://n.news.naver.com/mnews/article/082/0001329046 (accessed 2026-09-25T23:43:41-0400) 부산일보 2025-06-04, '초대 국무총리 후보자로 더불어민주당 김민석 최고위원을 내정했다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541311 (accessed 2026-09-25T23:26:35-0400) ko.wikipedia '더불어민주당' history and leadership tables run without a merger or rename through 2026-09 (당대표 정청래 2025-08-02 to 2026-06-24, 김민석 from 2026-08-17)"
+   ]
+  },
+  {
+   "row_id": "R0515",
+   "name": "정성호",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Reported as '정성호 더불어민주당 의원' when tapped for 법무부 on 2025-06-28. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/088/0000955935 (accessed 2026-09-25T23:13:48-0400) 매일신문 2025-06-28, '법무부 장관 후보자로 정성호 더불어민주당 의원이'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400) 관보 제21043호 (2025-07-25)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42510833 (accessed 2026-09-25T23:19:21-0400) ko.wikipedia '정성호 (1962년)' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 경기 동두천시양주시연천군갑 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-19 matches 관보 제21043호. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 연합뉴스 on 2025-06-29 and 동아일보 on 2025-07-01 call him 더불어민주당 정성호 의원 as 법무부 nominee. No party change is reported before 2025-07-19.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0003644871 (accessed 2026-09-25T23:43:43-0400) 동아일보 2025-07-01, '이재명 정부 첫 법무부 장관 후보자로 지명된 더불어민주당 정성호 의원이'",
+    "https://n.news.naver.com/mnews/article/001/0015476688 (accessed 2026-09-25T23:43:48-0400) 연합뉴스 2025-06-29, '법무부 장관 후보자로는 더불어민주당 정성호 의원이, 행정안전부 장관 후보자로는 민주당 윤호중 의원이 지명됐다'"
+   ]
+  },
+  {
+   "row_id": "R0516",
+   "name": "윤호중",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. 뉴스1 on 2025-07-19 reports the government appointed '윤호중 더불어민주당 의원(5선)'. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/421/0008379936 (accessed 2026-09-25T23:12:58-0400) 뉴스1 2025-07-19, '정부가 윤호중 더불어민주당 의원(5선)을 제5대 행정안전부 장관에 임명했다'",
+    "https://n.news.naver.com/mnews/article/088/0000955935 (accessed 2026-09-25T23:13:48-0400) 매일신문 2025-06-28, '행정안전부 장관 후보자로는 윤호중 민주당 의원'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400) 관보 제21043호 (2025-07-25)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42349622 (accessed 2026-09-25T13:29:17-0400) ko.wikipedia '윤호중' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 경기 구리시 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-20 matches 관보 제21043호, although 뉴스1 reported the appointment on the evening of 2025-07-19. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 연합뉴스, MBC and SBS on 2025-06-29 call him 민주당 윤호중 의원 at nomination. No party change is reported before 2025-07-20.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0015476688 (accessed 2026-09-25T23:43:48-0400) 연합뉴스 2025-06-29, '행정안전부 장관 후보자로는 민주당 윤호중 의원이 지명됐다'",
+    "https://n.news.naver.com/mnews/article/214/0001433137 (accessed 2026-09-25T23:43:56-0400) MBC 2025-06-29, '행정안전부 장관 후보자로는 민주당 윤호중 의원을'",
+    "https://n.news.naver.com/mnews/article/055/0001270654 (accessed 2026-09-25T23:43:57-0400) SBS 2025-06-29, '행정안전부 장관 후보자로는 민주당 윤호중 의원이 지명됐습니다'"
+   ]
+  },
+  {
+   "row_id": "R0517",
+   "name": "김성환",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Nominated for 환경부 as '김성환 민주당 의원' on 2025-06-23. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0011974875 (accessed 2026-09-25T23:14:24-0400) KBS 2025-06-23, 11개 부처 장관 후보자 지명 (민주당 정동영 의원, 민주당 안규백 의원, 김성환 민주당 의원, 민주당 전재수 의원)",
+    "https://n.news.naver.com/mnews/article/025/0003449913 (accessed 2026-09-25T23:14:21-0400) 중앙일보 2025-06-23, '환경부 장관 후보자로는 김성환 민주당 의원이'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400) 관보 제21047호 (2025-07-31)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42454888 (accessed 2026-09-25T13:37:56-0400) ko.wikipedia '김성환 (1965년)' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 서울 노원구을 held from 2024-05-30 and still sitting at the cutoff per NA spells file (his 21st-term district was 노원구병 before redistricting, the row correctly uses the 22nd-term district). Appointment date 2025-07-22 matches 관보 제21047호. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴시스 on 2025-07-16, six days before appointment, calls him 환경부 장관 후보자인 김성환 더불어민주당 노원구을 의원.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/003/0013367141 (accessed 2026-09-25T23:41:37-0400) 뉴시스 2025-07-16, '환경부 장관 후보자인 김성환 더불어민주당 노원구을 의원이'",
+    "https://n.news.naver.com/mnews/article/003/0013367145 (accessed 2026-09-25T23:41:38-0400) 뉴시스 2025-07-16, same event, '김성환 더불어민주당 노원구을 의원과 박수치고 있다'"
+   ]
+  },
+  {
+   "row_id": "R0520",
+   "name": "전재수",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Nominated for 해양수산부 as '민주당 전재수 의원' on 2025-06-23. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0011974875 (accessed 2026-09-25T23:14:24-0400) KBS 2025-06-23, 11개 부처 장관 후보자 지명 (민주당 정동영 의원, 민주당 안규백 의원, 김성환 민주당 의원, 민주당 전재수 의원)",
+    "https://n.news.naver.com/mnews/article/025/0003449913 (accessed 2026-09-25T23:14:21-0400) 중앙일보 2025-06-23, '해양수산부 장관 후보자에는 전재수 민주당 의원을 지명했다'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400) 관보 제21047호 (2025-07-31)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42501005 (accessed 2026-09-25T13:43:38-0400) ko.wikipedia '전재수' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 부산 북구갑 held 2024-05-30 to 2026-04-30 per NA spells file (resigned to run for other office, Wikipedia gives 2026-04-29). Appointment date 2025-07-24 matches 관보 제21047호. The row ends 2025-12-11, before the seat ended, so the dual interval equals the whole row. District naming changed from 북구강서구갑 (21st) to 북구갑 (22nd) and the row correctly uses the 22nd-term name.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 부산일보 on 2025-07-24, the appointment date, writes that 더불어민주당 전재수 의원 was appointed as the first 해수부 minister of the Busan era. His later resignation from the ministry in December 2025 falls after dual_office_start and does not affect this field.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/082/0001336966 (accessed 2026-09-25T23:39:59-0400) 부산일보 2025-07-24 (사설), '해양수산부(이하 해수부)의 부산시대를 이끌 첫 장관으로 더불어민주당 전재수 의원이 임명됐다'"
+   ]
+  },
+  {
+   "row_id": "R0522",
+   "name": "안규백",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Nominated for 국방부 as '민주당 안규백 의원' on 2025-06-23. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0011974875 (accessed 2026-09-25T23:14:24-0400) KBS 2025-06-23, 11개 부처 장관 후보자 지명 (민주당 정동영 의원, 민주당 안규백 의원, 김성환 민주당 의원, 민주당 전재수 의원)",
+    "https://n.news.naver.com/mnews/article/079/0004036699 (accessed 2026-09-25T23:14:50-0400) 노컷뉴스 2025-06-20, '더불어민주당 안규백 의원'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400) 관보 제21047호 (2025-07-31)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42534381 (accessed 2026-09-25T13:00:47-0400) ko.wikipedia '안규백' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 서울 동대문구갑 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-25 matches 관보 제21047호. No resignation of the seat on appointment. The gazette prints the hanja as 安圭佰, while the NA record and Wikipedia give 安圭伯 (the value in the row), which looks like a gazette misprint.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 뉴스1 on 2025-07-09 and 세계일보 on 2025-07-10 call him 국방부 장관 후보자인 (더불어민주당) 안규백 (더불어민주당) 의원. 뉴시스 on 2025-07-08 calls him 안규백 민주당 의원.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/022/0004050422 (accessed 2026-09-25T23:43:59-0400) 세계일보 2025-07-10, '국방부 장관 후보자인 더불어민주당 안규백 의원이 9일'",
+    "https://n.news.naver.com/mnews/article/421/0008358566 (accessed 2026-09-25T23:44:04-0400) 뉴스1 2025-07-09, '국방부 장관 후보자인 안규백 더불어민주당 의원이'",
+    "https://n.news.naver.com/mnews/article/003/0013350221 (accessed 2026-09-25T23:44:00-0400) 뉴시스 2025-07-08, '국방장관 후보자에 안규백 민주당 의원을 지명한 바 있다'"
+   ]
+  },
+  {
+   "row_id": "R0523",
+   "name": "정동영",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Rejoined 더불어민주당 in 2022 and was elected 2024 under it. Nominated for 통일부 as '민주당 정동영 의원' on 2025-06-23. Wikipedia lists 더불어민주당 2022 to present (복당).",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0011974875 (accessed 2026-09-25T23:14:24-0400) KBS 2025-06-23, 11개 부처 장관 후보자 지명 (민주당 정동영 의원, 민주당 안규백 의원, 김성환 민주당 의원, 민주당 전재수 의원)",
+    "https://n.news.naver.com/mnews/article/079/0004036699 (accessed 2026-09-25T23:14:50-0400) 노컷뉴스 2025-06-20, '통일부 장관에 민주당 정동영 의원'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400) 관보 제21047호 (2025-07-31)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42432585 (accessed 2026-09-25T23:19:19-0400) ko.wikipedia '정동영' party history table, 무소속 2022 then 더불어민주당 2022~현재 (복당)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 전북 전주시병 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-25 matches 관보 제21047호. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 문화일보 on 2025-07-23 and 데일리안 on 2025-07-24, one to two days before appointment, call him 정동영(전주시병) 더불어민주당 의원 and 정동영 통일부 장관 후보자(더불어민주당 의원, 전북 전주병). Both report a prosecution demand in his election-law appeal, which did not change his party or seat on 2025-07-25.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/021/0002724812 (accessed 2026-09-25T23:42:15-0400) 문화일보 2025-07-23, '정동영(전주시병) 더불어민주당 의원에 당선무효형을 재차 구형했다'",
+    "https://n.news.naver.com/mnews/article/119/0002982924 (accessed 2026-09-25T23:42:16-0400) 데일리안 2025-07-24, '정동영 통일부 장관 후보자(더불어민주당 의원, 전북 전주병)에게'"
+   ]
+  },
+  {
+   "row_id": "R0526",
+   "name": "김윤덕",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Nominated for 국토교통부 as '더불어민주당 김윤덕 의원' on 2025-07-11. Wikipedia lists 더불어민주당 2015 to present.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/011/0004507974 (accessed 2026-09-25T23:15:59-0400) 서울경제 2025-07-11, '국토교통부 장관 후보자로 더불어민주당 김윤덕 의원을 지명했다'",
+    "https://n.news.naver.com/mnews/article/214/0001435706 (accessed 2026-09-25T23:15:51-0400) MBC 2025-07-11, '국토교통부 장관 후보자로 더불어민주당 김윤덕 의원을 지명'",
+    "https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001755046835835000&tocId=I0000000000000001754551533919000&isTocOrder=N (accessed 2026-09-24T22:59:57-0400) 관보 제21057호 (2025-08-14), 김윤덕 2025-07-31",
+    "https://ko.wikipedia.org/w/index.php?oldid=42534621 (accessed 2026-09-25T13:36:49-0400) ko.wikipedia '김윤덕 (1966년)' party history table, 더불어민주당 2015~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 전북 전주시갑 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment date 2025-07-31 matches 관보 제21057호. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 조세일보 on 2025-07-29 and 뉴스1 on 2025-07-30, the hearing and report-adoption days just before appointment, call him 더불어민주당 김윤덕 의원.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/421/0008401654 (accessed 2026-09-25T23:42:27-0400) 뉴스1 2025-07-30, '국토교통부 장관에 김윤덕 더불어민주당 의원(왼쪽)'",
+    "https://n.news.naver.com/mnews/article/123/0002364709 (accessed 2026-09-25T23:42:41-0400) 조세일보 2025-07-29, '국토교통부 장관 후보자에 더불어민주당 김윤덕 의원(사진 오른쪽)을 지명'"
+   ]
+  },
+  {
+   "row_id": "R0530",
+   "name": "김성환",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Continuation row for the same minister when 환경부 became 기후에너지환경부 on 2025-10-01. Labelled '김성환 민주당 의원' at nomination on 2025-06-23 and elected 2024 under 더불어민주당. No report of a party change was found, Wikipedia lists 더불어민주당 2015 to present, and 더불어민주당 had no merger or rename through 2026-09.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/056/0011974875 (accessed 2026-09-25T23:14:24-0400) KBS 2025-06-23, 11개 부처 장관 후보자 지명 (민주당 정동영 의원, 민주당 안규백 의원, 김성환 민주당 의원, 민주당 전재수 의원)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42454888 (accessed 2026-09-25T13:37:56-0400) ko.wikipedia '김성환 (1965년)' party history table, 더불어민주당 2015~현재",
+    "https://n.news.naver.com/mnews/article/047/0002530066 (accessed 2026-09-25T23:02:14-0400) 오마이뉴스 2026-09-23, 민주당-조국혁신당 합당 still only under discussion, so 더불어민주당 unchanged through the cutoff"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 서울 노원구을 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Row start 2025-10-01 is the ministry reorganization, not a new seat event.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. He is labelled 더불어민주당 on 2025-07-16 (뉴시스) and, as sitting 기후에너지환경부 장관, is addressed as 민주당 김성환 의원 in a JTBC interview on 2025-11-25. No leaving or rejoining is reported between those dates, and the 더불어민주당 article shows no merger or rename, so he was a 더불어민주당 member on 2025-10-01. Yonhap articles of 2025-09-30 to 2025-10-14 on the ministry launch carry no party label.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/437/0000466007 (accessed 2026-09-25T23:46:06-0400) JTBC 2025-11-25 interview with 기후에너지환경부 장관 김성환, anchor says '민주당 김성환 의원으로서 질문을 드리겠습니다'",
+    "https://n.news.naver.com/mnews/article/003/0013367141 (accessed 2026-09-25T23:41:37-0400) 뉴시스 2025-07-16, '김성환 더불어민주당 노원구을 의원'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541311 (accessed 2026-09-25T23:26:35-0400) ko.wikipedia '더불어민주당' history and leadership tables run without a merger or rename through 2026-09 (당대표 정청래 2025-08-02 to 2026-06-24, 김민석 from 2026-08-17)"
+   ]
+  },
+  {
+   "row_id": "R0535",
+   "name": "박홍근",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. Described as '더불어민주당 박홍근 의원' on 2026-03-24, the day his appointment was approved. Wikipedia lists 더불어민주당 2015 to present. No DPK merger or rename by 2026-09.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/088/0001002533 (accessed 2026-09-25T23:16:41-0400) 매일신문 2026-03-24, '초대 기획예산처 장관 후보자로 지명된 더불어민주당 박홍근 의원'",
+    "https://n.news.naver.com/mnews/article/421/0008846667 (accessed 2026-09-24T22:45:43-0400) 뉴스1 2026-03-24, 이재명 대통령은 24일 박홍근 기획예산처 장관 임명안을 재가",
+    "https://ko.wikipedia.org/w/index.php?oldid=42349627 (accessed 2026-09-25T13:11:25-0400) ko.wikipedia '박홍근 (정치인)' party history table, 더불어민주당 2015~현재",
+    "https://n.news.naver.com/mnews/article/047/0002530066 (accessed 2026-09-25T23:02:14-0400) 오마이뉴스 2026-09-23, 민주당-조국혁신당 합당 still only under discussion, so 더불어민주당 unchanged through the cutoff"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 서울 중랑구을 held from 2024-05-30 and still sitting at the cutoff per NA spells file. No resignation of the seat on appointment. News reports the appointment was approved on 2026-03-24, while the row starts 2026-03-25. The gazette index returned no 인사 items for 2026-03-24 to 2026-04-20, so the effective date could not be checked here.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 연합뉴스 on 2026-03-22, three days before the row start, calls him 기획예산처 장관 후보자인 더불어민주당 박홍근 의원. 연합뉴스 on 2026-03-02 calls him 더불어민주당 중진인 박홍근 의원. The 더불어민주당 article shows no merger or rename in 2026, and 연합뉴스 on 2026-08-30 still names 조국혁신당 as a separate party.",
+   "verification_sources": [
+    "https://www.yna.co.kr/view/AKR20260321044500002 (accessed 2026-09-25T23:40:11-0400) 연합뉴스 2026-03-22, '기획예산처 장관 후보자인 더불어민주당 박홍근 의원이 12일 국회에서'",
+    "https://www.yna.co.kr/view/AKR20260302057300001 (accessed 2026-09-25T23:40:13-0400) 연합뉴스 2026-03-02, '기획예산처 장관 후보자에 더불어민주당 중진인 박홍근 의원을 인선한 것은'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541311 (accessed 2026-09-25T23:26:35-0400) ko.wikipedia '더불어민주당' history and leadership tables run without a merger or rename through 2026-09 (당대표 정청래 2025-08-02 to 2026-06-24, 김민석 from 2026-08-17)"
+   ]
+  },
+  {
+   "row_id": "R0541",
+   "name": "이소영",
+   "party_on_date": "더불어민주당",
+   "party_date_basis": "Elected 2024 under 더불어민주당. 중앙일보 on the appointment date 2026-09-22 describes her as '더불어민주당 소속 현역 재선 의원'.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/025/0003553284 (accessed 2026-09-25T21:35:50-0400) 중앙일보 2026-09-22, '이 장관은 변호사 출신으로 더불어민주당 소속 현역 재선 의원이다'",
+    "https://n.news.naver.com/mnews/article/003/0014209541 (accessed 2026-09-25T21:35:46-0400) 뉴시스 2026-09-23, '이소영 더불어민주당 의원(41)을 지명했다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42539725 (accessed 2026-09-25T23:19:22-0400) ko.wikipedia '이소영 (1985년)' party history table, 더불어민주당 2020~현재"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "22nd Assembly 지역구 seat 경기 의왕시과천시 held from 2024-05-30 and still sitting at the cutoff per NA spells file. Appointment approved on 2026-09-22 (뉴스1, 중앙일보), matching the row start. No resignation of the seat on appointment.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_notes": "Independent check of the on-date party. 여성신문 on 2026-09-22, the row start, calls her 이소영 더불어민주당 의원(41). 연합뉴스 on 2026-08-30 names her 더불어민주당 이소영 의원 at nomination and in the same article refers to 조국혁신당 이해민, so the two parties were still separate. The 더불어민주당 article shows no merger or rename.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/310/0000140210 (accessed 2026-09-25T23:44:20-0400) 여성신문 2026-09-22, '기후·에너지 전문가로 정치에 입문한 이소영 더불어민주당 의원(41)이 중소·벤처 정책의 최전선에 섰다'",
+    "https://www.yna.co.kr/view/AKR20260830026351001 (accessed 2026-09-24T22:45:22-0400) 연합뉴스 2026-08-30, '중소벤처기업부 장관 후보자로는 더불어민주당 이소영 의원이 각각 낙점됐다' and '청와대 AI미래기획수석으로는 조국혁신당 이해민'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42541311 (accessed 2026-09-25T23:26:35-0400) ko.wikipedia '더불어민주당' history and leadership tables run without a merger or rename through 2026-09 (당대표 정청래 2025-08-02 to 2026-06-24, 김민석 from 2026-08-17)"
+   ]
+  }
+ ],
+ "issues": [
+  "All 20 rows match the NA spells file on assembly term, district, election type and seat interval, and every dual_office_start and dual_office_end equals the overlap of row and seat. No seat corrections are needed.",
+  "Five rows have an on-date party that differs from mp_party_at_election. 추경호, 박진 and 권영세 were elected under 미래통합당, which renamed itself 국민의힘 on 2020-09-02. 이영 and 신원식 were elected on the 미래한국당 PR list, which merged into 미래통합당 on 2020-05-28 before the rename. All five were 국민의힘 members on dual_office_start.",
+  "Two PR members resigned their seats on appointment. 이영 (appointed 2022-05-13, seat ended 2022-05-20, successor 노용호) and 신원식 (appointed 2023-10-07, seat ended 2023-10-31, successor 우신구). The spells file already records both correctly.",
+  "Boundary observation outside the seat check. R0464 권칠승 ends 2022-05-12, a day before his successor 이영's gazette date of 2022-05-13, while the other 2022 holdover rows (황희, 전해철, 한정애) end on their successor's gazette date. News reports 이영 was appointed on 2022-05-12, so the gazette date and the news date disagree by one day.",
+  "Boundary observation outside the seat check. News reports 윤호중's appointment on the evening of 2025-07-19 and 박홍근's approval on 2026-03-24, while the rows start on 2025-07-20 (matching 관보 제21043호) and 2026-03-25. The 박홍근 and 이소영 gazette notices could not be located because gazette_search returned no 인사 items for the 2026 windows queried.",
+  "Hanja discrepancy. 관보 제21047호 prints 안규백 as 安圭佰, while the NA ALLNAMEMBER record and ko.wikipedia give 安圭伯, which is the value in the row. It looks like a gazette misprint and no change is proposed.",
+  "더불어민주당 had no merger or rename through the 2026-09-24 cutoff. News on 2026-09-23 still describes a 민주당-조국혁신당 merger as only under discussion."
+ ],
+ "changes": [],
+ "verifier_issues": [
+  "All 20 party_on_date values were re-established from sources not cited in g4.json (different news articles, the NA bill system, the gazette and party-history articles). All 20 are confirmed and no field was changed, so the changes list is empty.",
+  "Five rows keep a party that differs from the election party (추경호, 박진, 권영세 elected under 미래통합당, 이영 and 신원식 on the 미래한국당 PR list). All five are labelled 국민의힘 in independent sources dated before or during the dual interval. The fifteen rows that keep the election party 더불어민주당 are all labelled 더불어민주당 or 민주당 in independent sources near dual_office_start.",
+  "Seat facts for the two rows with dual_office_share below 1 were re-checked in the NA bill system. 이영 (R0470) 사직의 건 [2115634] passed on 2022-05-20 and 신원식 (R0482) 사직의 건 [2125106] passed on 2023-10-31, matching seat_end and dual_office_end. 관보 제20602호 confirms 신원식 appointment on 2023-10-07. The PR list ranks of the successors quoted in the checker notes were not re-verified.",
+  "Recomputing the overlap of each row with its seat spell in na_member_spells_15_22.csv reproduces every dual_office_start and dual_office_end, district and election party in the 20 rows. Shares are 1.0 except R0470 (8 of 596 days) and R0482 (25 of 336 days).",
+  "Minor wording point, no data change. The checker dates the 미래한국당 merger to 2020-05-28. The 미래한국당 article gives 2020-05-28 as the day the merger was declared and 2020-05-29 as the dissolution date. Either date precedes every dual interval in this group.",
+  "Rows R0510 (김민석) and R0516 (윤호중) rest on labelled articles from about four weeks (2025-06-04) and three weeks (2025-06-29) before dual_office_start, because narrower Naver windows returned no labelled article. For 김민석 the 더불어민주당 leadership table (party leader from 2026-08-17) brackets the date from the other side. Confidence stays high."
+ ]
+}

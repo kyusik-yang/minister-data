@@ -1,0 +1,5258 @@
+{
+ "meta": {
+  "title": "In-scope cabinet offices, South Korea, 1988-02-25 to 1998-02-27",
+  "scope": "국무총리 and every office whose head held 국무위원 status. Offices checked and found not to carry 국무위원 status are included with in_scope false.",
+  "window": {
+   "start": "1988-02-25",
+   "end": "1998-02-27",
+   "note": "1998-02-25 to 1998-02-27 overlaps offices.json on purpose. Offices that continue past 1998-02-27 are cut at the window end here."
+  },
+  "conventions": [
+   "from = first day under that name (effective date under the 부칙, fixed by the 직제 decree where the 부칙 says so) or the window start",
+   "to = last day under that name (day before the next effective date) or the window end",
+   "is_kukmuwiwon = the governing text says the head is a 국무위원 (행정각부 제29조②, express clauses for 원·처, 제17조② for 부총리, 제18조① for 정무장관)",
+   "legal_basis[].source and source_ids point to ids in 'sources' (URL, access time from shell `date`, snapshot path, sha256)",
+   "archives[] records the 국가기록원 existence period as an independent second source and says whether it agrees",
+   "Rule check. No two in-scope offices that existed on the same day share a lineage key (checked by the build script)"
+  ],
+  "built_by": "inventory_sources/1988/scripts/build_offices_1988.py"
+ },
+ "lineages": [
+  {
+   "key": "pm",
+   "names": "국무총리 (1988-02-25 to 1998-02-27)",
+   "hints": "헌법 제10호 took effect 1988-02-25 (부칙 제1조). 제86조① PM appointed with Assembly consent, same rule as 헌법 제9호. 부칙 제4조① deems officials in office on 1988-02-25 appointed under the new constitution, so the 전두환-era PM in office on 1988-02-24 needs no new appointment to continue. The PM 직무대행 order under 정부조직법 제22조 is the 부총리 (경제기획원장관) to 1990-12-26, then 경제기획원장관 부총리 and 통일원장관 부총리 in that order to 1994-12-22, then 재정경제원장관 부총리 and 통일원장관 부총리 from 1994-12-23. Acting PMs are not spells. None of the laws read here provides for a PM 서리, so 서리 periods come from roster sources.",
+   "is_new_key": false,
+   "existing_file": "roster/pm.verified.json",
+   "office_ids": [
+    "OFA01"
+   ]
+  },
+  {
+   "key": "epb",
+   "names": "경제기획원 (1988-02-25 to 1994-12-22)",
+   "hints": "New key. Every 경제기획원장관 held the 부총리 title ex officio (제17조③, 1인 to 1990-12-26, first of two from 1990-12-27). Abolished when 법률 제4831호's provisions took effect on 1994-12-23 with 대통령령 제14438호, which repealed 경제기획원직제, so the last day is 1994-12-22. 부칙 제2조① hands 경제기획원장관 and 재무부장관 duties to 재정경제원장관. Coexisted with 재무부 for its whole life. Also carried the budget function, which later becomes the budget lineage.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA02"
+   ]
+  },
+  {
+   "key": "finance",
+   "names": "재무부 (1988-02-25 to 1994-12-22), 재정경제원 (1994-12-23 to 1998-02-27)",
+   "hints": "재무부 to 1994-12-22, then 재정경제원 from 1994-12-23 (법률 제4831호, 대통령령 제14438호 repealed 재무부와그소속기관직제). 재무부장관 was never 부총리. 부총리 겸 재정경제원장관 from 1994-12-23 to 1998-02-27. Branch choice. Finance continues from 재무부 because 재무부's statutory list (제32조①, 화폐·금융·국채·정부회계·내국세제·관세·외국환·대외경제협력·국유재산·전매) is what 재정경제부 carries after 1998 (제27조①), while 경제기획원's budget function went to the budget lineage in 1998. Both ministries are named predecessors in 부칙 제2조①, and the act rewrote 경제기획원's article (제23조) as 재정경제원, so the choice rests on function, not text. To follow the economic 부총리, read epb then finance. The 재정경제원 holdover spell to 1998-02-27 is already in finance.verified.json.",
+   "is_new_key": false,
+   "existing_file": "roster/finance.verified.json",
+   "office_ids": [
+    "OFA14",
+    "OFA03"
+   ]
+  },
+  {
+   "key": "unification",
+   "names": "국토통일원 (1988-02-25 to 1990-12-26), 통일원 (1990-12-27 to 1998-02-27)",
+   "hints": "국토통일원 to 1990-12-26, 통일원 from 1990-12-27 (법률 제4268호, effective on promulgation, 부칙 제2조 deems staff transferred). 국토통일원장관 was not 부총리. 부총리 겸 통일원장관 from 1990-12-27 to 1998-02-27. The laws are silent on whether the sitting minister needed a new appointment at the rename.",
+   "is_new_key": false,
+   "existing_file": "roster/unification.verified.json",
+   "office_ids": [
+    "OFA04",
+    "OFA05"
+   ]
+  },
+  {
+   "key": "general_affairs",
+   "names": "총무처 (1988-02-25 to 1998-02-27)",
+   "hints": "New key. 총무처 (제24조③, 장관은 국무위원으로 보하고) for the whole window. Merged with 내무부 into 행정자치부 on 1998-02-28 (법률 제5529호 부칙 제3조① 표). Its 1998 holdover spell is filed under interior in interior.verified.json and needs the override.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA06"
+   ]
+  },
+  {
+   "key": "interior",
+   "names": "내무부 (1988-02-25 to 1998-02-27)",
+   "hints": "내무부 for the whole window, name unchanged. Coexisted with 총무처 (general_affairs) throughout.",
+   "is_new_key": false,
+   "existing_file": "roster/interior.verified.json",
+   "office_ids": [
+    "OFA13"
+   ]
+  },
+  {
+   "key": "science",
+   "names": "과학기술처 (1988-02-25 to 1998-02-27)",
+   "hints": "과학기술처 (제25조②) for the whole window. Becomes 과학기술부 on 1998-02-28.",
+   "is_new_key": false,
+   "existing_file": "roster/science.verified.json",
+   "office_ids": [
+    "OFA07"
+   ]
+  },
+  {
+   "key": "environment",
+   "names": "환경처 (1990-01-03 to 1994-12-22), 환경부 (1994-12-23 to 1998-02-27)",
+   "hints": "No 국무위원 office before 1990-01-03 (환경청 under 보건사회부, 청장 정무직). 환경처 from 1990-01-03 (법률 제4183호 부칙 제1조 단서 with 환경처직제 대통령령 제12899호, which repealed 환경청직제) to 1994-12-22. The 1989 text reads '장관은 국무위원으로 하고'. 환경부 (행정각부) from 1994-12-23.",
+   "is_new_key": false,
+   "existing_file": "roster/environment.verified.json",
+   "office_ids": [
+    "OFA08",
+    "OFA38"
+   ]
+  },
+  {
+   "key": "public_info",
+   "names": "공보처 (1990-01-03 to 1998-02-27)",
+   "hints": "New key. 공보처 from 1990-01-03 (법률 제4183호 부칙 제1조 단서, 공보처직제 대통령령 제12898호) to 1998-02-27. Took 문화공보부's 홍보·여론조사·언론·보도·방송 사무 (부칙 제2조). Broadcasting left its duty list on 1994-12-23. Abolished 1998-02-28, duties split between 문화관광부 and the PM's 공보실 (not 국무위원), so the lineage ends. Before 1990-01-03 the 공보 portfolio sat inside 문화공보부 (culture). Its 1998 holdover spell is filed under culture in culture.verified.json and needs the override.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA09"
+   ]
+  },
+  {
+   "key": "culture",
+   "names": "문화공보부 (1988-02-25 to 1990-01-02), 문화부 (1990-01-03 to 1993-03-05), 문화체육부 (1993-03-06 to 1998-02-27)",
+   "hints": "문화공보부 to 1990-01-02, 문화부 1990-01-03 to 1993-03-05, 문화체육부 from 1993-03-06. The 1990-01-03 split follows 법률 제4183호 부칙 제1조 단서 and 문화부직제 (대통령령 제12895호, which repealed 문화공보부직제). The 1993-03-06 merger with 체육청소년부 follows 법률 제4541호 and 대통령령 제13869호. Branch choice. 문화공보부 and 문화부 stay in culture because 문화부 replaced 문화공보부 in the 행정각부 list and leads to 문화체육부 and 문화관광부, while 공보처 (public_info) was a new 처 with no 국무위원 successor. Tourism moved in from 교통부 on 1994-12-23.",
+   "is_new_key": false,
+   "existing_file": "roster/culture.verified.json",
+   "office_ids": [
+    "OFA21",
+    "OFA22",
+    "OFA23"
+   ]
+  },
+  {
+   "key": "sports",
+   "names": "체육부 (1988-02-25 to 1990-12-26), 체육청소년부 (1990-12-27 to 1993-03-05)",
+   "hints": "New key. 체육부 to 1990-12-26, 체육청소년부 1990-12-27 to 1993-03-05 (rename by 법률 제4268호 on promulgation). 국가기록원 dates the rename 1991-02-01, the day 대통령령 제13284호 renamed the 직제, whose own 개정이유 cites the 1990-12-27 law. Merged into 문화체육부 on 1993-03-06. 부칙 제2조 of 법률 제4541호 excludes 정무직 from the staff transfer.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA19",
+    "OFA20"
+   ]
+  },
+  {
+   "key": "foreign",
+   "names": "외무부 (1988-02-25 to 1998-02-27)",
+   "hints": "외무부 for the whole window. Becomes 외교통상부 on 1998-02-28.",
+   "is_new_key": false,
+   "existing_file": "roster/foreign.verified.json",
+   "office_ids": [
+    "OFA12"
+   ]
+  },
+  {
+   "key": "justice",
+   "names": "법무부 (1988-02-25 to 1998-02-27)",
+   "hints": "법무부 for the whole window, unchanged.",
+   "is_new_key": false,
+   "existing_file": "roster/justice.verified.json",
+   "office_ids": [
+    "OFA15"
+   ]
+  },
+  {
+   "key": "defense",
+   "names": "국방부 (1988-02-25 to 1998-02-27)",
+   "hints": "국방부 for the whole window, unchanged.",
+   "is_new_key": false,
+   "existing_file": "roster/defense.verified.json",
+   "office_ids": [
+    "OFA16"
+   ]
+  },
+  {
+   "key": "education",
+   "names": "문교부 (1988-02-25 to 1990-12-26), 교육부 (1990-12-27 to 1998-02-27)",
+   "hints": "문교부 to 1990-12-26, 교육부 from 1990-12-27 (법률 제4268호 on promulgation, 부칙 제2조 and 제10조).",
+   "is_new_key": false,
+   "existing_file": "roster/education.verified.json",
+   "office_ids": [
+    "OFA17",
+    "OFA18"
+   ]
+  },
+  {
+   "key": "agriculture",
+   "names": "농림수산부 (1988-02-25 to 1996-08-07), 농림부 (1996-08-08 to 1998-02-27)",
+   "hints": "농림수산부 to 1996-08-07, 농림부 from 1996-08-08 (법률 제5153호 부칙 제1조 ties the date to the 해양수산부 직제, 대통령령 제15135호, and 농림부와그소속기관직제 대통령령 제15134호 took effect the same day). Fisheries went to 해양수산부.",
+   "is_new_key": false,
+   "existing_file": "roster/agriculture.verified.json",
+   "office_ids": [
+    "OFA24",
+    "OFA25"
+   ]
+  },
+  {
+   "key": "industry",
+   "names": "상공부 (1988-02-25 to 1993-03-05), 상공자원부 (1993-03-06 to 1994-12-22), 통상산업부 (1994-12-23 to 1998-02-27)",
+   "hints": "상공부 to 1993-03-05, 상공자원부 1993-03-06 to 1994-12-22, 통상산업부 from 1994-12-23. The 1993 merger of 상공부 and 동력자원부 follows 법률 제4541호 and 대통령령 제13870호, which repealed both 직제. Branch choice. Industry continues from 상공부 because the act retitled 상공부's article (제37조) and deleted 동력자원부's (제37조의2).",
+   "is_new_key": false,
+   "existing_file": "roster/industry.verified.json",
+   "office_ids": [
+    "OFA26",
+    "OFA28",
+    "OFA29"
+   ]
+  },
+  {
+   "key": "energy",
+   "names": "동력자원부 (1988-02-25 to 1993-03-05)",
+   "hints": "New key. 동력자원부 (제37조의2, 동력과 지하자원) to 1993-03-05, then merged into 상공자원부 (industry). No later 국무위원 office continues it on its own within the window.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA27"
+   ]
+  },
+  {
+   "key": "land",
+   "names": "건설부 (1988-02-25 to 1994-12-22), 건설교통부 (1994-12-23 to 1998-02-27)",
+   "hints": "건설부 to 1994-12-22, 건설교통부 from 1994-12-23 (법률 제4831호, 대통령령 제14447호 repealed both 직제). Branch choice. Land continues from 건설부 because 건설교통부's duty list opens with 건설부's 국토 functions and leads to 국토해양부 and 국토교통부. 해사 moved to 해양수산부 on 1996-08-08.",
+   "is_new_key": false,
+   "existing_file": "roster/land.verified.json",
+   "office_ids": [
+    "OFA30",
+    "OFA32"
+   ]
+  },
+  {
+   "key": "transport",
+   "names": "교통부 (1988-02-25 to 1994-12-22)",
+   "hints": "New key. 교통부 (육운·항공·해사와 관광) to 1994-12-22, then merged into 건설교통부 (land). Tourism went to 문화체육부 at the merger.",
+   "is_new_key": true,
+   "existing_file": null,
+   "office_ids": [
+    "OFA31"
+   ]
+  },
+  {
+   "key": "health",
+   "names": "보건사회부 (1988-02-25 to 1994-12-22), 보건복지부 (1994-12-23 to 1998-02-27)",
+   "hints": "보건사회부 to 1994-12-22, 보건복지부 from 1994-12-23 (법률 제4831호, 대통령령 제14446호).",
+   "is_new_key": false,
+   "existing_file": "roster/health.verified.json",
+   "office_ids": [
+    "OFA33",
+    "OFA34"
+   ]
+  },
+  {
+   "key": "labor",
+   "names": "노동부 (1988-02-25 to 1998-02-27)",
+   "hints": "노동부 for the whole window, unchanged.",
+   "is_new_key": false,
+   "existing_file": "roster/labor.verified.json",
+   "office_ids": [
+    "OFA35"
+   ]
+  },
+  {
+   "key": "ict",
+   "names": "체신부 (1988-02-25 to 1994-12-22), 정보통신부 (1994-12-23 to 1998-02-27)",
+   "hints": "체신부 to 1994-12-22, 정보통신부 from 1994-12-23 (법률 제4831호, 대통령령 제14445호).",
+   "is_new_key": false,
+   "existing_file": "roster/ict.verified.json",
+   "office_ids": [
+    "OFA36",
+    "OFA37"
+   ]
+  },
+  {
+   "key": "oceans",
+   "names": "해양수산부 (1996-08-08 to 1998-02-27)",
+   "hints": "해양수산부 from 1996-08-08 (법률 제5153호, 대통령령 제15135호). No 국무위원 predecessor, so the lineage starts on that day.",
+   "is_new_key": false,
+   "existing_file": "roster/oceans.verified.json",
+   "office_ids": [
+    "OFA39"
+   ]
+  },
+  {
+   "key": "special",
+   "names": "정무장관(제1) (1988-02-25 to 1998-02-27)",
+   "hints": "정무장관(제1) for the whole window. 정부조직법 제18조 allows two 정무장관 (원·부·처의 장관이 아닌 국무위원). 정무장관실직제 제2조 names them (제1) and (제2). From 1994-11-26 제2조② gives (제1) the 국회·정당 등 정치관련사무. Abolished 1998-02-28. The later 특임장관 in this key is linked by office type, not by legal succession. The (제2) post is in gender.",
+   "is_new_key": false,
+   "existing_file": "roster/special.verified.json",
+   "office_ids": [
+    "OFA10"
+   ]
+  },
+  {
+   "key": "gender",
+   "names": "정무장관(제2) (1988-02-25 to 1998-02-27)",
+   "hints": "정무장관(제2) for the whole window. Women's policy is tied to the post in decree texts from 1989-09-21 (대통령령 제12809호 개정이유), formally assigned on 1994-11-26 (제2조②, 대통령령 제14417호), and named in 여성발전기본법시행령 from 1996-07-01. On 1998-02-28 법률 제5529호 handed those duties to 여성특별위원회 (not 국무위원), which became 여성부 on 2001-01-29. Until 1989-09-21 the 직제 (제5조) suspended the (제2)실 three months after the post fell vacant, and 대통령령 제11239호 (1983-10-07) suspended it outright on that day, so the post may have been empty on 1988-02-25 and at other times. The portfolio of a (제2) holder before 1989-09-21 must come from roster sources. Its 1998 holdover spell is filed under special in special.verified.json and needs the override.",
+   "is_new_key": false,
+   "existing_file": "roster/gender.verified.json",
+   "office_ids": [
+    "OFA11"
+   ]
+  }
+ ],
+ "ministry_to_lineage_overrides": [
+  "총무처 -> general_affairs",
+  "공보처 -> public_info",
+  "정무장관(제2) -> gender"
+ ],
+ "offices_json_conflicts": [
+  {
+   "offices_json_id": "OF004",
+   "office": "총무처",
+   "offices_json_key": "interior",
+   "this_file_key": "general_affairs"
+  },
+  {
+   "offices_json_id": "OF006",
+   "office": "공보처",
+   "offices_json_key": null,
+   "this_file_key": "public_info"
+  },
+  {
+   "offices_json_id": "OF008",
+   "office": "정무장관(제2)",
+   "offices_json_key": "special",
+   "this_file_key": "gender"
+  }
+ ],
+ "keys_without_offices": [
+  {
+   "key": "budget",
+   "why": "Budget sat inside 경제기획원 (epb) to 1994-12-22 and 재정경제원 (finance) from 1994-12-23. No separate office in the window."
+  },
+  {
+   "key": "sme",
+   "why": "중소기업청 (1996-02-09 onward) head was not a 국무위원."
+  },
+  {
+   "key": "veterans",
+   "why": "국가보훈처 head was 장관급 but not a 국무위원 (제28조②, 제13조①)."
+  },
+  {
+   "key": "safety",
+   "why": "No such office before 2014."
+  }
+ ],
+ "offices": [
+  {
+   "office": "국무총리",
+   "office_type": "국무총리",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": false,
+   "in_scope": true,
+   "lineage_key": "pm",
+   "legal_basis": [
+    {
+     "law": "대한민국헌법",
+     "law_no": "헌법 제10호 (전부개정)",
+     "promulgated": "1987-10-29",
+     "effective": "1988-02-25",
+     "provisions": "제86조① 국회의 동의를 얻어 대통령이 임명, 제88조②③ (국무회의는 대통령·국무총리와 국무위원으로 구성, 국무총리는 부의장), 부칙 제4조① (시행 당시의 공무원은 이 헌법에 의하여 임명된 것으로 본다)",
+     "role": "constitutional office",
+     "source": "CONST10"
+    },
+    {
+     "law": "대한민국헌법",
+     "law_no": "헌법 제9호 (전부개정)",
+     "promulgated": "1980-10-27",
+     "effective": "1980-10-27",
+     "provisions": "국무총리는 국회의 동의를 얻어 대통령이 임명한다 (same rule as 제10호)",
+     "role": "governs holdovers appointed before 1988-02-25",
+     "source": "CONST9"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제22조 (국무총리의 직무대행은 부총리, 부총리가 없을 때에는 경제기획원장관)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제22조 (직무대행 순서는 경제기획원장관이 겸임하는 부총리, 통일원장관이 겸임하는 부총리)",
+     "role": "changes acting order",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제22조 (직무대행 순서는 재정경제원장관이 겸임하는 부총리, 통일원장관이 겸임하는 부총리)",
+     "role": "changes acting order",
+     "source": "GOA_4831"
+    }
+   ],
+   "successor": [
+    "국무총리 (continues, offices.json OF001)"
+   ],
+   "notes": "The PM is a member and vice chair of the 국무회의 but not a 국무위원 (헌법 제88조②③). In scope by design. Acting PMs under 정부조직법 제22조 are not spells.",
+   "deputy_pm_title": [],
+   "predecessor": [],
+   "archives": [],
+   "office_id": "OFA01",
+   "source_ids": [
+    "CONST10",
+    "CONST9",
+    "GOA_3854",
+    "GOA_4268",
+    "GOA_4831"
+   ],
+   "source_urls": [
+    {
+     "id": "CONST10",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=61603&efYd=19880225",
+     "accessed": "2026-09-25T06:56:47-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/other/constitution_text_19880225_61603.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&efYd=19880225"
+    },
+    {
+     "id": "CONST9",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=53088&efYd=19801027",
+     "accessed": "2026-09-26T08:39:57-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/other/constitution/text_19801027_53088.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53088&efYd=19801027"
+    },
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    }
+   ]
+  },
+  {
+   "office": "경제기획원",
+   "office_type": "원 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "is_kukmuwiwon": true,
+   "lineage_key": "epb",
+   "lineage_note": "Also held the budget function (예산의 편성 및 그 집행의 관리, 제23조①), which is the origin of the budget lineage. No separate budget office existed in the window.",
+   "deputy_pm_title": [
+    {
+     "title": "부총리 겸 경제기획원장관",
+     "from": "1988-02-25",
+     "to": "1994-12-22",
+     "legal_basis": "제17조 (1987 version, 부총리 1인을 둘 수 있다, 부총리는 경제기획원장관이 겸임한다. From 1990-12-27 부총리 2인, 경제기획원장관과 통일원장관이 각각 겸임)",
+     "source": "GOA_3854"
+    }
+   ],
+   "predecessor": [
+    "in existence before the window (1961 per 국가기록원)"
+   ],
+   "successor": [
+    "재정경제원 (1994-12-23, 법률 제4831호 부칙 제2조① reads 경제기획원장관 및 재무부장관의 소관사무는 재정경제원장관이 승계)",
+    "행정조정실 (기획조정·심사평가 기능, 법률 제4831호 제개정이유④, 실장 정무직, not 국무위원)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제17조 (부총리), 제23조② (경제기획원, 장관은 국무위원으로 보하고)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제17조①③ (부총리 2인)",
+     "role": "second 부총리 added, EPB keeps the first",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제23조 rewritten as 재정경제원, 제17조③, 부칙 제2조①",
+     "role": "abolishes (merged with 재무부 into 재정경제원)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "재정경제원과그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14438호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "부칙 제2조 (경제기획원직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_14438"
+    }
+   ],
+   "in_scope": true,
+   "notes": "",
+   "archives": [
+    {
+     "source": "ARCH_OG0015972",
+     "name": "경제기획원",
+     "existence": "1961.07.22 ~ 1994.12.23",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA02",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4268",
+    "GOA_4831",
+    "DEC_14438",
+    "ARCH_OG0015972"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14438",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=27908&efYd=19941223",
+     "accessed": "2026-09-26T08:37:26-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_27908.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=27908&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0015972",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0015972",
+     "accessed": "2026-09-26T08:42:39-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0015972.html"
+    }
+   ]
+  },
+  {
+   "office": "재정경제원",
+   "office_type": "원 (국무총리 소속)",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "finance",
+   "lineage_note": "Also held the budget function until 1998-02-27 (lineage_overlaps).",
+   "deputy_pm_title": [
+    {
+     "title": "부총리 겸 재정경제원장관",
+     "from": "1994-12-23",
+     "to": "1998-02-27",
+     "legal_basis": "제17조③ as amended by 법률 제4831호 (부총리는 재정경제원장관과 통일원장관이 각각 겸임한다)",
+     "source": "GOA_4831"
+    }
+   ],
+   "predecessor": [
+    "경제기획원 (epb)",
+    "재무부 (finance)"
+   ],
+   "successor": [
+    "재정경제부 (1998-02-28, 제27조① 사무 per 부칙 제3조① 표)",
+    "기획예산위원회 (제17조① 사무)",
+    "예산청 (제27조③ 사무)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제23조 (재정경제원, 장관은 국무위원으로 보하고), 제17조③, 부칙 제2조①",
+     "role": "establishes",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "재정경제원과그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14438호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "제정, 부칙 제1조 (공포한 날부터 시행)",
+     "role": "sets the effective date",
+     "source": "DEC_14438"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제17조, 제23조",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제27조, 부칙 제3조① 표",
+     "role": "abolishes (부총리제 폐지, 재정경제원을 재정경제부로 개편)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Same office as offices.json OF002 for 1998-02-25..1998-02-27.",
+   "in_scope": true,
+   "archives": [
+    {
+     "source": "ARCH_OG0015944",
+     "name": "재정경제원",
+     "existence": "1994.12.23 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA03",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14438",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0015944"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14438",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=27908&efYd=19941223",
+     "accessed": "2026-09-26T08:37:26-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_27908.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=27908&efYd=19941223"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0015944",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0015944",
+     "accessed": "2026-09-26T08:48:04-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0015944.html"
+    }
+   ]
+  },
+  {
+   "office": "국토통일원",
+   "office_type": "원 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "is_kukmuwiwon": true,
+   "lineage_key": "unification",
+   "predecessor": [
+    "in existence before the window (1969 per 국가기록원)"
+   ],
+   "successor": [
+    "통일원 (rename, 법률 제4268호 부칙 제2조 deems 국토통일원 staff 통일원 staff)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제26조② (국토통일원, 장관은 국무위원으로 보하고)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제23조의2 신설, 제26조 삭제, 부칙 제2조, 제10조",
+     "role": "renames to 통일원",
+     "source": "GOA_4268"
+    }
+   ],
+   "notes": "Its minister was not a 부총리.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016466",
+     "name": "국토통일원",
+     "existence": "1969.01.29 ~ 1990.12.27",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA04",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4268",
+    "ARCH_OG0016466"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "ARCH_OG0016466",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016466",
+     "accessed": "2026-09-26T08:48:37-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016466.html"
+    }
+   ]
+  },
+  {
+   "office": "통일원",
+   "office_type": "원 (국무총리 소속)",
+   "from": "1990-12-27",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "unification",
+   "deputy_pm_title": [
+    {
+     "title": "부총리 겸 통일원장관",
+     "from": "1990-12-27",
+     "to": "1998-02-27",
+     "legal_basis": "제17조①③ as amended by 법률 제4268호 (부총리 2인, 경제기획원장관과 통일원장관이 각각 겸임), kept by 법률 제4831호",
+     "source": "GOA_4268"
+    }
+   ],
+   "predecessor": [
+    "국토통일원"
+   ],
+   "successor": [
+    "통일부 (1998-02-28, 부칙 제3조① 표)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제23조의2 (통일원, 장관은 국무위원으로 보하고), 제17조",
+     "role": "establishes (rename) and makes its minister 부총리",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제17조, 제23조의2",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제28조, 부칙 제3조① 표",
+     "role": "abolishes (통일원을 통일부로 개편)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Same office as offices.json OF003 for 1998-02-25..1998-02-27.",
+   "in_scope": true,
+   "archives": [
+    {
+     "source": "ARCH_OG0016126",
+     "name": "통일원",
+     "existence": "1990.12.27 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA05",
+   "source_ids": [
+    "GOA_4268",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0016126"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016126",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016126",
+     "accessed": "2026-09-26T08:49:12-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016126.html"
+    }
+   ]
+  },
+  {
+   "office": "총무처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "general_affairs",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "행정자치부 (1998-02-28, merged with 내무부, 부칙 제3조① 표)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제24조③ (총무처, 장관은 국무위원으로 보하고)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제24조③ (unchanged)",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제32조, 부칙 제3조① 표",
+     "role": "abolishes (총무처와 내무부를 행정자치부로 통합)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Coexisted with 내무부 for the whole window, so it cannot share the interior key. offices.json OF004 files it under interior for 1998-02-25..27.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016183",
+     "name": "총무처",
+     "existence": "1963.12.17 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA06",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0016183"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016183",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016183",
+     "accessed": "2026-09-26T08:50:06-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016183.html"
+    }
+   ]
+  },
+  {
+   "office": "과학기술처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "science",
+   "predecessor": [
+    "in existence before the window (1967 per 국가기록원)"
+   ],
+   "successor": [
+    "과학기술부 (1998-02-28, 부칙 제3조① 표)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제25조② (과학기술처, 장관은 국무위원으로 보하고)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제25조② (unchanged)",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제34조, 부칙 제3조① 표",
+     "role": "abolishes (과학기술처를 과학기술부로 개편)",
+     "source": "GOA_5529"
+    }
+   ],
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "notes": "",
+   "archives": [
+    {
+     "source": "ARCH_OG0016436",
+     "name": "과학기술처",
+     "existence": "1967.03.30 ~ 1998.02.27",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA07",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0016436"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016436",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016436",
+     "accessed": "2026-09-26T08:51:57-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016436.html"
+    }
+   ]
+  },
+  {
+   "office": "환경처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1990-01-03",
+   "to": "1994-12-22",
+   "is_kukmuwiwon": true,
+   "lineage_key": "environment",
+   "predecessor": [
+    "환경청 (보건사회부장관 소속, 청장 정무직, not 국무위원. 법률 제4183호 부칙 제2조 reads 환경청장의 소관사무는 환경처장관이 승계)"
+   ],
+   "successor": [
+    "환경부 (1994-12-23, 법률 제4831호 부칙 제2조①)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4183호",
+     "promulgated": "1989-12-30",
+     "effective": "1990-01-03 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제12895호·제12898호·제12899호)",
+     "provisions": "제26조의2② (환경처, 장관은 국무위원으로 하고), 부칙 제1조 단서, 제2조",
+     "role": "establishes",
+     "source": "GOA_4183"
+    },
+    {
+     "law": "환경처직제 (대통령령)",
+     "law_no": "대통령령 제12899호",
+     "promulgated": "1990-01-03",
+     "effective": "1990-01-03",
+     "provisions": "제정, 부칙 제2조 (환경청직제 폐지)",
+     "role": "sets the effective date",
+     "source": "DEC_12899"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제26조 (renumbered, text unchanged)",
+     "role": "renumbers",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제26조 삭제, 제29조①, 제38조의2 (환경부)",
+     "role": "abolishes (환경처를 환경부로 개편)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "환경부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14450호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "환경처와그소속기관직제 개정",
+     "role": "sets the effective date",
+     "source": "DEC_14450"
+    }
+   ],
+   "notes": "The 1989 text reads '장관은 국무위원으로 하고' where the other articles read '보하고'. 제개정이유⑥ of 법률 제4183호 reads '환경청을 환경처(國務委員)로 개편함'.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016486",
+     "name": "환경처",
+     "existence": "1990.01.03 ~ 1994.12.22",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA08",
+   "source_ids": [
+    "GOA_4183",
+    "DEC_12899",
+    "GOA_4268",
+    "GOA_4831",
+    "DEC_14450",
+    "ARCH_OG0016486"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4183",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+     "accessed": "2026-09-26T08:33:45-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+    },
+    {
+     "id": "DEC_12899",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34638&efYd=19900103",
+     "accessed": "2026-09-26T08:37:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_34638.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34638&efYd=19900103"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14450",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34749&efYd=19941223",
+     "accessed": "2026-09-26T08:37:30-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_34749.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34749&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0016486",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016486",
+     "accessed": "2026-09-26T08:51:58-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016486.html"
+    }
+   ]
+  },
+  {
+   "office": "공보처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1990-01-03",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "public_info",
+   "predecessor": [
+    "문화공보부 (culture. 법률 제4183호 부칙 제2조 reads 홍보·여론조사·언론·보도와 방송에 관한 사무는 공보처장관이 승계)"
+   ],
+   "successor": [
+    "문화관광부 (1998-02-28, 방송행정·출판·간행물·해외홍보 사무, 부칙 제3조① 표)",
+    "공보실 (국무총리 밑, 제22조, 실장 not 국무위원)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4183호",
+     "promulgated": "1989-12-30",
+     "effective": "1990-01-03 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제12895호·제12898호·제12899호)",
+     "provisions": "제26조의3② (공보처, 장관은 국무위원으로 보하고), 부칙 제1조 단서, 제2조",
+     "role": "establishes",
+     "source": "GOA_4183"
+    },
+    {
+     "law": "공보처직제 (대통령령)",
+     "law_no": "대통령령 제12898호",
+     "promulgated": "1990-01-03",
+     "effective": "1990-01-03",
+     "provisions": "제정, 부칙 제1조",
+     "role": "sets the effective date",
+     "source": "DEC_12898"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제26조의2 (renumbered)",
+     "role": "renumbers",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제26조의2① (방송 dropped from its remit)",
+     "role": "narrows duties",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제22조 (공보실), 제35조, 부칙 제3조",
+     "role": "abolishes (공보처를 폐지)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "No post-1998 국무위원 successor (국정홍보처 1999-2008 was not a 국무위원 office, see offices.json). Same office as offices.json OF006, which has no lineage key.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016597",
+     "name": "공보처",
+     "existence": "1990.01.03 ~ 1998.02.27",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA09",
+   "source_ids": [
+    "GOA_4183",
+    "DEC_12898",
+    "GOA_4268",
+    "GOA_4831",
+    "GOA_5529",
+    "ARCH_OG0016597"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4183",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+     "accessed": "2026-09-26T08:33:45-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+    },
+    {
+     "id": "DEC_12898",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=10811&efYd=19900103",
+     "accessed": "2026-09-26T08:37:18-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_10811.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=10811&efYd=19900103"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016597",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016597",
+     "accessed": "2026-09-26T08:52:06-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016597.html"
+    }
+   ]
+  },
+  {
+   "office": "정무장관(제1)",
+   "office_type": "정무장관 (원·부·처의 장관이 아닌 국무위원)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "special",
+   "predecessor": [
+    "무임소장관 (1981 정무장관실직제 부칙 제3조 reads 무임소장관실 직원은 정무장관(제1)실 소속직원으로 본다), before the window"
+   ],
+   "successor": [
+    "none. 법률 제5529호 has no 정무장관 provision. 정무장관실 staff went to 행정자치부 (부칙 제3조② 표)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제18조① (원·부·처의 장관이 아닌 국무위원, 그 수는 2인이내)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제12142호",
+     "promulgated": "1987-04-23",
+     "effective": "1987-04-23",
+     "provisions": "제2조 (호칭 정무장관(제1)·(제2))",
+     "role": "names the post, in force on 1988-02-25",
+     "source": "PMO_12142"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제14417호",
+     "promulgated": "1994-11-26",
+     "effective": "1994-11-26",
+     "provisions": "제2조② (국회·정당등 정치관련사무는 정무장관(제1))",
+     "role": "assigns the portfolio",
+     "source": "PMO_14417"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제18조 (unchanged)",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "no 정무장관 article, 부칙 제3조② 표",
+     "role": "abolishes",
+     "source": "GOA_5529"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제15715호",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "타법폐지",
+     "role": "repeals the 직제",
+     "source": "PMO_15715"
+    }
+   ],
+   "notes": "The existing special key also holds 특임장관 (2008-2013). That link is by office type (a 국무위원 without a ministry), not by legal succession, because nothing existed between 1998-02-28 and 2008-02-28.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [],
+   "office_id": "OFA10",
+   "source_ids": [
+    "GOA_3854",
+    "PMO_12142",
+    "PMO_14417",
+    "GOA_5153",
+    "GOA_5529",
+    "PMO_15715"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "PMO_12142",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26266&efYd=19870423",
+     "accessed": "2026-09-26T08:37:36-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19870423_26266.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26266&efYd=19870423"
+    },
+    {
+     "id": "PMO_14417",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26391&efYd=19941126",
+     "accessed": "2026-09-26T08:37:43-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941126_26391.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26391&efYd=19941126"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "PMO_15715",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26397&efYd=19980228",
+     "accessed": "2026-09-25T06:45:39-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19980228_26397.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26397&efYd=19980228"
+    }
+   ]
+  },
+  {
+   "office": "정무장관(제2)",
+   "office_type": "정무장관 (원·부·처의 장관이 아닌 국무위원)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": true,
+   "lineage_key": "gender",
+   "predecessor": [
+    "정무장관(제3) staff moved to the (제2)실 in 1982 (대통령령 제10767호 부칙 제3조, cited in the 정무장관실직제 text), before the window"
+   ],
+   "successor": [
+    "여성특별위원회 (1998-02-28, 대통령 소속, 위원장 정무직, not 국무위원). 법률 제5529호 부칙 제5조<33> rewrote 여성발전기본법 제36조 so that the duties the 시행령 had given to 정무장관(제2) pass to 여성특별위원회, which became 여성부 on 2001-01-29 (offices.json)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제18조① (원·부·처의 장관이 아닌 국무위원, 그 수는 2인이내)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제12142호",
+     "promulgated": "1987-04-23",
+     "effective": "1987-04-23",
+     "provisions": "제2조 (호칭), 제5조 ((제2)실 운영정지 3월 after vacancy)",
+     "role": "names the post, in force on 1988-02-25",
+     "source": "PMO_12142"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제12809호",
+     "promulgated": "1989-09-21",
+     "effective": "1989-09-21",
+     "provisions": "개정이유 (여성정책기능의 강화를 위하여 정무장관(제2)실에 인력 증원), 제5조 삭제",
+     "role": "first decree text that ties the post to 여성정책",
+     "source": "PMO_12809"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제14417호",
+     "promulgated": "1994-11-26",
+     "effective": "1994-11-26",
+     "provisions": "제2조② (여성정책관련사무는 정무장관(제2))",
+     "role": "assigns the portfolio",
+     "source": "PMO_14417"
+    },
+    {
+     "law": "여성발전기본법시행령 (대통령령)",
+     "law_no": "대통령령 제15099호 (제정)",
+     "promulgated": "1996-06-29",
+     "effective": "1996-07-01",
+     "provisions": "제3조, 제4조 등 (정무장관(제2)이 여성정책기본계획 작성 등)",
+     "role": "statutory duties",
+     "source": "WDA_DEC_15099"
+    },
+    {
+     "law": "여성발전기본법",
+     "law_no": "법률 제5529호 부칙 제5조<33> (타법개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제36조 (사무처리기관은 여성특별위원회)",
+     "role": "transfers the duties",
+     "source": "WDA_5529"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "no 정무장관 article, 제18조 (여성특별위원회)",
+     "role": "abolishes",
+     "source": "GOA_5529"
+    },
+    {
+     "law": "정무장관실직제 (대통령령)",
+     "law_no": "대통령령 제15715호",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "타법폐지",
+     "role": "repeals the 직제",
+     "source": "PMO_15715"
+    }
+   ],
+   "notes": "Coexisted with 정무장관(제1), so it cannot share the special key. Before 1989-09-21 no decree text names its portfolio. Until 1989-09-21 제5조 of the 직제 suspended the (제2)실 three months after the post fell vacant, and 대통령령 제11239호 부칙② suspended it on 1983-10-07, so vacancies are possible (including at the window start) and must come from the roster.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [],
+   "office_id": "OFA11",
+   "source_ids": [
+    "GOA_3854",
+    "PMO_12142",
+    "PMO_12809",
+    "PMO_14417",
+    "WDA_DEC_15099",
+    "WDA_5529",
+    "GOA_5529",
+    "PMO_15715"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "PMO_12142",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26266&efYd=19870423",
+     "accessed": "2026-09-26T08:37:36-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19870423_26266.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26266&efYd=19870423"
+    },
+    {
+     "id": "PMO_12809",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26270&efYd=19890921",
+     "accessed": "2026-09-26T08:37:39-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19890921_26270.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26270&efYd=19890921"
+    },
+    {
+     "id": "PMO_14417",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26391&efYd=19941126",
+     "accessed": "2026-09-26T08:37:43-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941126_26391.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26391&efYd=19941126"
+    },
+    {
+     "id": "WDA_DEC_15099",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=21284&efYd=19960701",
+     "accessed": "2026-09-26T08:38:15-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/other/women_dev_act_text_19960701_21284.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21284&efYd=19960701"
+    },
+    {
+     "id": "WDA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=909&efYd=19980228",
+     "accessed": "2026-09-26T08:38:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/other/women_dev_act_text_19980228_909.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=909&efYd=19980228"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "PMO_15715",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26397&efYd=19980228",
+     "accessed": "2026-09-25T06:45:39-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19980228_26397.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26397&efYd=19980228"
+    }
+   ]
+  },
+  {
+   "office": "외무부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "foreign",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "외교통상부 (1998-02-28)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제30조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제29조, 부칙 제3조① 표",
+     "role": "abolishes (외무부를 외교통상부로 개편)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016832",
+     "name": "외무부",
+     "existence": "1948.07.17 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA12",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5529",
+    "ARCH_OG0016832"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016832",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016832",
+     "accessed": "2026-09-26T08:52:22-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016832.html"
+    }
+   ]
+  },
+  {
+   "office": "내무부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "interior",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "행정자치부 (1998-02-28, with 총무처)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제31조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제32조, 부칙 제3조① 표",
+     "role": "abolishes (총무처와 내무부를 행정자치부로 통합)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Name unchanged in the window. 법률 제4268호 moved 치안 to a 경찰청 under 내무부 (law.go.kr gives 1991-07-31 for those provisions), with no cabinet effect.",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0016867",
+     "name": "내무부",
+     "existence": "1948.07.17 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA13",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5529",
+    "ARCH_OG0016867"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0016867",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016867",
+     "accessed": "2026-09-26T08:52:24-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016867.html"
+    }
+   ]
+  },
+  {
+   "office": "재무부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "finance",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "재정경제원 (1994-12-23)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제32조① (화폐·금융·국채·정부회계·내국세제와 관세·외국환 및 대외경제협력·국유재산과 전매)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제32조 삭제, 부칙 제2조①",
+     "role": "abolishes (merged with 경제기획원 into 재정경제원)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "재정경제원과그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14438호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "부칙 제2조 (재무부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_14438"
+    }
+   ],
+   "notes": "Its minister was never 부총리.",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017062",
+     "name": "재무부",
+     "existence": "1948.07.17 ~ 1994.12.23",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA14",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4831",
+    "DEC_14438",
+    "ARCH_OG0017062"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14438",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=27908&efYd=19941223",
+     "accessed": "2026-09-26T08:37:26-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_27908.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=27908&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0017062",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017062",
+     "accessed": "2026-09-26T08:45:22-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017062.html"
+    }
+   ]
+  },
+  {
+   "office": "법무부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "justice",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF013)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제33조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제33조",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0001524",
+     "name": "법무부",
+     "existence": "1948.07.17 ~ present",
+     "status": "존재",
+     "check": "window-internal, no boundary to check"
+    }
+   ],
+   "office_id": "OFA15",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "ARCH_OG0001524"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0001524",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0001524",
+     "accessed": "2026-09-26T08:52:27-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0001524.html"
+    }
+   ]
+  },
+  {
+   "office": "국방부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "defense",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF014)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제34조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제34조",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0002302",
+     "name": "국방부",
+     "existence": "1948.07.17 ~ present",
+     "status": "존재",
+     "check": "window-internal, no boundary to check"
+    }
+   ],
+   "office_id": "OFA16",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "ARCH_OG0002302"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0002302",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0002302",
+     "accessed": "2026-09-26T08:52:29-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0002302.html"
+    }
+   ]
+  },
+  {
+   "office": "문교부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "education",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "교육부 (rename)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제29조①, 제35조, 부칙 제2조, 제10조",
+     "role": "renames to 교육부",
+     "source": "GOA_4268"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017159",
+     "name": "문교부",
+     "existence": "1948.07.17 ~ 1990.12.26",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA17",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4268",
+    "ARCH_OG0017159"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "ARCH_OG0017159",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017159",
+     "accessed": "2026-09-26T08:40:27-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017159.html"
+    }
+   ]
+  },
+  {
+   "office": "교육부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "education",
+   "predecessor": [
+    "문교부"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF015)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조 (교육부)",
+     "role": "establishes (rename)",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    }
+   ],
+   "notes": "",
+   "from": "1990-12-27",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0003530",
+     "name": "교육부",
+     "existence": "1990.12.27 ~ 2001.01.28",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA18",
+   "source_ids": [
+    "GOA_4268",
+    "GOA_5153",
+    "ARCH_OG0003530"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0003530",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0003530",
+     "accessed": "2026-09-26T08:52:33-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0003530.html"
+    }
+   ]
+  },
+  {
+   "office": "체육부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "sports",
+   "predecessor": [
+    "in existence before the window (1982-03-20 per 국가기록원)"
+   ],
+   "successor": [
+    "체육청소년부 (rename)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조의2",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제29조①, 제35조의3, 부칙 제2조, 제10조",
+     "role": "renames to 체육청소년부",
+     "source": "GOA_4268"
+    }
+   ],
+   "notes": "국가기록원 dates the change to 1991-02-01, the day 대통령령 제13284호 renamed the 직제. The statute took effect 1990-12-27 and that decree's own 개정이유 cites the 1990-12-27 law. This inventory uses the statutory date.",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017482",
+     "name": "체육부",
+     "existence": "1982.03.20 ~ 1991.01.31",
+     "status": "폐지",
+     "check": "end differs (1991-01-31 vs 1990-12-26)"
+    }
+   ],
+   "office_id": "OFA19",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4268",
+    "ARCH_OG0017482"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "ARCH_OG0017482",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017482",
+     "accessed": "2026-09-26T08:52:15-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017482.html"
+    }
+   ]
+  },
+  {
+   "office": "체육청소년부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "sports",
+   "predecessor": [
+    "체육부"
+   ],
+   "successor": [
+    "문화체육부 (1993-03-06)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4268호",
+     "promulgated": "1990-12-27",
+     "effective": "1990-12-27 (부칙 제1조 본문)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조의3 (체육청소년부)",
+     "role": "establishes (rename)",
+     "source": "GOA_4268"
+    },
+    {
+     "law": "체육청소년부직제 (대통령령)",
+     "law_no": "대통령령 제13284호",
+     "promulgated": "1991-02-01",
+     "effective": "1991-02-01",
+     "provisions": "직제 renamed",
+     "role": "decree follows the statute",
+     "source": "DEC_13284"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조①, 제35조의2, 제35조의3 삭제, 부칙 제2조",
+     "role": "abolishes (merged with 문화부 into 문화체육부, 정무직 excluded from the staff transfer)",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "문화체육부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13869호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "부칙 제2조 (체육청소년부직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_13869"
+    }
+   ],
+   "notes": "Coexisted with 문화부 from 1990-12-27 to 1993-03-05, so it cannot share the culture key.",
+   "from": "1990-12-27",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017495",
+     "name": "체육청소년부",
+     "existence": "1991.02.01 ~ 1993.03.05",
+     "status": "폐지",
+     "check": "start differs (1991-02-01 vs 1990-12-27) and end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA20",
+   "source_ids": [
+    "GOA_4268",
+    "DEC_13284",
+    "GOA_4541",
+    "DEC_13869",
+    "ARCH_OG0017495"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4268",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+     "accessed": "2026-09-26T08:33:46-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+    },
+    {
+     "id": "DEC_13284",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=31885&efYd=19910201",
+     "accessed": "2026-09-26T08:54:39-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19910201_31885.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=31885&efYd=19910201"
+    },
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13869",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18831&efYd=19930306",
+     "accessed": "2026-09-26T08:37:21-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_18831.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306"
+    },
+    {
+     "id": "ARCH_OG0017495",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017495",
+     "accessed": "2026-09-26T08:52:17-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017495.html"
+    }
+   ]
+  },
+  {
+   "office": "문화공보부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "culture",
+   "predecessor": [
+    "in existence before the window (1968 per 국가기록원)"
+   ],
+   "successor": [
+    "문화부 (문화와 예술)",
+    "공보처 (홍보·여론조사·언론·보도와 방송) (public_info)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제42조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4183호",
+     "promulgated": "1989-12-30",
+     "effective": "1990-01-03 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제12895호·제12898호·제12899호)",
+     "provisions": "제29조① (문화공보부 삭제), 부칙 제2조",
+     "role": "abolishes (split into 문화부 and 공보처)",
+     "source": "GOA_4183"
+    },
+    {
+     "law": "문화부직제 (대통령령)",
+     "law_no": "대통령령 제12895호",
+     "promulgated": "1990-01-03",
+     "effective": "1990-01-03",
+     "provisions": "부칙 제2조 (문화공보부직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_12895"
+    }
+   ],
+   "notes": "Branch choice. Culture continues through 문화부, which took 문화공보부's place in the 행정각부 list (제29조①) and leads to 문화체육부 and 문화관광부. 공보처 was a new 처 with no 국무위원 successor after 1998.",
+   "from": "1988-02-25",
+   "to": "1990-01-02",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0019302",
+     "name": "문화공보부",
+     "existence": "1968.07.24 ~ 1990.01.02",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    },
+    {
+     "source": "ARCH_OG0022497",
+     "name": "문화공보부",
+     "existence": "1968.07.24 ~ 1990.01.02",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA21",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4183",
+    "DEC_12895",
+    "ARCH_OG0019302",
+    "ARCH_OG0022497"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4183",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+     "accessed": "2026-09-26T08:33:45-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+    },
+    {
+     "id": "DEC_12895",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18823&efYd=19900103",
+     "accessed": "2026-09-26T08:37:19-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_18823.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103"
+    },
+    {
+     "id": "ARCH_OG0019302",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0019302",
+     "accessed": "2026-09-26T08:52:10-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0019302.html"
+    },
+    {
+     "id": "ARCH_OG0022497",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0022497",
+     "accessed": "2026-09-26T08:52:11-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0022497.html"
+    }
+   ]
+  },
+  {
+   "office": "문화부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "culture",
+   "predecessor": [
+    "문화공보부"
+   ],
+   "successor": [
+    "문화체육부 (1993-03-06)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4183호",
+     "promulgated": "1989-12-30",
+     "effective": "1990-01-03 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제12895호·제12898호·제12899호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조의2 (문화부)",
+     "role": "establishes",
+     "source": "GOA_4183"
+    },
+    {
+     "law": "문화부직제 (대통령령)",
+     "law_no": "대통령령 제12895호",
+     "promulgated": "1990-01-03",
+     "effective": "1990-01-03",
+     "provisions": "폐지제정",
+     "role": "sets the effective date",
+     "source": "DEC_12895"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조①, 제35조의2, 부칙 제2조",
+     "role": "abolishes (merged with 체육청소년부 into 문화체육부)",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "문화체육부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13869호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "부칙 제2조 (문화부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_13869"
+    }
+   ],
+   "notes": "",
+   "from": "1990-01-03",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017254",
+     "name": "문화부",
+     "existence": "1990.01.03 ~ 1993.03.05",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA22",
+   "source_ids": [
+    "GOA_4183",
+    "DEC_12895",
+    "GOA_4541",
+    "DEC_13869",
+    "ARCH_OG0017254"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4183",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+     "accessed": "2026-09-26T08:33:45-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+    },
+    {
+     "id": "DEC_12895",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18823&efYd=19900103",
+     "accessed": "2026-09-26T08:37:19-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_18823.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103"
+    },
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13869",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18831&efYd=19930306",
+     "accessed": "2026-09-26T08:37:21-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_18831.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306"
+    },
+    {
+     "id": "ARCH_OG0017254",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017254",
+     "accessed": "2026-09-26T08:52:13-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017254.html"
+    }
+   ]
+  },
+  {
+   "office": "문화체육부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "culture",
+   "predecessor": [
+    "문화부 (culture)",
+    "체육청소년부 (sports)"
+   ],
+   "successor": [
+    "문화관광부 (1998-02-28)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제35조의2 (문화체육부), 부칙 제2조",
+     "role": "establishes",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "문화체육부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13869호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "제정",
+     "role": "sets the effective date",
+     "source": "DEC_13869"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제35조의2① (관광 added from 교통부)",
+     "role": "adds tourism",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제35조, 부칙 제3조① 표",
+     "role": "abolishes (renamed 문화관광부)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Branch choice. Culture continues from 문화부 (the 1993 act rewrote 제35조의2, the 문화부 article, as 문화체육부 and deleted 제35조의3, the 체육청소년부 article). Same office as offices.json OF011 for 1998-02-25..27.",
+   "from": "1993-03-06",
+   "to": "1998-02-27",
+   "lineage_note": "Also holds the sports lineage's functions from 1993-03-06.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017326",
+     "name": "문화체육부",
+     "existence": "1993.03.06 ~ 1998.02.27",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA23",
+   "source_ids": [
+    "GOA_4541",
+    "DEC_13869",
+    "GOA_4831",
+    "GOA_5529",
+    "ARCH_OG0017326"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13869",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18831&efYd=19930306",
+     "accessed": "2026-09-26T08:37:21-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_18831.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0017326",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017326",
+     "accessed": "2026-09-26T08:52:19-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017326.html"
+    }
+   ]
+  },
+  {
+   "office": "농림수산부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "agriculture",
+   "predecessor": [
+    "농수산부 (renamed 1987-01-01 by 법률 제3854호, before the window)"
+   ],
+   "successor": [
+    "농림부 (rename)",
+    "해양수산부 (fisheries)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제36조 (농수산부를 농림수산부로, 1987-01-01)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08 (부칙 제1조, the date the 해양수산부 직제 took effect under 대통령령 제15135호)",
+     "provisions": "제29조①, 제36조 (농림부), 부칙 제2조① (수산 사무 to 해양수산부)",
+     "role": "renames to 농림부",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "농림부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제15134호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "전부개정, 부칙④ (농림수산부 소속 공무원은 농림부 소속)",
+     "role": "sets the effective date",
+     "source": "DEC_15134"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1996-08-07",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017508",
+     "name": "농림수산부",
+     "existence": "1987.01.01 ~ 1996.08.08",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA24",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "DEC_15134",
+    "ARCH_OG0017508"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "DEC_15134",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=17842&efYd=19960808",
+     "accessed": "2026-09-26T08:37:35-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960808_17842.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=17842&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0017508",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017508",
+     "accessed": "2026-09-26T08:52:36-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017508.html"
+    }
+   ]
+  },
+  {
+   "office": "농림부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "agriculture",
+   "predecessor": [
+    "농림수산부"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF016)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08 (부칙 제1조, the date the 해양수산부 직제 took effect under 대통령령 제15135호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제36조 (농림부)",
+     "role": "establishes (rename)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "농림부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제15134호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "전부개정",
+     "role": "sets the effective date",
+     "source": "DEC_15134"
+    }
+   ],
+   "notes": "",
+   "from": "1996-08-08",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0003849",
+     "name": "농림부",
+     "existence": "1996.08.08 ~ 2008.02.29",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA25",
+   "source_ids": [
+    "GOA_5153",
+    "DEC_15134",
+    "ARCH_OG0003849"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "DEC_15134",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=17842&efYd=19960808",
+     "accessed": "2026-09-26T08:37:35-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960808_17842.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=17842&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0003849",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0003849",
+     "accessed": "2026-09-26T08:52:38-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0003849.html"
+    }
+   ]
+  },
+  {
+   "office": "상공부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "industry",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "상공자원부 (1993-03-06)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제37조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조①, 제37조 (retitled 상공자원부), 제37조의2 삭제, 부칙 제2조",
+     "role": "abolishes (merged with 동력자원부 into 상공자원부)",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "상공자원부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13870호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "부칙 제2조 (상공부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_13870"
+    }
+   ],
+   "notes": "Branch choice. Industry continues from 상공부. The 1993 act retitled 상공부's own article (제37조) as 상공자원부 and deleted 동력자원부's (제37조의2), and the chain runs 상공자원부, 통상산업부, 산업자원부.",
+   "from": "1988-02-25",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018011",
+     "name": "상공부",
+     "existence": "1948.07.17 ~ 1993.03.05",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA26",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4541",
+    "DEC_13870",
+    "ARCH_OG0018011"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13870",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20175&efYd=19930306",
+     "accessed": "2026-09-26T08:37:24-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_20175.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20175&efYd=19930306"
+    },
+    {
+     "id": "ARCH_OG0018011",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018011",
+     "accessed": "2026-09-26T08:52:41-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018011.html"
+    }
+   ]
+  },
+  {
+   "office": "동력자원부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "energy",
+   "predecessor": [
+    "in existence before the window (1977 per 국가기록원)"
+   ],
+   "successor": [
+    "상공자원부 (1993-03-06, industry)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제37조의2 (동력과 지하자원)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조①, 제37조의2 삭제, 부칙 제2조 (정무직 excluded from the staff transfer)",
+     "role": "abolishes (merged into 상공자원부)",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "상공자원부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13870호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "부칙 제2조 (동력자원부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_13870"
+    }
+   ],
+   "notes": "Coexisted with 상공부, so it cannot share the industry key.",
+   "from": "1988-02-25",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0022671",
+     "name": "동력자원부",
+     "existence": "1977.12.16 ~ 1993.03.06",
+     "status": "폐지",
+     "check": "end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA27",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4541",
+    "DEC_13870",
+    "ARCH_OG0022671"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13870",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20175&efYd=19930306",
+     "accessed": "2026-09-26T08:37:24-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_20175.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20175&efYd=19930306"
+    },
+    {
+     "id": "ARCH_OG0022671",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0022671",
+     "accessed": "2026-09-26T08:52:43-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0022671.html"
+    }
+   ]
+  },
+  {
+   "office": "상공자원부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "industry",
+   "predecessor": [
+    "상공부 (industry)",
+    "동력자원부 (energy)"
+   ],
+   "successor": [
+    "통상산업부 (1994-12-23)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4541호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제13869호·제13870호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제37조 (상공자원부), 부칙 제2조",
+     "role": "establishes",
+     "source": "GOA_4541"
+    },
+    {
+     "law": "상공자원부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제13870호",
+     "promulgated": "1993-03-06",
+     "effective": "1993-03-06",
+     "provisions": "제정",
+     "role": "sets the effective date",
+     "source": "DEC_13870"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제37조 (retitled 통상산업부), 부칙 제2조①",
+     "role": "renames to 통상산업부",
+     "source": "GOA_4831"
+    }
+   ],
+   "notes": "",
+   "from": "1993-03-06",
+   "to": "1994-12-22",
+   "lineage_note": "Also holds the energy lineage's functions from 1993-03-06.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018110",
+     "name": "상공자원부",
+     "existence": "1993.03.06 ~ 1994.12.23",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA28",
+   "source_ids": [
+    "GOA_4541",
+    "DEC_13870",
+    "GOA_4831",
+    "ARCH_OG0018110"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4541",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+     "accessed": "2026-09-26T08:33:49-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+    },
+    {
+     "id": "DEC_13870",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20175&efYd=19930306",
+     "accessed": "2026-09-26T08:37:24-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_20175.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20175&efYd=19930306"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0018110",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018110",
+     "accessed": "2026-09-26T08:52:45-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018110.html"
+    }
+   ]
+  },
+  {
+   "office": "통상산업부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "industry",
+   "predecessor": [
+    "상공자원부"
+   ],
+   "successor": [
+    "산업자원부 (1998-02-28)",
+    "외교통상부 (통상교섭)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제37조 (통상산업부), 부칙 제2조①",
+     "role": "establishes (rename)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "통상산업부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14444호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "전부개정",
+     "role": "sets the effective date",
+     "source": "DEC_14444"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제37조, 부칙 제3조① 표 (통상교섭 사무 to 외교통상부)",
+     "role": "abolishes (renamed 산업자원부)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "Same office as offices.json OF012 for 1998-02-25..27.",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0017963",
+     "name": "통상산업부",
+     "existence": "1994.12.23 ~ 1998.02.28",
+     "status": "폐지",
+     "check": "start agrees and end agrees (archives gives the abolition day, one day after the last day)"
+    }
+   ],
+   "office_id": "OFA29",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14444",
+    "GOA_5529",
+    "ARCH_OG0017963"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14444",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20180&efYd=19941223",
+     "accessed": "2026-09-26T08:37:31-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_20180.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20180&efYd=19941223"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0017963",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017963",
+     "accessed": "2026-09-26T08:52:46-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017963.html"
+    }
+   ]
+  },
+  {
+   "office": "건설부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "land",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "건설교통부 (1994-12-23)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제38조 (국토종합개발계획의 수립·조정, 국토 및 수자원, 도시·도로·주택의 건설 등)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제38조 (rewritten as 정보통신부), 제40조 (retitled 건설교통부), 부칙 제2조①",
+     "role": "abolishes (merged with 교통부 into 건설교통부)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "건설교통부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14447호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "부칙 제2조 (건설부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_14447"
+    }
+   ],
+   "notes": "Branch choice. Land continues from 건설부. 건설교통부's duty list (제40조① of 1994) opens with 건설부's 국토종합개발계획·국토 및 수자원·도시·도로·주택 functions and the chain runs to 국토해양부 and 국토교통부. The 1994 act reused 교통부's article number (제40조) for 건설교통부, which is a drafting choice, not a statement of succession. 부칙 제2조① names both ministers as predecessors.",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018231",
+     "name": "건설부",
+     "existence": "1961.05.29 ~ 1994.12.22",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA30",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4831",
+    "DEC_14447",
+    "ARCH_OG0018231"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14447",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=7591&efYd=19941223",
+     "accessed": "2026-09-26T08:37:28-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_7591.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7591&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0018231",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018231",
+     "accessed": "2026-09-26T08:52:49-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018231.html"
+    }
+   ]
+  },
+  {
+   "office": "교통부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "transport",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "건설교통부 (1994-12-23, land)",
+    "문화체육부 (관광)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제40조 (육운·항공·해사와 관광)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제40조, 부칙 제2조① (관광 to 문화체육부)",
+     "role": "abolishes (merged with 건설부 into 건설교통부)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "건설교통부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14447호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "부칙 제2조 (교통부와그소속기관직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_14447"
+    }
+   ],
+   "notes": "Coexisted with 건설부, so it cannot share the land key.",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018594",
+     "name": "교통부",
+     "existence": "1948.11.04 ~ 1994.12.22",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA31",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4831",
+    "DEC_14447",
+    "ARCH_OG0018594"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14447",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=7591&efYd=19941223",
+     "accessed": "2026-09-26T08:37:28-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_7591.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7591&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0018594",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018594",
+     "accessed": "2026-09-26T08:52:51-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018594.html"
+    }
+   ]
+  },
+  {
+   "office": "건설교통부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "land",
+   "predecessor": [
+    "건설부 (land)",
+    "교통부 (transport)"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF021)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제40조 (건설교통부), 부칙 제2조①",
+     "role": "establishes",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "건설교통부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14447호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "제정",
+     "role": "sets the effective date",
+     "source": "DEC_14447"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08 (부칙 제1조, the date the 해양수산부 직제 took effect under 대통령령 제15135호)",
+     "provisions": "제40조① (해사 moved to 해양수산부)",
+     "role": "narrows duties",
+     "source": "GOA_5153"
+    }
+   ],
+   "notes": "",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "lineage_note": "Also holds the transport lineage's functions from 1994-12-23.",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0005257",
+     "name": "건설교통부",
+     "existence": "1994.12.23 ~ 2008.02.28",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA32",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14447",
+    "GOA_5153",
+    "ARCH_OG0005257"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14447",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=7591&efYd=19941223",
+     "accessed": "2026-09-26T08:37:28-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_7591.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7591&efYd=19941223"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0005257",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005257",
+     "accessed": "2026-09-26T08:52:53-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005257.html"
+    }
+   ]
+  },
+  {
+   "office": "보건사회부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "health",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "보건복지부 (rename)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제39조 (②환경청 under the minister until 1990-01-02)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제39조 (보건복지부), 부칙 제2조①",
+     "role": "renames to 보건복지부",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "보건복지부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14446호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "보건사회부와그소속기관직제 개정",
+     "role": "sets the effective date",
+     "source": "DEC_14446"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018386",
+     "name": "보건사회부",
+     "existence": "1955.02.17 ~ 1994.12.22",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA33",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4831",
+    "DEC_14446",
+    "ARCH_OG0018386"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14446",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=21101&efYd=19941223",
+     "accessed": "2026-09-26T08:37:33-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_21101.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21101&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0018386",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018386",
+     "accessed": "2026-09-26T08:52:55-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018386.html"
+    }
+   ]
+  },
+  {
+   "office": "보건복지부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "health",
+   "predecessor": [
+    "보건사회부"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF019)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제39조 (보건복지부)",
+     "role": "establishes (rename)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "보건복지부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14446호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "",
+     "role": "sets the effective date",
+     "source": "DEC_14446"
+    }
+   ],
+   "notes": "",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0004872",
+     "name": "보건복지부",
+     "existence": "1994.12.23 ~ 2008.02.28",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA34",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14446",
+    "ARCH_OG0004872"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14446",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=21101&efYd=19941223",
+     "accessed": "2026-09-26T08:37:33-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_21101.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21101&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0004872",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004872",
+     "accessed": "2026-09-26T08:52:57-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004872.html"
+    }
+   ]
+  },
+  {
+   "office": "노동부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "labor",
+   "predecessor": [
+    "in existence before the window (1981-04-08 per 국가기록원)"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF020)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제39조의2",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제39조의2",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0005032",
+     "name": "노동부",
+     "existence": "1981.04.08 ~ 2010.07.05",
+     "status": "폐지",
+     "check": "window-internal, no boundary to check"
+    }
+   ],
+   "office_id": "OFA35",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "ARCH_OG0005032"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0005032",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005032",
+     "accessed": "2026-09-26T08:53:00-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005032.html"
+    }
+   ]
+  },
+  {
+   "office": "체신부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "ict",
+   "predecessor": [
+    "in existence before the window"
+   ],
+   "successor": [
+    "정보통신부 (rename)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제41조",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조①, 제38조 (정보통신부), 제41조 삭제, 부칙 제2조①",
+     "role": "renames to 정보통신부",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "정보통신부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14445호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "체신부와그소속기관직제 개정",
+     "role": "sets the effective date",
+     "source": "DEC_14445"
+    }
+   ],
+   "notes": "",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0018724",
+     "name": "체신부",
+     "existence": "1948.07.17 ~ 1994.12.22",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA36",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4831",
+    "DEC_14445",
+    "ARCH_OG0018724"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14445",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26724&efYd=19941223",
+     "accessed": "2026-09-26T08:37:32-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_26724.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26724&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0018724",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018724",
+     "accessed": "2026-09-26T08:53:03-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018724.html"
+    }
+   ]
+  },
+  {
+   "office": "정보통신부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "ict",
+   "predecessor": [
+    "체신부"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF017)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제38조 (정보통신부)",
+     "role": "establishes (rename)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "정보통신부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14445호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "",
+     "role": "sets the effective date",
+     "source": "DEC_14445"
+    }
+   ],
+   "notes": "",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0004829",
+     "name": "정보통신부",
+     "existence": "1994.12.23 ~ 2008.02.28",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA37",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14445",
+    "ARCH_OG0004829"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14445",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26724&efYd=19941223",
+     "accessed": "2026-09-26T08:37:32-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_26724.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26724&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0004829",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004829",
+     "accessed": "2026-09-26T08:53:05-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004829.html"
+    }
+   ]
+  },
+  {
+   "office": "환경부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "environment",
+   "predecessor": [
+    "환경처"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF018)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4831호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제14438호·제14444호~제14447호·제14450호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제38조의2 (환경부), 부칙 제2조①",
+     "role": "establishes (환경처 becomes a 행정각부)",
+     "source": "GOA_4831"
+    },
+    {
+     "law": "환경부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14450호",
+     "promulgated": "1994-12-23",
+     "effective": "1994-12-23",
+     "provisions": "",
+     "role": "sets the effective date",
+     "source": "DEC_14450"
+    }
+   ],
+   "notes": "",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0004991",
+     "name": "환경부",
+     "existence": "1994.12.23 ~ present",
+     "status": "존재",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA38",
+   "source_ids": [
+    "GOA_4831",
+    "DEC_14450",
+    "ARCH_OG0004991"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_4831",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+     "accessed": "2026-09-24T22:44:17-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+    },
+    {
+     "id": "DEC_14450",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34749&efYd=19941223",
+     "accessed": "2026-09-26T08:37:30-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_34749.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34749&efYd=19941223"
+    },
+    {
+     "id": "ARCH_OG0004991",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004991",
+     "accessed": "2026-09-26T08:52:04-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004991.html"
+    }
+   ]
+  },
+  {
+   "office": "해양수산부",
+   "office_type": "행정각부 (장관은 국무위원으로 보한다)",
+   "is_kukmuwiwon": true,
+   "lineage_key": "oceans",
+   "predecessor": [
+    "no 국무위원 predecessor (수산청, 해운항만청, 수로국 and parts of eight ministries, 부칙 제2조①)"
+   ],
+   "successor": [
+    "continues after the window, see offices.json (OF022)"
+   ],
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08 (부칙 제1조, the date the 해양수산부 직제 took effect under 대통령령 제15135호)",
+     "provisions": "제29조② 행정각부에 장관 1인과 차관 1인을 두되, 장관은 국무위원으로 보하고, 제41조 (해양수산부), 부칙 제2조①",
+     "role": "establishes",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "해양수산부와그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제15135호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제정, 부칙 제2조 (수산청·해운항만청·수로국 직제 폐지)",
+     "role": "sets the effective date",
+     "source": "DEC_15135"
+    }
+   ],
+   "notes": "",
+   "from": "1996-08-08",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0005958",
+     "name": "해양수산부",
+     "existence": "1996.08.08 ~ 2008.02.28",
+     "status": "폐지",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA39",
+   "source_ids": [
+    "GOA_5153",
+    "DEC_15135",
+    "ARCH_OG0005958"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "DEC_15135",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=33434&efYd=19960808",
+     "accessed": "2026-09-26T08:37:34-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960808_33434.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=33434&efYd=19960808"
+    },
+    {
+     "id": "ARCH_OG0005958",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005958",
+     "accessed": "2026-09-26T08:53:07-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005958.html"
+    }
+   ]
+  },
+  {
+   "office": "법제처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": false,
+   "lineage_key": null,
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제27조② (처장과 차장은 정무직), 제13조① (법제처장ㆍ국가보훈처장은 국무회의에 출석하여 발언할 수 있다)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제27조②, 제13조① (unchanged)",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제24조",
+     "role": "continues at 차관급 (제개정이유, 장관급인 법제처 및 국가보훈처를 차관급으로 축소)",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "장관급 but not a 국무위원. It attends the 국무회의 under 제13조 only.",
+   "in_scope": false,
+   "deputy_pm_title": [],
+   "predecessor": [],
+   "successor": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0000975",
+     "name": "법제처",
+     "existence": "1961.10.02 ~ present",
+     "status": "존재",
+     "check": "window-internal, no boundary to check"
+    }
+   ],
+   "office_id": "OFA40",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0000975"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0000975",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0000975",
+     "accessed": "2026-09-26T08:53:14-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0000975.html"
+    }
+   ]
+  },
+  {
+   "office": "국가보훈처",
+   "office_type": "처 (국무총리 소속)",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": false,
+   "lineage_key": "veterans",
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제28조② (처장과 차장은 정무직), 제13조① (출석·발언)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5153호",
+     "promulgated": "1996-08-08",
+     "effective": "1996-08-08",
+     "provisions": "제28조②, 제13조① (unchanged)",
+     "role": "in force at window end (version effective 1996-08-08)",
+     "source": "GOA_5153"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5529호 (전부개정)",
+     "promulgated": "1998-02-28",
+     "effective": "1998-02-28",
+     "provisions": "제25조",
+     "role": "continues at 차관급",
+     "source": "GOA_5529"
+    }
+   ],
+   "notes": "장관급 but not a 국무위원, so the veterans lineage has no in-scope office in the window.",
+   "in_scope": false,
+   "deputy_pm_title": [],
+   "predecessor": [],
+   "successor": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0000998",
+     "name": "국가보훈처",
+     "existence": "1985.01.01 ~ present",
+     "status": "존재",
+     "check": "window-internal, no boundary to check"
+    }
+   ],
+   "office_id": "OFA41",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_5153",
+    "GOA_5529",
+    "ARCH_OG0000998"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_5153",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+     "accessed": "2026-09-25T06:47:06-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+    },
+    {
+     "id": "GOA_5529",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+     "accessed": "2026-09-25T06:35:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+    },
+    {
+     "id": "ARCH_OG0000998",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0000998",
+     "accessed": "2026-09-26T08:53:16-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0000998.html"
+    }
+   ]
+  },
+  {
+   "office": "중소기업청",
+   "office_type": "청 (통상산업부장관 소속)",
+   "from": "1996-02-09",
+   "to": "1998-02-27",
+   "is_kukmuwiwon": false,
+   "lineage_key": "sme",
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제5150호",
+     "promulgated": "1996-02-09",
+     "effective": "1996-02-09 (부칙 제1조, 대통령령 제14909호)",
+     "provisions": "제37조③④ (청장은 정무직)",
+     "role": "establishes",
+     "source": "GOA_5150"
+    },
+    {
+     "law": "중소기업청과그소속기관직제 (대통령령)",
+     "law_no": "대통령령 제14909호",
+     "promulgated": "1996-02-09",
+     "effective": "1996-02-09",
+     "provisions": "폐지제정",
+     "role": "sets the effective date",
+     "source": "DEC_14909"
+    }
+   ],
+   "notes": "Head not a 국무위원. Listed because sme is an existing key.",
+   "in_scope": false,
+   "deputy_pm_title": [],
+   "predecessor": [],
+   "successor": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0004387",
+     "name": "중소기업청",
+     "existence": "1996.02.09 ~ present",
+     "status": "존재",
+     "check": "start agrees"
+    }
+   ],
+   "office_id": "OFA42",
+   "source_ids": [
+    "GOA_5150",
+    "DEC_14909",
+    "ARCH_OG0004387"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_5150",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5925&efYd=19960209",
+     "accessed": "2026-09-25T06:47:05-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960209_5925.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5925&efYd=19960209"
+    },
+    {
+     "id": "DEC_14909",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=28650&efYd=19960209",
+     "accessed": "2026-09-26T08:52:50-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960209_28650.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=28650&efYd=19960209"
+    },
+    {
+     "id": "ARCH_OG0004387",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004387",
+     "accessed": "2026-09-26T08:53:18-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004387.html"
+    }
+   ]
+  },
+  {
+   "office": "환경청",
+   "office_type": "청 (보건사회부장관 소속)",
+   "from": "1988-02-25",
+   "to": "1990-01-02",
+   "is_kukmuwiwon": false,
+   "lineage_key": "environment",
+   "legal_basis": [
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제3854호",
+     "promulgated": "1986-12-20",
+     "effective": "1987-01-01",
+     "provisions": "제39조②③ (환경청, 청장은 정무직)",
+     "role": "in force at window start (version effective 1987-01-01)",
+     "source": "GOA_3854"
+    },
+    {
+     "law": "정부조직법",
+     "law_no": "법률 제4183호",
+     "promulgated": "1989-12-30",
+     "effective": "1990-01-03 (부칙 제1조 단서, the date the 직제 took effect under 대통령령 제12895호·제12898호·제12899호)",
+     "provisions": "부칙 제2조 (환경청장의 소관사무는 환경처장관이 승계)",
+     "role": "abolishes",
+     "source": "GOA_4183"
+    },
+    {
+     "law": "환경처직제 (대통령령)",
+     "law_no": "대통령령 제12899호",
+     "promulgated": "1990-01-03",
+     "effective": "1990-01-03",
+     "provisions": "부칙 제2조 (환경청직제 폐지)",
+     "role": "repeals the 직제",
+     "source": "DEC_12899"
+    }
+   ],
+   "notes": "Head not a 국무위원. Listed as the predecessor that opens the environment lineage.",
+   "in_scope": false,
+   "deputy_pm_title": [],
+   "predecessor": [],
+   "successor": [],
+   "archives": [
+    {
+     "source": "ARCH_OG0019689",
+     "name": "환경청",
+     "existence": "1980.01.01 ~ 1990.01.02",
+     "status": "폐지",
+     "check": "end agrees (archives gives the last day)"
+    }
+   ],
+   "office_id": "OFA43",
+   "source_ids": [
+    "GOA_3854",
+    "GOA_4183",
+    "DEC_12899",
+    "ARCH_OG0019689"
+   ],
+   "source_urls": [
+    {
+     "id": "GOA_3854",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+     "accessed": "2026-09-26T08:33:44-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+    },
+    {
+     "id": "GOA_4183",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+     "accessed": "2026-09-26T08:33:45-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+    },
+    {
+     "id": "DEC_12899",
+     "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34638&efYd=19900103",
+     "accessed": "2026-09-26T08:37:16-0400",
+     "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_34638.json",
+     "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34638&efYd=19900103"
+    },
+    {
+     "id": "ARCH_OG0019689",
+     "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0019689",
+     "accessed": "2026-09-26T08:52:01-0400",
+     "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0019689.html"
+    }
+   ]
+  }
+ ],
+ "deputy_pm_designations": {
+  "note": "제17조① says a 부총리 '둘 수 있다' (may be appointed) while ③ says the named minister '겸임한다'. Whether a given minister was actually styled 부총리 is a roster question. No other minister could hold the title in the window.",
+  "items": [
+   {
+    "title": "부총리 겸 경제기획원장관",
+    "from": "1988-02-25",
+    "to": "1994-12-22",
+    "lineage_key": "epb",
+    "basis": "제17조①②③ of the 1987 version (부총리 1인을 둘 수 있다, 국무위원으로 보한다, 경제기획원장관이 겸임한다). From 1990-12-27 부총리 2인 with 경제기획원장관 first in the acting order (제22조)",
+    "sources": [
+     "GOA_3854",
+     "GOA_4268",
+     "GOA_4831"
+    ]
+   },
+   {
+    "title": "부총리 겸 통일원장관",
+    "from": "1990-12-27",
+    "to": "1998-02-27",
+    "lineage_key": "unification",
+    "basis": "제17조①③ as amended by 법률 제4268호, kept by 법률 제4831호 and 제5153호, abolished by 법률 제5529호",
+    "sources": [
+     "GOA_4268",
+     "GOA_5153",
+     "GOA_5529"
+    ]
+   },
+   {
+    "title": "부총리 겸 재정경제원장관",
+    "from": "1994-12-23",
+    "to": "1998-02-27",
+    "lineage_key": "finance",
+    "basis": "제17조③ as amended by 법률 제4831호 (effective 1994-12-23 under 부칙 제1조 단서), abolished by 법률 제5529호",
+    "sources": [
+     "GOA_4831",
+     "DEC_14438",
+     "GOA_5529"
+    ]
+   }
+  ]
+ },
+ "lineage_overlaps": [
+  {
+   "office": "경제기획원",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "primary": "epb",
+   "also": [
+    "budget"
+   ]
+  },
+  {
+   "office": "재정경제원",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "primary": "finance",
+   "also": [
+    "budget"
+   ]
+  },
+  {
+   "office": "상공자원부",
+   "from": "1993-03-06",
+   "to": "1994-12-22",
+   "primary": "industry",
+   "also": [
+    "energy (functions only, key ends 1993-03-05)"
+   ]
+  },
+  {
+   "office": "문화체육부",
+   "from": "1993-03-06",
+   "to": "1998-02-27",
+   "primary": "culture",
+   "also": [
+    "sports (functions only, key ends 1993-03-05)"
+   ]
+  },
+  {
+   "office": "건설교통부",
+   "from": "1994-12-23",
+   "to": "1998-02-27",
+   "primary": "land",
+   "also": [
+    "transport (functions only, key ends 1994-12-22)"
+   ]
+  }
+ ],
+ "lineage_gaps": [
+  {
+   "lineage_key": "environment",
+   "gap": [
+    "1988-02-25",
+    "1990-01-02"
+   ],
+   "why": "환경청 head was not a 국무위원."
+  },
+  {
+   "lineage_key": "public_info",
+   "gap": [
+    "1988-02-25",
+    "1990-01-02"
+   ],
+   "why": "공보 sat inside 문화공보부 (culture)."
+  },
+  {
+   "lineage_key": "oceans",
+   "gap": [
+    "1988-02-25",
+    "1996-08-07"
+   ],
+   "why": "No 국무위원 predecessor."
+  },
+  {
+   "lineage_key": "epb",
+   "gap": [
+    "1994-12-23",
+    "1998-02-27"
+   ],
+   "why": "Merged into 재정경제원 (finance). The key ends."
+  },
+  {
+   "lineage_key": "sports",
+   "gap": [
+    "1993-03-06",
+    "1998-02-27"
+   ],
+   "why": "Merged into 문화체육부 (culture). The key ends."
+  },
+  {
+   "lineage_key": "energy",
+   "gap": [
+    "1993-03-06",
+    "1998-02-27"
+   ],
+   "why": "Merged into 상공자원부 (industry). The key ends."
+  },
+  {
+   "lineage_key": "transport",
+   "gap": [
+    "1994-12-23",
+    "1998-02-27"
+   ],
+   "why": "Merged into 건설교통부 (land). The key ends."
+  },
+  {
+   "lineage_key": "budget",
+   "gap": [
+    "1988-02-25",
+    "1998-02-27"
+   ],
+   "why": "No separate office (see lineage_overlaps)."
+  }
+ ],
+ "rule2_check": {
+  "result": "pass",
+  "checked_pairs": 741
+ },
+ "holdovers_1988": {
+  "note": "The office structure on 1988-02-24 and on 1988-02-25 is the same (법률 제3854호 version, in force 1987-01-01 to 1989-12-29 with no amendment listed by law.go.kr in between). Every 전두환-era minister still in office on 1988-02-25 holds one of the offices below from that day. 헌법 제10호 부칙 제4조① deems officials in office on 1988-02-25 appointed under the new constitution. Appointment rules for the PM (Assembly consent) and 국무위원 (PM's recommendation) are the same in 헌법 제9호 and 제10호, so the 단서 of 부칙 제4조① does not apply to them.",
+  "sources": [
+   "CONST10",
+   "CONST9",
+   "GOA_3854",
+   "GOA_list",
+   "GOA_list2"
+  ]
+ },
+ "law_versions_checked": [
+  {
+   "law_no": "법률 제3854호",
+   "promulgated": "1986-12-20",
+   "effective": "1987-01-01",
+   "cabinet_change": "none in the window. In force on 1988-02-25 (renamed 농수산부 to 농림수산부 on 1987-01-01)",
+   "source": "GOA_3854"
+  },
+  {
+   "law_no": "법률 제4183호",
+   "promulgated": "1989-12-30",
+   "effective": "1989-12-30, cabinet provisions 1990-01-03",
+   "cabinet_change": "문화공보부 split into 문화부 and 공보처 (국무위원), 환경청 upgraded to 환경처 (국무위원)",
+   "source": "GOA_4183"
+  },
+  {
+   "law_no": "법률 제4268호",
+   "promulgated": "1990-12-27",
+   "effective": "1990-12-27",
+   "cabinet_change": "국토통일원 to 통일원 with 부총리, 부총리 2인, 문교부 to 교육부, 체육부 to 체육청소년부",
+   "source": "GOA_4268"
+  },
+  {
+   "law_no": "법률 제4371호 (타법)",
+   "promulgated": "1991-05-31",
+   "effective": "1991-07-08 (law.go.kr)",
+   "cabinet_change": "none (제20조① wording)",
+   "source": "GOA_4371"
+  },
+  {
+   "law_no": "법률 제4541호",
+   "promulgated": "1993-03-06",
+   "effective": "1993-03-06",
+   "cabinet_change": "문화부 + 체육청소년부 to 문화체육부, 상공부 + 동력자원부 to 상공자원부",
+   "source": "GOA_4541"
+  },
+  {
+   "law_no": "법률 제4568호 (타법)",
+   "promulgated": "1993-06-11",
+   "effective": "1993-12-12",
+   "cabinet_change": "none (국가보훈처 duty list)",
+   "source": "GOA_4568"
+  },
+  {
+   "law_no": "법률 제4831호",
+   "promulgated": "1994-12-23",
+   "effective": "1994-12-23",
+   "cabinet_change": "경제기획원 + 재무부 to 재정경제원 (부총리), 상공자원부 to 통상산업부, 체신부 to 정보통신부, 환경처 to 환경부, 보건사회부 to 보건복지부, 건설부 + 교통부 to 건설교통부",
+   "source": "GOA_4831"
+  },
+  {
+   "law_no": "법률 제5150호",
+   "promulgated": "1996-02-09",
+   "effective": "1996-02-09",
+   "cabinet_change": "none (중소기업청)",
+   "source": "GOA_5150"
+  },
+  {
+   "law_no": "법률 제5153호",
+   "promulgated": "1996-08-08",
+   "effective": "1996-08-08",
+   "cabinet_change": "해양수산부 created, 농림수산부 to 농림부",
+   "source": "GOA_5153"
+  },
+  {
+   "law_no": "법률 제5529호 (전부개정)",
+   "promulgated": "1998-02-28",
+   "effective": "1998-02-28",
+   "cabinet_change": "closes the window (see offices.json)",
+   "source": "GOA_5529"
+  },
+  {
+   "law_no": "법률 제4892호 (타법, artifact)",
+   "promulgated": "1995-01-05",
+   "effective": "labelled 1998-03-01",
+   "cabinet_change": "law.go.kr artifact, shows the pre-1998 text, not evidence",
+   "source": "GOA_4892_artifact"
+  }
+ ],
+ "uncertainties": [
+  "체육청소년부 start. The statute (법률 제4268호) took effect 1990-12-27. 국가기록원 dates the rename 1991-02-01, the day the 직제 was renamed (대통령령 제13284호). Appointment notices may use either name in January 1991. The inventory uses 1990-12-27.",
+  "정무장관(제2) portfolio before 1989-09-21. No decree text read here names its portfolio before 대통령령 제12809호 (1989-09-21). The office is the same legal post throughout, so the gender key covers any holder from 1988-02-25, but the roster should record the holder's actual portfolio.",
+  "정무장관 vacancies. Until 1989-09-21 정무장관실직제 제5조 suspended the (제2)실 three months after the post fell vacant, and 부칙② of 대통령령 제11239호 suspended the (제2)실 on 1983-10-07. The inventory does not establish whether a (제2) minister was in office on 1988-02-24 or 1988-02-25. Gaps in either 정무장관 post must come from the roster.",
+  "Deputy PM title. 제17조① reads '둘 수 있다'. The inventory gives the legal availability of each title. Whether each minister was styled 부총리 must come from appointment records.",
+  "Branch choices for mergers (finance from 재무부 rather than 경제기획원, culture from 문화부, industry from 상공부, land from 건설부) rest on statutory functions and article structure as explained in each lineage hint. They are researcher-reviewable choices, not facts of law.",
+  "국가기록원 end dates mix two conventions (last day, or the abolition day). The archives check field says which applies. Its 기관연혁 prose has some slips (for example it cites 법률 제3854호 for the 1985 국가보훈처 change) and is used only as corroboration of dates.",
+  "No news source was consulted for these legal dates. Each date rests on the statute, the separate 직제 decree that fixed the effective date, and the 국가기록원 catalogue.",
+  "The first run of fetch_archives_organ.py matched sub-units by mistake and saved 1,478 extra pages. They were moved, not deleted, to web/archives_organ/_stale_first_run/ and are not used."
+ ],
+ "sources": {
+  "CONST10": {
+   "id": "CONST10",
+   "description": "대한민국헌법 전부개정 헌법 제10호 (1987-10-29 공포, 1988-02-25 시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=61603&efYd=19880225",
+   "accessed": "2026-09-25T06:56:47-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/other/constitution_text_19880225_61603.json",
+   "sha256": "2c120f0de1c6c9736630dcc8a28deb8e468839393b4d80ba4f49c4222d7d026c",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&efYd=19880225"
+  },
+  "CONST9": {
+   "id": "CONST9",
+   "description": "대한민국헌법 전부개정 헌법 제9호 (1980-10-27 공포·시행), in force until 1988-02-24",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=53088&efYd=19801027",
+   "accessed": "2026-09-26T08:39:57-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/other/constitution/text_19801027_53088.json",
+   "sha256": "f3cd15c1b33a5cfeee57a6067165c8853274a8fbdea489ec334c1e88f773c434",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=53088&efYd=19801027"
+  },
+  "GOA_3854": {
+   "id": "GOA_3854",
+   "description": "정부조직법 일부개정 법률 제3854호 (1986-12-20 공포, 1987-01-01 시행), the version in force on 1988-02-25",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5790&efYd=19870101",
+   "accessed": "2026-09-26T08:33:44-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19870101_5790.json",
+   "sha256": "d7983cc8699c6d09857f72d63cdd9660e7ae8761e28f23875346d9569b08deda",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101"
+  },
+  "GOA_4268": {
+   "id": "GOA_4268",
+   "description": "정부조직법 일부개정 법률 제4268호 (1990-12-27 공포·시행; only the police, 건설부 공업항 and some 부칙 items were delayed)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227",
+   "accessed": "2026-09-26T08:33:46-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+   "sha256": "4f6d56895a10abf74419937cc9a60b71e0ed0ecf90c621cedeabff2248ec482c",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227"
+  },
+  "GOA_4831": {
+   "id": "GOA_4831",
+   "description": "정부조직법 일부개정 법률 제4831호 (1994-12-23 공포). 재정경제원, 통상산업부, 정보통신부, 환경부, 보건복지부, 건설교통부 provisions effective on the 직제 date (부칙 제1조 단서), 1994-12-23",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223",
+   "accessed": "2026-09-24T22:44:17-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json",
+   "sha256": "1de794e3289a8230b69ea094f6a3b3b328262b59894a5710b8c89f70c4f87b4e",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223"
+  },
+  "DEC_14438": {
+   "id": "DEC_14438",
+   "description": "재정경제원과그소속기관직제 제정 대통령령 제14438호 (1994-12-23 공포·시행). 부칙 제2조 repeals 경제기획원직제 and 재무부와그소속기관직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=27908&efYd=19941223",
+   "accessed": "2026-09-26T08:37:26-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_27908.json",
+   "sha256": "5b9534cffbbc13c37ae4d2742f2a7817d97d81265e478e6642ba70b756216e1e",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=27908&efYd=19941223"
+  },
+  "ARCH_OG0015972": {
+   "id": "ARCH_OG0015972",
+   "description": "국가기록원 기록물 생산기관 변천정보, 경제기획원 (OG0015972): 존립기간 1961.07.22 ~ 1994.12.23",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0015972",
+   "accessed": "2026-09-26T08:42:39-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0015972.html",
+   "sha256": "ae553eb4a54c0ca192293fea6877915efef806e1ad9d478eca7c93c3de969080"
+  },
+  "GOA_5153": {
+   "id": "GOA_5153",
+   "description": "정부조직법 일부개정 법률 제5153호 (1996-08-08 공포). Effective from the 해양수산부 직제 date (부칙 제1조), 1996-08-08",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5926&efYd=19960808",
+   "accessed": "2026-09-25T06:47:06-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json",
+   "sha256": "ba56968829e4ec550c8cbf6a6b1946fc4a1092e9abe18dc9b53f8c1e7c62cb53",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808"
+  },
+  "GOA_5529": {
+   "id": "GOA_5529",
+   "description": "정부조직법 전부개정 법률 제5529호 (1998-02-28 공포·시행), closes the window",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=58504&efYd=19980228",
+   "accessed": "2026-09-25T06:35:16-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980228_58504.json",
+   "sha256": "fa638ef3d942d9008154654bbb9e6e24097c23dc8e1c228811c2abd3b3a6314f",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228"
+  },
+  "ARCH_OG0015944": {
+   "id": "ARCH_OG0015944",
+   "description": "국가기록원 기록물 생산기관 변천정보, 재정경제원 (OG0015944): 존립기간 1994.12.23 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0015944",
+   "accessed": "2026-09-26T08:48:04-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0015944.html",
+   "sha256": "c8d06238850b2f455188976473eb3f7bac35d838d9aa5c311094084b54d4708f"
+  },
+  "ARCH_OG0016466": {
+   "id": "ARCH_OG0016466",
+   "description": "국가기록원 기록물 생산기관 변천정보, 국토통일원 (OG0016466): 존립기간 1969.01.29 ~ 1990.12.27",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016466",
+   "accessed": "2026-09-26T08:48:37-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016466.html",
+   "sha256": "2b3c415ad133216f5cb767c815e55d1d582fb66654eef50de1eab8858caa3bf5"
+  },
+  "ARCH_OG0016126": {
+   "id": "ARCH_OG0016126",
+   "description": "국가기록원 기록물 생산기관 변천정보, 통일원 (OG0016126): 존립기간 1990.12.27 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016126",
+   "accessed": "2026-09-26T08:49:12-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016126.html",
+   "sha256": "72fdb518a6b69daa10da7a0d2206df3d38091831b7b4a2615510c7a6f076d0fc"
+  },
+  "ARCH_OG0016183": {
+   "id": "ARCH_OG0016183",
+   "description": "국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183): 존립기간 1963.12.17 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016183",
+   "accessed": "2026-09-26T08:50:06-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016183.html",
+   "sha256": "cb9e90ff6e82b15c2189f1d290fa98730f8b7cefc64a53f2fd7748fba784eadc"
+  },
+  "ARCH_OG0016436": {
+   "id": "ARCH_OG0016436",
+   "description": "국가기록원 기록물 생산기관 변천정보, 과학기술처 (OG0016436): 존립기간 1967.03.30 ~ 1998.02.27",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016436",
+   "accessed": "2026-09-26T08:51:57-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016436.html",
+   "sha256": "8061259b963ec8f3180cbb6da530a3fc432639ff2511ccd82a750bcf8b99a2af"
+  },
+  "GOA_4183": {
+   "id": "GOA_4183",
+   "description": "정부조직법 일부개정 법률 제4183호 (1989-12-30 공포). Cabinet provisions (제26조의2 환경처, 제26조의3 공보처, 제29조①, 제35조의2 문화부) effective on the 직제 date, 1990-01-03 (부칙 제1조 단서; law.go.kr 조문시행일자 19900103)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5791&efYd=19891230",
+   "accessed": "2026-09-26T08:33:45-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json",
+   "sha256": "1c4eec11996e591ac8e0fd4520a0d335d70eb71f608d81fec101dab0f95f1c72",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230"
+  },
+  "DEC_12899": {
+   "id": "DEC_12899",
+   "description": "환경처직제 제정 대통령령 제12899호 (1990-01-03 공포·시행). 부칙 제2조 repeals 환경청직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34638&efYd=19900103",
+   "accessed": "2026-09-26T08:37:16-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_34638.json",
+   "sha256": "f4bccd6053ec3576853b8d6e290f7e640f085648cd452a0234eec17798be47c3",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34638&efYd=19900103"
+  },
+  "DEC_14450": {
+   "id": "DEC_14450",
+   "description": "환경부와그소속기관직제 대통령령 제14450호 (1994-12-23 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=34749&efYd=19941223",
+   "accessed": "2026-09-26T08:37:30-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_34749.json",
+   "sha256": "48da75f8ade47a6ca8d98a7a3135b5caa23212786f989402291982569ffd8a3f",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=34749&efYd=19941223"
+  },
+  "ARCH_OG0016486": {
+   "id": "ARCH_OG0016486",
+   "description": "국가기록원 기록물 생산기관 변천정보, 환경처 (OG0016486): 존립기간 1990.01.03 ~ 1994.12.22",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016486",
+   "accessed": "2026-09-26T08:51:58-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016486.html",
+   "sha256": "0ee26d8038e21b0bb442091b206618f62c49c85087776e3b99079ffa45e20903"
+  },
+  "DEC_12898": {
+   "id": "DEC_12898",
+   "description": "공보처직제 제정 대통령령 제12898호 (1990-01-03 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=10811&efYd=19900103",
+   "accessed": "2026-09-26T08:37:18-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_10811.json",
+   "sha256": "159ba2e6035d43a6977933f7e4b247fa51ba95fc6c4b8a56b91f232396ef8b06",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=10811&efYd=19900103"
+  },
+  "ARCH_OG0016597": {
+   "id": "ARCH_OG0016597",
+   "description": "국가기록원 기록물 생산기관 변천정보, 공보처 (OG0016597): 존립기간 1990.01.03 ~ 1998.02.27",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016597",
+   "accessed": "2026-09-26T08:52:06-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016597.html",
+   "sha256": "8b5f8ebb49e29408f9f11354cc757dd4b29842f7164cc9726c4a3e21db68702d"
+  },
+  "PMO_12142": {
+   "id": "PMO_12142",
+   "description": "정무장관실직제 (version 1987-04-23, 대통령령 제12142호), in force on 1988-02-25. 제2조 names 정무장관(제1)·(제2). 제5조 suspends the (제2)실 three months after the (제2) post falls vacant",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26266&efYd=19870423",
+   "accessed": "2026-09-26T08:37:36-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19870423_26266.json",
+   "sha256": "da3050ba0359348f60a58501938d693b4cf9f4cd3091e3e450c5e7546b328bf1",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26266&efYd=19870423"
+  },
+  "PMO_14417": {
+   "id": "PMO_14417",
+   "description": "정무장관실직제 일부개정 대통령령 제14417호 (1994-11-26). 제2조② 신설 assigns 국회·정당등 정치관련사무 to 정무장관(제1) and 여성정책관련사무 to 정무장관(제2)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26391&efYd=19941126",
+   "accessed": "2026-09-26T08:37:43-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941126_26391.json",
+   "sha256": "b1221f27af32b92d27198ad6a86cfb2093fbb3ca7a3c0a056390bfecd6d21a5a",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26391&efYd=19941126"
+  },
+  "PMO_15715": {
+   "id": "PMO_15715",
+   "description": "정무장관실직제 타법폐지 by 대통령령 제15715호 (1998-02-28)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26397&efYd=19980228",
+   "accessed": "2026-09-25T06:45:39-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19980228_26397.json",
+   "sha256": "468f482203b18bc596cbf430a213819dc792536ad668435f272411a3b9740de2",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26397&efYd=19980228"
+  },
+  "PMO_12809": {
+   "id": "PMO_12809",
+   "description": "정무장관실직제 일부개정 대통령령 제12809호 (1989-09-21). 개정이유 adds staff to 정무장관(제1)실 for 대국회업무 and to 정무장관(제2)실 for 여성정책기능. Deletes 제5조",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26270&efYd=19890921",
+   "accessed": "2026-09-26T08:37:39-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19890921_26270.json",
+   "sha256": "ed577454dc228bd44752bf28802fe03731e68519f6eb8df47510acacba226fb5",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26270&efYd=19890921"
+  },
+  "WDA_DEC_15099": {
+   "id": "WDA_DEC_15099",
+   "description": "여성발전기본법시행령 제정 대통령령 제15099호 (1996-06-29 공포, 1996-07-01 시행). Names 정무장관(제2) as the minister in charge (제3조, 제4조 and others)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=21284&efYd=19960701",
+   "accessed": "2026-09-26T08:38:15-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/other/women_dev_act_text_19960701_21284.json",
+   "sha256": "77987743cc2c9355ab87d0c490ce8e312e8e4dc2e5d915e565e07b07701b8b2c",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21284&efYd=19960701"
+  },
+  "WDA_5529": {
+   "id": "WDA_5529",
+   "description": "여성발전기본법 as amended by 법률 제5529호 부칙 제5조<33> (1998-02-28). 제36조 now names 여성특별위원회",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=909&efYd=19980228",
+   "accessed": "2026-09-26T08:38:16-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/other/women_dev_act_text_19980228_909.json",
+   "sha256": "024afc098cffc80ac4bfa554e3b8559ca6f1ab6fb6c080d0076a06d3884359af",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=909&efYd=19980228"
+  },
+  "ARCH_OG0016832": {
+   "id": "ARCH_OG0016832",
+   "description": "국가기록원 기록물 생산기관 변천정보, 외무부 (OG0016832): 존립기간 1948.07.17 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016832",
+   "accessed": "2026-09-26T08:52:22-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016832.html",
+   "sha256": "cbcf14c419226b0e49d3bbafb2d77e98a3b39f362474818827043f2b9893c0cf"
+  },
+  "ARCH_OG0016867": {
+   "id": "ARCH_OG0016867",
+   "description": "국가기록원 기록물 생산기관 변천정보, 내무부 (OG0016867): 존립기간 1948.07.17 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016867",
+   "accessed": "2026-09-26T08:52:24-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0016867.html",
+   "sha256": "75b06720906a9e3f211d676cc05e87b9cb0f2654529fbae95c9b33431766305b"
+  },
+  "ARCH_OG0017062": {
+   "id": "ARCH_OG0017062",
+   "description": "국가기록원 기록물 생산기관 변천정보, 재무부 (OG0017062): 존립기간 1948.07.17 ~ 1994.12.23",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017062",
+   "accessed": "2026-09-26T08:45:22-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017062.html",
+   "sha256": "2071b3ff5cb85067693f98d0c3185a68e5d62e19184a6333db659647bb583a0e"
+  },
+  "ARCH_OG0001524": {
+   "id": "ARCH_OG0001524",
+   "description": "국가기록원 기록물 생산기관 변천정보, 법무부 (OG0001524): 존립기간 1948.07.17 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0001524",
+   "accessed": "2026-09-26T08:52:27-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0001524.html",
+   "sha256": "5429d5ac03719c21d1c883b09fa243641614c97e1a23217ec3bc674c915dc939"
+  },
+  "ARCH_OG0002302": {
+   "id": "ARCH_OG0002302",
+   "description": "국가기록원 기록물 생산기관 변천정보, 국방부 (OG0002302): 존립기간 1948.07.17 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0002302",
+   "accessed": "2026-09-26T08:52:29-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0002302.html",
+   "sha256": "39610520b4e22979f3e01ea8d9b1adcfc8c6b7d3c1f792165bcab53f716aaad5"
+  },
+  "ARCH_OG0017159": {
+   "id": "ARCH_OG0017159",
+   "description": "국가기록원 기록물 생산기관 변천정보, 문교부 (OG0017159): 존립기간 1948.07.17 ~ 1990.12.26",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017159",
+   "accessed": "2026-09-26T08:40:27-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017159.html",
+   "sha256": "db86e081806fd75dbc5f01483ad440da5f420ece6377b14688c128794d9e20bb"
+  },
+  "ARCH_OG0003530": {
+   "id": "ARCH_OG0003530",
+   "description": "국가기록원 기록물 생산기관 변천정보, 교육부 (OG0003530): 존립기간 1990.12.27 ~ 2001.01.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0003530",
+   "accessed": "2026-09-26T08:52:33-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0003530.html",
+   "sha256": "0c0e141920b5460114643ef75ff2895952614f96f9a878874fd755580081ffce"
+  },
+  "ARCH_OG0017482": {
+   "id": "ARCH_OG0017482",
+   "description": "국가기록원 기록물 생산기관 변천정보, 체육부 (OG0017482): 존립기간 1982.03.20 ~ 1991.01.31",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017482",
+   "accessed": "2026-09-26T08:52:15-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017482.html",
+   "sha256": "c3ed1185c544dbf134e0e351b5eff9bf4f535dbc26750110bd376f56a78e6bbb"
+  },
+  "DEC_13284": {
+   "id": "DEC_13284",
+   "description": "체육부직제중개정령 대통령령 제13284호 (1991-02-01). Renames the decree 체육청소년부직제. Its 개정이유 says the ministry was renamed by 법률 제4268호 of 1990-12-27",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=31885&efYd=19910201",
+   "accessed": "2026-09-26T08:54:39-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19910201_31885.json",
+   "sha256": "de635c7a3f817c2621837d9d9e0fd5526e30040072fe9b51f53679d50dab983e",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=31885&efYd=19910201"
+  },
+  "GOA_4541": {
+   "id": "GOA_4541",
+   "description": "정부조직법 일부개정 법률 제4541호 (1993-03-06 공포). 문화체육부 and 상공자원부 provisions effective on the 직제 date (부칙 제1조 단서), 1993-03-06",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5794&efYd=19930306",
+   "accessed": "2026-09-26T08:33:49-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19930306_5794.json",
+   "sha256": "68daa3760b2b9b28319700cc02cda3035417e8d2e82da2a740ece180d1553042",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306"
+  },
+  "DEC_13869": {
+   "id": "DEC_13869",
+   "description": "문화체육부와그소속기관직제 제정 대통령령 제13869호 (1993-03-06 공포·시행). 부칙 제2조 repeals 문화부와그소속기관직제 and 체육청소년부직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18831&efYd=19930306",
+   "accessed": "2026-09-26T08:37:21-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_18831.json",
+   "sha256": "3f60777a79f04e4fe27dbd5b84fa2383930bc690a40d5038921aaf75e6c72a17",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306"
+  },
+  "ARCH_OG0017495": {
+   "id": "ARCH_OG0017495",
+   "description": "국가기록원 기록물 생산기관 변천정보, 체육청소년부 (OG0017495): 존립기간 1991.02.01 ~ 1993.03.05",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017495",
+   "accessed": "2026-09-26T08:52:17-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017495.html",
+   "sha256": "0727e0bc022dcd00b24edc1ea16c95eec26428063460aa485c4b982f9c0ab258"
+  },
+  "DEC_12895": {
+   "id": "DEC_12895",
+   "description": "문화부직제 폐지제정 대통령령 제12895호 (1990-01-03 공포·시행). 부칙 제2조 repeals 문화공보부직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=18823&efYd=19900103",
+   "accessed": "2026-09-26T08:37:19-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19900103_18823.json",
+   "sha256": "5f0694470a471afc9fd906dff1e4c4ece3c104c931511625cbba367fdaa5eed6",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103"
+  },
+  "ARCH_OG0019302": {
+   "id": "ARCH_OG0019302",
+   "description": "국가기록원 기록물 생산기관 변천정보, 문화공보부 (OG0019302): 존립기간 1968.07.24 ~ 1990.01.02",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0019302",
+   "accessed": "2026-09-26T08:52:10-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0019302.html",
+   "sha256": "130c311e4183b36f99453a6354d97b779d0681d33d2c264ddd3abd4a9b66576a"
+  },
+  "ARCH_OG0022497": {
+   "id": "ARCH_OG0022497",
+   "description": "국가기록원 기록물 생산기관 변천정보, 문화공보부 (OG0022497): 존립기간 1968.07.24 ~ 1990.01.02",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0022497",
+   "accessed": "2026-09-26T08:52:11-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0022497.html",
+   "sha256": "daacbc40a566b1829141285720dad0c14df883f69782ea8169135fa20e758e39"
+  },
+  "ARCH_OG0017254": {
+   "id": "ARCH_OG0017254",
+   "description": "국가기록원 기록물 생산기관 변천정보, 문화부 (OG0017254): 존립기간 1990.01.03 ~ 1993.03.05",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017254",
+   "accessed": "2026-09-26T08:52:13-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017254.html",
+   "sha256": "d43a3d6b26d77ac14ca3c8ca1ca2ae9d5e0508afe2503a31d053b7c01669ec98"
+  },
+  "ARCH_OG0017326": {
+   "id": "ARCH_OG0017326",
+   "description": "국가기록원 기록물 생산기관 변천정보, 문화체육부 (OG0017326): 존립기간 1993.03.06 ~ 1998.02.27",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017326",
+   "accessed": "2026-09-26T08:52:19-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017326.html",
+   "sha256": "b9e614afa8588cd60d8601528e104a61060dabc510ae84a3dbe25e9aab896bf3"
+  },
+  "DEC_15134": {
+   "id": "DEC_15134",
+   "description": "농림부와그소속기관직제 전부개정 대통령령 제15134호 (1996-08-08 공포·시행). 부칙④ deems 농림수산부 staff 농림부 staff",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=17842&efYd=19960808",
+   "accessed": "2026-09-26T08:37:35-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960808_17842.json",
+   "sha256": "9ab378c88bb1c600779bb111ddbee2b3a418ab16c2bb93d9b892c7ad4a2e3967",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=17842&efYd=19960808"
+  },
+  "ARCH_OG0017508": {
+   "id": "ARCH_OG0017508",
+   "description": "국가기록원 기록물 생산기관 변천정보, 농림수산부 (OG0017508): 존립기간 1987.01.01 ~ 1996.08.08",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017508",
+   "accessed": "2026-09-26T08:52:36-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017508.html",
+   "sha256": "930935fef82aab33b351cd53b0f4c3b02f7297edac9d70ced6ff22d0e5139a9c"
+  },
+  "ARCH_OG0003849": {
+   "id": "ARCH_OG0003849",
+   "description": "국가기록원 기록물 생산기관 변천정보, 농림부 (OG0003849): 존립기간 1996.08.08 ~ 2008.02.29",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0003849",
+   "accessed": "2026-09-26T08:52:38-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0003849.html",
+   "sha256": "c6cc7ab9518d0c657aa1b37968396365f59040523296a354b70d09fa9c0f8040"
+  },
+  "DEC_13870": {
+   "id": "DEC_13870",
+   "description": "상공자원부와그소속기관직제 제정 대통령령 제13870호 (1993-03-06 공포·시행). 부칙 제2조 repeals 상공부와그소속기관직제 and 동력자원부와그소속기관직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20175&efYd=19930306",
+   "accessed": "2026-09-26T08:37:24-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19930306_20175.json",
+   "sha256": "645879ea51e6e8b6e4304f8c4ea076b42fe9718cb462d3994cdd3613179c79dd",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20175&efYd=19930306"
+  },
+  "ARCH_OG0018011": {
+   "id": "ARCH_OG0018011",
+   "description": "국가기록원 기록물 생산기관 변천정보, 상공부 (OG0018011): 존립기간 1948.07.17 ~ 1993.03.05",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018011",
+   "accessed": "2026-09-26T08:52:41-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018011.html",
+   "sha256": "d0ceb2b3d786a26c34ffb8703db9b10a996c0a627c6a607934fc9a53f5609ca1"
+  },
+  "ARCH_OG0022671": {
+   "id": "ARCH_OG0022671",
+   "description": "국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671): 존립기간 1977.12.16 ~ 1993.03.06",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0022671",
+   "accessed": "2026-09-26T08:52:43-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0022671.html",
+   "sha256": "70b2a12c13f8478aa06f746ceb572a220414e9df76c6c2a4d3e88fb5ec38f657"
+  },
+  "ARCH_OG0018110": {
+   "id": "ARCH_OG0018110",
+   "description": "국가기록원 기록물 생산기관 변천정보, 상공자원부 (OG0018110): 존립기간 1993.03.06 ~ 1994.12.23",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018110",
+   "accessed": "2026-09-26T08:52:45-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018110.html",
+   "sha256": "62deb528b728733ca1fd884f7bf144bbfcb7ddc84cf06ce5af1e099adc48f282"
+  },
+  "DEC_14444": {
+   "id": "DEC_14444",
+   "description": "통상산업부와그소속기관직제 전부개정 대통령령 제14444호 (1994-12-23 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=20180&efYd=19941223",
+   "accessed": "2026-09-26T08:37:31-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_20180.json",
+   "sha256": "7a2f377ab0c7781812d786c4e8e20055a8d792375a65ba4e54aae8cb89c0823f",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=20180&efYd=19941223"
+  },
+  "ARCH_OG0017963": {
+   "id": "ARCH_OG0017963",
+   "description": "국가기록원 기록물 생산기관 변천정보, 통상산업부 (OG0017963): 존립기간 1994.12.23 ~ 1998.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017963",
+   "accessed": "2026-09-26T08:52:46-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0017963.html",
+   "sha256": "e5593314d024bf2e94f1a1f99decd39763a4cddec7b68ec410c9399948724974"
+  },
+  "DEC_14447": {
+   "id": "DEC_14447",
+   "description": "건설교통부와그소속기관직제 제정 대통령령 제14447호 (1994-12-23 공포·시행). 부칙 제2조 repeals 건설부와그소속기관직제 and 교통부와그소속기관직제",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=7591&efYd=19941223",
+   "accessed": "2026-09-26T08:37:28-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_7591.json",
+   "sha256": "63180f3670e81a546bd57753b128554237b8b2e018dec917184ec9bd40a06407",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=7591&efYd=19941223"
+  },
+  "ARCH_OG0018231": {
+   "id": "ARCH_OG0018231",
+   "description": "국가기록원 기록물 생산기관 변천정보, 건설부 (OG0018231): 존립기간 1961.05.29 ~ 1994.12.22",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018231",
+   "accessed": "2026-09-26T08:52:49-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018231.html",
+   "sha256": "d73a525591499cc9b513feab7ed8a8e051086b183b5abc93e1959a136642b056"
+  },
+  "ARCH_OG0018594": {
+   "id": "ARCH_OG0018594",
+   "description": "국가기록원 기록물 생산기관 변천정보, 교통부 (OG0018594): 존립기간 1948.11.04 ~ 1994.12.22",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018594",
+   "accessed": "2026-09-26T08:52:51-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018594.html",
+   "sha256": "d61d69531283dc5c02898057a4d6e87fe67ba70d9df95ca835254f9077cfb384"
+  },
+  "ARCH_OG0005257": {
+   "id": "ARCH_OG0005257",
+   "description": "국가기록원 기록물 생산기관 변천정보, 건설교통부 (OG0005257): 존립기간 1994.12.23 ~ 2008.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005257",
+   "accessed": "2026-09-26T08:52:53-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005257.html",
+   "sha256": "3b8b237fbbbf30fd42c9d4c4d3a9515476ac5ff794110dc6badcb5efe22cc029"
+  },
+  "DEC_14446": {
+   "id": "DEC_14446",
+   "description": "보건복지부와그소속기관직제 대통령령 제14446호 (1994-12-23 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=21101&efYd=19941223",
+   "accessed": "2026-09-26T08:37:33-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_21101.json",
+   "sha256": "baf829cd754b5149e35db0bd6d8409c27c38d370d476b7a4f13ed80188a3e900",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=21101&efYd=19941223"
+  },
+  "ARCH_OG0018386": {
+   "id": "ARCH_OG0018386",
+   "description": "국가기록원 기록물 생산기관 변천정보, 보건사회부 (OG0018386): 존립기간 1955.02.17 ~ 1994.12.22",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018386",
+   "accessed": "2026-09-26T08:52:55-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018386.html",
+   "sha256": "284dd738a25a747602a2ad02b1de466c53d7ca418e2727e5738d145e028dc4c8"
+  },
+  "ARCH_OG0004872": {
+   "id": "ARCH_OG0004872",
+   "description": "국가기록원 기록물 생산기관 변천정보, 보건복지부 (OG0004872): 존립기간 1994.12.23 ~ 2008.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004872",
+   "accessed": "2026-09-26T08:52:57-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004872.html",
+   "sha256": "88f8d081c4ac64d1bd1e3dd1d29767e4f98c62661e2aac3afb6f0e6f7e4c4638"
+  },
+  "ARCH_OG0005032": {
+   "id": "ARCH_OG0005032",
+   "description": "국가기록원 기록물 생산기관 변천정보, 노동부 (OG0005032): 존립기간 1981.04.08 ~ 2010.07.05",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005032",
+   "accessed": "2026-09-26T08:53:00-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005032.html",
+   "sha256": "76175da4aeb01f196d3be7a1150eeaaa3feb81a4ca16e66e50754872ca084033"
+  },
+  "DEC_14445": {
+   "id": "DEC_14445",
+   "description": "정보통신부와그소속기관직제 대통령령 제14445호 (1994-12-23 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26724&efYd=19941223",
+   "accessed": "2026-09-26T08:37:32-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19941223_26724.json",
+   "sha256": "ff5ee5cfb5809e85b244dc740b17fee26b83fbc5c5c4bf1a56600a22c415af28",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26724&efYd=19941223"
+  },
+  "ARCH_OG0018724": {
+   "id": "ARCH_OG0018724",
+   "description": "국가기록원 기록물 생산기관 변천정보, 체신부 (OG0018724): 존립기간 1948.07.17 ~ 1994.12.22",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0018724",
+   "accessed": "2026-09-26T08:53:03-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0018724.html",
+   "sha256": "d8bc97f86c0eb3bfc11c98e5bd7d40cb6b23e765924b7237806c804a96be0587"
+  },
+  "ARCH_OG0004829": {
+   "id": "ARCH_OG0004829",
+   "description": "국가기록원 기록물 생산기관 변천정보, 정보통신부 (OG0004829): 존립기간 1994.12.23 ~ 2008.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004829",
+   "accessed": "2026-09-26T08:53:05-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004829.html",
+   "sha256": "2c508b0a374ff650f5e50cd0bf1588cc609f2e7dd54ae2e346939c6432a414fc"
+  },
+  "ARCH_OG0004991": {
+   "id": "ARCH_OG0004991",
+   "description": "국가기록원 기록물 생산기관 변천정보, 환경부 (OG0004991): 존립기간 1994.12.23 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004991",
+   "accessed": "2026-09-26T08:52:04-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004991.html",
+   "sha256": "92fc1841f65bc85fd894d12acd5431fe04d6617e7fe897b3072c35b92a06968a"
+  },
+  "DEC_15135": {
+   "id": "DEC_15135",
+   "description": "해양수산부와그소속기관직제 제정 대통령령 제15135호 (1996-08-08 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=33434&efYd=19960808",
+   "accessed": "2026-09-26T08:37:34-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960808_33434.json",
+   "sha256": "7310502030651876692acfb1ffba7eb8fe9ba790ceaef97c9778d00750a8a834",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=33434&efYd=19960808"
+  },
+  "ARCH_OG0005958": {
+   "id": "ARCH_OG0005958",
+   "description": "국가기록원 기록물 생산기관 변천정보, 해양수산부 (OG0005958): 존립기간 1996.08.08 ~ 2008.02.28",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005958",
+   "accessed": "2026-09-26T08:53:07-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0005958.html",
+   "sha256": "ea29a7d58aa3fd0df14c2c3cb4923daf5e239b69bef89780a5ee41ae39e931a8"
+  },
+  "ARCH_OG0000975": {
+   "id": "ARCH_OG0000975",
+   "description": "국가기록원 기록물 생산기관 변천정보, 법제처 (OG0000975): 존립기간 1961.10.02 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0000975",
+   "accessed": "2026-09-26T08:53:14-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0000975.html",
+   "sha256": "e01bbe9770fa208227d6ba73e43d9d7acefe322b6cdd539e14f781a83e29232f"
+  },
+  "ARCH_OG0000998": {
+   "id": "ARCH_OG0000998",
+   "description": "국가기록원 기록물 생산기관 변천정보, 국가보훈처 (OG0000998): 존립기간 1985.01.01 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0000998",
+   "accessed": "2026-09-26T08:53:16-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0000998.html",
+   "sha256": "d15bf80db55321d74893e2a121fbc1783a7e3fa44bc626583c16942a24e64e7c"
+  },
+  "GOA_5150": {
+   "id": "GOA_5150",
+   "description": "정부조직법 일부개정 법률 제5150호 (1996-02-09 공포, effective with 중소기업청과그소속기관직제 대통령령 제14909호, 1996-02-09). 중소기업청 only, no 국무위원 office affected",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5925&efYd=19960209",
+   "accessed": "2026-09-25T06:47:05-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19960209_5925.json",
+   "sha256": "4f1e9773059cccbe6f9278be7097b271db4b8885cf7464e3115c8b174fd9ab2d",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5925&efYd=19960209"
+  },
+  "DEC_14909": {
+   "id": "DEC_14909",
+   "description": "중소기업청과그소속기관직제 폐지제정 대통령령 제14909호 (1996-02-09 공포·시행)",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=28650&efYd=19960209",
+   "accessed": "2026-09-26T08:52:50-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19960209_28650.json",
+   "sha256": "9505c576390cce56e0a1a951ff078c9938d4baba1639f9ef92918cdd46864152",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=28650&efYd=19960209"
+  },
+  "ARCH_OG0004387": {
+   "id": "ARCH_OG0004387",
+   "description": "국가기록원 기록물 생산기관 변천정보, 중소기업청 (OG0004387): 존립기간 1996.02.09 ~ present",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0004387",
+   "accessed": "2026-09-26T08:53:18-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0004387.html",
+   "sha256": "c7d309c1427519c0e9f3281d0bd59944966f51443b2d08168fde783f3e66b9c3"
+  },
+  "ARCH_OG0019689": {
+   "id": "ARCH_OG0019689",
+   "description": "국가기록원 기록물 생산기관 변천정보, 환경청 (OG0019689): 존립기간 1980.01.01 ~ 1990.01.02",
+   "url": "https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0019689",
+   "accessed": "2026-09-26T08:52:01-0400",
+   "snapshot": "inventory_sources/1988/web/archives_organ/organ_OG0019689.html",
+   "sha256": "d26e6c70602557ce141c483dc81a05eca1a2817d909a233b04681006c068a429"
+  },
+  "GOA_list": {
+   "id": "GOA_list",
+   "description": "law.go.kr lawSearch.do version list of 정부조직법 (page 1 of 2)",
+   "url": "https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=eflaw&type=JSON&query=%EC%A0%95%EB%B6%80%EC%A1%B0%EC%A7%81%EB%B2%95&display=100&page=1&search=1",
+   "accessed": "2026-09-25T06:51:53-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/versions_search_page1.json",
+   "sha256": "50e00c8a19027946e566eb2c5e02019cb7e25cb6e9d5193eb66b68e58e3ff8c9"
+  },
+  "GOA_list2": {
+   "id": "GOA_list2",
+   "description": "law.go.kr lawSearch.do version list of 정부조직법 (page 2 of 2)",
+   "url": "https://www.law.go.kr/DRF/lawSearch.do?OC=test&target=eflaw&type=JSON&query=%EC%A0%95%EB%B6%80%EC%A1%B0%EC%A7%81%EB%B2%95&display=100&page=2&search=1",
+   "accessed": "2026-09-25T06:51:54-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/versions_search_page2.json",
+   "sha256": "aea96200f18fa2ea8178c145708cf3c0aa976ffbed097fb7a6e7d67d8a95d3f4"
+  },
+  "GOA_4371": {
+   "id": "GOA_4371",
+   "description": "정부조직법 as amended by 서울특별시행정특례에관한법률 법률 제4371호 부칙 제2조 (타법개정, law.go.kr efYd 1991-07-08). Changes 제20조① only, no cabinet office affected",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5793&efYd=19910708",
+   "accessed": "2026-09-26T08:33:48-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19910708_5793.json",
+   "sha256": "507d7dee433670ce744bd92c207d9bc702365b80715f3bb422eca3a5bb164566",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5793&efYd=19910708"
+  },
+  "GOA_4568": {
+   "id": "GOA_4568",
+   "description": "정부조직법 as amended by 월남귀순용사특별보상법개정법률 법률 제4568호 부칙 제10조 (타법개정, efYd 1993-12-12). Changes the duty list of 국가보훈처 (제28조①) only",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5922&efYd=19931212",
+   "accessed": "2026-09-26T08:33:50-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19931212_5922.json",
+   "sha256": "1cf6d3f4e7792bcb6b99787bc569a698b4b1e6f31038ee8528e93cca83d99b55",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5922&efYd=19931212"
+  },
+  "GOA_4892_artifact": {
+   "id": "GOA_4892_artifact",
+   "description": "law.go.kr record MST 5924 labelled efYd 1998-03-01 (타법개정 법률 제4892호, 1995-01-05, 특허법). Shows the pre-1998 structure and is superseded by 법률 제5529호. Not used as evidence",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5924&efYd=19980301",
+   "accessed": "2026-09-25T06:47:08-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/govorg/text_19980301_5924.json",
+   "sha256": "be70d549590dd9f2bce7025d966dc6fff3ff99e187ddd8d307b265e7f8c04b63",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5924&efYd=19980301"
+  },
+  "PMO_12419": {
+   "id": "PMO_12419",
+   "description": "정무장관실직제 일부개정 대통령령 제12419호 (1988-03-18). Upgrades the (제2) 보좌관 to 정무직 차관급",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26268&efYd=19880318",
+   "accessed": "2026-09-26T08:37:38-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19880318_26268.json",
+   "sha256": "1c65951340f91ace2ffc818a271c9ac8cf0e849368d7c66c6872f24ef19a26b6",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26268&efYd=19880318"
+  },
+  "PMO_13505": {
+   "id": "PMO_13505",
+   "description": "정무장관실직제 일부개정 대통령령 제13505호 (1991-11-15). 개정이유 ties (제1)실 to 당정협조 and (제2)실 to 여성관련 정책",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26387&efYd=19911115",
+   "accessed": "2026-09-26T08:37:40-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19911115_26387.json",
+   "sha256": "bbc6ed18f628904ad7a1ef448278df7c7509d9b647bc7d9dfb3c7b313c26f561",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26387&efYd=19911115"
+  },
+  "PMO_15462": {
+   "id": "PMO_15462",
+   "description": "정무장관실직제 (version 1997-08-13, 대통령령 제15462호), last version before repeal",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=26396&efYd=19970813",
+   "accessed": "2026-09-25T06:45:38-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/decrees/text_19970813_26396.json",
+   "sha256": "78a569e5f2e02274f8193249b7829fc0ec7e7d83eee49ee650c8c15b392b0f84",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=26396&efYd=19970813"
+  },
+  "WDA_5136": {
+   "id": "WDA_5136",
+   "description": "여성발전기본법 제정 법률 제5136호 (1995-12-30 공포, 1996-07-01 시행). 제36조 lets the government's duties under the act be handled by a 정무장관 (원·부·처의 장관이 아닌 국무위원) the President designates",
+   "url": "https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=908&efYd=19960701",
+   "accessed": "2026-09-26T08:38:14-0400",
+   "snapshot": "inventory_sources/1988/law_go_kr/other/women_dev_act_text_19960701_908.json",
+   "sha256": "1eb6ea47d50bace440d4db8bf1543dc796233ab35b716f7c56995739314ce368",
+   "human_url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=908&efYd=19960701"
+  }
+ }
+}

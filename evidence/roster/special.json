@@ -1,0 +1,697 @@
+{
+  "lineage": "special",
+  "built_at": "2026-09-25T21:36:08-0400",
+  "ministry_names": [
+    {
+      "ministry": "정무장관(제1)",
+      "from": "1998-02-25",
+      "to": "1998-02-27",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제5153호 (1996-08-08) 제18조 (원·부·처의 장관이 아닌 국무위원, 정무장관, 2인 이내) and 정무장관실직제 (대통령령, as amended by 대통령령 제15462호, 1997-08-13) 제2조 (호칭 정무장관(제1)·(제2), 정무장관(제1)은 국회·정당등 정치관련사무). Abolished by 법률 제5529호 effective 1998-02-28 and the 직제 repealed by 대통령령 제15715호 부칙 제2조제3호. The post existed since 1981-04-08, the window opens on 1998-02-25.",
+      "source": "offices.json (built from law.go.kr, _rebuild/offices.json) OF007 (GOA_5153, DEC_15462, GOA_5529, DEC_15715)"
+    },
+    {
+      "ministry": "정무장관(제2)",
+      "from": "1998-02-25",
+      "to": "1998-02-27",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제5153호 제18조 and 정무장관실직제 제2조 (정무장관(제2)은 여성정책관련사무). Abolished by 법률 제5529호 effective 1998-02-28 (functionally followed by 여성특별위원회, whose head was not a 국무위원). Concurrent with 정무장관(제1).",
+      "source": "offices.json (built from law.go.kr, _rebuild/offices.json) OF008 (GOA_5153, DEC_15462, GOA_5529, DEC_15715)"
+    },
+    {
+      "ministry": "특임장관",
+      "from": "2008-02-29",
+      "to": "2013-03-22",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제8852호 (전부개정, 2008-02-29) 제17조 (1명의 국무위원을 둘 수 있다, optional post) and 특임장관실 직제 (대통령령 제20725호). Abolished by 법률 제11690호 (2013-03-23 공포·시행), 부칙 제3조제1항 표 (소관사무 → 국무총리비서실). No 정무장관 or 특임장관 provision existed from 1998-02-28 to 2008-02-28 or after 2013-03-22 (offices.json lineage_gaps).",
+      "source": "offices.json (built from law.go.kr, _rebuild/offices.json) OF043 (GOA_8852, GOA_11690)"
+    }
+  ],
+  "spells": [
+    {
+      "name": "홍사덕",
+      "name_hanja": "洪思德",
+      "name_en": "Hong Sa-duk",
+      "name_en_source": "National Assembly open API ALLNAMEMBER (https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER), record for 홍사덕, snapshot na_members/sources/api/allnamember/page_033.json (fetched 2026-09-25T02:16:34Z), ENG_NM 'hong sa duk' (capitalised and hyphenated here)",
+      "birth_date": "1943-03-05",
+      "gender": "M",
+      "ministry": "정무장관(제1)",
+      "office_title": "정무장관(제1)",
+      "deputy_pm": false,
+      "start": "1997-08-06",
+      "start_confidence": "medium",
+      "start_sources": [
+        "연합뉴스 1997-08-06 09:44:00 '金대통령 靑瓦臺서 비상대책회의 주재(종합)' https://n.news.naver.com/mnews/article/001/0004181698 (accessed 2026-09-25T13:01:46-0400, snapshot roster/sources/special/news/naver_001_0004181698.html) (6일 오전 9시30분 청와대에서 曺海寧내무, 金鍾求법무장관을 비롯한 신임각료 11명에게 임명장을 주었다. The 8·5 개각 named 11 ministers including 정무1 홍사덕)",
+        "BigKinds metadata record, 경향신문 1997-08-06 '11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임' news_id 01100101.19970806000000101 (POST https://www.bigkinds.or.kr/api/news/search.do, query '임명장 신임 장관' 1997-08-05..1997-08-07, accessed 2026-09-25T13:34:25-0400, snapshot roster/sources/special/news/bk_ea7b7f19_1997-08-05_1997-08-07.json) (8·5 개각 list names 정무1 홍사덕 and 정무2 이연숙, announced 1997-08-05 afternoon)",
+        "BigKinds metadata record, 매일신문 1997-08-06 '사태수습 만전지시' news_id 01500601.19970806004701001 (POST https://www.bigkinds.or.kr/api/news/search.do, query '임명장 신임 장관' 1997-08-05..1997-08-07, accessed 2026-09-25T13:34:25-0400, snapshot roster/sources/special/news/bk_ea7b7f19_1997-08-05_1997-08-07.json) (이날(6일) 오전 9시30분 ... 신임각료에게 임명장을 수여)",
+        "연합뉴스 1997-08-05 17:29:00 '<聯合인터뷰> 洪思德 정무1장관' https://n.news.naver.com/mnews/article/001/0004186666 (accessed 2026-09-25T13:35:20-0400, snapshot roster/sources/special/news/naver_001_0004186666.html) (5일 연합통신 전화 인터뷰, 정무1장관에 전격 기용된 洪思德신임장관)",
+        "연합뉴스 1997-08-08 17:35:00 '洪思德정무, 내일 金大中 李基澤총재 예방' https://n.news.naver.com/mnews/article/001/0004183604 (accessed 2026-09-25T13:35:16-0400, snapshot roster/sources/special/news/naver_001_0004183604.html) (洪장관은 지난 6일 신한국당 李會昌대표 ... 예방)",
+        "ko.wikipedia '대한민국 정무장관(제1)실' https://ko.wikipedia.org/w/index.php?oldid=40892109 (accessed 2026-09-25T13:32:49-0400, snapshot roster/sources/special/wiki_대한민국_정무장관(제1)실.json) (row 24대 홍사덕 1997-08-05 ~ 1998-03-01, secondary)",
+        "[verifier] 행정안전부 열린장관실 역대장관 (tier 2) dates two other appointees of the same 1997-08-05 개각 from 1997-08-06, 조해녕 내무부 '재임기간 1997년 8월 6일 ~ 1998년 3월 2일' https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do and 심우영 총무처 '1997년 8월 6일 ~ 1998년 3월 3일' https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (accessed 2026-09-24T22:44:07-0400 and 22:44:08-0400, snapshots roster/sources/special/verify/mois_home.html and roster/sources/special/verify/mois_govadmin.html). 교육부 (이명현 1997-08-06, https://www.moe.go.kr/mnstrHistory.do, roster/sources/special/verify/moe_history.html) and 보건복지부 (최광 1997.08.06, roster/sources/special/verify/mohw_p3.html) agree. 법무부 alone gives 김종구 1997.08.05 (roster/sources/special/verify/moj_p4.html). Convention support for 1997-08-06, not a record of this office.",
+        "[verifier] BigKinds metadata record, 문화일보 1997-08-06 '8·5개각 이모저모' news_id 01100501.19970806000001002 (POST https://www.bigkinds.or.kr/api/news/search.do, query '정무1장관 홍사덕' 1997-08-05..1997-08-07, accessed 2026-09-25T21:56:05-0400, snapshot roster/sources/special/verify/bk_H1_*_1997-08-05_1997-08-07_p1.json) (the 개각 was planned for the morning of the 6th and announced at 16:10 on the 5th)"
+      ],
+      "end": "1998-02-27",
+      "end_confidence": "medium",
+      "end_sources": [
+        "정부조직법 법률 제5529호 (전부개정, 1998-02-28 공포·시행), 정무장관 article not carried over, 부칙 제3조제2항 표 정무장관실 → 행정자치부, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228 (accessed 2026-09-25T06:35:16-0400, snapshot inventory_sources/law_go_kr/govorg/text_19980228_58504.json, via offices.json OF007/OF008)",
+        "연합뉴스 1998-02-28 15:27:00 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot roster/sources/special/news/naver_001_0004298139.html) (새 정부조직법이 28일오후 공포 ... 기존의 공보처, 정무1, 정무2장관실 등은 폐지)",
+        "연합뉴스 1998-02-27 16:44:00 '高총리 등 일부 국무위원 3월봉급 반납키로' https://n.news.naver.com/mnews/article/001/0004290714 (accessed 2026-09-24T22:45:21-0400, snapshot roster/sources/special/news/naver_001_0004290714.html) (27일 광화문청사 국무위원 식당 오찬에 洪思德정무1장관 참석, 3월분 봉급 반납 결정)",
+        "연합뉴스 1998-02-27 10:24:00 '총리인준 거부로 사흘째 행정공백 계속' https://n.news.naver.com/mnews/article/001/0004302023 (accessed 2026-09-24T22:45:23-0400, snapshot roster/sources/special/news/naver_001_0004302023.html) (정무1장관실도 洪思德장관이 지난 24일 이미 이임식을 마쳐 업무가 마비)",
+        "BigKinds metadata record, 국민일보 1998-02-27 '「JP인준」 지연 현각료들 출근 고민(클릭!안테나)' news_id 01100201.19980227000000405 (POST https://www.bigkinds.or.kr/api/news/search.do, query '홍사덕 정무1장관' 1998-02-15..1998-03-06, accessed 2026-09-25T13:36:04-0400, snapshot roster/sources/special/news/bk_e6f8bd0f_1998-02-15_1998-03-06.json) (이임식을 가진 장관은 ... 홍사덕 정무1장관 ... 홍장관은 24일 ... then kept reporting to work)",
+        "[verifier] BigKinds metadata record, 제민일보 1998-02-26 '총리 긴급장관회의 소집' news_id 01700101.19980226102748010 (POST https://www.bigkinds.or.kr/api/news/search.do, query '정무1장관' 1998-02-25..1998-03-05, accessed 2026-09-25T21:54:55-0400, snapshot roster/sources/special/verify/bk_G1_*_1998-02-25_1998-03-05_p1.json) (26일 오전 긴급 장관회의 attended by 洪思德정무1장관)",
+        "[verifier] BigKinds metadata record, 경남신문 1998-02-28 '高총리등 舊내각' news_id 01500051.19980228153319106 (same query and snapshot) (27일 광화문청사 국무위원 식당 오찬 attended by 洪思德정무1장관)",
+        "[verifier] 연합뉴스 1998-02-28 15:30:00 '<새 정부조직법 발효와 공직사회 파장>-1' https://n.news.naver.com/mnews/article/001/0004300892 (accessed 2026-09-24T22:44:48-0400, snapshot roster/sources/special/verify/naver_001_0004300892.html) (공보처와 정무1장관실 등도 부처 자체가 폐지되므로)",
+        "[verifier] 연합뉴스 1998-03-01 16:04:00 '새 정부조직출범 이틀째, 정부부처 `휴업중'' https://n.news.naver.com/mnews/article/001/0004377889 (accessed 2026-09-24T22:45:03-0400, snapshot roster/sources/special/verify/naver_001_0004377889.html) (없어지는 공보처와 정무1장관실은 ... 폐지 분위기)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "김영삼",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 15th NA member (서울 강남구을, elected 1996 as 무소속 and still 무소속 when appointed per 연합뉴스 1997-08-05 인터뷰, party at seat end 한나라당 per na_members_15_22.csv), seat 1996-05-30..2000-05-29, mona_cd BW19186J. Held the seat concurrently (겸직).",
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "The transcript inputs start in 2000-06, after the office was abolished. No row in inputs/minister_role_meetings.csv carries a 정무장관 affiliation.",
+      "notes": "Kim Young-sam appointee still in office on 1998-02-25 (caretaker). The 8·5 개각 was announced on the afternoon of 1997-08-05 and the 임명장 were given on 1997-08-06 at 09:30, so start uses 08-06 (no digital gazette before 2001). ko.wikipedia gives 1997-08-05, and 경향신문 1997-08-06 writes '김영삼 대통령은 5일 오후 ... 임명하는 등 11개 부처 장관을 교체하는 개각을 단행했다', so 1997-08-05 is the alternative start (see issues). He held a farewell ceremony on 1998-02-24 but, like the other YS ministers, kept serving after the 1998-02-25 inauguration because the 김종필 consent vote failed (법제처 view that sitting ministers stay until successors are appointed, 한겨레 1998-02-27 BigKinds 01101001.19980227000000405). The office was abolished when 법률 제5529호 took effect on the afternoon of 1998-02-28, so the last full day is 1998-02-27 (same convention as offices.json and the sibling rosters for 공보처, 과학기술처 and 통상산업부). ko.wikipedia gives 1998-03-01. Not reappointed to any successor office (none exists). Birth date from the NA API (na_members_15_22.csv) and ko.wikipedia '홍사덕' https://ko.wikipedia.org/w/index.php?oldid=42349301 (snapshot roster/sources/special/wiki_홍사덕.json)."
+    },
+    {
+      "name": "이연숙",
+      "name_hanja": "李嬿淑",
+      "name_en": "Lee Yun-sook",
+      "name_en_source": "National Assembly open API ALLNAMEMBER (https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER), record for 이연숙, snapshot na_members/sources/api/allnamember/page_022.json (fetched 2026-09-25T02:16:02Z), ENG_NM 'Lee Yun-sook'",
+      "birth_date": "1935-12-11",
+      "gender": "F",
+      "ministry": "정무장관(제2)",
+      "office_title": "정무장관(제2)",
+      "deputy_pm": false,
+      "start": "1997-08-06",
+      "start_confidence": "medium",
+      "start_sources": [
+        "연합뉴스 1997-08-06 09:44:00 '金대통령 靑瓦臺서 비상대책회의 주재(종합)' https://n.news.naver.com/mnews/article/001/0004181698 (accessed 2026-09-25T13:01:46-0400, snapshot roster/sources/special/news/naver_001_0004181698.html) (6일 오전 9시30분 ... 신임각료 11명에게 임명장을 주었다 (the 11 ministers of the 8·5 개각 include 정무2 이연숙))",
+        "BigKinds metadata record, 한겨레 1997-08-09 '이연숙 신임 정무2장관/“농촌여성 위해 힘쓰겠다”(인터뷰)' news_id 01101001.19970809000001303 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이연숙 정무2장관' 1997-08-04..1997-08-10, accessed 2026-09-25T13:34:43-0400, snapshot roster/sources/special/news/bk_8a29ff35_1997-08-04_1997-08-10.json) (지난 6일 제8대 정무제2장관에 취임한 이연숙)",
+        "BigKinds metadata record, 중앙일보 1997-08-07 '[인터뷰]6월 취임한 이연숙 신임 정무제2장관' news_id 01100901.19970807175202001 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이연숙 정무2장관' 1997-08-04..1997-08-10, accessed 2026-09-25T13:34:43-0400, snapshot roster/sources/special/news/bk_8a29ff35_1997-08-04_1997-08-10.json) (6일 제8대 정무2장관으로 취임한 李연淑)",
+        "BigKinds metadata record, 경향신문 1997-08-06 '11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임' news_id 01100101.19970806000000101 (POST https://www.bigkinds.or.kr/api/news/search.do, query '임명장 신임 장관' 1997-08-05..1997-08-07, accessed 2026-09-25T13:34:25-0400, snapshot roster/sources/special/news/bk_ea7b7f19_1997-08-05_1997-08-07.json) (8·5 개각 list names 정무2 이연숙)",
+        "ko.wikipedia '대한민국 정무장관(제2)실' https://ko.wikipedia.org/w/index.php?oldid=40891478 (accessed 2026-09-25T13:32:49-0400, snapshot roster/sources/special/wiki_대한민국_정무장관(제2)실.json) (row 10대 이연숙 1997-08-06 ~ 1998-03-02, secondary)",
+        "[verifier] BigKinds metadata record, 매일경제 1997-08-06 '11개 부처 장관 교체/김 대통령 중폭 개각' news_id 02100101.20160113174038434 (POST https://www.bigkinds.or.kr/api/news/search.do, query '정무1장관 홍사덕' 1997-08-05..1997-08-07, accessed 2026-09-25T21:56:05-0400, snapshot roster/sources/special/verify/bk_H1_*_1997-08-05_1997-08-07_p1.json) (list names 정무2 이연숙)",
+        "[verifier] tier-2 ministry pages for the other 1997-08-05 개각 appointees give 1997-08-06 (see the 홍사덕 start sources, snapshots in roster/sources/special/verify/)"
+      ],
+      "end": "1998-02-27",
+      "end_confidence": "medium",
+      "end_sources": [
+        "정부조직법 법률 제5529호 (전부개정, 1998-02-28 공포·시행), 정무장관 article not carried over, 부칙 제3조제2항 표 정무장관실 → 행정자치부, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228 (accessed 2026-09-25T06:35:16-0400, snapshot inventory_sources/law_go_kr/govorg/text_19980228_58504.json, via offices.json OF007/OF008)",
+        "연합뉴스 1998-02-28 15:27:00 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot roster/sources/special/news/naver_001_0004298139.html) (기존의 공보처, 정무1, 정무2장관실 등은 폐지)",
+        "연합뉴스 1998-02-27 21:56:00 '<표> 행정부 재산증감액-1' https://n.news.naver.com/mnews/article/001/0004300952 (accessed 2026-09-24T22:45:16-0400, snapshot roster/sources/special/news/naver_001_0004300952.html) (the 1998-02-27 행정부 재산증감 table still lists 李연淑정무2장관 among sitting officials)",
+        "BigKinds metadata record, 서울신문 1998-02-27 '행정부 ‘개점 휴업’ 이틀째/총리 인준 차질로' news_id 01100611.20160421191543883 (POST https://www.bigkinds.or.kr/api/news/search.do, query '홍사덕 정무1장관' 1998-02-15..1998-03-06, accessed 2026-09-25T13:36:04-0400, snapshot roster/sources/special/news/bk_e6f8bd0f_1998-02-15_1998-03-06.json) (26일 김대중 대통령 ... 고건 국무총리를 비롯한 현 국무위원이 모두 정상출근 ... 지시)",
+        "BigKinds metadata record, 한겨레 1998-02-27 '국정 사실상 마비/각 정부부처 표정' news_id 01101001.19980227000000405 (POST https://www.bigkinds.or.kr/api/news/search.do, query '홍사덕 정무1장관' 1998-02-15..1998-03-06, accessed 2026-09-25T13:36:04-0400, snapshot roster/sources/special/news/bk_e6f8bd0f_1998-02-15_1998-03-06.json) (새 장관 임명 전까지는 현 장관의 임기가 계속된다는 법제처의 유권해석)",
+        "[verifier] BigKinds metadata record, 서울신문 1998-02-18 '문민 마지막 정례 각의/국무회의 17일' news_id 01100611.20160421190031645 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이연숙' 1998-02-16..1998-03-06, accessed 2026-09-25T22:02:22-0400, snapshot roster/sources/special/verify/bk_N_*_1998-02-16_1998-03-06.json) (이연숙 정무2장관 speaks at the 1998-02-17 국무회의)",
+        "[verifier] BigKinds metadata record, 중부매일 1998-02-20 '인/터/뷰' news_id 01400401.19980220055739001 (same query and snapshot) (이연숙 정무 제2장관 in 청주 on 1998-02-19/20)",
+        "[verifier] BigKinds metadata record, 경향신문 1998-02-28 '총리인준 지연으로 근무연장 국무위원 급여 반납/고건 총리 밝혀' news_id 01100101.19980228000000209 (same query and snapshot) (국무위원들은 27일 ... 다음달 2일까지 근무할 경우 받게 되는 3월분 보수를 전액 반납키로, the whole 고건 cabinet kept serving)",
+        "[verifier] 연합뉴스 1998-02-28 14:44:00 '행정공백으로 유엔서 종군위안부 문제제기에 차질' https://n.news.naver.com/mnews/article/001/0004296764 (accessed 2026-09-24T22:45:13-0400, snapshot roster/sources/special/verify/naver_001_0004296764.html) (정무제2장관실 staff still named as delegates on 1998-02-28)",
+        "[verifier] 연합뉴스 1998-03-03 13:32:00 '기대 못미친 여성 각료 등용과 면면' https://n.news.naver.com/mnews/article/001/0004371183 (accessed 2026-09-24T22:44:29-0400, snapshot roster/sources/special/verify/naver_001_0004371183.html) (정부조직 개편에 따라 대통령직속기구로 신설된 여성특별위원회, no 정무2장관 in the new cabinet)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "김영삼",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "The transcript inputs start in 2000-06, after the office was abolished. She later sat in the 16th NA (한나라당 비례대표, 2000-05-30..2004-05-29), outside this spell.",
+      "notes": "Kim Young-sam appointee in office on 1998-02-25 (caretaker). Named in the 8·5 개각 (announced 1997-08-05) and took office with the 임명장 on 1997-08-06. The last direct sightings of her as sitting minister are 연합 1998-02-23 (event attendance, 연합뉴스 1998-02-23 16:10:00 '서울대 성희롱사건 승소 축하연 열려' https://n.news.naver.com/mnews/article/001/0004298621 (accessed 2026-09-25T13:36:51-0400, snapshot roster/sources/special/news/naver_001_0004298621.html)) and the 1998-02-27 asset table. The 정무장관(제2)실 was abolished when 법률 제5529호 took effect on 1998-02-28 and its 여성정책 functions went to the new 여성특별위원회 (not a 국무위원 office), so the spell ends on 1998-02-27. ko.wikipedia gives 1998-03-02 (day before the new cabinet). Hanja 李嬿淑 from ko.wikipedia '이연숙 (1935년)' https://ko.wikipedia.org/w/index.php?oldid=42095013 (snapshot roster/sources/special/wiki_이연숙_(1935년).json), which cites 동아일보 1997-09-10. The NA API and 1997 press print 李연淑 because 嬿 is outside the legacy character set. Birth date from the NA API (na_members_15_22.csv, mona_cd S8266690) and ko.wikipedia. Not a sitting MP during the spell."
+    },
+    {
+      "name": "주호영",
+      "name_hanja": "朱豪英",
+      "name_en": "Joo Ho-young",
+      "name_en_source": "National Assembly open API ALLNAMEMBER (https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER), record for 주호영, snapshot na_members/sources/api/allnamember/page_030.json (fetched 2026-09-25T02:16:25Z), ENG_NM 'JOO HOYOUNG' (hyphenated here)",
+      "birth_date": "1960-12-10",
+      "gender": "M",
+      "ministry": "특임장관",
+      "office_title": "특임장관",
+      "deputy_pm": false,
+      "start": "2009-09-21",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17096호 (published 2009-09-24), 인사발령(행정안전부), '⊙2009년 9월 21일자 주 호 영(朱 豪 英) 국무위원에 임함 특임장관에 보함'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319111234883000&tocId=00000000000000001319111253800000&isTocOrder=N (accessed 2026-09-25T06:52:16-0400, snapshot roster/sources/special/gazette/gazette_17096_20090924_00000000000000001319111253800000.pdf, text harvest/gazette_text/20090924_17096_00000000000000001319111253800000.txt)",
+        "국민일보 2009-09-22 18:08:04 '대통령 전자결재로 임명… 11년만에 부활，특임장관 업무 개시' https://n.news.naver.com/mnews/article/005/0000379170 (accessed 2026-09-25T13:38:48-0400, snapshot roster/sources/special/news/naver_005_0000379170.html) (이명박 대통령은 미국을 방문하기 전인 19일 전자 결재를 통해 21일자로 주 장관을 특임장관에 임명했다)",
+        "노컷뉴스 2009-09-22 18:57:02 '李대통령, 주호영,최경환 장관 사실상 임명' https://n.news.naver.com/mnews/article/079/0002093214 (accessed 2026-09-25T13:38:43-0400, snapshot roster/sources/special/news/naver_079_0002093214.html) (청와대 says the President signed 주 후보자의 청문보고서 on the 21st by 전자결재, 사실상 장관 임명 절차를 마친 것, with the 임명장 ceremony later)",
+        "매일신문 2009-09-22 12:03:02 '주호영 특임장관, 총리후보 청문회 지원 착수' https://n.news.naver.com/mnews/article/088/0000140558 (accessed 2026-09-25T13:38:47-0400, snapshot roster/sources/special/news/naver_088_0000140558.html) (주호영 특임장관이 22일 ... 본격적인 특임장관 활동에 착수)",
+        "연합뉴스 2009-09-30 15:45:53 '임명장 받는 주호영 특임장관' https://n.news.naver.com/mnews/article/001/0002892355 (accessed 2026-09-25T13:38:56-0400, snapshot roster/sources/special/news/naver_001_0002892355.html) (임명장 수여 ceremony 2009-09-30, the date ko.wikipedia and the old panel use as start)",
+        "[verifier] 관보 제17096호 item PDF re-downloaded and re-read by the verifier (toc_seq 00000000000000001319111253800000, accessed 2026-09-25T06:52:16-0400, snapshot roster/sources/special/verify/gazette_17096_00000000000000001319111253800000.pdf) '⊙2009년 9월 21일자 주 호 영(朱 豪 英) 국무위원에 임함 특임장관에 보함'",
+        "[verifier] BigKinds metadata record, 노컷뉴스 2010-08-30 '주호영, \"국가운영의 요체는 '국민신뢰'\"' news_id 04100058.20100830161430008 (POST https://www.bigkinds.or.kr/api/news/search.do, query '주호영 이임식' 2010-08-27..2010-09-01, accessed 2026-09-25T21:55:45-0400, snapshot roster/sources/special/verify/bk_E1_*_2010-08-27_2010-09-01_p1.json) (이임사 '지난해 9월, 11년 만에 특임장관실이 부활', so no earlier holder)"
+      ],
+      "end": "2010-08-30",
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2010-08-30 14:38:45 '주호영 \"국민 신뢰는 막힘없는 소통에서\"' https://n.news.naver.com/mnews/article/001/0004630011 (accessed 2026-09-25T13:39:12-0400, snapshot roster/sources/special/news/naver_001_0004630011.html) (주호영 특임장관이 30일 오후 ... 이임식을 갖고 초대 특임장관의 소임을 마무리)",
+        "노컷뉴스 2010-08-30 15:50:01 '주호영, \"국가운영의 요체는 '국민신뢰'\"' https://n.news.naver.com/mnews/article/079/0002180125 (accessed 2026-09-25T13:39:13-0400, snapshot roster/sources/special/news/naver_079_0002180125.html) (30일 이임식 갖고 장관 업무 마무리)",
+        "관보 제17335호 (published 2010-09-03), 인사발령(행정안전부), '이 재 오(李 在 五) 국무위원에 임함 특임장관에 보함 2010.8.30'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095495488000&tocId=00000000000000001319095514840000&isTocOrder=N (accessed 2026-09-24T22:58:56-0400, snapshot roster/sources/special/gazette/gazette_17335_20100903_00000000000000001319095514840000.pdf, text harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt) (successor 이재오 appointed 2010-08-30, same-day handover)",
+        "ko.wikipedia '대한민국 특임장관실' https://ko.wikipedia.org/w/index.php?oldid=41112283 (accessed 2026-09-25T13:32:48-0400, snapshot roster/sources/special/wiki_대한민국_특임장관실.json) (row 초대 주호영 2009-09-30 ~ 2010-08-30, secondary)",
+        "[verifier] BigKinds metadata record, 아시아경제 2010-08-30 '주호영 특임 \"국민 신뢰는 막힘없는 소통에서 비롯\"' news_id 02100801.20100830112208001 (POST https://www.bigkinds.or.kr/api/news/search.do, query '주호영 이임식' 2010-08-27..2010-09-01, accessed 2026-09-25T21:55:45-0400, snapshot roster/sources/special/verify/bk_E1_*_2010-08-27_2010-09-01_p1.json) (30일 오후 이임식, 재임 마지막 일정)",
+        "[verifier] BigKinds metadata record, 머니투데이 2010-08-30 '주호영 \"국가운영의 요체는 국민의 신뢰\"' news_id 02100201.20100830150000678 (same query and snapshot)",
+        "[verifier] BigKinds metadata record, 헤럴드경제 2010-08-30 '초대 특임장관 소임 마무리한 주호영' news_id 02100701.20160114073523403 (POST https://www.bigkinds.or.kr/api/news/search.do, query '주호영 특임장관' 2010-08-28..2010-09-02, accessed 2026-09-25T21:56:00-0400, snapshot roster/sources/special/verify/bk_E2_*_2010-08-28_2010-09-02_p1.json)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 18th NA member (한나라당, 대구 수성구을), seat 2008-05-30..2012-05-29, mona_cd 8SV6917G (na_members_15_22.csv). Held the seat concurrently (겸직).",
+      "transcript_check": "ok",
+      "transcript_notes": "Valid hearing types only. As minister (affiliation 특임) 5 상임위원회 meetings from 2009-11-12 to 2010-06-24 (정무위원회 and 국회운영위원회), all inside 2009-09-21..2010-08-30. As nominee, 정무위원회 meeting 38471 on 2009-09-15 (nominee_hearing_meetings.csv). One row in the same meeting 38471 is labelled '특임장관후보장 주호영' with role minister, a typo for 후보자 at the hearing, so it is not a tenure bound. This is audit/coverage_gaps.csv row 398 (excluded_nominee_title), which needs no new spell.",
+      "notes": "First holder of the optional post created on 2008-02-29 (the post was vacant until then). Nominated in the 9·3 개각 (2009-09-03). The gazette dates the appointment 2009-09-21, matching 국민일보's report that the President signed on 09-19 with effect from the 21st. The 임명장 ceremony on 2009-09-30 is the date in ko.wikipedia and in the old panel (which also gives a wrong end, 2010-08-10). Replaced in the 8·8 개각 by 이재오 on 2010-08-30. Birth date from the NA API (na_members_15_22.csv)."
+    },
+    {
+      "name": "이재오",
+      "name_hanja": "李在五",
+      "name_en": "Lee Jae-oh",
+      "name_en_source": "National Assembly open API ALLNAMEMBER (https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER), record for 이재오, snapshot na_members/sources/api/allnamember/page_023.json (fetched 2026-09-25T02:16:05Z), ENG_NM 'LEE Jae Oh' (hyphenated here)",
+      "birth_date": "1945-01-11",
+      "gender": "M",
+      "ministry": "특임장관",
+      "office_title": "특임장관",
+      "deputy_pm": false,
+      "start": "2010-08-30",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17335호 (published 2010-09-03), 인사발령(행정안전부), '이 재 오(李 在 五) 국무위원에 임함 특임장관에 보함 2010.8.30'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095495488000&tocId=00000000000000001319095514840000&isTocOrder=N (accessed 2026-09-24T22:58:56-0400, snapshot roster/sources/special/gazette/gazette_17335_20100903_00000000000000001319095514840000.pdf, text harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt)",
+        "연합뉴스 2010-08-30 09:39:47 '李대통령, 이재오.조현오 내정자 등 임명장' https://n.news.naver.com/mnews/article/001/0004629154 (accessed 2026-09-25T13:39:20-0400, snapshot roster/sources/special/news/naver_001_0004629154.html) (이명박 대통령이 30일 오후 청와대에서 이재오 특임장관에게 임명장)",
+        "뉴시스 2010-08-30 18:24:31 '李대통령 \"신임 장관, '공정한 사회' 염두해 일하라\"' https://n.news.naver.com/mnews/article/003/0003410703 (accessed 2026-09-25T13:39:25-0400, snapshot roster/sources/special/news/naver_003_0003410703.html) (30일 오후 ... 이재오 특임장관 ... 임명장 수여식)",
+        "내일신문 2010-08-30 12:03:00 '이 대통령, 오늘 장관 임명' https://n.news.naver.com/mnews/article/086/0002017607 (accessed 2026-09-25T13:39:21-0400, snapshot roster/sources/special/news/naver_086_0002017607.html) (이 대통령은 이들 내정자에 대한 임명 재가를 이미 마친 상태)",
+        "ko.wikipedia '대한민국 특임장관실' https://ko.wikipedia.org/w/index.php?oldid=41112283 (accessed 2026-09-25T13:32:48-0400, snapshot roster/sources/special/wiki_대한민국_특임장관실.json) (row 2대 이재오 2010-08-30 ~ 2011-09-19, secondary)",
+        "[verifier] 관보 제17335호 item PDF re-downloaded and re-read by the verifier (toc_seq 00000000000000001319095514840000, accessed 2026-09-24T22:58:56-0400, snapshot roster/sources/special/verify/gazette_17335_00000000000000001319095514840000.pdf) '이 재 오(李 在 五) 국무위원에 임함 특임장관에 보함 2010.8.30'"
+      ],
+      "end": "2011-09-19",
+      "end_confidence": "medium",
+      "end_sources": [
+        "연합뉴스 2011-09-19 22:18:58 '이재오 \"새로운 정치의 장 열겠다\"' https://n.news.naver.com/mnews/article/001/0005272414 (accessed 2026-09-25T13:39:46-0400, snapshot roster/sources/special/news/naver_001_0005272414.html) (지난 8ㆍ30 개각 이후 사표를 제출한 이 장관은 이날(19일) 오후 세종로 정부중앙청사에서 이임식)",
+        "뉴시스 2011-09-19 19:05:24 '이재오 특임장관 이임식' https://n.news.naver.com/mnews/article/003/0004086947 (accessed 2026-09-25T13:39:40-0400, snapshot roster/sources/special/news/naver_003_0004086947.html) (이재오 특임장관 이임식이 열린 19일 오후)",
+        "세계일보 2011-09-20 01:05:01 '이재오 “토의종군 자세로 새 정치의 장 열겠다”' https://n.news.naver.com/mnews/article/022/0002309942 (accessed 2026-09-25T13:39:47-0400, snapshot roster/sources/special/news/naver_022_0002309942.html) (특임장관 이재오가 국회의원 이재오로 20일 컴백 ... 8·30 개각 후 사표를 낸 지 20일 만)",
+        "연합뉴스 2011-09-16 17:15:49 '이재오 특임, 각료활동 마무리 수순' https://n.news.naver.com/mnews/article/001/0005268192 (accessed 2026-09-25T13:41:19-0400, snapshot roster/sources/special/news/naver_001_0005268192.html) (지난달 31일 사표를 제출한 이 장관은 지난 8ㆍ30 개각에서 교체된 장관들이 공식 퇴임할 때 함께 특임장관직에서 물러나)",
+        "연합뉴스 2011-09-20 10:58:15 '이재오ㆍ정병국ㆍ진수희, 국감 통해 국회 복귀' https://n.news.naver.com/mnews/article/001/0005273003 (accessed 2026-09-25T13:07:29-0400, snapshot roster/sources/special/news/naver_001_0005273003.html) (20일 보건복지위원회 국정감사를 시작으로 국회로 복귀, 전날 특임장관 이임식)",
+        "연합뉴스 2011-09-18 10:59:59 '이재오 \"정전사태, 책임질 사람 스스로 책임져야\"' https://n.news.naver.com/mnews/article/001/0005269489 (accessed 2026-09-25T13:41:22-0400, snapshot roster/sources/special/news/naver_001_0005269489.html) (지난 8ㆍ30 개각 이후 이 대통령에게 사표를 제출한 이 장관은 19일 오전 공식 퇴임하고 여의도로 복귀한다)",
+        "ko.wikipedia '대한민국 특임장관실' https://ko.wikipedia.org/w/index.php?oldid=41112283 (accessed 2026-09-25T13:32:48-0400, snapshot roster/sources/special/wiki_대한민국_특임장관실.json) (end 2011-09-19, secondary)",
+        "[verifier] BigKinds metadata record, 경향신문 2011-08-31 '당 복귀 이재오 “계파모임 않겠다”' news_id 01100101.2011083110006699510 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이재오 사표 수리' 2011-08-30..2011-09-25, accessed 2026-09-25T21:54:43-0400, snapshot roster/sources/special/verify/bk_D1_*_2011-08-30_2011-09-25_p1.json) (31일 사표 제출, 사표는 후임 장관이 임명된 뒤 수리될 예정)",
+        "[verifier] BigKinds metadata record, 머니투데이 2011-09-18 '이재오 \"정전사태 책임질 사람 책임져야\"' news_id 02100201.20110918093545004 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이재오 사표' 2011-09-15..2011-09-20, accessed 2026-09-25T21:57:29-0400, snapshot roster/sources/special/verify/bk_D5_*_2011-09-15_2011-09-20.json) (still 이재오 특임장관 on 09-18)",
+        "[verifier] BigKinds metadata record, MBC 2011-09-19 '이재오 특임장관 이임식 \"정치인 이재오로\"' news_id 08100201.20110919150000344 (POST https://www.bigkinds.or.kr/api/news/search.do, query '이재오 이임식' 2011-09-15..2011-09-22, accessed 2026-09-25T21:55:09-0400, snapshot roster/sources/special/verify/bk_D3_*_2011-09-15_2011-09-22_p1.json)",
+        "[verifier] BigKinds metadata record, 국민일보 2011-09-19 '이재오 “4대강 자전거 종주”' news_id 01100201.20110919190503001 (same query and snapshot) (19일 이임식을 갖고 여의도로 복귀)",
+        "[verifier] BigKinds metadata record, 이투데이 2011-09-20 '을에서 갑으로… 이재오·정병국·진수희, 친정 복귀' news_id 02100351.20110920150000424 (same query and snapshot) (전날 특임장관 이임식을 가졌던 이재오 의원)"
+      ],
+      "end_reason": "resigned",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 18th NA member (한나라당, 서울 은평구을), seated at the 2010-07-28 by-election, seat to 2012-05-29, mona_cd NDH62175 (na_members_15_22.csv). Held the seat concurrently (겸직).",
+      "transcript_check": "ok",
+      "transcript_notes": "Valid hearing types only. As minister (affiliation 특임) 6 상임위원회 meetings and 1 국정감사 meeting (국회운영위원회), first 2010-09-09 and last 2011-06-27, all inside 2010-08-30..2011-09-19. As nominee, 국회운영위원회 meeting 39680 on 2010-08-23. No row places him as minister outside the spell.",
+      "notes": "Nominated in the 8·8 개각 (2010-08-08), hearing 2010-08-23, report adopted 2010-08-27, appointed 2010-08-30 (gazette). He submitted his resignation on 2011-08-31 after the 8·30 개각 and left with the replaced ministers. The date the resignation was accepted (의원면직) was not found in the gazette or the news. The end uses 2011-09-19, the day of his 이임식 and the last day the press calls him 특임장관, with his return to the Assembly on 09-20. The successors of the other replaced ministers (류우익 and three others) are dated 2011-09-17 in 관보 제17596호 (harvest/gazette_text/20110921_17596_00000000000000001320220991219001.txt) and received their 임명장 on 09-19, so an acceptance on 09-17 is possible. The old panel gives 2012-01-30, which is wrong. No successor was named until 2012-02-01 (고흥길)."
+    },
+    {
+      "name": "고흥길",
+      "name_hanja": "高興吉",
+      "name_en": "Ko Heung-kil",
+      "name_en_source": "National Assembly open API ALLNAMEMBER (https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER), record for 고흥길, snapshot na_members/sources/api/allnamember/page_002.json (fetched 2026-09-25T02:15:05Z), ENG_NM 'Ko, Heung kil' (reordered and hyphenated here)",
+      "birth_date": "1944-08-13",
+      "gender": "M",
+      "ministry": "특임장관",
+      "office_title": "특임장관",
+      "deputy_pm": false,
+      "start": "2012-02-24",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17710호 (published 2012-02-29), 인사발령(행정안전부), '고흥길(高興吉) 국무위원에 임함 특임장관에 보함 2012. 2. 24'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001330415494295000&tocId=00000000000000001330415550107000&isTocOrder=N (accessed 2026-09-25T06:58:56-0400, snapshot roster/sources/special/gazette/gazette_17710_20120229_00000000000000001330415550107000.pdf, text harvest/gazette_text/20120229_17710_00000000000000001330415550107000.txt)",
+        "연합뉴스 2012-02-24 15:29:55 '李대통령, 고흥길 특임장관 임명' https://n.news.naver.com/mnews/article/001/0005529268 (accessed 2026-09-25T13:48:26-0400, snapshot roster/sources/special/news/naver_001_0005529268.html) (이명박 대통령이 24일 오후 청와대에서 고흥길 특임장관에게 임명장을 수여)",
+        "뉴시스 2012-02-24 22:06:06 '李대통령, 고흥길 특임장관 임명장 수여' https://n.news.naver.com/mnews/article/003/0004358061 (accessed 2026-09-25T13:48:27-0400, snapshot roster/sources/special/news/naver_003_0004358061.html) (24일 오후 청와대에서 고흥길 특임장관에게 임명장을 수여)",
+        "연합뉴스 2012-02-24 06:00:02 '<오늘의 주요 정치뉴스>(24일)' https://n.news.naver.com/mnews/article/001/0005528256 (accessed 2026-09-25T13:48:30-0400, snapshot roster/sources/special/news/naver_001_0005528256.html) (오후 3시 청와대에서 고흥길 신임 특임장관에게 임명장을 수여한다)",
+        "ko.wikipedia '대한민국 특임장관실' https://ko.wikipedia.org/w/index.php?oldid=41112283 (accessed 2026-09-25T13:32:48-0400, snapshot roster/sources/special/wiki_대한민국_특임장관실.json) (row 3대 고흥길 2012-02-24 ~ 2013-03-23, secondary)",
+        "[verifier] 관보 제17710호 item PDF re-downloaded and re-read by the verifier (toc_seq 00000000000000001330415550107000, accessed 2026-09-25T06:58:56-0400, snapshot roster/sources/special/verify/gazette_17710_00000000000000001330415550107000.pdf) '고흥길( 高興吉) 국무위원에 임함 특임장관에 보함 2012. 2. 24'",
+        "[verifier] BigKinds metadata record, 중앙일보 2012-02-29 '[사진] 고흥길 특임장관 국무회의 첫 참석' news_id 01100901.20120229085309001 (POST https://www.bigkinds.or.kr/api/news/search.do, query '고흥길 불출마' 2011-12-01..2012-03-31, accessed 2026-09-25T22:06:05-0400, snapshot roster/sources/special/verify/bk_O_*_2011-12-01_2012-03-31.json) (24일 취임한 고 장관으로선 첫 국무회의)"
+      ],
+      "end": "2013-03-22",
+      "end_confidence": "medium",
+      "end_sources": [
+        "정부조직법 법률 제11690호 (전부개정, 2013-03-23 공포·시행), 부칙 제3조제1항 표 특임장관의 소관사무 → 국무총리비서실, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136556&efYd=20130323 (accessed 2026-09-25T06:47:50-0400, snapshot inventory_sources/law_go_kr/govorg/text_20130323_136556.json, via offices.json OF043)",
+        "뉴스1 2013-03-23 11:19:03 '정부조직 개정법률 23일 새벽 0시 발효(종합)' https://n.news.naver.com/mnews/article/421/0000217177 (accessed 2026-09-25T13:46:17-0400, snapshot roster/sources/special/news/naver_421_0000217177.html) (정부조직 개정법률 23일 새벽 0시 발효 ... 특임장관실을 폐지)",
+        "정책브리핑 2013-03-23 09:05:02 '정부조직개편 완료,“국민행복, 희망의 새시대”기반 마련' https://n.news.naver.com/mnews/article/298/0000101950 (accessed 2026-09-25T13:46:18-0400, snapshot roster/sources/special/news/naver_298_0000101950.html) (정책브리핑 2013-03-23 lists 중앙행정기관 △1실(특임장관실) and 장관급 △3(특임장관실 ...))",
+        "연합뉴스 2013-03-22 15:00:07 '정부개편안 본회의 통과…52일만에 늑장처리(종합2보)' https://n.news.naver.com/mnews/article/001/0006161295 (accessed 2026-09-25T13:43:45-0400, snapshot roster/sources/special/news/naver_001_0006161295.html) (정부개편안 본회의 통과 2013-03-22, 특임장관실은 폐지, 국무회의 의결 후 다음날 관보 게재로 시행)",
+        "뉴시스 2013-03-18 18:01:47 '고흥길 특임장관, 한국협동조합 창업경영지원센터 출범식 참석' https://n.news.naver.com/mnews/article/003/0005036301 (accessed 2026-09-25T13:44:05-0400, snapshot roster/sources/special/news/naver_003_0005036301.html) (고흥길 특임장관이 18일 오후 ... 출범기념식에서 축사, still in office on 2013-03-18)",
+        "BigKinds metadata record, 중앙일보 2013-03-21 '닉슨 미주리 주지사 초청 간담' news_id 01100901.20130321194746004 (POST https://www.bigkinds.or.kr/api/news/search.do, query '고흥길' 2013-02-15..2013-03-25, accessed 2026-09-25T13:44:51-0400, snapshot roster/sources/special/news/bk_2b57c542_2013-02-15_2013-03-25.json) (21일 오전 간담회 참석자로 '고흥길 특임장관')",
+        "연합뉴스 2013-03-29 09:01:40 '<재산공개> 총리실 대부분 재산 증가-2' https://n.news.naver.com/mnews/article/001/0006174122 (accessed 2026-09-25T13:46:16-0400, snapshot roster/sources/special/news/naver_001_0006174122.html) (2013-03-29 재산공개 names 고흥길 전 특임장관)",
+        "[verifier] 뉴스1 2013-03-20 18:11:01 '[동정]미주리주립대 한국 총동문회 김상열 회장' https://n.news.naver.com/mnews/article/421/0000213953 (accessed 2026-09-25T21:58:51-0400, snapshot roster/sources/special/verify/naver_421_0000213953.html) (고흥길 특임장관 listed for the 03-21 event)",
+        "[verifier] 연합뉴스 2013-03-22 21:08:14 '정부조직법 공포안 국무회의 의결…17부3처17청 개편' https://n.news.naver.com/mnews/article/001/0006162126 (accessed 2026-09-25T21:59:11-0400, snapshot roster/sources/special/verify/naver_001_0006162126.html) (이명박 정부에서 신설됐던 특임장관실은 폐지됐다)",
+        "[verifier] 세계일보 2013-03-22 22:02:02 '정부조직법 공포안 국무회의 의결…17부3처17청 개편' https://n.news.naver.com/mnews/article/022/0002507485 (accessed 2026-09-25T21:59:08-0400, snapshot roster/sources/special/verify/naver_022_0002507485.html)",
+        "[verifier] 한국경제 2013-03-22 15:46:02 '정부, 국무회의 열고 정부조직법 개정안 의결…내일 시행' https://n.news.naver.com/mnews/article/015/0002851952 (accessed 2026-09-25T13:46:06-0400, snapshot roster/sources/special/verify/naver_015_0002851952.html) (국무회의 통과 다음 날인 23일 관보에 게재되면서 공식 발효)",
+        "[verifier] 정책브리핑 2013-03-25 18:05:01 '정부조직개편 완료···17부3처17청' https://n.news.naver.com/mnews/article/298/0000102007 (accessed 2026-09-25T21:59:13-0400, snapshot roster/sources/special/verify/naver_298_0000102007.html) (특임장관실이 폐지되며)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 18th NA member (한나라당, from 2012-02 새누리당, 경기 성남시분당구갑) until 2012-05-29, mona_cd JGX8852O (na_members_15_22.csv). Did not run in the 2012-04-11 election, so not an MP from 2012-05-30. Not among the 새누리당 applicants for the 2012 nominations (아시아경제 2012-02-16 BigKinds news_id 02100801.20120216150553001, snapshot roster/sources/special/verify/bk_O_*_2011-12-01_2012-03-31.json).",
+      "transcript_check": "ok",
+      "transcript_notes": "Valid hearing types only. As minister (affiliation 특임) 4 상임위원회 meetings and 1 국정감사 meeting (국회운영위원회), first 2012-07-30 and last 2012-11-05, all inside 2012-02-24..2013-03-22. As nominee, 국회운영위원회 meeting 41624 on 2012-02-14.",
+      "notes": "Nominated on 2012-02-01 to the post vacant since 이재오 left. Hearing 2012-02-14. The 운영위 meeting to adopt the report on 02-16 collapsed and likms shows no adoption, and he was appointed on 2012-02-24 (gazette). He stayed in office past the 2013-02-25 inauguration of 박근혜, as did the other 이명박 ministers whose resignations had not been accepted (연합 2013-02-25, 연합뉴스 2013-02-25 09:32:01 '<박근혜정부 출범> '반쪽' 정부·청와대로 시작' https://n.news.naver.com/mnews/article/001/0006112494 (accessed 2026-09-25T13:57:45-0400, snapshot roster/sources/special/news/naver_001_0006112494.html)). He is still called 특임장관 on 2013-03-18 and 03-21, and no acceptance of his resignation was found. The office was abolished when 법률 제11690호 took effect at 00:00 on 2013-03-23, so the last day is 2013-03-22. Some February 2013 regional reports expected him to leave with the 이명박 government on 02-25 (대전일보 2013-02-18, BigKinds metadata record, 대전일보 2013-02-18 '\"오송화장품박람회 성공 기원\"' news_id 01400201.20130218025033003 (POST https://www.bigkinds.or.kr/api/news/search.do, query '고흥길' 2013-02-15..2013-03-25, accessed 2026-09-25T13:44:51-0400, snapshot roster/sources/special/news/bk_2b57c542_2013-02-15_2013-03-25.json)), which the March reports contradict. The old panel gives end 2013-03-23 and a hearing report 'adopted', both wrong. Continues under 박근혜 from 2013-02-25 (not split here, presidential transitions are split in code)."
+    }
+  ],
+  "nominations": [
+    {
+      "nominee": "주호영",
+      "office_title": "특임장관",
+      "nomination_date": "2009-09-03",
+      "request_date": "2009-09-09",
+      "likms_bill_id": "PRC_S0E9V0Z9V0L9B1F7M4G8B3I2T8B4I4",
+      "hearing_dates": [
+        "2009-09-15"
+      ],
+      "hearing_committee": "정무위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2009-09-21",
+      "sources": [
+        "의안정보시스템 ZZ18065 '국무위원후보자(특임장관 주호영) 인사청문요청안(대통령)', 제안일자 2009-09-09, 정무위원회 회부 2009-09-09, 상정 2009-09-11, 처리 2009-09-17 경과보고서채택, 경과보고서 송부일 2009-09-18. https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S0E9V0Z9V0L9B1F7M4G8B3I2T8B4I4 (accessed 2026-09-25T06:43:26-0400, harvest/likms/PRC_S0E9V0Z9V0L9B1F7M4G8B3I2T8B4I4.txt, search list snapshot roster/sources/special/likms/likms_search_special.json)",
+        "inputs/nominee_hearing_meetings.csv, 정무위원회 meeting 38471, agenda '국무위원후보자(특임장관 주호영) 인사청문요청안 심사를 위한 인사청문회', 2009-09-15",
+        "연합뉴스 2009-09-03 16:34:23 '국무총리에 정운찬..6개 부처 개각(종합3보)' https://n.news.naver.com/mnews/article/001/0002846383 (accessed 2026-09-25T13:51:16-0400, snapshot roster/sources/special/news/naver_001_0002846383.html) (3일 개각, 특임장관에는 주호영 의원이 내정)",
+        "경향신문 2009-09-03 18:18:02 '국무총리 정운찬 내정… 6개 부처  개각' https://n.news.naver.com/mnews/article/032/0002027616 (accessed 2026-09-25T13:51:18-0400, snapshot roster/sources/special/news/naver_032_0002027616.html)",
+        "연합뉴스 2009-09-17 15:58:24 '주호영 인사청문보고서 채택' https://n.news.naver.com/mnews/article/001/0002869678 (accessed 2026-09-25T13:51:58-0400, snapshot roster/sources/special/news/naver_001_0002869678.html) (국회 정무위원회는 17일 전체회의를 열고 주호영 특임장관 후보자에 대한 인사청문 경과보고서를 채택)",
+        "머니투데이 2009-09-17 17:12:43 '국회, 최경환·주호영 인사청문 보고서 채택' https://n.news.naver.com/mnews/article/008/0002207442 (accessed 2026-09-25T13:51:59-0400, snapshot roster/sources/special/news/naver_008_0002207442.html)",
+        "관보 제17096호 (published 2009-09-24), 인사발령(행정안전부), '⊙2009년 9월 21일자 주 호 영(朱 豪 英) 국무위원에 임함 특임장관에 보함'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319111234883000&tocId=00000000000000001319111253800000&isTocOrder=N (accessed 2026-09-25T06:52:16-0400, snapshot roster/sources/special/gazette/gazette_17096_20090924_00000000000000001319111253800000.pdf, text harvest/gazette_text/20090924_17096_00000000000000001319111253800000.txt)"
+      ],
+      "notes": "Part of the 9·3 개각 (정운찬 PM nominee). Appointment effective 2009-09-21 by electronic approval on 09-19, 임명장 on 09-30."
+    },
+    {
+      "nominee": "이재오",
+      "office_title": "특임장관",
+      "nomination_date": "2010-08-08",
+      "request_date": "2010-08-12",
+      "likms_bill_id": "PRC_W1T0P0C8H1M2I1O7J5O9E5N3W5I9R6",
+      "hearing_dates": [
+        "2010-08-23"
+      ],
+      "hearing_committee": "국회운영위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2010-08-30",
+      "sources": [
+        "의안정보시스템 ZZ18105 '국무위원후보자(특임장관 이재오) 인사청문요청안(대통령)', 제안일자 2010-08-12, 국회운영위원회 회부 2010-08-12, 상정·처리 2010-08-27 경과보고서채택 (제293회 제3차 전체회의), 경과보고서 송부일 2010-08-30. https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W1T0P0C8H1M2I1O7J5O9E5N3W5I9R6 (accessed 2026-09-25T06:43:54-0400, harvest/likms/PRC_W1T0P0C8H1M2I1O7J5O9E5N3W5I9R6.txt, search list snapshot roster/sources/special/likms/likms_search_special.json)",
+        "inputs/nominee_hearing_meetings.csv, 국회운영위원회 meeting 39680, agenda '국무위원후보자(특임장관 이재오) 인사청문회', 2010-08-23",
+        "연합뉴스 2010-08-08 14:00:05 '국무총리에 김태호 내정..장관급 9명 교체(2보)' https://n.news.naver.com/mnews/article/001/0004595119 (accessed 2026-09-25T13:51:24-0400, snapshot roster/sources/special/news/naver_001_0004595119.html) (8일 오후 개각, 특임장관에 이재오 내정)",
+        "연합뉴스 2010-08-27 12:18:05 '운영위, 이재오 청문보고서 여야 합의 채택' https://n.news.naver.com/mnews/article/001/0004626338 (accessed 2026-09-25T13:52:04-0400, snapshot roster/sources/special/news/naver_001_0004626338.html) (국회 운영위원회는 27일 이재오 특임장관 내정자에 대한 인사청문 경과보고서를 채택 (여야 합의))",
+        "아시아경제 2010-08-27 12:34:14 '운영위, 이재오 청문경과보고서 채택' https://n.news.naver.com/mnews/article/277/0002440028 (accessed 2026-09-25T13:52:05-0400, snapshot roster/sources/special/news/naver_277_0002440028.html)",
+        "관보 제17335호 (published 2010-09-03), 인사발령(행정안전부), '이 재 오(李 在 五) 국무위원에 임함 특임장관에 보함 2010.8.30'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095495488000&tocId=00000000000000001319095514840000&isTocOrder=N (accessed 2026-09-24T22:58:56-0400, snapshot roster/sources/special/gazette/gazette_17335_20100903_00000000000000001319095514840000.pdf, text harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt)"
+      ],
+      "notes": "Part of the 8·8 개각 (김태호 PM nominee, who withdrew). 이재오 had re-entered the Assembly at the 2010-07-28 by-election."
+    },
+    {
+      "nominee": "고흥길",
+      "office_title": "특임장관",
+      "nomination_date": "2012-02-01",
+      "request_date": "2012-02-03",
+      "likms_bill_id": "PRC_G1A2J0I2Y0P3D1K8W0T2A1P0Q4M9T4",
+      "hearing_dates": [
+        "2012-02-14"
+      ],
+      "hearing_committee": "국회운영위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2012-02-24",
+      "sources": [
+        "의안정보시스템 ZZ18179 '국무위원후보자(특임장관 고흥길) 인사청문요청안(대통령)', 제안일자 2012-02-03, 국회운영위원회 회부 2012-02-03, 상정 2012-02-14 (제305회 제2차 전체회의), 처리일·처리결과·의결결과 blank. https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_G1A2J0I2Y0P3D1K8W0T2A1P0Q4M9T4 (accessed 2026-09-25T06:46:41-0400, harvest/likms/PRC_G1A2J0I2Y0P3D1K8W0T2A1P0Q4M9T4.txt, search list snapshot roster/sources/special/likms/likms_search_special.json)",
+        "inputs/nominee_hearing_meetings.csv, 국회운영위원회 meeting 41624, agenda '국무위원후보자(특임장관 고흥길) 인사청문회' and '(계속)', 2012-02-14",
+        "연합뉴스 2012-02-01 11:00:25 '특임장관에 고흥길 한나라당 의원(종합2보)' https://n.news.naver.com/mnews/article/001/0005491122 (accessed 2026-09-25T13:51:32-0400, snapshot roster/sources/special/news/naver_001_0005491122.html) (이명박 대통령은 1일 공석인 특임장관에 한나라당 고흥길(68) 의원을 내정)",
+        "이데일리 2012-02-01 10:00:02 '靑, 특임장관에 고흥길 의원 내정' https://n.news.naver.com/mnews/article/018/0002552904 (accessed 2026-09-25T13:51:34-0400, snapshot roster/sources/special/news/naver_018_0002552904.html)",
+        "연합뉴스 2012-02-14 17:30:37 '고흥길 \"언론 자유 침해받았다고 생각 안해\"' https://n.news.naver.com/mnews/article/001/0005512311 (accessed 2026-09-25T13:48:11-0400, snapshot roster/sources/special/news/naver_001_0005512311.html) (14일 국회 운영위 인사청문회)",
+        "머니투데이 2012-02-16 17:32:43 '여야, 노골적 '밥그릇 싸움'…선거구 논란에 의사일정은 뒷전 (종합)' https://n.news.naver.com/mnews/article/008/0002756295 (accessed 2026-09-25T13:48:14-0400, snapshot roster/sources/special/news/naver_008_0002756295.html) (국회 운영위는 이날(16일) 전체회의를 열고 고흥길 특임장관 인사청문회 보고서를 채택하려 했으나 야당 의원들의 불참으로 파행)",
+        "머니투데이 2012-02-17 16:27:56 '여야 텃밭지키기 '꼼수'에 멈춰버린 국회' https://n.news.naver.com/mnews/article/008/0002757579 (accessed 2026-09-25T13:48:17-0400, snapshot roster/sources/special/news/naver_008_0002757579.html) (17일 기준 고흥길 특임장관 내정자의 인사청문회보고서 채택 등 주요 현안들이 해당 상임위에 잠들어 있다)",
+        "관보 제17710호 (published 2012-02-29), 인사발령(행정안전부), '고흥길(高興吉) 국무위원에 임함 특임장관에 보함 2012. 2. 24'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001330415494295000&tocId=00000000000000001330415550107000&isTocOrder=N (accessed 2026-09-25T06:58:56-0400, snapshot roster/sources/special/gazette/gazette_17710_20120229_00000000000000001330415550107000.pdf, text harvest/gazette_text/20120229_17710_00000000000000001330415550107000.txt)"
+      ],
+      "notes": "No 인사청문경과보고서 was adopted. likms records only the 2012-02-14 상정, with no 처리일 or 처리결과, and the 02-16 adoption meeting collapsed. The 20-day period from the 2012-02-03 request ended on 2012-02-23 and he was appointed on 02-24. Whether the President sent a formal 재송부 request under 인사청문회법 제6조③ was not found."
+    },
+    {
+      "nominee": "이춘호",
+      "office_title": "국무위원 (no portfolio in the request, announced as 여성담당 특임장관)",
+      "nomination_date": "2008-02-18",
+      "request_date": "2008-02-20",
+      "likms_bill_id": "PRC_C0C8V0P2V2Q0M2Q2H0X6X1U0D6H6A5",
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": true,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "withdrawn",
+      "outcome_date": "2008-02-22",
+      "refiled_as": "국무위원후보자(여성가족부장관 이춘호) 인사청문요청안, likms ZZ1911 (PRC_A0M8N0A2B2R2D1W9V1R9Q5Q4A4X2E5), 제안일자 2008-02-22, recorded in the gender roster",
+      "sources": [
+        "의안정보시스템 ZZ1908 '국무위원후보자(이춘호) 인사청문요청안(대통령당선인)', 소관위원회 미확정, 제안일자 2008-02-20, 의결일자 2008-02-22, 의결결과 철회, 비고 '2008. 2. 22. 대통령으로부터 철회요청이 있어 동일자로 철회'. https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_C0C8V0P2V2Q0M2Q2H0X6X1U0D6H6A5 (accessed 2026-09-25T06:40:03-0400, snapshot roster/sources/special/verify/likms_detail_PRC_C0C8V0P2V2Q0M2Q2H0X6X1U0D6H6A5.json, harvest/likms/PRC_C0C8V0P2V2Q0M2Q2H0X6X1U0D6H6A5.txt, independent likms search roster/sources/special/verify/likms_search_verify.json)",
+        "연합뉴스 2008-02-18 22:00:13 '재정경제 강만수, 교육 김도연(종합)' https://n.news.naver.com/mnews/article/001/0001964857 (accessed 2026-09-25T21:37:47-0400, snapshot roster/sources/special/verify/naver_001_0001964857.html) (남주홍(55) 경기대 교수와 이춘호(62.여) 한국자유총연맹 부총재를 국무위원 내정자로 발표했다. 남 교수와 이 부총재는 각각 대북담당, 여성담당 특임장관으로)",
+        "서울신문 2008-02-19 02:57:00 '교육 김도연 국무위원 남주홍·이춘호' https://n.news.naver.com/mnews/article/081/0001940679 (accessed 2026-09-25T13:08:45-0400, snapshot roster/sources/special/verify/naver_081_0001940679.html) (무임소 국무위원(특임장관)에 남주홍 경기대 교수와 이춘호 한국자유총연맹 부총재를 내정)",
+        "연합뉴스 2008-02-20 16:19:01 '인수위, 각료 청문요청서 수정 제출' https://n.news.naver.com/mnews/article/001/0001967896 (accessed 2026-09-25T22:00:15-0400, snapshot roster/sources/special/verify/naver_001_0001967896.html) (현재 국무위원(특임장관) 후보자로 돼 있는 남주홍 이춘호 후보자를 각각 통일부 장관, 여성부 장관 후보자로 특정해 인사청문 요청서를 내기로 했다)",
+        "노컷뉴스 2008-02-20 17:10:00 '인수위, 남주홍 통일 등 인사청문 요청서 수정 제출' https://n.news.naver.com/mnews/article/079/0001943230 (accessed 2026-09-25T22:00:17-0400, snapshot roster/sources/special/verify/naver_079_0001943230.html) (이번 새 정부가 출범할 때는 특임장관을 임명하지 않을 방침)",
+        "BigKinds metadata record, 한국일보 2008-02-20 '정부조직법 타결/ 특임장관은 누가 될까' news_id 01101101.20080220100000175 (POST https://www.bigkinds.or.kr/api/news/search.do, query '특임장관 남주홍' 2008-02-18..2008-02-23, accessed 2026-09-25T21:51:44-0400, snapshot roster/sources/special/verify/bk_A1_*_2008-02-18_2008-02-23_p1.json) (당초 무임소 국무위원 내정자였던 남주홍 ... 이춘호 ... 각각 통일부장관, 여성부장관으로 자리를 옮기게 됨에 따라 새 인물을 특임장관에 임명해야 한다)"
+      ],
+      "notes": "Named by 대통령당선인 이명박 on 2008-02-18 as one of two 국무위원 without portfolio, to serve as 특임장관 under the reorganization bill then under negotiation. The request reached the Assembly without a portfolio. After the 2008-02-20 party agreement kept 여성부, the 당선인 withdrew this request on 2008-02-22 and refiled it the same day for 여성가족부장관 (ZZ1911). She then withdrew as nominee on 2008-02-24 (gender roster). Not a withdrawal of the person, only of the no-portfolio request. 한국일보 2008-02-19 reports all 15 requests as received on 02-19, while likms dates this one 02-20. The likms 제안일자 is used."
+    },
+    {
+      "nominee": "남주홍",
+      "office_title": "국무위원 (no portfolio in the request, announced as 대북담당 특임장관)",
+      "nomination_date": "2008-02-18",
+      "request_date": "2008-02-21",
+      "likms_bill_id": "PRC_K0J8O0M2K2N1V1Z3U5W5T4R6J2G3V9",
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": true,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "withdrawn",
+      "outcome_date": "2008-02-22",
+      "refiled_as": "국무위원후보자(통일부장관 남주홍) 인사청문요청안, likms ZZ1912 (PRC_Q0B8B0Z2G2U2B1O9E2O5S1O8A8S1L3), 제안일자 2008-02-22, recorded in the unification roster",
+      "sources": [
+        "의안정보시스템 ZZ1909 '국무위원후보자(남주홍) 인사청문요청안(대통령당선인)', 소관위원회 본회의, 제안일자 2008-02-21, 의결일자 2008-02-22, 의결결과 철회, 비고 '2008. 2. 22. 대통령으로부터 철회요청이 있어 동일자로 철회'. https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_K0J8O0M2K2N1V1Z3U5W5T4R6J2G3V9 (accessed 2026-09-25T06:40:55-0400, snapshot roster/sources/special/verify/likms_detail_PRC_K0J8O0M2K2N1V1Z3U5W5T4R6J2G3V9.json, harvest/likms/PRC_K0J8O0M2K2N1V1Z3U5W5T4R6J2G3V9.txt, independent likms search roster/sources/special/verify/likms_search_verify.json)",
+        "연합뉴스 2008-02-18 22:00:13 '재정경제 강만수, 교육 김도연(종합)' https://n.news.naver.com/mnews/article/001/0001964857 (accessed 2026-09-25T21:37:47-0400, snapshot roster/sources/special/verify/naver_001_0001964857.html) (남주홍(55) 경기대 교수와 이춘호(62.여) 한국자유총연맹 부총재를 국무위원 내정자로 발표했다. 남 교수와 이 부총재는 각각 대북담당, 여성담당 특임장관으로)",
+        "서울신문 2008-02-19 02:57:00 '교육 김도연 국무위원 남주홍·이춘호' https://n.news.naver.com/mnews/article/081/0001940679 (accessed 2026-09-25T13:08:45-0400, snapshot roster/sources/special/verify/naver_081_0001940679.html) (무임소 국무위원(특임장관)에 남주홍 경기대 교수와 이춘호 한국자유총연맹 부총재를 내정)",
+        "연합뉴스 2008-02-20 16:19:01 '인수위, 각료 청문요청서 수정 제출' https://n.news.naver.com/mnews/article/001/0001967896 (accessed 2026-09-25T22:00:15-0400, snapshot roster/sources/special/verify/naver_001_0001967896.html) (현재 국무위원(특임장관) 후보자로 돼 있는 남주홍 이춘호 후보자를 각각 통일부 장관, 여성부 장관 후보자로 특정해 인사청문 요청서를 내기로 했다)",
+        "노컷뉴스 2008-02-20 17:10:00 '인수위, 남주홍 통일 등 인사청문 요청서 수정 제출' https://n.news.naver.com/mnews/article/079/0001943230 (accessed 2026-09-25T22:00:17-0400, snapshot roster/sources/special/verify/naver_079_0001943230.html) (이번 새 정부가 출범할 때는 특임장관을 임명하지 않을 방침)",
+        "BigKinds metadata record, 한국일보 2008-02-20 '정부조직법 타결/ 특임장관은 누가 될까' news_id 01101101.20080220100000175 (POST https://www.bigkinds.or.kr/api/news/search.do, query '특임장관 남주홍' 2008-02-18..2008-02-23, accessed 2026-09-25T21:51:44-0400, snapshot roster/sources/special/verify/bk_A1_*_2008-02-18_2008-02-23_p1.json) (당초 무임소 국무위원 내정자였던 남주홍 ... 이춘호 ... 각각 통일부장관, 여성부장관으로 자리를 옮기게 됨에 따라 새 인물을 특임장관에 임명해야 한다)"
+      ],
+      "notes": "Named on 2008-02-18 as a 국무위원 without portfolio (대북담당 특임장관 designate). After the 2008-02-20 agreement kept 통일부, the request was withdrawn on 2008-02-22 and refiled the same day for 통일부장관 (ZZ1912). He stepped down as nominee before any hearing and that request was withdrawn on 2008-02-27 (unification roster). likms lists the 소관위원회 of this request as 본회의."
+    }
+  ],
+  "acting": [
+    {
+      "name": "김해진",
+      "role": "특임차관, 특임장관 직무대행 (장관 공석)",
+      "from": "2011-09-20",
+      "to": "2012-01-09",
+      "sources": [
+        "연합뉴스 2011-10-06 22:29:48 '낙동강 살리기 현장방문한 특임장관 직무대행' https://n.news.naver.com/mnews/article/001/0005304072 (accessed 2026-09-25T13:41:04-0400, snapshot roster/sources/special/news/naver_001_0005304072.html) (6일 ... 김해진 특임장관 직무대행)",
+        "BigKinds metadata record, 머니투데이 2012-01-04 '[사진]민주노총 위원장 만난 김해진 특임장관 직무대행' news_id 02100201.20120104181225002 (POST https://www.bigkinds.or.kr/api/news/search.do, query '특임장관 직무대행' 2011-09-16..2012-03-01, accessed 2026-09-25T13:54:31-0400, snapshot roster/sources/special/news/bk_183b9ef1_2011-09-16_2012-03-01.json) (4일 ... 김해진 특임장관 직무대행)",
+        "헤럴드경제 2012-01-09 11:31:02 '장·차관 없는 사상 초유의 특임장관실' https://n.news.naver.com/mnews/article/016/0000407292 (accessed 2026-09-25T13:52:53-0400, snapshot roster/sources/special/news/naver_016_0000407292.html) (9일 오전 10시 김해진 특임차관 이임식 ... 이재오 전 특임장관의 사퇴로 비어 있는 장관직에 대한 직무대리를 그동안 맡아왔다, 5일 사표 제출)",
+        "서울경제 2012-01-09 16:48:02 '[기자의 눈] 개점휴업 특임장관실' https://n.news.naver.com/mnews/article/011/0002209573 (accessed 2026-09-25T13:52:52-0400, snapshot roster/sources/special/news/naver_011_0002209573.html) (3개월간 장관 대행을 해온 김해진 차관이 (9일) 이임식)",
+        "inputs/minister_role_meetings.csv has '특임장관직무대행 김해진' (role minister_acting) in 국회운영위원회 meetings 41044 (2011-10-10, 국정감사), 41150 (2011-11-02) and 41180 (2011-11-08)",
+        "관보 제17324호 (published 2010-08-19), 인사발령(행정안전부), '김 해 진(金 海 鎭) 특임차관에 임함 2010.8.16', viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095268522000&tocId=00000000000000001319095289143000&isTocOrder=N (accessed 2026-09-25T06:54:43-0400, text harvest/gazette_text/20100819_17324_00000000000000001319095289143000.txt)"
+      ],
+      "notes": "From the day after 이재오's last day. He left on 2012-01-09 to run in the 2012-04-11 general election."
+    },
+    {
+      "name": "김기룡",
+      "role": "특임장관실 특임실장 (named as 직무대행 only by ko.wikipedia, while the press reports both 장관 and 차관 posts vacant)",
+      "from": "2012-01-10",
+      "to": "2012-02-23",
+      "sources": [
+        "ko.wikipedia '대한민국 특임장관실' https://ko.wikipedia.org/w/index.php?oldid=41112283 (accessed 2026-09-25T13:32:48-0400, snapshot roster/sources/special/wiki_대한민국_특임장관실.json) (rows 직무대행 김기룡 2012-01-10 ~ 2012-02-23 and 특임차관 직무대행 최유성 2012-01-10 ~ 2012-02-29, secondary)",
+        "BigKinds metadata record, 한국경제 2012-01-10 '특임장관실 '개점휴업'…장·차관 모두 공석' news_id 02100601.20160124010825073 (POST https://www.bigkinds.or.kr/api/news/search.do, query '김기룡 특임실장' 2012-01-05..2012-03-05, accessed 2026-09-25T13:53:53-0400, snapshot roster/sources/special/news/bk_a75f67e3_2012-01-05_2012-03-05.json) (김해진 특임차관이 ... 9일 사임, 장·차관이 모두 공석)",
+        "관보 제17361호 (published 2010-10-14), 인사발령(행정안전부), '김 기 룡(金 起 龍) 별정직고위공무원에 임함 특임장관실 특임실장에 보함 2010.10.8', viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319096038170000&tocId=00000000000000001319096055879000&isTocOrder=N (accessed 2026-09-25T06:54:56-0400, text harvest/gazette_text/20101014_17361_00000000000000001319096055879000.txt)"
+      ],
+      "notes": "Low confidence. No tier 1-3 source naming a 직무대행 for these 45 days was found."
+    }
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "desc": "Old release errors for this lineage (data/minister_panel_comprehensive.csv lines 102, 111, 130). 주호영 is 2009-09-30..2010-08-10 there, but the gazette gives 2009-09-21 (09-30 is the 임명장 ceremony) and he left on 2010-08-30. 이재오 ends 2012-01-30 there, but he left on 2011-09-19. 고흥길 ends 2013-03-23 there (the abolition date, last day 2013-03-22) and his hearing is marked 채택, but no report was adopted. The old release also lacks the two 정무장관 holdovers (홍사덕, 이연숙) in office on 1998-02-25..02-27."
+    },
+    {
+      "severity": "medium",
+      "desc": "이재오 end date. His resignation (submitted 2011-08-31) was accepted on a date not found in any source. end = 2011-09-19 (이임식, last day called 특임장관, return to the Assembly on 09-20). An acceptance on 2011-09-17, the gazette date of the other 8·30 개각 successors, is possible. The gap to 고흥길 is a vacancy either way."
+    },
+    {
+      "severity": "low",
+      "desc": "Vacancies in 특임장관, which the law made optional (제17조 '둘 수 있다'). (1) 2008-02-29..2009-09-20 (570 days). The two 특임장관 designates of 2008-02-18 (남주홍, 이춘호) were moved to 통일부 and 여성부 on 2008-02-20..22 and the parties agreed not to fill the post at first (국민일보 2008-02-20 BigKinds 01100201.20080220100000888, 영남일보 2008-02-21 BigKinds 01500801.2008022110000025362). The post was left unfilled when created (한국일보 2008-03-06, BigKinds metadata record, 한국일보 2008-03-06 ''국정운영 조커' 특임장관 총선후 임명' news_id 01101101.20080306100000044 (POST https://www.bigkinds.or.kr/api/news/search.do, query '특임장관' 2008-02-20..2008-03-15, accessed 2026-09-25T13:55:30-0400, snapshot roster/sources/special/news/bk_9bb010cb_2008-02-20_2008-03-15.json) (특임장관을 4월 총선 이후 임명하기로)), and 국민일보 2009-09-22 calls 주호영's start the revival of a 무임소 minister after 11 years. No 특임장관실 staff existed to act. (2) 2011-09-20..2012-02-23 (157 days), 김해진 acting to 2012-01-09, then no 장관 or 차관 (see acting). Neither is a missing spell. The gazette corpus, likms and transcripts show no other holder. The only handover without a vacancy is the same-day one on 2010-08-30 (주호영's 이임식 and 이재오's 임명장 that afternoon). There are no overlaps."
+    },
+    {
+      "severity": "low",
+      "desc": "정무장관 holders. Start 1997-08-06 is the 임명장 date (announcement on the afternoon of 1997-08-05, ko.wikipedia gives 08-05 for 홍사덕 and 08-06 for 이연숙). No digital gazette exists before 2001. End 1998-02-27 follows the abolition of both posts by 법률 제5529호 on the afternoon of 1998-02-28, while ko.wikipedia runs the tenures to 1998-03-01 and 03-02. Both served as caretakers after the 1998-02-25 inauguration."
+    },
+    {
+      "severity": "low",
+      "desc": "Start-date convention for the 1997-08-05 개각 differs across sibling rosters. This roster, agriculture, health and interior use the 임명장 date 1997-08-06, while justice (김종구) and education (이명현) use the announcement date 1997-08-05 (roster/justice.json and roster/education.json as built on 2026-09-25). 경향신문 1997-08-06 writes that the President 'appointed' the ministers on the afternoon of the 5th (BigKinds metadata record, 경향신문 1997-08-06 '11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임' news_id 01100101.19970806000000101 (POST https://www.bigkinds.or.kr/api/news/search.do, query '임명장 신임 장관' 1997-08-05..1997-08-07, accessed 2026-09-25T13:34:25-0400, snapshot roster/sources/special/news/bk_ea7b7f19_1997-08-05_1997-08-07.json)), and 매일신문 1997-08-06 reports the 임명장 on the morning of the 6th (BigKinds metadata record, 매일신문 1997-08-06 '사태수습 만전지시' news_id 01500601.19970806004701001 (POST https://www.bigkinds.or.kr/api/news/search.do, query '임명장 신임 장관' 1997-08-05..1997-08-07, accessed 2026-09-25T13:34:25-0400, snapshot roster/sources/special/news/bk_ea7b7f19_1997-08-05_1997-08-07.json)). No 1997 gazette file exists to settle it. The dates lie before the window and do not change any in-window day, but the panel code should apply one rule to all 8·5 개각 holdovers."
+    },
+    {
+      "severity": "low",
+      "desc": "고흥길 end. No exit record. He was still called 특임장관 on 2013-03-18 and 03-21, the 이명박 ministers' resignations were reported as not accepted on 2013-02-25, and the office ended at 00:00 on 2013-03-23. end = 2013-03-22 (ministry_reorganized), medium confidence."
+    },
+    {
+      "severity": "low",
+      "desc": "Completeness checks. All 811 harvested 관보 인사 texts published 2008-02-01..2013-04-30 were scanned for '특임장관에 보함' and '정무장관' (roster/sources/special/gazette_scan_2008-02_2013-04.json). Exactly three notices (제17096호, 제17335호, 제17710호). likms searches '특임장관' and '특임' for the 17th-19th Assembly return the same three 인사청문요청안 (the verifier's search for every 국무위원후보자 request without a portfolio adds ZZ1908 이춘호 and ZZ1909 남주홍 of 2008-02, the two no-portfolio 특임장관 designates, now listed under nominations) and '정무장관' for the 15th returns none (roster/sources/special/likms/likms_search_special.json). Transcript rows with affiliation 특임 show only these three ministers, the acting 김해진 and office staff. audit/coverage_gaps.csv has one lead for this lineage (row 398, 주호영's mislabelled nominee row), explained in his transcript_notes. Rows 469, 481 and 489 are 특임장관실 staff (실장, 조정관), not ministers."
+    },
+    {
+      "severity": "low",
+      "desc": "No 정무장관 or 특임장관 office existed 1998-02-28..2008-02-28 or 2013-03-23..2026-09-24 (offices.json, law.go.kr). News up to 2026-09-24 mentions only proposals. 윤석열 pursued a 정무장관 in 2024 and dropped it (한국일보 2025-06-09, 한국일보 2025-06-09 09:00:09 '야당 인사도 폭넓게 기용하라, 그래야 진정한 통합 [이재명 정부 이것만은]' https://n.news.naver.com/mnews/article/469/0000869177 (accessed 2026-09-25T13:56:12-0400, snapshot roster/sources/special/news/naver_469_0000869177.html)), and a revival of the 정무장관실 was suggested at a 국정기획위원회 meeting (연합뉴스 2025-07-31, 연합뉴스 2025-07-31 19:22:03 '국정위, 관세협상 대응전략 논의…\"韓美 시너지 제고해야\"' https://n.news.naver.com/mnews/article/001/0015542284 (accessed 2026-09-25T13:56:18-0400, snapshot roster/sources/special/news/naver_001_0015542284.html)). Neither was enacted, so there are no 2025-2026 spells or nominations."
+    },
+    {
+      "severity": "low",
+      "desc": "Nominations before the window are not listed. The two 정무장관 holders were named in the 1997-08-05 개각, when no hearing was required. Five in-window requests concern this lineage. The three titled 특임장관 requests led to appointments. The two no-portfolio requests of the 대통령당선인 for the 특임장관 designates 이춘호 (ZZ1908) and 남주홍 (ZZ1909) were withdrawn on 2008-02-22 and refiled the same day for 여성가족부장관 (ZZ1911) and 통일부장관 (ZZ1912), which the gender and unification rosters hold. No 특임장관 nominee was named between 2008-02-22 and 2009-09-03 or between 2011-08-31 and 2012-02-01."
+    },
+    {
+      "severity": "medium",
+      "desc": "Added by the verifier. likms ZZ1908 (이춘호, 2008-02-20) and ZZ1909 (남주홍, 2008-02-21) are 국무위원후보자 hearing requests with no portfolio, filed by 대통령당선인 이명박 for the two 특임장관 designates announced on 2008-02-18. Both were withdrawn on 2008-02-22 and refiled for 여성가족부장관 (ZZ1911) and 통일부장관 (ZZ1912). The gender roster (roster/gender.partial.json) and the unification roster (roster/unification.json) list only ZZ1911 and ZZ1912, so without this lineage the two no-portfolio requests would appear in no roster. The panel code should not count them as separate persons nominated twice for different offices without this link."
+    },
+    {
+      "severity": "low",
+      "desc": "Added by the verifier. 이재오's end stays at 2011-09-19 (end_confidence medium). 경향신문 2011-08-31 reports that his resignation would be accepted after the successor ministers of the 8·30 개각 were appointed. Those appointments were approved on 2011-09-16 and are dated 2011-09-17 in 관보 제17596호, with 임명장 on 09-19 (전자신문 and SBS 2011-09-19, BigKinds snapshot roster/sources/special/verify/bk_O_*_2011-09-16_2011-09-20.json). The sibling rosters end 진수희 and 현인택 on 2011-09-17 and 정병국 on 2011-09-16. For 이재오 no acceptance date was found, the press still calls him 특임장관 on 09-18, and 연합뉴스 2011-09-18 gives the 19th as the day of his official retirement, so no tier 1-3 source supports an earlier date."
+    }
+  ],
+  "verification": {
+    "verified_at": "2026-09-25T22:10:23-0400",
+    "verifier": "adversarial verifier, lineage special",
+    "input": "roster/special.json (built_at 2026-09-25T21:36:08-0400), not modified",
+    "scripts": [
+      "roster/scripts/special_verify_01_gazette_grep.py",
+      "roster/scripts/special_verify_02_news.py",
+      "roster/scripts/special_verify_03_transcripts.py",
+      "roster/scripts/special_verify_04_lists.py",
+      "roster/scripts/special_verify_05_articles.py",
+      "roster/scripts/special_verify_06_continuity.py",
+      "roster/scripts/special_verify_07_likms.py",
+      "roster/scripts/special_verify_08_ministry_pages.py",
+      "roster/scripts/special_verify_09_build.py",
+      "roster/scripts/special_verify_10_gazette_snap.py"
+    ],
+    "snapshots": "roster/sources/special/verify/ (every file with a .meta.json sidecar holding URL, access time and sha256)",
+    "per_spell": {
+      "홍사덕|1997-08-06": {
+        "status": "confirmed",
+        "checks": [
+          "start 1997-08-06 (pre-window, no 1997 gazette file). The 1997-08-06 papers in BigKinds date the 개각 to the afternoon of the 5th, and the builder's 연합뉴스 and 매일신문 items put the 임명장 on the morning of the 6th. Four of five tier-2 ministry pages for co-appointees (MOIS 조해녕 and 심우영, MOE 이명현, MOHW 최광) give 1997-08-06, only MOJ gives 김종구 1997.08.05. 1997-08-06 is the better-supported value and matches the panel convention. The alternative 1997-08-05 does not change any in-window day.",
+          "end 1998-02-27. New sources (제민일보 1998-02-26, 경남신문 1998-02-28 on the 27th, 연합뉴스 1998-02-28 15:30 and 1998-03-01 16:04) show him attending the 26th and 27th meetings and the 정무1장관실 abolished by the 1998-02-28 law. Continuity check shows no other 정무1장관 in BigKinds from 1997-11-01 to 1998-02-24 (51 mentions of 홍사덕, none of anyone else).",
+          "field hygiene OK. 김영삼 appointee, ministry_reorganized, no deputy PM title, sitting 15th NA member (na_members_15_22.csv BW19186J)."
+        ]
+      },
+      "이연숙|1997-08-06": {
+        "status": "confirmed",
+        "checks": [
+          "start 1997-08-06 as for 홍사덕 (same 개각). 중앙일보 1997-08-07 writes '6일 제8대 정무2장관으로 취임'.",
+          "end 1998-02-27. She attended the 1998-02-17 국무회의 (서울신문 1998-02-18) and was in 청주 as 정무 제2장관 on 02-19/20 (중부매일 1998-02-20). No farewell ceremony is reported for her (국민일보 1998-02-27 names only 오인환 and 홍사덕 as having held one). The whole 고건 cabinet kept serving (한겨레 1998-02-27 on the 법제처 view, 경향신문 1998-02-28 on the salary decision of the 27th), and 정무제2장관실 staff are still named on 1998-02-28 (연합뉴스 14:44). No direct sighting of her on 02-25..27 was found, so end_confidence stays medium.",
+          "BigKinds 1997-11-01..1998-02-24 shows no other 정무2장관 (only 이연숙).",
+          "field hygiene OK. Not an MP during the spell (16th NA from 2000-05-30)."
+        ]
+      },
+      "주호영|2009-09-21": {
+        "status": "confirmed",
+        "checks": [
+          "start 2009-09-21 re-read from 관보 제17096호 PDF by the verifier.",
+          "end 2010-08-30 confirmed by 아시아경제, 머니투데이 and 헤럴드경제 2010-08-30 (이임식 30일 오후, 재임 마지막 일정), outlets not used by the builder. Same-day handover with 이재오 (gazette 2010-08-30).",
+          "first holder. The post existed from 2008-02-29 but his 이임사 (노컷뉴스 2010-08-30) says 특임장관실 was revived after 11 years in 2009-09, and BigKinds 2008-03-01..2009-09-02 shows only speculation (강현욱, 맹형규, 권오을 and others), no appointment.",
+          "transcripts. 5 valid minister rows 2009-11-12..2010-06-24 inside the spell, plus the mislabelled nominee row '특임장관후보장' in hearing meeting 38471 (2009-09-15)."
+        ]
+      },
+      "이재오|2010-08-30": {
+        "status": "confirmed",
+        "checks": [
+          "start 2010-08-30 re-read from 관보 제17335호 PDF by the verifier.",
+          "end 2011-09-19 confirmed by new sources (경향신문 2011-08-31, 머니투데이 and 매일경제 2011-09-18, MBC and 국민일보 2011-09-19, 이투데이 2011-09-20). Acceptance date still unknown (see issues). end_reason resigned, not resigned_to_run (no election, he returned to his existing seat).",
+          "vacancy after him confirmed by 이투데이 2011-12-11 ('(공석인) 특임장관') and SBS 2011-12-30 ('공석 중인 특임장관 인선'), no nominee before 고흥길 on 2012-02-01.",
+          "transcripts. 7 valid minister rows 2010-09-09..2011-06-27, all inside."
+        ]
+      },
+      "고흥길|2012-02-24": {
+        "status": "confirmed",
+        "checks": [
+          "start 2012-02-24 re-read from 관보 제17710호 PDF by the verifier, and 중앙일보 2012-02-29 ('24일 취임한 고 장관').",
+          "end 2013-03-22 confirmed by new sources. 뉴스1 2013-03-20 lists 고흥길 특임장관 for a 03-21 event, 연합뉴스 and 세계일보 2013-03-22 report the evening 임시국무회의 abolishing 특임장관실, 한국경제 2013-03-22 gives effect on the 23rd with the gazette, 정책브리핑 2013-03-25 confirms the abolition. BigKinds and Naver searches for his 이임식, 사표 or 사의 in 2013-01-15..2013-04-10 return nothing, so no earlier exit is documented.",
+          "mp_hint check. Not a 2012 candidate (아시아경제 2012-02-16), no 19th NA term in na_members_15_22.csv.",
+          "transcripts. 5 valid minister rows 2012-07-30..2012-11-05, all inside."
+        ]
+      }
+    },
+    "per_nomination": {
+      "주호영|ZZ18065": {
+        "status": "confirmed",
+        "check": "likms detail re-read. 제안 2009-09-09, 정무위원회 상정 09-11, 경과보고서채택 09-17, 송부 09-18. Hearing 2009-09-15 (nominee_hearing_meetings 38471)."
+      },
+      "이재오|ZZ18105": {
+        "status": "confirmed",
+        "check": "likms detail re-read. 제안 2010-08-12, 국회운영위원회 상정·채택 2010-08-27, 송부 08-30. Hearing 2010-08-23 (meeting 39680)."
+      },
+      "고흥길|ZZ18179": {
+        "status": "confirmed",
+        "check": "likms detail re-read. 제안 2012-02-03, 상정 02-14, no 처리일 or 처리결과, so report_adopted no. Naver and BigKinds searches for a 재송부 request (2012-02-15..25) return nothing."
+      },
+      "이춘호|ZZ1908": {
+        "status": "added",
+        "check": "no-portfolio 특임장관 designate request, withdrawn 2008-02-22 and refiled for 여성가족부장관"
+      },
+      "남주홍|ZZ1909": {
+        "status": "added",
+        "check": "no-portfolio 특임장관 designate request, withdrawn 2008-02-22 and refiled for 통일부장관"
+      }
+    },
+    "per_acting": {
+      "김해진": "kept. The acting period starts the day after 이재오's end and ends with his 2012-01-09 이임식. 파이낸셜뉴스 2011-12-30 (BigKinds 02100501.20160209035903547) independently says he acted as 장관 직무대리 for about three months after 이재오 left in September.",
+      "김기룡": "kept with the builder's low confidence. The verifier found no tier 1-3 source naming a 직무대행 for 2012-01-10..2012-02-23."
+    },
+    "independent_holder_list": "서울신문 2013-01-15 '[정부조직개편] 5년 만에 문 닫는 특임장관실' https://www.seoul.co.kr/news/politics/2013/01/15/20130115800122 (accessed 2026-09-25T21:54:52-0400, snapshot roster/sources/special/verify/seoul_20130115800122.html) names exactly three 특임장관 (초대 주호영, 이재오, 현재 고흥길). For the two 정무장관 posts, BigKinds 1997-11-01..1998-02-24 (queries '정무1장관' and '정무2장관', 153 and 65 records) names only 홍사덕 and 이연숙. Namu Wiki returned HTTP 403 and 404 and was not used.",
+    "completeness": [
+      "Gazette corpus (2,709 인사 texts, 2001-01..2026-09, GAZETTE_DONE present) grepped for 특임장관, 특임, 정무장관, 정무제, 무임소, 特任 and 政務長官 with letter-spacing allowed (special_verify_01, output gazette_grep.json). Exactly three 국무위원 notices (제17096호, 제17335호, 제17710호), all mapped to spells. Other hits are 특임차관, 특임장관실 staff, a 2013-03-07 decoration list and a 2022 특임공관장.",
+      "likms searched independently for 국무위원후보자, 국무위원 and 인사청문요청안 in the 15th-19th Assembly (special_verify_07). Besides the three titled 특임장관 requests it returns the two no-portfolio requests ZZ1908 and ZZ1909 of 2008-02 (특임장관 designates), which were missing and are now added. ZZ1779 (정세균, 2006) is an industry lineage 추가자료 item.",
+      "Transitions. 1998 holdovers 홍사덕 and 이연숙 present. 2003 none (no office). 2008 post created 2008-02-29 and left vacant, designates moved to other ministries. 2013 고흥길 continued past 2013-02-25 until abolition. 2017, 2022, 2025 no office.",
+      "Elections. No holder resigned to run. 이재오 left for the Assembly in 2011 (no election), 고흥길 did not seek a 2012 nomination, 주호영 left when replaced in 2010. No office existed for the 2000, 2002, 2004, 2006, 2014-2026 elections or the 2026-06-03 by-elections.",
+      "2025-2026. Naver searches '정무장관 신설' and '특임장관 부활' (2025-06-04..2026-09-24) show proposals only, and offices.json (law.go.kr) has no such post after 2013-03-22.",
+      "Transcripts (valid types only) show only the three 특임장관, the acting 김해진 and office staff. audit/coverage_gaps.csv rows 398, 469, 481 and 489 are explained (a nominee typo and staff)."
+    ],
+    "gazette_reread": "All 3 gazette-backed starts re-read by the verifier from freshly snapshotted item PDFs (special_verify_10). 주호영 '⊙2009년 9월 21일자', 이재오 '2010.8.30', 고흥길 '2012. 2. 24', all match.",
+    "transcript_check": "roster/scripts/special_verify_03_transcripts.py, output roster/sources/special/verify/transcript_check.json. 18 valid minister-role rows for the three 특임장관, 17 inside their spells. The 18th is the 2009-09-15 nominee-typo row '특임장관후보장' in hearing meeting 38471. 0 lineage rows with invalid hearing types.",
+    "continuity": "roster/scripts/special_verify_06_continuity.py, output roster/sources/special/verify/continuity.json. 정무장관(제1) and (제2) fully covered 1998-02-25..02-27. 특임장관 gaps 2008-02-29..2009-09-20 (570 days, optional post not filled) and 2011-09-20..2012-02-23 (157 days, vacancy after 이재오, 김해진 acting to 2012-01-09). One same-day handover 2010-08-30. No overlaps.",
+    "field_hygiene": "appointing_president matches the start date for all 5 spells (김영삼 1997, 이명박 2009-2012), none by an acting president. deputy_pm false throughout (offices.json lists no 부총리 title). end_reason values consistent with sources. reorg_continuation false and reappointed_on_reorg null are correct because none of the offices has a successor office. No suspensions. All offices in_scope. mp_hint values match na_members_15_22.csv.",
+    "changes": [
+      {
+        "name": "홍사덕",
+        "field": "start_sources",
+        "old": "6 sources",
+        "new": "8 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "홍사덕",
+        "field": "end_sources",
+        "old": "5 sources",
+        "new": "9 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "이연숙",
+        "field": "start_sources",
+        "old": "5 sources",
+        "new": "7 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "이연숙",
+        "field": "end_sources",
+        "old": "5 sources",
+        "new": "10 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "주호영",
+        "field": "start_sources",
+        "old": "5 sources",
+        "new": "7 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "주호영",
+        "field": "end_sources",
+        "old": "4 sources",
+        "new": "7 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "이재오",
+        "field": "start_sources",
+        "old": "5 sources",
+        "new": "6 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "이재오",
+        "field": "end_sources",
+        "old": "7 sources",
+        "new": "12 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "고흥길",
+        "field": "start_sources",
+        "old": "5 sources",
+        "new": "7 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "고흥길",
+        "field": "end_sources",
+        "old": "7 sources",
+        "new": "12 sources (verifier sources appended, value unchanged)",
+        "evidence": "independent re-verification, see verification.per_spell"
+      },
+      {
+        "name": "고흥길",
+        "field": "mp_hint",
+        "old": "sitting 18th NA member (한나라당, from 2012-02 새누리당, 경기 성남시분당구갑) until 2012-05-29, mona_cd JGX8852O (na_members_15_22.csv). Did not run in the 2012-04-11 election, so not an MP from 2012-05-30.",
+        "new": "sitting 18th NA member (한나라당, from 2012-02 새누리당, 경기 성남시분당구갑) until 2012-05-29, mona_cd JGX8852O (na_members_15_22.csv). Did not run in the 2012-04-11 election, so not an MP from 2012-05-30. Not among the 새누리당 applicants for the 2012 nominations (아시아경제 2012-02-16 BigKinds news_id 02100801.20120216150553001, snapshot roster/sources/special/verify/bk_O_*_2011-12-01_2012-03-31.json).",
+        "evidence": "아시아경제 2012-02-16 '\"일단 Go\"새누리 3선 이상 30명 어디에 신청했나' (BigKinds metadata, accessed 2026-09-25T22:06:05-0400) lists 고흥길 among the 9 senior members who did not apply"
+      },
+      {
+        "name": "이춘호 (nomination)",
+        "field": "nominations",
+        "old": "absent",
+        "new": "added, likms PRC_C0C8V0P2V2Q0M2Q2H0X6X1U0D6H6A5, request 2008-02-20, withdrawn 2008-02-22 and refiled as 국무위원후보자(여성가족부장관 이춘호) 인사청문요청안",
+        "evidence": "likms ZZ1908/ZZ1909 (no-portfolio 국무위원후보자 requests by the 대통령당선인) plus 연합뉴스 2008-02-18 and 2008-02-20, 서울신문 2008-02-19, 한국일보 2008-02-20, which call both 특임장관 designates. The builder's likms search used the strings '특임장관' and '특임', which these bill names do not contain."
+      },
+      {
+        "name": "남주홍 (nomination)",
+        "field": "nominations",
+        "old": "absent",
+        "new": "added, likms PRC_K0J8O0M2K2N1V1Z3U5W5T4R6J2G3V9, request 2008-02-21, withdrawn 2008-02-22 and refiled as 국무위원후보자(통일부장관 남주홍) 인사청문요청안",
+        "evidence": "likms ZZ1908/ZZ1909 (no-portfolio 국무위원후보자 requests by the 대통령당선인) plus 연합뉴스 2008-02-18 and 2008-02-20, 서울신문 2008-02-19, 한국일보 2008-02-20, which call both 특임장관 designates. The builder's likms search used the strings '특임장관' and '특임', which these bill names do not contain."
+      },
+      {
+        "name": "(lineage)",
+        "field": "issues[Vacancies]",
+        "old": "vacancy 1 explained without the 2008 designates",
+        "new": "vacancy 1 explanation names the 2008 designates",
+        "evidence": "roster/sources/special/verify/bk_A1_*_2008-02-18_2008-02-23_p1.json"
+      },
+      {
+        "name": "(lineage)",
+        "field": "issues[Completeness checks]",
+        "old": "three likms requests",
+        "new": "three titled requests plus two no-portfolio requests",
+        "evidence": "roster/sources/special/verify/likms_search_verify.json"
+      },
+      {
+        "name": "(lineage)",
+        "field": "issues[Nominations]",
+        "old": "Nominations before the window are not listed. The two 정무장관 holders were named in the 1997-08-05 개각, when no hearing was required. All three in-window nominations (특임장관) led to appointments. None was withdrawn or failed.",
+        "new": "Nominations before the window are not listed. The two 정무장관 holders were named in the 1997-08-05 개각, when no hearing was required. Five in-window requests concern this lineage. The three titled 특임장관 requests led to appointments. The two no-portfolio requests of the 대통령당선인 for the 특임장관 designates 이춘호 (ZZ1908) and 남주홍 (ZZ1909) were withdrawn on 2008-02-22 and refiled the same day for 여성가족부장관 (ZZ1911) and 통일부장관 (ZZ1912), which the gender and unification rosters hold. No 특임장관 nominee was named between 2008-02-22 and 2009-09-03 or between 2011-08-31 and 2012-02-01.",
+        "evidence": "likms ZZ1908, ZZ1909 and the 2008-02-18..20 news listed under nominations"
+      }
+    ],
+    "summary": "5 spells, all confirmed with at least one new tier 1-3 source per start and end. No date changed. 2 nominations added (no-portfolio 특임장관 designate requests of 2008-02). Issues updated accordingly."
+  },
+  "built_at_original": "2026-09-25T21:36:08-0400"
+}

@@ -1,0 +1,931 @@
+{
+ "lineage": "sme",
+ "built_at": "2026-09-25T21:38:20-0400",
+ "ministry_names": [
+  {
+   "ministry": "중소기업청",
+   "from": "1998-02-25",
+   "to": "2017-07-25",
+   "in_scope": false,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5153호 제37조④ through 법률 제11690호 제37조④ (청장 정무직, 차관급, not 국무위원); abolished by 법률 제14839호 제44조, 부칙 제2조제1항",
+   "source": "offices.json OF069"
+  },
+  {
+   "ministry": "중소벤처기업부",
+   "from": "2017-07-26",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제14839호 (promulgated and effective 2017-07-26), 제26조, 제44조, 부칙 제2조제1항 (중소기업청을 중소벤처기업부로 격상). Still listed in 법률 제21065호 version effective 2026-01-02, 제29조①②",
+   "source": "offices.json OF059 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=195013&efYd=20170726)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "홍종학",
+   "name_hanja": "洪鍾學",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1959-05-12",
+   "gender": "M",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2017-11-21",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19149호 (2017-12-08) 인사발령(인사혁신처), text harvest/gazette_text/20171208_19149_00000000000000001513826620806000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20171208_19149_00000000000000001513826620806000.pdf (accessed 2026-09-25T12:56:20-0400): 홍종학(洪鍾學) 국무위원에 임함 중소벤처기업부장관에 보함 2017.11.21.",
+    "KBS 2017-11-21 09:03 https://n.news.naver.com/mnews/article/056/0010522105 (accessed 2026-09-25T13:37:15-0400, snapshot roster/sources/sme/news/naver_056_0010522105.html): \"문재인 대통령은 21일(오늘) 오전 국회 인사청문보고서 채택이 무산된 홍종학 중소벤처기업부 장관 후보자를 장관으로 공식 임명했다\"",
+    "국민일보 2017-11-21 09:48 https://n.news.naver.com/mnews/article/005/0001048341 (accessed 2026-09-25T13:37:14-0400, snapshot roster/sources/sme/news/naver_005_0001048341.html): \"문 대통령이 이날 오전 청와대에서 임명장 수여식을 열고 홍 후보자를 중기부 장관으로 임명했다\"",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): entry number '1대 장관', name '홍종학(洪鍾學)', duration '2017. 11. 21 ~ 2019. 04. 07'"
+   ],
+   "end": "2019-04-08",
+   "end_confidence": "medium",
+   "end_sources": [
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): 홍종학 entry, duration '2017. 11. 21 ~ 2019. 04. 07', career line '중소벤처기업부 장관(~ 2019. 04. 07)'",
+    "관보 제19482호 (2019-04-16) 인사발령(인사혁신처), text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20190416_19482_00000000000000001555373338024000.pdf (accessed 2026-09-24T22:59:43-0400): 박영선(朴映宣) 국무위원에 임함 중소벤처기업부장관에 보함 2019.4.8. (successor appointed 2019-04-08)",
+    "뉴스1 2019-04-08 16:04 https://n.news.naver.com/mnews/article/421/0003926442 (accessed 2026-09-25T13:37:18-0400, snapshot roster/sources/sme/news/naver_421_0003926442.html): \"홍종학 중소벤처기업부장관이 8일 오후 정부대전청사에서 열린 중소벤처기업부 장관 이임식에서 이임사를 하고 있다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '박영선 임명 재가' 2019-04-07..2019-04-09, snapshot roster/sources/sme/verify/bigkinds/bk_pys_start_2019-04-07_2019-04-09.json (accessed 2026-09-25T22:16:34-0400): 인천일보 2019-04-09 news_id 01200401.20190409022054001 '박영선ㆍ김연철 장관은 ... 문 대통령은 이날 오전 임명안을 재가한 후 임명을 강행했다' | 기호일보 2019-04-09 news_id 01200301.20190409223000029 '문 대통령은 이날 오전 임명안을 재가한 뒤 오후에 임명을 강행했다' | 대구신문 2019-04-09 news_id 01501001.20190409204645001 '문 대통령은 8일 오전 두 후보자에 대한 임명안을 재가했으며'. The successor took office during the morning of 2019-04-08.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '홍종학 이임식' 2019-04-07..2019-04-09, snapshot roster/sources/sme/verify/bigkinds/bk_hjh_exit_2019-04-07_2019-04-09.json (accessed 2026-09-25T22:16:26-0400): 헤럴드경제 2019-04-08 news_id 02100701.20190408162200001 '홍종학 중소벤처기업부 장관은 8일 이임식을 갖고 장관직에서 물러나면서' | 아시아경제 2019-04-08 news_id 02100801.20190408150227002 '홍종학 중소벤처기업부 장관은 8일 정부대전청사에서 열린 이임식에서' | 아시아투데이 2019-04-08 news_id 01100751.20190408150057002 | 머니투데이 2019-04-08 news_id 02100201.20190408175133001 ('8일 오후 정부대전청사에서 열린 ... 이임식'). He was still the minister on 2019-04-08.",
+    "[verifier] Wikidata Q12592533 (Minister of SMEs and Startups) P39 holder 홍종학 end 2019-04-08 (secondary | query output roster/sources/sme/verify/wikidata_Q12592533_holders.json, accessed 2026-09-25T22:14 EDT). ko.wikipedia also gives 2019-04-08 (builder's snapshot)."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 19th NA member (민주통합당 비례대표, seat 2012-05-30..2016-05-29, mona_cd BEF9073K), not a sitting member when appointed (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "22 valid-type minister rows (20 상임위원회, 2 국정감사) dated 2017-12-08..2019-03-29, inside the spell. Nominee row 2017-11-10 산업통상자원중소벤처기업위원회 meeting 47528. One 국회본회의 row labelled '중소벤처기업부장관 홍종학' dated 2013-11-22 is misattached content (invalid type, before the ministry existed) and is ignored. It is the coverage_gaps.csv lead for him.",
+   "notes": "First 중소벤처기업부장관, appointed after the first nominee 박성진 withdrew. Report not adopted. [verifier] End changed from 2019-04-07 (MSS page) to 2019-04-08. 박영선 was approved on the morning of 2019-04-08 and he held his 이임식 as the sitting minister that afternoon, so the handover happened on 2019-04-08 (same-day handover). The MSS page's 2019-04-07 is its day-before-successor convention. ko.wikipedia and Wikidata give 2019-04-08. Birth date from na_members_15_22.csv and the MSS page source."
+  },
+  {
+   "name": "박영선",
+   "name_hanja": "朴映宣",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1960-01-22",
+   "gender": "F",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2019-04-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19482호 (2019-04-16) 인사발령(인사혁신처), text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20190416_19482_00000000000000001555373338024000.pdf (accessed 2026-09-24T22:59:43-0400): 박영선(朴映宣) 국무위원에 임함 중소벤처기업부장관에 보함 2019.4.8.",
+    "한겨레 2019-04-08 16:10 https://n.news.naver.com/mnews/article/028/0002449456 (accessed 2026-09-25T13:36:42-0400, snapshot roster/sources/sme/news/naver_028_0002449456.html): \"문 대통령은 이날 오전 김 후보자와 박 후보자의 임명안을 재가한 뒤 오후 이들과\"",
+    "머니투데이 2019-04-08 16:51 https://n.news.naver.com/mnews/article/008/0004201091 (accessed 2026-09-25T13:36:48-0400, snapshot roster/sources/sme/news/naver_008_0004201091.html): \"문 대통령은 이날 오전, 국회가 끝내 인사청문경과보고서를 채택하지 못한 김연철 박영선 두 장관 임명안을 재가했다\"",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): entry number '2대 장관', name '박영선(朴映宣)', duration '2019. 04. 08 ~ 2021. 01. 20'"
+   ],
+   "end": "2021-01-20",
+   "end_confidence": "high",
+   "end_sources": [
+    "이데일리 2021-01-20 17:27 https://n.news.naver.com/mnews/article/018/0004833858 (accessed 2026-09-25T13:37:30-0400, snapshot roster/sources/sme/news/naver_018_0004833858.html): \"강민석 청와대 대변인은 문 대통령이 이날 오후 3시 20분 박 장관의 사의표명에 따른 면직안을 재가했다고 밝혔다\"",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): 박영선 entry, duration '2019. 04. 08 ~ 2021. 01. 20'",
+    "동아일보 2021-01-22 10:41 https://n.news.naver.com/mnews/article/020/0003334125 (accessed 2026-09-25T13:37:28-0400, snapshot roster/sources/sme/news/naver_020_0003334125.html): \"박영선 전 장관은 개각 발표 날 사표가 수리됐다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), queries '박영선 면직' and '박영선 사표 수리' 2021-01-19..2021-01-22, snapshots roster/sources/sme/verify/bigkinds/bk_pys_exit_2021-01-19_2021-01-22.json and bk_pys_exit2_2021-01-19_2021-01-22.json (accessed 2026-09-25T22:16 EDT): 한국경제 2021-01-20 news_id 02100601.20210120171721001 '문재인 대통령이 박영선 중소벤처기업부 장관의 면직을 재가했다' | 이투데이 2021-01-20 news_id 02100351.20210120170422002 '문 대통령이 이날 오후 3시20분 박 장관의 사의표명에 따른 면직안을 재가했다' | 헤럴드경제 2021-01-21 news_id 02100701.20210121110355001 quoting her post '어제 밤 12시까지는 중소벤처기업부 공무원 이었다'."
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 20th NA member (더불어민주당, 서울 구로구을, mona_cd S8431719), 4-term member 17th-20th (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type minister rows (26 상임위원회, 4 국정감사) dated 2019-07-10..2020-11-26, inside the spell. Nominee row 2019-03-27 meeting 49039. Five rows labelled '중소벤처기업부장관 박영선' dated 2014-06-17..2015-08-11 come from 국정조사, 예산결산특별위원회 and 국회본회의 meetings (invalid types, before the ministry existed) and are ignored. They are the coverage_gaps.csv lead for her.",
+   "notes": "Appointed without an adopted hearing report. Resigned to run in the 2021-04-07 Seoul mayoral by-election (동아일보 2021-01-22 reports '서울시장 보선에 출마를 선언하며 사의를 표명'). 차관 강성천 acted until 권칠승 took office. The old release ends her spell 2021-04-07, which is wrong. [verifier] End 2021-01-20 confirmed by 한국경제 and 이투데이 (면직 재가 at 15:20 on 2021-01-20) and by her own statement that she was a ministry official until midnight of 2021-01-20 (헤럴드경제 2021-01-21), all via BigKinds. She ran in the 2021-04-07 Seoul mayoral by-election primary (서울신문 2021-01-21 news_id 01100611.20210121051155001)."
+  },
+  {
+   "name": "권칠승",
+   "name_hanja": "權七勝",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1965-11-18",
+   "gender": "M",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2021-02-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19940호 (2021-02-16) 인사발령(인사혁신처), text harvest/gazette_text/20210216_19940_00000000000000001612921930384000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20210216_19940_00000000000000001612921930384000.pdf (accessed 2026-09-24T22:59:53-0400): 권칠승(權七勝) 국무위원에 임함 중소벤처기업부장관에 보함 2021. 2. 5.",
+    "뉴시스 2021-02-04 18:37 https://n.news.naver.com/mnews/article/003/0010331297 (accessed 2026-09-25T13:37:35-0400, snapshot roster/sources/sme/news/naver_003_0010331297.html): \"임기 시작일은 2월5일\"",
+    "뉴스1 2021-02-04 18:30 https://n.news.naver.com/mnews/article/421/0005150141 (accessed 2026-09-25T13:37:36-0400, snapshot roster/sources/sme/news/naver_421_0005150141.html): 재가 on 2021-02-04 about 17:30, term starting the 5th",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '권칠승 임명' 2021-02-04..2021-02-06, snapshot roster/sources/sme/verify/bigkinds/bk_kcs_start_2021-02-04_2021-02-06.json (accessed 2026-09-25T22:16 EDT): 머니투데이 2021-02-04 news_id 02100201.20210204183545001 '문 대통령이 이날 오후 5시30분경 권 장관 임명안을 재가했다 ... 임기 시작일은 5일이다' | 한국경제 2021-02-04 news_id 02100601.20210204222736001 '임기는 5일부터 시작된다' | YTN 2021-02-04 news_id 08100401.20210204183204001."
+   ],
+   "end": "2022-05-12",
+   "end_confidence": "medium",
+   "end_sources": [
+    "이데일리 2022-05-12 18:19 https://n.news.naver.com/mnews/article/018/0005214116 (accessed 2026-09-25T13:53:58-0400, snapshot roster/sources/sme/news/naver_018_0005214116.html): \"전날 기준 문재인 정부에서 임명돼 아직 직을 유지하고 있는 장관은 두 장관을 비롯해 권칠승 중소벤처기업부\"",
+    "연합뉴스 2022-05-12 17:49 https://n.news.naver.com/mnews/article/001/0013175270 (accessed 2026-09-25T13:53:56-0400, snapshot roster/sources/sme/news/naver_001_0013175270.html): \"권칠승 중소벤처기업부 장관 등은 이미 사표를 제출한 뒤 떠났다\"",
+    "BigKinds metadata 중부일보 2022-05-15 news_id 01400501.20220515172420001: '문재인 정부에서 약 1년 3개월간 중소벤처기업부 장관을 역임한 권 의원 지난 13일부터 국회의원으로 복귀했다' (snapshot roster/sources/sme/news/bk_12043979_2022-05-10_2022-05-16.json, accessed 2026-09-25T13:39:37-0400)",
+    "관보 제20255호 (2022-05-23) 인사발령(인사혁신처), text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20220523_20255_I0000000000000001652659816213000.pdf (accessed 2026-09-24T22:33:40-0400): 이영(李永) 국무위원에 임함 중소벤처기업부장관에 보함 2022. 5. 13. (successor appointed 2022-05-13)",
+    "ko.wikipedia '대한민국 중소벤처기업부 장관' https://ko.wikipedia.org/w/index.php?oldid=42539721 (accessed 2026-09-25T13:32:51-0400, snapshot roster/sources/sme/wiki/, secondary): 퇴임일 2022년 5월 12일",
+    "[verifier] 연합뉴스 2022-05-11 22:36 https://n.news.naver.com/mnews/article/001/0013172708 (snapshot roster/sources/sme/verify/naver/naver_001_0013172708.html, accessed 2026-09-25T13:18:00-0400): '더불어민주당 현역 의원인 전해철 행정안전부 장관, 황희 문화체육관광부 장관, 권칠승 중소벤처기업부 장관은 윤 대통령 주재 국무회의에 앉아있는 그림만은 피하려고 할 가능성이 크다'. Still minister on the night of 2022-05-11.",
+    "[verifier] 뉴시스 2022-05-10 11:36 https://n.news.naver.com/mnews/article/003/0011173963 (snapshot roster/sources/sme/verify/naver/naver_003_0011173963.html, accessed 2026-09-25T13:17:27-0400): '전해철(행안부), 황희(문체부), 한정애(환경부), 권칠승(중기부) 등 네명의 장관도 ... 12일께 신임 장관들에게 바통터치 후 물러날 것으로 보인다'.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '이영 중기부 장관 임명' 2022-05-12..2022-05-14, snapshot roster/sources/sme/verify/bigkinds/bk_ly_start_2022-05-12_2022-05-14.json (accessed 2026-09-25T22:17 EDT): 대구신문 2022-05-12 19:34 news_id 01501001.20220512193410001 '윤석열 대통령은 12일 이창양 산업통상자원부·이영 중소벤처기업부 장관을 임명했다고 대통령실이 밝혔다' | 아시아투데이 2022-05-13 news_id 01100751.20220513101050003 '이 신임 장관은 이날 ... 업무를 시작했다'. The successor was approved on the evening of 2022-05-12 and started work on 2022-05-13, the gazette date.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), queries '권칠승 사표 수리', '권칠승 면직', '권칠승 이임식' 2022-05-06..2022-05-16 and Naver '권칠승 사표 수리' 2022-05-12..05-14 (snapshots roster/sources/sme/verify/bigkinds/bk_kcs_exit*.json, roster/sources/sme/verify/naver/naver_search_log.json, accessed 2026-09-25T22:16-22:20 EDT): no report of the date his resignation was accepted."
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (더불어민주당, 경기 화성시병, mona_cd C7E79345) (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "22 valid-type minister rows (20 상임위원회, 2 국정감사) dated 2021-02-23..2022-02-07, inside the spell. Nominee row 2021-02-03 meeting 050749. Two rows dated 2016-01-08 (국회본회의) and 2016-08-30 (국정조사) are misattached content and are ignored (coverage_gaps.csv lead).",
+   "notes": "Hearing report adopted 2021-02-04. Tendered his resignation with the other DP ministers at the end of the Moon government on 2022-05-09, but it was not accepted then because of the new government's cabinet-meeting quorum (경향신문 2022-05-09 https://n.news.naver.com/mnews/article/032/0003145626, accessed 2026-09-25T13:37:51-0400, reporting '일단 이들의 사퇴서를 수리하지 않았다'). He was still in office on 2022-05-11, did not attend the 2022-05-12 cabinet meeting and returned to the Assembly from 2022-05-13, when his successor's appointment took effect. The exact date the resignation was accepted was not found. Held over under 윤석열 from 2022-05-10 (transition split is done in code). The MSS page lists 2021. 02. 08 ~ 2022. 05. 09, and both dates conflict with the gazette and same-day news (see issues). [verifier] End 2022-05-12 kept. The successor 이영 was approved on the evening of 2022-05-12 and her term ran from 2022-05-13 (gazette), so 권칠승's last day in office is 2022-05-12, the same treatment as 문승욱 (industry), whose successor was approved in the same evening 재가. No acceptance date was found in BigKinds or Naver. Under a strict successor-day convention the end would be 2022-05-13 (the culture lineage uses 2022-05-13 for 황희 because 박보균 was approved on 2022-05-13 itself)."
+  },
+  {
+   "name": "이영",
+   "name_hanja": "李永",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1969-06-06",
+   "gender": "F",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2022-05-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20255호 (2022-05-23) 인사발령(인사혁신처), text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20220523_20255_I0000000000000001652659816213000.pdf (accessed 2026-09-24T22:33:40-0400): 이영(李永) 국무위원에 임함 중소벤처기업부장관에 보함 2022. 5. 13.",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): entry number '4대 장관', name '이영(李永)', duration 2022. 05. 13 to 2023. 12. 28",
+    "연합뉴스 2022-05-12 18:40 https://n.news.naver.com/mnews/article/001/0013175346 (accessed 2026-09-25T13:12:14-0400, snapshot roster/sources/sme/news/naver_001_0013175346.html): \"윤석열 대통령은 12일 이창양 산업통상자원부·이영 중소벤처기업부 장관을 임명했다고 대통령실이 밝혔다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do) (see 권칠승 end sources): 대구신문 2022-05-12 19:34 news_id 01501001.20220512193410001 and 아시아투데이 2022-05-13 news_id 01100751.20220513101050003 ('이 신임 장관은 이날 ... 업무를 시작했다'), snapshot roster/sources/sme/verify/bigkinds/bk_ly_start_2022-05-12_2022-05-14.json."
+   ],
+   "end": "2023-12-29",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): 이영 entry, duration 2022. 05. 13 to 2023. 12. 28, career line '중소벤처기업부 장관(~ 2023. 12. 28)'",
+    "연합뉴스 2023-12-28 12:17 https://n.news.naver.com/mnews/article/001/0014414172 (accessed 2026-09-25T13:39:49-0400, snapshot roster/sources/sme/news/naver_001_0014414172.html): \"이영 중소벤처기업부 장관이 28일 세종시 정부세종청사에서 열린 이임식에 입장해 자리하고 있다\"",
+    "관보 제20661호 (2024-01-05) 인사발령(인사혁신처), text harvest/gazette_text/20240105_20661_I0000000000000001703827582647000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20240105_20661_I0000000000000001703827582647000.pdf (accessed 2026-09-24T22:54:47-0400): 오영주(吳姈姝) 국무위원에 임함 중소벤처기업부장관에 보함 2023. 12. 29. (successor appointed 2023-12-29)",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '오영주 임명' 2023-12-28..2023-12-30, snapshot roster/sources/sme/verify/bigkinds/bk_oyj_start_2023-12-28_2023-12-30.json (accessed 2026-09-25T22:17 EDT): 한국일보 2023-12-29 news_id 01101101.20231229160101001 '윤 대통령은 이날 오전 최 부총리와 김 위원장, 송미령 ..., 오영주 중소벤처기업부 장관 임명안을 재가했' | 노컷뉴스 2023-12-29 news_id 04100058.20231229111117001 '장관급 인사를 29일자로 임명' | 노컷뉴스 2023-12-29 news_id 04100058.20231229141316001 '이날 오전 임명된 오 장관은' | KBS 2023-12-29 news_id 08100101.20231229211442001 '오늘(29일)자로 임명'. The successor took office during 2023-12-29.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), queries '이영 이임식' 2023-12-27..2023-12-30 and '이영 장관 면직' 2023-12-26..2023-12-31, 0 hits each (snapshots roster/sources/sme/verify/bigkinds/bk_ly_exit_2023-12-27_2023-12-30.json, bk_ly_exit2_2023-12-26_2023-12-31.json, accessed 2026-09-25T22:17 EDT). No report of a separate acceptance of her resignation. Her 이임식 on 2023-12-28 is documented by 뉴시스 2023-12-28 12:22 https://n.news.naver.com/mnews/article/003/0012290131 (snapshot roster/sources/sme/verify/naver/naver_003_0012290131.html, accessed 2026-09-25T22:18:34-0400) and the builder's 연합뉴스 photos."
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (미래한국당 비례대표, later 국민의힘, mona_cd 1X376850). na_members_15_22.csv records the seat as resigned on 2022-05-20 ('중소벤처기업부 장관 취임으로 의원직 사직')",
+   "transcript_check": "ok",
+   "transcript_notes": "25 valid-type minister rows (21 상임위원회, 4 국정감사) dated 2022-05-19..2023-12-14, inside the spell. Nominee row 2022-05-11 meeting 051886. One 국회본회의 row dated 2015-02-04 is misattached content and is ignored (coverage_gaps.csv lead).",
+   "notes": "Nominated by 대통령당선인 윤석열 on 2022-04-13. The appointment was approved (재가) on the evening of 2022-05-12 and the gazette prints 2022. 5. 13. The roster follows the gazette and the MSS page. ko.wikipedia gives 2022-05-12. Replaced in the 2023-12-04 reshuffle, which news described as replacing ministers expected to run in the 2024-04-10 general election (동행미디어 시대 2023-12-04 https://n.news.naver.com/mnews/article/417/0000966592 reports '이날 교체되는 추경호 기재부· 원희룡 국토부·조승환 해수부·정황근 농식품부·이영 중기부 장관은 모두 내년 총선에 출마할 계획이다'). Whether she ran was not checked, so end_reason resigned_to_run rests on that report. [verifier] End changed from 2023-12-28 to 2023-12-29 (inferred_from_successor). She held her 이임식 on 2023-12-28, but the successor was only approved on the morning of 2023-12-29 and no acceptance of her resignation was reported, so the handover is dated to 2023-12-29 as for 추경호 and 정황근 in the same reshuffle. Users who date exits by the farewell ceremony should use 2023-12-28. [verifier] end_reason resigned_to_run confirmed. 노컷뉴스 2024-03-14 (BigKinds news_id 04100058.20240314055029001, query '이영 전 장관 출마' 2024-01-01..2024-03-31, snapshot roster/sources/sme/verify/bigkinds/bk_ly_run_2024-01-01_2024-03-31.json, accessed 2026-09-25T22:18 EDT) reports that 이영 전 중소벤처기업부 장관 declared a district candidacy and applied for the party nomination for the 2024-04-10 general election and was eliminated. She was no longer an NA member (seat resigned 2022-05-20), so leaving the cabinet was required to run."
+  },
+  {
+   "name": "오영주",
+   "name_hanja": "吳姈姝",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1964-03-27",
+   "gender": "F",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2023-12-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20661호 (2024-01-05) 인사발령(인사혁신처), text harvest/gazette_text/20240105_20661_I0000000000000001703827582647000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20240105_20661_I0000000000000001703827582647000.pdf (accessed 2026-09-24T22:54:47-0400): 오영주(吳姈姝) 국무위원에 임함 중소벤처기업부장관에 보함 2023. 12. 29.",
+    "뉴스1 2023-12-29 09:50 https://n.news.naver.com/mnews/article/421/0007260478 (accessed 2026-09-25T13:23:15-0400, snapshot roster/sources/sme/news/naver_421_0007260478.html): \"이들 임기는 이날(29일)부터 시작된다\"",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): entry number '5대 장관', name '오영주(吳姈姝)', duration 2023. 12. 29 to 2025. 07. 23",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '오영주 임명' 2023-12-28..2023-12-30, snapshot roster/sources/sme/verify/bigkinds/bk_oyj_start_2023-12-28_2023-12-30.json: 대구신문 2023-12-29 news_id 01501001.20231229175413001 '윤 대통령은 이들 장관급 인사들을 이날 자로 임명했다' | 아시아투데이 2023-12-29 news_id 01100751.20231229111117003 '오영주 신임 중소벤처기업부 장관이 29일 취임했다'."
+   ],
+   "end": "2025-07-23",
+   "end_confidence": "medium",
+   "end_sources": [
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): 오영주 entry, duration 2023. 12. 29 to 2025. 07. 23, career line '중소벤처기업부 장관(~ 2025. 07. 23)'",
+    "이데일리 2025-07-23 18:57 https://n.news.naver.com/mnews/article/018/0006072617 (accessed 2026-09-25T13:41:41-0400, snapshot roster/sources/sme/news/naver_018_0006072617.html): \"오영주 중소벤처기업부 장관은 23일 공식적으로 업무를 마무리하며\"",
+    "뉴스1 2025-07-23 17:14 https://n.news.naver.com/mnews/article/421/0008388404 (accessed 2026-09-25T13:41:42-0400, snapshot roster/sources/sme/news/naver_421_0008388404.html): \"1년 7개월간 수행한 장관직을 내려놓으며\"",
+    "관보 제21047호 (2025-07-31) 인사발령(인사혁신처), text harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20250731_21047_I0000000000000001753420981908000.pdf (accessed 2026-09-24T22:59:54-0400): 한성숙(韓聖淑) 국무위원에 임함 중소벤처기업부장관에 보함 2025. 7. 24. (successor appointed 2025-07-24)",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '한성숙 임명 재가' 2025-07-23..2025-07-25, snapshot roster/sources/sme/verify/bigkinds/bk_hss_start_2025-07-23_2025-07-25.json (accessed 2026-09-25T22:17 EDT): 문화일보 2025-07-23 22:37 news_id 01100501.20250723223711001 '[속보]이대통령, 김상환·오영준·전재수·한성숙 임명안 재가' | 뉴스핌 2025-07-23 21:10 news_id 04100078.20250723211035001 | 아주경제 2025-07-24 news_id 02100851.20250724190033001 (한성숙's 취임식 on 2025-07-24). The successor was approved on the evening of 2025-07-23 and took office on 2025-07-24."
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "11 valid-type minister rows (9 상임위원회, 2 국정감사) dated 2024-07-30..2024-12-19, inside the spell (transcripts end 2025-01). Nominee row 2023-12-21 meeting 053711. One 예산결산특별위원회 row dated 2022-11-24 (single short speech) is misattached content and is ignored (coverage_gaps.csv lead).",
+   "notes": "Career diplomat (외교부 제2차관). Appointed without an adopted hearing report. Held over under 이재명 from 2025-06-04 until her successor took office (transition split is done in code). 조선비즈 2025-07-24 (https://n.news.naver.com/mnews/article/366/0001095257) reports a 퇴임식 in Sejong on the 24th, and ko.wikipedia gives 2025-07-24 as her last day (see issues). Birth date from the MSS page source (commented-out field '1964년 3월 27일'). [verifier] End 2025-07-23 kept. The successor was approved late on 2025-07-23 with the gazette date 2025-07-24, and 오영주 delivered her 이임사 on 2025-07-23 (이데일리 18:57 and 뉴스1 17:14, snapshots roster/sources/sme/verify/naver/). This matches the foreign lineage's treatment of 조태열 (evening 재가, next-day gazette date, last day the day before). 조선비즈 2025-07-24 13:50 dates a 퇴임식 to the 24th with the same quotations as the 23rd reports, so it is most likely a rewrite of the 23rd press release. If a same-day-handover convention is applied, the end would be 2025-07-24."
+  },
+  {
+   "name": "한성숙",
+   "name_hanja": "韓聖淑",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1967-06-20",
+   "gender": "F",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2025-07-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21047호 (2025-07-31) 인사발령(인사혁신처), text harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20250731_21047_I0000000000000001753420981908000.pdf (accessed 2026-09-24T22:59:54-0400): 한성숙(韓聖淑) 국무위원에 임함 중소벤처기업부장관에 보함 2025. 7. 24.",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): entry number '6대 장관', name '한성숙(韓聖淑)', duration 2025. 07. 24 to 2026. 06. 30",
+    "KBS 2025-07-23 20:56 https://n.news.naver.com/mnews/article/056/0011994978 (accessed 2026-09-25T13:40:43-0400, snapshot roster/sources/sme/news/naver_056_0011994978.html): \"한성숙 중소벤처기업부 장관에 대한 임명안을 재가했습니다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '한성숙 임명 재가' 2025-07-23..2025-07-25, snapshot roster/sources/sme/verify/bigkinds/bk_hss_start_2025-07-23_2025-07-25.json: 문화일보 2025-07-23 22:37 (재가), 아주경제 2025-07-24 19:00 news_id 02100851.20250724190033001 '한성숙 중소벤처기업부 장관이 24일 세종 중소벤처기업부 청사에서 열린 취임식에서'."
+   ],
+   "end": "2026-06-30",
+   "end_confidence": "high",
+   "end_sources": [
+    "관보 제21291호 (2026-07-31) 인사발령(인사혁신처), text harvest/gazette_text/20260731_21291_I0000000000000001785135780010000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20260731_21291_I0000000000000001785135780010000.pdf (accessed 2026-09-25T12:59:49-0400): 한성숙(韓聖淑) 국무총리에 임함 2026. 7. 1. (her next office, from 2026-07-01)",
+    "MSS 역대장관 page https://www.mss.go.kr/site/smba/contents/view.do?menuCd=20801040100002024122935&siteCd=smba (accessed 2026-09-25T13:49:38-0400, snapshot roster/sources/sme/official/mss_past_ministers.html): 한성숙 entry, duration 2025. 07. 24 to 2026. 06. 30",
+    "프레시안 2026-07-01 04:34 https://n.news.naver.com/mnews/article/002/0002446773 (accessed 2026-09-25T13:34:21-0400, snapshot roster/sources/sme/news/naver_002_0002446773.html): \"한 총리 임명일자는 7월 1일\"",
+    "여성신문 2026-08-30 13:13 https://n.news.naver.com/mnews/article/310/0000139528 (accessed 2026-09-25T13:45:16-0400, snapshot roster/sources/sme/news/naver_310_0000139528.html): \"한성숙 국무총리가 지난 6월 30일 중소벤처기업부 장관에서 물러난 지 61일 만이다\"",
+    "SBS Biz 2026-07-30 15:48 https://n.news.naver.com/mnews/article/374/0000524670 (accessed 2026-09-25T13:35:52-0400, snapshot roster/sources/sme/news/naver_374_0000524670.html): \"한성숙 전 장관이 지난 1일 국무총리로 자리를 옮긴 뒤, 중기부는 노용석 제1차관 직무대행 체제로 운영되고 있습니다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '한성숙 국무총리 임명' 2026-06-30..2026-07-02, snapshot roster/sources/sme/verify/bigkinds/bk_hss_exit2_2026-06-30_2026-07-02.json (accessed 2026-09-25T22:17 EDT): 브릿지경제 2026-07-02 news_id 02100861.20260702075206001 '이재명 대통령은 30일 한성숙 국무총리 임명안을 재가했다. 한 총리의 임명 일자는 7월 1일' | 동아일보 2026-07-01 news_id 01100401.20260701193826001 '한 총리는 이날 청와대에서 이재명 대통령으로부터 임명장을 받고 임기를 시작했다'.",
+    "[verifier] 디지털데일리 2026-07-01 16:36 https://n.news.naver.com/mnews/article/138/0002232805 (snapshot roster/sources/sme/verify/naver/naver_138_0002232805.html, accessed 2026-09-25T13:34:44-0400): '1일 자정(0시)을 기해 공식 임기를 시작' and '별도 이임식 대신 중소벤처기업부 내부망에 글을 올려 장관직을 마무리했다'. Her PM term began at 00:00 on 2026-07-01, so her last day as minister is 2026-06-30."
+   ],
+   "end_reason": "other",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after the transcript input ends (2025-01).",
+   "notes": "Former NAVER CEO. Hearing report adopted 2025-07-23 and appointment approved that evening, gazette date 2025-07-24. Nominated 국무총리 on 2026-06-07, NA consent passed 2026-06-30 (연합뉴스 2026-06-30 https://n.news.naver.com/mnews/article/001/0016168573), appointed 국무총리 effective 2026-07-01 (gazette 제21291호). end_reason 'other' means she left to become 국무총리 (PM lineage). She closed her ministerial term with a message on the ministry intranet instead of an 이임식 (디지털데일리 2026-07-01 https://n.news.naver.com/mnews/article/138/0002232805). The MSS page career line reads '중소벤처기업부 장관(~ 2025. 06. 30)', an evident year typo against its own duration field."
+  },
+  {
+   "name": "이소영",
+   "name_hanja": "李素永",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1985-02-10",
+   "gender": "F",
+   "ministry": "중소벤처기업부",
+   "office_title": "중소벤처기업부장관",
+   "deputy_pm": false,
+   "start": "2026-09-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "연합뉴스 2026-09-23 03:31 https://n.news.naver.com/mnews/article/001/0016331214 (accessed 2026-09-25T13:34:51-0400, snapshot roster/sources/sme/news/naver_001_0016331214.html): \"이재명 대통령은 22일 이소영 중소벤처기업부 장관, 이정현 대검찰청 차장검사에 대한 임명안을 재가했다\"",
+    "더팩트 2026-09-23 07:56 https://n.news.naver.com/mnews/article/629/0000536430 (accessed 2026-09-25T13:42:33-0400, snapshot roster/sources/sme/news/naver_629_0000536430.html): \"이 장관은 22일 국회의 인사청문경과보고서 채택과 이재명 대통령의 임명안 재가 직후\"",
+    "한국일보 2026-09-23 11:22 https://n.news.naver.com/mnews/article/469/0000955701 (accessed 2026-09-25T21:36:19-0400, snapshot roster/sources/sme/news/naver_469_0000955701.html): \"이 장관은 22일 밤 자신의 사회관계망서비스(SNS)를 통해 \"오늘 여야 합의로 청문보고서가 채택되고, 조금 전 대통령 임명안 재가가 이뤄져 이제 정식으로 직무를 시작하게 됐다\"\"",
+    "뉴시스 2026-09-23 10:09 https://n.news.naver.com/mnews/article/003/0014209948 (accessed 2026-09-25T21:36:00-0400, snapshot roster/sources/sme/news/naver_003_0014209948.html): \"이재명 대통령은 전날 늦게 이소영 중기부 장관에 대한 임명안을 재가했다\"",
+    "BigKinds metadata OBS 2026-09-23 news_id 08200101.20260923073646001: '이재명 대통령은 우리시간 어젯밤(22일) 이소영 중소벤처기업부 장관과 이정현 대검찰청 차장에 대한 임명안을 재가했습니다' (snapshot roster/sources/sme/news/bk_lsy_jaega_2026-09-22_2026-09-23.json, accessed 2026-09-25T21:36:30-0400)",
+    "likms [ZZ22136] 국무위원후보자(중소벤처기업부장관 이소영) 인사청문요청안: 제안일자 2026-09-03, 처리일 2026-09-22 채택 (harvest/likms/PRC_G2K6N0N9R0Z3A1B8H3R8S2C0O8P0Z8.txt, copy roster/sources/sme/likms/PRC_G2K6N0N9R0Z3A1B8H3R8S2C0O8P0Z8.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "ko.wikipedia '대한민국 중소벤처기업부 장관' https://ko.wikipedia.org/w/index.php?oldid=42539721 (accessed 2026-09-25T13:32:51-0400, snapshot roster/sources/sme/wiki/, secondary): 제7대 이소영 취임일 2026년 9월 22일",
+    "[verifier] 동아일보 2026-09-23 04:35 https://n.news.naver.com/mnews/article/020/0003750281 (snapshot roster/sources/sme/verify/naver/naver_020_0003750281.html, accessed 2026-09-25T21:47:32-0400): '청와대 강유정 수석대변인은 22일 공지를 통해 국회에서 인사청문 경과보고서가 채택된 장관 후보자 임명안에 대한 재가가 이뤄졌다고 밝혔다' (list includes 이소영 중소벤처기업부 장관).",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '이소영 장관 임명' 2026-09-22..2026-09-24, snapshot roster/sources/sme/verify/bigkinds/bk_lsy_start_2026-09-22_2026-09-24.json (accessed 2026-09-25T22:17 EDT): 브릿지경제 2026-09-24 news_id 02100861.20260924095633001 '이재명 대통령은 22일 이소영 중소벤처기업부 장관과 이정현 대검찰청 차장검사의 임명안을 재가했다'. Conflicting indicator: 파이낸셜뉴스 2026-09-23 news_id 02100501.20260923163735001 calls 2026-09-23 her '취임 첫날' ('공식 업무를 시작'), and 서울경제 2026-09-25 news_id 02100311.20260925080136001 says she '공식 임기를 시작했다'.",
+    "[verifier] 관보 recheck 2026-09-25T22:26:03-0400 (gazette_issues_on 2026-09-24..26 empty, category-19 search 2026-09-20..2026-09-30 total 0), roster/sources/sme/verify/gazette_recheck_lsy.json and gazette_search_20260920_20260930_cat19.json. No notice yet."
+   ],
+   "end": null,
+   "end_confidence": null,
+   "end_sources": [],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 22nd NA member (더불어민주당, 경기 의왕시과천시, mona_cd WTR5885Y), also 21st (na_members_15_22.csv)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after the transcript input ends (2025-01).",
+   "notes": "Nominated 2026-08-30. The committee adopted the report on the morning of 2026-09-22, and the President, then in New York for the UN General Assembly, approved the appointment late on 2026-09-22 Korean time (OBS '우리시간 어젯밤(22일)', 뉴시스 '전날 늦게'). Her own SNS post on the night of the 22nd says the approval had just happened, and the earliest reports are timestamped 00:11 KST on 2026-09-23 (매일신문, BigKinds news_id 01500601.20260923001132001). The gazette had not printed the notice at the resume recheck of 2026-09-25 21:33 EDT. The full issues 제21326호 to 제21328호 (2026-09-21..2026-09-23) contain no 인사발령 section, and no issue was published 2026-09-24..2026-09-26 (roster/sources/sme/gazette/gazette_recheck_20260925.json). The printed 임명일 (2026-09-22 or 2026-09-23) is therefore unconfirmed. Formal 취임식 announced for 2026-09-28 (더팩트). Hanja and birth date from na_members_15_22.csv. ko.wikipedia gives birth 1985-03-30 (see issues). [verifier] Start kept at 2026-09-22 but marked disputed. Every report dates the 재가 to 2026-09-22 Korean time (연합뉴스, 뉴스1 23:25, 동아일보, 브릿지경제), but it came late at night, and in this lineage each evening 재가 so far carried the next day's 임명일 (권칠승 2021, '임기 시작일은 5일', 이영 2022, 한성숙 2025). 파이낸셜뉴스 and 브릿지경제 call 2026-09-23 her first day. The gazette date will settle it."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "박성진",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2017-08-24",
+   "request_date": "2017-08-28",
+   "likms_bill_id": "ZZ20075",
+   "hearing_dates": [
+    "2017-09-11"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2017-09-15",
+   "sources": [
+    "KBS 2017-08-24 17:21 https://n.news.naver.com/mnews/article/056/0010497936 (accessed 2026-09-25T13:43:29-0400, snapshot roster/sources/sme/news/naver_056_0010497936.html): '문재인 대통령은 24일(오늘) 정부조직법 개정으로 신설된 초대 중소벤처기업부장관 후보자로 박성진 포항공대 기계공학과 교수를 지명했다'",
+    "likms [ZZ20075] 국무위원후보자(중소벤처기업부장관 박성진) 인사청문요청안: 제안일자 2017-08-28, 회부 2017-08-28 (harvest/likms/PRC_H1R7A0F8Y2L8T1M6G3B9L2R5H4P6R3.txt, copy roster/sources/sme/likms/PRC_H1R7A0F8Y2L8T1M6G3B9L2R5H4P6R3.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: 산업통상자원중소벤처기업위원회 meeting 47368 '국무위원후보자(중소벤처기업부장관 박성진) 인사청문회' 2017-09-11",
+    "국회 뉴스 2017-09-13 16:21 https://n.news.naver.com/mnews/article/358/0000005594 (accessed 2026-09-25T13:43:12-0400): '국회 산업통상자원중소벤처기업위원회는 13일(수) 전체회의를 열고 박성진 중소벤처기업부 장관 후보자에 대해 '부적격 의견'을 담은 인사청문 심사경과보고서를 채택했다'",
+    "KBS 2017-09-15 17:11 https://n.news.naver.com/mnews/article/056/0010505027 (accessed 2026-09-25T13:42:47-0400): '박성진 중소벤처기업부 장관 후보자가 자진 사퇴했습니다'",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '박성진 부적격 경과보고서 채택' 2017-09-13, snapshot roster/sources/sme/verify/bigkinds/bk_psj_report2_2017-09-13_2017-09-13.json (accessed 2026-09-25T22:21:45-0400): 경북도민일보 2017-09-13 news_id 01501101.20170913000341002 '국회 산업통상자원중소벤처기업위원회는 13일 박성진 ... 부적격 의견의 인사청문경과보고서를 채택했다' | 머니투데이 2017-09-13 news_id 02100201.20170913233446001 ('13일 오후 3시 전체회의를 열어 ... 부적격 의견으로 채택').",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '박성진 청문보고서' 2017-09-12..2017-09-15: 한겨레 2017-09-15 news_id 01101001.20170915223821001 '지명 22일 만인 15일 자진사퇴' (confirms nomination 2017-08-24 and withdrawal 2017-09-15)."
+   ],
+   "notes": "First nominee for the new ministry. The committee adopted a report carrying only an unfit (부적격) opinion on 2017-09-13, and he withdrew on 2017-09-15. The likms detail lists a committee 처리일 2017-09-05 '원안가결', before the hearing (see issues)."
+  },
+  {
+   "nominee": "홍종학",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2017-10-23",
+   "request_date": "2017-10-26",
+   "likms_bill_id": "ZZ20087",
+   "hearing_dates": [
+    "2017-11-10"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2017-11-21",
+   "sources": [
+    "연합뉴스 2017-10-23 18:14 https://n.news.naver.com/mnews/article/001/0009628324 (accessed 2026-09-25T13:43:58-0400): '청와대는 23일 오후 중소벤처기업부 장관 후보자에 홍종학 전 국회의원을 지명했다고 밝혔다'",
+    "likms [ZZ20087] 제안일자 2017-10-26, 회부 2017-10-27, 상정 2017-10-31, no 처리 entry (harvest/likms/PRC_Z1Y7S1Y0L2Z6S1C7A0K7S0P8M7F0O8.txt, copy roster/sources/sme/likms/PRC_Z1Y7S1Y0L2Z6S1C7A0K7S0P8M7F0O8.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: meeting 47528 '국무위원후보자(중소벤처기업부장관 홍종학) 인사청문회' 2017-11-10",
+    "서울경제 2017-11-20 19:29 https://n.news.naver.com/mnews/article/011/0003157033 (accessed 2026-09-25T13:36:33-0400): '청문보고서를 채택하는 데 실패했다'",
+    "관보 제19149호 (2017-12-08) 인사발령(인사혁신처), text harvest/gazette_text/20171208_19149_00000000000000001513826620806000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20171208_19149_00000000000000001513826620806000.pdf (accessed 2026-09-25T12:56:20-0400): 홍종학(洪鍾學) 국무위원에 임함 중소벤처기업부장관에 보함 2017.11.21.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '홍종학 중소벤처기업부 장관 후보자 지명' 2017-10-23..2017-10-24, snapshot roster/sources/sme/verify/bigkinds/bk_nom_hjh_2017-10-23_2017-10-24.json: 동아일보 2017-10-24 news_id 01100401.20171024115300012 '문재인 대통령은 23일 중소벤처기업부 장관 후보자에 홍종학 전 의원을 지명했다'. 매일신문 2017-11-21 news_id 01500601.20171121132814002 '국회 인사청문보고서 채택이 무산된 홍종학 ... 공식 임명'."
+   ],
+   "notes": "Appointed after the 재송부 deadline of 2017-11-20 passed without a report."
+  },
+  {
+   "nominee": "박영선",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2019-03-08",
+   "request_date": "2019-03-13",
+   "likms_bill_id": "ZZ20256",
+   "hearing_dates": [
+    "2019-03-27"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2019-04-08",
+   "sources": [
+    "한겨레 2019-03-08 11:40 https://n.news.naver.com/mnews/article/028/0002445763 (accessed 2026-09-25T13:44:17-0400): '중소벤처기업부 장관에 박영선 민주당 의원 ... 등을 지명하는 등 7개 부처 개각을 단행'",
+    "likms [ZZ20256] 제안일자 2019-03-13, 회부 2019-03-13, no 처리 entry (harvest/likms/PRC_S1Q9H0Y3Y1V3O1B7H2K3I5P3H7P5P5.txt, copy roster/sources/sme/likms/PRC_S1Q9H0Y3Y1V3O1B7H2K3I5P3H7P5P5.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: meeting 49039 '국무위원후보자(중소벤처기업부장관 박영선) 인사청문회' 2019-03-27",
+    "머니투데이 2019-04-08 16:51 https://n.news.naver.com/mnews/article/008/0004201091 (accessed 2026-09-25T13:36:48-0400, snapshot roster/sources/sme/news/naver_008_0004201091.html): \"국회가 끝내 인사청문경과보고서를 채택하지 못한 김연철 박영선 두 장관 임명안을 재가했다\"",
+    "관보 제19482호 (2019-04-16) 인사발령(인사혁신처), text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20190416_19482_00000000000000001555373338024000.pdf (accessed 2026-09-24T22:59:43-0400): 박영선(朴映宣) 국무위원에 임함 중소벤처기업부장관에 보함 2019.4.8.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '박영선 중소벤처기업부 장관 후보자' 2019-03-08..2019-03-09, snapshot roster/sources/sme/verify/bigkinds/bk_nom_pys_2019-03-08_2019-03-09.json: 세계일보 2019-03-09 news_id 01100701.20190309111304001 '박영선 의원이 8일 중소벤처기업부 장관으로 내정되면서'. SBS 2019-04-09 news_id 08100301.20190409072352001 '국회 청문 보고서가 끝내 채택되지 않아'."
+   ],
+   "notes": "3·8 개각. Appointed without an adopted report."
+  },
+  {
+   "nominee": "권칠승",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2021-01-20",
+   "request_date": "2021-01-22",
+   "likms_bill_id": "ZZ21044",
+   "hearing_dates": [
+    "2021-02-03"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2021-02-05",
+   "sources": [
+    "연합뉴스 2021-01-20 18:00 https://n.news.naver.com/mnews/article/001/0012152896 (accessed 2026-09-25T13:44:25-0400): '중소벤처기업부 장관에는 민주당 권칠승 의원을 각각 내정했다'",
+    "likms [ZZ21044] 제안일자 2021-01-22, 회부 2021-01-25, 처리 2021-02-04 원안가결 (harvest/likms/PRC_M2Z1N0Y1Z2M2C1A7G0E4O0Y7Y0M5A3.txt, copy roster/sources/sme/likms/PRC_M2Z1N0Y1Z2M2C1A7G0E4O0Y7Y0M5A3.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: meeting 050749 '국무위원후보자(중소벤처기업부장관 권칠승) 인사청문회' 2021-02-03",
+    "뉴스1 2021-02-04 18:30 https://n.news.naver.com/mnews/article/421/0005150141 (accessed 2026-09-25T13:37:36-0400): '국회 산업통상자원중소벤처기업위원회는 이날 오전 권 후보자에 대한 인사청문 경과보고서를 채택했다'",
+    "관보 제19940호 (2021-02-16) 인사발령(인사혁신처), text harvest/gazette_text/20210216_19940_00000000000000001612921930384000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20210216_19940_00000000000000001612921930384000.pdf (accessed 2026-09-24T22:59:53-0400): 권칠승(權七勝) 국무위원에 임함 중소벤처기업부장관에 보함 2021. 2. 5.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do): KBS 2021-01-20 news_id 08100101.20210120211107001 '문재인 대통령이 오늘(20일) 이 세 개 부처 장관을 새로 지명했습니다' (snapshot roster/sources/sme/verify/bigkinds/bk_pys_exit2_2021-01-19_2021-01-22.json) | 기호일보 2021-02-05 news_id 01200301.20210205210740068 '4일 전체회의를 열어 ... 인사청문경과보고서를 여야 합의로 채택' (snapshot roster/sources/sme/verify/bigkinds/bk_kcs_start_2021-02-04_2021-02-06.json)."
+   ],
+   "notes": "Report adopted 2021-02-04, appointment approved that evening with the term starting 2021-02-05."
+  },
+  {
+   "nominee": "이영",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2022-04-13",
+   "request_date": "2022-04-19",
+   "likms_bill_id": "ZZ21108",
+   "hearing_dates": [
+    "2022-05-11"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-13",
+   "sources": [
+    "아시아경제 2022-04-13 14:56 https://n.news.naver.com/mnews/article/277/0005073333 (accessed 2026-09-25T13:47:57-0400): '윤석열 당선인이 13일 이영 국민의힘 의원을 중소벤처기업부 장관 후보자로 지명한 가운데'",
+    "likms [ZZ21108] 인사청문요청안(대통령당선인): 제안일자 2022-04-19, 회부 2022-04-20, 처리 2022-05-12 채택 (harvest/likms/PRC_M2M2J0R4K1L9W1E7T2G1T5B5T6S8C2.txt, copy roster/sources/sme/likms/PRC_M2M2J0R4K1L9W1E7T2G1T5B5T6S8C2.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: meeting 051886 '국무위원후보자(중소벤처기업부장관 이영) 인사청문회' 2022-05-11",
+    "MBC 2022-05-12 18:32 https://n.news.naver.com/mnews/article/214/0001196060 (accessed 2026-09-25T13:12:29-0400): '두 장관은 국회 인사청문회를 거쳐 오늘 여야 합의로 인사청문경과보고서가 채택됐습니다'",
+    "관보 제20255호 (2022-05-23) 인사발령(인사혁신처), text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20220523_20255_I0000000000000001652659816213000.pdf (accessed 2026-09-24T22:33:40-0400): 이영(李永) 국무위원에 임함 중소벤처기업부장관에 보함 2022. 5. 13.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '이영 중소벤처기업부 장관 후보자 지명' 2022-04-13..2022-04-14, snapshot roster/sources/sme/verify/bigkinds/bk_nom_ly_2022-04-13_2022-04-14.json: 부산일보 2022-04-14 news_id 01500701.20220414180940001 ('윤석열 정부의 초대 중소벤처기업부 장관 후보자로 지명된 국민의힘 이영 의원'). The snippet does not print the day, so 2022-04-13 rests on the builder's 아시아경제 item and the likms request of 2022-04-19."
+   ],
+   "notes": "Request submitted by the 대통령당선인 under 인사청문회법 before the 2022-05-10 inauguration. Appointment approved on the evening of 2022-05-12, gazette date 2022-05-13."
+  },
+  {
+   "nominee": "오영주",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2023-12-04",
+   "request_date": "2023-12-07",
+   "likms_bill_id": "ZZ21182",
+   "hearing_dates": [
+    "2023-12-21"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-12-29",
+   "sources": [
+    "뉴시스 2023-12-04 15:47 https://n.news.naver.com/mnews/article/003/0012247410 (accessed 2026-09-25T13:45:23-0400): '윤석열 대통령이 4일 중소벤처기업부 장관 후보자에 오영주 외교부 2차관을 지명했다'",
+    "likms [ZZ21182] 제안일자 2023-12-07, 회부 2023-12-08, 상정 2023-12-14, no 처리 entry (harvest/likms/PRC_Z2L3H1B2E0H7L1A9V0V4H4L7N4H9W8.txt, copy roster/sources/sme/likms/PRC_Z2L3H1B2E0H7L1A9V0V4H4L7N4H9W8.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "inputs/nominee_hearing_meetings.csv: meeting 053711 '국무위원후보자(중소벤처기업부장관 오영주) 인사청문요청안 / 인사청문회' 2023-12-21",
+    "시사저널 2023-12-29 10:20 https://n.news.naver.com/mnews/article/586/0000070255 (accessed 2026-09-25T13:23:16-0400): '오영주 중기부 장관에 대한 청문보고서는 여야 이견으로 채택이 불발됐다'",
+    "관보 제20661호 (2024-01-05) 인사발령(인사혁신처), text harvest/gazette_text/20240105_20661_I0000000000000001703827582647000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20240105_20661_I0000000000000001703827582647000.pdf (accessed 2026-09-24T22:54:47-0400): 오영주(吳姈姝) 국무위원에 임함 중소벤처기업부장관에 보함 2023. 12. 29.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), query '오영주 중소벤처기업부 장관 후보자 지명' 2023-12-04..2023-12-05, snapshot roster/sources/sme/verify/bigkinds/bk_nom_oyj_2023-12-04_2023-12-05.json: 세계일보 2023-12-05 news_id 01100701.20231205155504001 '전날 중기부 장관 후보자로 오영주 외교부 제2차관이 지명됐다'. 동아일보 2023-12-29 news_id 01100401.20231229173832001 (4 of the 5 appointed without an adopted report, 오영주 among them)."
+   ],
+   "notes": "Appointed after the 재송부 deadline without a report. The NA open API table (harvest/na_hearing_requests_15_22.csv) shows PROC_DT 2023-12-14 'PROC_RESULT 채택', a week before the hearing. That entry does not match the likms detail or the news and is treated as an API error (see issues)."
+  },
+  {
+   "nominee": "한성숙",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2025-06-23",
+   "request_date": "2025-06-30",
+   "likms_bill_id": "ZZ22061",
+   "hearing_dates": [
+    "2025-07-15"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-24",
+   "sources": [
+    "여성신문 2025-06-23 16:25 https://n.news.naver.com/mnews/article/310/0000127103 (accessed 2026-09-25T13:45:07-0400): '이재명 대통령은 23일 중소벤처기업부 장관 후보자에 한성숙 네이버 전 대표이사를 지명했다'",
+    "likms [ZZ22061] 제안일자 2025-06-30, 회부 2025-07-01, 상정 2025-07-04, 처리 2025-07-23 채택; committee meetings 2025-07-04, 2025-07-15, 2025-07-23 (harvest/likms/PRC_N2A5F0M6A3P0B1Y8V1I1H0E8Y0A9O3.txt, copy roster/sources/sme/likms/PRC_N2A5F0M6A3P0B1Y8V1I1H0E8Y0A9O3.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "뉴시스 2025-07-23 21:09 https://n.news.naver.com/mnews/article/003/0013381198 (accessed 2026-09-25T13:40:48-0400): '한성숙 중소벤처기업부 장관 후보자가 지난 15일 서울 여의도 국회 산업통상자원중소벤처기업위원회에서 열린 인사청문회에서 발언하고 있다'",
+    "SBS Biz 2025-07-23 20:40 https://n.news.naver.com/mnews/article/374/0000453432 (accessed 2026-09-25T13:40:45-0400): '산업통상자원중소벤처기업위원회는 이날 각각 전체 회의를 열고 전재수 후보자와 한성숙 후보자에 대한 인사청문 경과보고서를 채택했습니다'",
+    "관보 제21047호 (2025-07-31) 인사발령(인사혁신처), text harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20250731_21047_I0000000000000001753420981908000.pdf (accessed 2026-09-24T22:59:54-0400): 한성숙(韓聖淑) 국무위원에 임함 중소벤처기업부장관에 보함 2025. 7. 24.",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do): 경향신문 2025-07-15 news_id 01100101.20250715213546001 and 대구신문 2025-07-15 news_id 01501001.20250715213400001 on the 2025-07-15 hearing (snapshot roster/sources/sme/verify/bigkinds/bk_hear_hss_2025-07-15_2025-07-15.json) | 경남일보 2025-06-24 news_id 01500101.20250624190648001 on the 2025-06-23 nomination (snapshot roster/sources/sme/verify/bigkinds/bk_nom_hss_2025-06-23_2025-06-24.json)."
+   ],
+   "notes": "Hearing date is outside the transcript input (ends 2025-01) and rests on the likms meeting list and news."
+  },
+  {
+   "nominee": "이소영",
+   "office_title": "중소벤처기업부장관",
+   "nomination_date": "2026-08-30",
+   "request_date": "2026-09-03",
+   "likms_bill_id": "ZZ22136",
+   "hearing_dates": [
+    "2026-09-15"
+   ],
+   "hearing_committee": "산업통상자원중소벤처기업위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2026-09-22",
+   "sources": [
+    "여성신문 2026-08-30 13:13 https://n.news.naver.com/mnews/article/310/0000139528 (accessed 2026-09-25T13:45:16-0400): '강훈식 대통령 비서실장은 30일 브리핑에서 이재명 대통령이  중소벤처기업부 장관 후보자에 제21·22대 국회의원인 이소영 더불어민주당 의원을 지명했다고 발표했다'",
+    "likms [ZZ22136] 제안일자 2026-09-03, 회부 2026-09-04, 상정 2026-09-08, 처리 2026-09-22 채택; committee meetings 2026-09-08, 2026-09-15, 2026-09-22 (harvest/likms/PRC_G2K6N0N9R0Z3A1B8H3R8S2C0O8P0Z8.txt, copy roster/sources/sme/likms/PRC_G2K6N0N9R0Z3A1B8H3R8S2C0O8P0Z8.txt, fetched per harvest/likms_cabinet_bills.csv)",
+    "채널A 2026-09-23 07:41 https://n.news.naver.com/mnews/article/449/0000361772 (accessed 2026-09-25T13:34:53-0400): '이소영 중소벤처기업부 장관 후보자가 15일 서울 여의도 국회 산업통상자원중소벤처기업위원회에서 열린 인사청문회에서 의원 질의에 답변하고 있다'",
+    "연합뉴스 2026-09-22 09:54 https://www.yna.co.kr/view/AKR20260922057700001 (accessed 2026-09-25T14:00:39-0400, snapshot roster/sources/sme/news/yna_AKR20260922057700001.html): '국회 산업통상자원중소벤처기업위원회는 22일 전체회의를 열고 이소영 중소벤처기업부 장관 후보자 인사청문 경과보고서를 여야 합의로 채택했다'",
+    "연합뉴스 2026-09-23 03:31 https://n.news.naver.com/mnews/article/001/0016331214 (accessed 2026-09-25T13:34:51-0400, snapshot roster/sources/sme/news/naver_001_0016331214.html): \"이재명 대통령은 22일 이소영 중소벤처기업부 장관, 이정현 대검찰청 차장검사에 대한 임명안을 재가했다\"",
+    "[verifier] BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do): 중도일보 2026-08-31 news_id 01400351.20260831221116001 ('개각을 발표한 8월 30일'), snapshot roster/sources/sme/verify/bigkinds/bk_nom_lsy_2026-08-30_2026-08-31.json | 대구신문 2026-09-15 news_id 01501001.20260915212430001 on the 2026-09-15 hearing, snapshot roster/sources/sme/verify/bigkinds/bk_hear_lsy_2026-09-15_2026-09-15.json. BigKinds '중기부 장관 후보자' 2026-07-01..2026-08-29 found speculation only (노컷뉴스 2026-08-25 '중기부 장관 유력 후보군 거론') and no formal nomination before 2026-08-30."
+   ],
+   "notes": "2기 개각 of 2026-08-30. The adopted report recorded concerns amounting to a '부적격' view alongside a finding of basic fitness (연합뉴스 2026-09-22). Only nominee for the post in the 2026-07-01..2026-09-21 vacancy (news searches for July-August 2026 found no other 지명 or 내정). 한국일보 2026-09-23 (https://n.news.naver.com/mnews/article/469/0000955701) dates the committee adoption to the 21st, which conflicts with the likms 처리일 2026-09-22, 연합뉴스 2026-09-22 09:54 and her own post of the 22nd ('오늘 여야 합의로 청문보고서가 채택되고'). The roster uses 2026-09-22."
+  }
+ ],
+ "acting": [
+  {
+   "name": "최수규",
+   "role": "중소벤처기업부 차관 장관 직무대행 (no minister since the ministry's creation)",
+   "from": "2017-07-27",
+   "to": "2017-11-21",
+   "sources": [
+    "관보 제19067호 (2017-08-07) 인사발령(인사혁신처), text harvest/gazette_text/20170807_19067_00000000000000001501739464273000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20170807_19067_00000000000000001501739464273000.pdf (accessed 2026-09-24T22:58:43-0400): 최수규(崔壽圭) 중소벤처기업부 차관에 임함 (letter-spaced in the text) 2017.7.27.",
+    "뉴시스 2017-07-26 17:38 https://n.news.naver.com/mnews/article/003/0008090079 (accessed 2026-09-25T13:48:21-0400, snapshot roster/sources/sme/news/naver_003_0008090079.html): \"정부는 26일 중소벤처기업부 차관에 최수규 중소기업중앙회 상근부회장을 임명했다\"",
+    "inputs/minister_role_meetings.csv: 10 minister_acting rows for 최수규 (중소벤처기업부, 상임위원회 and 국정감사) dated 2017-08-22..2017-11-20",
+    "[verifier] 프레시안 and 매일신문 2017-11-21 via BigKinds (see verification changes): 홍종학 appointed on the morning of 2017-11-21."
+   ]
+  },
+  {
+   "name": "강성천",
+   "role": "중소벤처기업부 차관 장관 직무대행",
+   "from": "2021-01-21",
+   "to": "2021-02-04",
+   "sources": [
+    "이데일리 2021-01-20 17:27 https://n.news.naver.com/mnews/article/018/0004833858 (accessed 2026-09-25T13:37:30-0400, snapshot roster/sources/sme/news/naver_018_0004833858.html): \"중기부는 강성천 차관 직무대행 체제로 운영된다\"",
+    "관보 제19727호 (2020-04-08) 인사발령(인사혁신처), text harvest/gazette_text/20200408_19727_00000000000000001586162770924000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20200408_19727_00000000000000001586162770924000.pdf (accessed 2026-09-25T12:58:34-0400): 강성천(姜聲千) 중소벤처기업부 차관에 임함 2020.3.24. (date line printed after a page break)",
+    "[verifier] 한국경제 2021-01-20 news_id 02100601.20210120171721001 '이에 따라 중기부는 강성천 차관의 직무대행 체제로 운영된다' (BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do), snapshot roster/sources/sme/verify/bigkinds/bk_pys_exit_2021-01-19_2021-01-22.json)."
+   ]
+  },
+  {
+   "name": "노용석",
+   "role": "중소벤처기업부 제1차관 장관 직무대행",
+   "from": "2026-07-01",
+   "to": "2026-09-22",
+   "sources": [
+    "SBS Biz 2026-07-30 15:48 https://n.news.naver.com/mnews/article/374/0000524670 (accessed 2026-09-25T13:35:52-0400, snapshot roster/sources/sme/news/naver_374_0000524670.html): \"한성숙 전 장관이 지난 1일 국무총리로 자리를 옮긴 뒤, 중기부는 노용석 제1차관 직무대행 체제로 운영되고 있습니다\"",
+    "뉴스1 2026-07-21 06:20 https://n.news.naver.com/mnews/article/421/0009069384 (accessed 2026-09-25T13:35:56-0400, snapshot roster/sources/sme/news/naver_421_0009069384.html): \"중기부는 한성숙 국무총리가 지난 1일 취임한 이후 노용석 제1차관이 장관 직무대행을 맡아 부처를 이끌고 있다\"",
+    "뉴시스 2026-08-02 06:01 https://n.news.naver.com/mnews/article/003/0014102727 (accessed 2026-09-25T13:35:50-0400, snapshot roster/sources/sme/news/naver_003_0014102727.html): \"중소벤처기업부 장관 직무대행인 노용석 1차관이\"",
+    "관보 제21118호 (2025-11-17) 인사발령(인사혁신처), text harvest/gazette_text/20251117_21118_I0000000000000001762749369638000.txt; item PDF snapshot roster/sources/sme/gazette/gz_20251117_21118_I0000000000000001762749369638000.pdf (accessed 2026-09-25T12:59:27-0400): 노용석(盧勇錫) 중소벤처기업부 제1차관에 임함 2025. 10. 1."
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "이소영 start date. News reports the appointment approved (재가) late on 2026-09-22 Korean time while the President was in New York (OBS, 뉴시스, 한국일보), and she said that night that she had formally started. No gazette notice had appeared at the recheck of 2026-09-25 21:33 EDT (issues 제21326호 to 제21328호 of 2026-09-21..2026-09-23 read in full, none published 2026-09-24..2026-09-26). For 권칠승, 이영 and 한성숙 an evening 재가 was followed by a gazette date one day later, so the printed 임명일 may be 2026-09-23. The roster uses 2026-09-22 (start_confidence medium). Recheck the 인사 section of the gazette issues published from 2026-09-28 on."
+  },
+  {
+   "severity": "medium",
+   "desc": "권칠승 dates. Gazette (2021. 2. 5.) and same-day news ('임기 시작일은 2월5일') give start 2021-02-05, while the MSS 역대장관 page gives 2021. 02. 08 (likely the 임명장 or 취임식 day). For the end, the MSS page gives 2022. 05. 09 (last day of the Moon government), but 이데일리 (2022-05-12) lists him as still in office on 2022-05-11 and 중부일보 (2022-05-15) says he returned to the Assembly from 2022-05-13, the day his successor's appointment took effect. The roster uses 2021-02-05..2022-05-12. The day his resignation was formally accepted was not found. [verifier] Kept 2021-02-05..2022-05-12. BigKinds (머니투데이, 한국경제, YTN 2021-02-04) confirm '임기 시작일은 5일'. No acceptance date was found for the end. The successor's evening 재가 on 2022-05-12 and gazette date 2022-05-13 support 2022-05-12 as the last day."
+  },
+  {
+   "severity": "medium",
+   "desc": "홍종학 end date. The MSS page gives 2019. 04. 07. The successor 박영선 was approved on the morning of 2019-04-08 (gazette 2019.4.8.), and 홍종학 held his 이임식 that afternoon. ko.wikipedia gives 2019-04-08. The roster follows the MSS page (no overlap). If same-day handovers are preferred, use 2019-04-08. [verifier] Resolved. End changed to 2019-04-08 (successor approved that morning, 이임식 as sitting minister that afternoon)."
+  },
+  {
+   "severity": "medium",
+   "desc": "오영주 end date. The MSS page and 이데일리/뉴스1 (2025-07-23, reporting '23일 공식적으로 업무를 마무리') give 2025-07-23, while 조선비즈 (2025-07-24) reports her 퇴임식 on the 24th and ko.wikipedia gives 2025-07-24. The successor's gazette date is 2025-07-24. The roster uses 2025-07-23. [verifier] Kept 2025-07-23. Successor approved late on 2025-07-23 (문화일보 22:37, 뉴스핌 21:10 via BigKinds) with term from 2025-07-24. 조선비즈's 24th 퇴임식 looks like a rewrite of the 23rd release."
+  },
+  {
+   "severity": "low",
+   "desc": "이영 start date. The gazette and the MSS page give 2022-05-13. News reports the 재가 on the evening of 2022-05-12, and ko.wikipedia gives 2022-05-12. The roster follows the gazette."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancies (no appointed minister), each explained by an acting head. 2017-07-26..2017-11-20 (118 days, ministry created by 법률 제14839호 on 2017-07-26. 차관 최수규 took office 2017-07-27, so nobody headed the ministry on 2017-07-26 itself, and who acted that day was not found). 2021-01-21..2021-02-04 (15 days, 강성천 차관). 2026-07-01..2026-09-21 (83 days, 노용석 제1차관). No overlaps between spells. [verifier] Re-checked. 2017-07-26..2017-11-20 (acting 최수규 now to 2017-11-21, same-day), 2021-01-21..2021-02-04 (강성천), 2026-07-01..2026-09-21 (노용석, now to 2026-09-22). With the corrected 홍종학 and 이영 ends, the 2019-04-08 and 2023-12-29 boundaries are same-day handovers."
+  },
+  {
+   "severity": "low",
+   "desc": "이소영 birth date. na_members_15_22.csv (NA API) gives 1985-02-10 and ko.wikipedia '이소영 (정치인)' (oldid=42539725) gives 1985-03-30. News profiles give only the year 1985. The roster uses the NA record."
+  },
+  {
+   "severity": "low",
+   "desc": "likms ZZ20075 (박성진) lists a committee 처리일 2017-09-05 '원안가결' with a meeting of that date, six days before the 2017-09-11 hearing. News on 2017-09-13 reports the committee adopting the 부적격 report that day. The roster uses 2017-09-13 for the report and treats the likms entry as a procedural item or data error."
+  },
+  {
+   "severity": "low",
+   "desc": "The NA open API hearing table (harvest/na_hearing_requests_15_22.csv) lists 오영주 with PROC_DT 2023-12-14 and PROC_RESULT 채택. The hearing was on 2023-12-21 and news reports that no report was adopted. The API value is not used."
+  },
+  {
+   "severity": "low",
+   "desc": "Transcript leads in audit/coverage_gaps.csv for 홍종학, 박영선, 권칠승, 이영, 오영주 and 최수규 (중소벤처기업부 labels dated 2011-2016 and 2022-11-24) all come from 국회본회의, 국정조사 and 예산결산특별위원회 meetings with misattached content and are ignored. 한성숙's lead is only that her spell starts after transcript coverage. All valid-type rows fall inside the spells."
+  },
+  {
+   "severity": "low",
+   "desc": "Old release (data/minister_panel_comprehensive.csv) errors for this ministry. 홍종학 start 2017-11-17 (gazette 2017-11-21). 박영선 end 2021-04-07 (면직 2021-01-20). 권칠승 end 2022-05-09. 오영주 start 2023-12-28 and end 2025-06-03 (2023-12-29..2025-07-23). 한성숙 start 2025-07-23 (gazette 2025-07-24) with no end. 이소영 is missing, and the 2026-07-01..2026-09-21 vacancy is not represented."
+  },
+  {
+   "severity": "low",
+   "desc": "name_en left null for all holders. No official romanization list was found on the MSS site, and the NA English-name field needs an API key. English Wikipedia spellings (Hong Jong-hak, Park Young-sun, Kwon Chil-seung, Oh Young-ju, Han Seong-sook) were seen in a web search only and are not used."
+  },
+  {
+   "severity": "low",
+   "desc": "중소기업청 (1998-02-25..2017-07-25) is the predecessor in this lineage, but its head (청장, 차관급) was not a 국무위원, so no spells are listed before 2017-07-26 (offices.json lineage_gaps)."
+  },
+  {
+   "severity": "medium",
+   "desc": "[verifier] Cross-lineage convention for replaced ministers whose acceptance date is unknown. This file uses the successor's appointment day when the successor took office during that day (홍종학 2019-04-08, 이영 2023-12-29), and the day before when the successor was approved the previous evening with the next day as the printed 임명일 (권칠승 2022-05-12, 오영주 2025-07-23). Other lineages differ for the same events: oceans (unverified) ends 강도형 on 2025-07-23 like 오영주, culture uses 2022-05-13 for 황희, and industry uses 2022-05-12 for 문승욱. Harmonize at panel build time."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Independent holder list. Wikidata Q12592533 P39 holders (홍종학, 박영선, 권칠승, 이영, 오영주, 한성숙) match the six pre-2026-09 spells (roster/sources/sme/verify/wikidata_Q12592533_holders.json). Wikidata start dates for 이영 (2022-05-12) and 오영주 (2023-12-28) disagree with the gazette and are not used. Namu Wiki returned HTTP 403 to Playwright at 2026-09-25T22:11-22:13 EDT and was not used."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T22:29:45-0400",
+  "verifier": "adversarial verifier, lineage sme",
+  "scripts": [
+   "roster/scripts/sme_verify_01_gazette.py",
+   "roster/scripts/sme_verify_03_transcripts.py",
+   "roster/scripts/sme_verify_04_lists.py",
+   "roster/scripts/sme_verify_04b_lists.py",
+   "roster/scripts/sme_verify_04c_wikidata.py",
+   "roster/scripts/sme_verify_05_bigkinds.py",
+   "roster/scripts/sme_verify_06_naver.py",
+   "roster/scripts/sme_verify_07_bigkinds_noms.py",
+   "roster/scripts/sme_verify_08_snapshots.py",
+   "roster/scripts/sme_verify_09_gazette_lsy.py",
+   "roster/scripts/sme_verify_10_build.py",
+   "roster/scripts/sme_verify_11_inline_extras.py"
+  ],
+  "snapshots": "roster/sources/sme/verify",
+  "summary": "7 spells and 8 nominations checked. Two end dates corrected (홍종학 2019-04-07 -> 2019-04-08, 이영 2023-12-28 -> 2023-12-29), both because the successor took office during that day and the old values came from the MSS page's day-before-successor convention. 이소영's start (2026-09-22) is disputed pending the gazette. Two acting end dates moved to same-day handovers. No person was added or removed. Independent sources (BigKinds outlets not used by the builder, Wikidata, the verifier's own gazette and transcript scripts) were appended to every spell.",
+  "per_spell": [
+   {
+    "index": 0,
+    "name": "홍종학",
+    "start": "2017-11-21",
+    "end": "2019-04-08",
+    "status": "corrected",
+    "checks": [
+     "start 2017-11-21: gazette 관보 제19149호 text re-read ('홍종학(洪鍾學) 국무위원에 임함 중소벤처기업부장관에 보함 2017.11.21.'). 프레시안 and 매일신문 2017-11-21 (BigKinds) report the appointment on the morning of the 21st.",
+     "end changed 2019-04-07 -> 2019-04-08. 박영선 approved on the morning of 2019-04-08 (인천일보, 기호일보, 대구신문 via BigKinds), 홍종학's 이임식 as sitting minister that afternoon (헤럴드경제, 아시아경제, 아시아투데이, 머니투데이 via BigKinds). Wikidata and ko.wikipedia agree.",
+     "transcripts: 22 valid-type rows 2017-12-08..2019-03-29, inside. One 국회본회의 row 2013-11-22 ignored (invalid type).",
+     "fields: 문재인, not acting president, end_reason replaced."
+    ]
+   },
+   {
+    "index": 1,
+    "name": "박영선",
+    "start": "2019-04-08",
+    "end": "2021-01-20",
+    "status": "confirmed",
+    "checks": [
+     "start 2019-04-08: gazette 관보 제19482호 re-read ('2019.4.8.'). BigKinds 인천일보, 디지털타임스, 대구신문 2019-04-09 on the 8th 재가 and 임명장.",
+     "end 2021-01-20: 한국경제 and 이투데이 2021-01-20 (면직 재가 15:20), 헤럴드경제 2021-01-21 ('어제 밤 12시까지는 ... 공무원'), all BigKinds, not used by the builder.",
+     "transcripts: 30 valid-type rows 2019-07-10..2020-11-26, inside. Five 2014-2015 rows from invalid types ignored.",
+     "fields: end_reason resigned_to_run (2021-04-07 Seoul mayoral by-election, 서울신문 2021-01-21)."
+    ]
+   },
+   {
+    "index": 2,
+    "name": "권칠승",
+    "start": "2021-02-05",
+    "end": "2022-05-12",
+    "status": "confirmed",
+    "checks": [
+     "start 2021-02-05: gazette 관보 제19940호 re-read ('2021. 2. 5.'). 머니투데이, 한국경제, YTN 2021-02-04 (BigKinds) '임기 시작일은 5일'. The MSS page's 2021-02-08 is not supported.",
+     "end 2022-05-12 kept: still minister on the night of 2022-05-11 (연합뉴스 22:36), successor approved on the evening of 2022-05-12 (대구신문 19:34) and at work from 2022-05-13 (아시아투데이). No acceptance date in BigKinds or Naver. MSS 2022-05-09 is contradicted.",
+     "transcripts: 22 valid-type rows 2021-02-23..2022-02-07, inside.",
+     "fields: 문재인 appointee held over under 윤석열 2022-05-10..05-12 (split in code), end_reason resigned."
+    ]
+   },
+   {
+    "index": 3,
+    "name": "이영",
+    "start": "2022-05-13",
+    "end": "2023-12-29",
+    "status": "corrected",
+    "checks": [
+     "start 2022-05-13: gazette 관보 제20255호 re-read ('2022. 5. 13.'). 아시아투데이 2022-05-13 (BigKinds) has her starting work that day. News of 2022-05-12 ('12일 ... 임명') reflects the evening 재가.",
+     "end changed 2023-12-28 -> 2023-12-29 (inferred_from_successor): successor approved on the morning of 2023-12-29 and appointed '29일자' (한국일보, 노컷뉴스, KBS via BigKinds). 2023-12-28 was her 이임식. Same treatment as 추경호 and 정황근 in the verified finance and agriculture rosters.",
+     "transcripts: 25 valid-type rows 2022-05-19..2023-12-14, inside.",
+     "fields: end_reason resigned_to_run now confirmed (노컷뉴스 2024-03-14, BigKinds: district nomination sought and lost)."
+    ]
+   },
+   {
+    "index": 4,
+    "name": "오영주",
+    "start": "2023-12-29",
+    "end": "2025-07-23",
+    "status": "confirmed",
+    "checks": [
+     "start 2023-12-29: gazette 관보 제20661호 re-read ('2023. 12. 29.'). 대구신문, 아시아투데이 2023-12-29 (BigKinds).",
+     "end 2025-07-23 kept: successor approved late on 2025-07-23 (문화일보 22:37, 뉴스핌 21:10, BigKinds) with term from 2025-07-24 (gazette 관보 제21047호, 아주경제 취임식 2025-07-24). Her 이임사 on the 23rd (이데일리, 뉴스1). 조선비즈's 24th 퇴임식 noted.",
+     "transcripts: 11 valid-type rows 2024-07-30..2024-12-19, inside. One 2022-11-24 예산결산특별위원회 row ignored.",
+     "fields: 윤석열 appointee held over under 이재명 2025-06-04..07-23 (split in code), end_reason replaced."
+    ]
+   },
+   {
+    "index": 5,
+    "name": "한성숙",
+    "start": "2025-07-24",
+    "end": "2026-06-30",
+    "status": "confirmed",
+    "checks": [
+     "start 2025-07-24: gazette 관보 제21047호 re-read ('2025. 7. 24.'). 문화일보 2025-07-23 22:37 (재가), 아주경제 2025-07-24 (취임식), BigKinds.",
+     "end 2026-06-30: PM 재가 on 2026-06-30 with 임명 일자 2026-07-01 (브릿지경제 2026-07-02, BigKinds), PM term from 00:00 on 2026-07-01 (디지털데일리 2026-07-01), gazette 관보 제21291호 '국무총리에 임함 2026. 7. 1.' re-read. PM lineage (pm.json) starts her 2026-07-01.",
+     "transcripts: none (starts after 2025-01).",
+     "fields: 이재명, end_reason other (moved to 국무총리). No new notice at the 2025-10-01 정부조직법 change (only a 제2차관 was added, gazette 2025-10-01 and 2025-11-17 notices), so no reorg split."
+    ]
+   },
+   {
+    "index": 6,
+    "name": "이소영",
+    "start": "2026-09-22",
+    "end": null,
+    "status": "disputed",
+    "checks": [
+     "start 2026-09-22 kept but disputed: 재가 reported for 2026-09-22 Korean time late at night (연합뉴스, 뉴스1 23:25, 동아일보, 브릿지경제). Earlier evening 재가 in this lineage carried the next day's 임명일 (권칠승, 이영, 한성숙), and 파이낸셜뉴스 2026-09-23 calls the 23rd her first day. Gazette recheck 2026-09-25T22:26 EDT found no notice (no issues 2026-09-24..26).",
+     "transcripts: none.",
+     "fields: 이재명, sitting 22nd NA member (na_members_15_22.csv), end_reason in_office."
+    ]
+   }
+  ],
+  "per_nomination": [
+   {
+    "index": 0,
+    "nominee": "박성진",
+    "status": "confirmed",
+    "checks": [
+     "likms ZZ20075 re-read (제안 2017-08-28, hearing meeting 2017-09-11). Report with 부적격 opinion adopted 2017-09-13 (경북도민일보, 머니투데이, 한국일보 via BigKinds). Withdrew 2017-09-15, 지명 22 days earlier (한겨레 2017-09-15)."
+    ]
+   },
+   {
+    "index": 1,
+    "nominee": "홍종학",
+    "status": "confirmed",
+    "checks": [
+     "지명 2017-10-23 (동아일보 2017-10-24). likms ZZ20087 제안 2017-10-26, no 처리. Hearing 2017-11-10 (transcript meeting 47528). Report not adopted, appointed 2017-11-21 morning (매일신문, 프레시안)."
+    ]
+   },
+   {
+    "index": 2,
+    "nominee": "박영선",
+    "status": "confirmed",
+    "checks": [
+     "내정 2019-03-08 (세계일보 2019-03-09). likms ZZ20256 제안 2019-03-13 (no meeting list in likms). Hearing 2019-03-27 (transcript meeting 49039). No report, appointed 2019-04-08 (SBS 2019-04-09)."
+    ]
+   },
+   {
+    "index": 3,
+    "nominee": "권칠승",
+    "status": "confirmed",
+    "checks": [
+     "지명 2021-01-20 (KBS). likms ZZ21044 제안 2021-01-22, 처리 2021-02-04 원안가결. Hearing 2021-02-03 (transcript meeting 050749). Report adopted 2021-02-04 (기호일보)."
+    ]
+   },
+   {
+    "index": 4,
+    "nominee": "이영",
+    "status": "confirmed",
+    "checks": [
+     "likms ZZ21108 (대통령당선인) 제안 2022-04-19, 처리 2022-05-12 채택. Hearing 2022-05-11 (transcript meeting 051886). 지명 2022-04-13 rests on the builder's 아시아경제 item. BigKinds 부산일보 2022-04-14 confirms the nomination without the day."
+    ]
+   },
+   {
+    "index": 5,
+    "nominee": "오영주",
+    "status": "confirmed",
+    "checks": [
+     "지명 2023-12-04 (세계일보 2023-12-05 '전날'). likms ZZ21182 제안 2023-12-07, 상정 2023-12-14, no 처리. Hearing 2023-12-21 (transcript meeting 053711). No report (동아일보 2023-12-29)."
+    ]
+   },
+   {
+    "index": 6,
+    "nominee": "한성숙",
+    "status": "confirmed",
+    "checks": [
+     "지명 2025-06-23 (경남일보, SBS 2025-06-24). likms ZZ22061 제안 2025-06-30, 처리 2025-07-23 채택. Hearing 2025-07-15 (경향신문, 대구신문 2025-07-15, and the likms meeting of that day)."
+    ]
+   },
+   {
+    "index": 7,
+    "nominee": "이소영",
+    "status": "confirmed",
+    "checks": [
+     "지명 2026-08-30 (중도일보 2026-08-31). likms ZZ22136 제안 2026-09-03, 처리 2026-09-22 채택. Hearing 2026-09-15 (대구신문 2026-09-15). outcome_date 2026-09-22 shares the dispute on the spell start."
+    ]
+   }
+  ],
+  "per_acting": [
+   {
+    "index": 0,
+    "name": "최수규",
+    "status": "corrected",
+    "checks": [
+     "from 2017-07-27 confirmed by 관보 제19067호 re-read ('중 소 벤 처기업부 차관에 임함 2017.7.27.'). to changed 2017-11-20 -> 2017-11-21 (홍종학 appointed on the morning of 2017-11-21). Transcripts show him as 장관 직무대행 2017-08-22..2017-11-20."
+    ]
+   },
+   {
+    "index": 1,
+    "name": "강성천",
+    "status": "confirmed",
+    "checks": [
+     "한국경제 2021-01-20 (BigKinds) '강성천 차관의 직무대행 체제'. 차관 since 2020-03-24 (관보 제19727호 re-read)."
+    ]
+   },
+   {
+    "index": 2,
+    "name": "노용석",
+    "status": "corrected",
+    "checks": [
+     "from 2026-07-01 confirmed (PM term of 한성숙 from 00:00 2026-07-01). to changed 2026-09-21 -> 2026-09-22 (이소영 approved late on 2026-09-22). 차관 from 2025-07-14 (관보 제21043호), 제1차관 from 2025-10-01 (관보 제21118호)."
+    ]
+   }
+  ],
+  "completeness": [
+   "Gazette corpus (harvest/gazette_text, 2,709 files, GAZETTE_DONE present) grepped from 2017 with a letter-spacing tolerant '중소벤처기업부 장관' pattern: 6 cabinet appointment notices (홍종학 2017.11.21, 박영선 2019.4.8, 권칠승 2021.2.5, 이영 2022.5.13, 오영주 2023.12.29, 한성숙 2025.7.24), each mapped to a spell with the same date and all 6 re-read by the verifier. Other hits are 장관정책보좌관 notices. Hanja search for the seven holders found no further 중소벤처기업부장관 notice. 차관 notices list 최수규, 김학도, 강성천, 조주현, 오기웅, 김성섭, 노용석, 이병권 (output roster/sources/sme/verify/gazette_grep.json).",
+   "Independent holder list: Wikidata Q12592533 P39 holders give the same six persons up to 2026-06-30. The minister-role transcript rows (valid types) name only 홍종학, 박영선, 권칠승, 이영, 오영주 as 중소벤처기업부 ministers, plus 최수규 as 직무대행.",
+   "likms harvest: 8 인사청문요청안 for 중소벤처기업부장관 (ZZ20075, ZZ20087, ZZ20256, ZZ21044, ZZ21108, ZZ21182, ZZ22061, ZZ22136), all in nominations. nominee_hearing_meetings.csv has hearings for the six nominees through 2023, all matching.",
+   "No nomination without a likms bill was found. BigKinds for 2026-07-01..08-29 shows only speculation before the 2026-08-30 지명 of 이소영.",
+   "audit/coverage_gaps.csv: all 중소벤처기업부 leads come from invalid hearing types (국회본회의, 국정조사, 예산결산특별위원회) and are resolved."
+  ],
+  "transcript_check": "Re-run with valid hearing types only (상임위원회, 국정감사, 인사청문특별위원회) by roster/scripts/sme_verify_03_transcripts.py: 138 rows mention 중소벤처기업부. Every valid minister row lies inside the matching spell (홍종학 22, 박영선 30, 권칠승 22, 이영 25, 오영주 11). Nominee rows match the hearing dates. 최수규 appears as minister_acting 2017-08-22..2017-11-20. Invalid-type rows (2011-2016, 2022-11-24) are ignored. Output roster/sources/sme/verify/transcript_check.json.",
+  "continuity": [
+   {
+    "from": "2017-07-26",
+    "to": "2017-11-20",
+    "type": "gap",
+    "days": 118,
+    "explanation": "New ministry without an appointed minister. 박성진 withdrew 2017-09-15. 차관 최수규 acted from 2017-07-27 to the morning of 2017-11-21. Who acted on 2017-07-26 itself was not found."
+   },
+   {
+    "from": "2017-11-21",
+    "to": "2021-01-20",
+    "type": "covered",
+    "explanation": "홍종학, then 박영선 from 2019-04-08 (same-day handover)."
+   },
+   {
+    "from": "2021-01-21",
+    "to": "2021-02-04",
+    "type": "gap",
+    "days": 15,
+    "explanation": "박영선 면직 2021-01-20, 권칠승's term from 2021-02-05. 차관 강성천 acted."
+   },
+   {
+    "from": "2021-02-05",
+    "to": "2026-06-30",
+    "type": "covered",
+    "explanation": "권칠승 to 2022-05-12 and 이영 from 2022-05-13 (adjacent), 이영 to 2023-12-29 and 오영주 from 2023-12-29 (same day), 오영주 to 2025-07-23 and 한성숙 from 2025-07-24 (adjacent)."
+   },
+   {
+    "from": "2026-07-01",
+    "to": "2026-09-21",
+    "type": "gap",
+    "days": 83,
+    "explanation": "한성숙 became 국무총리 on 2026-07-01. 제1차관 노용석 acted until 이소영 was approved late on 2026-09-22."
+   },
+   {
+    "from": "2026-09-22",
+    "to": "2026-09-24",
+    "type": "covered",
+    "explanation": "이소영 (start disputed, 2026-09-22 or 2026-09-23)."
+   }
+  ],
+  "commonly_missed_cases": [
+   [
+    "transitions",
+    "1998, 2003, 2008, 2013: ministry did not exist (중소기업청, 청장 not a 국무위원). 2017-05-10: no ministry yet. 2022: 권칠승 held over 2022-05-10..05-12. 2025: 오영주 held over 2025-06-04..07-23. Both present."
+   ],
+   [
+    "short_tenures",
+    "None missing. Shortest spell 한성숙 (2025-07-24..2026-06-30)."
+   ],
+   [
+    "pm_seori",
+    "Not applicable."
+   ],
+   [
+    "renaming_mid_tenure",
+    "None. 중소벤처기업부 is unchanged in every version to the cutoff (offices.json OF059). The 2025-10-01 change added a 제2차관 only."
+   ],
+   [
+    "2025_2026",
+    "한성숙 (2025-07-24), 이소영 (2026-09-22) present. No other 2025-2026 appointment or nomination."
+   ],
+   [
+    "election_resignations",
+    "박영선 resigned for the 2021-04-07 by-election, 이영 left in the 2023-12 reshuffle to seek a 2024 nomination. No holder resigned for the 2018, 2020, 2022 or 2026 elections or the 2026-06-03 by-elections (한성숙 stayed until 2026-06-30 and 이소영 was appointed later)."
+   ]
+  ],
+  "fields": "appointing_president matches the start date for every spell (문재인 for 홍종학, 박영선, 권칠승 | 윤석열 for 이영, 오영주 | 이재명 for 한성숙, 이소영). No spell starts in an acting-president period, so appointed_by_acting_president is false throughout. deputy_pm false (OF059 has no deputy PM title). reorg_continuation false and reappointed_on_reorg null (no renaming). suspensions empty (likms search by office name '중소벤처기업부장관' and '중소벤처기업부 장관', terms 20-22, returned only the 8 인사청문요청안 and no 해임건의안 or 탄핵소추안, roster/sources/sme/verify/likms_search_office_name.json). in_scope true (행정각부 장관). end_reason values agree with the evidence, and 이영's resigned_to_run is now sourced.",
+  "changes": [
+   {
+    "target": "spells[0] 홍종학",
+    "field": "end",
+    "old": "2019-04-07",
+    "new": "2019-04-08",
+    "evidence": "Successor 박영선 was approved on the morning of 2019-04-08 (gazette 관보 제19482호 '2019.4.8.', re-read by the verifier | 인천일보, 기호일보, 대구신문 2019-04-09 via BigKinds) and 홍종학 held his 이임식 as the sitting minister on the afternoon of 2019-04-08 (헤럴드경제, 아시아경제, 아시아투데이, 머니투데이 2019-04-08 via BigKinds). No separate acceptance of a resignation was reported (BigKinds '홍종학 사의' 2019-03-01..04-09, 0 hits). The MSS page's '~ 2019. 04. 07' is the day before the successor's start, and the page's end column is not a record of exits (it gives '~ 2022. 05. 09' for 권칠승, who was still in office on 2022-05-11 per 연합뉴스 and 이데일리). Same-day handover as in the unification lineage for 조명균 (successor 김연철 approved in the same 2019-04-08 재가)."
+   },
+   {
+    "target": "spells[3] 이영",
+    "field": "end",
+    "old": "2023-12-28",
+    "new": "2023-12-29",
+    "evidence": "The successor 오영주 was approved on the morning of 2023-12-29 and appointed '29일자' (한국일보, 노컷뉴스, KBS 2023-12-29 via BigKinds | gazette 관보 제20661호 '2023. 12. 29.', re-read by the verifier). No acceptance date for 이영's resignation was reported (BigKinds searches returned 0 hits). The 2023-12-28 이임식 is a ceremony, and the MSS '~ 2023. 12. 28' is the page's day-before-successor convention. End set to the successor's appointment day, as the finance (추경호) and agriculture (정황근) verified rosters do for the same 2023-12-29 reshuffle, where the outgoing ministers also held their 이임식 on 2023-12-28."
+   },
+   {
+    "target": "spells[3] 이영",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "inferred_from_successor",
+    "evidence": "See the end change above."
+   },
+   {
+    "target": "acting[0] 최수규",
+    "field": "to",
+    "old": "2017-11-20",
+    "new": "2017-11-21",
+    "evidence": "홍종학 was appointed on the morning of 2017-11-21 (프레시안 2017-11-21 news_id 04104008.20171121010604001 '21일 오전 홍종학 중소벤처기업부 장관을 임명', 매일신문 2017-11-21 news_id 01500601.20171121132814002 '이날 오전 국무회의에 앞서', BigKinds metadata (POST https://www.bigkinds.or.kr/api/news/search.do) query '홍종학 청문보고서' 2017-11-13..2017-11-21, snapshot roster/sources/sme/verify/bigkinds/bk_hear_hjh_rep_2017-11-13_2017-11-21.json, accessed 2026-09-25T22:24 EDT), so the vice minister still acted that morning. Same-day handover, as the spells and the defense lineage's acting records use."
+   },
+   {
+    "target": "acting[2] 노용석",
+    "field": "to",
+    "old": "2026-09-21",
+    "new": "2026-09-22",
+    "evidence": "이소영's appointment was only approved late on 2026-09-22 (뉴스1 2026-09-22 23:25, 한겨레 2026-09-22 23:26, builder's snapshots), so 노용석 still acted for most of 2026-09-22. Same-day handover."
+   }
+  ]
+ }
+}

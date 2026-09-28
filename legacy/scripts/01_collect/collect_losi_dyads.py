@@ -28,7 +28,7 @@ import pandas as pd
 # ── Paths ─────────────────────────────────────────────────────────────────────
 BASE       = Path(__file__).parent.parent
 DATA_DIR   = BASE / "data"
-LOSI_BASE  = Path("data/raw/losi")
+LOSI_BASE  = Path(os.environ.get("LOSI_DATA_DIR", "data/raw/losi"))  # folder with the NANET 회의록 dataset files
 PANEL_FILE = DATA_DIR / "minister_panel_comprehensive.csv"
 OUT_DIR    = DATA_DIR / "raw" / "losi"
 OUT_DIR.mkdir(parents=True, exist_ok=True)

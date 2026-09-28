@@ -1,0 +1,1194 @@
+{
+ "lineage": "general_affairs",
+ "built_at": "2026-09-26T12:51:37-0400",
+ "window": {
+  "from": "1988-02-25",
+  "to": "1998-02-24",
+  "note": "Spells with any day in office in the window. The holdover spell continuing past 1998-02-24 is copied from interior.verified.json with from_main true."
+ },
+ "ministry_names": [
+  {
+   "ministry": "총무처",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 제24조③ (총무처, 장관은 국무위원으로 보하고) in force at window start (version effective 1987-01-01), 법률 제5153호 제24조③ (unchanged) at window end (version effective 1996-08-08), abolished by 법률 제5529호 (전부개정) 제32조, 부칙 제3조① 표, effective 1998-02-28 (총무처와 내무부를 행정자치부로 통합). Head is 국무위원.",
+   "source": "offices_1988.json OFA06 (GOA_3854, GOA_5153, GOA_5529, ARCH_OG0016183)",
+   "note": "The spell of 장기오 began before the window under the same office (1987-07-14). 행정자치부 from 1998-02-28 is handled by lineage interior."
+  }
+ ],
+ "spells": [
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "장기오",
+   "name_hanja": "張基梧",
+   "birth_date": "1932-02-03",
+   "gender": null,
+   "start": "1987-07-14",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제20대 장관 장기오 재임기간 1987년 7월 14일 ~ 1988년 2월 24일'",
+    "매일경제 1987-07-14 p.1 \"全(전)대통령 임명장 수여\" (Naver News Library OCR text, article 1987071400099201012, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400099201012&editNo=1&printCount=1&publishDate=1987-07-14&officeId=00009&pageNo=1&printNo=6572&publishType=00020, accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1987071400099201012.json), text: '全斗煥(전두환)대통령은 14일 상오청와대에서 신임 金貞烈(김정렬)국무총리서리를 비롯'",
+    "매일경제 1987-07-14 p.1 \"全(전)대통령 임명장 수여\" (Naver News Library OCR text, article 1987071400099201012, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400099201012&editNo=1&printCount=1&publishDate=1987-07-14&officeId=00009&pageNo=1&printNo=6572&publishType=00020, accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1987071400099201012.json), text: '張基梧(장기오)총무처,朴肯植(박긍식)과기처,李鍾律(이종률)정무제1장관에게 임명장을 수여했다.'",
+    "중앙일보 1987-07-14 \"내 무 정관용 국 방 정호용 문 교 서명원 체 욱 조상호 체 신 오 명 총무처 장기오 과기처 박긍식 정무1 이 종 율\" (BigKinds full text, news_id 01100901.19870714194838001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19870714194838001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:21:32-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19870714194838001.json), text: '총무처장관에 장기오총무처차관을 각각 승진발령하는한편' (announcement on 1987-07-13)",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '장기오 1987년 7월 14일 ~ 1988년 2월 24일'"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1988-02-25 p.3 \"祝砲(축포)·비둘기 날리며\"希望(희망)의 나라로\"\" (Naver News Library OCR text, article 1988022500329203002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329203002&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=3&printNo=13049&publishType=00020, accessed 2026-09-26T09:08:05-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988022500329203002.json), text: '張基梧(장기오)총무처장관의 영접을받으며' (in office at the inauguration on the morning of 1988-02-25)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds full text, news_id 01100901.19880225005009001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19880225005009001.json), text: '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다.'",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library OCR text, article 1988022600239101004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988022600239101004.json), text: '金貞烈(김정렬)국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다.'",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任(이임)국무위원들의 한마디\" (Naver News Library OCR text, article 1988022500239102002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988022500239102002.json), text: '張基梧(장기오)총무처장관=1년2개월의 재임기간중 공무원사기앙양을 위해 가장 노력했다.' (farewell remarks of the outgoing ministers)",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제20대 장관 장기오 재임기간 1987년 7월 14일 ~ 1988년 2월 24일' (page gives 1988-02-24, see notes)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "mp_hint": null,
+   "notes": "전두환-era minister still in office on 1988-02-25 (caretaker holdover). Named on 1987-07-13 when he was promoted from 총무처 차관 (중앙일보 1987-07-14) and given his 임명장 on the morning of 1987-07-14 (매일경제 1987-07-14), which is the MOIS start. The MOIS page and ko.wikipedia end his term on 1988-02-24, the last day of the 전두환 presidency. He was still acting as 총무처장관 at the 10:00 inauguration on 1988-02-25 (경향신문 1988-02-25), and the resignations of the 김정렬 cabinet were accepted by 노태우 on the morning of 1988-02-25 before the new cabinet received its 임명장 (중앙일보 1988-02-25, 조선일보 1988-02-26). The end is therefore 1988-02-25, a same-day handover to 김용갑. Birth date from ko.wikipedia only (ko.wikipedia '장기오' https://ko.wikipedia.org/w/index.php?oldid=41473295 (secondary, accessed 2026-09-26T09:27:38-0400)). Not in na_members_12_22.csv (terms 12-22)."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "김용갑",
+   "name_hanja": "金容甲",
+   "birth_date": "1936-09-28",
+   "gender": "M",
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제21대 장관 김용갑 재임기간 1988년 2월 25일 ~ 1989년 3월 6일'",
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library OCR text, article 1988021900209201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988021900209201003.json), text: '총무처 金容甲(김용갑)' (cabinet list announced by the President-elect on 1988-02-19)",
+    "서울신문 1988-02-20 \"새정부 內閣名單 발표\" (BigKinds full text, news_id 01100611.19880220164719005, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880220164719005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:20:54-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.19880220164719005.json), text: '총무처 金容甲' (cabinet list of 1988-02-19)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds full text, news_id 01100901.19880225005009001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19880225005009001.json), text: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다.'",
+    "경향신문 1988-02-25 p.3 \"祝砲(축포)·비둘기 날리며\"希望(희망)의 나라로\"\" (Naver News Library OCR text, article 1988022500329203002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329203002&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=3&printNo=13049&publishType=00020, accessed 2026-09-26T09:08:05-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988022500329203002.json), text: '盧(노)대통령은 신임 吳滋福(오자복)국방부장관,金容甲(김용갑)총무처장관,全錫洪(전석홍)국가보훈처장을 대동'",
+    "대통령기록관 연도별 대통령 일정, 노태우 1988 (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/general_affairs/ext88/pa_schedule/pa_노태우_1988_0.html), row 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '김용갑 1988년 2월 25일 ~ 1989년 3월 8일'"
+   ],
+   "end": "1989-03-16",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1989-03-17 p.1 \"總務處(총무처)장관 金庸來(김용래)찌\" (Naver News Library OCR text, article 1989031700209201010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700209201010&editNo=2&printCount=1&publishDate=1989-03-17&officeId=00020&pageNo=1&printNo=20757&publishType=00020, accessed 2026-09-26T09:34:41-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1989031700209201010.json), text: '盧泰愚(노태우)대통령은 16일오후金容甲(김용갑)총무처장관의 사표를수리하고 후임에 金庸來(김용래)전서울시장을 임명했다.'",
+    "한겨레 1989-03-17 p.1 \"총무처장관 김용래씨\" (Naver News Library OCR text, article 1989031700289101009, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700289101009&editNo=3&printCount=1&publishDate=1989-03-17&officeId=00028&pageNo=1&printNo=261&publishType=00010, accessed 2026-09-26T09:34:44-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1989031700289101009.json), text: '노태우 대통령은16일 오후 좌경폭력세력의 확산과 팽창을 경고하는 성명을 내고잠적한 김용갑 총무처장관의 사표를 수리하고'",
+    "서울신문 1989-03-17 \"새總務處장관 金庸來씨\" (BigKinds full text, news_id 01100611.19890317170446001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19890317170446001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:52-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.19890317170446001.json), text: '盧泰愚대통령은 16일 하오 金容甲총무처장관의 사표를 수리하고 후임에 金庸來前서울시장을 임명했다.'",
+    "세계일보 1989-03-17 \"總務處장관에 金庸來씨\" (BigKinds full text, news_id 01100701.19890317170934002, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19890317170934002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:47-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19890317170934002.json), text: '盧泰愚대통령은 16일 오후 金容甲총무처장관의 사표를 수리하고'",
+    "한국일보 1989-03-15 \"金容甲 총무처 돌연 辭表\" (BigKinds full text, news_id 01101101.19890315105346101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19890315105346101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:36:25-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01101101.19890315105346101.json), text: '金容甲 총무처장관이 14일 하오 돌연 사표를 제출했다.' (resignation submitted 1989-03-14)",
+    "중앙일보 1989-03-13 \"\"공무원노조 허용은 시기상조\"\" (BigKinds full text, news_id 01100901.19890313110127003, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890313110127003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:37:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19890313110127003.json), text: '김용갑 총무처장관은 13일' (still acting as minister on 1989-03-13)",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제21대 장관 김용갑 재임기간 1988년 2월 25일 ~ 1989년 3월 6일' (page gives 1989-03-06, contradicted by the news, see issues)",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '김용갑 1988년 2월 25일 ~ 1989년 3월 8일' (gives 1989-03-08, contradicted by the news, see issues)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노태우",
+   "mp_hint": "not a sitting NA member during the spell. Later 15th-17th NA member (경남 밀양시, 밀양시창녕군), mona_cd H2X6452Y per na_members_12_22.csv",
+   "notes": "Named in the first 노태우 cabinet announced on 1988-02-19 (동아일보 1988-02-19, 서울신문 1988-02-20) and given his 임명장 on the morning of 1988-02-25 after the inauguration (중앙일보 1988-02-25). He was still working as minister on 1989-03-13 (press conferences reported by 경향신문 and 중앙일보). On the afternoon of 1989-03-14 he submitted his resignation with a statement and left the office (한국일보 1989-03-15). The President first signalled he would return it and then accepted it on the afternoon of 1989-03-16, naming 김용래 the same day (동아일보, 한겨레 1989-03-17 and 서울신문, 세계일보 1989-03-17). His 이임식 was held on the morning of 1989-03-17 (세계일보 1989-03-18). The MOIS end date 1989-03-06 and the ko.wikipedia end date 1989-03-08 are not supported by any dated source found. Gender and birth date from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 김용갑, mona_cd H2X6452Y)."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "김용래",
+   "name_hanja": "金庸來",
+   "birth_date": "1934-03-15",
+   "gender": null,
+   "start": "1989-03-17",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제22대 장관 김용래 재임기간 1989년 3월 17일 ~ 1990년 3월 18일'",
+    "조선일보 1989-03-18 p.1 \"金庸來(김용래)장관에 임명장\" (Naver News Library OCR text, article 1989031800239101009, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989031800239101009&editNo=1&printCount=1&publishDate=1989-03-18&officeId=00023&pageNo=1&printNo=20910&publishType=00010, accessed 2026-09-26T09:34:47-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1989031800239101009.json), text: '盧泰愚(노태우)대통령은 17일 오후청와대에서 金庸來(김용래)신임총무처장관에게 임명장을주었다.'",
+    "세계일보 1989-03-18 \"金庸來장관 임명장\" (BigKinds full text, news_id 01100701.19890318171008003, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19890318171008003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:12-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19890318171008003.json), text: '盧泰愚대통령은 17일 오후 신임 金庸來총무처장관에자 임명장을 주었다.'",
+    "서울신문 1989-03-17 \"새總務處장관 金庸來씨\" (BigKinds full text, news_id 01100611.19890317170446001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19890317170446001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:52-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.19890317170446001.json), text: '후임에 金庸來前서울시장을 임명했다.' (named on 1989-03-16)",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '김용래 1989년 3월 17일 ~ 1990년 3월 18일'"
+   ],
+   "end": "1990-03-19",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "세계일보 1990-03-17 \"새 각료 오늘 발표/노대통령,어제 일괄사표 받아\" (BigKinds full text, news_id 01100701.19900317000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900317000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:20-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19900317000000101.json), text: '총무처 이연택 청와대행정수석비서관' (cabinet resigned en masse on 1990-03-16, successor list)",
+    "서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds full text, news_id 01100611.20160420190235310, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160420190235310.json), text: '총무처장관에는 이연택청와대행정수석이 각각 기용됐다.' (reshuffle of 1990-03-17)",
+    "경향신문 1990-03-19 p.1 \"내일 靑瓦臺(청와대)국무회의\" (Naver News Library OCR text, article 1990031900329201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329201003&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=1&printNo=13685&publishType=00020, accessed 2026-09-26T09:34:55-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1990031900329201003.json), text: '盧(노)대통령은 이에앞서 19일상오 청와대에서 李承潤(이승윤)부총리등 신임각료와 盧在鳳(노재봉)비서실장등 신임비서진에게 임명장을 수여했다.'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제22대 장관 김용래 재임기간 1989년 3월 17일 ~ 1990년 3월 18일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "mp_hint": null,
+   "notes": "Named on the afternoon of 1989-03-16 when 김용갑's resignation was accepted (서울신문 1989-03-17) and given his 임명장 on the afternoon of 1989-03-17 (조선일보 1989-03-18, 세계일보 1989-03-18). The whole cabinet submitted resignations on 1990-03-16 (세계일보 1990-03-17) and he was replaced in the reshuffle announced on 1990-03-17 (서울신문 1990-03-18). No separate acceptance date for him was found, so the end is the successor's 임명장 day, 1990-03-19. The MOIS page gives 1990-03-18. Birth date from ko.wikipedia only (ko.wikipedia '김용래 (1934년)' https://ko.wikipedia.org/w/index.php?oldid=40594734 (secondary, accessed 2026-09-26T09:27:39-0400)). Not in na_members_12_22.csv."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "이연택",
+   "name_hanja": "李衍澤",
+   "birth_date": "1936-09-25",
+   "gender": null,
+   "start": "1990-03-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제23대 장관 이연택 재임기간 1990년 3월 19일 ~ 1991년 12월 19일'",
+    "조선일보 1990-03-18 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library OCR text, article 1990031800239101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010, accessed 2026-09-26T09:31:16-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1990031800239101001.json), text: '총무처장관에 李衍澤(이연택) 청와대행정首席(수석)' (reshuffle of 1990-03-17)",
+    "서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds full text, news_id 01100611.20160420190235310, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160420190235310.json), text: '총무처장관에는 이연택청와대행정수석이 각각 기용됐다.'",
+    "경향신문 1990-03-19 p.1 \"내일 靑瓦臺(청와대)국무회의\" (Naver News Library OCR text, article 1990031900329201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329201003&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=1&printNo=13685&publishType=00020, accessed 2026-09-26T09:34:55-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1990031900329201003.json), text: '19일상오 청와대에서 李承潤(이승윤)부총리등 신임각료와 盧在鳳(노재봉)비서실장등 신임비서진에게 임명장을 수여했다.'",
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds full text, news_id 01100201.19900319000000107, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100201.19900319000000107.json), text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다.'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '이연택 1990년 3월 19일 ~ 1991년 12월 19일'"
+   ],
+   "end": "1991-12-20",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1991-12-19 p.1 \"7部(부)장관更迭(경질)\" (Naver News Library OCR text, article 1991121900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991121900209201001&editNo=2&printCount=1&publishDate=1991-12-19&officeId=00020&pageNo=1&printNo=21683&publishType=00020, accessed 2026-09-26T09:31:27-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1991121900209201001.json), text: '盧泰愚(노태우)대통령은 19일오후 개각을 단행,국방 상공건설 체육청소년 문화 총무처 정무제2장관등 7명을 경질했다.'",
+    "전북일보 1991-12-20 \"7部 長官 경질\" (BigKinds full text, news_id 01601101.19911220150517101, https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19911220150517101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01601101.19911220150517101.json), text: '총무처장관에는 이상배 전청와대 행정수석'",
+    "매일경제 1991-12-20 p.2 \"盧(노) 대통령 신임 장관에 임명장\" (Naver News Library OCR text, article 1991122000099202020, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000099202020&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00009&pageNo=2&printNo=7985&publishType=00020, accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1991122000099202020.json), text: '盧泰愚(노태우)대통령은 20일 오전 청와대에서 신임 崔世昌(최세창)국방' (successor's 임명장 on 1991-12-20)",
+    "조선일보 1991-12-20 p.3 \"7개부처長官(장관) 교체 배경 정국變数(변수) 감안「핵심 개편」유보\" (Naver News Library OCR text, article 1991122000239103002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000239103002&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00023&pageNo=3&printNo=21848&publishType=00010, accessed 2026-09-26T09:34:56-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1991122000239103002.json), text: '李衍澤(이연택)총무처장관의 퇴진은 14대총선 출마를 위한 것이며' (reason for the exit)",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제23대 장관 이연택 재임기간 1990년 3월 19일 ~ 1991년 12월 19일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "노태우",
+   "mp_hint": null,
+   "notes": "Named 총무처장관 in the 1990-03-17 reshuffle while 청와대 행정수석 and given his 임명장 with the new cabinet on the morning of 1990-03-19 (경향신문 1990-03-19, 국민일보 1990-03-19). He was replaced in the reshuffle announced on the afternoon of 1991-12-19, and 조선일보 1991-12-20 explains his exit as a move to run in the 14th Assembly election. end_reason resigned_to_run follows that report, although the formal act was a replacement in a reshuffle. No separate acceptance date was found, so the end is the successor's 임명장 day, 1991-12-20. He later served as 노동부장관 from 1992-06-26 (another lineage). Birth date from ko.wikipedia only (ko.wikipedia '이연택' https://ko.wikipedia.org/w/index.php?oldid=41473291 (secondary, accessed 2026-09-26T09:27:40-0400)). Not in na_members_12_22.csv."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "이상배",
+   "name_hanja": "李相培",
+   "birth_date": "1939-10-10",
+   "gender": "M",
+   "start": "1991-12-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제24대 장관 이상배 재임기간 1991년 12월 20일 ~ 1992년 6월 25일'",
+    "매일경제 1991-12-20 p.2 \"盧(노) 대통령 신임 장관에 임명장\" (Naver News Library OCR text, article 1991122000099202020, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000099202020&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00009&pageNo=2&printNo=7985&publishType=00020, accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1991122000099202020.json), text: '李相培(이상배)총무처 金甲現(김갑현)정무2장관과 장관급으로 승진한 金宗輝(김종휘)대통령외교·안보수석비서관 金學俊(김학준)대통령공보수석비서관겸대변인에게 각각 임명장을수여했다.'",
+    "국민일보 1991-12-20 \"노 대통령 임명장 수여\" (BigKinds full text, news_id 01100201.19911220000000106, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19911220000000106&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:37:30-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100201.19911220000000106.json), text: '노태우대통령은 20일 오전 최세창국방장관등 신임장관 7명과'",
+    "전북일보 1991-12-20 \"7部 長官 경질\" (BigKinds full text, news_id 01601101.19911220150517101, https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19911220150517101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01601101.19911220150517101.json), text: '총무처장관에는 이상배 전청와대 행정수석' (named on 1991-12-19)",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '이상배 1991년 12월 20일 ~ 1992년 6월 25일'"
+   ],
+   "end": "1992-06-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library OCR text, article 1992062600209201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1992062600209201004.json), text: '총무처장관에 李文錫(이문석)전1군사령관' (reshuffle of 1992-06-25)",
+    "국민일보 1992-06-26 \"5부장관 경질/서울시장·정치특보도/“아는 사람끼리 잘해보기로”\" (BigKinds full text, news_id 01100201.19920626000000102, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920626000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:34-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100201.19920626000000102.json), text: '노대통령은 또 서울시장에 이상배총무처장관을'",
+    "경인일보 1992-06-26 \"新任각료 임명장\" (BigKinds full text, news_id 01200201.19920626150517257, https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517257&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:47-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01200201.19920626150517257.json), text: '노태우 대통령은 26일 오전 청와대에서 최수철 총리 겸 통일원장관, 이연택 노동부 장관, 이문석 총무처장관, 이재창 환경처장관 등 신임장관과 이상배 서울시장, 서동권 대통렁 정치담당 특보에게 임명장을 수여했다.'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제24대 장관 이상배 재임기간 1991년 12월 20일 ~ 1992년 6월 25일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "노태우",
+   "mp_hint": "not a sitting NA member during the spell. Later 15th-17th NA member (경북 상주시), mona_cd AV73550N per na_members_12_22.csv",
+   "notes": "Named on the afternoon of 1991-12-19 and given his 임명장 on the morning of 1991-12-20 (매일경제 1991-12-20, 국민일보 1991-12-20). In the reshuffle announced on the afternoon of 1992-06-25 he was moved to 서울특별시장, and he and his successor received their 임명장 on the morning of 1992-06-26 (경인일보 1992-06-26). end_reason other means appointed 서울특별시장. The end is the successor's 임명장 day. The MOIS page gives 1992-06-25. Gender and birth date from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 이상배, mona_cd AV73550N)."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "이문석",
+   "name_hanja": "李文錫",
+   "birth_date": null,
+   "gender": null,
+   "start": "1992-06-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제25대 장관 이문석 재임기간 1992년 6월 26일 ~ 1993년 2월 25일'",
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library OCR text, article 1992062600209201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1992062600209201004.json), text: '총무처장관에 李文錫(이문석)전1군사령관' (named on 1992-06-25)",
+    "경인일보 1992-06-26 \"新任각료 임명장\" (BigKinds full text, news_id 01200201.19920626150517257, https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517257&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:47-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01200201.19920626150517257.json), text: '노태우 대통령은 26일 오전 청와대에서 최수철 총리 겸 통일원장관, 이연택 노동부 장관, 이문석 총무처장관'",
+    "동아일보 1992-06-26 p.5 \"임기「마무리」강조\" (Naver News Library OCR text, article 1992062600209205006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209205006&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=5&printNo=21865&publishType=00020, accessed 2026-09-26T09:29:38-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1992062600209205006.json), text: '盧泰愚(노태우)대통령은 26일오전靑瓦臺(청와대)에서 崔永喆(최영철)부총리겸 통일원장관등신임부서장 7명에게 임명장을 주면서'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '이문석 1992년 6월 26일 ~ 1993년 2월 25일'"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library OCR text, article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600209201001.json), text: '金(김)대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며' (successor's 임명장 on 1993-02-26)",
+    "서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\" (BigKinds full text, news_id 01100611.20160421220544125, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220544125&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:05-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160421220544125.json), text: '한편 이날 퇴임한 백광현장관은 이임식을 마친뒤' (outgoing 내무부장관 left on 1993-02-26)",
+    "한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library OCR text, article 1993022600289106003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600289106003&editNo=5&printCount=1&publishDate=1993-02-26&officeId=00028&pageNo=6&printNo=1486&publishType=00010, accessed 2026-09-26T09:32:04-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600289106003.json), text: '26일 일제히 퇴임하는 경제부처 장관들은'",
+    "동아일보 1993-02-26 p.3 \"\"適任(적임)\"…\"意外(의외)\"…환영과 우려\" (Naver News Library OCR text, article 1993022600209203001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=3&printNo=22097&publishType=00020, accessed 2026-09-26T09:36:12-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600209203001.json), text: '한편 李龍萬前(이용만전)장관은 26일오전10시 이임식을 가졌다.'",
+    "국민일보 1993-02-27 \"마지막 장관/정진영 경제부(현장기자)\" (BigKinds full text, news_id 01100201.19930227000000705, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000705&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:30-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100201.19930227000000705.json), text: '이날 이임식은 비슷한 시각 다른 곳에서 열린 여타 정부부처의 이임식과는 판이한 의미를 지녔기 때문이었다.' (이임식 across ministries on the morning of 1993-02-26)",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"\" (Naver News Library OCR text, article 1993022400099202004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022400099202004.json), text: '따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.' (총무처 interpretation reported on 1993-02-24)",
+    "조선일보 1993-02-26 p.3 \"◇새大統領(대통령)의 결재\" (Naver News Library OCR text, article 1993022600239103004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600239103004&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00023&pageNo=3&printNo=22269&publishType=00010, accessed 2026-09-26T09:50:16-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600239103004.json), text: '金泳三(김영삼)대통령이 25일 오후 청와대집무실에서 李文錫(이문석)총무처장관(오른쪽)이 갖고 온 서류들을' (in office on the afternoon of 1993-02-25)",
+    "중앙일보 1993-02-25 \"내일 조각발표\" (BigKinds full text, news_id 01100901.19930225151908002, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19930225151908002.json), text: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.' (conflicting single report that would end the spell on 1993-02-25, see issues)",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제25대 장관 이문석 재임기간 1992년 6월 26일 ~ 1993년 2월 25일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "mp_hint": null,
+   "notes": "Named on the afternoon of 1992-06-25 and given his 임명장 on the morning of 1992-06-26 (경인일보, 동아일보 1992-06-26). Holdover of the 노태우 cabinet into the 김영삼 presidency. He guided the new President at the national cemetery on the morning of 1993-02-25 (매일경제 1993-02-25) and brought papers for the President to sign that afternoon (조선일보 1993-02-26). The first 김영삼 cabinet was named on the morning of 1993-02-26 and received its 임명장 that afternoon (동아일보 1993-02-26). The outgoing ministers left on 1993-02-26 and held their 이임식 that morning (서울신문 1993-02-27 on 백광현, 동아일보 1993-02-26 on 이용만, 한겨레 1993-02-26 on the economic ministers, 국민일보 1993-02-27 on 이임식 across ministries). A 총무처 official had said on 1993-02-24 that the outgoing ministers need not resign and would hand over when successors were appointed (매일경제 1993-02-24). No report dating 이문석's own exit was found, so the end is the successor's 임명장 day, 1993-02-26. 중앙일보 1993-02-25 alone reports that the outgoing cabinet's resignations were submitted and accepted on 1993-02-25 (see issues). The MOIS page and ko.wikipedia give 1993-02-25. The ko.wikipedia article '이문석' is about a namesake (a footballer born 1970), so no birth date is given. Not in na_members_12_22.csv."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "최창윤",
+   "name_hanja": "崔昌潤",
+   "birth_date": "1939-09-07",
+   "gender": "M",
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제26대 장관 최창윤 재임기간 1993년 2월 26일 ~ 1993년 12월 21일'",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library OCR text, article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600209201001.json), text: '총무처장관에 崔昌潤(최창윤) 民自黨(민자당)총재비서실장'",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library OCR text, article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600209201001.json), text: '金(김)대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며'",
+    "문화일보 1993-02-27 \"기획원李經植 통일원韓完相씨\" (BigKinds full text, news_id 01100501.19930227052852101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19930227052852101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:58-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100501.19930227052852101.json), text: '金泳三대통령은 26일 24개 부처의 장관을 비롯 서울시장、 안기부장、 민주평통 사무총장등 27명의명단을 발표한뒤 임명장을 수여했다。'",
+    "서울신문 1993-02-27 \"부총리 이경식(기획원) 한완상(통일원)씨\" (BigKinds full text, news_id 01100611.20160421220436146, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220436146&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:00-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160421220436146.json), text: '총무처장관에는 최창윤전공보처장관'",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1993 (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1993, accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/general_affairs/ext88/pa_schedule/pa_김영삼_1993_0.html), row 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '최창윤 1993년 2월 26일 ~ 1993년 12월 21일'"
+   ],
+   "end": "1993-12-22",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1993-12-22 p.1 \"14部處(부처)장관 경질 부총리 丁渽錫(정재석)(기획원)李榮德(이영덕)(통일원)씨\" (Naver News Library OCR text, article 1993122200209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993122200209101001.json), text: '총무처장관에黃榮夏(황영하)감사원사무총장' (reshuffle of 1993-12-21)",
+    "경향신문 1993-12-22 p.6 \"\"實勢(실세) 왔다\"기대半(반) 긴장半(반)「12.21」改閣(개각)맞은 部處(부처) 표정\" (Naver News Library OCR text, article 1993122200329106001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329106001&editNo=15&printCount=1&publishDate=1993-12-22&officeId=00032&pageNo=6&printNo=14952&publishType=00010, accessed 2026-09-26T09:35:04-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993122200329106001.json), text: '崔昌潤(최창윤)전임장관은 개각발표후 집무실에서 외부로부터 걸려오는 위로전화를받으며'",
+    "서울신문 1993-12-23 \"이회창새내각 출범 첫날 이모저모\" (BigKinds full text, news_id 01100611.20160422071507158, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071507158&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:38-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160422071507158.json), text: '22일 신임각료들은 김영삼대통령으로부터 임명장을 받은뒤 부처별로 장관 이취임식을 갖고'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제26대 장관 최창윤 재임기간 1993년 2월 26일 ~ 1993년 12월 21일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "mp_hint": "not a sitting NA member during the spell. Former 13th NA member (민주정의당 전국구, seat 1988-05-30..1988-12-22, resigned on appointment as 정무수석), mona_cd C0E9428E per na_members_12_22.csv",
+   "notes": "Named in the first 김영삼 cabinet announced on the morning of 1993-02-26 and given his 임명장 that afternoon (동아일보 1993-02-26, 문화일보 1993-02-27). Replaced in the reshuffle announced on 1993-12-21. No separate exit date was found, so the end is the successor's 임명장 day, 1993-12-22 (서울신문 1993-12-23). The MOIS page gives 1993-12-21. Gender and birth date from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 최창윤, mona_cd C0E9428E)."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "황영하",
+   "name_hanja": "黃榮夏",
+   "birth_date": "1939-08-15",
+   "gender": null,
+   "start": "1993-12-22",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제27대 장관 황영하 재임기간 1993년 12월 22일 ~ 1994년 12월 23일'",
+    "동아일보 1993-12-22 p.1 \"14部處(부처)장관 경질 부총리 丁渽錫(정재석)(기획원)李榮德(이영덕)(통일원)씨\" (Naver News Library OCR text, article 1993122200209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993122200209101001.json), text: '총무처장관에黃榮夏(황영하)감사원사무총장' (named on 1993-12-21)",
+    "중앙일보 1993-12-22 \"부총리 정재석(경제) 이영덕(통일)씨/14부장관 경질\" (BigKinds full text, news_id 01100901.19931222204343002, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19931222204343002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:30-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19931222204343002.json), text: '▲총무처=황영하 감사원 사무총장'",
+    "한겨레 1993-12-23 \"새 국무위원 임명장/김 대통령\" (BigKinds full text, news_id 01101001.19931223000000105, https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19931223000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:13-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01101001.19931223000000105.json), text: '김 대통령은 이날 아침 정재석 경제 부총리 등 신임 국무위원들에게 임명장을 주는 자리에서'",
+    "서울신문 1993-12-23 \"이회창새내각 출범 첫날 이모저모\" (BigKinds full text, news_id 01100611.20160422071507158, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071507158&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:38-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160422071507158.json), text: '황영하신임장관을 맞은 총무처 직원들은'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '황영하 1993년 12월 22일 ~ 1994년 12월 23일'"
+   ],
+   "end": "1994-12-24",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library OCR text, article 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122400209101001.json), text: '총무처 徐錫宰民自(서석재민자)당무위원' (reshuffle of 1994-12-23)",
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library OCR text, article 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122400209101001.json), text: '金(김)대통령은 24일 오전靑瓦臺(청와대)에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며'",
+    "중도일보 1994-12-25 \"“지방조직도 개편”\" (BigKinds full text, news_id 01400351.19941225160335101, https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.19941225160335101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:56-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01400351.19941225160335101.json), text: '徐장관은 이날 金泳三대통령으로부터 임명장을 받고 총무처를 순시한뒤'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제27대 장관 황영하 재임기간 1993년 12월 22일 ~ 1994년 12월 23일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "mp_hint": null,
+   "notes": "Named on 1993-12-21 while 감사원 사무총장 and given his 임명장 on the morning of 1993-12-22 with the other new ministers (한겨레, 서울신문 1993-12-23). Replaced in the reshuffle announced on 1994-12-23. No separate exit date was found, so the end is the successor's 임명장 day, 1994-12-24. The MOIS page gives 1994-12-23. Birth date from ko.wikipedia only (ko.wikipedia '황영하' https://ko.wikipedia.org/w/index.php?oldid=41622992 (secondary, accessed 2026-09-26T09:27:42-0400)). Not in na_members_12_22.csv."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "서석재",
+   "name_hanja": "徐錫宰",
+   "birth_date": "1935-02-15",
+   "gender": "M",
+   "start": "1994-12-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제28대 장관 서석재 재임기간 1994년 12월 24일 ~ 1995년 8월 3일'",
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library OCR text, article 1994122400329101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122400329101001.json), text: '총무처장관에 徐錫宰(서석재)민자당당무위원' (named on 1994-12-23)",
+    "중도일보 1994-12-25 \"“지방조직도 개편”\" (BigKinds full text, news_id 01400351.19941225160335101, https://www.bigkinds.or.kr/news/detailView.do?docId=01400351.19941225160335101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:56-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01400351.19941225160335101.json), text: '徐장관은 이날 金泳三대통령으로부터 임명장을 받고 총무처를 순시한뒤'",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library OCR text, article 1994122500099102002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122500099102002.json), text: '金泳三(김영삼)대통령이 24일오전 청와대에서 洪在馨(홍재형)부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다.'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '서석재 1994년 12월 24일 ~ 1995년 8월 3일'"
+   ],
+   "end": "1995-08-04",
+   "end_confidence": "high",
+   "end_sources": [
+    "한겨레 1995-08-05 p.3 \"당혹속 정권 도덕성 시비 우려\" (Naver News Library OCR text, article 1995080500289103001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995080500289103001&editNo=5&printCount=1&publishDate=1995-08-05&officeId=00028&pageNo=3&printNo=2305&publishType=00010, accessed 2026-09-26T09:35:07-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995080500289103001.json), text: '김영삼 대통령은 발언파문이 있은 지 하룻만인 4일 오전 서석재장관의 사표를 수리하는 등'",
+    "서울신문 1995-08-05 \"서석재장관 사표 수리/「4천억 계좌」 파문 문책\" (BigKinds full text, news_id 01100611.20160423053844447, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423053844447&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:41:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160423053844447.json), text: '김영삼 대통령은 4일 전직대통령의 가·차명 예금계좌 발언으로 파문을 일으킨 서석재 총무처 장관의 사표를 수리했다.'",
+    "서울신문 1995-08-05 \"서석재장관 사표 수리/「4천억 계좌」 파문 문책\" (BigKinds full text, news_id 01100611.20160423053844447, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423053844447&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:41:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160423053844447.json), text: '서장관이 전날 이홍구국무총리에게 제출한 사표를 전달받고 이를 수리했다고' (resignation submitted 1995-08-03)",
+    "동아일보 1995-08-05 p.1 \"徐錫宰(서석재)장관 전격 해임\" (Naver News Library OCR text, article 1995080500209101004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995080500209101004&editNo=45&printCount=1&publishDate=1995-08-05&officeId=00020&pageNo=1&printNo=22931&publishType=00010, accessed 2026-09-26T09:35:11-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995080500209101004.json), text: '徐錫宰(서석재)장관 전격 해임'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제28대 장관 서석재 재임기간 1994년 12월 24일 ~ 1995년 8월 3일' (page gives 1995-08-03, the day he submitted the resignation)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김영삼",
+   "mp_hint": "not a sitting NA member during the spell. Former 12th-14th NA member (부산 서·사하구, 사하구), 14th-term seat lost 1993-01-29 by court ruling, later 15th NA member (신한국당, 부산 사하구갑), mona_cd L8S7182S per na_members_12_22.csv",
+   "notes": "Named on the afternoon of 1994-12-23 and given his 임명장 on the morning of 1994-12-24 (중도일보 1994-12-25). After his remarks about a former president's 4,000억원 borrowed-name accounts he submitted his resignation to 국무총리 이홍구 on 1995-08-03, and 김영삼 accepted it on the morning of 1995-08-04 (한겨레, 서울신문 1995-08-05). Papers described the exit as a dismissal (동아일보 1995-08-05 '전격 해임'), but the legal act was the acceptance of his resignation, hence end_reason resigned. The MOIS page gives 1995-08-03. The post was vacant until 1995-08-07 (세계일보 1995-08-06). Gender and birth date from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 서석재, mona_cd L8S7182S)."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "김기재",
+   "name_hanja": "金杞載",
+   "birth_date": "1946-09-06",
+   "gender": "M",
+   "start": "1995-08-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제29대 장관 김기재 재임기간 1995년 8월 7일 ~ 1996년 1월 30일'",
+    "동아일보 1995-08-08 p.1 \"총무처장관 金杞載(김기재)씨\" (Naver News Library OCR text, article 1995080800209101012, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995080800209101012&editNo=45&printCount=1&publishDate=1995-08-08&officeId=00020&pageNo=1&printNo=22933&publishType=00010, accessed 2026-09-26T09:35:14-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995080800209101012.json), text: '金泳三(김영삼)대통령은 7일 전직대통령 4천억원 가 차명계좌설 발언파문으로 사퇴한 徐錫宰(서석재)전총무처장관의 후임장관에 金杞載(김기재)전부산시장을 임명했다.'",
+    "동아일보 1995-08-08 p.3 \"새 총무처장관에 임명장\" (Naver News Library OCR text, article 1995080800209103002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995080800209103002&editNo=45&printCount=1&publishDate=1995-08-08&officeId=00020&pageNo=3&printNo=22933&publishType=00010, accessed 2026-09-26T09:35:16-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995080800209103002.json), text: '金泳三(김영삼)대통령이 7일 신임 金杞載(김기재) 총무처장관에게임명장을 수여하고 있다.'",
+    "한국경제 1995-08-08 \"총무처장관 김기재씨\" (BigKinds full text, news_id 02100601.20160115214051166, https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20160115214051166&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:42:33-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_02100601.20160115214051166.json), text: '김대통령은 이날오전 청와대에서 김장관에게 임명장을 주었다.'",
+    "한겨레 1995-08-08 \"민주계 전진배치 ‘신호탄’/김기재 장관 ‘파격’ 발탁 속뜻\" (BigKinds full text, news_id 01101001.19950808000000202, https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19950808000000202&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:42:59-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01101001.19950808000000202.json), text: '김 대통령은 이날 오전 김 장관에게 임명장을 주면서'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '김기재 1995년 8월 7일 ~ 1996년 1월 30일'"
+   ],
+   "end": "1996-01-30",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1996-01-31 \"총무처장관 曺海寧씨\" (BigKinds full text, news_id 01100401.19960131081320006, https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19960131081320006&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:27-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100401.19960131081320006.json), text: '金泳三대통령은 30일 오는 4월 15대총선에 부산해운대｜기장을지역구에 출마하기 위해 사임한 金杞載총무처장관의 후임에 曺海寧전대구시장을 임명했다。'",
+    "매일신문 1996-01-31 \"총무처長官 曺海寧씨\" (BigKinds full text, news_id 01500601.19960131232245001, https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19960131232245001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:55-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01500601.19960131232245001.json), text: '金泳三대통령은 30일 15대 총선출마를 위해 물러난 金杞栽청무처장관의 사표를 수리하고 후임에 曺海寧전대구시장을 임명했다.'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제29대 장관 김기재 재임기간 1995년 8월 7일 ~ 1996년 1월 30일'"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김영삼",
+   "mp_hint": "not a sitting NA member during the spell. Later 15th NA member (신한국당, 부산 해운대구기장군을, seat 1996-05-30..1998-04-06) and 16th NA member (새천년민주당 비례대표), mona_cd E0N47877 per na_members_12_22.csv",
+   "notes": "Named and given his 임명장 on the morning of 1995-08-07 (동아일보 1995-08-08, 한국경제 1995-08-08). He resigned to run in the 15th Assembly election, and the President accepted the resignation and named 조해녕 on 1996-01-30 (동아일보, 매일신문 1996-01-31). The MOIS page also ends his term on 1996-01-30. He later served as 행정자치부장관 1999-02-06..2000-01-14 (lineage interior). Birth date and gender from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 김기재, mona_cd E0N47877), which matches interior.verified.json. ko.wikipedia gives 1946-01-01 (ko.wikipedia '김기재 (1946년)' https://ko.wikipedia.org/w/index.php?oldid=42471469 (secondary, accessed 2026-09-25T13:29:05-0400))."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "조해녕",
+   "name_hanja": "曺海寧",
+   "birth_date": "1943-11-04",
+   "gender": null,
+   "start": "1996-01-31",
+   "start_confidence": "high",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제30대 장관 조해녕 재임기간 1996년 1월 31일 ~ 1996년 12월 19일'",
+    "매일경제 1996-02-01 p.2 \"曺海寧(조해녕) 총무처장관에 金(김)대통령 임명장수여\" (Naver News Library OCR text, article 1996020100099102011, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996020100099102011&editNo=15&printCount=1&publishDate=1996-02-01&officeId=00009&pageNo=2&printNo=9343&publishType=00010, accessed 2026-09-26T09:35:17-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1996020100099102011.json), text: '金泳三(김영삼)대통령은 31일 오전 청와대에서 신임 曺海寧(조해녕)총무처장관에게 임명장을 수여하고'",
+    "서울신문 1996-02-01 \"“21세기 대비 공직자 의식 변해야”/조해녕신임총무처 간담회\" (BigKinds full text, news_id 01100611.20160420200332715, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420200332715&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:19-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160420200332715.json), text: '조장관은 이날 청와대에서 김영삼대통령으로부터 임명장을 받은뒤 종합청사 기자실에 들러'",
+    "동아일보 1996-01-31 \"총무처장관 曺海寧씨\" (BigKinds full text, news_id 01100401.19960131081320006, https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19960131081320006&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:27-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100401.19960131081320006.json), text: '金대통령은 31일 曺신임총무처장관에게 임명장을수여한다。' (named on 1996-01-30)",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '조해녕 1996년 1월 31일 ~ 1996년 12월 19일'"
+   ],
+   "end": "1996-12-20",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "세계일보 1996-12-21 \"8개 부처 개각 단행/안기부 1차장­경찰청장도 교체/김 대통령\" (BigKinds full text, news_id 01100701.19961221000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961221000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:06-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19961221000000101.json), text: '또 조해영 총무처장관 후임엔 김한규 신한국당 전의원이 기용됐으며'",
+    "동아일보 1996-12-21 p.5 \"「12.20개각」있던 날 표정\" (Naver News Library OCR text, article 1996122100209105005, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100209105005&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00020&pageNo=5&printNo=23402&publishType=00010, accessed 2026-09-26T09:35:19-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1996122100209105005.json), text: '曺海寧(조해녕)(조해녕)전장관은『연말에 개각이 있으면 당연히 물러날 것을 예상했다』며 담담한 표정.'",
+    "매일신문 1996-12-21 \"신임 각교에 임명장 金대통령\" (BigKinds full text, news_id 01500601.19961221163148001, https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19961221163148001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:43-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01500601.19961221163148001.json), text: '김영삼(金永三)대통령은 20일오후 청와대에서 정시채(丁時采)농림장관 등 8개부처신임장고나을 비롯, 장관급10명과 안기부1차장, 경찰청장 등에게 임명장을 수여했다.'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제30대 장관 조해녕 재임기간 1996년 1월 31일 ~ 1996년 12월 19일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "mp_hint": null,
+   "notes": "Named on 1996-01-30 and given his 임명장 on the morning of 1996-01-31 (매일경제, 서울신문 1996-02-01). Replaced in the reshuffle of 1996-12-20, in which the successor was named and received his 임명장 the same afternoon (세계일보, 매일신문 1996-12-21), so the end is 1996-12-20 (same-day handover). The MOIS page gives 1996-12-19. He later served as 내무부장관 from 1997-08-06 (lineage interior, 1998 holdover). Birth date from ko.wikipedia only (ko.wikipedia '조해녕' https://ko.wikipedia.org/w/index.php?oldid=42385629 (secondary, accessed 2026-09-25T13:29:03-0400)), as in interior.verified.json. Not in na_members_12_22.csv."
+  },
+  {
+   "name_en": null,
+   "name_en_source": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies before the transcript coverage (2000-06 to 2025-01).",
+   "name": "김한규",
+   "name_hanja": "金漢圭",
+   "birth_date": "1940-12-01",
+   "gender": "M",
+   "start": "1996-12-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1996-12-21 p.1 \"8개部處(부처) 장관 경질\" (Naver News Library OCR text, article 1996122100329101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100329101001&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00032&pageNo=1&printNo=15972&publishType=00010, accessed 2026-09-26T09:34:14-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1996122100329101001.json), text: '총무처장관에는 金漢圭前(김한규전)신한국당의원'",
+    "경향신문 1996-12-21 p.3 \"임명장 수여\" (Naver News Library OCR text, article 1996122100329103004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100329103004&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00032&pageNo=3&printNo=15972&publishType=00010, accessed 2026-09-26T09:35:20-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1996122100329103004.json), text: '金泳三(김영삼)대통령이 20일 오후 청와대에서 安光叴(안광구)통상산업부장관등 신임 장관들에게 임명장을 수여하고 있다.'",
+    "세계일보 1996-12-21 \"8개 부처 개각 단행/안기부 1차장­경찰청장도 교체/김 대통령\" (BigKinds full text, news_id 01100701.19961221000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961221000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:06-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19961221000000101.json), text: '이어 이날 오후 청와대에서 신임 각료들에게 임명장을 수여했다.'",
+    "문화일보 1996-12-21 \"12·20 개각 뒷얘기\" (BigKinds full text, news_id 01100501.19961221000000403, https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19961221000000403&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:38-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100501.19961221000000403.json), text: '김영삼 대통령은 20일 오후 청와대에서 새로 임명한 장·차관급 인사들에게 임명장을 수여하면서'",
+    "ko.wikipedia '대한민국 총무처' https://ko.wikipedia.org/w/index.php?oldid=41882248 (secondary, accessed 2026-09-24T22:43:02-0400; snapshot roster/sources/general_affairs/ext88/wiki_대한민국_총무처.json), 역대 장관 row '김한규 1996년 12월 20일 ~ 1997년 8월 5일'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제31대 장관 김한규 재임기간 1997년 3월 6일 ~ 1997년 8월 5일' (page gives 1997-03-06, contradicted by the news, see issues)",
+    "서울신문 1997-02-22 \"김한규 총무처장관에 듣는다(올해 국정 어떻게)\" (BigKinds full text, news_id 01100611.20160421070536570, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421070536570&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:45:03-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160421070536570.json), text: '지난해 말 총무처장관에 취임한뒤 이제 두달 남짓' (in office before 1997-03-06)"
+   ],
+   "end": "1997-08-06",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library OCR text, article 1997080600239101004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010, accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1997080600239101004.json), text: '총무처沈宇永(심우영)' (reshuffle of 1997-08-05)",
+    "매일신문 1997-08-06 \"TK 출신 각료 6명 포진\" (BigKinds full text, news_id 01500601.19970806004723001, https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19970806004723001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:45:39-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01500601.19970806004723001.json), text: '김한규전총무처장관이 물러나'",
+    "매일신문 1997-08-06 \"사태수습 만전지시\" (BigKinds full text, news_id 01500601.19970806004701001, https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19970806004701001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:01-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01500601.19970806004701001.json), text: '김대통령은 이날 오전 9시30분 청와대 조해녕내무, 김종구법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤'",
+    "한겨레 1997-08-07 p.7 \"정부부처 대응 KAL기 참사 청와대\"개각하자마자 대참사\"침통\" (Naver News Library OCR text, article 1997080700289107001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080700289107001&editNo=6&printCount=1&publishDate=1997-08-07&officeId=00028&pageNo=7&printNo=2951&publishType=00010, accessed 2026-09-26T09:35:23-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1997080700289107001.json), text: '김 대통령은 이날 오전 9시30분11개 부처 신임각료에게 임명장을 수여한 뒤'",
+    "행정안전부 열린장관실 역대장관, 총무처 tab https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/general_affairs/ext88/mois_govadmin.html), row '제31대 장관 김한규 재임기간 1997년 3월 6일 ~ 1997년 8월 5일' (page gives the day before the successor's start)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "mp_hint": "not a sitting NA member during the spell. Former 13th-14th NA member (대구 달서구, 달서구갑, seat to 1996-05-29), mona_cd KBJ1842L per na_members_12_22.csv",
+   "notes": "Named in the 1996-12-20 reshuffle as a former 신한국당 member of the Assembly and given his 임명장 the same afternoon (경향신문, 세계일보, 문화일보 1996-12-21). ko.wikipedia gives the same start. The MOIS page starts him on 1997-03-06, which leaves 1996-12-20..1997-03-05 uncovered on that page. News places him in office throughout that period (국민일보 1997-01-06, 서울신문 1997-02-22). In the 1997-03-05 reshuffle only the 총무처 차관 changed (우근민, appointed 1997-03-06), which may be the source of the MOIS date. He was replaced in the reshuffle announced on the afternoon of 1997-08-05, which removed the ministers holding 신한국당 membership. The successor 심우영 received his 임명장 at 09:30 on 1997-08-06 (매일신문 1997-08-06), so the end is 1997-08-06. The MOIS page gives 1997-08-05. Gender and birth date from the NA member record (na_members/na_members_12_22.csv (NA ALLNAMEMBER and 의원이력, built by the na_members agent), name 김한규, mona_cd KBJ1842L)."
+  },
+  {
+   "name": "심우영",
+   "name_hanja": "沈宇永",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1940-12-07",
+   "gender": null,
+   "ministry": "총무처",
+   "office_title": "총무처장관",
+   "deputy_pm": false,
+   "start": "1997-08-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "행정안전부 열린장관실 역대장관 https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do (tier 2, accessed 2026-09-24T22:44:08-0400), row '제32대 장관 심우영 재임기간 1997-08-06 ~ 1998-03-03', snapshot roster/sources/interior/mois_past_MinistryofGovernmentAdmin.html",
+    "BigKinds news metadata: 국민일보 1997-08-06 '선거관리내각 구성/당적각료 모두 교체… 고총리 유임/김 대통령' (news_id 01100201.19970806000000201); search '심우영 총무처장관' 1997-08-05..1997-08-07, result list snapshot roster/sources/interior/news/bigkinds_E02_심우영_총무처장관_1997-08-05_1997-08-07.json (accessed 2026-09-25T07:06:52-0400)",
+    "BigKinds news metadata: 중앙일보 1997-08-06 '[프로필]심우영 총무처장관' (news_id 01100901.19970806175014001); search '심우영 총무처장관' 1997-08-05..1997-08-07, result list snapshot roster/sources/interior/news/bigkinds_E02_심우영_총무처장관_1997-08-05_1997-08-07.json (accessed 2026-09-25T07:06:52-0400)",
+    "연합뉴스 1997-08-05 19:07:00 '金대통령 빠르면 6일 후속인사 단행' https://n.news.naver.com/mnews/article/001/0004188670 (accessed 2026-09-25T13:23:37-0400), snapshot roster/sources/interior/news/naver_001_0004188670.html",
+    "BigKinds news metadata: 매일신문 1997-08-06 '11개部處 장관경질' (news_id 01500601.19970806004706001); search '조해녕 내무' 1997-08-05..1997-08-07, result list snapshot roster/sources/interior/verify/bigkinds/bk_S97_조해녕_내무_1997-08-05_1997-08-07.json (accessed 2026-09-25T22:08:08-0400) (\"내무 曺海寧 ... 총무처 沈宇永 ... 김영삼(金永三)대통령은 5일 오후 ... 11개부처 장관을 교체하는 내각 개편을 단행했다\") [verifier]",
+    "ko.wikipedia '대한민국 행정안전부 장관' https://ko.wikipedia.org/w/index.php?oldid=41565380 (secondary, accessed 2026-09-24T22:43:00-0400), snapshot roster/sources/interior/verify/wiki_대한민국_행정안전부_장관.json, row '제33대 심우영 1997년 8월 6일 ~ 1998년 3월 3일' [verifier]",
+    "Namu Wiki '행정안전부장관' https://namu.wiki/w/%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%EC%9E%A5%EA%B4%80 (secondary, rendered with Playwright, accessed 2026-09-25T14:04:33-0400), snapshot roster/sources/interior/verify/namu_행정안전부장관.html, row '33대 심우영(沈宇永) 1997년 8월 6일 ~ 1998년 3월 3일' [verifier]"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices.json source GOA_5529: https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228 (accessed 2026-09-25T06:35:16-0400, snapshot inventory_sources/law_go_kr/govorg/text_19980228_58504.json) (offices.json OF004 to 1998-02-27)",
+    "연합뉴스 1998-02-28 15:27:00 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400), snapshot roster/sources/interior/news/naver_001_0004298139.html",
+    "연합뉴스 1998-03-02 11:14:00 '새 정부조직 발효 사흘째, 국정마비 계속' https://n.news.naver.com/mnews/article/001/0004372544 (accessed 2026-09-24T22:45:17-0400), snapshot roster/sources/interior/news/naver_001_0004372544.html"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript window.",
+   "notes": "YS-era holdover on 1998-02-25..02-27. Named 총무처장관 in the 1997-08-05 reshuffle (국민일보, 중앙일보 1997-08-06). 연합뉴스 reports the 임명장 ceremony for the new ministers on 1997-08-06. MOIS (총무처 tab) and ko.wikipedia list his 퇴임 as 1998-03-03. 총무처 was abolished by 법률 제5529호 effective 1998-02-28, and 연합뉴스 1998-03-02 reports 沈宇永총무처장관 on standby at home. Birth date from ko.wikipedia only (ko.wikipedia '심우영' https://ko.wikipedia.org/w/index.php?oldid=41473287 (secondary, accessed 2026-09-25T13:29:04-0400)).",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named by President-elect 노태우 in the cabinet list of 1988-02-19 and appointed after the inauguration on 1988-02-25.",
+   "nominee": "김용갑",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library OCR text, article 1988021900209201003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1988021900209201003.json), text: '총무처 金容甲(김용갑)'",
+    "서울신문 1988-02-20 \"새정부 內閣名單 발표\" (BigKinds full text, news_id 01100611.19880220164719005, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880220164719005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:20:54-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.19880220164719005.json), text: '총무처 金容甲'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on the afternoon of 1989-03-16, 임명장 on 1989-03-17.",
+   "nominee": "김용래",
+   "nomination_date": "1989-03-16",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1989-03-17",
+   "sources": [
+    "동아일보 1989-03-17 p.1 \"總務處(총무처)장관 金庸來(김용래)찌\" (Naver News Library OCR text, article 1989031700209201010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700209201010&editNo=2&printCount=1&publishDate=1989-03-17&officeId=00020&pageNo=1&printNo=20757&publishType=00020, accessed 2026-09-26T09:34:41-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1989031700209201010.json), text: '후임에 金庸來(김용래)전서울시장을 임명했다.'",
+    "서울신문 1989-03-17 \"새總務處장관 金庸來씨\" (BigKinds full text, news_id 01100611.19890317170446001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19890317170446001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:52-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.19890317170446001.json), text: '후임에 金庸來前서울시장을 임명했다.'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named in the 1990-03-17 reshuffle, 임명장 on 1990-03-19.",
+   "nominee": "이연택",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "조선일보 1990-03-18 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library OCR text, article 1990031800239101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010, accessed 2026-09-26T09:31:16-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1990031800239101001.json), text: '총무처장관에 李衍澤(이연택) 청와대행정首席(수석)'",
+    "서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds full text, news_id 01100611.20160420190235310, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160420190235310.json), text: '총무처장관에는 이연택청와대행정수석이 각각 기용됐다.'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on the afternoon of 1991-12-19, 임명장 on 1991-12-20.",
+   "nominee": "이상배",
+   "nomination_date": "1991-12-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1991-12-20",
+   "sources": [
+    "동아일보 1991-12-19 p.1 \"7部(부)장관更迭(경질)\" (Naver News Library OCR text, article 1991121900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991121900209201001&editNo=2&printCount=1&publishDate=1991-12-19&officeId=00020&pageNo=1&printNo=21683&publishType=00020, accessed 2026-09-26T09:31:27-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1991121900209201001.json), text: '총무처李相培(이상배)'",
+    "전북일보 1991-12-20 \"7部 長官 경질\" (BigKinds full text, news_id 01601101.19911220150517101, https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19911220150517101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:48-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01601101.19911220150517101.json), text: '총무처장관에는 이상배 전청와대 행정수석'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on the afternoon of 1992-06-25, 임명장 on 1992-06-26.",
+   "nominee": "이문석",
+   "nomination_date": "1992-06-25",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1992-06-26",
+   "sources": [
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library OCR text, article 1992062600209201004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1992062600209201004.json), text: '총무처장관에 李文錫(이문석)전1군사령관'",
+    "국민일보 1992-06-26 \"5부장관 경질/서울시장·정치특보도/“아는 사람끼리 잘해보기로”\" (BigKinds full text, news_id 01100201.19920626000000102, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920626000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:34-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100201.19920626000000102.json), text: '총무처장관에 이문석전1군사령관'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named in the morning and appointed in the afternoon of 1993-02-26.",
+   "nominee": "최창윤",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library OCR text, article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993022600209201001.json), text: '총무처장관에 崔昌潤(최창윤) 民自黨(민자당)총재비서실장'",
+    "서울신문 1993-02-27 \"부총리 이경식(기획원) 한완상(통일원)씨\" (BigKinds full text, news_id 01100611.20160421220436146, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220436146&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:00-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160421220436146.json), text: '총무처장관에는 최창윤전공보처장관'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on 1993-12-21, 임명장 on 1993-12-22.",
+   "nominee": "황영하",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "동아일보 1993-12-22 p.1 \"14部處(부처)장관 경질 부총리 丁渽錫(정재석)(기획원)李榮德(이영덕)(통일원)씨\" (Naver News Library OCR text, article 1993122200209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1993122200209101001.json), text: '총무처장관에黃榮夏(황영하)감사원사무총장'",
+    "중앙일보 1993-12-22 \"부총리 정재석(경제) 이영덕(통일)씨/14부장관 경질\" (BigKinds full text, news_id 01100901.19931222204343002, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19931222204343002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:40:30-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100901.19931222204343002.json), text: '▲총무처=황영하 감사원 사무총장'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on the afternoon of 1994-12-23, 임명장 on 1994-12-24.",
+   "nominee": "서석재",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library OCR text, article 1994122400329101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122400329101001.json), text: '총무처장관에 徐錫宰(서석재)민자당당무위원'",
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library OCR text, article 1994122400209101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1994122400209101001.json), text: '총무처 徐錫宰民自(서석재민자)당무위원'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named and appointed on 1995-08-07.",
+   "nominee": "김기재",
+   "nomination_date": "1995-08-07",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1995-08-07",
+   "sources": [
+    "동아일보 1995-08-08 p.1 \"총무처장관 金杞載(김기재)씨\" (Naver News Library OCR text, article 1995080800209101012, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995080800209101012&editNo=45&printCount=1&publishDate=1995-08-08&officeId=00020&pageNo=1&printNo=22933&publishType=00010, accessed 2026-09-26T09:35:14-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995080800209101012.json), text: '후임장관에 金杞載(김기재)전부산시장을 임명했다.'",
+    "한국경제 1995-08-08 \"총무처장관 김기재씨\" (BigKinds full text, news_id 02100601.20160115214051166, https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20160115214051166&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:42:33-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_02100601.20160115214051166.json), text: '김영삼 대통령은 7일 신임 총무처장관에 김기재 전부산시장을 임명했다.'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named on 1996-01-30, 임명장 on 1996-01-31.",
+   "nominee": "조해녕",
+   "nomination_date": "1996-01-30",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1996-01-31",
+   "sources": [
+    "동아일보 1996-01-31 \"총무처장관 曺海寧씨\" (BigKinds full text, news_id 01100401.19960131081320006, https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19960131081320006&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:27-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100401.19960131081320006.json), text: '후임에 曺海寧전대구시장을 임명했다。'",
+    "매일신문 1996-01-31 \"총무처長官 曺海寧씨\" (BigKinds full text, news_id 01500601.19960131232245001, https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19960131232245001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:55-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01500601.19960131232245001.json), text: '후임에 曺海寧전대구시장을 임명했다.'"
+   ]
+  },
+  {
+   "office_title": "총무처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. Named and appointed on 1996-12-20.",
+   "nominee": "김한규",
+   "nomination_date": "1996-12-20",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1996-12-20",
+   "sources": [
+    "경향신문 1996-12-21 p.1 \"8개部處(부처) 장관 경질\" (Naver News Library OCR text, article 1996122100329101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100329101001&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00032&pageNo=1&printNo=15972&publishType=00010, accessed 2026-09-26T09:34:14-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1996122100329101001.json), text: '총무처장관에는 金漢圭前(김한규전)신한국당의원'",
+    "세계일보 1996-12-21 \"8개 부처 개각 단행/안기부 1차장­경찰청장도 교체/김 대통령\" (BigKinds full text, news_id 01100701.19961221000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961221000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:06-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19961221000000101.json), text: '또 조해영 총무처장관 후임엔 김한규 신한국당 전의원이 기용됐으며'"
+   ]
+  }
+ ],
+ "acting": [
+  {
+   "name": "원진식",
+   "name_hanja": "元珍植",
+   "role": "총무처 차관 (appointed 1994-11-03, replaced by 윤웅규 in 1995-12), sitting 차관 during the vacancy. The record is inferred, since no source naming him 장관 직무대행 was found.",
+   "from": "1995-08-05",
+   "to": "1995-08-06",
+   "inferred": true,
+   "sources": [
+    "서울신문 1994-11-04 \"총무처차관 원진식씨\" (BigKinds full text, news_id 01100611.20160422170840075, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422170840075&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:25-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100611.20160422170840075.json), text: '정부는 3일 공석중인 총무처차관에 원진식 총무처기획관리실장을 승진,임명했다.'",
+    "한겨레 1994-11-04 \"총무처차관 원진식씨\" (BigKinds full text, news_id 01101001.19941104000000206, https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19941104000000206&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:43-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01101001.19941104000000206.json), text: '정부는 3일 공석중인 총무처 차관에 원진식 총무처 기획관리실장을 승진·임명했다.'",
+    "경향신문 1995-12-23 p.6 \"\"官街(관가)에도 세대교체 바람부나\"\" (Naver News Library OCR text, article 1995122300329106003, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122300329106003&editNo=40&printCount=1&publishDate=1995-12-23&officeId=00032&pageNo=6&printNo=15633&publishType=00010, accessed 2026-09-26T09:35:25-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995122300329106003.json), text: '元珍植(원진식)총무처차관' (still 차관 in 1995-12)",
+    "한겨레 1995-12-24 p.5 \"차관급인사 각 부처 표정\" (Naver News Library OCR text, article 1995122400289105004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122400289105004&editNo=5&printCount=1&publishDate=1995-12-24&officeId=00028&pageNo=5&printNo=2434&publishType=00010, accessed 2026-09-26T09:35:28-0400; snapshot roster/sources/general_affairs/ext88/articles/nl_1995122400289105004.json), text: '총무처는 지난해 11월 임명된원진식 차관이 윤웅규 차관으로 바뀌자' (replaced in 1995-12)",
+    "세계일보 1995-08-06 \"공석 총무처장관 7일께 후임 임명\" (BigKinds full text, news_id 01100701.19950806000000208, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19950806000000208&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:42:11-0400; snapshot roster/sources/general_affairs/ext88/articles/bk_01100701.19950806000000208.json), text: '김영삼 대통령은 서석재 전장관의 사퇴로 공석중인 총무처장관에' (vacancy on 1995-08-06)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Lineage mapping. The 1998 holdover 심우영 (총무처, 1997-08-06..1998-02-27) sits in interior.verified.json and is copied here with from_main true. offices_1988.json maps 총무처 to general_affairs (ministry_to_lineage_overrides), and build_panel.py applies that override and skips from_main spells from ext88 files, so the spell is counted once, under general_affairs. No tier 1-3 evidence against the main record was found. 매일신문 1997-08-06 (09:30 임명장) and 한겨레 1997-08-07 agree with its start of 1997-08-06."
+  },
+  {
+   "severity": "medium",
+   "desc": "MOIS 역대장관 page (총무처 tab, tier 2) disagrees with dated news on four dates. (1) 김용갑 end 1989-03-06, but he held press conferences as minister on 1989-03-13, resigned on 1989-03-14 and the resignation was accepted on 1989-03-16 (동아일보, 한겨레, 서울신문, 세계일보, 한국경제 1989-03-17). (2) 김한규 start 1997-03-06, but he was appointed on 1996-12-20 (경향신문, 세계일보, 문화일보, 매일신문 1996-12-21) and appears as minister in January and February 1997. (3) 장기오 end 1988-02-24, but the 김정렬 cabinet's resignations were accepted on the morning of 1988-02-25 and he received the Presidents at the inauguration that morning. (4) 서석재 end 1995-08-03, the day he submitted his resignation, which was accepted on 1995-08-04. This file follows the news in all four cases."
+  },
+  {
+   "severity": "medium",
+   "desc": "ko.wikipedia '대한민국 총무처' (oldid 41882248) gives 김용갑 1988-02-25..1989-03-08 and a 권한대행 손종석 (차관) for 1989-03-09..1989-03-15. Neither is supported by the news. 김용갑 was active as minister on 1989-03-13 and left the office only after submitting his resignation on the afternoon of 1989-03-14. Between 1989-03-14 and the acceptance on 1989-03-16 he was absent but still minister, so no vacancy and no acting record are entered. 손종석 was then 차관 and was reported as a possible successor (경향신문, 동아일보, 매일경제 1989-03-16)."
+  },
+  {
+   "severity": "medium",
+   "desc": "이문석 end 1993-02-26 (inferred_from_successor). A first build of this file used 1993-02-25 (medium) on the strength of 중앙일보 1993-02-25, which reports that the outgoing 현승종 cabinet submitted resignations on 1993-02-25 and all were accepted. The MOIS page and ko.wikipedia also print 1993-02-25. A second search (scripts general_affairs_ext88_09 and _10) found several day-after reports that the outgoing ministers left on 1993-02-26, the day the new cabinet was named and appointed. 서울신문 1993-02-27 calls 백광현 '이날 퇴임한', 동아일보 1993-02-26 p.3 reports 이임식 of 최각규, 이용만, 강현욱 and 한봉수 that morning, 한겨레 1993-02-26 writes '26일 일제히 퇴임하는 경제부처 장관들', and 국민일보 1993-02-27 describes 이임식 at several ministries at about the same hour. 매일경제 1993-02-24 had quoted a 총무처 official saying no resignation was needed. No report dates 이문석's own exit, so the successor's 임명장 day is used. When this file was rebuilt (2026-09-26), the agriculture, culture, defense, energy, environment, epb, finance, interior, justice, public_info, science, sports and unification ext88 files also ended their outgoing ministers on 1993-02-26. The education (조완규) and foreign (이상옥) ext88 files used 1993-02-25 from the same 중앙일보 report, so the 1993 transition was not yet uniform across lineages."
+  },
+  {
+   "severity": "low",
+   "desc": "Date convention. start is the 임명장 day. It was one or two days after the announcement in 1987-07 (13/14), 1989-03 (16/17), 1990-03 (17/19), 1991-12 (19/20), 1992-06 (25/26), 1993-12 (21/22), 1994-12 (23/24), 1996-01 (30/31) and 1997-08 (5/6), and the same day in 1988-02-25, 1993-02-26, 1995-08-07 and 1996-12-20. The MOIS start dates match the 임명장 day in every case except 김한규. When a predecessor had no separately dated resignation acceptance, end is the successor's 임명장 day (inferred_from_successor), following justice.verified.json and interior.verified.json. The MOIS page prints the day before in those cases. Dated acceptances were used for 장기오 (1988-02-25), 김용갑 (1989-03-16), 서석재 (1995-08-04) and 김기재 (1996-01-30)."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancy 1995-08-05..1995-08-06 between 서석재 (resignation accepted 1995-08-04) and 김기재 (appointed 1995-08-07). 세계일보 1995-08-06 describes the post as vacant. No source naming an acting head was found (News Library and BigKinds searched for 총무처 차관 and 직무대행 in 1995-08-01..08-09). 원진식, the sitting 차관 (appointed 1994-11-03, still 차관 in 1995-12), is entered as an inferred acting head, as justice.verified.json does for 김각영."
+  },
+  {
+   "severity": "low",
+   "desc": "No 총무처장관 in the window held a deputy PM title. The only deputy PM posts in the window were attached to 경제기획원 and 통일원 (offices_1988.json deputy_pm_designations)."
+  },
+  {
+   "severity": "low",
+   "desc": "Person fields. Birth dates come from the NA member record where the person sat in the Assembly (김용갑, 이상배, 최창윤, 서석재, 김기재, 김한규) and from ko.wikipedia otherwise (장기오, 김용래, 이연택, 황영하, 조해녕). For 김기재 the NA record (1946-09-06) and ko.wikipedia (1946-01-01) differ, and the NA record is used. The ko.wikipedia article '이문석' is about a namesake, so 이문석's birth date is left empty. Gender is filled only from NA records."
+  },
+  {
+   "severity": "low",
+   "desc": "No 총무처 minister in the window held an Assembly seat during his spell (checked against na_members_12_22.csv). 서석재 lost his 14th-term seat on 1993-01-29 and 김한규's 14th term ended on 1996-05-29, both before their spells."
+  }
+ ],
+ "continuity": {
+  "vacancies": [
+   {
+    "after": "서석재",
+    "before": "김기재",
+    "vacant_from": "1995-08-05",
+    "vacant_to": "1995-08-06",
+    "days": 2,
+    "acting": [
+     "원진식 1995-08-05..1995-08-06 (inferred)"
+    ],
+    "days_without_acting_record": 0
+   }
+  ],
+  "same_day_handovers": [
+   "1988-02-25 (장기오 -> 김용갑)",
+   "1990-03-19 (김용래 -> 이연택)",
+   "1991-12-20 (이연택 -> 이상배)",
+   "1992-06-26 (이상배 -> 이문석)",
+   "1993-02-26 (이문석 -> 최창윤)",
+   "1993-12-22 (최창윤 -> 황영하)",
+   "1994-12-24 (황영하 -> 서석재)",
+   "1996-12-20 (조해녕 -> 김한규)",
+   "1997-08-06 (김한규 -> 심우영)"
+  ],
+  "next_day_handovers": [
+   "1989-03-16/1989-03-17 (김용갑 -> 김용래)",
+   "1996-01-30/1996-01-31 (김기재 -> 조해녕)"
+  ],
+  "window_covered": "1987-07-14..1998-02-27",
+  "note": "Checked at day level from 장기오 (in office on 1988-02-25) to 심우영 (to 1998-02-27, 총무처 abolished 1998-02-28)."
+ },
+ "build": {
+  "builder": "roster builder 1988-1998, lineage general_affairs",
+  "scripts": [
+   "general_affairs_ext88_01_lists.py",
+   "general_affairs_ext88_02_search.py",
+   "general_affairs_ext88_03_imyeongjang.py",
+   "general_affairs_ext88_04_acting_persons.py",
+   "general_affairs_ext88_05_gapfill.py",
+   "general_affairs_ext88_06_articles.py",
+   "general_affairs_ext88_07_articles_extra.py",
+   "general_affairs_ext88_08_build.py",
+   "general_affairs_ext88_09_1993end.py",
+   "general_affairs_ext88_10_1993end_articles.py"
+  ],
+  "sources_dir": "roster/sources/general_affairs/ext88",
+  "method": "Holder list from the MOIS 총무처 역대장관 page and ko.wikipedia '대한민국 총무처'. Dates from day-of news in the Naver News Library (동아, 경향, 매경, 조선, 한겨레) and BigKinds full text (서울신문, 중앙, 한국, 세계, 국민, 문화, 한국경제, 매일신문 and regional papers), with the 대통령기록관 schedule where it has a row. Each date has at least two independent sources outside Wikipedia. Quotes are copied verbatim from the saved OCR or full text by general_affairs_ext88_08_build.py."
+ },
+ "verification": {
+  "verified_at": "2026-09-26T13:58:35-0400",
+  "verifier": "adversarial verifier, lineage general_affairs, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/general_affairs.ext88.json",
+  "input_built_at": "2026-09-26T12:51:37-0400",
+  "started_at": "2026-09-26T13:26:45-0400",
+  "steps_done": [
+   "step 0 (2026-09-26T13:26:45-0400): read builder file (13 spells, 11 nominations, 1 acting, 9 issues), offices_1988.json OFA06, toolkit. Exclusion set of builder-cited sources written to roster/sources/general_affairs/ext88_verify/builder_cited.json by roster/scripts/general_affairs_ext88_verify_00_setup.py.",
+   "step 1 (complete, last query accessed 2026-09-26T13:50:47-0400): independent holder list from a News Library tally of names printed before 총무처장관, 80 windows, monthly 1987-07..1991-11 and three-month windows 1991-09..1998-03 (roster/scripts/general_affairs_ext88_verify_01_monthly_tally.py, roster/sources/general_affairs/ext88_verify/monthly_tally.json). A second keyword (총무장관) was planned and then dropped before it ran, to save the shared throttle.",
+   "step 2a (2026-09-26T13:43:12-0400): tier 2 rows not cited by the builder, 국사편찬위원회 대한민국사연표 day lists for 36 of 46 planned event days with 19 entry pages (16 fetches to db.history.go.kr timed out and are logged in tier2.json failures), and 대통령기록관 schedule rows for 13 president-years 1987-1998 (roster/scripts/general_affairs_ext88_verify_02_tier2.py, roster/sources/general_affairs/ext88_verify/tier2.json).",
+   "step 3 (2026-09-26T13:43:12-0400): all 117 quotes in the builder file were found in the snapshots they cite (roster/scripts/general_affairs_ext88_verify_04_quotecheck.py, roster/sources/general_affairs/ext88_verify/quotecheck.json).",
+   "step 4 (2026-09-26T13:58:35-0400): BigKinds listings for 37 event and election windows (roster/scripts/general_affairs_ext88_verify_03_bk_search.py, roster/sources/general_affairs/ext88_verify/bk_search_listing.json) and full text of 35 articles, none cited by the builder (roster/scripts/general_affairs_ext88_verify_05_bk_fulltext.py, roster/sources/general_affairs/ext88_verify/bk_fulltext.json).",
+   "step 5 (2026-09-26T13:58:35-0400): targeted News Library searches per event, 45 of 63 planned queries run (roster/scripts/general_affairs_ext88_verify_06_nl_targeted.py, roster/sources/general_affairs/ext88_verify/nl_targeted.json). Queries that mix a hanja name with a hangul word, and some hanja names alone (金庸來, 金杞載), return 0 hits, so hangul repeats were added and run first. The 18 remaining low-priority queries were stopped unrun once the decisive ones had returned. OCR text of 34 chosen articles, none cited by the builder, via roster/scripts/general_affairs_ext88_verify_07_nl_articles.py (roster/sources/general_affairs/ext88_verify/nl_articles.json). Two fetch runs overlapped once and one stored article was lost from the JSON. It was fetched again from the cache before the build.",
+   "step 6 (2026-09-26T13:58:35-0400): build with quote checks (roster/scripts/general_affairs_ext88_verify_08_build.py and _08_part2.py). Every quote in per_spell is copied from the saved text (original characters, including the CJK compatibility ideographs of the OCR text) with runs of whitespace collapsed to one space. Matching was done after NFKC normalisation. News Library quotes were checked against the OCR text, not against the page images.",
+   "resume (2026-09-26T21:17:20-0400): the earlier run had finished with state complete, so nothing was rebuilt. All 77 quotes in per_spell were found again in their snapshots after NFKC normalisation and whitespace collapse (roster/scripts/general_affairs_ext88_verify_09_resume_quotecheck.py). The builder-cited 매일경제 1993-02-24 p.2 article (총무처 ruling that the outgoing ministers have no term limit and leave when successors are appointed) was not added as verifier evidence because the builder already relies on it. Only the cross-lineage sentence in disputes[0] was refreshed (roster/scripts/general_affairs_ext88_verify_10_resume_update.py). Spells, nominations and acting records are unchanged.",
+   "resume2 (2026-09-27T21:51:42-0400): the earlier run had finished with state complete, and the builder file is unchanged (built_at 2026-09-26T12:51:37-0400, spells, nominations and acting records identical). All quotes in per_spell, the 77 earlier ones and the 16 added here, were found in their snapshots (roster/scripts/general_affairs_ext88_verify_09_resume_quotecheck.py, run again after the merge). The from_main 심우영 record is still identical to roster/interior.verified.json apart from the from_main flag. Two sources new to both builder and verifier were added (roster/scripts/general_affairs_ext88_verify_11_resume2_sources.py, output roster/sources/general_affairs/ext88_verify/resume2/). One is the 국가기록원 기관장 list of 총무처 (tier 2), used as a third holder list and as a date check on every spell. The other is 조선일보 1993-02-24 p.3 on the 1993 handover. They were merged by roster/scripts/general_affairs_ext88_verify_12_resume2_update.py. No spell value changed and no status changed. An unformatted path placeholder in completeness (the BigKinds election listing) was replaced by the real path."
+  ],
+  "summary": {
+   "n_spells": 13,
+   "confirmed": 12,
+   "corrected": 0,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 11,
+   "acting_entries": 1,
+   "fields_changed": 0
+  },
+  "completeness": [
+   "Independent holder list: News Library tally of the name printed before 총무처장관, monthly windows 1987-07..1991-11 and three-month windows 1991-09..1998-03 (80 windows, script roster/scripts/general_affairs_ext88_verify_01_monthly_tally.py, output roster/sources/general_affairs/ext88_verify/monthly_tally.json, search snapshots roster/sources/general_affairs/ext88_verify/nl/tally_*.json, first query accessed 2026-09-26T13:29:08-0400). The builder took its list from the MOIS page and ko.wikipedia, which this tally does not use. The leading current-holder name runs 장기오 (1987-07..1988-02), 김용갑 (1988-02..1989-03), 김용래 (1989-03..1990-03), 이연택 (1990-03..1991-12), 이상배 (1991-12..1992-06), 이문석 (1992-06..1993-02), 최창윤 (1993-02..1993-12), 황영하 (1993-12..1994-12), 서석재 (1994-12..1995-08), 김기재 (1995-08..1996-01), 조해녕 (1996-01..1996-12), 김한규 (1996-12..1997-08), 심우영 (1997-08..1998-02), with two names only in the windows of a handover. The other names are earlier ministers (김용휴, 정관용, 박찬긍, named as former holders) or words the name pattern caught. No additional holder and no short tenure.",
+   "resume2 (2026-09-27T21:51:42-0400). Third holder list, independent of the builder's: the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder). It lists 13 장관 from the holdover 장기오 (listed to 1988-02-24 under its day-before convention) to 심우영 (장기오, 김용갑, 김용래, 이연택, 이상배, 이문석, 최창윤, 황영하, 서석재, 김기재, 조해녕, 김한규, 심우영), the same persons in the same order as this file. Every start date agrees with this file. So do 김용갑's end (1989-03-16) and 김한규's start (1996-12-20), where the MOIS page differs, so the list is not a copy of the current MOIS page. The only end-date differences are the day-before-successor convention on same-day handovers, 서석재 (1995-08-03, the day he handed in his resignation) and 심우영 (1998-03-02, outside the window). No holder is missing and no short tenure is hidden.",
+   "1988 transition: one 전두환-era holdover (장기오, appointed 1987-07-14), included with one day in the window. 1993 transition: 이문석 (노태우 appointee) held over into the 김영삼 presidency until the first 김영삼 cabinet (end disputed by one day, see per_spell 5). Office unchanged 1988-02-25..1998-02-27 (offices_1988.json OFA06), so no rename or merger falls inside a tenure. The abolition on 1998-02-28 ends the from_main spell of 심우영.",
+   "Elections: 이연택 left in the 1991-12-19 reshuffle and ran in 전주 완산 in the 1992-03-24 general election (per_spell 3). 김기재 resigned on 1996-01-30 to run in 해운대·기장을 in the 1996-04-11 election (per_spell 9). No 총무처장관 left to run in the 1988-04-26 general election or the 1995-06-27 local elections: BigKinds '총무처장관 출마' 1988-02-25..04-30 and 1995-03-01..06-30 (jobs X_1988_elec_off, X_1995_local in roster/sources/general_affairs/ext88_verify/bk_search_listing.json) name only former holders (김용갑 declared for Seoul mayor on 1995-04-17 as a former minister), and the tally shows the sitting minister unchanged across those months.",
+   "Reshuffles that kept the 총무처장관 (tally and chronology): 1988-12-05 (김용갑), 1990-12-27 and 1991-05 (이연택), 1992-10-09 neutral cabinet (이문석), 1994-04-30 (황영하), 1995-12-20 (김기재), 1996-08-08 (조해녕), 1997-03-05 (김한규, the reshuffle list in 국민일보 1997-03-06 has no 총무처 entry)."
+  ],
+  "continuity_check": [
+   {
+    "from": "장기오 end 1988-02-25",
+    "to": "김용갑 start 1988-02-25",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "김용갑 end 1989-03-16",
+    "to": "김용래 start 1989-03-17",
+    "gap_days": 0,
+    "note": "resignation accepted on the evening of 16 Mar, successor's 임명장 on the afternoon of 17 Mar"
+   },
+   {
+    "from": "김용래 end 1990-03-19",
+    "to": "이연택 start 1990-03-19",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "이연택 end 1991-12-20",
+    "to": "이상배 start 1991-12-20",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "이상배 end 1992-06-26",
+    "to": "이문석 start 1992-06-26",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "이문석 end 1993-02-26",
+    "to": "최창윤 start 1993-02-26",
+    "gap_days": 0,
+    "note": "same-day handover. With the disputed alternative end of 1993-02-25 it would be a next-day handover, still without a vacant day."
+   },
+   {
+    "from": "최창윤 end 1993-12-22",
+    "to": "황영하 start 1993-12-22",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "황영하 end 1994-12-24",
+    "to": "서석재 start 1994-12-24",
+    "gap_days": 0,
+    "note": "joint 이·취임식 on 24 Dec"
+   },
+   {
+    "from": "서석재 end 1995-08-04",
+    "to": "김기재 start 1995-08-07",
+    "gap_days": 2,
+    "note": "vacancy 1995-08-05..06 confirmed by 매일경제 1995-08-06 (post unfilled, successor expected on the 7th). The builder's inferred acting head 원진식 (차관) is kept. No source naming a 직무대행 was found in the verifier's searches either. resume2 (2026-09-27T21:51:42-0400). The 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) lists [quote: '원진식 차관 ( 1994.10.01 ~ 1995.12.01 )'] (month precision), which fits 원진식 being the sitting 차관 during the 1995-08-05..06 vacancy. It does not name him 직무대행, so the acting record stays inferred."
+   },
+   {
+    "from": "김기재 end 1996-01-30",
+    "to": "조해녕 start 1996-01-31",
+    "gap_days": 0,
+    "note": "resignation accepted 30 Jan, successor's 임명장 31 Jan"
+   },
+   {
+    "from": "조해녕 end 1996-12-20",
+    "to": "김한규 start 1996-12-20",
+    "gap_days": 0,
+    "note": "same-day handover"
+   },
+   {
+    "from": "김한규 end 1997-08-06",
+    "to": "심우영 start 1997-08-06",
+    "gap_days": 0,
+    "note": "same-day handover, successor's 임명장 at 09:30"
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage).",
+  "field_hygiene": [
+   "appointing_president matches the president on each start date: 전두환 for 장기오 (1987-07-14), 노태우 for 김용갑 to 이문석 (1988-02-25..1992-06-26), 김영삼 for 최창윤 to 심우영 (1993-02-26..1997-08-06). appointed_by_acting_president false for all, correct (no acting president in the window).",
+   "deputy_pm false for all spells. offices_1988.json gives deputy_pm_title [] for OFA06 and its deputy_pm_designations name only 경제기획원, 통일원 and 재정경제원.",
+   "ministry 총무처 and office_title 총무처장관 for all spells, matching OFA06 (1988-02-25..1998-02-27). reorg_continuation false and reappointed_on_reorg null for all, correct since the office was not reorganised inside any tenure. 심우영 ends ministry_reorganized on 1998-02-27 (abolition by 법률 제5529호 effective 1998-02-28).",
+   "from_main record (심우영) is identical to roster/interior.verified.json apart from the from_main flag (checked by roster/scripts/general_affairs_ext88_verify_08_build.py).",
+   "pm_status, pm_acting_until null and suspensions [] for all, correct for a non-PM lineage. transcript_check not_applicable (no_transcript_data for the from_main record), correct since all spells end before 2000-06.",
+   "name_hanja matches the hanja printed in the News Library articles cited here (張基梧, 金容甲, 金庸來, 李衍澤, 李相培, 李文錫, 崔昌潤, 黃榮夏, 徐錫宰, 金杞載, 曺海寧, 金漢圭, 沈宇永).",
+   "All 117 quotes in the builder file are present in the snapshots it cites (roster/scripts/general_affairs_ext88_verify_04_quotecheck.py, roster/sources/general_affairs/ext88_verify/quotecheck.json)."
+  ],
+  "nominations_check": [
+   "11 nominations, one per in-window spell except 장기오 (appointed 1987, before the window) and 심우영 (from_main). nomination_date is the announcement day and outcome_date the 임명장 day, and both agree with the per_spell evidence above and the 대한민국사연표 reshuffle entries (1988-02-19, 1990-03-17, 1991-12-19, 1992-06-25, 1993-02-26, 1993-12-21, 1994-12-23, 1996-12-20). hearing_required false and na_consent_vote not_applicable are correct for 국무위원 before 2005-07-28."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "장기오",
+    "ministry": "총무처",
+    "start": "1987-07-14",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1987-07-14 confirmed: 서울신문 1987-07-14 '새總理 金貞烈씨 「選擧관리」 대폭 改閣 단행' (BigKinds news_id 01100611.19870714152814001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19870714152814001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:29-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.19870714152814001.json) [quote: '총무처장관에 張基梧총무처차관'] [summary: named on the afternoon of 13 Jul 1987 in the 김정렬 reshuffle] | 경향신문 1987-07-14 p.7 '民主(민주)발전 加速化(가속화)\"막중한責任(책임)\"' (Naver News Library article 1987071400329207001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1987071400329207001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400329207001&editNo=3&printCount=1&publishDate=1987-07-14&officeId=00032&pageNo=7&printNo=12859&publishType=00020, accessed 2026-09-26T09:09:01-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1987071400329207001.json) [quote: '새로바뀐장관들의 이·취임식등으로 14일 하루를 바쁘게 보낸'] [summary: evening paper of 14 Jul: the new ministers held their 이·취임식 on the 14th] | 중앙일보 1987-07-15 '전산화회의' (BigKinds news_id 01100901.19870715194828004, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19870715194828004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:45:01-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19870715194828004.json) [quote: '장기오총무처장관은 이자리에서'] [summary: acting as 총무처장관 at the 15 Jul computerisation meeting] | 국사편찬위원회 대한민국사연표 1987-07-13 entry tcct_1987_07_13_0010 (https://db.history.go.kr/id/tcct_1987_07_13_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1987_07_13&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:06:16-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1987-07-13.html, tier 2) [quote: '국무총리 김정렬 임명 등 내각 대폭 개편'] [summary: reshuffle announced 13 Jul]. The announcement on the 13th and the 이·취임식 on the 14th agree with the builder's 임명장 day.",
+     "end 1988-02-25 confirmed (same-day handover): 한국경제 1988-02-24 '[政街산책] 25일 0시부터 權限행사' (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '청와대로 들어와 盧대통령으로부터 임명장을 받는 시각부터 정식 국무위원 자격을 가질 것'] [summary: the new ministers became 국무위원 only on receiving their 임명장 on the morning of 25 Feb, so the outgoing cabinet held office until then] | 서울신문 1988-02-26 '우린 「함께 걷는 민主主義」출발선상에' (BigKinds news_id 01100611.19880226163139001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163139001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:58:56-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.19880226163139001.json) [quote: '盧泰愚대통령은 25일 상오 취임식후 靑瓦臺 집무실에서 국무위원 임명장에 서명'] [summary: 노태우 signed the 국무위원 임명장 on the morning of 25 Feb 1988]. The MOIS page and ko.wikipedia print 1988-02-24. The 25 Feb end follows the rule used in every ext88 lineage for the 1988 handover.",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '장기오 장관 ( 1987.07.14 ~ 1988.02.24 )'] [summary: start agrees. end 1988-02-24 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "1": {
+    "name": "김용갑",
+    "ministry": "총무처",
+    "start": "1988-02-25",
+    "end": "1989-03-16",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed: 서울신문 1988-02-26 '우린 「함께 걷는 민主主義」출발선상에' (BigKinds news_id 01100611.19880226163139001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163139001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:58:56-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.19880226163139001.json) [quote: '국무위원 임명장에 서명하는 것으로 대통령 집무를 시작했다'] [summary: 국무위원 임명장 signed on the morning of 25 Feb 1988] | 중앙일보 1988-02-27 '일방적 지시 대신 진지한 토론|노 대통령 취임 후 첫 국무회의 표정' (BigKinds news_id 01100901.19880227005303002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880227005303002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:36:11-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19880227005303002.json) [quote: '회의에 앞서 김용갑 총무처장관이 국무위원들에게'] [summary: in office as 총무처장관 at the cabinet meeting of 26 Feb 1988] | 국사편찬위원회 대한민국사연표 1988-02-19 entry tcct_1988_02_19_0010 (https://db.history.go.kr/id/tcct_1988_02_19_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1988_02_19&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:24:53-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1988-02-19.html, tier 2) [quote: '새 정부 첫 내각 발표'] [summary: first 노태우 cabinet announced 19 Feb 1988]",
+     "end 1989-03-16 confirmed (resignation accepted): 경향신문 1989-03-17 p.1 '총무처長官(장관) 金庸來(김용래)씨' (Naver News Library article 1989031700329201008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031700329201008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700329201008&editNo=3&printCount=1&publishDate=1989-03-17&officeId=00032&pageNo=1&printNo=13377&publishType=00020, accessed 2026-09-26T13:50:11-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031700329201008.json) [quote: '盧泰愚대통령은 16일하오金容甲총무처장관의 사표를수리하고'] [summary: evening paper of 17 Mar: resignation accepted on the afternoon of 16 Mar] | 조선일보 1989-03-17 p.2 '金(김)장관 사표 언급없이 受理(수리)' (Naver News Library article 1989031700239102024, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031700239102024), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700239102024&editNo=1&printCount=1&publishDate=1989-03-17&officeId=00023&pageNo=2&printNo=20909&publishType=00010, accessed 2026-09-26T13:52:32-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031700239102024.json) [quote: '盧泰愚대통령은 16일 저녁 6시30분쯤청와대 집무실로 올라온 姜英勳국무총리로부터 金容甲 총무처장관의 사표를 제출받고'] [summary: the resignation was put to the President at about 18:30 on 16 Mar and accepted without comment] | 매일경제 1989-03-17 p.1 '총무처 長官(장관)에 金庸來(김용래)씨 임명' (Naver News Library article 1989031700099201015, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031700099201015), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700099201015&editNo=1&printCount=1&publishDate=1989-03-17&officeId=00009&pageNo=1&printNo=7090&publishType=00020, accessed 2026-09-26T13:51:49-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031700099201015.json) [quote: '盧泰愚대통령은 16일하오金容甲총무처장관의 사표를수리하고'] [summary: same, independent paper] | 중앙일보 1989-03-17 '\"중간평가「신임」걸어야 합니다\"|사표 던진 김용갑 전 총무처 단독인터뷰' (BigKinds news_id 01100901.19890317110432001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890317110432001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:46:51-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19890317110432001.json) [quote: '김용갑 전 총무처장관이 4일 만인 17일 아침 다시 나타났다'] [summary: called former minister on the morning of 17 Mar]",
+     "MOIS end 1989-03-06 and ko.wikipedia end 1989-03-08 (with a 손종석 권한대행 from 03-09) refuted: 동아일보 1989-03-13 p.1 '勞組法(노조법)개정안 거부권 건의' (Naver News Library article 1989031300209201006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031300209201006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031300209201006&editNo=2&printCount=1&publishDate=1989-03-13&officeId=00020&pageNo=1&printNo=20753&publishType=00020, accessed 2026-09-26T13:52:08-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031300209201006.json) [quote: '金容甲총무처장관은 13일지난 임시국회에서'] [summary: acting as minister on 13 Mar 1989 (press statement on the 노동조합법 revision)] | 동아일보 1989-03-15 p.2 '시내某處(모처)서 電話(전화)연락' (Naver News Library article 1989031500209202005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031500209202005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031500209202005&editNo=2&printCount=1&publishDate=1989-03-15&officeId=00020&pageNo=2&printNo=20755&publishType=00020, accessed 2026-09-26T13:52:50-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031500209202005.json) [quote: '金容甲총무처장관은 14일 오후 3시경집무실에서 사퇴성명서를 작성'] [summary: still working in his office on the afternoon of 14 Mar when he drafted the resignation] | 중앙일보 1989-03-15 '김용갑 총무처 돌연 사표' (BigKinds news_id 01100901.19890315110307002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890315110307002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:46:13-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19890315110307002.json) [quote: '김용갑 총무처장관이 14일 오후 돌연 장관 사퇴서를 제출했다'] [summary: resignation submitted on the afternoon of 14 Mar]. No vacancy between 14 and 16 Mar, since the resignation had not been accepted.",
+     "1988-02-25 임명장 time re-checked: 매일경제 1988-02-25 p.1 '李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장' (Naver News Library article 1988022500099201010, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022500099201010), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1988022500099201010.json) [quote: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게'] [summary: evening paper of 25 Feb 1988: 임명장 to the new cabinet that morning] | 경향신문 1988-02-26 p.4 '\"閣下(각하)\"없애고 本人(본인) 대신\"제가…\"' (Naver News Library article 1988022600329204002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022600329204002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329204002&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=4&printNo=13050&publishType=00020, accessed 2026-09-26T09:05:44-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1988022600329204002.json) [quote: '상오11시40분 청와대 본관대접견실에서 있은 신임각료및 수석비서관임명장 수여식'] [summary: ceremony at 11:40 on 25 Feb]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '김용갑 장관 ( 1988.02.25 ~ 1989.03.16 )'] [summary: start agrees. end agrees]."
+    ]
+   },
+   "2": {
+    "name": "김용래",
+    "ministry": "총무처",
+    "start": "1989-03-17",
+    "end": "1990-03-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1989-03-17 confirmed: 경향신문 1989-03-17 p.1 '총무처長官(장관) 金庸來(김용래)씨' (Naver News Library article 1989031700329201008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031700329201008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700329201008&editNo=3&printCount=1&publishDate=1989-03-17&officeId=00032&pageNo=1&printNo=13377&publishType=00020, accessed 2026-09-26T13:50:11-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031700329201008.json) [quote: '盧대통령은 17일하오 신임金장관에게 임명장을주었다'] [summary: evening paper of 17 Mar: 임명장 on the afternoon of 17 Mar] | 매일경제 1989-03-17 p.1 '총무처 長官(장관)에 金庸來(김용래)씨 임명' (Naver News Library article 1989031700099201015, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989031700099201015), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989031700099201015&editNo=1&printCount=1&publishDate=1989-03-17&officeId=00009&pageNo=1&printNo=7090&publishType=00020, accessed 2026-09-26T13:51:49-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1989031700099201015.json) [quote: '후임에 金庸來 前서울시장을 임명했다'] [summary: named on 16 Mar]",
+     "end 1990-03-19 confirmed (inferred from successor, same-day handover): 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (BigKinds news_id 01101101.19900320000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:23-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101101.19900320000000301.json) [quote: '기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'] [summary: the 3·17 ministers received their 임명장 on the morning of 19 Mar 1990] | 한겨레 1990-03-17 '내각 일괄사표 제출/오늘 개각 단행/17∼18개 부처 교체될 듯' (BigKinds news_id 01101001.19900317000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19900317000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:17:37-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101001.19900317000000104.json) [quote: '16일 오후 5시에 열린 임시 국무위원간담회에서 강영훈 국무총리를 비롯한 전 국무위원이 노태우 대통령에게 사표를 제출했다'] [summary: whole cabinet submitted resignations on 16 Mar] | 서울신문 1990-03-18 '「3ㆍ17」 개각… 정관가의 표정' (BigKinds news_id 01100611.20160420190239995, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190239995&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:23:53-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.20160420190239995.json) [quote: '김용래장관의 경질을TV발표로 확인한 총무처 직원들은'] [summary: replacement announced on the morning of 17 Mar]. No report dates 김용래's own exit. Some outgoing ministers held their 이임식 on 17 Mar (same article), which does not date the legal end, so the successor's 임명장 day stays, as in every other lineage for this reshuffle.",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '김용래 장관 ( 1989.03.17 ~ 1990.03.18 )'] [summary: start agrees. end 1990-03-18 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "3": {
+    "name": "이연택",
+    "ministry": "총무처",
+    "start": "1990-03-19",
+    "end": "1991-12-20",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-03-19 confirmed: 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (BigKinds news_id 01101101.19900320000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:23-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101101.19900320000000301.json) [quote: '노대통령은 이날 상오 신임 15개부처장관과 대통령비서실장 등 장관급 정부직 인사 19명에게 임명장을 수여한 뒤'] [summary: 임명장 on the morning of 19 Mar 1990] | 국사편찬위원회 대한민국사연표 1990-03-17 entry tcct_1990_03_17_0010 (https://db.history.go.kr/id/tcct_1990_03_17_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1990_03_17&level=4&types=o&contentsYn=Y, accessed 2026-09-26T08:49:48-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1990-03-17.html, tier 2) [quote: '15개 부처 장관 교체'] [summary: announcement 17 Mar]",
+     "end 1991-12-20 confirmed (inferred from successor, same-day handover): 한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101101.19911220000000102.json) [quote: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화,이진삼 체육청소년,한봉수상공,서영택건설,이상배 총무처'] [summary: successor's 임명장 on the morning of 20 Dec 1991] | 국사편찬위원회 대한민국사연표 1991-12-19 entry tcct_1991_12_19_0010 (https://db.history.go.kr/id/tcct_1991_12_19_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1991_12_19&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:10:57-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1991-12-19.html, tier 2) [quote: '7개 부처장관 경질'] [summary: announcement 19 Dec]",
+     "end_reason resigned_to_run confirmed (he ran in the 14th general election): 동아일보 1991-12-20 p.3 '核心(핵심)개편유보「모호한 補閣(보각)」' (Naver News Library article 1991122000209203003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991122000209203003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203003&editNo=2&printCount=1&publishDate=1991-12-20&officeId=00020&pageNo=3&printNo=21684&publishType=00020, accessed 2026-09-26T10:14:30-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1991122000209203003.json) [quote: '李衍澤총무처장관의 경질은 14대총선에서 大邱壽城區와 全北全州에서 각각 출마할 뜻을 굳혔기 때문에'] [summary: replaced because he had decided to run in 전주] | 전북일보 1992-01-09 '[八達路] 姜차관 퇴진소식… 道廳 “일 많이 했는데…” 아쉬운 반응' (BigKinds news_id 01601101.19920109150517117, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19920109150517117&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:56:01-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01601101.19920109150517117.json) [quote: '지난해 연말 이연택 총무처장관에 이어 8일 강현욱 경제기획원 차관이 지역구 출마를 위해 퇴진하자'] [summary: left office to run for a district seat] | 한겨레 1992-03-20 '전주 완산(후보에게 묻는다)' (BigKinds news_id 01101001.19920320000000403, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19920320000000403&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:32-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101001.19920320000000403.json) [quote: '이연택 민자'] [summary: 민자당 candidate for 전주 완산 in the March 1992 election]. The formal act was a replacement in the 12·19 reshuffle. sports.ext88 codes 박철언, who left in the same reshuffle to run, as replaced (see verification.disputes).",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '이연택 장관 ( 1990.03.19 ~ 1991.12.19 )'] [summary: start agrees. end 1991-12-19 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "4": {
+    "name": "이상배",
+    "ministry": "총무처",
+    "start": "1991-12-20",
+    "end": "1992-06-26",
+    "status": "confirmed",
+    "checks": [
+     "start 1991-12-20 confirmed: 한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101101.19911220000000102.json) [quote: '이상배 총무처'] [summary: 임명장 on the morning of 20 Dec 1991] | 조선일보 1991-12-22 p.2 '◇신임각료와 간담회' (Naver News Library article 1991122200239102002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991122200239102002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122200239102002&editNo=1&printCount=1&publishDate=1991-12-22&officeId=00023&pageNo=2&printNo=21850&publishType=00010, accessed 2026-09-26T13:47:05-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1991122200239102002.json) [quote: '李相培총무처장관'] [summary: at the PM's meeting with the new ministers on 21 Dec]",
+     "end 1992-06-26 confirmed (moved to 서울특별시장 the same day): 경향신문 1992-06-27 p.4 '\"호흡같이할 인물기용\"' (Naver News Library article 1992062700329104009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062700329104009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700329104009&editNo=15&printCount=1&publishDate=1992-06-27&officeId=00032&pageNo=4&printNo=14448&publishType=00010, accessed 2026-09-26T09:36:14-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1992062700329104009.json) [quote: '盧泰愚대통령은 26일 상오 신임 崔永喆부총리겸통일원장관,李衍澤노동 李文錫총무처李在昌환경처장관,李相培서울시장'] [summary: 임명장 for the successor and for 이상배 as Seoul mayor on the morning of 26 Jun 1992] | 중앙일보 1992-06-27 '“대규모 사업 여론 나쁘면 재고”' (BigKinds news_id 01100901.19920627104112002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19920627104112002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:49:37-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19920627104112002.json) [quote: '26일 취임한 이상배 신임 서울시장은'] [summary: took office as Seoul mayor on 26 Jun] | 서울신문 1992-06-27 '이상배 25대 서울시장의 취임 포부와 각오' (BigKinds news_id 01100611.20160421131938639, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421131938639&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:50:08-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.20160421131938639.json) [quote: '26일 제25대 시장으로 취임한 이상배서울시장은'] [summary: same, independent paper]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '이상배 장관 ( 1991.12.20 ~ 1992.06.25 )'] [summary: start agrees. end 1992-06-25 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "5": {
+    "name": "이문석",
+    "ministry": "총무처",
+    "start": "1992-06-26",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1992-06-26 confirmed: 경향신문 1992-06-27 p.4 '\"호흡같이할 인물기용\"' (Naver News Library article 1992062700329104009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062700329104009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700329104009&editNo=15&printCount=1&publishDate=1992-06-27&officeId=00032&pageNo=4&printNo=14448&publishType=00010, accessed 2026-09-26T09:36:14-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1992062700329104009.json) [quote: '李文錫총무처李在昌환경처장관'] [summary: 임명장 on the morning of 26 Jun 1992] | 조선일보 1992-06-27 p.2 '\"내뜻 잘아는사람 기용\"' (Naver News Library article 1992062700239102001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062700239102001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700239102001&editNo=1&printCount=1&publishDate=1992-06-27&officeId=00023&pageNo=2&printNo=22032&publishType=00010, accessed 2026-09-26T13:03:34-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1992062700239102001.json) [quote: '盧대통령은 李文錫총무처장관에게는 공직자가 조금도 동요없도록 기강을확립해줄 것을 당부했으며'] [summary: remarks to 이문석 at the 임명장 ceremony of 26 Jun (조선일보 1992-06-27)]",
+     "end 1993-02-26 kept but disputed: 경향신문 1993-02-27 p.6 '새長官(장관) 맞은 部處(부처) 표정 \"환영\"…\"뜻밖\"기대半(반)·우려半(반)' (Naver News Library article 1993022700329106001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700329106001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329106001&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=6&printNo=14685&publishType=00010, accessed 2026-09-26T09:13:10-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993022700329106001.json) [quote: '韓鳳洙(한봉수) 前(전)장관은 이날 오전9시정각에 출근,신임金(김)장관과 잠시 전화통화로 축하인사를 한뒤 곧바로 이임식을 가졌는데'] [summary: outgoing 상공부장관 held his 이임식 on the morning of 26 Feb 1993] | 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993022700239105001.json) [quote: '동자부는 26일 오전 쓸쓸한 분위기에서 陳稔(진념)장관의 이임식을 갖고'] [summary: outgoing 동자부장관 이임식 on the morning of 26 Feb]. No report found that dates 이문석's own exit (News Library searches for 李文錫 and 이문석 23 Feb to 2 Mar 1993, BigKinds 이문석 same window). Outgoing ministers of the 현승종 cabinet held 이임식 on 26 Feb, the day the new cabinet received its 임명장 (조선일보 1993-02-27 p.5, below), which supports the builder's 26 Feb. Against it stand 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002, cited by the builder: resignations submitted and all accepted on 25 Feb) and the MOIS page (tier 2, 1993-02-25). The value is kept as the builder has it, consistent with culture.ext88.verified.json (이수정), and the conflict is recorded in verification.disputes.",
+     "in office on 1993-02-25 (so the end is not before the 25th): 매일경제 1993-02-25 p.2 '金泳三(김영삼)대통령 就任(취임)하던 날\"새벽을 달리는 마음으로 國政(국정)수행\"' (Naver News Library article 1993022500099202005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022500099202005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022500099202005&editNo=1&printCount=1&publishDate=1993-02-25&officeId=00009&pageNo=2&printNo=8344&publishType=00020, accessed 2026-09-26T09:35:02-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993022500099202005.json) [quote: '李文錫(이문석)총무처장관 崔世昌(최세창)국방장관 閔庚培(민경배)보훈처장의안내로'] [summary: guided the new President at the national cemetery on the morning of 25 Feb 1993]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '이문석 장관 ( 1992.06.26 ~ 1993.02.25 )'] [summary: start agrees. end 1993-02-25 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here].",
+     "resume2 (2026-09-27T21:51:42-0400) government view that the outgoing cabinet stays until the new one is formally appointed: 조선일보 1993-02-24 p.3 '法(법)으론 0시 離(이)-就任(취임)…선서는 10시 「두 大統領(대통령)」10시간' (Naver News Library article 1993022400239103001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022400239103001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400239103001&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00023&pageNo=3&printNo=22267&publishType=00010, accessed 2026-09-26T13:21:15-0400 (first fetch into the shared cache, copied to this snapshot on 2026-09-27T21:48:39-0400); snapshot roster/sources/general_affairs/ext88_verify/resume2/nl_1993022400239103001.json, not cited by the builder) [quote: '6共의 국무총리와 각료들은 신임 국무총리와 각료들이 정식임명되는 시점까지 직책을계속 수행한다는 설명이다.'] [quote: '25일0시부터 金泳三신임대통령의 내각이 정식으로 발족하는 26일오전까지'] [quote: '李文錫총무처장관은 관련법률 제정의 필요성을 강조한'] [summary: the outgoing PM and ministers were to serve until the new cabinet was formally launched on the morning of 26 Feb 1993, and the article names 이문석 as the sitting 총무처장관 on 24 Feb]. This supports the 26 Feb end. The 중앙일보 1993-02-25 report of resignations accepted on 25 Feb is still unanswered by any report on 이문석 himself, so the spell stays disputed."
+    ]
+   },
+   "6": {
+    "name": "최창윤",
+    "ministry": "총무처",
+    "start": "1993-02-26",
+    "end": "1993-12-22",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26 confirmed: 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993022700239105001.json) [quote: '오후2시 각료 임명장 수여'] [summary: the new cabinet received its 임명장 at 14:00 on 26 Feb 1993] | 조선일보 1993-02-28 p.4 '총리실등 업무보고「無休(무휴)강행군」분주' (Naver News Library article 1993022800239104005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022800239104005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022800239104005&editNo=1&printCount=1&publishDate=1993-02-28&officeId=00023&pageNo=4&printNo=22271&publishType=00010, accessed 2026-09-26T12:49:11-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993022800239104005.json) [quote: '崔昌潤(최창윤)총무처장관도26일엔 사무실에서'] [summary: at work as 총무처장관 on 26 Feb] | 국사편찬위원회 대한민국사연표 1993-02-26 entry tcct_1993_02_26_0010 (https://db.history.go.kr/id/tcct_1993_02_26_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1993_02_26&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1993-02-26.html, tier 2) [quote: '국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표'] [summary: announcement 26 Feb]",
+     "end 1993-12-22 confirmed (inferred from successor, same-day handover): 매일경제 1993-12-23 p.1 '청와대首席(수석) 4명 교체' (Naver News Library article 1993122300099101004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122300099101004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099101004&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00009&pageNo=1&printNo=8625&publishType=00010, accessed 2026-09-26T13:32:50-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993122300099101004.json) [quote: '이날 오전 丁渽錫(정재석)경제부총리와 李榮德(이영덕)통일부총리등 신임각료 14명에게 임명장을수여하고'] [summary: the 14 new ministers of the 12·21 reshuffle received their 임명장 on the morning of 22 Dec 1993] | 조선일보 1993-12-22 p.4 '◇14개 부처에 대한 개각이 단행된 21일 오...' (Naver News Library article 1993122200239104006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122200239104006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200239104006&editNo=1&printCount=1&publishDate=1993-12-22&officeId=00023&pageNo=4&printNo=22553&publishType=00010, accessed 2026-09-26T10:04:41-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993122200239104006.json) [quote: '22일 오전 청와대에서 金泳三(김영삼)대통령이 줄 신임 각료들에 대한 임명장을 만들고 있다'] [summary: 총무처 staff preparing the 임명장 for the morning of 22 Dec] | 국사편찬위원회 대한민국사연표 1993-12-21 entry tcct_1993_12_21_0010 (https://db.history.go.kr/id/tcct_1993_12_21_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1993_12_21&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:05:05-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1993-12-21.html, tier 2) [quote: '14개 부처 장관 경질'] [summary: announcement 21 Dec]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '최창윤 장관 ( 1993.02.26 ~ 1993.12.21 )'] [summary: start agrees. end 1993-12-21 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "7": {
+    "name": "황영하",
+    "ministry": "총무처",
+    "start": "1993-12-22",
+    "end": "1994-12-24",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-12-22 confirmed: 매일경제 1993-12-23 p.1 '청와대首席(수석) 4명 교체' (Naver News Library article 1993122300099101004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122300099101004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099101004&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00009&pageNo=1&printNo=8625&publishType=00010, accessed 2026-09-26T13:32:50-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993122300099101004.json) [quote: '신임각료 14명에게 임명장을수여하고'] [summary: 임명장 on the morning of 22 Dec 1993 (총무처 was one of the 14 posts)] | 조선일보 1993-12-23 p.2 '\"일 안하는 각료 용서안해\"' (Naver News Library article 1993122300239102002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122300239102002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102002&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, accessed 2026-09-26T09:45:50-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1993122300239102002.json) [quote: '金泳三(김영삼)대통령은 22일『이번'] [summary: same, independent paper]",
+     "end 1994-12-24 confirmed (이·취임식 with the successor): 동아일보 1994-12-25 p.4 '총무처장관 이취임식' (Naver News Library article 1994122500209104004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122500209104004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500209104004&editNo=45&printCount=1&publishDate=1994-12-25&officeId=00020&pageNo=4&printNo=22722&publishType=00010, accessed 2026-09-26T13:48:58-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1994122500209104004.json) [quote: '徐錫宰(서석재)총무처장관이 24일오전총무처장관 이취임식에서 직원들과 인사하고 있다'] [summary: joint 이·취임식 on the morning of 24 Dec 1994] | 동아일보 1994-12-25 p.4 '총무처장관 이취임식' (Naver News Library article 1994122500209104004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122500209104004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500209104004&editNo=45&printCount=1&publishDate=1994-12-25&officeId=00020&pageNo=4&printNo=22722&publishType=00010, accessed 2026-09-26T13:48:58-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1994122500209104004.json) [quote: '오른쪽은 黃榮夏(황영하)전총무처장관'] [summary: 황영하 at the ceremony as outgoing minister] | 한국일보 1994-12-25 '부처마다　“세계화”…　분발·화합　강조/새장관　맞은　관가표정' (BigKinds news_id 01101101.19941225000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:37:36-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01101101.19941225000000501.json) [quote: '서석재 신임총무처장관은 24일 상오 11시 이·취임식을 시작으로'] [summary: same, independent paper] | 경향신문 1994-12-24 p.4 '신설 정책首席(수석) 역할관심' (Naver News Library article 1994122400329104001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400329104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010, accessed 2026-09-26T13:49:13-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1994122400329104001.json) [quote: '黃榮夏(황영하)총무처장관이\"이번개편에 따라 18개부처에서'] [summary: still presenting bills as minister at the last cabinet meeting of 23 Dec]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '황영하 장관 ( 1993.12.22 ~ 1994.12.23 )'] [summary: start agrees. end 1994-12-23 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "8": {
+    "name": "서석재",
+    "ministry": "총무처",
+    "start": "1994-12-24",
+    "end": "1995-08-04",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-12-24 confirmed: 동아일보 1994-12-25 p.4 '壇上(단상) 壇下(단하)' (Naver News Library article 1994122500209104003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122500209104003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500209104003&editNo=45&printCount=1&publishDate=1994-12-25&officeId=00020&pageNo=4&printNo=22722&publishType=00010, accessed 2026-09-26T13:48:40-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1994122500209104003.json) [quote: '徐錫宰(서석재)총무처장관은24일 임명장을 받고 난뒤'] [summary: 임명장 on 24 Dec 1994] | 서울신문 1994-12-25 '“공무원이 세계화 앞장/경쟁체제 도입해야/서 총무처장관' (BigKinds news_id 01100611.20160422183308336, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183308336&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:51:18-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100611.20160422183308336.json) [quote: '서석재신임총무처장관은 24일 상오 세종로 정부청사에서 취임식을 갖고'] [summary: 취임식 on the morning of 24 Dec] | 국사편찬위원회 대한민국사연표 1994-12-23 entry tcct_1994_12_23_0010 (https://db.history.go.kr/id/tcct_1994_12_23_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1994_12_23&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1994-12-23.html, tier 2) [quote: '19개 부처장관 경질'] [summary: announcement 23 Dec]",
+     "end 1995-08-04 confirmed (resignation accepted): 부산일보 1995-08-04 '金대통령 徐장관 辭表수리 안팎' (BigKinds news_id 01500701.20160409114024277, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409114024277&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:52:14-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01500701.20160409114024277.json) [quote: '金泳三 대통령이 4일 오전'] [summary: the President accepted the resignation on the morning of 4 Aug 1995 (부산일보 evening edition of 4 Aug)] | 중앙일보 1995-08-05 '徐총무처장관 전격 사표수리' (BigKinds news_id 01100901.19950805001800001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950805001800001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:51:38-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19950805001800001.json) [quote: '김영삼(金泳三)대통령이 4일 발설책임을 물어 서석재(徐錫宰)총무처장관을 전격 사퇴시키는등'] [summary: same, independent paper] | 국민일보 1995-08-05 '퇴임의 「변」/김경호 정치부(현장기자)' (BigKinds news_id 01100201.19950805000000208, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19950805000000208&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:51:56-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100201.19950805000000208.json) [quote: '서석재 전총무처장관의 이임식이 열린 4일 오후'] [summary: 이임식 on the afternoon of 4 Aug]. The MOIS page gives 1995-08-03, the day he handed the resignation to the PM.",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '서석재 장관 ( 1994.12.24 ~ 1995.08.03 )'] [summary: start agrees. end 1995-08-03 is the day he handed his resignation to the PM, as on the MOIS page. The day-of reports above date the acceptance and his 이임식 to 4 Aug, so the end stays]."
+    ]
+   },
+   "9": {
+    "name": "김기재",
+    "ministry": "총무처",
+    "start": "1995-08-07",
+    "end": "1996-01-30",
+    "status": "confirmed",
+    "checks": [
+     "vacancy 1995-08-05..06 confirmed: 매일경제 1995-08-06 '신임 총무처장관 빠르면 내일 임명' (BigKinds news_id 02100101.20160113060404936, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100101.20160113060404936&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:52:32-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_02100101.20160113060404936.json) [quote: '사퇴한 서석재 전총무처장관의 후임을 빠르면 오는 7일께 임명할 것으로 알려졌다'] [summary: post still unfilled on 5 Aug]",
+     "start 1995-08-07 confirmed: 중앙일보 1995-08-08 '총무처장관 金杞載씨' (BigKinds news_id 01100901.19950808002225002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950808002225002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:52:50-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100901.19950808002225002.json) [quote: '김영삼(金泳三)대통령은 7일 서석재(徐錫宰)前총무처장관 사임으로 공석이 된 총무처장관에 김기재(金杞載)前부산시장을 임명했다'] [summary: appointed 7 Aug 1995 to the vacant post] | 전북일보 1995-08-08 '8 15光復 50주 계기 韓日 관계 미래지향' (BigKinds news_id 01601101.19950808101740104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19950808101740104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:53:10-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01601101.19950808101740104.json) [quote: '김대통령은 7일 김기재신임 총무처장관에게 임명장을 수여하면서'] [summary: 임명장 on 7 Aug]",
+     "end 1996-01-30 and end_reason resigned_to_run confirmed: 매일경제 1996-01-31 p.1 '총무처 장관에 曺海寧(조해녕)씨 임명' (Naver News Library article 1996013100099101018, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996013100099101018), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996013100099101018&editNo=15&printCount=1&publishDate=1996-01-31&officeId=00009&pageNo=1&printNo=9342&publishType=00010, accessed 2026-09-26T13:50:33-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996013100099101018.json) [quote: '金泳三대통령은 30일 부산 해운대·기장乙 선거구출마를 위해 사임한 金杞載 총무처장관의 사표를수리하고'] [summary: resignation to run in 해운대·기장을 accepted on 30 Jan 1996] | 조선일보 1996-01-31 p.1 '총무처長官(장관) 曺海寧(조해녕)씨' (Naver News Library article 1996013100239101008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996013100239101008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996013100239101008&editNo=1&printCount=1&publishDate=1996-01-31&officeId=00023&pageNo=1&printNo=23272&publishType=00010, accessed 2026-09-26T13:50:57-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996013100239101008.json) [quote: '金泳三대통령은 30일,총선 출마를위해 사의를표명한 金杞載(김기재)총무처장관의 사표를수리하고'] [summary: same, independent paper]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '김기재 장관 ( 1995.08.07 ~ 1996.01.30 )'] [summary: start agrees. end agrees]."
+    ]
+   },
+   "10": {
+    "name": "조해녕",
+    "ministry": "총무처",
+    "start": "1996-01-31",
+    "end": "1996-12-20",
+    "status": "confirmed",
+    "checks": [
+     "start 1996-01-31 confirmed: 매일경제 1996-01-31 p.1 '총무처 장관에 曺海寧(조해녕)씨 임명' (Naver News Library article 1996013100099101018, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996013100099101018), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996013100099101018&editNo=15&printCount=1&publishDate=1996-01-31&officeId=00009&pageNo=1&printNo=9342&publishType=00010, accessed 2026-09-26T13:50:33-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996013100099101018.json) [quote: '후임에 曺海寧前대구시장을 임명했다'] [summary: named on 30 Jan 1996] | 조선일보 1996-02-01 p.2 '\"공무원부패 30여년 누적\"' (Naver News Library article 1996020100239102004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996020100239102004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996020100239102004&editNo=1&printCount=1&publishDate=1996-02-01&officeId=00023&pageNo=2&printNo=23273&publishType=00010, accessed 2026-09-26T13:51:18-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996020100239102004.json) [quote: '신임 曺海寧(조해녕)총무처장관은 31일'] [summary: first press meeting as the new minister on 31 Jan (조선일보 1996-02-01)]. Several papers write that he was 임명 on 30 Jan (the naming). The builder's 임명장 day of 31 Jan comes from 매일경제 and 서울신문 1996-02-01, and no source found puts the 임명장 on 30 Jan, so the builder's start stands.",
+     "end 1996-12-20 confirmed (same-day handover): 한겨레 1996-12-21 p.1 '8개부처 각료 교체' (Naver News Library article 1996122100289101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996122100289101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100289101002&editNo=6&printCount=1&publishDate=1996-12-21&officeId=00028&pageNo=1&printNo=2758&publishType=00010, accessed 2026-09-26T10:09:39-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996122100289101002.json) [quote: '이어 이날 오후 청와대에서 새 각료들에게 임명장을 주었다'] [summary: successor's 임명장 on the afternoon of 20 Dec 1996] | 매일경제 1996-12-21 p.1 '8개部處(부처) 장관 교체' (Naver News Library article 1996122100099101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996122100099101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100099101001&editNo=15&printCount=1&publishDate=1996-12-21&officeId=00009&pageNo=1&printNo=9633&publishType=00010, accessed 2026-09-26T09:39:00-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996122100099101001.json) [quote: '金대통령은 이날 임명된 신임 장관·처장 등에게 임명장을 주면서'] [summary: same, independent paper] | 국사편찬위원회 대한민국사연표 1996-12-20 entry tcct_1996_12_20_0010 (https://db.history.go.kr/id/tcct_1996_12_20_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1996_12_20&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1996-12-20.html, tier 2) [quote: '8개 부처 장관 교체 등 일부 개각'] [summary: reshuffle 20 Dec]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '조해녕 장관 ( 1996.01.31 ~ 1996.12.19 )'] [summary: start agrees. end 1996-12-19 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "11": {
+    "name": "김한규",
+    "ministry": "총무처",
+    "start": "1996-12-20",
+    "end": "1997-08-06",
+    "status": "confirmed",
+    "checks": [
+     "start 1996-12-20 confirmed: 매일경제 1996-12-21 p.1 '8개部處(부처) 장관 교체' (Naver News Library article 1996122100099101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996122100099101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100099101001&editNo=15&printCount=1&publishDate=1996-12-21&officeId=00009&pageNo=1&printNo=9633&publishType=00010, accessed 2026-09-26T09:39:00-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996122100099101001.json) [quote: '또 총무처장관에 金漢圭 前의원(신한국당)'] [summary: named 총무처장관 on 20 Dec 1996] | 한겨레 1996-12-21 p.1 '8개부처 각료 교체' (Naver News Library article 1996122100289101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996122100289101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100289101002&editNo=6&printCount=1&publishDate=1996-12-21&officeId=00028&pageNo=1&printNo=2758&publishType=00010, accessed 2026-09-26T10:09:39-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1996122100289101002.json) [quote: '이날 오후 청와대에서 새 각료들에게 임명장을 주었다'] [summary: 임명장 the same afternoon]",
+     "MOIS start 1997-03-06 refuted (no reappointment in the 1997-03-05 reshuffle): 국민일보 1997-03-06 '장관급 10명 경질/경제부총리 강경식씨/김 대통령' (BigKinds news_id 01100201.19970306000000105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19970306000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:54:29-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100201.19970306000000105.json) [quote: '내무 강운태/법무 최상엽/문체 송태호/통산 임창열/건교 이환균/과기처 권숙일/보훈처 박상범/평통 정호근/공정위 전윤철'] [summary: the full list of the 3·5 reshuffle has no 총무처 entry] | 동아일보 1997-03-07 p.1 '차관급 11명 人事(인사)' (Naver News Library article 1997030700209101012, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997030700209101012), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030700209101012&editNo=45&printCount=1&publishDate=1997-03-07&officeId=00020&pageNo=1&printNo=23472&publishType=00010, accessed 2026-09-26T13:54:58-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1997030700209101012.json) [quote: '총무처차관에는 禹瑾敏'] [summary: only the 총무처 차관 changed (reported 7 Mar 1997), the likely source of the MOIS date] | 동아일보 1997-04-03 p.1 '규제법령 萬(만)여건 폐지 年內(연내)' (Naver News Library article 1997040300209101003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997040300209101003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997040300209101003&publishDate=1997-04-03&officeId=00020&pageNo=1, accessed 2026-09-26T13:54:19-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1997040300209101003.json) [quote: '金漢圭(김한규)총무처장관'] [summary: still 총무처장관 on 2 Apr 1997]",
+     "end 1997-08-06 confirmed (same-day handover): 문화일보 1997-08-06 'KAL기 추락참사­정부부처 스케치' (BigKinds news_id 01100501.19970806000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19970806000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:54:46-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100501.19970806000000501.json) [quote: '김대통령은 이날 오전 9시30분 신임 장관들에 대한 임명장을 수여한 직후'] [summary: evening paper of 6 Aug 1997: the successor's 임명장 at 09:30 on 6 Aug] | 문화일보 1997-08-06 'KAL기 추락참사­정부부처 스케치' (BigKinds news_id 01100501.19970806000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19970806000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:54:46-0400; snapshot roster/sources/general_affairs/ext88_verify/bk/bk_01100501.19970806000000501.json) [quote: '회의에는 5일 개각에서 교체된 김한규 총무처장관과'] [summary: 김한규 still attended the emergency meeting after the ceremony as the outgoing 총무처장관] | 동아일보 1997-08-06 p.1 '11部處(부처) 장관 경질' (Naver News Library article 1997080600209101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600209101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209101001&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00020&pageNo=1&printNo=23614&publishType=00010, accessed 2026-09-26T09:34:18-0400; snapshot roster/sources/general_affairs/ext88_verify/nl/nl_1997080600209101001.json) [quote: '총무처장관 沈宇永(심우영)청와대행정수석'] [summary: replacement named on 5 Aug] | 국사편찬위원회 대한민국사연표 1997-08-05 entry tcct_1997_08_05_0010 (https://db.history.go.kr/id/tcct_1997_08_05_0010, day list via https://db.history.go.kr/diachronic/getChildItemLevelListAjax.do?parentId=tcct_1997_08_05&level=4&types=o&contentsYn=Y, accessed 2026-09-26T09:08:43-0400; snapshot roster/sources/general_affairs/ext88_verify/tier2/chron_1997-08-05.html, tier 2) [quote: '11개 부처 개각'] [summary: reshuffle 5 Aug]",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '김한규 장관 ( 1996.12.20 ~ 1997.08.05 )'] [summary: start agrees. end 1997-08-05 is the day before the successor's start, which is how this list closes every same-day handover of the office, so it does not conflict with the handover-day end used here]."
+    ]
+   },
+   "12": {
+    "name": "심우영",
+    "ministry": "총무처",
+    "start": "1997-08-06",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "from_main record left untouched. It is identical to roster/interior.verified.json apart from the from_main flag (checked by this script). Its start 1997-08-06 is re-checked under spell 11 (the successor's 임명장 day). The end 1998-02-27 lies outside this window and was verified in the main roster.",
+     "resume2 (2026-09-27T21:51:42-0400) cross-check against the 국가기록원 기록물 생산기관 변천정보, 총무처 (OG0016183) 기관장 list, reference '한국행정연구원 자료(역대장.차관) 정부조직법' (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0016183&isProvince=&mapInfo=mapno1, accessed 2026-09-27T21:48:39-0400; snapshot roster/sources/general_affairs/ext88_verify/resume2/archives_viewDetailInfo_OG0016183.html, tier 2, not cited by the builder) [quote: '심우영 장관 ( 1997.08.06 ~ 1998.03.02 )'] [summary: start agrees. end 1998-03-02 lies outside the window and differs from the main-roster end 1998-02-27 (the day before 총무처 was abolished), a from_main value this pass leaves untouched]."
+    ]
+   }
+  },
+  "changes": [],
+  "disputes": [
+   "이문석 end: 1993-02-26 kept (the outgoing 현승종 cabinet held 이임식 on the morning of 26 Feb, 경향신문 1993-02-27 p.6 and 조선일보 1993-02-27 p.5, and the new cabinet received its 임명장 at 14:00 that day) against 1993-02-25 (중앙일보 1993-02-25, BigKinds 01100901.19930225151908002, cited by the builder: resignations submitted and all accepted on 25 Feb, and the MOIS page). No report dates 이문석's own exit. Second resume (2026-09-27T21:51:42-0400). 조선일보 1993-02-24 p.3 (not cited by the builder) reports the government's view that the outgoing PM and ministers stay in office until the new ones are formally appointed, with the new cabinet expected on the morning of 26 Feb. This supports 26 Feb. The 국가기록원 기관장 list (OG0016183) also prints 1993-02-25 for 이문석, but it ends every same-day handover of this office on the day before the successor's start (1988-02-24, 1990-03-18, 1991-12-19, 1992-06-25, 1993-12-21, 1994-12-23, 1996-12-19, 1997-08-05). Its 25 Feb is that convention and not separate evidence of an exit on the 25th, and the MOIS page follows the same pattern for 장기오. The 중앙일보 report remains the only dated source for 25 Feb, so the spell stays disputed. Cross-lineage state at 2026-09-27T21:51:42-0400 (verified files only). 22 lineages end the outgoing minister on 1993-02-26 (agriculture, culture, defense, education, energy, environment, epb, finance, foreign, gender, general_affairs, ict, industry, interior, justice, labor, land, public_info, science, special, sports, unification). pm ends 현승종 on 25 Feb because his successor 황인성 took office that day. foreign.ext88.verified.json has since corrected 이상옥 from 25 to 26 Feb on the same 조선일보 article. finance and land also corrected to 26 Feb, and most of the others that keep 26 Feb mark it disputed as this file does. health and transport have no verified ext88 file yet. The 1993 handover should be settled once across lineages.",
+   "end_reason coding across lineages: 서석재 (forced out over his 4,000억 remarks, resignation handed to the PM on 3 Aug and accepted on 4 Aug 1995, widely reported as 해임) is coded resigned here, while science.ext88.verified.json codes 정근모 (resignation handed to the PM and accepted, 1990) as dismissed. Likewise 이연택 is coded resigned_to_run here while sports.ext88 codes 박철언, who left in the same 1991-12-19 reshuffle to run, as replaced. The values here are kept because each is supported by the sources, but a single rule should be applied across lineages.",
+   "MOIS 역대장관 page (tier 2) against dated news: the page's 김용갑 end (1989-03-06) and 김한규 start (1997-03-06) are contradicted by independent sources found by the verifier (per_spell 1 and 11), confirming the builder's choice. Its 장기오 end (1988-02-24) and 서석재 end (1995-08-03) are conventions (last day of the old presidency, day of submission) that the builder rightly did not follow. resume2 (2026-09-27T21:51:42-0400). The 국가기록원 기관장 list (OG0016183) agrees with this file on 김용갑 end 1989-03-16 and 김한규 start 1996-12-20, against the MOIS page, and repeats the MOIS 장기오 and 서석재 ends."
+  ],
+  "missing_evidence": [],
+  "scripts": [
+   "roster/scripts/general_affairs_ext88_verify_00_setup.py",
+   "roster/scripts/general_affairs_ext88_verify_01_monthly_tally.py",
+   "roster/scripts/general_affairs_ext88_verify_02_tier2.py",
+   "roster/scripts/general_affairs_ext88_verify_03_bk_search.py",
+   "roster/scripts/general_affairs_ext88_verify_04_quotecheck.py",
+   "roster/scripts/general_affairs_ext88_verify_05_bk_fulltext.py",
+   "roster/scripts/general_affairs_ext88_verify_06_nl_targeted.py",
+   "roster/scripts/general_affairs_ext88_verify_07_nl_articles.py",
+   "roster/scripts/general_affairs_ext88_verify_08_build.py",
+   "roster/scripts/general_affairs_ext88_verify_08_part2.py",
+   "roster/scripts/general_affairs_ext88_verify_09_resume_quotecheck.py",
+   "roster/scripts/general_affairs_ext88_verify_10_resume_update.py",
+   "roster/scripts/general_affairs_ext88_verify_11_resume2_sources.py",
+   "roster/scripts/general_affairs_ext88_verify_12_resume2_update.py"
+  ],
+  "snapshots": "roster/sources/general_affairs/ext88_verify/",
+  "resumed_at": "2026-09-27T21:51:42-0400"
+ }
+}

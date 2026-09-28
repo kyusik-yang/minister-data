@@ -1,0 +1,607 @@
+{
+ "lineage": "energy",
+ "built_at": "2026-09-26T12:50:39-0400",
+ "window": [
+  "1988-02-25",
+  "1998-02-24"
+ ],
+ "ministry_names": [
+  {
+   "ministry": "동력자원부",
+   "from": "1988-02-25",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (effective 1987-01-01, 제29조② 장관은 국무위원으로 보하고, 제37조의2 동력과 지하자원) in force at the window start. Abolished by 법률 제4541호 (promulgated and in force 1993-03-06, 제37조의2 삭제) and 대통령령 제13870호 상공자원부와그소속기관직제 부칙 제2조 (동력자원부와그소속기관직제 폐지), merged into 상공자원부 (industry lineage). The office existed from 1977-12-16 (국가기록원 OG0022671), so the 최창락 spell (from 1986-01-08) is under the same name. No deputy PM title.",
+   "source": "offices_1988.json OFA27 (GOA_3854, GOA_4541, DEC_13870, ARCH_OG0022671)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "최창락",
+   "name_hanja": "崔昌洛",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1931-09-02",
+   "gender": "M",
+   "ministry": "동력자원부",
+   "office_title": "동력자원부장관",
+   "deputy_pm": false,
+   "start": "1986-01-08",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1986-01-08 p.1 '全大統領(전대통령) 임명장수여' (Naver News Library article 1986010800209201015, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986010800209201015&editNo=2&printCount=1&publishDate=1986-01-08&officeId=00020&pageNo=1&printNo=19774&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1986010800209201015, snapshot roster/sources/energy/ext88/nl/nl_1986010800209201015.json (accessed 2026-09-26T09:57:09-0400). Quote: '全斗煥대통령은 8일오전신임 金滿堤부총리겸 경제기획원장관 鄭寅用재무부장관李基百국방부장관 朴世直체육부장관 崔昌洛동자부장관'",
+    "BigKinds full text: 한국일보 1986-01-09 '신임 10개部處장관' (news_id 01101101.19860109173527101, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860109173527101&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19860109173527101.json (accessed 2026-09-26T09:57:31-0400). Quote: '全斗煥 대통령은 8알상오 신임 金滿堤부총리겸 경제기획원장관 鄭寅用재무부장관 李基百 국방부장관 朴世直체육부장관 崔昌洛동자부장관' ('8알' is a misprint of 8일 in the source)",
+    "매일경제 1986-01-08 p.1 '全(전)대통령 신임長官(장관)에 임명장' (Naver News Library article 1986010800099201016, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986010800099201016&editNo=1&printCount=1&publishDate=1986-01-08&officeId=00009&pageNo=1&printNo=6107&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1986010800099201016, snapshot roster/sources/energy/ext88/nl/nl_1986010800099201016.json (accessed 2026-09-26T09:57:07-0400). Quote: '全斗煥대통령은 8일상오 청와대에서 金滿堤부총리겸경제기획원장관을 비롯한 10개부처의 신임장관및 처장에게 임명장을 수여했다.'",
+    "BigKinds full text: 중앙일보 1986-01-07 '부총리에 김제만씨' (news_id 01100901.19860107015906010, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860107015906010&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19860107015906010.json (accessed 2026-09-26T09:57:35-0400). Quote: '전두환 대통령은 7일 하오 부총리에 김만제 재무장관을 임명하는 등 다음과 같이 개각을 단행했다.' / '동자 = 최창낙 (한은 총재' (announcement on 1986-01-07, name misprinted as 최창낙)",
+    "경향신문 1986-01-07 p.1 '副總理(부총리) 金滿堤(김만제)씨' (Naver News Library article 1986010700329201004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986010700329201004&editNo=2&printCount=1&publishDate=1986-01-07&officeId=00032&pageNo=1&printNo=12393&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1986010700329201004, snapshot roster/sources/energy/ext88/nl/nl_1986010700329201004.json (accessed 2026-09-26T09:57:10-0400). Quote: '▲동력자원부에 崔昌洛韓銀총재' / '申秉鉉부총리등 경질된 부처의 장관과 처장의 사표는이날 수리됐다.' (announcement day, 석간 of 1986-01-07)",
+    "BigKinds full text: 중앙일보 1986-01-09 '원유 값 내리면 국내유가 인하' (news_id 01100901.19860109015850001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860109015850001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19860109015850001.json (accessed 2026-09-26T09:57:41-0400). Quote: '최 장관은 이날 취임식을 마치고 기자들과 만나' (취임식 on 1986-01-08)",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '39 동력자원부 최창락 1986년01월08일 ~ 1988년02월25일'",
+    "대통령기록관 연도별 대통령 일정 (tier 2), POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (selPresident=전두환, year=1986), snapshot roster/sources/energy/ext88/pa/pa_전두환_1986_p1.html (accessed 2026-09-26T09:04:35-0400). Row 1986-01-07: '10개 부처 내각 개편' / '국무총리 겸 경제기획원장관 김만제, 재무부장관 정인용, 국방부장관 이기석, 체육부장관 박세직, 동력자원부장관 최창락, 건설부장관 이주효, 총무처장관 정관용, 고갛기술처장관 전학제, 법제처장 이형우, 국가보훈처장 김근주 임명' (announcement day)",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1986_01_07_0010, snapshot roster/sources/energy/ext88/hist/chron_1986-01-07.html (accessed 2026-09-26T09:49:31-0400). Entry 1986-01-07: '전두환 대통령, 10개 부처 내각 개편 △국무총리 겸 경제기획원장관 김만제·재무부장관 정인용·국방부장관 이기석·체육부장관 박세직·동력자원부장관 최창락·건설부장관 이주효·총무처장관 정관용·과학기술처장관 전학제·법제처장 이형우·국가보훈처장 김근주 임명' (announcement day)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제8대 최창락 1986년 1월 8일 1988년 2월 24일'"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 '새閣僚(각료)에 임명장' (Naver News Library article 1988022600239101004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022600239101004, snapshot roster/sources/energy/ext88/nl/nl_1988022600239101004.json (accessed 2026-09-26T08:49:40-0400). Quote: '한편 金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다.'",
+    "BigKinds full text: 중앙일보 1988-02-25 '신임각료들에 임명장' (news_id 01100901.19880225005009001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19880225005009001.json (accessed 2026-09-26T09:06:02-0400). Quote: '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다.'",
+    "매일경제 1988-02-25 p.1 '李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장' (Naver News Library article 1988022500099201010, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500099201010, snapshot roster/sources/energy/ext88/nl/nl_1988022500099201010.json (accessed 2026-09-26T09:05:34-0400). Quote: '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다.'",
+    "BigKinds full text: 중앙일보 1988-02-19 '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임' (news_id 01100901.19880219004312001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19880219004312001.json (accessed 2026-09-26T09:04:24-0400). Quote: '▲동자=이봉서 현 동자부차관' (successor named by the president-elect on 1988-02-19)",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '39 동력자원부 최창락 1986년01월08일 ~ 1988년02월25일' (end printed as the successor's start day)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제8대 최창락 1986년 1월 8일 1988년 2월 24일' (gives 1988-02-24, not used)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member during the spell. He has no row in na_members/na_members_12_22.csv (12th to 22nd Assembly). He was 한국은행 총재 when named (경향신문 1986-01-07 '▲동력자원부에 崔昌洛韓銀총재').",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript window (2000-06 onward).",
+   "notes": "전두환-era minister still in office on 1988-02-25, a caretaker holdover with one day in the window. Named in the 1986-01-07 개각, announced that afternoon (the outgoing ministers' resignations were accepted the same day, 경향신문 1986-01-07), and given the 임명장 on the morning of 1986-01-08, the day of his 취임식. The start follows the 임명장 day, which the motir page and ko.wikipedia also print. It is medium because the announcement came the day before (see issues). He left with the whole 김정렬 cabinet. 노태우 accepted its collective resignations on the morning of 1988-02-25 and gave the new cabinet, with 이봉서 at 동력자원부, the 임명장 the same morning, so the handover is same-day. ko.wikipedia gives 1988-02-24 as the last day. Birth date 1931-09-02 from ko.wikipedia '최창락 (1931년)' https://ko.wikipedia.org/w/index.php?oldid=41118100 (revid 41118100, secondary, accessed 2026-09-26T10:00:07-0400, snapshot roster/sources/energy/ext88/persons/kowiki_최창락.json), infobox '{{출생일|1931|9|2}}'. Wikidata Q81226529 gives the year 1931 only (Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json)). Gender from his obituaries, BigKinds full text: 동아일보 2017-12-28 '[부고]최창락 前 한국은행 총재' (news_id 01100401.20171228115454022, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.20171228115454022&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/persons/bk_01100401.20171228115454022.json (accessed 2026-09-26T10:01:26-0400). Quote: '유족으로는 부인 김익영 씨와 아들 병철(사업), 병호 씨(사업)가 있다.' and BigKinds full text: 국민일보 2017-12-29 '[부고] 김영배씨 별세 外' (news_id 01100201.20171229194655001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.20171229194655001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/persons/bk_01100201.20171229194655001.json (accessed 2026-09-26T10:01:14-0400). Quote: '▲최창락(전 한국은행 총재) 별세, 김익영씨 부군상'. No English Wikipedia interlanguage link and no English Wikidata label, so name_en is null."
+  },
+  {
+   "name": "이봉서",
+   "name_hanja": "李鳳瑞",
+   "name_en": "I Bong-seo",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16090891 (English label, Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json))",
+   "birth_date": "1936-02-24",
+   "gender": "M",
+   "ministry": "동력자원부",
+   "office_title": "동력자원부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1988-02-25 p.1 '李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장' (Naver News Library article 1988022500099201010, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500099201010, snapshot roster/sources/energy/ext88/nl/nl_1988022500099201010.json (accessed 2026-09-26T09:05:34-0400). Quote: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다.'",
+    "BigKinds full text: 중앙일보 1988-02-25 '신임각료들에 임명장' (news_id 01100901.19880225005009001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19880225005009001.json (accessed 2026-09-26T09:06:02-0400). Quote: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다.'",
+    "조선일보 1988-02-26 p.1 '새閣僚(각료)에 임명장' (Naver News Library article 1988022600239101004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022600239101004, snapshot roster/sources/energy/ext88/nl/nl_1988022600239101004.json (accessed 2026-09-26T08:49:40-0400). Quote: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여,제6공화국 정부를 공식 출범시켰다.'",
+    "경향신문 1988-02-19 p.1 '새政府(정부) 內閣(내각)명단 발표' (Naver News Library article 1988021900329201004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004&editNo=3&printCount=1&publishDate=1988-02-19&officeId=00032&pageNo=1&printNo=13044&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988021900329201004, snapshot roster/sources/energy/ext88/nl/nl_1988021900329201004.json (accessed 2026-09-26T09:04:12-0400). Quote: '동자부장관에는 李鳳瑞동자부차관이승진기용됐다.' (named by the president-elect on 1988-02-19)",
+    "BigKinds full text: 중앙일보 1988-02-19 '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임' (news_id 01100901.19880219004312001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19880219004312001.json (accessed 2026-09-26T09:04:24-0400). Quote: '노태우 차기 대통령은 19일 새 내각 및 청와대수석비서관을 확정, 강용식 대통령 취임 준비위 대변인을 통해 발표했다.' / '▲동자=이봉서 현 동자부차관'",
+    "대통령기록관 연도별 대통령 일정 (tier 2), POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (selPresident=노태우, year=1988), snapshot roster/sources/energy/ext88/pa/pa_노태우_1988_p1.html (accessed 2026-09-26T08:49:52-0400). Row 1988-02-25: '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명'",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '43 동력자원부 이봉서 1988년02월25일 ~ 1990년03월19일'",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제9대 이봉서 1988년 2월 25일 1990년 3월 18일'"
+   ],
+   "end": "1990-03-19",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1990-03-17 p.1 '15部(부)장관 更迭(경질)' (Naver News Library article 1990031700209201001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209201001, snapshot roster/sources/energy/ext88/nl/nl_1990031700209201001.json (accessed 2026-09-26T09:24:48-0400). Quote: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등 경제각료대부분을 포함한 15개 부처장관을 경질하는 대폭적인 내각개편을 단행했다.' / '동자부장관에李熺逸(共和계)'",
+    "조선일보 1990-03-18 p.1 '15部(부)장관 更迭(경질)' (Naver News Library article 1990031800239101001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031800239101001, snapshot roster/sources/energy/ext88/nl/nl_1990031800239101001.json (accessed 2026-09-26T09:31:16-0400). Quote: '동자부장관에 李熺逸民自党의원' / '盧대통령은 19일오전李부총리를 비롯한 신임각료에게 임명장을 수여하며'",
+    "동아일보 1990-03-19 p.1 '經濟難(경제난)-民生治安(민생치안)해결 당부' (Naver News Library article 1990031900209201005, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900209201005&editNo=2&printCount=1&publishDate=1990-03-19&officeId=00020&pageNo=1&printNo=21065&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005, snapshot roster/sources/energy/ext88/nl/nl_1990031900209201005.json (accessed 2026-09-26T09:30:28-0400). Quote: '盧泰愚대통령은 19일 오전靑瓦臺에서 3.17개각으로입각한 李承潤부총리등 신임각료에게 임명장을 주고'",
+    "BigKinds full text: 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (news_id 01101101.19900320000000301, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19900320000000301.json (accessed 2026-09-26T09:24:23-0400). Quote: '개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고' / '이희일 동자부장관 등은'",
+    "BigKinds full text: 세계일보 1990-03-17 '개각전야… 어수선한 정­관가/각부처 일손 놓은채 새 인물 하마평' (news_id 01100701.19900317000000301, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900317000000301&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100701.19900317000000301.json (accessed 2026-09-26T10:05:36-0400). Quote: '16일 오후 5시 정부종합청사 19층 국무회의실에서 열린 임시국무위원 간담회는 참석한 국무위원 전원의 사표를 받은뒤' (collective resignations on 1990-03-16, no dated acceptance found)",
+    "동아일보 1990-03-17 p.2 '「成長(성장)우선」으로 方向(방향)선회 예고\"알려진 내용\"담담한 반응' (Naver News Library article 1990031700209202004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209202004&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=2&printNo=21064&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209202004, snapshot roster/sources/energy/ext88/nl/nl_1990031700209202004.json (accessed 2026-09-26T09:40:41-0400). Quote: '李鳳瑞전장관못지않게 일을 잘해나갈것으로 기대하는 분위기' (the press called him 전장관 on the announcement day 1990-03-17)",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '43 동력자원부 이봉서 1988년02월25일 ~ 1990년03월19일' (end printed as the successor's start day)",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1990_03_17_0010, snapshot roster/sources/energy/ext88/hist/chron_1990-03-17.html (accessed 2026-09-26T08:49:48-0400). Entry 1990-03-17: '노태우 대통령, 15개 부처 장관 교체' (announcement day)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제9대 이봉서 1988년 2월 25일 1990년 3월 18일' (gives 1990-03-18, not used)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member. He has no row in na_members/na_members_12_22.csv. He was the sitting 동력자원부 차관 when named (경향신문 1988-02-19 '李鳳瑞동자부차관이승진기용').",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript window (2000-06 onward).",
+   "notes": "First 노태우 cabinet. Promoted from 동력자원부 차관, named by the president-elect on 1988-02-19 and given the 임명장 on the morning of 1988-02-25 right after the inauguration. Retained in the 1988-12-05 전면개각, in which 동자부 was one of four ministries whose head stayed (see continuity), so there is no new spell at that date. The whole cabinet handed in resignations on 1990-03-16, and the 3·17 개각 announced 이희일 as his successor on the morning of Saturday 1990-03-17. The new ministers received the 임명장 on the morning of Monday 1990-03-19. No dated acceptance of his own resignation and no dated 이임식 were found, so the end is the successor's 임명장 day (inferred_from_successor, same-day handover). If the announcement took legal effect, the end would be 1990-03-17 with a vacancy on 03-18 (see issues). He was later 상공부장관 from 1990-12-27 (동아일보 1990-12-27 '전임李鳳瑞장관이 상공부장관으로 발탁'), which belongs to the industry lineage. Birth date 1936-02-24 from ko.wikipedia '이봉서' https://ko.wikipedia.org/w/index.php?oldid=41920775 (revid 41920775, secondary, accessed 2026-09-26T10:00:08-0400, snapshot roster/sources/energy/ext88/persons/kowiki_이봉서.json) and Wikidata Q16090891 (Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json)). Gender M from Wikidata P21 (Q6581097). name_en is the Wikidata English label 'I Bong-seo'. There is no English Wikipedia article, and the label looks like a mechanical romanization."
+  },
+  {
+   "name": "이희일",
+   "name_hanja": "李熺逸",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1931-03-07",
+   "gender": "M",
+   "ministry": "동력자원부",
+   "office_title": "동력자원부장관",
+   "deputy_pm": false,
+   "start": "1990-03-19",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1990-03-19 p.1 '經濟難(경제난)-民生治安(민생치안)해결 당부' (Naver News Library article 1990031900209201005, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900209201005&editNo=2&printCount=1&publishDate=1990-03-19&officeId=00020&pageNo=1&printNo=21065&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005, snapshot roster/sources/energy/ext88/nl/nl_1990031900209201005.json (accessed 2026-09-26T09:30:28-0400). Quote: '盧泰愚대통령은 19일 오전靑瓦臺에서 3.17개각으로입각한 李承潤부총리등 신임각료에게 임명장을 주고'",
+    "BigKinds full text: 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (news_id 01101101.19900320000000301, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19900320000000301.json (accessed 2026-09-26T09:24:23-0400). Quote: '개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고' / '이희일 동자부장관 등은'",
+    "매일경제 1990-03-20 p.3 '새 경제장관에 듣는다  李熺逸(이희일) 동력자원 姜普性(강보성) 농림수산' (Naver News Library article 1990032000099203001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000099203001&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00009&pageNo=3&printNo=7399&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990032000099203001, snapshot roster/sources/energy/ext88/nl/nl_1990032000099203001.json (accessed 2026-09-26T09:57:15-0400). Quote: '임명장을 받기전날인 지난일요일(18일)에 동자부 실국장들을 소집'",
+    "BigKinds full text: 한국일보 1990-03-20 '환영… 긴장… 기대속 새 장관 맞아/개각 경제부처 취임식 모습' (news_id 01101101.19900320000000903, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000903&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19900320000000903.json (accessed 2026-09-26T09:30:24-0400). Quote: '이희일동자부장관은 일요일인 18일 상오 과천청사를 방문'",
+    "BigKinds full text: 서울신문 1990-03-20 '“경기 다각 부양… 「성장의 수레」 끌겠다”' (news_id 01100611.20160420190349409, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190349409&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100611.20160420190349409.json (accessed 2026-09-26T09:57:57-0400). Quote: '새로 입각한 경제부처 장관들은 19일 일제히 취임식과 첫기자 간담회를 갖고'",
+    "동아일보 1990-03-17 p.1 '15部(부)장관 更迭(경질)' (Naver News Library article 1990031700209201001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209201001, snapshot roster/sources/energy/ext88/nl/nl_1990031700209201001.json (accessed 2026-09-26T09:24:48-0400). Quote: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등 경제각료대부분을 포함한 15개 부처장관을 경질하는 대폭적인 내각개편을 단행했다.' / '동자부장관에李熺逸(共和계)'",
+    "조선일보 1990-03-18 p.1 '15部(부)장관 更迭(경질)' (Naver News Library article 1990031800239101001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031800239101001, snapshot roster/sources/energy/ext88/nl/nl_1990031800239101001.json (accessed 2026-09-26T09:31:16-0400). Quote: '동자부장관에 李熺逸民自党의원' / '盧대통령은 19일오전李부총리를 비롯한 신임각료에게 임명장을 수여하며'",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '45 동력자원부 이희일 1990년03월19일 ~ 1991년05월27일'",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1990_03_17_0010, snapshot roster/sources/energy/ext88/hist/chron_1990-03-17.html (accessed 2026-09-26T08:49:48-0400). Entry 1990-03-17: '노태우 대통령, 15개 부처 장관 교체' (announcement day)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제10대 이희일 1990년 3월 19일 1991년 5월 26일'"
+   ],
+   "end": "1991-05-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "매일경제 1991-05-27 p.1 '4部(부) 장관 경질' (Naver News Library article 1991052700099201008, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700099201008&editNo=1&printCount=1&publishDate=1991-05-27&officeId=00009&pageNo=1&printNo=7808&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700099201008, snapshot roster/sources/energy/ext88/nl/nl_1991052700099201008.json (accessed 2026-09-26T09:57:16-0400). Quote: '盧泰愚대통령은 26일오후 4部장관을 경질,재무장관에 李龍萬 은행감독원장,법무장관에 金淇春前검찰총장,동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 鄭총리서리를 비롯한 새각료들에게 임명장을 수여했다.'",
+    "매일경제 1991-05-27 p.3 '새長官(장관)맞는 각部處(부처) 표정들' (Naver News Library article 1991052700099203004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700099203004&editNo=1&printCount=1&publishDate=1991-05-27&officeId=00009&pageNo=3&printNo=7808&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700099203004, snapshot roster/sources/energy/ext88/nl/nl_1991052700099203004.json (accessed 2026-09-26T10:04:27-0400). Quote: '李熺逸장관이 중동산유국을 순방중이어서 유임설이 나돌던중 陳稔신임장관을맞은 동자부는 장관경질이 다소 의외라는 표정.'",
+    "BigKinds full text: 경향신문 1991-05-28 '“에너지 안정확보에 최선”/진 신임동자 즉석 취임사' (news_id 01100101.19910528000000707, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19910528000000707&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100101.19910528000000707.json (accessed 2026-09-26T10:05:26-0400). Quote: '진념 신임동력자원부장관은 27일 하오 4시 취임식을 갖고' / '이전임 장관은 26일 하오 사우디에서 국제전화를 통해 개각소식을 전해 듣고'",
+    "한겨레 1991-05-28 p.2 '노태우 대통령이 27일 정원식 총리서리와 재무...' (Naver News Library article 1991052800289102005, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800289102005&editNo=4&printCount=1&publishDate=1991-05-28&officeId=00028&pageNo=2&printNo=936&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052800289102005, snapshot roster/sources/energy/ext88/nl/nl_1991052800289102005.json (accessed 2026-09-26T09:57:19-0400). Quote: '노태우 대통령이 27일 정원식 총리서리와 재무·법무·동자·보사부 장관에게 임명장을 준 뒤 차를 마시고 있다.'",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1991_05_26_0010, snapshot roster/sources/energy/ext88/hist/chron_1991-05-26.html (accessed 2026-09-26T09:06:42-0400). Entry 1991-05-26: '노태우 대통령, 재무장관 이용만·법무장관 김기춘 ·동력자원장관 진념·보건사회장관 안필준 임명' (announcement day)",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '45 동력자원부 이희일 1990년03월19일 ~ 1991년05월27일' (end printed as the successor's start day)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제10대 이희일 1990년 3월 19일 1991년 5월 26일' (gives 1991-05-26, not used)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting 13th NA member at appointment, 전국구 (elected on the 신민주공화당 list, rank 4, 민주자유당 after the 1990 merger). Seat 1988-05-30 to 1990-03-22, exit resigned_on_appointment (NA bill 011507), mona_cd XVI10805, per na_members/na_member_spells_12_22.csv and na_members/na_members_12_22.csv. He submitted his resignation from the Assembly on 1990-03-21 (BigKinds full text: 중앙일보 1990-03-21 '이희일장관 의원 사퇴/전국구 권오석씨 승계' (news_id 01100901.19900321174418002, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900321174418002&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19900321174418002.json (accessed 2026-09-26T09:58:13-0400). Quote: '동자부장관에 임명된 민자당의 이희일의원이 21일 국회에 의원직 사퇴서를 제출했다.').",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript window (2000-06 onward).",
+   "notes": "Named in the 3·17 개각 (1990), announced on the morning of Saturday 1990-03-17, as the 공화계 member of the 민자당 to enter the cabinet. He was briefed at the ministry on Sunday 03-18, received the 임명장 on the morning of 1990-03-19 and held his 취임식 that day. The start follows the 임명장 day, which the motir page and ko.wikipedia also print (medium, see issues). Retained at the 1990-12-27 reshuffle (동아일보 1990-12-27 '교체설이 나돌던 李熺逸장관이유임') and the 1991-02-18 reshuffle (see continuity). Replaced on Sunday 1991-05-26 while on a trip to the Middle East, where he learned of it by telephone from Saudi Arabia. The successor 진념 received the 임명장 on the morning of 1991-05-27 and held his 취임식 at 16:00 that day. No dated 면직 or 이임식 was found, so the end is the successor's 임명장 day (inferred_from_successor). Birth date 1931-03-07 and gender (남) from _rebuild/na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, mona_cd XVI10805). ko.wikipedia '이희일' https://ko.wikipedia.org/w/index.php?oldid=41473285 (revid 41473285, secondary, accessed 2026-09-26T10:00:09-0400, snapshot roster/sources/energy/ext88/persons/kowiki_이희일.json) and Wikidata Q130539530 (Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json)) give 1931-03-26 instead (see issues). Former 농수산부장관 (1979) per the 1990-03-17 profiles (동아일보 1990-03-17 p.4 '維新말기 농수산장관 지내'). No English Wikipedia link and no English Wikidata label, so name_en is null."
+  },
+  {
+   "name": "진념",
+   "name_hanja": "陳稔",
+   "name_en": "Jin Nyum",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12618182 (English label, Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json)). Same value as finance.verified.json.",
+   "birth_date": "1940-12-02",
+   "gender": "M",
+   "ministry": "동력자원부",
+   "office_title": "동력자원부장관",
+   "deputy_pm": false,
+   "start": "1991-05-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1991-05-27 p.1 '4部(부)장관 경질' (Naver News Library article 1991052700209201003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700209201003&editNo=2&printCount=1&publishDate=1991-05-27&officeId=00020&pageNo=1&printNo=21485&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700209201003, snapshot roster/sources/energy/ext88/nl/nl_1991052700209201003.json (accessed 2026-09-26T09:57:18-0400). Quote: '동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 신임 鄭총리서리와 이들 새장관에게 임명장을 주었다.'",
+    "매일경제 1991-05-27 p.1 '4部(부) 장관 경질' (Naver News Library article 1991052700099201008, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700099201008&editNo=1&printCount=1&publishDate=1991-05-27&officeId=00009&pageNo=1&printNo=7808&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700099201008, snapshot roster/sources/energy/ext88/nl/nl_1991052700099201008.json (accessed 2026-09-26T09:57:16-0400). Quote: '盧泰愚대통령은 26일오후 4部장관을 경질,재무장관에 李龍萬 은행감독원장,법무장관에 金淇春前검찰총장,동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 鄭총리서리를 비롯한 새각료들에게 임명장을 수여했다.'",
+    "한겨레 1991-05-28 p.2 '노태우 대통령이 27일 정원식 총리서리와 재무...' (Naver News Library article 1991052800289102005, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800289102005&editNo=4&printCount=1&publishDate=1991-05-28&officeId=00028&pageNo=2&printNo=936&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052800289102005, snapshot roster/sources/energy/ext88/nl/nl_1991052800289102005.json (accessed 2026-09-26T09:57:19-0400). Quote: '노태우 대통령이 27일 정원식 총리서리와 재무·법무·동자·보사부 장관에게 임명장을 준 뒤 차를 마시고 있다.'",
+    "BigKinds full text: 경향신문 1991-05-28 '“에너지 안정확보에 최선”/진 신임동자 즉석 취임사' (news_id 01100101.19910528000000707, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19910528000000707&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100101.19910528000000707.json (accessed 2026-09-26T10:05:26-0400). Quote: '진념 신임동력자원부장관은 27일 하오 4시 취임식을 갖고' / '이전임 장관은 26일 하오 사우디에서 국제전화를 통해 개각소식을 전해 듣고'",
+    "BigKinds full text: 세계일보 1991-05-28 '“에너지 안정공급 위해 최선”/진념 동자부장관(새경제장관 인터뷰)' (news_id 01100701.19910528000000603, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19910528000000603&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100701.19910528000000603.json (accessed 2026-09-26T10:06:04-0400). Quote: '신임 진념 동자부 장관은 취임 포부를 이같이 밝혔다.'",
+    "조선일보 1991-05-27 p.1 '4部長官(부장관) 경질' (Naver News Library article 1991052700239101002, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700239101002&editNo=1&printCount=1&publishDate=1991-05-27&officeId=00023&pageNo=1&printNo=21644&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700239101002, snapshot roster/sources/energy/ext88/nl/nl_1991052700239101002.json (accessed 2026-09-26T09:27:32-0400). Quote: '동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 청와대에서 신임 鄭총리서리와 4부장관에게 임명장을수여한다.'",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1991_05_26_0010, snapshot roster/sources/energy/ext88/hist/chron_1991-05-26.html (accessed 2026-09-26T09:06:42-0400). Entry 1991-05-26: '노태우 대통령, 재무장관 이용만·법무장관 김기춘 ·동력자원장관 진념·보건사회장관 안필준 임명' (announcement day)",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '47 동력자원부 진념 1991년05월27일 ~ 1993년02월25일'",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제11대 진념 1991년 5월 27일 1993년 2월 25일'"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700239105001, snapshot roster/sources/energy/ext88/nl/nl_1993022700239105001.json (accessed 2026-09-26T09:45:16-0400). Quote: '동자부는 26일 오전 쓸쓸한 분위기에서 陳稔장관의 이임식을 갖고 15년간의 독립부처 시대를마감.' / '오후2시 각료 임명장 수여'",
+    "동아일보 1993-02-27 p.23 '動資(동자)-體靑部(체청부) \"우리 앞날 어떻게 되나\"\"' (Naver News Library article 1993022700209223002, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209223002&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=23&printNo=22098&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700209223002, snapshot roster/sources/energy/ext88/nl/nl_1993022700209223002.json (accessed 2026-09-26T09:21:06-0400). Quote: '陳稔동자부장관과 李鎭三체청부장관이 26일 퇴임한후 새로 출범한 내각에서 장관이 임명되지않은 두 부처는 내달초 정부조직개편안이 국무회의에서 의결돼 상공자원부와문화체육부가 발족할 때까지 차관체제로 운영된다.'",
+    "매일경제 1993-02-27 p.2 '장관없는 部處(부처)로 남아' (Naver News Library article 1993022700099202016, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700099202016&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00009&pageNo=2&printNo=8346&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700099202016, snapshot roster/sources/energy/ext88/nl/nl_1993022700099202016.json (accessed 2026-09-26T09:21:02-0400). Quote: '총무처는 앞으로 폐지될 동자부 체육청소년부장관이 의원면직됨에 따라 정부조직법이공포돼 최종확정될 때까지 차관이 직무대리로업무를 수행하게 된다고유권해석.'",
+    "BigKinds full text: 국민일보 1993-02-27 '마지막 장관/정진영 경제부(현장기자)' (news_id 01100201.19930227000000705, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000705&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100201.19930227000000705.json (accessed 2026-09-26T09:49:30-0400). Quote: '26일 오전 과천 동자부청사 지하 대회의장에서 열린 진념동자부장관의 이임식은' / '법률상으로는 상공자원부의 직제가 확정될 때까지 장관만 공석이고'",
+    "BigKinds full text: 한겨레 1993-02-26 '퇴임 경제부처 장관들 유학계획많아' (news_id 01101001.19930226000000603, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930226000000603&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101001.19930226000000603.json (accessed 2026-09-26T09:38:46-0400). Quote: '26일 일제히 퇴임하는 경제부처 장관들은' / '진념 동자부장관은 당분간 쉰 뒤'",
+    "조선일보 1993-02-26 p.7 '「15년 特立(특립)」마감 動資部(동자부),허탈한 분위기' (Naver News Library article 1993022600239107011, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600239107011&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00023&pageNo=7&printNo=22269&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600239107011, snapshot roster/sources/energy/ext88/nl/nl_1993022600239107011.json (accessed 2026-09-26T09:57:21-0400). Quote: '26일부터 일단「장관不在」상태로 들어가는동력자원부는' / '26일오전 퇴임식을 가질 계획.'",
+    "조선일보 1993-02-24 p.6 '흡수통합 동자부 陳(진)장관 離任(이임)날짜잡기 진통' (Naver News Library article 1993022400239106003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400239106003&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00023&pageNo=6&printNo=22267&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022400239106003, snapshot roster/sources/energy/ext88/nl/nl_1993022400239106003.json (accessed 2026-09-26T09:57:22-0400). Quote: '陳稔장관의 이임식날짜를 고심끝에 대통령취임식을 끝낸 25일 오후로 잠정결정.' (plan reported before the inauguration, later moved to 1993-02-26 morning)",
+    "BigKinds full text: 한국일보 1993-02-25 '시한부생명 선고받은 동자부/흡수통합에 직원들 일단 위안' (news_id 01101101.19930225000000704, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930225000000704&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19930225000000704.json (accessed 2026-09-26T10:12:32-0400). Quote: '동자부를 상공부에 흡수시켜 상공자원부로 만든다는 내용의 정부 조직법 개정안이 지난 23일 국회 본회의를 통과했지만' (the merger act passed the plenary on 1993-02-23)",
+    "대통령기록관 연도별 대통령 일정 (tier 2), POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (selPresident=김영삼, year=1993), snapshot roster/sources/energy/ext88/pa/pa_김영삼_1993_p1.html (accessed 2026-09-26T08:49:55-0400). Row 1993-02-26: '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' (new cabinet announced, no 동력자원부장관 in it)",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1993_02_26_0010, snapshot roster/sources/energy/ext88/hist/chron_1993-02-26.html (accessed 2026-09-26T09:05:03-0400). Entry 1993-02-26: '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표'",
+    "산업통상부 역대 장관 page (tier 2), GET https://www.motir.go.kr/kor/21/history?pageIndex=4, snapshot roster/sources/energy/ext88/official/motir_history_p4.html (accessed 2026-09-24T22:43:58-0400). Row: '47 동력자원부 진념 1991년05월27일 ~ 1993년02월25일' (prints 1993-02-25, not used)",
+    "ko.wikipedia '대한민국의 산업통상자원부 장관', table 역대 동력자원부 장관 (tier 4, secondary), https://ko.wikipedia.org/w/index.php?oldid=42290008 (revid 42290008), snapshot roster/sources/energy/ext88/wiki/wiki_대한민국의_산업통상자원부_장관.json (accessed 2026-09-26T09:49:06-0400). Row: '제11대 진념 1991년 5월 27일 1993년 2월 25일' (gives 1993-02-25, not used)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member during the spell. He has no row in na_members/na_members_12_22.csv. He was 경제기획원 차관 when named (동아일보 1991-05-27 '동자장관에 陳稔경제기획원차관').",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript window (2000-06 onward).",
+   "notes": "Named on the afternoon of Sunday 1991-05-26 in the reshuffle that followed 정원식's appointment as 국무총리서리, and given the 임명장 on the morning of 1991-05-27 with 취임식 at 16:00 that day. The start follows the 임명장 day (medium, see issues). Retained through the 1991-12-19, 1992-03-30, 1992-06-25 and 1992-10-09 reshuffles (see continuity). Last 동력자원부장관. He stayed past the 1993-02-25 inauguration of 김영삼. The 이임식 was first planned for the afternoon of 02-25 and then held on the morning of 1993-02-26, the day the first 김영삼 cabinet was named and received the 임명장 (14:00). The new cabinet had no 동력자원부장관, because the 정부조직법 amendment merging the ministry into 상공자원부 had passed the Assembly. 총무처 treated him as 의원면직 and ruled that the 차관 would act until the amendment took effect (매일경제 1993-02-27). end_reason is 'resigned' because he left by 의원면직 while the office still existed. It was abolished on 1993-03-06. The motir page and ko.wikipedia print 1993-02-25. The same person later served as 노동부장관 (education.ext88.json cites 조선일보 1997-08-06 '陳稔(진념)노동장관도 교체'), as 기획예산위원회 위원장, which was not a 국무위원 office (budget.verified.json), and as 기획예산처장관 and 재정경제부장관 (budget.verified.json, finance.verified.json). Birth date 1940-12-02 from ko.wikipedia '진념' https://ko.wikipedia.org/w/index.php?oldid=42413309 (revid 42413309, secondary, accessed 2026-09-24T22:43:38-0400, snapshot roster/sources/energy/ext88/persons/kowiki_진념.json) and Wikidata Q12618182 (Wikidata SPARQL (secondary, accessed 2026-09-26T10:00:10-0400, snapshot roster/sources/energy/ext88/persons/wikidata_persons.json)), the same value as finance.verified.json. Gender M from Wikidata P21 (Q6581097) and BigKinds full text: 한국일보 1991-05-27 '진념 동자장관/경제운용 탁월한 정통관료(새 장관 얼굴)' (news_id 01101101.19910527000002207, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19910527000002207&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19910527000002207.json (accessed 2026-09-26T10:06:18-0400). Quote: '성신여대 교수인 부인 서인정씨(44)와 1남1녀.'."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "최창락",
+   "office_title": "동력자원부장관",
+   "nomination_date": "1986-01-07",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1986-01-08",
+   "sources": [
+    "BigKinds full text: 중앙일보 1986-01-07 '부총리에 김제만씨' (news_id 01100901.19860107015906010, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860107015906010&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19860107015906010.json (accessed 2026-09-26T09:57:35-0400). Quote: '전두환 대통령은 7일 하오 부총리에 김만제 재무장관을 임명하는 등 다음과 같이 개각을 단행했다.'",
+    "동아일보 1986-01-08 p.1 '全大統領(전대통령) 임명장수여' (Naver News Library article 1986010800209201015, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986010800209201015&editNo=2&printCount=1&publishDate=1986-01-08&officeId=00020&pageNo=1&printNo=19774&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1986010800209201015, snapshot roster/sources/energy/ext88/nl/nl_1986010800209201015.json (accessed 2026-09-26T09:57:09-0400). Quote: '崔昌洛동자부장관'",
+    "대통령기록관 연도별 대통령 일정 (tier 2), POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (selPresident=전두환, year=1986), snapshot roster/sources/energy/ext88/pa/pa_전두환_1986_p1.html (accessed 2026-09-26T09:04:35-0400). Row 1986-01-07: '10개 부처 내각 개편' / '국무총리 겸 경제기획원장관 김만제, 재무부장관 정인용, 국방부장관 이기석, 체육부장관 박세직, 동력자원부장관 최창락, 건설부장관 이주효, 총무처장관 정관용, 고갛기술처장관 전학제, 법제처장 이형우, 국가보훈처장 김근주 임명'"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so hearing_required=false. Named in the 1986-01-07 개각 (afternoon) and given the 임명장 on the morning of 1986-01-08."
+  },
+  {
+   "nominee": "이봉서",
+   "office_title": "동력자원부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "BigKinds full text: 중앙일보 1988-02-19 '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임' (news_id 01100901.19880219004312001, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19880219004312001.json (accessed 2026-09-26T09:04:24-0400). Quote: '▲동자=이봉서 현 동자부차관'",
+    "경향신문 1988-02-19 p.1 '새政府(정부) 內閣(내각)명단 발표' (Naver News Library article 1988021900329201004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004&editNo=3&printCount=1&publishDate=1988-02-19&officeId=00032&pageNo=1&printNo=13044&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988021900329201004, snapshot roster/sources/energy/ext88/nl/nl_1988021900329201004.json (accessed 2026-09-26T09:04:12-0400). Quote: '동자부장관에는 李鳳瑞동자부차관이승진기용됐다.'",
+    "매일경제 1988-02-25 p.1 '李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장' (Naver News Library article 1988022500099201010, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500099201010, snapshot roster/sources/energy/ext88/nl/nl_1988022500099201010.json (accessed 2026-09-26T09:05:34-0400). Quote: '제6공화국 신임각료들에게 임명장을 수여했다.'"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so hearing_required=false. Named by the president-elect 노태우 on 1988-02-19 as 동력자원부장관 내정자 and appointed on 1988-02-25, the day he took office."
+  },
+  {
+   "nominee": "이희일",
+   "office_title": "동력자원부장관",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "동아일보 1990-03-17 p.1 '15部(부)장관 更迭(경질)' (Naver News Library article 1990031700209201001, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209201001, snapshot roster/sources/energy/ext88/nl/nl_1990031700209201001.json (accessed 2026-09-26T09:24:48-0400). Quote: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등 경제각료대부분을 포함한 15개 부처장관을 경질하는 대폭적인 내각개편을 단행했다.' / '동자부장관에李熺逸(共和계)'",
+    "동아일보 1990-03-19 p.1 '經濟難(경제난)-民生治安(민생치안)해결 당부' (Naver News Library article 1990031900209201005, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900209201005&editNo=2&printCount=1&publishDate=1990-03-19&officeId=00020&pageNo=1&printNo=21065&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005, snapshot roster/sources/energy/ext88/nl/nl_1990031900209201005.json (accessed 2026-09-26T09:30:28-0400). Quote: '盧泰愚대통령은 19일 오전靑瓦臺에서 3.17개각으로입각한 李承潤부총리등 신임각료에게 임명장을 주고'",
+    "BigKinds full text: 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (news_id 01101101.19900320000000301, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01101101.19900320000000301.json (accessed 2026-09-26T09:24:23-0400). Quote: '개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고' / '이희일 동자부장관 등은'"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so hearing_required=false. Named in the 3·17 개각 (announced on the morning of 1990-03-17) and given the 임명장 on the morning of 1990-03-19."
+  },
+  {
+   "nominee": "진념",
+   "office_title": "동력자원부장관",
+   "nomination_date": "1991-05-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1991-05-27",
+   "sources": [
+    "매일경제 1991-05-27 p.1 '4部(부) 장관 경질' (Naver News Library article 1991052700099201008, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700099201008&editNo=1&printCount=1&publishDate=1991-05-27&officeId=00009&pageNo=1&printNo=7808&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700099201008, snapshot roster/sources/energy/ext88/nl/nl_1991052700099201008.json (accessed 2026-09-26T09:57:16-0400). Quote: '盧泰愚대통령은 26일오후 4部장관을 경질,재무장관에 李龍萬 은행감독원장,법무장관에 金淇春前검찰총장,동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 鄭총리서리를 비롯한 새각료들에게 임명장을 수여했다.'",
+    "동아일보 1991-05-27 p.1 '4部(부)장관 경질' (Naver News Library article 1991052700209201003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700209201003&editNo=2&printCount=1&publishDate=1991-05-27&officeId=00020&pageNo=1&printNo=21485&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1991052700209201003, snapshot roster/sources/energy/ext88/nl/nl_1991052700209201003.json (accessed 2026-09-26T09:57:18-0400). Quote: '동자장관에 陳稔경제기획원차관' / '盧대통령은 27일오전 신임 鄭총리서리와 이들 새장관에게 임명장을 주었다.'",
+    "국사편찬위원회 대한민국사연표 (tier 2), https://db.history.go.kr/id/tcct_1991_05_26_0010, snapshot roster/sources/energy/ext88/hist/chron_1991-05-26.html (accessed 2026-09-26T09:06:42-0400). Entry 1991-05-26: '노태우 대통령, 재무장관 이용만·법무장관 김기춘 ·동력자원장관 진념·보건사회장관 안필준 임명'"
+   ],
+   "notes": "국무위원 had no confirmation hearing before 2005 (인사청문 for 국무위원 took effect 2005-07-28), so hearing_required=false. Named on the afternoon of Sunday 1991-05-26 and given the 임명장 on the morning of 1991-05-27."
+  }
+ ],
+ "acting": [
+  {
+   "name": "김시형",
+   "name_hanja": "金時衡",
+   "role": "동력자원부 차관, 장관 직무대리 after 진념's 의원면직 on 1993-02-26. 총무처 ruled that the 차관 would act until the 정부조직법 amendment took effect, and the ministry ran under the 차관 (차관체제). He is the 차관 in office in February 1993. No source names him as 직무대리, so the record is inferred. He was appointed 국무총리 행정조정실장 in the 차관급 인사 of 1993-03-04 and received that 임명장 on the afternoon of 03-04, so the record ends that day. No acting head is recorded for 1993-03-05, the ministry's last day.",
+   "from": "1993-02-27",
+   "to": "1993-03-04",
+   "inferred": true,
+   "sources": [
+    "매일경제 1993-02-27 p.2 '장관없는 部處(부처)로 남아' (Naver News Library article 1993022700099202016, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700099202016&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00009&pageNo=2&printNo=8346&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700099202016, snapshot roster/sources/energy/ext88/nl/nl_1993022700099202016.json (accessed 2026-09-26T09:21:02-0400). Quote: '총무처는 앞으로 폐지될 동자부 체육청소년부장관이 의원면직됨에 따라 정부조직법이공포돼 최종확정될 때까지 차관이 직무대리로업무를 수행하게 된다고유권해석.'",
+    "동아일보 1993-02-27 p.23 '動資(동자)-體靑部(체청부) \"우리 앞날 어떻게 되나\"\"' (Naver News Library article 1993022700209223002, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209223002&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=23&printNo=22098&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700209223002, snapshot roster/sources/energy/ext88/nl/nl_1993022700209223002.json (accessed 2026-09-26T09:21:06-0400). Quote: '陳稔동자부장관과 李鎭三체청부장관이 26일 퇴임한후 새로 출범한 내각에서 장관이 임명되지않은 두 부처는 내달초 정부조직개편안이 국무회의에서 의결돼 상공자원부와문화체육부가 발족할 때까지 차관체제로 운영된다.'",
+    "매일경제 1993-02-22 p.4 '人物(인물)' (Naver News Library article 1993022200099204004, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022200099204004&editNo=1&printCount=1&publishDate=1993-02-22&officeId=00009&pageNo=4&printNo=8341&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022200099204004, snapshot roster/sources/energy/ext88/nl/nl_1993022200099204004.json (accessed 2026-09-26T09:57:24-0400). Quote: '金時衡 동자부차관은 20일' (차관 on 1993-02-20)",
+    "동아일보 1993-03-04 p.1 '次官級(차관급)-市道知事(시도지사) 인사' (Naver News Library article 1993030400209201003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030400209201003&editNo=1&printCount=1&publishDate=1993-03-04&officeId=00020&pageNo=1&printNo=22103&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993030400209201003, snapshot roster/sources/energy/ext88/nl/nl_1993030400209201003.json (accessed 2026-09-26T09:23:54-0400). Quote: '행정조정실장에 金時衡동자부차관'",
+    "경향신문 1993-03-05 p.2 '신임次官級(차관급)에 임명장 金(김)대통령이 직접수여' (Naver News Library article 1993030500329102002, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030500329102002&editNo=12&printCount=1&publishDate=1993-03-05&officeId=00032&pageNo=2&printNo=14691&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993030500329102002, snapshot roster/sources/energy/ext88/nl/nl_1993030500329102002.json (accessed 2026-09-26T10:04:38-0400). Quote: '金泳三대통령은 4일 오후 청와대에서 이날 임명된 각부처 차관,외청장시도지사,감사위원을 비롯한 차관급에 대한 임명장을 수여했다.'",
+    "한겨레 1993-03-05 p.14 '\"낙동강 오리알 신세\"' (Naver News Library article 1993030500289114008, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030500289114008&editNo=5&printCount=1&publishDate=1993-03-05&officeId=00028&pageNo=14&printNo=1492&publishType=00010), POST https://newslibrary.naver.com/api/article/detail/json articleId=1993030500289114008, snapshot roster/sources/energy/ext88/nl/nl_1993030500289114008.json (accessed 2026-09-26T10:04:59-0400). Quote: '부처가 없어진 동자부의 직원들은 김시형 차관이 국무총리실행정조정실장으로 영전되자'",
+    "BigKinds full text: 동아일보 1993-03-04 '金時衡행정조정실장' (news_id 01100401.19930304063328014, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19930304063328014&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100401.19930304063328014.json (accessed 2026-09-26T10:05:52-0400). Quote: '△동자부차관'",
+    "ko.wikipedia '대한민국 동력자원부' (secondary), https://ko.wikipedia.org/w/index.php?oldid=41783262 (revid 41783262), snapshot roster/sources/energy/ext88/wiki/wiki_동력자원부.json (accessed 2026-09-26T09:48:39-0400). 차관 table row '7대 김시형(金時衡) 1991년 5월 28일 ~ 1993년 3월 3일' (end one day earlier than the news)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Start-date convention for reshuffles announced before the 임명장. Pre-2001 there is no gazette file. This file starts each spell on the 임명장 day, which is also the day the motir 역대 장관 page (tier 2) prints for every holder here, and ends a replaced minister on the successor's 임명장 day (inferred_from_successor) when no dated acceptance was found. Split cases, announcement -> 임명장: 최창락 1986-01-07 -> 01-08, 이희일 1990-03-17 -> 03-19, 진념 1991-05-26 -> 05-27, each with start_confidence 'medium' and the announcement day as nomination_date. The same rule is used in agriculture, finance, interior, justice, general_affairs and science ext88 files. epb.ext88.json instead ends 조순 on 1990-03-17, so the 1990-03-17/19 reshuffle is handled differently across lineages. If the announcement day were the legal date, 이봉서 would end on 1990-03-17 (the cabinet had resigned en bloc on 1990-03-16, 세계일보 1990-03-17) with 1990-03-18 vacant, and 이희일 would end on 1991-05-26. industry.ext88.partial.json ends 한승수 (상공부) on 1990-03-17 because his 퇴임식 is dated that morning (동아일보 1990-03-17 p.2). A rerun search on 2026-09-26 (9 News Library and BigKinds queries for 동자부 이임식, 이봉서 이임식/퇴임 in 1990-03-16..22 and 이희일 이임식/귀국 in 1991-05-26..06-10, roster/sources/energy/ext88/handover_check.json, snapshots roster/sources/energy/ext88/nl_search/hc_*.json and roster/sources/energy/ext88/bk_search/hc_*.json, accessed 2026-09-26T12:49:20-0400 to 12:49:50-0400) found no dated 이임식 or 퇴임 for 이봉서. 이희일 was still abroad on 1991-05-28 (조선일보 1991-05-28 p.2 '過客장관', article 1991052800239102005, search snippet '李熺逸(이희일)전장관이 아직 해외출장에서귀국하지 않은 동자부도'), so no dated exit before the successor's 임명장 was found for him. Both ends stay inferred_from_successor."
+  },
+  {
+   "severity": "medium",
+   "desc": "진념's end is 1993-02-26 although the motir page and ko.wikipedia print 1993-02-25. 조선일보 1993-02-24 reported an 이임식 planned for the afternoon of 02-25, but 조선일보 1993-02-26 reported it moved to the morning of 02-26, and 조선일보, 동아일보 and 국민일보 of 1993-02-27 report that it took place and that he 퇴임 on 02-26. 매일경제 1993-02-27 reports 의원면직. No document with the formal 면직 date was found. The sports lineage ends 이진삼 (체육청소년부, same situation) on 1993-02-26 as well."
+  },
+  {
+   "severity": "medium",
+   "desc": "Vacancy 1993-02-27 to 1993-03-05 (7 days) after 진념, with no successor because 동력자원부 was merged into 상공자원부. The acting record for 차관 김시형 (1993-02-27 to 1993-03-04) is inferred from 총무처's ruling that the 차관 would act (매일경제 1993-02-27) and the report that the ministry ran under the 차관 (동아일보 1993-02-27). He was named 행정조정실장 on 1993-03-04. No acting head was found for 1993-03-05. ko.wikipedia ends his 차관 term on 1993-03-03."
+  },
+  {
+   "severity": "low",
+   "desc": "Abolition date. offices_1988.json (OFA27) ends 동력자원부 on 1993-03-05, since 법률 제4541호 and 대통령령 제13870호 were promulgated and took effect on 1993-03-06 (국가기록원 gives 1993.03.06 as the abolition day). Several papers dated 1993-03-05 (서울경제, 한국경제, 헤럴드경제, 전자신문 via BigKinds) say 상공자원부 '4일 정식출범', which refers to the 국무회의 of 1993-03-04 that approved the 공포안 and the 직제 (경향신문 1993-03-05 p.2). 동아일보 1993-03-01 says the ministry legally remained 동력자원부 until the law took effect. This file keeps the legal inventory dates. The dates do not affect any spell, since the last minister left on 1993-02-26."
+  },
+  {
+   "severity": "low",
+   "desc": "Holder list is complete for the window. The motir 역대 장관 page (tier 2), the ko.wikipedia tables ('대한민국의 산업통상자원부 장관', '동력자원부') and the day-of news name the same four holders from 1986-01-08 to 1993-02-26 (최창락, 이봉서, 이희일, 진념). Retention at every 노태우 reshuffle that did not replace the minister is shown in continuity (1988-12-05, 1989-07-19, 1990-01-03, 1990-09-19, 1990-12-27, 1991-02-18, 1991-12-19, 1992-03-30, 1992-06-25, 1992-10-09). No 동력자원부 spell continues past 1998-02-24, so there are no from_main records. likms searches for 동력자원부 bills in the 12th to 14th Assembly returned nothing (likms.json). The PM consent motions are in the pm lineage."
+  },
+  {
+   "severity": "low",
+   "desc": "이희일 birth date conflict. The NA record (na_members_12_22.csv, NA-API) gives 1931-03-07, which is used. ko.wikipedia '이희일' (revid 41473285) and Wikidata Q130539530 give 1931-03-26. Birth dates for 최창락, 이봉서 and 진념 are from ko.wikipedia and Wikidata (secondary). Wikidata has year precision only for 최창락."
+  },
+  {
+   "severity": "low",
+   "desc": "Person consistency across lineages. 이봉서 also held 상공부장관 from 1990-12-27 (동아일보 1990-12-27, cited in his notes). The end of that spell belongs to the industry lineage, whose working file industry.ext88.partial.json had 1991-12-19 when this file was rebuilt. 진념 later served as 노동부장관 (education.ext88.json and environment.ext88.json cite 1997 news naming him 노동장관), as 기획예산위원회 위원장 (not a 국무위원 office) and as 기획예산처장관 and 재정경제부장관 (budget.verified.json, finance.verified.json). An earlier build of this file gave 1991-12-20 and '1995-1997' for these posts without a source, and the rebuild removed them. name_en here is the Wikidata English label ('Jin Nyum', as in finance.verified.json, and 'I Bong-seo', which looks like a mechanical romanization). The industry and labor files should use the same hanja, birth date and name_en."
+  },
+  {
+   "severity": "medium",
+   "desc": "Verifier (2026-09-26). Two points found in sources the builder did not use, see verification.per_spell. (1) 진념's end is disputed. 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) reports that the outgoing cabinet's resignations were all accepted on 25 Feb 1993, 서울경제 1993-02-26 already calls him 前동자부장관, and the builder's own 조선일보 1993-02-26 p.7 has the ministry without a minister from 26 Feb, while the 이임식 was on the morning of 26 Feb. The value stays 1993-02-26 with end_confidence medium until the 1993 transition is settled across lineages. (2) Issue 1 says no dated 이임식 was found for 이봉서. 세계일보 1990-03-18 (BigKinds 01100701.19900318000000207) reports his 이임인사 in its story of the announcement day, 17 Mar 1990. His end stays 1990-03-19 under the same-day handover rule, which interior, transport and sports also apply to ministers whose 이임식 was on 17 Mar."
+  }
+ ],
+ "continuity": {
+  "steps": [
+   "same-day handover 1988-02-25 최창락 (동력자원부) -> 이봉서 (동력자원부)",
+   "retained 1988-12-05 이봉서 (전면개각, 동자부 one of four ministries whose head stayed)",
+   "retained 1989-07-19 이봉서 (still 동자부장관 on 1989-07-19 and after)",
+   "retained 1990-01-03 이봉서 (still 동자부장관 on 1990-01-09)",
+   "same-day handover 1990-03-19 이봉서 (동력자원부) -> 이희일 (동력자원부)",
+   "retained 1990-09-19 이희일 (still 동자부장관 on 1990-09-26)",
+   "retained 1990-12-27 이희일 (동아일보 1990-12-27 '李熺逸장관이유임')",
+   "retained 1991-02-18 이희일 (still 동자부장관 on 1991-03-02)",
+   "same-day handover 1991-05-27 이희일 (동력자원부) -> 진념 (동력자원부)",
+   "retained 1991-12-19 진념 (7부 개각 did not include 동자부, still 장관 on 1991-12-23)",
+   "retained 1992-03-30 진념 (still 장관 on 1992-04-09)",
+   "retained 1992-06-25 진념 (still 장관 on 1992-06-30)",
+   "retained 1992-10-09 진념 (중립내각, still 장관 at the 1992-10-15 국정감사)",
+   "exit without successor 1993-02-26 진념 (의원면직), office abolished 1993-03-06"
+  ],
+  "vacancies": [
+   {
+    "after": "진념",
+    "before": null,
+    "vacant_from": "1993-02-27",
+    "vacant_to": "1993-03-05",
+    "days": 7,
+    "acting": [
+     "김시형 1993-02-27..1993-03-04 (inferred)"
+    ],
+    "days_without_acting_record": 1,
+    "note": "No minister was appointed because the office was being abolished (정부조직법 법률 제4541호, in force 1993-03-06)."
+   }
+  ],
+  "retention_evidence": [
+   "동아일보 1988-12-05 p.1 '총리에 姜英勲(강영훈)씨' (Naver News Library article 1988120500209201003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500209201003, snapshot roster/sources/energy/ext88/nl/nl_1988120500209201003.json (accessed 2026-09-26T09:08:16-0400). Quote: '李鳳瑞동자부장관 金容甲총무처장관 李洪九통일원장관 玄鴻柱법제처장등 4명은 유임됐다.'",
+   "경향신문 1988-12-05 p.1 '總理(총리)에 姜英勳(강영훈)씨' (Naver News Library article 1988120500329201003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329201003, snapshot roster/sources/energy/ext88/nl/nl_1988120500329201003.json (accessed 2026-09-26T09:22:02-0400). Quote: '李鳳瑞동자·金容甲총무처·李洪九통일원·玄鴻柱법제처장과 金永駿감사원장은 유임됐다.'",
+   "BigKinds full text: 중앙일보 1988-12-05 '“에너지 전문가라 유임”' (news_id 01100901.19881205055020002, GET https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205055020002&returnCnt=1&sectionDiv=1000), snapshot roster/sources/energy/ext88/bk/bk_01100901.19881205055020002.json (accessed 2026-09-26T09:57:49-0400). Quote: '경제부처 가운데 유일하게 장관이 유임된 동자부 직원들은'",
+   "동아일보 1990-12-27 p.7 '경제팀 대부분留任(유임)에 안도분위기' (Naver News Library article 1990122700209207003, OCR text, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209207003&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=7&printNo=21341&publishType=00020), POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700209207003, snapshot roster/sources/energy/ext88/nl/nl_1990122700209207003.json (accessed 2026-09-26T10:05:08-0400). Quote: '동력자원부는 교체설이 나돌던 李熺逸장관이유임된데 이어 전임李鳳瑞장관이 상공부장관으로 발탁돼 경사분위기.'",
+   "News Library search '李鳳瑞 동자부장관' 1988-12-06..1988-12-20 (after the 1988-12-05 reshuffle), 3 hits, snapshot roster/sources/energy/ext88/nl_search/cont_795f88e35e_p1.json (accessed 2026-09-26T09:58:59-0400). First hit: 매일경제 1988-12-13 '行政(행정)차원 實務(실무)경험 뒷받침' (article 1988121300099203038), snippet '李鳳瑞(이봉서)장관이 유임으로 한숨을 돌린 동자부는 이번차관급인사에서도 흠들리지 않자 당분간 안정된 분위기가지속될 것으로 보고 만족스런 모습.   동자부의 한관계자는 李(이)차관개인적으로는 섭...'",
+   "News Library search '李鳳瑞 동자부장관' 1989-07-20..1989-08-05 (after the 1989-07-19 reshuffle), 9 hits, snapshot roster/sources/energy/ext88/nl_search/cont_3787e1f83d_p1.json (accessed 2026-09-26T09:59:04-0400). First hit: 매일경제 1989-07-20 '送油管路(송유관로) 준공식참석' (article 1989072000099203013), snippet '送油管路(송유관로) 준공식참석   李鳳瑞(이봉서)동자부장관은19일 瑞山(서산)에서 天安(천안)을 잇는 송유관로 1구간 준공식에 참석.'",
+   "News Library search '李鳳瑞 동자부장관' 1990-01-04..1990-01-20 (after the 1990-01-03 reshuffle), 4 hits, snapshot roster/sources/energy/ext88/nl_search/cont_4b9f606ee1_p1.json (accessed 2026-09-26T09:59:07-0400). First hit: 조선일보 1990-01-10 '\"油価(유가)-전기료 引下(인하)안해 경기부양 효과 不分明(불분명)\" 李' (article 1990011000239102005), snippet '\"油価(유가)-전기료 引下(인하)안해 경기부양 효과 不分明(불분명)\" 李(이)동자  李鳳瑞(이봉서)동자부장관은 9일최근 업계등에서 요구하고있는 油価(유가)와 전기료 인하 문제를 검토한바 없다고 밝혔다....'",
+   "News Library search '李熺逸 동자부장관' 1990-09-20..1990-10-05 (after the 1990-09-19 reshuffle), 2 hits, snapshot roster/sources/energy/ext88/nl_search/cont_90fdfa909a_p1.json (accessed 2026-09-26T09:59:10-0400). First hit: 매일경제 1990-09-26 '經濟(경제)운용 全面(전면)재검토' (article 1990092600099201001), snippet '盧(노)대통령은 26일상오 李承潤(이승윤)부총리를 비롯,曺京植(조경식)농림수산,朴弼秀(박필수)상공,李相熙(이상희)건설,崔永喆(최영철)노동,李熺逸(이희일)동자부장관등 6개부처 경제장관을 청와대로불러...'",
+   "News Library search '李熺逸 유임' 1990-12-27..1990-12-29 (after the 1990-12-27 reshuffle), 4 hits, snapshot roster/sources/energy/ext88/nl_search/cont_b7b1ec5a7a_p1.json (accessed 2026-09-26T09:59:11-0400). First hit: 조선일보 1990-12-27 '\"官街(관가) 일손 못잡는다\"앞당겨개봉' (article 1990122700239103001), snippet '그러나 범죄와의 전쟁중말을 갈아탈수 없다는 점과3월말 地自制(지자제)선거가 있다는점등을 감안,일단 유임이확정됐다고.  의원 입각 케이스인 金正秀(김정수)보사 李熺逸(이희일)동자부장관의경우,내각...'",
+   "News Library search '李熺逸 동자부장관' 1990-12-28..1991-01-10 (after the 1990-12-27 reshuffle), 7 hits, snapshot roster/sources/energy/ext88/nl_search/cont_0e14fef3f7_p1.json (accessed 2026-09-26T09:59:14-0400). First hit: 조선일보 1990-12-30 '李(이)동자 留任(유임) 힘입어 에너지 절약정책 강화' (article 1990123000239107005), snippet '李(이)동자 留任(유임) 힘입어 에너지 절약정책 강화 에너지정책국 추진  〇…동자부는 李熺逸(이희일)장관이 이번 개각에서 유임됨에 따라 李(이)장관이 취임초부터 강조해온 에너지절약 정책을 더욱 강...'",
+   "News Library search '李熺逸 동자부장관' 1991-02-19..1991-03-05 (after the 1991-02-18 reshuffle), 3 hits, snapshot roster/sources/energy/ext88/nl_search/cont_eb85b3f882_p1.json (accessed 2026-09-26T09:59:19-0400). First hit: 동아일보 1991-02-19 '崔珏圭(최각규) 부총리 불도저型(형) 3共(공) 輸出(수출)드라이브 주역' (article 1991021900209208001), snippet '소위 3共(공)경제관료의 核(핵)으로 그의 등용이 李熺逸(이희일)동자부장관등의기용과 함께 3共(공)식경제정책회귀가아니냐는 평가도 있다. 이따금 자기논리에만 맞춰 밀어붙이는 생각으로 아랫사람들이「...'",
+   "News Library search '陳稔 동자부장관' 1991-12-20..1992-01-05 (after the 1991-12-19 reshuffle), 6 hits, snapshot roster/sources/energy/ext88/nl_search/cont_049850b105_p1.json (accessed 2026-09-26T09:59:25-0400). First hit: 경향신문 1991-12-20 '「經濟難(경제난) 탈출」에 총력' (article 1991122000329107001), snippet '또 그동안 지역구 공천설에 휩싸여 있던 李龍萬(이용만)재무·陳稔(진념)동자부장관 등에게 고유의 업무에 전념토록 했다는 부수적 의미도찾을 수 있다.   崔(최)부총리는 이날 개각발표 직전 기자들과 만...'",
+   "News Library search '陳稔 동자부장관' 1992-03-31..1992-04-15 (after the 1992-03-30 reshuffle), 3 hits, snapshot roster/sources/energy/ext88/nl_search/cont_41871a6d4e_p1.json (accessed 2026-09-26T09:59:28-0400). First hit: 매일경제 1992-04-09 '韓國(한국)에너지政策(정책) 강연' (article 1992040900099218009), snippet '韓國(한국)에너지政策(정책) 강연   陳稔(진념)동자부장관은 9일韓電(한전)대강당에서원자력문화재단이 주관한조찬회에서 참석,「한국의에너지정책과 원자력의 역할」에 대한 주제로 연설.'",
+   "News Library search '陳稔 동자부장관' 1992-06-26..1992-07-10 (after the 1992-06-25 reshuffle), 13 hits, snapshot roster/sources/energy/ext88/nl_search/cont_73c1974d3d_p1.json (accessed 2026-09-26T09:59:31-0400). First hit: 동아일보 1992-07-01 '原油(원유)1배럴 도입때 基金(기금)1.7달러징수' (article 1992070100209207009), snippet '陳稔(진념)동자부장관은 30일오후 장관실에서 가진 정유5사 사장단과의 간담회에서 이같이 밝혔다.   동자부는 조성되는 기금은△석탄가격보전(연간 1천90억원수준)△액화석유가스(LPG)도입원가차액보전(...'",
+   "News Library search '陳稔 동자부장관' 1992-10-10..1992-10-25 (after the 1992-10-09 reshuffle), 5 hits, snapshot roster/sources/energy/ext88/nl_search/cont_b9b1e44208_p1.json (accessed 2026-09-26T09:59:38-0400). First hit: 조선일보 1992-10-15 '오늘부터 国監(국감) 돌입' (article 1992101500239102002), snippet '동자위에서 陳稔(진념)동자부장관은『국내석탄산업을보호하기 위해 석탄수입을일체 중단하고 국내생산분과 재고분을 사용토록 하겠다』고 말했고『석유사업기금의 방만한 운영을 막도록 타목적 및 타부문 ...'"
+  ]
+ },
+ "build": {
+  "script": "roster/scripts/energy_ext88_12_build.py",
+  "scripts": [
+   "roster/scripts/energy_ext88_01_lists.py",
+   "roster/scripts/energy_ext88_02_wiki_moti.py",
+   "roster/scripts/energy_ext88_03_schedule_chron.py",
+   "roster/scripts/energy_ext88_04_news_search.py",
+   "roster/scripts/energy_ext88_05_news_search2.py",
+   "roster/scripts/energy_ext88_06_read.py",
+   "roster/scripts/energy_ext88_07_continuity.py",
+   "roster/scripts/energy_ext88_08_persons.py",
+   "roster/scripts/energy_ext88_09_gender.py",
+   "roster/scripts/energy_ext88_10_acting.py",
+   "roster/scripts/energy_ext88_11_likms.py",
+   "roster/scripts/energy_ext88_12_build.py",
+   "roster/scripts/energy_ext88_13_handover_check.py"
+  ],
+  "snapshots": "roster/sources/energy/ext88/"
+ },
+ "verification": {
+  "verified_at": "2026-09-26T14:00:24-0400",
+  "verifier": "adversarial verifier, lineage energy, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/energy.ext88.json",
+  "input_built_at": "2026-09-26T12:50:39-0400",
+  "started_at": "2026-09-26T13:25:03-0400",
+  "steps_done": [
+   "step 0 (2026-09-26T13:25:03-0400). Read the builder file (4 spells, 4 nominations, 1 acting record, 7 issues), offices_1988.json (OFA27 동력자원부 1988-02-25..1993-03-05, deputy_pm_title [], lineage gap 1993-03-06..1998-02-27) and SOURCES_TOOLKIT.md. The builder's cited News Library ids (40) and BigKinds ids (20) were saved to ext88_verify/builder_cited_ids.json so that every re-check uses other articles.",
+   "step 1 (2026-09-26T13:28:12-0400). 국가기록원 기관연혁 상세정보 for 동력자원부 (OG0022671), which the builder did not use, with its 기관장 list (roster/scripts/energy_ext88_verify_00_archives.py, ext88_verify/archives_heads.json). Namu Wiki returned HTTP 403 (Cloudflare) twice.",
+   "step 2 (from 2026-09-26T13:25:44-0400). Monthly News Library tally 1988-01..1993-03 (roster/scripts/energy_ext88_verify_01_monthly_tally.py). A BigKinds monthly tally (roster/scripts/energy_ext88_verify_02_bk_tally.py) was stopped after 3 rows because the shared BigKinds throttle was saturated.",
+   "step 3 (2026-09-26T13:31). Builder quote check (roster/scripts/energy_ext88_verify_04_quotecheck_builder.py, ext88_verify/builder_quote_check.json). All 92 quotes the builder attached to News Library and BigKinds snapshots are substrings (whitespace-insensitive) of the saved text. The motir rows for the four holders were read in the builder's snapshot.",
+   "step 4 (2026-09-26T13:26 to 13:53). Targeted searches per event in both archives, first in hangul and then in hanja for the BigKinds papers of 1986-1991, plus searches for 일괄사표 in 1993, for lists of all 동자부 ministers at the abolition and for a 겸임 after 진념 (roster/scripts/energy_ext88_verify_03_targeted.py, 53 searches, ext88_verify/targeted.json, snapshots in ext88_verify/nl_search and ext88_verify/bk_search).",
+   "step 5 (2026-09-26T13:33 to 13:50). Full text of the selected hits that the builder did not cite (roster/scripts/energy_ext88_verify_05_fulltext.py, ext88_verify/fulltext.json, snapshots in ext88_verify/nl and ext88_verify/bk). BigKinds and News Library responses served from the shared cache keep the time of their first download as the access time.",
+   "step 6 (2026-09-26T14:00:24-0400). Build with quote checks (roster/scripts/energy_ext88_verify_07_build.py and _07_content.py). 50 quotes checked. Each quote was located in the saved snapshot (match ignoring whitespace, with NFKC so that CJK compatibility ideographs match) and the printed quote is then copied from the snapshot text itself, so characters such as 金 (U+F90A) appear as the source prints them and only runs of whitespace are collapsed. News Library quotes were checked against the OCR text, not the page images.",
+   "step 7 resume check (2026-09-26T21:17:24-0400). The run was restarted. The partial file already had state complete and was identical to the final file. The input roster/energy.ext88.json is unchanged (built_at 2026-09-26T12:50:39-0400 equals input_built_at). The spells differ from the input only in 진념 end_confidence (high to medium), the issues list has the one appended verifier issue, and all 113 snapshot paths plus the two hc_*.json search globs (18 files) and all 22 scripts cited in the file exist on disk. No value was changed in this step.",
+   "step 8 resume check (2026-09-27T21:48:17-0400 to 2026-09-27T21:50:01-0400). The run was restarted again. The final file was complete and identical to the partial. Local checks only (roster/scripts/energy_ext88_verify_08_resume_check.py, output roster/sources/energy/ext88_verify/resume_check_step8.json). The input roster/energy.ext88.json is unchanged (built_at 2026-09-26T12:50:39-0400, sha256 7a025bc1dda62b62...), and the spells still differ from it only in 진념 end_confidence. OFA27 and the energy lineage gap in offices_1988.json are unchanged (file last modified 2026-09-26 09:01). All 43 distinct quote and snapshot pairs in the verification object were found again in their snapshots, and all 123 cited snapshot and script paths exist. Other ext88 verifiers finished after step 6, so three dispute notes (disputes 0, 1 and 3) had stale cross-lineage counts. They were refreshed and a dated note was appended to per_spell['3'] (roster/scripts/energy_ext88_verify_09_resume_update.py). No spell, nomination, acting or issue value changed, and the summary counts are unchanged."
+  ],
+  "summary": {
+   "n_spells": 4,
+   "confirmed": 3,
+   "corrected": 0,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 4,
+   "acting_entries": 1,
+   "fields_changed": 1,
+   "issues_appended": 1
+  },
+  "completeness": [
+   "Independent holder list 1, a monthly News Library tally of the name printed before the title (queries 동자부장관 and 동력자원부장관 for every month 1988-01..1993-03, plus 동자장관 for 1988-01..1988-07, 133 monthly queries, script roster/scripts/energy_ext88_verify_01_monthly_tally.py, output roster/sources/energy/ext88_verify/monthly_tally.json, search snapshots in roster/sources/energy/ext88_verify/nl_search, first query accessed 2026-09-26T13:25:44-0400, last 2026-09-26T14:00:03-0400). The leading current-holder name runs 최창락 (1988-01..1988-01), 이봉서 (1988-02..1990-02), 이희일 (1990-03..1991-05), 진념 (1991-06..1993-02), none (1993-03..1993-03). Months with two holder names (handover months) are 1988-02 (이봉서, 최창락), 1990-03 (이희일, 이봉서), 1991-05 (이희일, 진념). Names printed as former ministers ('X전동자부장관') are 이봉서 11, 이희일 9, 최동규 8, 최창락 6, 박봉환 3, 이선기 2, 서상철 2, 장예준 1, 유양수 1, all earlier holders. Other strings caught by the pattern with 3 or more hits are 역대 12, 건설 5, 거쳐 4, 신임 4, 위해 3, 그동안 3, 따라 3. These are OCR fragments and words such as '역대' and '신임', checked in the snippets, and none is a person who held the office.",
+   "Independent holder list 2 (tier 2). 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '최동규 장관 ( 1983.10.05 ~ 1986.01.07 ) 최창락 장관 ( 1986.01.08 ~ 1988.02.24 ) 이봉서 장관 ( 1988.02.25 ~ 1990.03.18 ) 이희일 장관 ( 1990.03.19 ~ 1991.05.26 ) 진념 장관 ( 1991.05.27 ~ 1993.02.25 )'] [summary: the same four holders in the window, in the same order, with no other name. This list and the motir page share an origin (the ministry's own 역대 장·차관 page), so it is not independent of the builder's motir source for dates].",
+   "Independent holder list 3 (tier 3). 국민일보 1990-03-17 '6공화국 개각 일지' (BigKinds news_id 01100201.19900317000000419, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900317000000419&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:39-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100201.19900317000000419.json) [quote: '△88.2.19 조각=이현재(총리) 나웅배(부총리) 최광수(외무) 이상희(내무) 사공일(재무) 정해창(법무) 오자복(국방) 김영식(문교) 조상호(체육) 윤근환(농수산) 안병화(상공) 이봉서(동자)'] [summary: a chronology of every 6공 reshuffle from 1988-02-19 to 1989-12-27. 동자 appears only in the 2·19 조각, so no other 동자부 change happened between 1988-02-25 and the 3·17 개각 of 1990] | 경향신문 1993-02-25 p.17 '동력자원부 73년 1차石油파동 계기 발족…15년 존속 원자력발전소 확충·해외 유전개발등 주도' (Naver News Library article 1993022500329117004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022500329117004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022500329117004&editNo=15&printCount=1&publishDate=1993-02-25&officeId=00032&pageNo=17&printNo=14683&publishType=00010, accessed 2026-09-26T13:44:50-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1993022500329117004.json) [quote: '그동안 거쳐간 장관은초대 張禮準장관에서 마지막 陳稔장관까지 11명으로평균 재임기간은 1년4개월. 최장수 장관은 7대崔東奎장관으로'] [summary: 11 ministers in all from 1978 to 1993, the 7th being 최동규. With the 국가기록원 order (최동규, 최창락, 이봉서, 이희일, 진념), the 8th to 11th are the four holders in the builder file, so there is no fifth holder in 1986-1993].",
+   "1988 transition from 전두환. One holdover (최창락), included with one day in the window. 한국경제 1988-02-17 '4, 5部處내정된듯' (BigKinds news_id 02100601.19880217192934103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880217192934103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:47:21-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100601.19880217192934103.json) [quote: '崔昌洛동자부장관'] [summary: still 동자부장관 on 16-17 Feb 1988, when he was mentioned as a 부총리 candidate for the new government]. He did not leave early to run in the 1988-04-26 general election (tally 1988-01..02, no NA row).",
+   "Elections. No 동자부장관 left office to run in the 1988 (4·26) or 1992 (3·24) general elections. The tally has 이봉서 as the only holder name in 1988-03, 1988-04 and 1988-05 and 진념 as the only holder name in 1992-02, 1992-03 and 1992-04 (checked in the build). The office was abolished before the 1995 local and 1996 general elections.",
+   "1993 transition and merger. 진념 left on 1993-02-26 (end disputed, 02-25 or 02-26) and no 동자부장관 was named in the first 김영삼 cabinet. 서울경제 1993-02-27 '15년만에 문닫는 동력자원部 에너지需給안정 큰 기여' (BigKinds news_id 02100311.19930227162816003, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19930227162816003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:18-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100311.19930227162816003.json) [quote: '최소한 장관은 겸임발령을 내렸어야 했다'] [summary: ministry staff complained that the new 상공부장관 had not even been given a concurrent appointment, so no one held the office by 겸임 after 진념]. The office was merged into 상공자원부 (industry lineage) on 1993-03-06. No holder was in office at the merger, so there is no renamed or merged office within any tenure.",
+   "Reshuffles that kept the minister, checked in the tally and the builder's continuity, were 1988-12-05, 1989-07-19, 1990-01-03 (이봉서), 1990-09-19, 1990-12-27, 1991-02-18 (이희일), 1991-12-19, 1992-03-30, 1992-06-25, 1992-10-09 (진념). No short tenure between them.",
+   "Namu Wiki (secondary) could not be used. It returned HTTP 403 (Cloudflare) at 2026-09-26T13:27:20-0400 and 13:29:32-0400 (ext88_verify/archives_heads.json). A monthly BigKinds tally (roster/scripts/energy_ext88_verify_02_bk_tally.py) was stopped after 3 rows because the shared BigKinds throttle was saturated by other agents, and was not needed after the three lists above."
+  ],
+  "continuity_check": [
+   {
+    "from": "최창락 (동력자원부) end 1988-02-25",
+    "to": "이봉서 (동력자원부) start 1988-02-25",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "이봉서 (동력자원부) end 1990-03-19",
+    "to": "이희일 (동력자원부) start 1990-03-19",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "이희일 (동력자원부) end 1991-05-27",
+    "to": "진념 (동력자원부) start 1991-05-27",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "진념 (동력자원부) end 1993-02-26",
+    "to": "office abolished, last day 1993-03-05 (offices_1988.json OFA27)",
+    "gap_days": 7,
+    "overlap_days": 0,
+    "explained_by": "builder continuity.vacancies[0] (no successor, merger into 상공자원부) and acting[0] (차관 김시형, inferred)"
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage). The PM 임명동의안 are in the pm lineage.",
+  "field_hygiene": [
+   "appointing_president matches the president on each start date (전두환 for 최창락 1986-01-08, 노태우 for 이봉서 1988-02-25, 이희일 1990-03-19 and 진념 1991-05-27). appointed_by_acting_president is false for all, correct (no acting president in 1986-1993).",
+   "deputy_pm is false for all spells. offices_1988.json gives deputy_pm_title [] for OFA27 (동력자원부) and lists no 부총리 designation for the energy lineage.",
+   "ministry and office_title are 동력자원부 and 동력자원부장관 for every spell, matching OFA27 (1988-02-25..1993-03-05). 최창락's start (1986-01-08) is before the window under the same name, and the office existed from 1977-12-16 (국가기록원 존립기간 1977.12.16 ~ 1993.03.06, roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html).",
+   "Reorg fields. reorg_continuation false and reappointed_on_reorg null for all four spells, correct because no spell crosses a reorganization (진념 left before the 1993-03-06 merger). ministry_names has the single 동력자원부 period, consistent with OFA27 and with lineage_gaps (energy ends 1993-03-05).",
+   "from_main. None. No 동력자원부 spell continues past 1998-02-24 and there is no roster/energy.verified.json in the main roster, so no from_main record exists to protect.",
+   "pm_status null, pm_acting_until null and suspensions [] for all, correct for a non-PM lineage.",
+   "Hanja names match the News Library OCR texts cited here (崔昌洛, 李鳳瑞, 李熺逸, 陳稔). mp_hint. Only 이희일 has an NA row (13th Assembly 전국구, mona_cd XVI10805, seat 1988-05-30 to 1990-03-22, resigned_on_appointment) in na_members/na_members_12_22.csv, and a grep of that file for 최창락, 이봉서 and 진념 returns no row, as the builder says.",
+   "transcript_check not_applicable for all, correct (spells end before 2000-06)."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "최창락",
+    "ministry": "동력자원부",
+    "start": "1986-01-08",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1986-01-08 confirmed with sources the builder did not use. 조선일보 1986-01-09 p.1 '신임閣僚에 임명장' (Naver News Library article 1986010900239101003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1986010900239101003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986010900239101003&editNo=1&printCount=1&publishDate=1986-01-09&officeId=00023&pageNo=1&printNo=19927&publishType=00010, accessed 2026-09-26T09:57:12-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1986010900239101003.json) [quote: '全斗煥 대통령은 8일 오전青瓦臺에서 金滿堤부총리겸 경제기획원장관)사진)등 신임 장관8명과 2처장에게 임명장을주었다.'] [summary: the ministers named in the 1986-01-07 개각, of whom 최창락 was the 동자부장관, received the 임명장 on the morning of 8 Jan 1986] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '최창락 장관 ( 1986.01.08 ~ 1988.02.24 )'] [summary: start 1986-01-08 in the 국가기록원 head list] | 중앙일보 1986-01-10 '경제장관 상견례.' (BigKinds news_id 01100901.19860110015839011, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860110015839011&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:34:57-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100901.19860110015839011.json) [quote: '왼쪽부터 금진호 상공, 최창락 동자, 김 부총리'] [summary: 최창락 at work as 동자부장관 at the economic ministers' meeting of 10 Jan 1986 (in office, same outlet as one builder source but a different article)]. The announcement was on 1986-01-07 (builder), so start_confidence medium stays.",
+     "end 1988-02-25 confirmed as the legal end under the same-day handover used in every ext88 lineage. 한국경제 1988-02-24 '[政街산책] 25일 0시부터 權限행사' (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '임명장을 받는 시각부터 정식 국무위원 자격을 가질 것이라고 풀이'] [summary: 법제처 reading reported on 24 Feb 1988. Government passes to 노태우 at 0시 25일, and the new ministers become 국무위원 when they receive the 임명장 on the morning of 25 Feb] | 서울신문 1988-02-26 '新任각료에 임명장 하오 慶祝宴會 참석' (BigKinds news_id 01100611.19880226163135001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163135001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:28-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.19880226163135001.json) [quote: '盧대통령은 취임식에 이어 靑瓦臺에서 李賢宰신임국무 총리와 신임국무위원, 그리고 洪性澈대통령비서실장과 수석비서관들에게 각각 임명장을 수여한뒤'] [summary: the new 국무위원 received the 임명장 on 25 Feb 1988, after the inauguration] | 경향신문 1988-02-26 p.4 '\"閣下\"없애고 本人 대신\"제가…\"' (Naver News Library article 1988022600329204002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022600329204002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329204002&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=4&printNo=13050&publishType=00020, accessed 2026-09-26T09:05:44-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1988022600329204002.json) [quote: '상오11시40분 청와대 본관대접견실에서 있은 신임각료및 수석비서관임명장 수여식에서'] [summary: the 임명장 ceremony was at 11:40 on 25 Feb 1988] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '최창락 장관 ( 1986.01.08 ~ 1988.02.24 )'] [summary: the list prints each end as the day before the successor's start (이봉서 from 1988.02.25), so it gives the same handover day].",
+     "Counterpoint recorded, no change. 동아일보 1988-02-25 p.1 '새内閣은 내일부터' (Naver News Library article 1988022500209201007, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022500209201007), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500209201007&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00020&pageNo=1&printNo=20429&publishType=00020, accessed 2026-09-26T09:07:16-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1988022500209201007.json) [quote: '새내각의 각료들은 26일부터 공식집무에 들어간다.'] [summary: the new cabinet began regular work on 26 Feb] | 한국일보 1988-02-26 '大赦免 오늘 議決…발표' (BigKinds news_id 01101101.19880226092506104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880226092506104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:17-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01101101.19880226092506104.json) [quote: '한편 신임총리를 비롯한 새내각의 각료들도 이날 상오 각각 이취임식을 갖고 공식집무에 들어간다.'] [summary: 이·취임식 in the ministries on the morning of 26 Feb 1988]. The ceremonies were on 26 Feb, but the 김정렬 cabinet's resignations were accepted on the morning of 25 Feb (builder, 조선일보 1988-02-26 and 중앙일보 1988-02-25) and the successor held the office from the 임명장 that morning. The 국가기록원 list and ko.wikipedia give 1988-02-24 as the last day (day-before convention). Whether 전두환 holdovers end on 02-24 or 02-25 is a project-level choice. All ext88 lineages use 02-25.",
+     "end_reason 'replaced' kept. He left with the collective resignation at the change of government. Some lineages code their 1988 holdovers 'resigned' (see disputes)."
+    ]
+   },
+   "1": {
+    "name": "이봉서",
+    "ministry": "동력자원부",
+    "start": "1988-02-25",
+    "end": "1990-03-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed. 한국경제 1988-02-26 '盧 대통령 就任式 이모저모' (BigKinds news_id 02100601.19880226193114109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:16-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100601.19880226193114109.json) [quote: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작'] [summary: 노태우 gave the 임명장 to the PM 서리 and the 23 new ministers on 25 Feb 1988] | 경향신문 1988-02-25 p.1 '全 前任대통령 환송 새閣僚들에 임명장' (Naver News Library article 1988022500329201003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022500329201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1988022500329201003.json) [quote: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어제6共和國 정부를 출범시켰다.'] [summary: same event, 경향신문 of 25 Feb 1988 (석간)] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '이봉서 장관 ( 1988.02.25 ~ 1990.03.18 )'] [summary: start 1988-02-25 in the 국가기록원 head list]. He is named 동자 in the 2·19 list (builder sources, and 국민일보 1990-03-17 '6공화국 개각 일지', see completeness).",
+     "end 1990-03-19 (inferred_from_successor) confirmed under the same-day handover rule. 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '이희일 장관 ( 1990.03.19 ~ 1991.05.26 )'] [summary: successor's start 1990-03-19, and 이봉서's row ends 1990.03.18 (day-before convention)] | 경향신문 1990-03-19 p.1 '내일 靑瓦臺국무회의' (Naver News Library article 1990031900329201003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990031900329201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329201003&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=1&printNo=13685&publishType=00020, accessed 2026-09-26T09:34:55-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1990031900329201003.json) [quote: '盧대통령은 이에앞서 19일상오 청와대에서 李承潤부총리등 신임각료와 盧在鳳비서실장등 신임비서진에게 임명장을 수여했다.'] [summary: the 3·17 ministers received the 임명장 on the morning of 19 Mar 1990] | 국민일보 1990-03-19 '신임각료에 임명장/노대통령' (BigKinds news_id 01100201.19900319000000107, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100201.19900319000000107.json) [quote: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다.'] [summary: same event, 국민일보].",
+     "Counterpoint recorded, no change. The builder's issue 1 says no dated 이임식 for 이봉서 was found. This verifier found 세계일보 1990-03-18 '예견된 「내용」 차분하게 받아들여/15장관 경질… 정­관가의 표정' (BigKinds news_id 01100701.19900318000000207, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900318000000207&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:11-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100701.19900318000000207.json) [quote: '전임 이봉서장관은 지난 79년 동자부 출범과 함께 동자부에 몸담아와 남달리 애착을 가졌던 탓인지 이임인사를 하는 자리에서 잠시 눈물을 글썽이기도.'] [summary: in the story of the announcement day (17 Mar 1990), 이봉서 is reported making his farewell (이임인사) at the ministry. The paragraph itself does not print a date] | 서울신문 1990-03-18 '개혁과 좌절… 재임 15개월/떠나는 경제팀의 공과와 향후 진로' (BigKinds news_id 01100611.20160420190301799, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190301799&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:37:49-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.20160420190301799.json) [quote: '이봉서 전동자부장관은 당분간 부친(국제화재해상보험 이필석회장)이 경영하고 있는 사업에는 관여할 생각이 없고'] [summary: called 전동자부장관 on 18 Mar 1990]. Other outgoing ministers held their 이임식 on 17 Mar (조순, 한승수, 김태호, 김창근 and 김집 in the builder's 동아일보 1990-03-17 p.2, 현홍주 and 김태호 in 서울신문 1990-03-18), while the 통일원 minister planned his for 19 Mar after the 임명장 서울신문 1990-03-18 '「3ㆍ17」 개각… 정관가의 표정' (BigKinds news_id 01100611.20160420190239995, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190239995&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:23:53-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.20160420190239995.json) [quote: '전체직원들과의 인사는 19일상오 임명장을 받은뒤 가질 신ㆍ구장관이취임식에서 할 예정'] [summary: 이홍구 (통일원) planned his farewell to all staff for the joint ceremony after the successor's 임명장 on 19 Mar]. The legal act was the 3·17 announcement ('경질') with the successor's 임명장 on 19 Mar. The interior, transport and sports ext88 files keep 03-19 despite 이임식 on 03-17, while industry (한승수) and epb (조순) end on 03-17. This is the builder's issue 1, a project-level convention, see disputes."
+    ]
+   },
+   "2": {
+    "name": "이희일",
+    "ministry": "동력자원부",
+    "start": "1990-03-19",
+    "end": "1991-05-27",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-03-19 confirmed. 경향신문 1990-03-19 p.1 '내일 靑瓦臺국무회의' (Naver News Library article 1990031900329201003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990031900329201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329201003&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=1&printNo=13685&publishType=00020, accessed 2026-09-26T09:34:55-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1990031900329201003.json) [quote: '盧대통령은 이에앞서 19일상오 청와대에서 李承潤부총리등 신임각료와 盧在鳳비서실장등 신임비서진에게 임명장을 수여했다.'] [summary: 임명장 on the morning of 19 Mar 1990] | 조선일보 1990-03-20 p.7 '일요일에도 출근' (Naver News Library article 1990032000239107008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990032000239107008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000239107008&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00023&pageNo=7&printNo=21221&publishType=00010, accessed 2026-09-26T13:40:19-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1990032000239107008.json) [quote: '李熺逸동자부장관은19일 취임후 첫 기자간담회에서'] [summary: 이희일 held his first press meeting as minister on 19 Mar, after taking office] | 중앙일보 1990-03-19 '국정 분위기ㆍ민심 쇄신 당부/노대통령 내각에 지시' (BigKinds news_id 01100901.19900319174220001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900319174220001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:48:14-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100901.19900319174220001.json) [quote: '노태우대통령은 19일 오전 청와대에서 새로 임명된 각료와 청와대 비서실장 등에게 임명장을 주며'] [summary: same 임명장 ceremony, 중앙일보] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '이희일 장관 ( 1990.03.19 ~ 1991.05.26 )'] [summary: start 1990-03-19 in the 국가기록원 head list]. Announcement on 17 Mar (서울신문 1990-03-18 '15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사' (BigKinds news_id 01100611.20160420190235310, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.20160420190235310.json) [quote: '노태우대통령은 17일 상오 부총리겸 경제기획원장관에 이승윤민자당의원을 임명하는 등 15개부처 장관을 경질하는 대폭적인 개각을 단행했다.'] [summary: 3·17 개각 announced on the morning of 17 Mar, with 동자 이희일 in the list]), so start_confidence medium stays. He was briefed at the ministry on Sunday 18 Mar, before the 임명장 (조선일보 1990-03-20 p.7, same article as above, and builder sources).",
+     "end 1991-05-27 (inferred_from_successor) confirmed under the same-day handover rule. 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '진념 장관 ( 1991.05.27 ~ 1993.02.25 )'] [summary: successor's start 1991-05-27, and 이희일's row ends 1991.05.26 (day-before convention)] | 경향신문 1991-05-28 p.2 '鄭총리·신임각료4명 盧대통령,임명장수여' (Naver News Library article 1991052800329102005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991052800329102005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800329102005&editNo=15&printCount=1&publishDate=1991-05-28&officeId=00032&pageNo=2&printNo=14063&publishType=00010, accessed 2026-09-26T09:27:35-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1991052800329102005.json) [quote: '盧泰愚대통령은 27일 상오 청와대에서 鄭元植총리서리와 李龍萬재무·金淇春법무·陳稔동자·安弼濬보사부장관에게 임명장을 수여한후'] [summary: the successor received the 임명장 on the morning of 27 May 1991] | 서울경제 1991-05-28 '新任5각료에 임명장 盧대통령' (BigKinds news_id 02100311.19910528170309004, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19910528170309004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:41:06-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100311.19910528170309004.json) [quote: '盧泰愚대통령은 27일 상오 청와대에서 신임 鄭元植국무총리서리, 李龍萬재무장관, 金淇春법무장관, 陳稔동자부장관과 安弼濬보사부장관에게 임명장을 수여했다.'] [summary: same event, 서울경제]. He was abroad when replaced. No dated 이임식 was found in the News Library ('李熺逸' 1991-05-26..06-15, 16 hits) or BigKinds ('이희일' 1991-05-25..06-15, 21 hits). The builder's 조선일보 1991-05-28 p.2 has him still abroad on 28 May.",
+     "Counterpoint recorded, no change. 동아일보 1991-05-27 p.7 '「安定·成長 잠재력 확충」계속될듯' (Naver News Library article 1991052700209207006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991052700209207006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700209207006&editNo=2&printCount=1&publishDate=1991-05-27&officeId=00020&pageNo=7&printNo=21485&publishType=00020, accessed 2026-09-26T13:40:41-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1991052700209207006.json) [quote: '정치인 신분의 李熺逸전동자및 金正秀전보사부장관이'] [summary: 동아일보 of 27 May (석간) already calls him 전동자, after the 26 May announcement]. 한겨레 1991-05-28 says the new ministers were '임명·발령' on 26 May (see spell 3). Under the 임명장 convention (builder issue 1) the handover is 27 May."
+    ]
+   },
+   "3": {
+    "name": "진념",
+    "ministry": "동력자원부",
+    "start": "1991-05-27",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1991-05-27 confirmed. 서울경제 1991-05-28 '新任5각료에 임명장 盧대통령' (BigKinds news_id 02100311.19910528170309004, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19910528170309004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:41:06-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100311.19910528170309004.json) [quote: '盧泰愚대통령은 27일 상오 청와대에서 신임 鄭元植국무총리서리, 李龍萬재무장관, 金淇春법무장관, 陳稔동자부장관과 安弼濬보사부장관에게 임명장을 수여했다.'] [summary: 임명장 on the morning of 27 May 1991] | 경향신문 1991-05-28 p.2 '鄭총리·신임각료4명 盧대통령,임명장수여' (Naver News Library article 1991052800329102005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991052800329102005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800329102005&editNo=15&printCount=1&publishDate=1991-05-28&officeId=00032&pageNo=2&printNo=14063&publishType=00010, accessed 2026-09-26T09:27:35-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1991052800329102005.json) [quote: '盧泰愚대통령은 27일 상오 청와대에서 鄭元植총리서리와 李龍萬재무·金淇春법무·陳稔동자·安弼濬보사부장관에게 임명장을 수여한후'] [summary: same event, 경향신문 (News Library copy, a different article from the builder's 경향 BigKinds 취임사 story)] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '진념 장관 ( 1991.05.27 ~ 1993.02.25 )'] [summary: start 1991-05-27 in the 국가기록원 head list]. Split case recorded. 한겨레 1991-05-28 '4부 장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준' (BigKinds news_id 01101001.19910528000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19910528000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:41:30-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01101001.19910528000000104.json) [quote: '각각 임명·발령했다'] [summary: 한겨레 of 28 May 1991 says the four ministers were appointed and 발령 on the afternoon of 26 May, with the 임명장 on 27 May]. start stays on the 임명장 day with start_confidence medium, as in the builder's issue 1.",
+     "end 1993-02-26 is disputed and kept. Sources for 26 Feb 1993 (the 이임식 day), besides the builder's 조선일보, 동아일보, 국민일보 and 한겨레 stories, follow. 서울경제 1993-02-27 '15년만에 문닫는 동력자원部 에너지需給안정 큰 기여' (BigKinds news_id 02100311.19930227162816003, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19930227162816003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:18-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100311.19930227162816003.json) [quote: '동력자원부는 26일 장관취임식 없이 陳稔장관의 이임식만 거행, 시종무거운 분위기였다.'] [summary: 서울경제, a paper the builder did not use, reports 진념's 이임식 on 26 Feb 1993 with no successor] | 중앙일보 1993-02-27 '서울 상대 태권도부 인맥/홍 재무 입각으로 화제' (BigKinds news_id 01100901.19930227152628002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930227152628002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:45:57-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100901.19930227152628002.json) [quote: '퇴임한 진념 전 동자부장관'] [summary: 중앙일보 of 27 Feb calls him the retired former minister]. Sources for 25 Feb 1993 follow. 중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.'] [summary: the outgoing 현승종 cabinet tendered its resignations on 25 Feb 1993 and all were accepted that day. Not cited by the energy builder (the education and foreign builders cite it)] | 서울경제 1993-02-26 '경제부총리 黃秉泰씨 유력' (BigKinds news_id 02100311.19930226162730001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19930226162730001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:50:38-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_02100311.19930226162730001.json) [quote: '상공자원부장관에는 陳稔 前동자부장관이 집중적으로 거명되고 있다.'] [summary: 서울경제 of 26 Feb, written on 25 Feb before the cabinet was named, already calls him 前동자부장관] | 조선일보 1993-02-26 p.7 '「15년 特立」마감 動資部,허탈한 분위기' (builder source, News Library 1993022600239107011) (accessed 2026-09-26T09:57:21-0400, snapshot roster/sources/energy/ext88/nl/nl_1993022600239107011.json) [quote: '26일부터 일단「장관不在」상태로 들어가는동력자원부는'] [summary: the ministry was reported to be without a minister from 26 Feb. The same story says the 이임식 was moved from the afternoon of 25 Feb to the morning of 26 Feb because it did not suit a 퇴임장관 to attend the inauguration reception that evening, so the paper already calls him a retiring minister on 25 Feb] | 조선일보 1993-02-26 p.7 (same story) (accessed 2026-09-26T09:57:21-0400, snapshot roster/sources/energy/ext88/nl/nl_1993022600239107011.json) [quote: '퇴임장관이 이날저녁 대통령취임축하리셉션에 참석하는것이 어울리지 않는다고 판단'] [summary: reason for moving the 이임식 to 26 Feb] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '진념 장관 ( 1991.05.27 ~ 1993.02.25 )'] [summary: last day 1993-02-25 in the 국가기록원 head list] | 산업통상부 역대 장관 page (tier 2, builder source) (accessed 2026-09-24T22:43:58-0400, snapshot roster/sources/energy/ext88/official/motir_history_p4.html) [quote: '47 동력자원부 진념 1991년05월27일 ~ 1993년02월25일'] [summary: the motir page prints 1993-02-25. For replaced ministers it prints the successor's start day, and 진념 had no successor]. Context for both readings. 매일경제 1993-02-24 p.2 '\"25일0시이후 非常사태 새政府가 대처\"' (Naver News Library article 1993022400099202004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022400099202004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1993022400099202004.json) [quote: '舊내각 일괄사표제출 안해도 돼'] [summary: 매일경제 of 24 Feb reported beforehand that the outgoing cabinet need not resign and would hand over when successors were appointed, which would keep a replaced minister in office until 26 Feb but says nothing for a minister with no successor]. The builder's own reading (매일경제 1993-02-27 '의원면직됨에 따라', no date) does not date the 면직. No document gives the formal 면직 date. The 1988 transition is handled by the date the resignations were accepted (25 Feb 1988), not by the 이·취임식 of 26 Feb 1988 (see spell 0), and the same rule would give 25 Feb 1993 here. Kept at 26 Feb because eleven other ext88 lineages end the 노태우 ministers on 1993-02-26 (education and foreign use 1993-02-25) and the culture verifier kept 이수정 on 26 Feb as disputed. end_confidence lowered from high to medium (see changes). If the project settles on 25 Feb, the vacancy becomes 1993-02-26..1993-03-05 (8 days) and the acting record starts 1993-02-26.",
+     "end_reason 'resigned' kept (의원면직 with no successor while the office still existed, as for 이진삼 in sports). reorg_continuation false and reappointed_on_reorg null are correct because he left before the merger took effect on 1993-03-06.",
+     "Resume check (2026-09-27T21:48:17-0400), no value changed. The step 6 note above says eleven other ext88 lineages ended the 노태우 ministers on 1993-02-26 and education and foreign on 1993-02-25. On disk now, 21 other verified files end them on 1993-02-26 (including education 조완규 and foreign 이상옥), none on 1993-02-25 except the PM lineage (현승종, successor appointed that day), and the transport and health builder files also use 1993-02-26. Status stays disputed because the tier 2 lists (motir page, 국가기록원) still print 1993.02.25 and no record of the 면직 date was found. Details in roster/sources/energy/ext88_verify/resume_check_step8.json."
+    ]
+   }
+  },
+  "nominations_check": [
+   "최창락. nomination_date 1986-01-07 and outcome_date 1986-01-08 agree with the start checks. 한국일보 1986-01-08 '10개部處 長官경질' (BigKinds news_id 01101101.19860108173514101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860108173514101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:48:17-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01101101.19860108173514101.json) [quote: '全斗換 대통령은 7일하오 부총리겸경제기획원장관에 金滿提재무장관을 임명하는등 10개부처 개각을 단행했다.'] [summary: 한국일보 of 8 Jan 1986 dates the 개각 to the afternoon of 7 Jan]",
+   "이봉서. nomination_date 1988-02-19 (announced by the president-elect) and outcome_date 1988-02-25 confirmed. 서울신문 1988-02-20 '새정부 內閣名單 발표' (BigKinds news_id 01100611.19880220164719005, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880220164719005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:20:54-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.19880220164719005.json) [quote: '동 자 李鳳瑞'] [summary: 서울신문 of 20 Feb 1988 prints the 19 Feb list with 동자 李鳳瑞]",
+   "이희일. nomination_date 1990-03-17 and outcome_date 1990-03-19 confirmed (서울신문 1990-03-18 and 경향신문 1990-03-19 in per_spell['2']).",
+   "진념. nomination_date 1991-05-26 and outcome_date 1991-05-27 confirmed. 서울신문 1991-05-27 '4부 장관 휴일 전격경질/노 대통령/“시국안정·민생해결에 총력을”' (BigKinds news_id 01100611.20160421033936381, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421033936381&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:06-0400, snapshot roster/sources/energy/ext88_verify/bk/bk_01100611.20160421033936381.json) [quote: '노태우 대통령은 26일 하오 4부 장관을 경질,재무부 장관에 이용만 은행감독원장,법무부 장관에 김기춘 전 검찰총장,동자부 장관에 진념 경제기획원 차관'] [summary: 서울신문 of 27 May 1991 dates the announcement to the afternoon of 26 May]",
+   "All four have hearing_required false and na_consent_vote not_applicable, correct (인사청문 for 국무위원 began in 2005, and 국무위원 need no Assembly consent). No nomination without an appointment was found."
+  ],
+  "acting_check": [
+   "김시형 (acting, inferred, 1993-02-27..1993-03-04) kept. He was 동자부차관 from 1991-05-27. 경향신문 1991-05-28 p.1 '企劃院차관 姜賢旭 動資部차관 金時衡' (Naver News Library article 1991052800329101005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991052800329101005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800329101005&editNo=15&printCount=1&publishDate=1991-05-28&officeId=00032&pageNo=1&printNo=14063&publishType=00010, accessed 2026-09-26T13:40:55-0400, snapshot roster/sources/energy/ext88_verify/nl/nl_1991052800329101005.json) [quote: '동자부차관에 金時衡상공부제2차관보를 승진발령했다'] [summary: promoted to 동자부차관 on 27 May 1991] | 국가기록원 기록물 생산기관 변천정보, 동력자원부 (OG0022671) 기관연혁 상세정보, 기관장 list (tier 2, its 참고정보원 is the 산업자원부 역대 장·차관 page, described 2009-03-05 to 2010-11-11) (https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0022671&isProvince=&mapInfo=mapno1, accessed 2026-09-26T13:28:12-0400, snapshot roster/sources/energy/ext88_verify/web/archives_viewDetailInfo_OG0022671.html) [quote: '김시형 제1차관 ( 1991.05.28 ~ 1993.03.03 )'] [summary: the 국가기록원 list ends his 차관 term on 1993.03.03, the day before the 차관급 인사, by its day-before convention]. The builder's end 1993-03-04 is the day of the 차관급 인사 that named him 행정조정실장 (동아일보 1993-03-04, builder). Acting heads are not spells, so this does not affect the roster. If 진념's end moves to 1993-02-25, the acting record would start on 1993-02-26."
+  ],
+  "changes": [
+   {
+    "section": "spells",
+    "index": 3,
+    "name": "진념",
+    "field": "end_confidence",
+    "old": "high",
+    "new": "medium",
+    "evidence": "Tier 2 and tier 3 sources conflict on the last day. For 25 Feb 1993 there are 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002, all outgoing ministers' resignations accepted on 25 Feb), the builder's 조선일보 1993-02-26 p.7 ('26일부터 일단「장관不在」'), the motir page and the 국가기록원 head list. For 26 Feb 1993 there are the 이임식 that morning (조선일보, 국민일보, 서울경제 1993-02-27) and '26일 퇴임' (동아일보 1993-02-27, 한겨레 1993-02-26). Full citations in verification.per_spell['3']."
+   },
+   {
+    "section": "issues",
+    "index": 7,
+    "name": "(lineage)",
+    "field": "issues (appended)",
+    "old": "",
+    "new": "Verifier (2026-09-26). Two points found in sources the builder did not use, see verification.per_spell. (1) 진념's end is disputed. 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) reports that the outgoing cabinet's resignations were all accepted on 25 Feb 1993, 서울경제 1993-02-26 already calls him 前동자부장관, and the builder's own 조선일보 1993-02-26 p.7 has the ministry without a minister from 26 Feb, while the 이임식 was on the morning of 26 Feb. The value stays 1993-02-26 with end_confidence medium until the 1993 transition is settled across lineages. (2) Issue 1 says no dated 이임식 was found for 이봉서. 세계일보 1990-03-18 (BigKinds 01100701.19900318000000207) reports his 이임인사 in its story of the announcement day, 17 Mar 1990. His end stays 1990-03-19 under the same-day handover rule, which interior, transport and sports also apply to ministers whose 이임식 was on 17 Mar.",
+    "evidence": "see verification.per_spell['1'] and ['3']"
+   }
+  ],
+  "disputes": [
+   "진념 (동력자원부) end 1993-02-26 kept (이임식 on the morning of 26 Feb, '26일 퇴임', and every other non-PM ext88 lineage on disk at 2026-09-27T21:48:17-0400, that is 21 verified files plus the transport and health builder files) against 1993-02-25 (중앙일보 1993-02-25 '25일 일괄사표를 제출,전원 수리됐다', 조선일보 1993-02-26 '26일부터 일단「장관不在」', the motir page and the 국가기록원 list). No source gives the formal 면직 date. The date is now uniform across lineages. Education and foreign, which the step 6 note described as using 1993-02-25, end on 1993-02-26 in their verified files, and 10 other verifiers (culture, defense, environment, general_affairs, ict, interior, labor, public_info, special, sports) also mark their 1993-02-26 end as disputed. The PM lineage ends 현승종 on 1993-02-25 because his successor took office that day, which does not bear on a minister with no successor. What remains open is the source conflict itself (tier 2 lists against the 이임식 and '26일 퇴임' reports), which only a record of the 면직 date would settle.",
+   "Project-level convention for the 3·17 개각 of 1990. This file ends 이봉서 on 1990-03-19 (successor's 임명장). 세계일보 1990-03-18 reports his 이임인사 in the story of the announcement day, 17 Mar. Of the other verified files on disk at 2026-09-27T21:48:17-0400, epb (조순) and industry (한승수) end on 1990-03-17, while 9 (agriculture, finance, gender, general_affairs, interior, justice, science, sports, unification) end on 1990-03-19, as do the transport and health builder files. The step 6 note named interior, transport and sports as keeping 03-19 despite 이임식 on 03-17. One rule should be applied to all lineages.",
+   "Start convention for split reshuffles (announcement or 발령 day against 임명장 day), which affects 최창락 1986-01-07/08, 이희일 1990-03-17/19, 진념 1991-05-26/27. 한겨레 1991-05-28 says the ministers were '임명·발령' on 26 May 1991. The builder's issue 1 already records the choice (임명장 day, start_confidence medium).",
+   "end_reason for 1988 holdovers is 'replaced' here (최창락). In the other verified files on disk at 2026-09-27T21:48:17-0400 it is 'replaced' in 10 (agriculture, culture, defense, education, epb, general_affairs, labor, pm, science, unification), 'resigned' in 8 (finance, foreign, ict, interior, justice, land, special, sports) and 'other' in industry. The transport and health builder files use 'replaced'. All 19 verified files end their holdovers on 1988-02-25 and none on 1988-02-24.",
+   "Project-level question. Should 전두환 holdovers end on 1988-02-24 (국가기록원 list and ko.wikipedia for 최창락) or 1988-02-25 (resignations accepted and successor's 임명장 on 25 Feb)? If 02-24, 최창락 leaves the window."
+  ],
+  "scripts": [
+   "roster/scripts/energy_ext88_verify_00_archives.py",
+   "roster/scripts/energy_ext88_verify_01_monthly_tally.py",
+   "roster/scripts/energy_ext88_verify_02_bk_tally.py",
+   "roster/scripts/energy_ext88_verify_03_targeted.py",
+   "roster/scripts/energy_ext88_verify_04_quotecheck_builder.py",
+   "roster/scripts/energy_ext88_verify_05_fulltext.py",
+   "roster/scripts/energy_ext88_verify_lib.py",
+   "roster/scripts/energy_ext88_verify_07_build.py",
+   "roster/scripts/energy_ext88_verify_07_content.py",
+   "roster/scripts/energy_ext88_verify_08_resume_check.py",
+   "roster/scripts/energy_ext88_verify_09_resume_update.py"
+  ],
+  "snapshots": "roster/sources/energy/ext88_verify/",
+  "quote_checks": {
+   "n": 50,
+   "all_found": true
+  },
+  "resume_checked_at": "2026-09-27T21:50:01-0400"
+ }
+}

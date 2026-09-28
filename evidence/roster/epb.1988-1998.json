@@ -1,0 +1,817 @@
+{
+ "lineage": "epb",
+ "built_at": "2026-09-26T09:52:26-0400",
+ "window": [
+  "1988-02-25",
+  "1998-02-24"
+ ],
+ "ministry_names": [
+  {
+   "ministry": "경제기획원",
+   "from": "1988-02-25",
+   "to": "1994-12-22",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 경제기획원장관 1988-02-25..1994-12-22 (정부조직법 제17조, 법률 제3854호 version, 부총리 1인 and 경제기획원장관이 겸임. From 1990-12-27 법률 제4268호 provides 부총리 2인, with the 경제기획원장관 first in the acting order of 제22조)",
+   "legal_basis": "정부조직법 법률 제3854호 (제17조, 제23조②, in force at window start, version effective 1987-01-01). 법률 제4268호 (제17조①③, 1990-12-27, second 부총리 added). 법률 제4831호 (제23조 rewritten as 재정경제원, 부칙 제2조①, abolishes, in force 1994-12-23). 대통령령 제14438호 (부칙 제2조, repeals 경제기획원직제, 1994-12-23).",
+   "source": "offices_1988.json OFA02 경제기획원 (GOA_3854, GOA_4268, GOA_4831, DEC_14438, ARCH_OG0015972). The office also held the budget function (제23조①), so offices_1988.json lists it under lineage_overlaps with budget as a secondary lineage. The successor 재정경제원 (from 1994-12-23) is in the finance lineage."
+  }
+ ],
+ "spells": [
+  {
+   "name": "정인용",
+   "name_hanja": "鄭寅用",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1987-05-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1987-05-26 p.1 \"總理에 李漢基씨\" (Naver News Library article 1987052600209201003, OCR text: '부총리겸 경제기획원장관에鄭寅用재무부장관' (appointed on the 26th), https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600209201003&editNo=2&printCount=1&publishDate=1987-05-26&officeId=00020&pageNo=1&printNo=20197&publishType=00020, accessed 2026-09-26T09:09:39-0400; snapshot roster/sources/epb/ext88/nl/nl_1987052600209201003.json)",
+    "동아일보 1987-05-26 p.1 \"總理에 李漢基씨\" (Naver News Library article 1987052600209201003, OCR text: '이날오후에 李총리등 신임각료등에게 임명장을 수여했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600209201003&editNo=2&printCount=1&publishDate=1987-05-26&officeId=00020&pageNo=1&printNo=20197&publishType=00020, accessed 2026-09-26T09:09:39-0400; snapshot roster/sources/epb/ext88/nl/nl_1987052600209201003.json)",
+    "한국일보 1987-05-27 \"總理에 李漢基씨\" (BigKinds news_id 01101101.19870527085334101, full text: '부총리겸 경제기획원장관에 鄭寅用재무부장관' (26일 상오 ... 임명), https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19870527085334101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:21-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19870527085334101.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 21대 정인용 장관 재임기간 1987.5. ~ 1988.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[정인용]](鄭寅用)' '1987년 5월 26일 ~ 1988년 2월 24일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 매일경제 1987-05-26 p.1 \"총리 李漢基 부총리 鄭寅用 씨\" (Naver News Library article 1987052600099201004, OCR text: '全대통령은 이날△국무총리에 李漢基 前감사원장△부총리겸경제기획원장관에 鄭寅用재무부장관', https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600099201004&editNo=1&printCount=1&publishDate=1987-05-26&officeId=00009&pageNo=1&printNo=6530&publishType=00020, accessed 2026-09-26T10:21:41-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1987052600099201004.json)",
+    "[verifier] 조선일보 1987-05-27 p.1 \"總理에 李漢基씨 全대통령,어제 問責改閣 단행\" (Naver News Library article 1987052700239101008, OCR text: '각각 임명,이날오후 青瓦臺에서 임명장을 주었다' (26일 개각), https://newslibrary.naver.com/viewer/index.naver?articleId=1987052700239101008&editNo=1&printCount=1&publishDate=1987-05-27&officeId=00023&pageNo=1&printNo=20350&publishType=00010, accessed 2026-09-26T10:11:22-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1987052700239101008.json)"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022600239101004.json)",
+    "중앙일보 1988-02-22 \"25일 0시부터 권한 행사\" (BigKinds news_id 01100901.19880222004551001, full text: '새 장관의 권한은 25일 오전11시40분으로 예정된 임명장 수여식을 치른 다음부터 장관으로서의 권한을 행사할 수 있으며 따라서 취임식에는 현 장관이 국무위원자격으로 참석' (the outgoing ministers remained 국무위원 on the morning of the 25th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880222004551001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:23:29-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19880222004551001.json)",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任국무위원들의 한마디\" (Naver News Library article 1988022500239102002, OCR text: '제5공화국이 24일밤12시로 종료됨에 따라 金貞烈국무총리를 비롯한 국무위원전원이 이날 사표를 냈다' (resignations handed in on the 24th), https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022500239102002.json)",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任국무위원들의 한마디\" (Naver News Library article 1988022500239102002, OCR text: '◇鄭寅用부총리=아뭏든상쾌한 기분이다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022500239102002.json)",
+    "경향신문 1988-02-25 p.1 \"全 前任대통령 환송 새閣僚들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어' (successor appointed on the 25th), https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022500329201003.json)",
+    "중앙일보 1988-02-27 \"전 부총리 20초 이임사후 손수 차 몰고 귀가|사인의 홀가분함 만끽\" (BigKinds news_id 01100901.19880227005315003, full text: '26일 경제기획원에서의 부총리 이-취임식은 매우 이채로 왔다' (farewell ceremony at the ministry on the 26th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880227005315003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:22:53-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19880227005315003.json)",
+    "중앙일보 1988-02-27 \"전 부총리 20초 이임사후 손수 차 몰고 귀가|사인의 홀가분함 만끽\" (BigKinds news_id 01100901.19880227005315003, full text: '이임 식에서 정인용 전부총리는', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880227005315003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:22:53-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19880227005315003.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 21대 정인용 장관 재임기간 1987.5. ~ 1988.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[정인용]](鄭寅用)' '1987년 5월 26일 ~ 1988년 2월 24일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 동아일보 1988-02-24 p.1 \"國務委員 일괄사표\" (Naver News Library article 1988022400209201012, OCR text: '이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T09:09:55-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988022400209201012.json)",
+    "[verifier] 매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다' (successor appointed the same day), https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988022500099201010.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "전두환-era minister still in office on 1988-02-25, the first day of the window (caretaker holdover for a few hours). The whole 제5공화국 cabinet handed in resignations on 1988-02-24 as the 전두환 term ended at midnight, the resignations were accepted on the morning of the 25th, and the 노태우 cabinet received its 임명장 later that day. Before the inauguration the government stated that the incumbent ministers would attend it as 국무위원 and that the new ministers' authority began with the 11:40 임명장 ceremony (중앙일보 1988-02-22). The end is therefore 1988-02-25, a same-day handover with 나웅배. ko.wikipedia gives 1988-02-24. The farewell ceremony at the ministry was held on 1988-02-26 together with 나웅배's 취임식. Appointed 1987-05-26 in the 전두환 reshuffle after the 박종철 case, from 재무부장관, and received the 임명장 the same afternoon (동아일보 1987-05-26). Held the 부총리 title ex officio (정부조직법 제17조③, 법률 제3854호 version, 부총리 1인 and 경제기획원장관이 겸임). No ko.wikipedia article (the 경제기획원 table links a red page) and no Wikidata item was found (searches for 정인용 and 鄭寅用, wikidata_extra.json), so birth date, gender and English name are left empty. Hanja from 조선일보 1988-02-25 ('鄭寅用부총리'). 중앙일보 1987-05-26 gives his age as 52. Verifier (2026-09-26): Start and end re-verified with 매일경제, 조선일보 (1987) and 동아일보, 매일경제 (1988), outlets or articles the builder did not cite. No source gives a different day."
+  },
+  {
+   "name": "나웅배",
+   "name_hanja": "羅雄培",
+   "name_en": "Rha Woong-bae",
+   "name_en_source": "https://www.wikidata.org/wiki/Q3565130 (English label; Wikidata SPARQL, roster/sources/epb/ext88/persons.json, accessed 2026-09-26T09:20:07-0400)",
+   "birth_date": "1934-07-24",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1988-02-25 p.1 \"全 前任대통령 환송 새閣僚들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022500329201003.json)",
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022600239101004.json)",
+    "대통령기록관 대통령 일정 (tier 2, 노태우 1988) 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/epb/ext88/pa/pa_노태우_1988_p1.html)",
+    "한국경제 1988-02-20 \"새 內閣 확정...부총리 羅雄培씨\" (BigKinds news_id 02100601.19880220192958103, full text: '부총리 겸 경제기획원장관에 羅雄培 상공부장관을 기용' (named by the President-elect on 1988-02-19), https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880220192958103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:05-0400; snapshot roster/sources/epb/ext88/bk/bk_02100601.19880220192958103.json)",
+    "중앙일보 1988-02-27 \"전 부총리 20초 이임사후 손수 차 몰고 귀가|사인의 홀가분함 만끽\" (BigKinds news_id 01100901.19880227005315003, full text: '한편 나웅배 신임 부총리는 논리 정연하고 매듭이 분명한 유려한 말솜씨로 약 30분이 넘게 취임사를 했다' (취임식 at the ministry on the 26th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880227005315003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:22:53-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19880227005315003.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 22대 나웅배 장관 재임기간 1988.2. ~ 1988.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[나웅배]](羅雄培)' '1988년 2월 25일 ~ 1988년 12월 5일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 서울신문 1988-02-26 \"新任각료에 임명장 하오 慶祝宴會 참석\" (BigKinds news_id 01100611.19880226163135001, full text: '盧대통령은 취임식에 이어 靑瓦臺에서 李賢宰신임국무 총리와 신임국무위원, 그리고 洪性澈대통령비서실장과 수석비서관들에게 각각 임명장을 수여한뒤', https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163135001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:28-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100611.19880226163135001.json)",
+    "[verifier] 매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988022500099201010.json)"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '盧대통령은 이날 국무총리서리에 姜英勳民正黨의원을,부총리겸 경제기획원장관에趙淳서울大교수를 각각 임명', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/epb/ext88/nl/nl_1988120500329201003.json)",
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/epb/ext88/nl/nl_1988120500329201003.json)",
+    "한국일보 1988-12-06 \"總理에 姜英勳씨\" (BigKinds news_id 01101101.19881206102906101, full text: '李賢宰 국무총리는 이날 상오 8시 임시국무회의를 소집, 전 국무위원의 일괄사표를 받아 盧대통령에게 제출했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19881206102906101.json)",
+    "중앙일보 1988-12-05 \"아쉬움과 기대…경제부처 엇갈린 표정\" (BigKinds news_id 01100901.19881205055015001, full text: '나웅배 전임 부총리는 퇴임이 확실시된 3일', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205055015001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:57-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19881205055015001.json)",
+    "대통령기록관 대통령 일정 (tier 2, 노태우 1988) 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우, year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/epb/ext88/pa/pa_노태우_1988_p1.html)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1988-12-05 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/epb/ext88/hist/tcct_1988_12_05_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 22대 나웅배 장관 재임기간 1988.2. ~ 1988.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[나웅배]](羅雄培)' '1988년 2월 25일 ~ 1988년 12월 5일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120600239101029, OCR text: '盧대통령은 이날낮신임총리서리,오후에는 신임각료들에게 청와대에서 임명장을 수여했다' (5일), https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988120600239101029.json)",
+    "[verifier] 동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR text: '盧泰愚대통령은 5일 오전국무총리서리에 姜英勳民正黨의원(전국구)을임명하고부총리겸경제기획원장관에趙淳서울大교수를 기용하는등 전면적인내각개편을 단행했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988120500209201003.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 12th NA member (민주정의당 전국구, seat 1985-04-11..1987-07-13, resigned), not sitting while minister. Later 13th NA member from 1989-08-19 (서울 영등포구을) and 14th (민주자유당) (na_members/na_members_12_22.csv, mona_cd 6545933G)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "First 경제기획원장관 of the 노태우 government. Named with the cabinet by the President-elect on 1988-02-19 (한국경제 1988-02-20), moving from 상공부장관, and received the 임명장 on inauguration day, 1988-02-25. Replaced in the 1988-12-05 전면개각. The whole cabinet handed in resignations at an 8 a.m. 임시국무회의 that day and the new ministers received their 임명장 the same day, so the end is a same-day handover with 조순. ko.wikipedia says he was later 부총리 겸 통일원장관 and, from 1995, 부총리 겸 재정경제원장관 (other lineages). The moef page lists him as 재정경제원 2대. Held the 부총리 title ex officio (정부조직법 제17조③, 법률 제3854호 version, 부총리 1인 and 경제기획원장관이 겸임). Birth date and gender from na_members/na_members_12_22.csv (NA-API 의원이력, mona_cd 6545933G, 1934-07-24, 남), matching ko.wikipedia '나웅배' https://ko.wikipedia.org/w/index.php?oldid=42476387. Verifier (2026-09-26): Re-verified with 서울신문 and 매일경제 (start) and 조선일보, 동아일보 (end). 조선일보 1988-12-06 p.14 (News Library 1988120600239114006) also reports his 이임식."
+  },
+  {
+   "name": "조순",
+   "name_hanja": "趙淳",
+   "name_en": "Soon Cho",
+   "name_en_source": "https://www.wikidata.org/wiki/Q11271326 (English label; Wikidata SPARQL, roster/sources/epb/ext88/persons.json, accessed 2026-09-26T09:20:07-0400)",
+   "birth_date": "1928-02-01",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '부총리겸 경제기획원장관에趙淳서울大교수를 각각 임명', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/epb/ext88/nl/nl_1988120500329201003.json)",
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/epb/ext88/nl/nl_1988120500329201003.json)",
+    "한국일보 1988-12-06 \"總理에 姜英勳씨\" (BigKinds news_id 01101101.19881206102906101, full text: '盧泰愚 대통령은 5일 상오 국무총리(서리)에 姜英勳 民正黨전국구의원, 부총리 겸 경제기획원장관에 趙淳 서울大교수를 임명', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19881206102906101.json)",
+    "서울신문 1988-12-05 \"새總理 姜英勳씨\" (BigKinds news_id 01100611.19881205160849001, full text: '盧泰愚대통령은5일 국무총리서리에 姜英勳民正黨의원(66·전국구), 부총리에 趙淳서울大교수를 임명', https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881205160849001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:35-0400; snapshot roster/sources/epb/ext88/bk/bk_01100611.19881205160849001.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1988-12-05 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/epb/ext88/hist/tcct_1988_12_05_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 23대 조 순 장관 재임기간 1988.12. ~ 1990.3.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[조순]](趙淳)' '1988년 12월 5일 ~ 1990년 3월 17일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 조선일보 1988-12-06 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120600239101029, OCR text: '盧대통령은 이날낮신임총리서리,오후에는 신임각료들에게 청와대에서 임명장을 수여했다' (5일), https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1988120600239101029.json)",
+    "[verifier] 전북일보 1988-12-06 \"12·5개각\" (BigKinds news_id 01601101.19881206150517014, full text: '노대통령 자신도 이날 하오 신임 국무위원들에게 임명장을 주면서', https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19881206150517014&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:57:00-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01601101.19881206150517014.json)"
+   ],
+   "end": "1990-03-17",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1990-03-17 p.1 \"15部장관 更迭\" (Naver News Library article 1990031700209201001, OCR text: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등 경제각료대부분을 포함한 15개 부처장관을 경질하는', https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/epb/ext88/nl/nl_1990031700209201001.json)",
+    "조선일보 1990-03-18 p.7 \"趙전부총리 30분 離任辞…석별情 나눠\" (Naver News Library article 1990031800239107014, OCR text: '경제기획원은 改閣이 단행된 17일 오전10시15분 예정보다 다소 앞당겨果川정부청사지하강당에서趙淳부총리의 이임식을 거행', https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239107014&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=7&printNo=21219&publishType=00010, accessed 2026-09-26T09:26:05-0400; snapshot roster/sources/epb/ext88/nl/nl_1990031800239107014.json)",
+    "한겨레 1990-03-17 p.3 \"부총리 퇴임소감 피력\" (Naver News Library article 1990031700289103007, OCR text: '개각을 하루 앞둔 16일오후 5시 정부종합청사 19층 국무회의실에서 열린 국무위원 간담회에서 참석 장관들은 일제히‘소직은 일신상 사정으로 사직하고자 하오니 청허하여 주시기바랍니다’란 내용의 사직서를 써' (resignations handed in on the 16th), https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700289103007&editNo=4&printCount=1&publishDate=1990-03-17&officeId=00028&pageNo=3&printNo=568&publishType=00010, accessed 2026-09-26T09:28:01-0400; snapshot roster/sources/epb/ext88/nl/nl_1990031700289103007.json)",
+    "한국일보 1990-03-18 \"15개 부처 장관 경질/부총리 이승윤… 경제팀 대폭 교체\" (BigKinds news_id 01101101.19900318000000104, full text: '노태우대통령은 17일 부총리겸 경제기획원장관에 이승윤민자당의원을 임명하는 등', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900318000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:52-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19900318000000104.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1990-03-17 '노태우 대통령, 15개 부처 장관 교체' https://db.history.go.kr/id/tcct_1990_03_17_0010 (accessed 2026-09-26T08:49:48-0400; snapshot roster/sources/epb/ext88/hist/tcct_1990_03_17_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 23대 조 순 장관 재임기간 1988.12. ~ 1990.3.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[조순]](趙淳)' '1988년 12월 5일 ~ 1990년 3월 17일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 한겨레 1990-03-18 \"물러난 조순 부총리ㆍ이규성 재무 인사말\" (BigKinds news_id 01101001.19900318000000206, full text: '조순전부총리와 이규성재무장관은 17일 오전 이임식에서', https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19900318000000206&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:13:53-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01101001.19900318000000206.json)",
+    "[verifier] 세계일보 1990-03-18 \"예견된 「내용」 차분하게 받아들여/15장관 경질… 정­관가의 표정\" (BigKinds news_id 01100701.19900318000000207, full text: '노대통령은 16일 저녁 지방별저에서 청와대의전비서관을 통해 국무위원 일괄사표를 전달받고', https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900318000000207&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:11-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100701.19900318000000207.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member at appointment or during the spell. Later 15th NA member (한나라당, 강원 강릉시을, 1998-07-21..2000-05-29) (na_members/na_members_12_22.csv, mona_cd 8KH3730J)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Appointed in the 1988-12-05 전면개각 and received the 임명장 the same day (경향신문 1988-12-05). Replaced in the 1990-03-17 reshuffle (15개 부처). The ministers handed in resignations on 1990-03-16, the reshuffle was announced on the morning of Saturday 1990-03-17, and 조순 held his 이임식 at 10:15 that morning (조선일보 1990-03-18). His successor received the 임명장 only on 1990-03-19, so the end is set to the day he was relieved and left, 1990-03-17 (medium, since no document gives the formal 면직 date). This leaves 1990-03-18 (a Sunday) vacant, see continuity. Held the 부총리 title ex officio (정부조직법 제17조③, 법률 제3854호 version, 부총리 1인 and 경제기획원장관이 겸임). Birth date and gender from na_members/na_members_12_22.csv (NA-API, mona_cd 8KH3730J, 1928-02-01, 남), matching ko.wikipedia '조순' https://ko.wikipedia.org/w/index.php?oldid=42462677. Verifier (2026-09-26): Start re-verified with 조선일보 and 전북일보. End re-verified with 한겨레 (BigKinds, a different story from the builder's News Library 한겨레 item) and 세계일보. No source gives him in office after 1990-03-17. The ministry pages of other offices print the predecessors of this reshuffle to 1990-03-18 or 03-19 by their own conventions, and finance.ext88.json ends 이규성 (재무부) on 1990-03-19 although the same 한겨레 story puts his 이임식 on 03-17 with 조순. See the verifier issue on the cross-lineage rule."
+  },
+  {
+   "name": "이승윤",
+   "name_hanja": "李承潤",
+   "name_en": "Lee Seung-yoon",
+   "name_en_source": "https://www.wikidata.org/wiki/Q11266208 (English label; Wikidata SPARQL, roster/sources/epb/ext88/persons.json, accessed 2026-09-26T09:20:07-0400)",
+   "birth_date": "1931-11-07",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1990-03-19",
+   "start_confidence": "medium",
+   "start_sources": [
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds news_id 01100201.19900319000000107, full text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19900319000000107.json)",
+    "서울신문 1990-03-19 \"신임각료 15명에 오늘 임명장 수여/노대통령\" (BigKinds news_id 01100611.20160420190313339, full text: '노태우대통령은 19일 상오 청와대에서 이승윤부총리겸 경제기획원장관등 15개 부처 신임장관과 노재봉대통령비서실장등 청와대 신임수석비서관들에게 임명장을 수여할 예정이다' (announced for the 19th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190313339&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:26:53-0400; snapshot roster/sources/epb/ext88/bk/bk_01100611.20160420190313339.json)",
+    "한국일보 1990-03-18 \"15개 부처 장관 경질/부총리 이승윤… 경제팀 대폭 교체\" (BigKinds news_id 01101101.19900318000000104, full text: '노대통령은 19일 상오 이부총리를 비롯한 신임각료에게 임명장을 수여할 예정이다', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900318000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:52-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19900318000000104.json)",
+    "동아일보 1990-03-20 p.7 \"李承潤부총리겸 경제기획원장관이 19일 취임식에...\" (Naver News Library article 1990032000209207004, OCR text: '李承潤부총리겸 경제기획원장관이 19일 취임식에서' (취임식 on the 19th), https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000209207004&editNo=2&printCount=1&publishDate=1990-03-20&officeId=00020&pageNo=7&printNo=21066&publishType=00020, accessed 2026-09-26T09:27:26-0400; snapshot roster/sources/epb/ext88/nl/nl_1990032000209207004.json)",
+    "동아일보 1990-03-17 p.1 \"15部장관 更迭\" (Naver News Library article 1990031700209201001, OCR text: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등' (announcement on the 17th), https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/epb/ext88/nl/nl_1990031700209201001.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1990-03-17 '이승윤 부총리 겸 경제기획원장관, 금융실명제 실시 재검토하겠다고 첫 기자회견' https://db.history.go.kr/id/tcct_1990_03_17_0020 (accessed 2026-09-26T08:49:48-0400; snapshot roster/sources/epb/ext88/hist/tcct_1990_03_17_0020.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 24대 이승윤 장관 재임기간 1990.3. ~ 1991.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[이승윤 (1931년)|이승윤]](李承潤)' '1990년 3월 17일 ~ 1991년 2월 18일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 동아일보 1990-03-19 \"經濟難—民生治安해결 당부\" (BigKinds news_id 01100401.19900319050325004, full text: '盧泰愚대통령은 19일 오전靑瓦臺에서 3·17개각으로입각한 李承潤부총리등 신임각료에게 임명장을 주고', https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19900319050325004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:51-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100401.19900319050325004.json)",
+    "[verifier] 한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text: '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:23-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01101101.19900320000000301.json)",
+    "[verifier] 부산일보 1990-03-18 \"신임閣僚에 임명장 盧 대통령\" (BigKinds news_id 01500701.19900318195508102, full text: '19일상오 청와대에서 李承)潤부총 리겸 경제기획원장관을 비롯한 15명의 신임각료' (BigKinds date 1990-03-18, text reports the 19th), https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19900318195508102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:30:06-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.19900318195508102.json)",
+    "[verifier] 조선일보 1990-03-20 p.4 \"◇盧泰愚대통령이 19일 오전 靑瓦臺에서 신임安...\" (Naver News Library article 1990032000239104010, OCR text: '盧泰愚대통령이 19일 오전 靑瓦臺에서 신임安應模내무장관에게 임명장을 주고 있다' (same ceremony), https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000239104010&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00023&pageNo=4&printNo=21221&publishType=00010, accessed 2026-09-26T13:16:55-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1990032000239104010.json)"
+   ],
+   "end": "1991-02-18",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1991-02-19 p.1 \"崔珏圭부총리(企劃院)임명\" (Naver News Library article 1991021900329201011, OCR text: '盧泰愚대통령은 18일 하오 水西택지특별분양사건에대한 책임을묻고 경제활성화와 국정분위기를 쇄신하기위해 부총리겸 경제기획원장관에 崔珏圭民自黨정책위의장을', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900329201011&editNo=3&printCount=1&publishDate=1991-02-19&officeId=00032&pageNo=1&printNo=13971&publishType=00020, accessed 2026-09-26T09:28:45-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900329201011.json)",
+    "경향신문 1991-02-19 p.1 \"崔珏圭부총리(企劃院)임명\" (Naver News Library article 1991021900329201011, OCR text: '盧대통령이李承潤부총리겸경제기획원장관을 경질한것은', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900329201011&editNo=3&printCount=1&publishDate=1991-02-19&officeId=00032&pageNo=1&printNo=13971&publishType=00020, accessed 2026-09-26T09:28:45-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900329201011.json)",
+    "국민일보 1991-02-19 \"이승윤 퇴임 부총리(인터뷰)\" (BigKinds news_id 01100201.19910219000000204, full text: '이승윤 전부총리겸 경제기획원장관은 18일 오후 이임식을 마친뒤 기자회견을 갖고', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19910219000000204&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:29:46-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19910219000000204.json)",
+    "중앙일보 1991-02-18 \"부총리포함 문책인사/오늘중/건설장관·서울시장·행정수석 경질\" (BigKinds news_id 01100901.19910218003639001, full text: '18일중 이승윤 부총리·이상희 건설장관과 박세직 서울시장,이상배 청와대행정수석비서관 등을 경질하고', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19910218003639001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:30:02-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19910218003639001.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 24대 이승윤 장관 재임기간 1990.3. ~ 1991.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[이승윤 (1931년)|이승윤]](李承潤)' '1990년 3월 17일 ~ 1991년 2월 18일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 동아일보 1991-02-19 p.6 \"経済로비\" (Naver News Library article 1991021900209206006, OCR text: '李承潤 전부총리는18일오후 개각발표직후 이임식에서', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900209206006&editNo=2&printCount=1&publishDate=1991-02-19&officeId=00020&pageNo=6&printNo=21391&publishType=00020, accessed 2026-09-26T13:21:54-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1991021900209206006.json)",
+    "[verifier] 국민일보 1991-02-19 \"이 전 부총리 “나는 민심수습용”/요직 개편… 부처 표정\" (BigKinds news_id 01100201.19910219000001403, full text: '이승윤 전 부총리겸 경제기획원 장관이 18일 수서사건에 휘말려 취임 11개월만에 도중하차하자', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19910219000001403&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:19:52-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100201.19910219000001403.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 13th NA member throughout the spell (elected for 민주정의당 in 인천 북구을, 민주자유당 at appointment per 동아일보 1990-03-17 '李承潤民自黨의원'), seat 1988-05-30..1992-05-29, re-elected to the 14th (na_members/na_members_12_22.csv, mona_cd Y0G24569)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Named in the reshuffle announced on 1990-03-17 (동아일보 1990-03-17, 대한민국사연표 1990-03-17, ko.wikipedia 1990-03-17) and received the 임명장 on the morning of Monday 1990-03-19 (국민일보 1990-03-19), with his 취임식 the same day. The start follows the 임명장 day, which the moj, mohw, msit, 총무처, 내무부 and motir pages also print for the other ministers of this reshuffle (crosscheck_1990.json). Medium because no document gives the legal appointment date and the press described him as appointed on the 17th. Replaced on 1991-02-18 in the 수서 사건 reshuffle announced that afternoon, and he held his 이임식 the same afternoon. Held the 부총리 title ex officio (정부조직법 제17조③, 법률 제3854호 version, and from 1990-12-27 법률 제4268호 with the 경제기획원장관 as the first of two 부총리). Birth date and gender from na_members/na_members_12_22.csv (NA-API, mona_cd Y0G24569, 1931-11-07, 남), matching ko.wikipedia '이승윤 (1931년)' https://ko.wikipedia.org/w/index.php?oldid=41882221. Verifier (2026-09-26): Start re-verified with four papers not cited by the builder for this date. All put the 임명장 on 1990-03-19, and 세계일보 1990-03-18 (01100701.19900318000000101) announced it for the 19th. Confidence left at medium (announcement on 03-17, no gazette). End re-verified with 동아일보 and a second 국민일보 story."
+  },
+  {
+   "name": "최각규",
+   "name_hanja": "崔珏圭",
+   "name_en": "Choi Gak-gyu",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12619441 (English label; Wikidata SPARQL, roster/sources/epb/ext88/persons.json, accessed 2026-09-26T09:20:07-0400)",
+   "birth_date": "1933-11-03",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1991-02-19",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1991-02-19 p.1 \"盧대통령 임명장 수여\" (Naver News Library article 1991021900099201011, OCR text: '盧泰愚대통령은 19일상오 신임 崔珏圭부총리겸경제기획원장관 李鎭卨건설부장관 李海元서울특별시장 盧健一대통령행정수석비서관 白亨祚전남지사에게 임명장을 수여했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900099201011&editNo=1&printCount=1&publishDate=1991-02-19&officeId=00009&pageNo=1&printNo=7720&publishType=00020, accessed 2026-09-26T09:28:50-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900099201011.json)",
+    "서울신문 1991-02-20 \"신임각료·당직자에 임명장\" (BigKinds news_id 01100611.20160421011740918, full text: '노태우대통령은 19일 상오 청와대에서 최각규 부총리겸 경제기획원장관,이진설 건설부장관,이해원 서울시장과 노건일 대통령행정수석비서관 그리고 백형조 전남지사에게 임명장을 수여했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421011740918&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:29:32-0400; snapshot roster/sources/epb/ext88/bk/bk_01100611.20160421011740918.json)",
+    "한국일보 1991-02-20 \"“부동산값 철저히 통제”/최 부총리 취임사\" (BigKinds news_id 01101101.19910220000000701, full text: '최 부총리는 이날 취임사와 첫 기자간담회를 통해' (취임사 on the 19th), https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19910220000000701&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:30:18-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19910220000000701.json)",
+    "경향신문 1991-02-19 p.1 \"崔珏圭부총리(企劃院)임명\" (Naver News Library article 1991021900329201011, OCR text: '부총리겸 경제기획원장관에 崔珏圭民自黨정책위의장을' (announcement on the afternoon of the 18th), https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900329201011&editNo=3&printCount=1&publishDate=1991-02-19&officeId=00032&pageNo=1&printNo=13971&publishType=00020, accessed 2026-09-26T09:28:45-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900329201011.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 25대 최각규 장관 재임기간 1991.2. ~ 1993.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[최각규]](崔珏圭)' '1991년 2월 18일 ~ 1993년 2월 24일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 동아일보 1991-02-19 p.5 \"時代 革命的으로 변했다\" (Naver News Library article 1991021900209205007, OCR text: '盧泰愚대통령은 19일 오전 신임崔珏圭부총리겸경제기획원장관 李鎭卨건설부장관李海元서울특별시장 盧健一대통령행정수석비서관 白亨祚 全南지사에게 임명장을 주면서', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900209205007&editNo=2&printCount=1&publishDate=1991-02-19&officeId=00020&pageNo=5&printNo=21391&publishType=00020, accessed 2026-09-26T10:19:38-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1991021900209205007.json)",
+    "[verifier] 경기일보 1991-02-19 \"새각료등에 임명장\" (BigKinds news_id 01200101.19910219164228103, full text: '盧泰愚대통령은 19일 오전 청와대에서 신임 崔珏圭 부총리겸 경제기획원장관, 李진설건설장관, 李海元서울시장 그리고 白亨祚 전남지사에게 임명장을 수여했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19910219164228103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:21:52-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01200101.19910219164228103.json)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "high",
+   "end_sources": [
+    "한겨레 1993-02-26 p.6 \"퇴임 경제부처 장관들 유학계획많아\" (Naver News Library article 1993022600289106003, OCR text: '26일 일제히 퇴임하는 경제부처 장관들은', https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600289106003&editNo=5&printCount=1&publishDate=1993-02-26&officeId=00028&pageNo=6&printNo=1486&publishType=00010, accessed 2026-09-26T09:32:04-0400; snapshot roster/sources/epb/ext88/nl/nl_1993022600289106003.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통 사무총장에게 임명장을 수여했다' (successor appointed the same day), https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/epb/ext88/bk/bk_01601101.19930226014940103.json)",
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '金대통령은 이날 새내각의 전국무위원과 안기부장서울시장 平統사무총장등모두 27명의 새정부진용을임명,발령했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/epb/ext88/nl/nl_1993022600209201001.json)",
+    "대통령기록관 대통령 일정 (tier 2, 김영삼 1993) 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/epb/ext88/pa/pa_김영삼_1993_p1.html)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1993-02-26 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' https://db.history.go.kr/id/tcct_1993_02_26_0010 (accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/epb/ext88/hist/tcct_1993_02_26_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 25대 최각규 장관 재임기간 1991.2. ~ 1993.2.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[최각규]](崔珏圭)' '1991년 2월 18일 ~ 1993년 2월 24일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 부산일보 1993-02-26 \"부총리 李經植(경제)·韓完相씨(통일)\" (BigKinds news_id 01500701.20160409010410104, full text: '김 대통령은 26일 오후 청와대에서 이경식 부총리 겸 경제기획원 장관 등 신임 각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통사무총장에게 임명장을 수여했다' (successor appointed the same day), https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409010410104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:30-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.20160409010410104.json)",
+    "[verifier] 조선일보 1993-02-27 p.5 \"당혹…환영…\"정권교체 실감\"\" (Naver News Library article 1993022700239105001, OCR text: '동자부는 26일 오전 쓸쓸한 분위기에서 陳稔장관의 이임식을 갖고' (the outgoing 노태우 ministers left on the 26th), https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1993022700239105001.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 13th NA member at appointment (elected for 신민주공화당 in 강원 강릉시, 민주자유당 정책위의장 at appointment per 경향신문 1991-02-19), seat 1988-05-30..1992-05-29, not an NA member for the rest of the spell (no 14th term in na_members/na_members_12_22.csv, mona_cd OFA8515J)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Named on the afternoon of 1991-02-18 in the 수서 사건 reshuffle and received the 임명장 on the morning of 1991-02-19 (매일경제 1991-02-19, 서울신문 1991-02-20). The start follows the 임명장 day (medium, see 이승윤). ko.wikipedia gives 1991-02-18. He served into the 김영삼 term as a caretaker. 김영삼 was inaugurated on 1993-02-25, and the new cabinet was named, appointed and given its 임명장 on 1993-02-26, the day 최각규 and the other economic ministers left (한겨레 1993-02-26). ko.wikipedia's end date of 1993-02-24 is therefore not used. Held the 부총리 title ex officio (정부조직법 제17조③ as amended by 법률 제4268호 of 1990-12-27, 부총리 2인 with the 경제기획원장관 first in the acting order). Birth date and gender from na_members/na_members_12_22.csv (NA-API, mona_cd OFA8515J, 1933-11-03, 남), matching ko.wikipedia '최각규' https://ko.wikipedia.org/w/index.php?oldid=41962862. Verifier (2026-09-26): Start re-verified with 동아일보 and 경기일보. For the end, no verifier source names 최각규's own 이임식, but 부산일보 puts his successor's 임명장 on 1993-02-26 and 조선일보 and 매일경제 1993-02-26 p.13 (1993022600099213011) report other outgoing ministers' 이임식 on the 26th, which agrees with the builder's 한겨레 story ('26일 일제히 퇴임하는 경제부처 장관들')."
+  },
+  {
+   "name": "이경식",
+   "name_hanja": "李經植",
+   "name_en": "Kyung Shik Lee",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16090696 (English label; Wikidata SPARQL, roster/sources/epb/ext88/persons.json, accessed 2026-09-26T09:20:07-0400)",
+   "birth_date": "1933-06-28",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/epb/ext88/bk/bk_01601101.19930226014940103.json)",
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '金泳三대통령은 26일오전 새정부의 組閣내용을발표, 부총리겸경제기획원장관에 李經植가스안전공사사장', https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/epb/ext88/nl/nl_1993022600209201001.json)",
+    "국민일보 1993-02-27 \"“기업행정규제 과감히 철폐”/이 부총리 취임사\" (BigKinds news_id 01100201.19930227000000701, full text: '이부총리는 26일 오후 과천청사 경제기획원 대회의실에서 열린 취임식에서', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000701&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:56-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19930227000000701.json)",
+    "경향신문 1993-02-27 \"부총리 이경식(기획원) 한완상(통일원)/새정부 조각발표\" (BigKinds news_id 01100101.19930227000000101, full text: '김영삼대통령은 26일 부총리겸 경제기획원장관에 이경식 한국가스공사 사장', https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:17-0400; snapshot roster/sources/epb/ext88/bk/bk_01100101.19930227000000101.json)",
+    "대통령기록관 대통령 일정 (tier 2, 김영삼 1993) 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/epb/ext88/pa/pa_김영삼_1993_p1.html)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1993-02-26 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' https://db.history.go.kr/id/tcct_1993_02_26_0010 (accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/epb/ext88/hist/tcct_1993_02_26_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 26대 이경식 장관 재임기간 1993.2. ~ 1993.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[이경식 (1933년)|이경식]](李經植)' '1993년 2월 25일 ~ 1993년 12월 21일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 부산일보 1993-02-26 \"부총리 李經植(경제)·韓完相씨(통일)\" (BigKinds news_id 01500701.20160409010410104, full text: '김 대통령은 26일 오후 청와대에서 이경식 부총리 겸 경제기획원 장관 등 신임 각료 전원과 김덕 안기부장, 김상철 서울시장, 유경현 평통사무총장에게 임명장을 수여했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409010410104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:30-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.20160409010410104.json)",
+    "[verifier] 한겨레 1993-02-27 \"부총리 이경식(기획원장관) 한완상(통일원장관)\" (BigKinds news_id 01101001.19930227000000101, full text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게 임명장을 주었다', https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:34-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01101001.19930227000000101.json)"
+   ],
+   "end": "1993-12-21",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text: '金泳三대통령은 21일 경제 통일 두 부총리를 포함한 14개부처에 대한 내각개편을 단행했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/epb/ext88/nl/nl_1993122200209101001.json)",
+    "세계일보 1993-12-22 \"이부총리 이임식\" (BigKinds news_id 01100701.19931222000000707, full text: '이경식 부총리겸 경제기획원장관은 21일 오후3시 경제기획원 지하대강당에서 전직원들이 참석한 가운데 이임식을 갖고 퇴임했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19931222000000707&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:51-0400; snapshot roster/sources/epb/ext88/bk/bk_01100701.19931222000000707.json)",
+    "경향신문 1993-12-22 \"“재임중 UR타결 가장 보람”/이경식 전부총리 퇴임인터뷰\" (BigKinds news_id 01100101.19931222000000603, full text: '이경식전부총리겸 경제기획원장관은 21일 오후 이임식을 마친뒤', https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931222000000603&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01100101.19931222000000603.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1993-12-21 '김영삼 대통령, 14개 부처 장관 경질' https://db.history.go.kr/id/tcct_1993_12_21_0010 (accessed 2026-09-26T09:05:05-0400; snapshot roster/sources/epb/ext88/hist/tcct_1993_12_21_0010.html)",
+    "대통령기록관 대통령 일정 (tier 2, 김영삼 1993) 1993-12-16 '신임 국무총리 이회창 임명' / '황인성 국무총리 사표 수리 \n신임 국무총리 이회창 및 감사원장 이시윤 임명 \n*12.21 부총리를 포함한 14개 부처 개각 단행' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼, year=1993; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/epb/ext88/pa/pa_김영삼_1993_p1.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 26대 이경식 장관 재임기간 1993.2. ~ 1993.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[이경식 (1933년)|이경식]](李經植)' '1993년 2월 25일 ~ 1993년 12월 21일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 매일경제 1993-12-22 p.1 \"부총리丁渽錫(경제)·李榮德(통일)씨\" (Naver News Library article 1993122200099101001, OCR text: '金泳三대통령은 21일 오후 부총리겸 경제기획원장관에 丁渽錫교통부장관,통일원부총리에는 李榮德명지대총장을 임명하는 등14개부처에 걸쳐 대폭적인개각을 단행했다', https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200099101001&editNo=15&printCount=1&publishDate=1993-12-22&officeId=00009&pageNo=1&printNo=8624&publishType=00010, accessed 2026-09-26T10:08:21-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1993122200099101001.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "First 경제기획원장관 of the 김영삼 government, named and appointed on 1993-02-26 (임명장 that afternoon, 취임식 the same afternoon). ko.wikipedia gives 1993-02-25, the inauguration day, which the news does not support. Replaced in the 1993-12-21 reshuffle (14개 부처, after the UR rice-market opening) and left the same day after an afternoon 이임식. Not found in na_members_12_22.csv. ko.wikipedia says he was later 한국은행 총재 (1995-1998). Held the 부총리 title ex officio (정부조직법 제17조③ as amended by 법률 제4268호 of 1990-12-27, 부총리 2인 with the 경제기획원장관 first in the acting order). Birth date from ko.wikipedia '이경식 (1933년)' https://ko.wikipedia.org/w/index.php?oldid=41473463 and Wikidata Q16090696 (P569 1933-06-28). Gender from Wikidata P21 (남성). Secondary sources only. Verifier (2026-09-26): Start re-verified with 부산일보 and a 한겨레 BigKinds story. End re-verified with 매일경제 (replacement on the afternoon of 1993-12-21)."
+  },
+  {
+   "name": "정재석",
+   "name_hanja": "丁渽錫",
+   "name_en": "Chung Jai-suk",
+   "name_en_source": "https://www.wikidata.org/wiki/Q78988611 (English label; wbgetentities, roster/sources/epb/ext88/wiki/wd_entities_extra.json, accessed 2026-09-26T09:41:22-0400)",
+   "birth_date": "1930-05-05",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1993-12-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "한겨레 1993-12-23 \"새 국무위원 임명장/김 대통령\" (BigKinds news_id 01101001.19931223000000105, full text: '김 대통령은 이날 아침 정재석 경제 부총리 등 신임 국무위원들에게 임명장을 주는 자리에서' (the 22nd), https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19931223000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:13-0400; snapshot roster/sources/epb/ext88/bk/bk_01101001.19931223000000105.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text: '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는 자리에서' (the 22nd), https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:33-0400; snapshot roster/sources/epb/ext88/bk/bk_01100101.19931223000000104.json)",
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text: '金대통령은 22일 오전9시 새국무위원에게 임명장을 수여한다', https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/epb/ext88/nl/nl_1993122200209101001.json)",
+    "한겨레 1993-12-23 \"신경제 기조 유지/농어촌 문제 역점/정재석 새 부총리 취임 회견\" (BigKinds news_id 01101001.19931223000000701, full text: '정재석 신임 부총리 겸 경제기획원장관은 22일 기획원에서 간략한 취임식을 가진 뒤', https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19931223000000701&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:29-0400; snapshot roster/sources/epb/ext88/bk/bk_01101001.19931223000000701.json)",
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text: '金대통령은 부총리겸 경제기획원장관에 丁渽錫교통부장관을,부총리겸 통일원장관에 李榮德명지대총장을 임명했다' (announcement on the 21st), https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/epb/ext88/nl/nl_1993122200209101001.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1993-12-21 '김영삼 대통령, 14개 부처 장관 경질' https://db.history.go.kr/id/tcct_1993_12_21_0010 (accessed 2026-09-26T09:05:05-0400; snapshot roster/sources/epb/ext88/hist/tcct_1993_12_21_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 27대 정재석 장관 재임기간 1993.12. ~ 1994.10.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[정재석]](丁渽錫)' '1993년 12월 21일 ~ 1994년 10월 4일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 조선일보 1993-12-23 p.2 \"\"일 안하는 각료 용서안해\"\" (Naver News Library article 1993122300239102002, OCR text: '金대통령은 이날 오전청와대에서 丁渽錫경제부총리와 李榮德통일부총리등 신임 각료 14명에게 임명장을 수여하는 자리에서' (22일), https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102002&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, accessed 2026-09-26T09:45:50-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1993122300239102002.json)",
+    "[verifier] 매일경제 1993-12-23 p.1 \"청와대首席 4명 교체\" (Naver News Library article 1993122300099101004, OCR text: '이날 오전 丁渽錫경제부총리와 李榮德통일부총리등 신임각료 14명에게 임명장을수여하고', https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099101004&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00009&pageNo=1&printNo=8625&publishType=00010, accessed 2026-09-26T13:32:50-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1993122300099101004.json)",
+    "[verifier] 부산일보 1993-12-22 \"＂국제경쟁 극복을＂\" (BigKinds news_id 01500701.20160409041327417, full text: '김 대통령은 이날 오전 청와대에서 신임 정엄석부 총리 겸 경제기획원 장관 등 14명의 신임 각료에게 임명장을 수여한 자리에서' (name misprinted in the typed text), https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409041327417&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:30:44-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.20160409041327417.json)"
+   ],
+   "end": "1994-10-04",
+   "end_confidence": "medium",
+   "end_sources": [
+    "국민일보 1994-10-04 \"경제부총리 홍재형씨/부분개각 단행/정재석부총리 사의따라\" (BigKinds news_id 01100201.19941004000000101, full text: '김영삼대통령은 4일 건강상의 이유로 사의를 표명한 정재석경제부총리를 전격 경질하고 후임에 홍재형재무장관을 임명하는 부분개각을 단행했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941004000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:43-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941004000000101.json)",
+    "국민일보 1994-10-04 \"경제부총리 홍재형씨/부분개각 단행/정재석부총리 사의따라\" (BigKinds news_id 01100201.19941004000000101, full text: '정부총리는 지난 1일 오후 김대통령에게 신병을 이유로 사표를 제출했다고 주대변인이 밝혔다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941004000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:43-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941004000000101.json)",
+    "서울신문 1994-10-05 \"정 부총리 퇴임사에 일부각료 눈물(국무회의 4일)\" (BigKinds news_id 01100611.20160422160907354, full text: '4일 국무회의는 신병으로 사직하는 정재석경제부총리의 퇴임의 변 때문에' (his last 국무회의 on the 4th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422160907354&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:37:38-0400; snapshot roster/sources/epb/ext88/bk/bk_01100611.20160422160907354.json)",
+    "한겨레 1994-10-06 \"“예산안 매듭 못지어 아쉬움”/정재석 전부총리 이임식\" (BigKinds news_id 01101001.19941006000000902, full text: '정재석 경제부총리 이임식은 5일 오전 10시 경제기획원에서 숙연한 분위기 속에 진행됐다' (이임식 on the 5th), https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19941006000000902&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:37:12-0400; snapshot roster/sources/epb/ext88/bk/bk_01101001.19941006000000902.json)",
+    "세계일보 1994-10-05 \"경제부총리 홍재형씨/정재석부총리 사의\" (BigKinds news_id 01100701.19941005000000102, full text: '김영삼대통령은 4일 건강상의 이유로 사표를 제출한 정재석부총리겸 경제기획원장관 후임에 홍재형재무장관을 임명하는등', https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19941005000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:06-0400; snapshot roster/sources/epb/ext88/bk/bk_01100701.19941005000000102.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1994-10-04 '경제부처 부분 개각 △경제기획원장관 홍재형·재무부장관 박재윤·청와대경제수석비서관 한이헌' https://db.history.go.kr/id/tcct_1994_10_04_0010 (accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/epb/ext88/hist/tcct_1994_10_04_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 27대 정재석 장관 재임기간 1993.12. ~ 1994.10.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[정재석]](丁渽錫)' '1993년 12월 21일 ~ 1994년 10월 4일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 전북일보 1994-10-04 \"副總理에 洪在馨씨\" (BigKinds news_id 01601101.19941004104024103, full text: '김영삼대통령은 4일 상오 건강상 이유로 사의를 표명한 정재석부총리겸 경제기획원장관의 사표를 수리, 후임 경제부총리에 洪在馨재무장관을 임명하고', https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19941004104024103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:36:23-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01601101.19941004104024103.json)",
+    "[verifier] 동아일보 1994-10-05 p.1 \"경제부총리 洪在馨씨\" (Naver News Library article 1994100500209101002, OCR text: '金泳三대통령은 4일 丁渽錫부총리겸경제기획원장관의 사표를 수리,후임에洪在馨재무장관을 임명하고', https://newslibrary.naver.com/viewer/index.naver?articleId=1994100500209101002&editNo=45&printCount=1&publishDate=1994-10-05&officeId=00020&pageNo=1&printNo=22646&publishType=00010, accessed 2026-09-26T09:43:36-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1994100500209101002.json)",
+    "[verifier] 조선일보 1994-10-06 p.11 \"朴재무,2개행동강령 공표\" (Naver News Library article 1994100600239111003, OCR text: '丁渽錫(정재석)前부총리는 5일 오전 이임식에서' (이임식 on 10-05, after the acceptance), https://newslibrary.naver.com/viewer/index.naver?articleId=1994100600239111003&editNo=1&printCount=1&publishDate=1994-10-06&officeId=00023&pageNo=11&printNo=22822&publishType=00010, accessed 2026-09-26T13:43:48-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1994100600239111003.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Moved from 교통부장관 (other lineage). Named on 1993-12-21 and received the 임명장 at 9 a.m. on 1993-12-22, with a 취임식 the same day. The start follows the 임명장 day (medium, see 이승윤). The 총무처 and 내무부 pages also start their 1993-12 appointees on 1993-12-22 (crosscheck_1990.json). ko.wikipedia gives 1993-12-21. Resigned for health reasons (a colon tumour found in late September). He handed his 사표 to the President on 1994-10-01, and the President accepted it and named 홍재형 on the morning of 1994-10-04. He attended that day's 국무회의 as his last and held his 이임식 on the morning of 1994-10-05, the day 홍재형 received the 임명장. The end is the day he was relieved, 1994-10-04 (medium). Not found in na_members_12_22.csv. Held the 부총리 title ex officio (정부조직법 제17조③ as amended by 법률 제4268호 of 1990-12-27, 부총리 2인 with the 경제기획원장관 first in the acting order). Birth date from ko.wikipedia '정재석' https://ko.wikipedia.org/w/index.php?oldid=41473494 and Wikidata Q78988611 (P569 1930-05-05). Gender from Wikidata P21 (Q6581097, male). Secondary sources only. Verifier (2026-09-26): Start re-verified with 조선일보, 매일경제 and 부산일보. End re-verified with 전북일보 and 동아일보, both dating the acceptance of the resignation to 1994-10-04, which is the main roster's rule. His 이임식 was on 10-05 (조선일보 says morning, 동아일보 1994-10-06 p.11 1994100600209111005 says afternoon). The acting-PM period of April 1994 is in 'acting'."
+  },
+  {
+   "name": "홍재형",
+   "name_hanja": "洪在馨",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-03-27",
+   "gender": "M",
+   "ministry": "경제기획원",
+   "office_title": "부총리 겸 경제기획원장관",
+   "deputy_pm": true,
+   "start": "1994-10-05",
+   "start_confidence": "medium",
+   "start_sources": [
+    "중앙일보 1994-10-05 \"<중앙탑>새 經濟팀에 임명장-김대통령\" (BigKinds news_id 01100901.19941005140124002, full text: '김영삼(金泳三)대통령은 5일 오전 신임 홍재형(洪在馨)부총리겸 경제기획원장관과 박재윤(朴在潤)재무장관및 한이헌(韓利憲)청와대경제수석에게 임명장을 준뒤', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941005140124002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:36:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19941005140124002.json)",
+    "국민일보 1994-10-05 \"“경제팀 일관성 유지”/김대통령 임명장\" (BigKinds news_id 01100201.19941005000000104, full text: '김대통령은 이날 오전 홍재형경제부총리 박재윤재무장관 한이헌경제수석에게 임명장을 수여한 자리에서' (the 5th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941005000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:36:37-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941005000000104.json)",
+    "매일경제 1994-10-06 p.1 \"洪부총리등 임명장\" (Naver News Library article 1994100600099101005, OCR text: '신임 洪在馨부총리와 朴在潤재무장관,韓利憲 경제수석이 5일 오전 청와대에서 金泳三대통령으로부터 임명장을 받은 후', https://newslibrary.naver.com/viewer/index.naver?articleId=1994100600099101005&editNo=15&printCount=1&publishDate=1994-10-06&officeId=00009&pageNo=1&printNo=8891&publishType=00010, accessed 2026-09-26T09:36:42-0400; snapshot roster/sources/epb/ext88/nl/nl_1994100600099101005.json)",
+    "세계일보 1994-10-05 \"경제부총리 홍재형씨/정재석부총리 사의\" (BigKinds news_id 01100701.19941005000000102, full text: '김대통령은 5일 이들 신임 각료에게 임명장을 수여한다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19941005000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:06-0400; snapshot roster/sources/epb/ext88/bk/bk_01100701.19941005000000102.json)",
+    "국민일보 1994-10-04 \"경제부총리 홍재형씨/부분개각 단행/정재석부총리 사의따라\" (BigKinds news_id 01100201.19941004000000101, full text: '후임에 홍재형재무장관을 임명하는 부분개각을 단행했다' (announcement on the 4th), https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941004000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:43-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941004000000101.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1994-10-04 '경제부처 부분 개각 △경제기획원장관 홍재형·재무부장관 박재윤·청와대경제수석비서관 한이헌' https://db.history.go.kr/id/tcct_1994_10_04_0010 (accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/epb/ext88/hist/tcct_1994_10_04_0010.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 28대 홍재형 장관 재임기간 1994.10. ~ 1994.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[홍재형]](洪在馨)' '1994년 10월 4일 ~ 1994년 12월 23일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 경향신문 1994-10-06 p.4 \"\"경제지표 계획대로 순탄\"\" (Naver News Library article 1994100600329104006, OCR text: '金泳三대통령은 5일 오전청와대에서 신임 洪在馨부총리겸경제기획원장관·朴在潤재무장관·韓利憲청와대경제수석에게 임명장을 수여한뒤', https://newslibrary.naver.com/viewer/index.naver?articleId=1994100600329104006&editNo=15&printCount=1&publishDate=1994-10-06&officeId=00032&pageNo=4&printNo=15218&publishType=00010, accessed 2026-09-26T13:45:37-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1994100600329104006.json)",
+    "[verifier] 전북일보 1994-10-05 \"八達路\" (BigKinds news_id 01601101.19941005104133101, full text: '김영삼 대통령은 5일 오전 신임 홍재형 총리겸 경제기획원장관과 朴在潤 재무장관 및 韓利憲 청와대경제수석에게 임명장을 준뒤', https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19941005104133101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:39:59-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01601101.19941005104133101.json)",
+    "[verifier] 동아일보 1994-10-05 p.1 \"경제부총리 洪在馨씨\" (Naver News Library article 1994100500209101002, OCR text: '金대통령은 5일 洪부총리등에게 임명장을 수여하고', https://newslibrary.naver.com/viewer/index.naver?articleId=1994100500209101002&editNo=45&printCount=1&publishDate=1994-10-05&officeId=00020&pageNo=1&printNo=22646&publishType=00010, accessed 2026-09-26T09:43:36-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1994100500209101002.json)"
+   ],
+   "end": "1994-12-22",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices_1988.json OFA02 경제기획원 1988-02-25..1994-12-22 (정부조직법 법률 제4831호 in force 1994-12-23 under 부칙 제1조 단서 with 대통령령 제14438호, which repealed 경제기획원직제. Sources in that file are law.go.kr GOA_4831 and DEC_14438, and 국가기록원 OG0015972 gives the abolition day 1994-12-23)",
+    "전자신문 1994-12-24 \"정부조직법 공식 발효\" (BigKinds news_id 07100501.19941224230037003, full text: '이에 따라 경제기획원과 재무부는 재정경제원으로' (the amended 정부조직법 took effect on the 23rd), https://www.bigkinds.or.kr/news/detailView.do?docId=07100501.19941224230037003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:48:46-0400; snapshot roster/sources/epb/ext88/bk/bk_07100501.19941224230037003.json)",
+    "국민일보 1994-12-23 \"조직법 공포→개각 초고속… 군사작전 방불\" (BigKinds news_id 01100201.19941223000000207, full text: '오후 2시 김대통령이 서명과 재가를 함으로써 공포됐다' (promulgated at about 2 p.m. on 1994-12-23), https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941223000000207&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:48:10-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941223000000207.json)",
+    "동아일보 1994-12-24 \"새 정부조직법 공포\" (BigKinds news_id 01100401.19941224073148007, full text: '金泳三대통령은 이날 오후 청와대에서 새 정부조직법에 서명했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19941224073148007&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:47:58-0400; snapshot roster/sources/epb/ext88/bk/bk_01100401.19941224073148007.json)",
+    "국사편찬위원회 대한민국사연표 (tier 2) 1994-12-23 '김영삼 대통령, 19개 부처장관 경질' https://db.history.go.kr/id/tcct_1994_12_23_0010 (accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/epb/ext88/hist/tcct_1994_12_23_0010.html)",
+    "동아일보 1994-12-24 p.1 \"19部處장관 경질 大改閣\" (Naver News Library article 1994122400209101001, OCR text: '金泳三대통령은 23일 부총리겸 재정경제원장관에洪在馨경제기획원장관,부총리겸 통일원장관에 金悳안기부장을 임명하는등' (named to the successor office on the 23rd), https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/epb/ext88/nl/nl_1994122400209101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/epb/ext88/nl/nl_1994122500099102002.json)",
+    "동아일보 1994-12-25 p.11 \"경제기획원과 재무부를 합해 새로 발족한 재정경...\" (Naver News Library article 1994122500209111002, OCR text: '경제기획원과 재무부를 합해 새로 발족한 재정경제원의 洪在馨부총리(가운데)가 24일 오전', https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500209111002&editNo=45&printCount=1&publishDate=1994-12-25&officeId=00020&pageNo=11&printNo=22722&publishType=00010, accessed 2026-09-26T09:39:48-0400; snapshot roster/sources/epb/ext88/nl/nl_1994122500209111002.json)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '경제기획원 28대 홍재형 장관 재임기간 1994.10. ~ 1994.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "기획재정부 역대 장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL https://mofe.go.kr/mi/mh/his.do?menuNo=9020800), entry '재정경제원 1대 홍재형 부총리 재임기간 1994.12. ~ 1995.12.' (month precision only, accessed 2026-09-25T13:48:59-0400; snapshot roster/sources/epb/ext88/moef_his.html)",
+    "ko.wikipedia '경제기획원' (tier 4) https://ko.wikipedia.org/w/index.php?oldid=40684353, 역대 장관 table row '[[홍재형]](洪在馨)' '1994년 10월 4일 ~ 1994년 12월 23일' (accessed 2026-09-26T09:03:41-0400; snapshot roster/sources/epb/ext88/wiki_경제기획원.json)",
+    "[verifier] 경향신문 1994-12-24 p.4 \"신설 정책首席 역할관심\" (Naver News Library article 1994122400329104001, OCR text: '13분만에 국무회의 의결을 거친 정부조직법 공포안과 직제개정령은 국무총리와 총무처장관,관련장관들의 副署를 받아 청와대에 보내졌으며 오후 2시 金泳三대통령의 서명을거친 뒤 관보게재를 통해공포.' (1994-12-23, the act abolishing 경제기획원), https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010, accessed 2026-09-26T13:49:13-0400; snapshot roster/sources/epb/ext88/verify/nl/nl_1994122400329104001.json)",
+    "[verifier] 서울경제 1994-12-24 \"정부조직法 통과 임시국회 閉會\" (BigKinds news_id 02100311.19941224025908101, full text: '정부조직법 개정안은 본회의 의결직후 곧바로 정부측에 이송돼 이날 하오열린 임시국무회의 공포안의결과 金泳三대통령 재가를 거쳐 이날자로 공식 발효됐다' (23일), https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19941224025908101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:49:31-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_02100311.19941224025908101.json)",
+    "[verifier] 부산일보 1994-12-24 \"임명장 수여\" (BigKinds news_id 01500701.20160409083330038, full text: '金泳三 대통령이 24일 오전 청와대에서 洪在馨 부총리 겸 재정경제원 장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다' (his 재정경제원 appointment, finance lineage), https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409083330038&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:24:05-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.20160409083330038.json)"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member at appointment or during the spell. Later 16th NA member (새천년민주당, 충북 청주시상당구, from 2000-05-30) and later terms (na_members/na_members_12_22.csv, mona_cd YKA9050K)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Moved from 재무부장관 (finance lineage). Named on the morning of 1994-10-04 and received the 임명장 on the morning of 1994-10-05 (중앙일보 1994-10-05), with his 취임식 the same day. The start follows the 임명장 day (medium, see 이승윤). ko.wikipedia gives 1994-10-04. Last 경제기획원장관. The office was abolished when 법률 제4831호 took effect on 1994-12-23, and the end follows the office's last day in offices_1988.json. The act was in fact promulgated and took effect at about 2 p.m. on 1994-12-23 (국민일보 1994-12-23, a special 관보 issue), so he was legally 경제기획원장관 until that afternoon, the same situation as 임창열 in 1998 in finance.verified.json. On 1994-12-23 the President named him 부총리 겸 재정경제원장관 in the 19개 부처 reshuffle (동아일보 1994-12-24 still calls him 경제기획원장관 that day), and he received the new 임명장 and held the 재정경제원 취임식 on 1994-12-24. That 재정경제원 spell belongs to the finance lineage (reorg_continuation and reappointed_on_reorg should be set there). Held the 부총리 title ex officio (정부조직법 제17조③ as amended by 법률 제4268호 of 1990-12-27, 부총리 2인 with the 경제기획원장관 first in the acting order). Birth date and gender from na_members/na_members_12_22.csv (NA-API, mona_cd YKA9050K, 1938-03-27, 남), matching ko.wikipedia '홍재형' https://ko.wikipedia.org/w/index.php?oldid=42394707. Wikidata Q16093141 has no English label. Verifier (2026-09-26): Start re-verified with 경향신문, 전북일보 and 동아일보. End re-verified with 경향신문 and 서울경제 (the amending act was promulgated at about 14:00 on 1994-12-23 and took effect that day) and 부산일보 (재정경제원 임명장 on 12-24). The end stays at the office's last day, 1994-12-22, as the builder set it following offices_1988.json and the 임창열 precedent, although he held the old title until the afternoon of 12-23."
+  }
+ ],
+ "nominations": [
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Named by President-elect 노태우 with the whole cabinet on 1988-02-19, appointed on inauguration day.",
+   "nominee": "나웅배",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "한국경제 1988-02-20 \"새 內閣 확정...부총리 羅雄培씨\" (BigKinds news_id 02100601.19880220192958103, full text: '盧泰愚 차기 대통령은 오는 25일 출범하는 제6공화국의 행정부 각료와 靑瓦臺 수석비서관을확정, 19일 발표했다', https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880220192958103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:05-0400; snapshot roster/sources/epb/ext88/bk/bk_02100601.19880220192958103.json)",
+    "경향신문 1988-02-25 p.1 \"全 前任대통령 환송 새閣僚들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어', https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/epb/ext88/nl/nl_1988022500329201003.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Named and given the 임명장 the same day.",
+   "nominee": "조순",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "경향신문 1988-12-05 p.1 \"總理에 姜英勳씨\" (Naver News Library article 1988120500329201003, OCR text: '부총리겸 경제기획원장관에趙淳서울大교수를 각각 임명', https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/epb/ext88/nl/nl_1988120500329201003.json)",
+    "한국일보 1988-12-06 \"總理에 姜英勳씨\" (BigKinds news_id 01101101.19881206102906101, full text: '부총리 겸 경제기획원장관에 趙淳 서울大교수를 임명', https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01101101.19881206102906101.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Announced on 1990-03-17, 임명장 on 1990-03-19.",
+   "nominee": "이승윤",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "동아일보 1990-03-17 p.1 \"15部장관 更迭\" (Naver News Library article 1990031700209201001, OCR text: '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등', https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/epb/ext88/nl/nl_1990031700209201001.json)",
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds news_id 01100201.19900319000000107, full text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19900319000000107.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Announced on the afternoon of 1991-02-18, 임명장 on 1991-02-19.",
+   "nominee": "최각규",
+   "nomination_date": "1991-02-18",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1991-02-19",
+   "sources": [
+    "경향신문 1991-02-19 p.1 \"崔珏圭부총리(企劃院)임명\" (Naver News Library article 1991021900329201011, OCR text: '盧泰愚대통령은 18일 하오 水西택지특별분양사건에대한 책임을묻고', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900329201011&editNo=3&printCount=1&publishDate=1991-02-19&officeId=00032&pageNo=1&printNo=13971&publishType=00020, accessed 2026-09-26T09:28:45-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900329201011.json)",
+    "매일경제 1991-02-19 p.1 \"盧대통령 임명장 수여\" (Naver News Library article 1991021900099201011, OCR text: '盧泰愚대통령은 19일상오 신임 崔珏圭부총리겸경제기획원장관', https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900099201011&editNo=1&printCount=1&publishDate=1991-02-19&officeId=00009&pageNo=1&printNo=7720&publishType=00020, accessed 2026-09-26T09:28:50-0400; snapshot roster/sources/epb/ext88/nl/nl_1991021900099201011.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Announced on the morning of 1993-02-26, 임명장 that afternoon.",
+   "nominee": "이경식",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '金泳三대통령은 26일오전 새정부의 組閣내용을발표', https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/epb/ext88/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/epb/ext88/bk/bk_01601101.19930226014940103.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Announced on 1993-12-21, 임명장 on 1993-12-22.",
+   "nominee": "정재석",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "동아일보 1993-12-22 p.1 \"14部處장관 경질 부총리 丁渽錫(기획원)李榮德(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text: '金대통령은 부총리겸 경제기획원장관에 丁渽錫교통부장관을', https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/epb/ext88/nl/nl_1993122200209101001.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text: '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는 자리에서', https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:33-0400; snapshot roster/sources/epb/ext88/bk/bk_01100101.19931223000000104.json)"
+   ]
+  },
+  {
+   "office_title": "부총리 겸 경제기획원장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Appointed before 국무위원 인사청문 existed (2005-07-28), so no hearing was required. The office needed no Assembly consent. Announced on the morning of 1994-10-04, 임명장 on 1994-10-05.",
+   "nominee": "홍재형",
+   "nomination_date": "1994-10-04",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1994-10-05",
+   "sources": [
+    "국민일보 1994-10-04 \"경제부총리 홍재형씨/부분개각 단행/정재석부총리 사의따라\" (BigKinds news_id 01100201.19941004000000101, full text: '후임에 홍재형재무장관을 임명하는 부분개각을 단행했다', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19941004000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:43-0400; snapshot roster/sources/epb/ext88/bk/bk_01100201.19941004000000101.json)",
+    "중앙일보 1994-10-05 \"<중앙탑>새 經濟팀에 임명장-김대통령\" (BigKinds news_id 01100901.19941005140124002, full text: '김영삼(金泳三)대통령은 5일 오전 신임 홍재형(洪在馨)부총리겸 경제기획원장관과', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941005140124002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:36:09-0400; snapshot roster/sources/epb/ext88/bk/bk_01100901.19941005140124002.json)"
+   ]
+  }
+ ],
+ "acting": [
+  {
+   "name": "정재석",
+   "name_hanja": "丁渽錫",
+   "role": "부총리 겸 경제기획원장관, 국무총리 직무대행 (정부조직법 제22조 as amended by 법률 제4268호, first in the acting order)",
+   "from": "1994-04-22",
+   "to": "1994-04-29",
+   "inferred": false,
+   "sources": [
+    "중앙일보 1994-04-24 \"정 부총리 총리대행/내정자 국회동의때까지\" (BigKinds news_id 01100901.19940424215134001, full text: '서리로 임명하는 것이 관례나 김영삼대통령은 이미 국회가 개원돼있고 25일 국회 본회의가 열릴 예정으로 있어 이 총리내정자에게 서리임명을 별도로 하지 않았다.', https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19940424215134001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:11-0400; snapshot roster/sources/pm/ext88/bigkinds/art_01100901.19940424215134001.json)",
+    "한겨레 1994-04-24 p.2 \"\"사회발전 5년후퇴\"아쉬움\" (Naver News Library article 1994042400289102011, OCR text: '◇…이영덕 총리내정자는 총리 임명은 물론 총리서리로서도임명을 받지 않았기 때문에 정부조직법상 서열에 따라 정재석부총리가 총리 권한대행에 해당한다는 것이 총리실쪽의 해석이었다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994042400289102011&editNo=6&printCount=1&publishDate=1994-04-24&officeId=00028&pageNo=2&printNo=1878&publishType=00010, accessed 2026-09-26T09:45:59-0400; snapshot roster/sources/pm/ext88/newslib/art_1994042400289102011.json)",
+    "국민일보 1994-04-27 \"이영덕 총리인가 부총리인가/통일원에 출근 총리실 업무보고 받아\" (BigKinds news_id 01100201.19940427000000209, full text: '영덕총리내정자는 누구로부터도 「총리」라고 불려지지 않는다.형식적으로는 아직도 통일부총리이며,수석부총리인 정재석경제기획원장관이 총리권한대행이다.', https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19940427000000209&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:19-0400; snapshot roster/sources/pm/ext88/bigkinds/art_01100201.19940427000000209.json)",
+    "경향신문 1994-04-26 p.2 \"작별의 악수\" (Naver News Library article 1994042600329102005, OCR text: '작별의 악수 李會昌前총리가 25일 오후정부종합청사 대회의실에서이임식을 마친뒤 총리대행을 하고 있는 丁渽錫경제부총리와 인사를 나누고 있다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994042600329102005&editNo=15&printCount=1&publishDate=1994-04-26&officeId=00032&pageNo=2&printNo=15067&publishType=00010, accessed 2026-09-26T09:53:20-0400; snapshot roster/sources/pm/ext88/newslib/art_1994042600329102005.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4, secondary) row '직무대행 | 정재석(丁渽錫) | 1994년 4월 22일~1994년 4월 29일 | 전북 장수 | 서울대'; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/ext88/wiki/wiki_ko_대한민국_국무총리.json)",
+    "[verifier] 부산일보 1994-04-26 \"李 前 총리 이임식 이모저모\" (BigKinds news_id 01500701.20160409054559115, full text: '따라서 현재는 국무총리 유고상태로 간주되는데 이때에는 국무위원 서열순위에 따라 丁渽? 부총리겸 경제기획원장관이 국무총리 직무를 대행하도록 돼 있다' (typed text, one character lost), https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409054559115&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:33:50-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01500701.20160409054559115.json)",
+    "[verifier] 경향신문 1994-04-23 \"이회창총리 전격 사임/후임 이영덕씨 내정\" (BigKinds news_id 01100101.19940423000000101, full text: '『이국무총리가 오후 5시 김대통령에게 사표를제출했으며 김대통령은 이를 즉각 수리했다』고 말했다' (22일, start), https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19940423000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:19:40-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100101.19940423000000101.json)",
+    "[verifier] 서울신문 1994-04-23 \"총리 문책 경질/후임에 이영덕부총리\" (BigKinds news_id 01100611.20160422105350045, full text: '『이회창총리는 오늘 하오5시 사표를 제출했으며 김대통령은 이를 즉각수리했다』고 덧붙였다' (start), https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422105350045&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:52:53-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100611.20160422105350045.json)",
+    "[verifier] 경향신문 1994-05-01 \"「개혁」 다지되 보다 유연하게/제3기내각 맞은 청와대 구상\" (BigKinds news_id 01100101.19940501000000301, full text: '김대통령은 이날 오전 8시30분 신임 이영덕총리에게 임명장을 수여한뒤' (30일, the acting period ends the day before), https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19940501000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:10:22-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100101.19940501000000301.json)",
+    "[verifier] 서울신문 1994-05-01 \"총리실­통일원/“새시작” 다짐… 안정 되찾아\" (BigKinds news_id 01100611.20160422110934826, full text: '상오8시30분 김영삼대통령으로부터 임명장을 받고 총리실로 돌아온 이총리는' (end), https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422110934826&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:11:04-0400; snapshot roster/sources/epb/ext88/verify/bk/bk_01100611.20160422110934826.json)"
+   ],
+   "notes": "From 이회창's resignation at 17:00 on 1994-04-22 until 이영덕 received his 임명장 on the morning of 1994-04-30. The press calls the role 총리 권한대행 or 총리대행. Added to this lineage by the verifier, since the main roster also lists the economic deputy PM's acting-PM periods in that minister's own lineage (finance.verified.json acting). Dates as in pm.ext88.json, re-verified with 경향신문 and 서울신문 (start) and 경향신문 and 서울신문 (end). 부산일보 1994-04-26 also reports that 정재석 chaired the 국무회의 of 04-25 as acting PM.",
+   "added_by": "verifier"
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Date convention for 1988-1994. Before 2001 there is no gazette, and for four of the seven appointments the reshuffle was announced one or two days before the 임명장 was handed over (1990-03-17 and 03-19, 1991-02-18 and 02-19, 1993-12-21 and 12-22, 1994-10-04 and 10-05). This file takes the 임명장 day as the start, because the government said before the 1988 inauguration that a new minister's authority begins with the 임명장 (중앙일보 1988-02-22), and pm.verified.json starts 고건 on his 임명장 day. Official pages of other ministries agree for the same reshuffles. The moj, mohw, msit, 총무처, 내무부 and motir pages start every 1990 appointee on 1990-03-19, and the 총무처 and 내무부 pages start the 1993-12 appointees on 1993-12-22 (read 2026-09-26, roster/sources/epb/ext88/crosscheck_1990.json, snapshots in xpages/). For the end this file takes the day the outgoing minister was relieved, meaning the day the replacement was announced after the resignations had been handed in. That was also the day of his 이임식 in 1990, 1991 and 1993, and it follows the main roster's rule of using the dated acceptance in the news (justice.verified.json issues). Most of those ministry pages instead print the predecessor's end as the day before the successor's start (1990-03-18), and ko.wikipedia uses the announcement day for both dates. The other ext88 lineages hit the same reshuffles, so the assembler should check that they use one rule."
+  },
+  {
+   "severity": "medium",
+   "desc": "정인용 (전두환 appointee) is in the window only for the morning of 1988-02-25. His resignation was accepted that morning and 나웅배 received the 임명장 later the same day. He is included as a caretaker holdover with end 1988-02-25, following the same-day handover convention of the main roster. ko.wikipedia ends his term on 1988-02-24. If the project decides that a minister whose resignation was accepted on inauguration morning is out of scope, drop this spell."
+  },
+  {
+   "severity": "medium",
+   "desc": "홍재형's end is 1994-12-22, the last day of 경제기획원 in offices_1988.json. The amending act was promulgated and took effect at about 2 p.m. on 1994-12-23 (국민일보 1994-12-23), so strictly he held the office on the morning of 1994-12-23 too. This follows the 임창열 precedent in finance.verified.json. On 1994-12-23 he was still called 경제기획원장관 when he was named 부총리 겸 재정경제원장관 (동아일보 1994-12-24), and he received the 재정경제원 임명장 on 1994-12-24. The finance ext88 file should start his 재정경제원 spell with reorg_continuation true and reappointed_on_reorg true, and decide whether that spell starts on 1994-12-23 or 1994-12-24."
+  },
+  {
+   "severity": "low",
+   "desc": "Corrections against ko.wikipedia ('경제기획원', revid 40684353). 최각규 left on 1993-02-26, not 1993-02-24. 이경식 started on 1993-02-26, not 1993-02-25 (the 김영삼 cabinet was named and received the 임명장 on 1993-02-26). Wikipedia's other day-level dates are the announcement days (see the first issue)."
+  },
+  {
+   "severity": "low",
+   "desc": "One-day vacancy on 1990-03-18 (a Sunday) between 조순 and 이승윤, with no acting head named in the sources read. It comes from the date convention in the first issue."
+  },
+  {
+   "severity": "low",
+   "desc": "No tier 1 record exists for these dates. The moef 역대 장관 page (tier 2) gives months only, and all eight months agree with the dates used here. Day-level dates rest on 대통령기록관 일정, 대한민국사연표 and day-of news from the Naver News Library (OCR) and BigKinds (typed text from different papers). The OCR passages quoted here read cleanly and were not compared with the page images. Every start and end date has day-of stories from at least two different papers, and for every date but one they come from both archives."
+  },
+  {
+   "severity": "low",
+   "desc": "정인용 has no ko.wikipedia article and no Wikidata item, so birth date, gender and English name are empty. 홍재형 has no English label on Wikidata."
+  },
+  {
+   "severity": "info",
+   "desc": "No from_main records. 경제기획원 was abolished on 1994-12-22, so no spell of this office continues past 1998-02-24 and nothing was copied from the existing verified files."
+  },
+  {
+   "severity": "medium",
+   "source": "verifier",
+   "desc": "Cross-lineage date rule. For the same reshuffles this file ends the outgoing minister on the day he was relieved (1990-03-17, 1991-02-18, 1993-12-21, 1994-10-04) and starts the successor on the 임명장 day, while finance.ext88.json ends the outgoing 재무부장관 on the successor's 임명장 day (이규성 1990-03-19, 홍재형 1994-10-05). 한겨레 1990-03-18 (BigKinds 01101001.19900318000000206) reports that 조순 and 이규성 both held their 이임식 on the morning of 1990-03-17. The verifier kept this file's values, which follow the main roster's rule of the dated acceptance in the news (justice.verified.json), and flags the difference for the assembler. Resume check 2026-09-26, verified ext88 files only. For the 1990-03 reshuffle 7 lineages end the outgoing minister on 1990-03-19 and 1 (this one) on 1990-03-17. For the 1993-12 reshuffle 4 lineages end on 1993-12-21 and 3 on 1993-12-22. pm.ext88.verified.json follows this file's rule (황인성 ends 1993-12-16 on the acceptance, 이회창 starts 1993-12-17 with the 임명장). The per-lineage rows are in verification.resume_2. One rule should be applied at assembly."
+  },
+  {
+   "severity": "low",
+   "source": "verifier",
+   "desc": "Acting record added. 정재석 was 국무총리 직무대행 from the acceptance of 이회창's resignation (1994-04-22, 17:00) until 이영덕 received his 임명장 (1994-04-30, 08:30). It duplicates pm.ext88.json on purpose, as the main roster does for the 재정경제부 and 기획재정부 ministers."
+  }
+ ],
+ "continuity": {
+  "window": [
+   "1988-02-25",
+   "1994-12-22"
+  ],
+  "window_start_covered_by": "정인용",
+  "office_end": {
+   "last_spell": "홍재형",
+   "end": "1994-12-22",
+   "office_last_day": "1994-12-22"
+  },
+  "vacancies": [
+   {
+    "after": "조순",
+    "before": "이승윤",
+    "vacant_from": "1990-03-18",
+    "vacant_to": "1990-03-18",
+    "days": 1,
+    "acting": [],
+    "days_without_acting_record": 1,
+    "note": "1990-03-18 was a Sunday between 조순's relief and 이임식 on 03-17 and 이승윤's 임명장 on 03-19. No acting head was named in the sources read."
+   }
+  ],
+  "same_day_handovers": [
+   {
+    "a": "정인용",
+    "b": "나웅배",
+    "a_end": "1988-02-25",
+    "b_start": "1988-02-25"
+   },
+   {
+    "a": "나웅배",
+    "b": "조순",
+    "a_end": "1988-12-05",
+    "b_start": "1988-12-05"
+   },
+   {
+    "a": "최각규",
+    "b": "이경식",
+    "a_end": "1993-02-26",
+    "b_start": "1993-02-26"
+   }
+  ],
+  "adjacent_handovers": [
+   "이승윤 1991-02-18 -> 최각규 1991-02-19",
+   "이경식 1993-12-21 -> 정재석 1993-12-22",
+   "정재석 1994-10-04 -> 홍재형 1994-10-05"
+  ],
+  "overlaps_longer_than_same_day": [],
+  "holder_list_check": "8 holders from the moef list (경제기획원 21대 정인용 to 28대 홍재형) and the ko.wikipedia table agree name by name. Every transition has day-of news naming the outgoing and incoming minister, so no holder is missing between them.",
+  "recomputed_by": "roster/scripts/epb_ext88_08_build.py"
+ },
+ "build": {
+  "builder": "roster builder 1988-1998, lineage epb (경제기획원)",
+  "scripts": [
+   "roster/scripts/epb_ext88_01_lists.py",
+   "roster/scripts/epb_ext88_02_schedule_chron.py",
+   "roster/scripts/epb_ext88_03_news_search.py",
+   "roster/scripts/epb_ext88_04_articles.py",
+   "roster/scripts/epb_ext88_05_persons.py",
+   "roster/scripts/epb_ext88_06_news_search2.py",
+   "roster/scripts/epb_ext88_07_wikidata_extra.py",
+   "roster/scripts/epb_ext88_08_build.py",
+   "roster/scripts/epb_ext88_09_crosscheck_pages.py",
+   "roster/scripts/epb_ext88_04b_viewer.py",
+   "roster/scripts/epb_ext88_10_resume_check.py",
+   "roster/scripts/epb_ext88_11_quote_check.py"
+  ],
+  "snapshots": "roster/sources/epb/ext88/",
+  "evidence_files": [
+   "roster/sources/epb/ext88/lists.json",
+   "roster/sources/epb/ext88/sched_chron.json",
+   "roster/sources/epb/ext88/news_hits.json",
+   "roster/sources/epb/ext88/news_hits2.json",
+   "roster/sources/epb/ext88/articles.json",
+   "roster/sources/epb/ext88/persons.json",
+   "roster/sources/epb/ext88/wikidata_extra.json",
+   "roster/sources/epb/ext88/crosscheck_1990.json"
+  ],
+  "date_rule": "start = 임명장 day, end = day the outgoing minister was relieved (or the office's last day)",
+  "resume_check": {
+   "at": "2026-09-26T12:47:02-0400",
+   "note": "Resumed from epb.ext88.partial.json after the workflow restart. The partial already held the complete build, so no dates or holders were changed. epb_ext88_10_resume_check.py confirmed that every start and end has at least two sources from at least two outlets with at least one outside Wikipedia/Wikidata/Namu, that every cited snapshot exists, and that the only vacancy is 1990-03-18. epb_ext88_11_quote_check.py found all 138 quoted passages in their cited snapshots (16 reported misses were regex artifacts on the ko.wikipedia title quote, not quotations)."
+  }
+ },
+ "verification": {
+  "verified_at": "2026-09-26T14:01:55-0400",
+  "verifier": "adversarial verifier 1988-1998, lineage epb (경제기획원)",
+  "input": {
+   "file": "roster/epb.ext88.json",
+   "built_at": "2026-09-26T09:52:26-0400",
+   "resume_check": "2026-09-26T12:47:02-0400"
+  },
+  "per_spell": {
+   "정인용|1987-05-26": "confirmed",
+   "나웅배|1988-02-25": "confirmed",
+   "조순|1988-12-05": "confirmed",
+   "이승윤|1990-03-19": "confirmed",
+   "최각규|1991-02-19": "confirmed",
+   "이경식|1993-02-26": "confirmed",
+   "정재석|1993-12-22": "confirmed",
+   "홍재형|1994-10-05": "confirmed"
+  },
+  "acting": {
+   "정재석 1994-04-22..1994-04-29 (국무총리 직무대행)": "added"
+  },
+  "changes": [
+   {
+    "spell": "acting (new)",
+    "name": "정재석",
+    "field": "acting",
+    "old": "[] (empty)",
+    "new": "정재석, 부총리 겸 경제기획원장관, 국무총리 직무대행, 1994-04-22..1994-04-29",
+    "evidence": "부산일보 1994-04-26 (01500701.20160409054559115) '丁渽? 부총리겸 경제기획원장관이 국무총리 직무를 대행하도록 돼 있다', 경향신문 1994-04-23 and 서울신문 1994-04-23 (이회창's resignation accepted at 17:00 on 04-22), 경향신문 1994-05-01 and 서울신문 1994-05-01 (이영덕's 임명장 at 08:30 on 04-30). pm.ext88.json holds the same record from four other stories. The main roster lists such periods in the deputy PM's lineage too (finance.verified.json acting)."
+   }
+  ],
+  "completeness": [
+   "Independent holder numbering from news stories the builder did not use. 국민일보 1991-07-13 (BigKinds 01100201.19910713000000402): '6공화국에서는 나웅배씨(현 민자당 정책위의장)와 조 순 이승윤씨에 이어 4번째로 현재의 최각규부총리가 제25대 장관에 취임했다'. 서울경제 1991-08-09 (02100311.19910809172607001): '역대부총리는 25대인 현직 崔珏圭부총리까지 모두 22명'. 서울신문 1994-12-04 (01100611.20160422175852878): '현재의 홍재형 부총리는 28대이다'. 한국경제 1994-12-24 (02100601.19941224110516101): '洪在馨부총리가 마지막으로 28대다'. Between 25대 최각규 and 28대 홍재형 there is room for exactly two holders (이경식, 정재석), and the 6공 sequence 나웅배, 조순, 이승윤, 최각규 is stated outright. 정인용 is the 5공 holder in office on 1988-02-25 (조선일보 1988-02-25 '鄭寅用부총리', 서울경제 1991 '鄭寅用전부총리'). No holder is missing.",
+   "Whole-period sweep, 1987-05-01..1994-12-31, News Library and BigKinds (script epb_ext88_verify_02_sweep.py, roster/sources/epb/ext88/verify/sweep.json). Queries '경제기획원장관 임명' (NL 528, BK 317), '\"경제기획원장관에\"', '기획원장관 직무대행', '부총리 직무대행', '부총리 서리', '경제기획원장관 서리'. Apart from press speculation before the February 1988 announcement (below), the only names printed after '경제기획원장관에' are the eight holders (one 李海元 hit is the 서울시장 appointment in the same 1991-02-18 story). No 서리 and no 직무대행 of the office was found. A monthly tally of 'X부총리' mentions has no name outside the eight holders.",
+   "Short tenures and elections. No spell shorter than the builder's, and nobody left to run. 나웅배 stayed through the 1988-04-26 general election (he entered the 13th Assembly only at the 1989-08 by-election), 최각규 stayed through the 1992-03-24 election and was not a 14th Assembly member (na_members_12_22.csv). The office was abolished before the 1995 local and 1996 general elections. The candidates reported before the 1988 announcement (정수창, 장덕진, 이승윤 in 동아일보 1988-02-17 p.1, News Library 1988021700209201003 snippet, and 매일경제 1988-02-19 p.2, 1988021900099202003 snippet) were press speculation, not nominations, so there is no withdrawn nominee.",
+   "Transitions. 1988 (전두환 to 노태우): 정인용 as caretaker until the 25th, cabinet resignations handed in on 02-24 (동아일보 1988-02-24). 1993 (노태우 to 김영삼): 최각규 to 02-26, successor's 임명장 that afternoon. Rename or merger: only the 1994-12-23 merger into 재정경제원 (finance lineage). 법률 제4268호 (1990-12-27) added a second 부총리 during 이승윤's tenure without renaming the office, so it starts no new spell."
+  ],
+  "dates": "Every start and end has at least one verifier source from an outlet or story the builder did not cite, listed as [verifier] entries in the spell. No source contradicts a builder date, so no date was changed and no spell is disputed. The month-level 역대 장관 lists on moef (both menuNo=9020800 and 9020000 serve the same list, roster/sources/epb/ext88/verify/misc/moef_dpm.html) agree with every month.",
+  "continuity": "One vacant day, 1990-03-18 (Sunday), between 조순's relief and 이승윤's 임명장, with no acting head found. The other handovers are same-day (1988-02-25, 1988-12-05, 1993-02-26) or on consecutive days (1991-02-18/19, 1993-12-21/22, 1994-10-04/05). The office ends on 1994-12-22.",
+  "field_hygiene": "appointing_president matches the start date for all eight spells (전두환 for 정인용, 노태우 1988-02-25..1993-02-24, 김영삼 from 1993-02-25). No acting president in the window, so appointed_by_acting_president is false. deputy_pm is true for all, as offices_1988.json gives 부총리 겸 경제기획원장관 for 1988-02-25..1994-12-22 (정인용's 1987 appointment falls under the same 법률 제3854호 text). reorg_continuation is false for all and 홍재형's end_reason is ministry_reorganized with reappointed_on_reorg null, as for the main roster's ending spells (임창열 1998-02-27). pm_status and pm_acting_until are null (not the PM lineage). No from_main records exist, since the office ended before 1998. mp_hint rows match na_members_12_22.csv (이승윤 13th/14th, 최각규 13th to 1992-05-29, 나웅배 12th to 1987-07-13 and 13th from 1989-08-19, 조순 and 홍재형 later only).",
+  "pm_lineage_items": "not applicable (not the PM lineage)",
+  "scripts": [
+   "roster/scripts/epb_ext88_verify_01_lists.py",
+   "roster/scripts/epb_ext88_verify_01b_lists.py",
+   "roster/scripts/epb_ext88_verify_02_sweep.py",
+   "roster/scripts/epb_ext88_verify_03_transitions.py",
+   "roster/scripts/epb_ext88_verify_04_read.py",
+   "roster/scripts/epb_ext88_verify_05_moef_dpm.py",
+   "roster/scripts/epb_ext88_verify_06_histlist.py",
+   "roster/scripts/epb_ext88_verify_07_histarticles.py",
+   "roster/scripts/epb_ext88_verify_08_acting_pm.py",
+   "roster/scripts/epb_ext88_verify_09_evidence.py",
+   "roster/scripts/epb_ext88_verify_10_extra.py",
+   "roster/scripts/epb_ext88_verify_11_readextra.py",
+   "roster/scripts/epb_ext88_verify_12_build.py",
+   "roster/scripts/epb_ext88_verify_13_quotecheck.py"
+  ],
+  "snapshots": "roster/sources/epb/ext88/verify/",
+  "notes": "The 03_transitions run was stopped after T-1, T0 and T1 because of the shared throttle. The later transitions were covered by the narrower 10_extra searches (labels x1990_03, x1991_02, x1993_02, x1993_02b, x1993_12, x1994_10, x1994_12). News Library passages are OCR and were not compared with the page images.",
+  "n_confirmed": 8,
+  "n_corrected": 0,
+  "n_disputed": 0,
+  "n_added": 1,
+  "resume_2": {
+   "at": "2026-09-26T21:17:59-0400",
+   "reason": "The workflow was re-run. The earlier verified file (verified_at 14:01) was complete, so this pass resumed from it and re-checked it instead of starting over.",
+   "input_unchanged": "roster/epb.ext88.json is byte-identical to the input the earlier pass read (mtime 12:47, same size), and offices_1988.json is unchanged since 09:01.",
+   "quote_check": "checked 42 failures 0",
+   "acting_pm_matches_pm_lineage": true,
+   "acting_pm_detail": "pm.ext88.verified.json [('정재석', '1994-04-22', '1994-04-29')] and this file [('정재석', '1994-04-22', '1994-04-29')]",
+   "cross_lineage_end_dates_verified_files": {
+    "1990-03 (announced 03-17, 임명장 03-19)": [
+     "agriculture 김식 1990-03-19",
+     "energy 이봉서 1990-03-19",
+     "epb 조순 1990-03-17",
+     "finance 이규성 1990-03-19",
+     "general_affairs 김용래 1990-03-19",
+     "justice 허형구 1990-03-19",
+     "science 이상희 1990-03-19",
+     "unification 이홍구 1990-03-19"
+    ],
+    "1991-02 (announced 02-18, 임명장 02-19)": [
+     "epb 이승윤 1991-02-18"
+    ],
+    "1993-12 (announced 12-21, 임명장 12-22)": [
+     "agriculture 허신행 1993-12-21",
+     "defense 권영해 1993-12-22",
+     "education 오병문 1993-12-21",
+     "environment 황산성 1993-12-21",
+     "epb 이경식 1993-12-21",
+     "general_affairs 최창윤 1993-12-22",
+     "unification 한완상 1993-12-22"
+    ],
+    "1994-10 (announced 10-04, 임명장 10-05)": [
+     "epb 정재석 1994-10-04",
+     "finance 홍재형 1994-10-05"
+    ]
+   },
+   "script": "roster/scripts/epb_ext88_verify_14_resume.py",
+   "done": true
+  },
+  "verified_at_latest": "2026-09-26T21:17:59-0400"
+ }
+}

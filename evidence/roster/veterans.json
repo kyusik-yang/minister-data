@@ -1,0 +1,486 @@
+{
+ "lineage": "veterans",
+ "built_at": "2026-09-25T21:34:26-04:00",
+ "ministry_names": [
+  {
+   "ministry": "국가보훈처",
+   "from": "1998-02-25",
+   "to": "2023-06-04",
+   "in_scope": false,
+   "deputy_pm_title": null,
+   "legal_basis": "국무총리 소속 처. The 처장 was never a 국무위원, including the 장관급 periods 2004-03-11..2008-02-28 and 2017-07-26..2023-06-04. Every version lists the 처장 in 제13조① (국무회의 출석·발언) only. Abolished and replaced by 국가보훈부 by 법률 제19228호 (effective 2023-06-05).",
+   "source": "offices.json OF068 (GOA_5153, GOA_5529, GOA_7186, GOA_8852, GOA_11690, GOA_14839, GOA_19228)"
+  },
+  {
+   "ministry": "국가보훈부",
+   "from": "2023-06-05",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제19228호 (2023-03-04 공포, 부칙 제1조 '공포 후 3개월이 경과한 날부터 시행', i.e. 2023-06-05). 제26조① 9호 국가보훈부, 제26조② '행정각부에 장관 1명과 차관 1명을 두되, 장관은 국무위원으로 보하고' (verified in the law text), 제35조 (국가보훈부장관의 관장 사무). 부칙 제6조 '이 법 시행 전에 대통령은 국무위원 후보자(국가보훈부장관)에 대하여 국회에 인사청문을 요청할 수 있다'. Still listed in the version in force at the cutoff (법률 제21065호, effective 2026-01-02, 제29조①②). No renaming through 2026-09-24.",
+   "source": "offices.json OF060 (GOA_19228, GOA_21065_b); 정부조직법 법률 제19228호 (2023-03-04 공포, 2023-06-05 시행), https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=248475&efYd=20230605 (accessed 2026-09-25T06:49:06-0400; snapshot inventory_sources/law_go_kr/govorg/text_20230605_248475.json)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "박민식",
+   "name_hanja": "朴敏植",
+   "name_en": "Park Min-shik",
+   "name_en_source": "NA open API ALLNAMEMBER https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (fetched 2026-09-25, pages 2 and 11 at 02:15:05Z and 02:15:30Z, files na_members/sources/api/allnamember/page_002.json, page_011.json) NAAS_EN_NM 'PARK Min-shik' (also ENG_NM in the per-term API t18/t19) and The Korea Herald 2023-12-04 https://www.koreaherald.com/view.php?ud=20231204000708 (accessed 2026-09-25T13:40:45-0400; snapshot roster/sources/veterans/koreaherald_20231204000708.html) 'Park Min-shik'",
+   "birth_date": "1965-11-20",
+   "gender": "M",
+   "ministry": "국가보훈부",
+   "office_title": "국가보훈부장관",
+   "deputy_pm": false,
+   "start": "2023-06-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20518호 (published 2023-06-09), 인사발령(인사혁신처): '박민식(朴敏植) 국무위원에 임함 국가보훈부장관에 보함 2023. 6. 5.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001686126185163000&tocId=I0000000000000001685678936841000&isTocOrder=N (accessed 2026-09-25T13:04:18-0400; snapshot roster/sources/veterans/gazette_20230609_20518_I0000000000000001685678936841000.pdf, also harvest/gazette_text/20230609_20518_I0000000000000001685678936841000.txt)",
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '1代 박민식(朴敏植) 2023.6.5. ~ 2023.12.25.'",
+    "서울경제 2023-06-05 18:53:04 '국가보훈부-재외동포청 출범…尹정부 출범 13개월만 정부조직개편' https://n.news.naver.com/mnews/article/011/0004198498 (accessed 2026-09-25T13:33:38-0400; snapshot roster/sources/veterans/news/naver_011_0004198498.html) ('윤 대통령은 이날 용산 대통령실에서 초대 국가보훈부 박민식 장관과 윤종진 차관에게 임명장을 직접 수여했다', 이날 = 5일)",
+    "중앙일보 2023-06-06 00:03:05 '윤 대통령 “750만 동포와 함께 발전”… 재외동포청 출범, 큰북 쳤다' https://n.news.naver.com/mnews/article/025/0003284970 (accessed 2026-09-25T13:33:34-0400; snapshot roster/sources/veterans/news/naver_025_0003284970.html) ('윤 대통령은 5일 박민식 초대 국가보훈부 장관에게 임명장을 수여했다')",
+    "verifier re-read: harvest/gazette_text/20230609_20518_I0000000000000001685678936841000.txt and pdftotext of roster/sources/veterans/verify/gazette/gazette_20518_I0000000000000001685678936841000.pdf (관보 제20518호, published 2023-06-09, item fetched 2026-09-25T13:04:18-0400) read '박민식(朴敏植) 국무위원에 임함 국가보훈부장관에 보함 2023. 6. 5.'",
+    "정책브리핑 korea.kr 연설문 '『초대 국가보훈부 장관 취임식』 취임사' (연설일 2023.06.05) https://www.korea.kr/briefing/speechView.do?newsId=132035314 (accessed 2026-09-25T21:58:45-0400; snapshot roster/sources/veterans/verify/korea/korea_132035314.html): '국가보훈부 장관, 박민식입니다'",
+    "BigKinds metadata, YTN 2023-06-05 '尹, 박민식 국가보훈부 장관·윤종진 차관 임명장 수여' (news_id 08100401.20230605180805001) and 노컷뉴스 2023-06-05 (news_id 04100058.20230605175517001) (search '박민식 장관 임명장' 2023-06-01..2023-06-10, accessed 2026-09-25T21:47:35-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2023-06-01_2023-06-10_59e151fc92.json)"
+   ],
+   "end": "2023-12-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "정책브리핑 korea.kr 연설문 '초대 국가보훈부 장관 이임사' (연설자 국가보훈부 장관, 연설일 2023.12.26) https://www.korea.kr/briefing/speechView.do?newsId=132036155 (accessed 2026-09-25T21:59:25-0400; snapshot roster/sources/veterans/verify/korea/korea_132036155.html): '저는 이제 국가보훈부 장관이라는 막중한 책임을 내려놓습니다'",
+    "BigKinds metadata, 헤럴드경제 2023-12-26 '떠나는 ‘尹정부 이데올로기 전사’ 박민식' (news_id 02100701.20231226110127002): '박민식 전 국가보훈부 장관이 26일 이임식을 갖고 보훈부 장관에서 물러났다' (search '박민식 이임식' 2023-12-20..2023-12-31 via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:46:11-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2023-12-20_2023-12-31_7408e899bb.json)",
+    "뉴스1 2023-12-26 10:46:57 '보훈부 떠나는 박민식 \"지난 20개월 모든 순간 빛났고 애틋했다\"' https://n.news.naver.com/mnews/article/421/0007254066 (accessed 2026-09-25T21:56:15-0400; snapshot roster/sources/veterans/verify/news/naver_421_0007254066.html): '박 장관 후임은 강정애 전 숙명여대 총장이 맡아 이날 오후 장관직에 공식 취임한다'",
+    "BigKinds metadata, 파이낸셜뉴스 2023-12-26 '박민식 보훈부 이임식 \"지난 20개월 모든 순간 영광스럽고 애틋했다\"' (news_id 02100501.20231226160043001): '박민식 국가보훈부 장관이 26일 이임사에서 \"이제 보훈부 장관이란 막중한 책임을 내려놓는다\"' (same search and snapshot as above)",
+    "뉴시스 2023-12-26 12:59:03 '눈물 보인 박민식 \"초대 보훈부 장관 영광스러웠다\" [뉴시스Pic]' https://n.news.naver.com/mnews/article/003/0012285788 (accessed 2026-09-25T21:56:08-0400; snapshot roster/sources/veterans/verify/news/naver_003_0012285788.html)",
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '1代 박민식(朴敏植) 2023.6.5. ~ 2023.12.25.' [verifier: this end date follows the page's day-before-successor convention and was not adopted]",
+    "관보 제20656호 (published 2023-12-29), 인사발령(인사혁신처): '강정애(姜貞愛) 국무위원에 임함 국가보훈부장관에 보함 2023. 12. 26.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001703723253958000&tocId=I0000000000000001703376299482000&isTocOrder=N (accessed 2026-09-24T22:54:17-0400; snapshot roster/sources/veterans/gazette_20231229_20656_I0000000000000001703376299482000.pdf, also harvest/gazette_text/20231229_20656_I0000000000000001703376299482000.txt) (successor's appointment date)",
+    "MBN 2023-12-25 14:13:34 '윤 대통령, 강정애 보훈·박상우 국토부 장관 임명' https://n.news.naver.com/mnews/article/057/0001788942 (accessed 2026-09-25T13:34:05-0400; snapshot roster/sources/veterans/news/naver_057_0001788942.html) (강정애 임명안 22일 재가, 26일 오후 취임식, '박민식 국가보훈부 장관의 이임식은 내일(26일) 오전 10시')",
+    "뉴시스 2023-12-26 11:58:05 '박민식 \"초대 보훈부 장관, 그 무엇보다 영광스러웠어\"' https://n.news.naver.com/mnews/article/003/0012285650 (accessed 2026-09-25T13:34:07-0400; snapshot roster/sources/veterans/news/naver_003_0012285650.html) (이임식 26일 오전 정부세종청사)",
+    "ko.wikipedia https://ko.wikipedia.org/w/index.php?oldid=41095083 (accessed 2026-09-25T13:40:09-0400; snapshot roster/sources/veterans/wiki_국가보훈부_장관.json) (역대 표, 제1대 박민식 퇴임일 2023년 12월 25일)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 18th and 19th NA member (한나라당, then 새누리당, 부산 북구강서구갑, per na_members_15_22.csv with mona_cd P318485D). Not a sitting member at appointment (not in the 21st NA rows).",
+   "transcript_check": "ok",
+   "transcript_notes": "inputs/minister_role_meetings.csv, valid hearing types only. As 국가보훈부장관 in 8 meetings (6 상임위원회 and 2 국정감사), first 2023-06-15 and last 2023-12-14, all inside 2023-06-05..2023-12-26. As nominee, 정무위원회 meeting 052936 on 2023-05-22 (agenda '국무위원후보자(국가보훈부장관 박민식) 인사청문회', nominee_hearing_meetings.csv). One row labeled '국가보훈부장관 박민식' dated 2013-07-05 (meeting 45021, 공공의료정상화를위한국정조사특별위원회, type 국정조사) predates the office. He was then a 19th NA member, the type is one whose content is misattached, and the row is ignored. audit/coverage_gaps.csv line 162 is explained by this row.",
+   "notes": "Held 국가보훈처장(장관급), which is out of scope because the 처장 was not a 국무위원, from 2022-05-13 (관보 제20255호, published 2022-05-23, '박민식(朴敏植) 국가보훈처장(장관급)에 임함 2022. 5. 13.', snapshot roster/sources/veterans/gazette_20220523_20255_I0000000000000001652659816213000.pdf, while the MPVA 역대 처장 page key=245 gives 2022. 5.14.～2023. 6. 4.) until the 처 was abolished on 2023-06-04. He was nominated for the new ministry on 2023-05-09, went through a hearing held before the ministry existed (부칙 제6조 of 법률 제19228호), and was appointed by a new notice dated 2023-06-05, the day the ministry was established. reorg_continuation is true in the factual sense, but the predecessor office is outside the panel, so no predecessor spell exists in this lineage. End date (verifier) is 2023-12-26, a same-day handover. He gave his 이임사 as 국가보훈부 장관 on the morning of 2023-12-26 (korea.kr 연설일 2023.12.26), the day his successor's appointment took effect and she took office that afternoon. The ministry's official list gives 2023-12-25 by its day-before-successor convention. No exit notice is printed in the gazette, so the confidence is medium. end_reason: formally he was replaced in the 2023-12-04 reshuffle, which the press described as a 총선 차출 reshuffle of heads expected to run in April 2024 (세계일보 2023-12-04 17:59:02 '총선 차출 ‘보궐 개각’… 尹대통령, 6개 부처 장관 교체' https://n.news.naver.com/mnews/article/022/0003881560 (accessed 2026-09-25T13:38:13-0400; snapshot roster/sources/veterans/news/naver_022_0003881560.html) and 한국일보 2023-12-04 18:01:06 '尹, '집권 2기' 총선용 개각… 기재 최상목, 보훈 강정애, 중기 오영주' https://n.news.naver.com/mnews/article/469/0000773621 (accessed 2026-09-25T13:38:12-0400; snapshot roster/sources/veterans/news/naver_469_0000773621.html) ('이번에 발표된 부처의 현 수장들이 내년 총선 출마 예정자들')). He then declared a run for 서울 영등포을 (뉴시스 2024-02-15 11:05:46 '박민식 \"국민의힘, 한강벨트 탈환 위해 드림팀 구성해야\"' https://n.news.naver.com/mnews/article/003/0012374130 (accessed 2026-09-25T13:38:35-0400; snapshot roster/sources/veterans/news/naver_003_0012374130.html)), and was finally the 국민의힘 candidate in 서울 강서을 at the 2024-04-10 general election (연합뉴스 2024-03-24 14:37:17 '與 박민식 \"성매매 알선 변호한적 없어…野 노종면 고소\"' https://n.news.naver.com/mnews/article/001/0014584842 (accessed 2026-09-25T21:33:51-0400; snapshot roster/sources/veterans/news/naver_001_0014584842.html), '국민의힘 박민식(서울 강서을) 후보', and 조세일보 2024-04-11 14:50:01 '윤석열 정부 참모 26명 최종공천... 몇 명이 국회 입성했나' https://n.news.naver.com/mnews/article/123/0002331765 (accessed 2026-09-25T21:33:48-0400; snapshot roster/sources/veterans/news/naver_123_0002331765.html), '박민식 서울 강서을 후보(보훈부 장관)'). Birth date from the NA API (BIRDY_DT 1965-11-20, ALLNAMEMBER flags it 음력 while the per-term API flags 양력), ko.wikipedia (ko.wikipedia https://ko.wikipedia.org/w/index.php?oldid=42273001 (accessed 2026-09-25T13:40:11-0400; snapshot roster/sources/veterans/wiki_박민식.json) (출생 1965-11-20)) and Wikidata Q12596650. Gender from the NA API (SEX_GBN_NM 남)."
+  },
+  {
+   "name": "강정애",
+   "name_hanja": "姜貞愛",
+   "name_en": "Kang Jung-ai",
+   "name_en_source": "The Korea Herald 2023-12-04 https://www.koreaherald.com/view.php?ud=20231204000708 (accessed 2026-09-25T13:40:45-0400; snapshot roster/sources/veterans/koreaherald_20231204000708.html) 'Kang Jung-ai, 66'. Wikidata Q27953313 English label is the same. No NA or ministry English page was found for her.",
+   "birth_date": "1957-05-05",
+   "gender": "F",
+   "ministry": "국가보훈부",
+   "office_title": "국가보훈부장관",
+   "deputy_pm": false,
+   "start": "2023-12-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20656호 (published 2023-12-29), 인사발령(인사혁신처): '강정애(姜貞愛) 국무위원에 임함 국가보훈부장관에 보함 2023. 12. 26.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001703723253958000&tocId=I0000000000000001703376299482000&isTocOrder=N (accessed 2026-09-24T22:54:17-0400; snapshot roster/sources/veterans/gazette_20231229_20656_I0000000000000001703376299482000.pdf, also harvest/gazette_text/20231229_20656_I0000000000000001703376299482000.txt)",
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '2代 강정애(姜貞愛) 2023.12.26. ~ 2025.7.24.'",
+    "MBN 2023-12-25 14:13:34 '윤 대통령, 강정애 보훈·박상우 국토부 장관 임명' https://n.news.naver.com/mnews/article/057/0001788942 (accessed 2026-09-25T13:34:05-0400; snapshot roster/sources/veterans/news/naver_057_0001788942.html) (대통령실, 22일 임명안 재가, 강 장관은 26일 취임식을 열고 업무를 시작)",
+    "연합뉴스 2023-12-26 15:30:01 '강정애 보훈장관 \"국가유공자 보상·지원의 질 대폭 개선하겠다\"' https://n.news.naver.com/mnews/article/001/0014410479 (accessed 2026-09-25T13:33:58-0400; snapshot roster/sources/veterans/news/naver_001_0014410479.html) (26일 오후 정부세종청사 취임식)",
+    "verifier re-read: harvest/gazette_text/20231229_20656_I0000000000000001703376299482000.txt and pdftotext of roster/sources/veterans/verify/gazette/gazette_20656_I0000000000000001703376299482000.pdf (관보 제20656호, published 2023-12-29, item fetched 2026-09-24T22:54:17-0400) read '강정애(姜貞愛) 국무위원에 임함 국가보훈부장관에 보함 2023. 12. 26.'",
+    "정책브리핑 korea.kr 연설문 '제2대 국가보훈부 장관 취임사' (연설일 2023.12.26) https://www.korea.kr/briefing/speechView.do?newsId=132036154 (accessed 2026-09-25T21:58:40-0400; snapshot roster/sources/veterans/verify/korea/korea_132036154.html): '국가보훈부 장관으로 임명된 강정애입니다'",
+    "BigKinds metadata, 아시아투데이 2023-12-25 '강정애 신임 국가보훈부 장관 26일 취임' (news_id 01100751.20231225110138002) (search '박민식 이임식' 2023-12-20..2023-12-31, accessed 2026-09-25T21:46:11-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2023-12-20_2023-12-31_7408e899bb.json). The 임명장 was handed over later, on 2024-01-03 (OBS 2024-01-03, news_id 08200101.20240103191159001, snapshot verify/bigkinds/bigkinds_2023-12-20_2024-01-10_891c3b8ac7.json), which does not change the legal start"
+   ],
+   "end": "2025-07-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "정책브리핑 korea.kr 연설문 '강정애 국가보훈부 장관 이임사' (연설자 국가보훈부 장관, 연설일 2025.07.25, while the text itself is signed '2025. 7. 14. 제2대 국가보훈부 장관 강정애 올림', apparently the drafting date) https://www.korea.kr/briefing/speechView.do?newsId=132037753 (accessed 2026-09-25T21:58:39-0400; snapshot roster/sources/veterans/verify/korea/korea_132037753.html)",
+    "연합뉴스 2025-07-25 17:30:01 '권오을 보훈장관 \"독립·민주·호국 균형 잡힌 보훈정책 구현\"' https://n.news.naver.com/mnews/article/001/0015530564 (accessed 2026-09-25T21:57:24-0400; snapshot roster/sources/veterans/verify/news/naver_001_0015530564.html): 권오을 취임식 on 25일 and '한편, 강정애 전 보훈부 장관은 이임사를 통해 ...'",
+    "한국일보 2025-07-25 18:46:10 '권오을 보훈장관 \"독립-민주-호국 균형 잡힌 보훈정책 구현\"' https://n.news.naver.com/mnews/article/469/0000878173 (accessed 2026-09-25T21:57:26-0400; snapshot roster/sources/veterans/verify/news/naver_469_0000878173.html)",
+    "KBS 2025-07-25 20:06:47 '권오을 보훈장관 “독립·민주·호국 균형 잡힌 보훈정책 구현”' https://n.news.naver.com/mnews/article/056/0011996637 (accessed 2026-09-25T21:57:25-0400; snapshot roster/sources/veterans/verify/news/naver_056_0011996637.html)",
+    "BigKinds metadata, 이데일리 2025-07-25 12:21 '[속보]李대통령, 정동영·안규백·권오을 장관 임명 재가' (news_id 04101008.20250725122124001) and 조선일보 2025-07-25 12:38 (news_id 01100801.20250725123837001) (search '권오을 임명' 2025-07-20..2025-08-05 via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:47:07-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2025-07-20_2025-08-05_59eabdce4f.json). The approval was announced around midday on 2025-07-25, so no successor had been appointed on the morning of 07-25",
+    "BigKinds metadata, 디지털타임스 2025-07-23 '[포토] 기념사하는 강정애 국가보훈부 장관' (news_id 07101201.20250723165740001) (search '강정애' 2025-07-23..2025-07-26, accessed 2026-09-25T21:52:44-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2025-07-23_2025-07-26_32e099db75.json) (still acting as minister on 2025-07-23)",
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '2代 강정애(姜貞愛) 2023.12.26. ~ 2025.7.24.' [verifier: this end date follows the page's day-before-successor convention and was not adopted]",
+    "관보 제21047호 (published 2025-07-31), 인사발령(인사혁신처): '권오을(權五乙) 국무위원에 임함 국가보훈부장관에 보함 2025. 7. 25.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400; snapshot roster/sources/veterans/gazette_20250731_21047_I0000000000000001753420981908000.pdf, also harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt) (successor's appointment date)",
+    "연합뉴스 2025-07-25 16:20:41 '강정애 국가보훈부 장관 이임식' https://n.news.naver.com/mnews/article/001/0015530348 (accessed 2026-09-25T13:34:48-0400; snapshot roster/sources/veterans/news/naver_001_0015530348.html) ('강정애 국가보훈부 장관이 25일 정부세종청사 국가보훈부에서 열린 이임식에서 이임사')",
+    "뉴스1 2025-07-25 16:05:32 '강정애 국가보훈부 장관 이임식' https://n.news.naver.com/mnews/article/421/0008393086 (accessed 2026-09-25T13:34:49-0400; snapshot roster/sources/veterans/news/naver_421_0008393086.html) (25일 '제2대 국가보훈부 장관 이임식')",
+    "뉴시스 2025-07-20 11:15:52 '강정애 장관, 데릭 맥컬리 연합사 부사령관 접견' https://n.news.naver.com/mnews/article/003/0013373199 (accessed 2026-09-25T13:41:43-0400; snapshot roster/sources/veterans/news/naver_003_0013373199.html) (still minister on 2025-07-18, 연합사 부사령관 접견)",
+    "ko.wikipedia https://ko.wikipedia.org/w/index.php?oldid=42080279 (accessed 2026-09-25T13:40:11-0400; snapshot roster/sources/veterans/wiki_강정애.json) (임기 2023년 12월 26일 ~ 2025년 7월 24일. The list page oldid 41095083 gives 퇴임일 2025년 7월 25일)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "inputs/minister_role_meetings.csv, valid hearing types only. As 국가보훈부장관 in 8 meetings (6 상임위원회 and 2 국정감사), first 2024-02-29 and last 2024-12-24, all inside 2023-12-26..2025-07-25. As nominee, 정무위원회 meeting 053712 on 2023-12-21 (nominee_hearing_meetings.csv). No rows outside the spell. Transcript coverage ends 2025-01, so the last six months of the spell are not covered.",
+   "notes": "Former president of 숙명여자대학교. Held over into the acting presidencies of 한덕수, 최상목, 한덕수 and 이주호 (2024-12-14..2025-06-04) and into the 이재명 presidency from 2025-06-04 until 권오을 was appointed (not split here, transitions are split in code). She was still acting as minister on 2025-07-23 and gave her 이임사 on 2025-07-25, the day the President approved her successor's appointment around midday. End date (verifier) is 2025-07-25, a same-day handover. The ministry's official list gives 2025-07-24 by its day-before-successor convention. ko.wikipedia is internally inconsistent (article 2025-07-24, list 2025-07-25). Birth date from ko.wikipedia (ko.wikipedia https://ko.wikipedia.org/w/index.php?oldid=42080279 (accessed 2026-09-25T13:40:11-0400; snapshot roster/sources/veterans/wiki_강정애.json) (출생일 1957-05-05)) and Wikidata Q27953313, consistent with age 66 in December 2023 (중앙일보 2023-12-04 '강정애(66)', 한국일보 2023-12-04 18:01:06 '尹, '집권 2기' 총선용 개각… 기재 최상목, 보훈 강정애, 중기 오영주' https://n.news.naver.com/mnews/article/469/0000773621 (accessed 2026-09-25T13:38:12-0400; snapshot roster/sources/veterans/news/naver_469_0000773621.html) and The Korea Herald 2023-12-04). Gender F (Wikidata, and The Korea Herald calls her a veteran's 'daughter'). Not in na_members_15_22.csv."
+  },
+  {
+   "name": "권오을",
+   "name_hanja": "權五乙",
+   "name_en": "Kwon Oheul",
+   "name_en_source": "국가보훈부 장관약력 https://www.mpva.go.kr/mpva/contents.do?key=239 (accessed 2026-09-25T13:39:27-0400; snapshot roster/sources/veterans/mpva_key239.html) '권 오 을(權五乙 / Kwon Oheul)'. The NA API ALLNAMEMBER gives 'Kwon, Oh-eul' and Wikidata Q12586114 'Kwon Oh-eul'.",
+   "birth_date": "1957-03-17",
+   "gender": "M",
+   "ministry": "국가보훈부",
+   "office_title": "국가보훈부장관",
+   "deputy_pm": false,
+   "start": "2025-07-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21047호 (published 2025-07-31), 인사발령(인사혁신처): '권오을(權五乙) 국무위원에 임함 국가보훈부장관에 보함 2025. 7. 25.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400; snapshot roster/sources/veterans/gazette_20250731_21047_I0000000000000001753420981908000.pdf, also harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt)",
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '3代 권오을(權五乙) 2025.7.25. ~ 현재'",
+    "KBS 2025-07-25 12:33:15 '이 대통령, 정동영·안규백·권오을 장관 임명안 재가' https://n.news.naver.com/mnews/article/056/0011996355 (accessed 2026-09-24T22:54:20-0400; snapshot roster/sources/veterans/news/naver_056_0011996355.html) (강유정 대변인 '오늘(25일)' 공지, 정동영·안규백·권오을 임명안 재가)",
+    "MBC 2025-07-26 13:04:39 '국힘 \"李 대통령, 정동영·안규백 등 임명 강행은 '답정너' 인사\"' https://n.news.naver.com/mnews/article/214/0001438948 (accessed 2026-09-24T22:53:49-0400; snapshot roster/sources/veterans/news/naver_214_0001438948.html) (국민의힘 26일 논평, 권오을 국가보훈부 장관 임명안 재가 비판)",
+    "verifier re-read: harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt and pdftotext of roster/sources/veterans/verify/gazette/gazette_21047_I0000000000000001753420981908000.pdf (관보 제21047호, published 2025-07-31, item fetched 2026-09-24T22:59:54-0400) read '권오을(權五乙) 국무위원에 임함 국가보훈부장관에 보함 2025. 7. 25.'",
+    "정책브리핑 korea.kr 연설문 '국가보훈부 장관 취임사' (연설일 2025.07.25, signed '2025. 7. 25. 국가보훈부 장관 권오을') https://www.korea.kr/briefing/speechView.do?newsId=132037754 (accessed 2026-09-25T21:58:46-0400; snapshot roster/sources/veterans/verify/korea/korea_132037754.html)",
+    "BigKinds metadata, 뉴스핌 2025-07-25 '권오을 보훈장관 취임 \"보훈정책 넘칠지언정 부족하지 않아야\"' (news_id 04100078.20250725174934002): '권오을(68) 새 국가보훈부 장관은 25일 취임사에서' (search '권오을 임명' 2025-07-20..2025-08-05, accessed 2026-09-25T21:47:07-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2025-07-20_2025-08-05_59eabdce4f.json)"
+   ],
+   "end": null,
+   "end_confidence": null,
+   "end_sources": [
+    "국가보훈부 누리집 https://www.mpva.go.kr/mpva/contents.do?key=1805 (accessed 2026-09-25T13:39:22-0400; snapshot roster/sources/veterans/mpva_key1805.html): '3代 권오을(權五乙) 2025.7.25. ~ 현재'",
+    "뉴시스 2026-09-23 18:35:07 '보훈부 장관 \"DMZ 부상 장병 예우·지원에 최선 다할 것\"' https://n.news.naver.com/mnews/article/003/0014211548 (accessed 2026-09-25T13:36:08-0400; snapshot roster/sources/veterans/news/naver_003_0014211548.html) (photo caption '권오을 국가보훈부 장관이 22일 ... 국무회의에 참석하고 있다. 2026.09.22.', statement of 23일)",
+    "연합뉴스 2026-09-23 18:05:50 '권오을 \"DMZ 부상장병 지원에 한치의 부족함도 없게 하겠다\"' https://n.news.naver.com/mnews/article/001/0016333614 (accessed 2026-09-25T13:36:06-0400; snapshot roster/sources/veterans/news/naver_001_0016333614.html) ('권오을 국가보훈부 장관' statement on 2026-09-23)",
+    "강원일보 2026-08-31 15:03:10 '정점식 “이번 개각은 李대통령 본인과 지지율 살리기 위한 ‘함량 미달 좌파 연합 개각’⋯‘레버리지 ETF 주범’ 김용범 유임시키며 국정 쇄신 전면 거부”' https://n.news.naver.com/mnews/article/087/0001214581 (accessed 2026-09-25T13:37:04-0400; snapshot roster/sources/veterans/news/naver_087_0001214581.html) (2026-08-30 개각 = 6 ministries (재정경제부, 법무부, 국방부, 국토교통부, 중소벤처기업부, 성평등가족부), 보훈부 not included)",
+    "매일신문 2026-03-05 17:24:06 '강훈식·김용범·권오을 불출마 수순…내각·청와대 후보군 교통정리(?)' https://n.news.naver.com/mnews/article/088/0000999699 (accessed 2026-09-25T13:36:23-0400; snapshot roster/sources/veterans/news/naver_088_0000999699.html) (2026-03-05, 경북도지사 후보로 거론된 권오을 장관 '사퇴 등 별다른 출마 기미가 보이지 않고 있다')",
+    "아시아경제 2026-01-20 10:38:09 '[6·3지방선거]⑫3선 노리는 이철우…'텃밭' 경북 공천 경쟁 '후끈'' https://n.news.naver.com/mnews/article/277/0005709157 (accessed 2026-09-25T13:36:24-0400; snapshot roster/sources/veterans/news/naver_277_0005709157.html) ('권오을 국가보훈부 장관은 지난해 국회 국정감사에서 불출마 의사를 밝혔다')",
+    "뉴시스 2026-09-22 08:54:41 '국무회의 참석한 권오을 국가보훈부 장관' https://n.news.naver.com/mnews/article/003/0014206635 (accessed 2026-09-25T21:56:32-0400; snapshot roster/sources/veterans/verify/news/naver_003_0014206635.html)",
+    "뉴스1 2026-09-22 09:22:12 '정동영·권오을 장관, 국무회의 대화' https://n.news.naver.com/mnews/article/421/0009185210 (accessed 2026-09-25T21:56:39-0400; snapshot roster/sources/veterans/verify/news/naver_421_0009185210.html)",
+    "문화일보 2026-09-23 11:29:15 '보훈부, 국가유공자에 ‘따뜻한 한끼’ 행사' https://n.news.naver.com/mnews/article/021/0002820945 (accessed 2026-09-25T21:56:24-0400; snapshot roster/sources/veterans/verify/news/naver_021_0002820945.html): '국가보훈부(장관 권오을)가 23일 ...'",
+    "BigKinds metadata, 문화일보 2026-09-08 '권오을, 필리핀 국방장관과 보훈협력 논의' (news_id 01100501.20260908092158001) (search '보훈부 장관 사의' 2026-01-01..2026-09-24, 20 hits, none reporting a resignation or a new nominee for this ministry, accessed 2026-09-25T21:48:05-0400; snapshot roster/sources/veterans/verify/bigkinds/bigkinds_2026-01-01_2026-09-24_8213f1cdfa.json)",
+    "정책브리핑 korea.kr 보도자료 '국가보훈부 권오을 장관 취임 1년 성과' (dated 2026.07.24) https://www.korea.kr/briefing/pressReleaseView.do?newsId=156772095 (accessed 2026-09-25T21:58:41-0400; snapshot roster/sources/veterans/verify/korea/korea_156772095.html)"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 15th-17th NA member (15th 통합민주당 경북 안동갑, 16th-17th 한나라당 경북 안동시, per na_members_15_22.csv with mona_cd 3OA12807), former 국회사무총장 per the MPVA bio. Not a sitting member at appointment (not in the 22nd NA rows).",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "The spell starts after the transcript coverage ends (2025-01). No rows for him in minister_role_meetings.csv or nominee_hearing_meetings.csv. audit/coverage_gaps.csv line 361 flags exactly this.",
+   "notes": "Nominated 2025-06-23 in 이재명's first ministerial slate. The 정무위원회 did not adopt the hearing report, the President asked on 2025-07-22 for it to be sent by 2025-07-24, and approved the appointment on 2025-07-25 when no report arrived (KBS 2025-07-25). Named in early 2026 as a possible 민주당 candidate for 경북도지사 in the 2026-06-03 local elections, but did not resign, and was still minister at the cutoff (2026-09-22 국무회의, 2026-09-23 statement, MPVA list '현재' accessed 2026-09-25). Birth date from the NA API (BIRDY_DT 1957-03-17, flagged 음력), ko.wikipedia (ko.wikipedia https://ko.wikipedia.org/w/index.php?oldid=42434825 (accessed 2026-09-25T13:40:12-0400; snapshot roster/sources/veterans/wiki_권오을.json) (출생일 1957-03-17)) and Wikidata Q12586114. The MPVA bio gives 출생년도 1957 only. Gender from the NA API (SEX_GBN_NM 남). The old panel's confirmation_date 2025-07-15 is the hearing date."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "박민식",
+   "office_title": "국가보훈부장관",
+   "nomination_date": "2023-05-09",
+   "request_date": "2023-05-11",
+   "likms_bill_id": "PRC_G2C3N0S5B1C1Q1E8Q2U5I5Q0V0O9G6",
+   "hearing_dates": [
+    "2023-05-22"
+   ],
+   "hearing_committee": "정무위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-06-05",
+   "sources": [
+    "의안정보시스템 ZZ21147 '국무위원후보자(국가보훈부장관 박민식) 인사청문요청안(대통령)', 제안일자 2023-05-11, 정무위원회 회부 2023-05-12, 상정 2023-05-17, 처리일 2023-05-25 처리결과 경과보고서채택, 회의 2023-05-17, 2023-05-22, 2023-05-25, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_G2C3N0S5B1C1Q1E8Q2U5I5Q0V0O9G6 (accessed 2026-09-25T07:05:32-0400; snapshot roster/sources/veterans/likms_PRC_G2C3N0S5B1C1Q1E8Q2U5I5Q0V0O9G6.html; harvest/likms/PRC_G2C3N0S5B1C1Q1E8Q2U5I5Q0V0O9G6.txt)",
+    "inputs/nominee_hearing_meetings.csv line 205: 박민식, 정무위원회, meeting 052936, agenda '1. 국무위원후보자(국가보훈부장관 박민식) 인사청문요청안 2. 국무위원후보자(국가보훈부장관 박민식) 인사청문회', 2023-05-22",
+    "연합뉴스 2023-05-09 17:23:48 '尹대통령, 초대 국가보훈부 장관 후보자에 박민식 現처장 지명' https://n.news.naver.com/mnews/article/001/0013930846 (accessed 2026-09-25T13:37:31-0400; snapshot roster/sources/veterans/news/naver_001_0013930846.html) ('윤석열 대통령은 9일 박민식(58) 국가보훈처장을 초대 국가보훈부 장관 후보자로 지명했다고 대통령실이 밝혔다')",
+    "연합뉴스 2023-05-12 20:04:59 '박민식 초대 국가보훈부 장관 후보자 인사청문회 22일 개최' https://n.news.naver.com/mnews/article/001/0013938955 (accessed 2026-09-25T13:37:26-0400; snapshot roster/sources/veterans/news/naver_001_0013938955.html) (여야, 청문회 22일 개최 합의)",
+    "연합뉴스 2023-05-25 15:48:01 '정무위, 박민식 보훈장관 후보자 인사청문경과보고서 채택' https://n.news.naver.com/mnews/article/001/0013964567 (accessed 2026-09-25T13:37:40-0400; snapshot roster/sources/veterans/news/naver_001_0013964567.html) (정무위 25일 전체회의 경과보고서 채택, 부적합 의견 병기)",
+    "SBS 2023-05-25 15:16:07 '정무위, 박민식 보훈장관 후보자 인사청문경과보고서 채택' https://n.news.naver.com/mnews/article/055/0001060665 (accessed 2026-09-25T13:37:41-0400; snapshot roster/sources/veterans/news/naver_055_0001060665.html)",
+    "관보 제20518호 (published 2023-06-09), 인사발령(인사혁신처): '박민식(朴敏植) 국무위원에 임함 국가보훈부장관에 보함 2023. 6. 5.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001686126185163000&tocId=I0000000000000001685678936841000&isTocOrder=N (accessed 2026-09-25T13:04:18-0400; snapshot roster/sources/veterans/gazette_20230609_20518_I0000000000000001685678936841000.pdf, also harvest/gazette_text/20230609_20518_I0000000000000001685678936841000.txt)",
+    "정부조직법 법률 제19228호 (2023-03-04 공포, 2023-06-05 시행), https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=248475&efYd=20230605 (accessed 2026-09-25T06:49:06-0400; snapshot inventory_sources/law_go_kr/govorg/text_20230605_248475.json) 부칙 제6조 (인사청문에 관한 특례)"
+   ],
+   "notes": "The request reached the Assembly before the ministry existed, which 부칙 제6조 of 법률 제19228호 allows. The report was adopted with the opposition's unfitness opinion attached."
+  },
+  {
+   "nominee": "강정애",
+   "office_title": "국가보훈부장관",
+   "nomination_date": "2023-12-04",
+   "request_date": "2023-12-07",
+   "likms_bill_id": "PRC_A2V3C1G2K0T7Z1M8C5W8X4O2S8A2Y2",
+   "hearing_dates": [
+    "2023-12-21"
+   ],
+   "hearing_committee": "정무위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-12-26",
+   "sources": [
+    "의안정보시스템 ZZ21178 '국무위원후보자(국가보훈부장관 강정애) 인사청문요청안(대통령)', 제안일자 2023-12-07, 정무위원회 회부 2023-12-08, 상정 2023-12-14, 처리일 2023-12-21 처리결과 채택, 회의 2023-12-14, 2023-12-21, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A2V3C1G2K0T7Z1M8C5W8X4O2S8A2Y2 (accessed 2026-09-25T07:07:08-0400; snapshot roster/sources/veterans/likms_PRC_A2V3C1G2K0T7Z1M8C5W8X4O2S8A2Y2.html; harvest/likms/PRC_A2V3C1G2K0T7Z1M8C5W8X4O2S8A2Y2.txt)",
+    "inputs/nominee_hearing_meetings.csv line 16: 강정애, 정무위원회, meeting 053712, agenda '1. 국무위원후보자(국가보훈부장관 강정애) 인사청문요청안 2. 국무위원후보자(국가보훈부장관 강정애) 인사청문회', 2023-12-21",
+    "아이뉴스24 2023-12-04 15:24:01 '기재부 최상목·국토부 박상우·보훈부 강정애…尹, 중폭 개각' https://n.news.naver.com/mnews/article/031/0000793496 (accessed 2026-09-25T13:38:11-0400; snapshot roster/sources/veterans/news/naver_031_0000793496.html) (윤석열 대통령이 4일 6개 부처 장관 교체, 국가보훈부 장관에는 강정애 전 숙명여대 총장 지명)",
+    "세계일보 2023-12-04 17:59:02 '총선 차출 ‘보궐 개각’… 尹대통령, 6개 부처 장관 교체' https://n.news.naver.com/mnews/article/022/0003881560 (accessed 2026-09-25T13:38:13-0400; snapshot roster/sources/veterans/news/naver_022_0003881560.html)",
+    "뉴시스 2023-12-21 21:44:07 '정무위, 강정애 보훈장관 후보자 인사청문경과보고서 채택' https://n.news.naver.com/mnews/article/003/0012280913 (accessed 2026-09-25T13:37:57-0400; snapshot roster/sources/veterans/news/naver_003_0012280913.html) (정무위 21일 청문회 후 경과보고서 채택)",
+    "뉴스1 2023-12-21 22:09:25 '여야, 강정애 보훈부 장관 후보자 인사청문회 경과보고서 채택' https://n.news.naver.com/mnews/article/421/0007249006 (accessed 2026-09-25T13:37:58-0400; snapshot roster/sources/veterans/news/naver_421_0007249006.html)",
+    "관보 제20656호 (published 2023-12-29), 인사발령(인사혁신처): '강정애(姜貞愛) 국무위원에 임함 국가보훈부장관에 보함 2023. 12. 26.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001703723253958000&tocId=I0000000000000001703376299482000&isTocOrder=N (accessed 2026-09-24T22:54:17-0400; snapshot roster/sources/veterans/gazette_20231229_20656_I0000000000000001703376299482000.pdf, also harvest/gazette_text/20231229_20656_I0000000000000001703376299482000.txt)"
+   ],
+   "notes": "Hearing and report adoption on the same day, 2023-12-21. 재가 on 2023-12-22 (MBN 2023-12-25), term from 2023-12-26."
+  },
+  {
+   "nominee": "권오을",
+   "office_title": "국가보훈부장관",
+   "nomination_date": "2025-06-23",
+   "request_date": "2025-06-27",
+   "likms_bill_id": "PRC_T2R5E0B6P2A7R1O7Z5A3A4N1W1P1Z2",
+   "hearing_dates": [
+    "2025-07-15"
+   ],
+   "hearing_committee": "정무위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-25",
+   "sources": [
+    "의안정보시스템 ZZ22055 '국무위원후보자(국가보훈부장관 권오을) 인사청문요청안(대통령)', 제안일자 2025-06-27, 정무위원회 회부 2025-06-30, 상정 2025-07-15, 처리일 and 처리결과 blank, 회의 2025-07-03 (제426회 제3차 전체회의), 2025-07-15 (제427회 제1차 전체회의), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_T2R5E0B6P2A7R1O7Z5A3A4N1W1P1Z2 (accessed 2026-09-25T12:54:43-0400; snapshot roster/sources/veterans/likms_PRC_T2R5E0B6P2A7R1O7Z5A3A4N1W1P1Z2.html; harvest/likms/PRC_T2R5E0B6P2A7R1O7Z5A3A4N1W1P1Z2.txt)",
+    "뉴스1 2025-06-23 14:29:29 '국방 안규백 통일 정동영 과기 배경훈…李대통령 첫 장관 인사(종합)' https://n.news.naver.com/mnews/article/421/0008327412 (accessed 2026-09-25T13:35:37-0400; snapshot roster/sources/veterans/news/naver_421_0008327412.html) (23일 첫 장관 인선, '국가보훈부 장관에는 권오을 전 한나라당 의원이 내정됐다')",
+    "매일경제 2025-06-23 17:47:06 '64년 만에 '문민' 국방장관 … 다자·통상 전문 '정통파' 외교장관' https://n.news.naver.com/mnews/article/009/0005513441 (accessed 2026-09-25T13:35:32-0400; snapshot roster/sources/veterans/news/naver_009_0005513441.html)",
+    "뉴시스 2025-07-15 17:07:33 '권오을 후보 인사청문…與 \"내란 극복 역할\" 野 \"철새 정치인\"(종합)' https://n.news.naver.com/mnews/article/003/0013364303 (accessed 2026-09-25T13:35:43-0400; snapshot roster/sources/veterans/news/naver_003_0013364303.html) (15일 정무위원회 권오을 후보자 인사청문회)",
+    "헤럴드경제 2025-07-15 16:11:17 '“권오을, 민망할 정도로 철새”…野 ‘보은성 인사’ 파상공세 [종합]' https://n.news.naver.com/mnews/article/016/0002499983 (accessed 2026-09-25T13:35:44-0400; snapshot roster/sources/veterans/news/naver_016_0002499983.html)",
+    "뉴시스 2025-07-22 15:33:06 '이 대통령, 24일까지 강선우 청문보고서 재송부 요청…임명 수순' https://n.news.naver.com/mnews/article/003/0013377980 (accessed 2026-09-25T13:41:23-0400; snapshot roster/sources/veterans/news/naver_003_0013377980.html) (22일 채택시한 넘긴 4명 (강선우, 안규백, 권오을, 정동영) 청문보고서 재송부 요청, 시한 24일)",
+    "조선비즈 2025-07-22 16:12:13 '갑질·예산보복에도…李, 강선우 청문보고서 재송부 요청' https://n.news.naver.com/mnews/article/366/0001094646 (accessed 2026-09-25T13:41:24-0400; snapshot roster/sources/veterans/news/naver_366_0001094646.html)",
+    "KBS 2025-07-25 12:33:15 '이 대통령, 정동영·안규백·권오을 장관 임명안 재가' https://n.news.naver.com/mnews/article/056/0011996355 (accessed 2026-09-24T22:54:20-0400; snapshot roster/sources/veterans/news/naver_056_0011996355.html) (요청 시한까지 송부가 이뤄지지 않자 25일 임명안 재가)",
+    "관보 제21047호 (published 2025-07-31), 인사발령(인사혁신처): '권오을(權五乙) 국무위원에 임함 국가보훈부장관에 보함 2025. 7. 25.' viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753773886519000&tocId=I0000000000000001753420981908000&isTocOrder=N (accessed 2026-09-24T22:59:54-0400; snapshot roster/sources/veterans/gazette_20250731_21047_I0000000000000001753420981908000.pdf, also harvest/gazette_text/20250731_21047_I0000000000000001753420981908000.txt)"
+   ],
+   "notes": "Not covered by nominee_hearing_meetings.csv (transcripts end 2025-01). The report was not adopted within the legal period or the re-send period, and the President appointed him without it."
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "low",
+   "desc": "End dates of 박민식 and 강정애 were moved by the verifier from the MPVA list's day-before values (2023-12-25, 2025-07-24) to same-day handovers (2023-12-26, 2025-07-25). Each gave the 이임사 as minister on the successor's appointment day (korea.kr 연설일 2023.12.26 and 2025.07.25), and the 2025 successor was only approved around midday on 07-25. The MPVA list applies a mechanical day-before rule (its 처장 page even contradicts the gazette for 박민식's 2022 start). No exit notice is printed in the gazette, so both ends stay at medium confidence. A day-before coding would move each end one day earlier."
+  },
+  {
+   "severity": "low",
+   "desc": "박민식's spell is flagged reorg_continuation=true and reappointed_on_reorg=true because he held 국가보훈처장 up to the 2023-06-05 reorganization and was appointed 국가보훈부장관 by a new notice that day. The predecessor office was not a 국무위원 post and is out of scope, so there is no predecessor spell in this lineage. Panel code must not try to merge or chain it."
+  },
+  {
+   "severity": "low",
+   "desc": "The unverified lead that the 국가보훈처장 was never a 국무위원 agrees with offices.json (OF068). The lineage therefore has no spells before 2023-06-05. The transcript inputs also carry no 국가보훈처 speakers in the minister role."
+  },
+  {
+   "severity": "low",
+   "desc": "박민식 end_reason is resigned_to_run. Formally he was replaced in the 2023-12-04 reshuffle, which the press described as 총선 차출 of heads expected to run, and he then declared for 서울 영등포을 (2024-02-15) and ran as the 국민의힘 candidate in 서울 강서을 at the 2024-04-10 general election. Code him as replaced if only the formal mechanism matters."
+  },
+  {
+   "severity": "low",
+   "desc": "The old panel row for 강정애 has wrong dates (start 2023-09-01, end 2025-06-03), the 박민식 row ends 2023-12-28 instead of 2023-12-26, and the 권오을 row's confirmation_date 2025-07-15 is the hearing date, not the appointment."
+  },
+  {
+   "severity": "low",
+   "desc": "Day-level continuity checked for 2023-06-05..2026-09-24 with no vacancy. 박민식 took office the day the ministry was created, and both replacements are same-day handovers (2023-12-26, 2025-07-25), re-checked by the verifier. No acting minister (직무대행) period exists, so the acting list is empty. The gazette text corpus (harvest complete, last 인사 item 2026-09-18) contains exactly three 국가보훈부장관 appointment notices (제20518호, 제20656호, 제21047호), and the likms harvest and a live likms search for terms 21-22 contain exactly three 국가보훈부장관 hearing requests (ZZ21147, ZZ21178, ZZ22055)."
+  },
+  {
+   "severity": "low",
+   "desc": "The NA API flags the birth dates of 박민식 and 권오을 as lunar (BIRDY_DIV_CD 음) in ALLNAMEMBER, while the per-term API flags 박민식's as solar. The dates themselves agree with ko.wikipedia and Wikidata."
+  },
+  {
+   "severity": "low",
+   "desc": "권오을's in-office status at the cutoff rests on news of 2026-09-22 and 2026-09-23 and the MPVA list accessed 2026-09-25. No nomination for 국가보훈부장관 appears in likms (harvest through the 2026-09-03 requests) or in the news after 2025-07-25, and the 2026-08-30 reshuffle did not include the ministry."
+  },
+  {
+   "severity": "medium",
+   "desc": "Downstream risk, not a data error. 박민식's spell keeps reorg_continuation=true and reappointed_on_reorg=true, which matches the field definition (he held 국가보훈처장 up to the 2023-06-05 reorganization and was re-appointed by a new notice). But build/build_panel.py link_nominations() skips spells with reorg_continuation=true, so the appointed nomination ZZ21147 would not link to his spell, and build/finalize.py treats reorg_continuation rows as needing no hearing. He was in fact nominated, heard (2023-05-22) and appointed under 부칙 제6조 of 법률 제19228호. The predecessor office is out of scope, so no predecessor spell exists to chain to. The panel build must link ZZ21147 to this spell explicitly (or treat reorg_continuation as chaining only when an in-scope predecessor spell exists)."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T22:10:12-04:00",
+  "verifier": "adversarial verifier, lineage veterans",
+  "input": "roster/veterans.json (built_at 2026-09-25T21:34:26-04:00)",
+  "mode": "final",
+  "scripts": [
+   "roster/scripts/veterans_verify_00_init.py",
+   "roster/scripts/veterans_verify_01_independent.py",
+   "roster/scripts/veterans_verify_02_likms.py",
+   "roster/scripts/veterans_verify_03_gazette_grep.py",
+   "roster/scripts/veterans_verify_04_transcripts.py",
+   "roster/scripts/veterans_verify_05_exits_bigkinds.py",
+   "roster/scripts/veterans_verify_06_exits_bigkinds2.py",
+   "roster/scripts/veterans_verify_07_naver.py",
+   "roster/scripts/veterans_verify_08_kang_exit.py",
+   "roster/scripts/veterans_verify_09_korea.py",
+   "roster/scripts/veterans_verify_10_likms_refresh.py",
+   "roster/scripts/veterans_verify_11_noms_bigkinds.py",
+   "roster/scripts/veterans_verify_12_gazette_snap.py",
+   "roster/scripts/veterans_verify_13_build.py"
+  ],
+  "snapshots": "roster/sources/veterans/verify",
+  "summary": "3 spells and 3 nominations checked. No holder, nominee or acting head is missing. Both end dates were moved one day later to same-day handovers (박민식 2023-12-26, 강정애 2025-07-25) on korea.kr 이임사 records and contemporaneous news. The builder had followed the ministry list's day-before convention. All three gazette starts were re-read. Nominations match likms exactly. One downstream risk (reorg_continuation on 박민식 blocks nomination linkage in build_panel.py) is added to issues.",
+  "independent_holder_list": "Namu Wiki 국가보훈부장관 (rendered 2026-09-25T14:12, snapshot verify/namu_국가보훈부장관.html and .txt, not cited by the builder) lists 초대 박민식, 2대 강정애, 3대 권오을 and no other holder. The gazette corpus (2,709 인사 texts 2001-01..2026-09, GAZETTE_DONE) contains exactly three 국가보훈부장관 notices (제20518호, 제20656호, 제21047호), output verify/gazette_grep.txt. Four months have no 인사 item in the gazette index at all (2025-10, 2026-01, 2026-02, 2026-05), so the gazette alone cannot exclude a late appointment. News and korea.kr place 권오을 in office in 2026-01 and 2026-03 (builder items), 2026-06, 2026-07 and 2026-09 (verifier items), which rules one out.",
+  "gazette_reread": "All three start notices re-read in harvest/gazette_text and in the item PDFs, snapshotted to verify/gazette/.",
+  "transcript_check": "Re-run with roster/scripts/veterans_verify_04_transcripts.py (output verify/transcript_check.txt). 16 valid-type minister rows (상임위원회, 국정감사) for 국가보훈부, all inside the named person's spell. 2 nominee hearings (2023-05-22, 2023-12-21). One 국정조사 row dated 2013-07-05 ignored. No minister-role 보훈 row for anyone outside the roster. Vice-minister rows (윤종진, 이희완) are not ministers.",
+  "continuity": "2023-06-05..2026-09-24 with no vacancy and no overlap beyond two same-day handovers (2023-12-26, 2025-07-25). No acting head period, so the acting list stays empty.",
+  "nominations_check": "harvest/likms_cabinet_bills.csv (291 bills to 2026-09-03) has three 보훈 requests. Refreshed live likms searches on 2026-09-25T22:00 (국가보훈부장관 terms 21-22, 국무위원후보자 and 인사청문요청안 term 22, snapshot verify/likms_refresh.json) find the same three and no request after 2025-06-27 for this office. No withdrawn nominee found in BigKinds for 2025-08..2026-09.",
+  "per_spell": {
+   "0": {
+    "name": "박민식",
+    "start": "2023-06-05",
+    "end": "2023-12-26",
+    "status": "corrected",
+    "checks": [
+     "start 2023-06-05: gazette 제20518호 re-read in harvest/gazette_text and in the item PDF (verify/gazette/). korea.kr 취임사 연설일 2023.06.05 and YTN/노컷뉴스 2023-06-05 (임명장, BigKinds) agree. The ministry came into being that day (법률 제19228호 부칙 제1조).",
+     "end 2023-12-25 -> 2023-12-26: korea.kr 이임사 연설일 2023.12.26, 헤럴드경제, 파이낸셜뉴스, 뉴스1 and 뉴시스 on 2023-12-26 (not used by the builder). The MPVA 2023.12.25 follows a day-before-successor convention. No 면직 date is reported (BigKinds '박민식 면직' 0 hits, gazette prints no ministerial exits).",
+     "transcripts: 8 valid-type minister rows 2023-06-15..2023-12-14 inside the spell, nominee hearing 2023-05-22 (meeting 052936). One 2013-07-05 국정조사 row ignored (invalid type).",
+     "fields: appointing_president 윤석열 (start inside 2022-05-10..2025-06-03), appointed_by_acting_president false, deputy_pm false (offices.json OF060 deputy_pm_title empty), in_scope true (정부조직법 제26조② 장관은 국무위원으로 보한다), end_reason resigned_to_run kept (2023-12-04 총선 차출 reshuffle, 2024 candidate in 서울 강서을, same coding as foreign/land/sme/industry for that reshuffle), reorg_continuation true and reappointed_on_reorg true match the field definition but see the issue on nomination linkage, suspensions none, mp_hint matches na_members_15_22.csv (terms 18-19, P318485D)."
+    ]
+   },
+   "1": {
+    "name": "강정애",
+    "start": "2023-12-26",
+    "end": "2025-07-25",
+    "status": "corrected",
+    "checks": [
+     "start 2023-12-26: gazette 제20656호 re-read (text and PDF). korea.kr 취임사 연설일 2023.12.26, 아시아투데이/문화일보/서울경제 2023-12-25 (26일 취임식, BigKinds) agree. The 임명장 ceremony on 2024-01-03 (OBS, 노컷뉴스) is ceremonial.",
+     "end 2025-07-24 -> 2025-07-25: korea.kr 이임사 연설일 2025.07.25, 연합뉴스/한국일보/KBS 2025-07-25 (이임사 that day, articles not used by the builder), successor approved around midday on 07-25 (이데일리 12:21, 조선일보 12:38). Still minister on 2025-07-23 (디지털타임스). No resignation or 사표 수리 reported between 2025-06-04 and 07-25 (BigKinds '강정애 사의', '강정애 사표', '강정애 면직').",
+     "transcripts: 8 valid-type minister rows 2024-02-29..2024-12-24 inside the spell, nominee hearing 2023-12-21 (meeting 053712). Coverage ends 2025-01.",
+     "fields: appointing_president 윤석열, held over through the acting presidencies 2024-12-14..2025-06-04 and into 이재명 (split in code), end_reason replaced, deputy_pm false, reorg_continuation false, suspensions none, not an NA member (not in na_members_15_22.csv)."
+    ]
+   },
+   "2": {
+    "name": "권오을",
+    "start": "2025-07-25",
+    "end": null,
+    "status": "confirmed",
+    "checks": [
+     "start 2025-07-25: gazette 제21047호 re-read (text and PDF). korea.kr 취임사 연설일 2025.07.25 and 뉴스핌 2025-07-25 (취임사, BigKinds) agree with the builder's KBS and MBC items.",
+     "in office at the cutoff: 뉴시스, 뉴스1 and 아시아경제 photos of the 2026-09-22 국무회의, 문화일보 2026-09-23 ('국가보훈부(장관 권오을)') and 2026-09-08, korea.kr 보도자료 2026-07-24 '취임 1년 성과'. BigKinds '보훈부 장관 사의' 2026-01-01..09-24 and '보훈부 장관 후보자' 2025-08-01..2026-09-24 show no resignation and no new nominee. He did not resign for the 2026-06-03 local elections or by-elections (금강일보 2026-06-15 '권오을 국가보훈부장관' in London for the 인빅터스 게임 bid and 아주경제 2026-06-30 '권오을 국가보훈부 장관' 축사, BigKinds search '권오을 장관' 2026-05-01..06-30, snapshot verify/bigkinds/bigkinds_2026-05-01_2026-06-30_125da53ef0.json, accessed 2026-09-25T21:47:59-0400).",
+     "transcripts: none (spell starts after coverage ends).",
+     "fields: appointing_president 이재명 (start after 2025-06-04), appointed_by_acting_president false, end_reason in_office, deputy_pm false, reorg_continuation false (no renaming of 국가보훈부 through 2026-09-24, law.go.kr texts effective 2025-10-01 and 2026-01-02 still list 국가보훈부장관), mp_hint matches na_members_15_22.csv (terms 15-17, 3OA12807)."
+    ]
+   }
+  },
+  "per_nomination": {
+   "0": {
+    "nominee": "박민식",
+    "status": "confirmed",
+    "checks": [
+     "nomination 2023-05-09 (세계일보, 매일경제, 서울신문 via BigKinds, snapshot verify/bigkinds/bigkinds_2023-05-07_2023-05-11_4bbb62a99f.json, which contradicts Namu Wiki's '5월 8일'), request 2023-05-11 and 정무위 처리 2023-05-25 경과보고서채택 (likms ZZ21147 re-read in harvest/likms), hearing 2023-05-22 (YTN, 한겨레, 조선일보 via BigKinds, snapshot verify/bigkinds/bigkinds_2023-05-21_2023-05-23_8261742b2f.json; transcript meeting 052936), report adopted 2023-05-25 (대구신문, 아주경제, OBS via BigKinds, snapshot verify/bigkinds/bigkinds_2023-05-24_2023-05-26_a1b513181d.json), appointed 2023-06-05."
+    ]
+   },
+   "1": {
+    "nominee": "강정애",
+    "status": "confirmed",
+    "checks": [
+     "nomination 2023-12-04 (쿠키뉴스, KBS, 세계일보 via BigKinds, snapshot verify/bigkinds/bigkinds_2023-12-04_2023-12-05_550eb7155b.json), request 2023-12-07 (likms ZZ21178), hearing and report adoption both 2023-12-21 (노컷뉴스, 뉴스핌 via BigKinds, snapshot verify/bigkinds/bigkinds_2023-12-20_2023-12-22_ed83107526.json, likms 처리결과 채택), appointed 2023-12-26."
+    ]
+   },
+   "2": {
+    "nominee": "권오을",
+    "status": "confirmed",
+    "checks": [
+     "nomination 2025-06-23 (충청타임즈, 서울경제, 데일리안 via BigKinds, snapshot verify/bigkinds/bigkinds_2025-06-23_2025-06-23_1353e22693.json), request 2025-06-27 (likms ZZ22055, 처리일 and 처리결과 blank), hearing 2025-07-15 (대구신문 and 광주매일신문 2025-07-15 name 국가보훈부 among that day's four hearings, snapshot verify/bigkinds/bigkinds_2025-07-15_2025-07-15_b339b0d10f.json), report not adopted (조선일보, 대전일보 and 디지털타임스 2025-07-25 call it the first appointment without an adopted report, snapshot verify/bigkinds/bigkinds_2025-07-20_2025-08-05_59eabdce4f.json), appointed 2025-07-25."
+    ]
+   }
+  },
+  "changes": [
+   {
+    "name": "박민식",
+    "field": "end",
+    "old": "2023-12-25",
+    "new": "2023-12-26",
+    "evidence": "korea.kr 이임사 연설일 2023.12.26 ('저는 이제 국가보훈부 장관이라는 막중한 책임을 내려놓습니다') | 헤럴드경제 2023-12-26 '26일 이임식을 갖고 보훈부 장관에서 물러났다' | 뉴스1 2023-12-26 10:46 (successor takes office 'this afternoon') | successor's appointment 관보 제20656호 2023. 12. 26. The builder's 2023-12-25 comes from the MPVA list, which mechanically ends each head the day before the successor starts. The MPVA 역대 장관 page (key=1805) sets each predecessor's last day to the day before the successor's start (2023.12.25, 2025.7.24). Its 역대 처장 page (key=245, builder snapshot roster/sources/veterans/mpva_key245.html) follows the same mechanical rule and is not built from legal dates. It gives '31代 황기철(黃基鐵) 2020.12.31.～2022. 5.13.' and '32代 박민식(朴敏植) 2022. 5.14.～2023. 6. 4.', while 관보 제20255호 prints '박민식(朴敏植) 국가보훈처장(장관급)에 임함 2022. 5. 13.'. Same-day handover coded as in the culture, defense, unification and oceans lineages."
+   },
+   {
+    "name": "박민식",
+    "field": "end_sources",
+    "old": "5 builder sources",
+    "new": "10 sources (5 verifier sources prepended, MPVA entry annotated)",
+    "evidence": "see end change"
+   },
+   {
+    "name": "박민식",
+    "field": "start_sources",
+    "old": "4 builder sources",
+    "new": "7 sources",
+    "evidence": "verifier gazette re-read, korea.kr 취임사 2023.06.05, YTN and 노컷뉴스 2023-06-05 (BigKinds)"
+   },
+   {
+    "name": "박민식",
+    "field": "notes",
+    "old": "End date follows the ministry's official list (2023-12-25) ...",
+    "new": "End date (verifier) is 2023-12-26, a same-day handover ...",
+    "evidence": "see end change"
+   },
+   {
+    "name": "박민식",
+    "field": "transcript_notes",
+    "old": "all inside 2023-06-05..2023-12-25",
+    "new": "all inside 2023-06-05..2023-12-26",
+    "evidence": "re-run by the verifier (veterans_verify_04_transcripts.py)"
+   },
+   {
+    "name": "강정애",
+    "field": "end",
+    "old": "2025-07-24",
+    "new": "2025-07-25",
+    "evidence": "korea.kr 이임사 연설일 2025.07.25 | 연합뉴스 17:30, 한국일보 18:46 and KBS 20:06 on 2025-07-25 report her 이임사 that day | the successor's appointment was only approved around midday on 2025-07-25 (이데일리 12:21, 조선일보 12:38 via BigKinds), so she was still the minister that morning | successor's appointment 관보 제21047호 2025. 7. 25. The builder's 2025-07-24 comes from the MPVA list's day-before-successor convention. The MPVA 역대 장관 page (key=1805) sets each predecessor's last day to the day before the successor's start (2023.12.25, 2025.7.24). Its 역대 처장 page (key=245, builder snapshot roster/sources/veterans/mpva_key245.html) follows the same mechanical rule and is not built from legal dates. It gives '31代 황기철(黃基鐵) 2020.12.31.～2022. 5.13.' and '32代 박민식(朴敏植) 2022. 5.14.～2023. 6. 4.', while 관보 제20255호 prints '박민식(朴敏植) 국가보훈처장(장관급)에 임함 2022. 5. 13.'."
+   },
+   {
+    "name": "강정애",
+    "field": "end_sources",
+    "old": "6 builder sources",
+    "new": "12 sources (6 verifier sources prepended, MPVA entry annotated)",
+    "evidence": "see end change"
+   },
+   {
+    "name": "강정애",
+    "field": "start_sources",
+    "old": "4 builder sources",
+    "new": "7 sources",
+    "evidence": "verifier gazette re-read, korea.kr 취임사 2023.12.26, 아시아투데이 2023-12-25 (BigKinds)"
+   },
+   {
+    "name": "강정애",
+    "field": "notes",
+    "old": "End date follows the ministry's official list (2025-07-24) ...",
+    "new": "End date (verifier) is 2025-07-25, a same-day handover ...",
+    "evidence": "see end change"
+   },
+   {
+    "name": "강정애",
+    "field": "transcript_notes",
+    "old": "all inside 2023-12-26..2025-07-24",
+    "new": "all inside 2023-12-26..2025-07-25",
+    "evidence": "re-run by the verifier"
+   },
+   {
+    "name": "권오을",
+    "field": "start_sources",
+    "old": "4 builder sources",
+    "new": "7 sources",
+    "evidence": "verifier gazette re-read, korea.kr 취임사 2025.07.25, 뉴스핌 2025-07-25 (BigKinds)"
+   },
+   {
+    "name": "권오을",
+    "field": "end_sources",
+    "old": "6 builder sources (in office)",
+    "new": "11 sources",
+    "evidence": "뉴시스 and 뉴스1 2026-09-22 국무회의 photos, 문화일보 2026-09-23 and 2026-09-08, korea.kr 보도자료 2026-07-24 (none used by the builder)"
+   },
+   {
+    "name": "(lineage)",
+    "field": "issues[0]",
+    "old": "End dates of 박민식 (2023-12-25) and 강정애 (2025-07-24) follow the ministry's officia...",
+    "new": "End dates of 박민식 and 강정애 were moved by the verifier from the MPVA list's day-bef...",
+    "evidence": "see end changes"
+   },
+   {
+    "name": "(lineage)",
+    "field": "issues",
+    "old": "8 issues",
+    "new": "9 issues",
+    "evidence": "added the nomination-linkage risk for 박민식 (build_panel.py line 240, finalize.py line 206)"
+   }
+  ]
+ },
+ "built_at_original": "2026-09-25T21:34:26-04:00"
+}

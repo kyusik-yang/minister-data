@@ -1,0 +1,1076 @@
+{
+ "lineage": "sports",
+ "built_at": "2026-09-26T12:51:07-0400",
+ "window": [
+  "1988-02-25",
+  "1998-02-24"
+ ],
+ "ministry_names": [
+  {
+   "ministry": "체육부",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (version effective 1987-01-01, 제29조② 장관은 국무위원으로 보한다, 제35조의2) at window start. The ministry existed from 1982-03-20. Renamed 체육청소년부 by 법률 제4268호, in force on promulgation 1990-12-27.",
+   "source": "offices_1988.json OFA19 체육부 (GOA_3854, GOA_4268, ARCH_OG0017482)"
+  },
+  {
+   "ministry": "체육청소년부",
+   "from": "1990-12-27",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4268호 제29조②, 제35조의3. 국가기록원 dates the ministry to 1991-02-01 (체육청소년부직제, 대통령령 제13284호). Merged with 문화부 into 문화체육부 by 법률 제4541호 and 대통령령 제13869호, both 1993-03-06. 부칙 제2조 of 법률 제4541호 excludes 정무직 from the staff transfer.",
+   "source": "offices_1988.json OFA20 체육청소년부 (GOA_4268, DEC_13284, GOA_4541)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "조상호",
+   "name_hanja": "曺相鎬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1926-11-29",
+   "gender": "M",
+   "ministry": "체육부",
+   "office_title": "체육부장관",
+   "deputy_pm": false,
+   "start": "1987-07-14",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1987-07-14 p.1 \"全(전)대통령 임명장 수여\" (Naver News Library article 1987071400099201012, OCR text: '全斗煥(전두환)대통령은 14일 상오청와대에서 신임 金貞烈(김정렬)국무총리서리를 비롯 鄭寬溶(정관용)내무,鄭鎬溶(정호용)국방,徐明源(서명원)문교,曺相鎬(조상호)체육' (임명장 on the morning of 1987-07-14); POST https://newslibrary.naver.com/api/article/detail/json articleId=1987071400099201012; accessed 2026-09-26T09:08:56-0400; snapshot roster/sources/sports/ext88/articles/nl_1987071400099201012.json)",
+    "한국경제 1987-07-15 \"신임閣僚들에 임명장\" (BigKinds news_id 02100601.19870715190013104, full text: '全斗煥대통령은 14일상오 청와대에서 金貞烈신임국무총리서리를 비롯 鄭寬溶내무, 徐明源문교, 鄭鎬溶국방, 曺相鎬체육' (independent paper, same 임명장 on 1987-07-14); https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19870715190013104&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:32:39-0400; snapshot roster/sources/sports/ext88/articles/bk_02100601.19870715190013104.json)",
+    "경향신문 1987-07-14 p.1 \"總理(총리)에 金貞烈(김정렬)씨\" (Naver News Library article 1987071400329201004, OCR text: '▲체육부장관에 曺相鎬(조상호) 올림픽조직위부위원장을 임명 발령했다' (appointment order issued on the afternoon of 1987-07-13 (全대통령은 13일하오 ... 개각을 단행)); POST https://newslibrary.naver.com/api/article/detail/json articleId=1987071400329201004; accessed 2026-09-26T09:08:52-0400; snapshot roster/sources/sports/ext88/articles/nl_1987071400329201004.json)",
+    "서울신문 1987-07-14 \"새總理 金貞烈씨 「選擧관리」 대폭 改閣 단행\" (BigKinds news_id 01100611.19870714152814001, full text: '체육부장관에 曺相鎬올림픽組織委위원장' (7·13 개각 announced 1987-07-13); https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19870714152814001&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:32:29-0400; snapshot roster/sources/sports/ext88/articles/bk_01100611.19870714152814001.json)",
+    "대통령기록관 연도별 대통령 일정 (전두환 1987), 1987-07-13 '국무총리 김정렬 임명 등 내각 대폭 개편' / '새 내각의 임무는 민주발전 위한 제반 조치를 과감하고 신속히 발전시키는 데 있다고 강조' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=전두환 year=1987; accessed 2026-09-26T09:04:56-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_전두환_1987_p1.html)",
+    "국사편찬위원회 대한민국사연표 1987-07-13 '전두환 대통령, 국무총리 김정렬 임명 등 내각 대폭 개편' (https://db.history.go.kr/id/tcct_1987_07_13_0010; accessed 2026-09-26T09:24:47-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1987_07_13_0010.html)",
+    "교육부 역대 장관 page (문교부 서명원, same 7·13 개각) https://www.moe.go.kr/mnstrHistory.do, row '서명원 1987-07-14 ~ 1988-02-24' (tier 2, same reshuffle, cited for the reshuffle's legal date; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/sports/ext88/articles/ministry_moe.html)",
+    "행정안전부 총무처 역대 장관 page (총무처 장기오, same 7·13 개각) https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do, row '장기오 1987년 7월 14일 ~ 1988년 2월 24일' (tier 2, same reshuffle, cited for the reshuffle's legal date; accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/sports/ext88/articles/ministry_mois_govadmin.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '6대 조상호(曺相鎬) 1987년 7월 14일 ~ 1988년 12월 4일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '이에앞서 盧(노)대통령은 金貞烈(김정렬)총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다' (resignations of the whole 5th-republic cabinet accepted on 1988-02-25, before the new 임명장); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500099201010; accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022500099201010.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text: '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다' (independent paper, same acceptance on 1988-02-25); https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/sports/ext88/articles/bk_01100901.19880225005009001.json)",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '金貞烈(김정렬)국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다' (accepted on the morning of 1988-02-25); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022600239101004; accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022600239101004.json)",
+    "동아일보 1988-02-24 p.1 \"國務委員(국무위원) 일괄사표\" (Naver News Library article 1988022400209201012, OCR text: '이날 국무회의가 끝난뒤 金貞烈(김정렬)국무총리를 비롯,전국무위원은 일괄사표를제출했다' (resignations handed in on 1988-02-24); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022400209201012; accessed 2026-09-26T09:09:55-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022400209201012.json)",
+    "한국경제 1988-02-25 \"[動靜]\" (BigKinds news_id 02100601.19880225193104106, full text: '曺相鎬체육부장관은 24일 하오 지오바니 프란디니 이탈리아 海務장관의 예방을 받고' (still acting as 체육부장관 on the afternoon of 1988-02-24); https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880225193104106&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T12:48:59-0400; snapshot roster/sources/sports/ext88/articles/bk_02100601.19880225193104106.json)",
+    "동아일보 1988-02-19 p.2 \"「落點(낙점)」뒤 保安(보안)신경…철저한 함구령\" (Naver News Library article 1988021900209202004, OCR text: '설사 현역장관이 다시 기용되더라도 그는 2월25일 0시부로 임기가 끝나고 새로 임명장을 받는것이므로「유임」이 아니라「재기용」이라고 해야 옳다' (contemporary reading that a retained minister's term ended and he received a new 임명장); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988021900209202004; accessed 2026-09-26T09:09:51-0400; snapshot roster/sources/sports/ext88/articles/nl_1988021900209202004.json)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '6대 조상호 ... ~ 1988년 12월 4일 (one row, the table does not split the 1988-02-25 reappointment)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "전두환 appointee (7·13 개각 of 1987) still in office on 1988-02-25, the caretaker part of his tenure. The appointment order was issued on the afternoon of 1987-07-13 (경향신문 1987-07-14 '임명 발령') and the 임명장 was handed over on the morning of 1987-07-14. Start uses 07-14, the 임명장 date that the ministry pages of the same reshuffle print (교육부 서명원 1987-07-14, 총무처 장기오 1987-07-14) and that Wikipedia gives. With the whole 김정렬 cabinet he handed in his resignation after the last 5th-republic 국무회의 on 1988-02-24 (동아일보 1988-02-24), and he was still receiving visitors as 체육부장관 that afternoon (한국경제 1988-02-25 동정). 노태우 accepted the resignations on the morning of 1988-02-25 before giving the new cabinet its 임명장, so this spell ends on 1988-02-25 (end_reason resigned) and the 노태우 spell starts the same day. The split follows the cross-lineage convention for the seven ministers reappointed (재기용) on 1988-02-25 (justice, interior, finance and foreign ext88 files) and the contemporary reading that a retained minister received a new 임명장 rather than being 유임 (동아일보 1988-02-19 p.2). Former 10th-Assembly member (유신정우회, per ko.wikipedia), not a sitting member in 1987-1988 (not in na_members_12_22.csv). No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EC%A1%B0%EC%83%81%ED%98%B8%20%281926%EB%85%84%29, accessed 2026-09-26T09:24:34-0400), so name_en is null. Birth date and gender come from ko.wikipedia '조상호 (1926년)' https://ko.wikipedia.org/w/index.php?oldid=39377872 (birth field '1926년 11월 29일', accessed 2026-09-26T09:24:33-0400, snapshot roster/sources/sports/ext88/persons/kowiki_조상호.json, secondary) and Wikidata Q19941130 (P21 male, P569 1926-11-29, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary)."
+  },
+  {
+   "name": "조상호",
+   "name_hanja": "曺相鎬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1926-11-29",
+   "gender": "M",
+   "ministry": "체육부",
+   "office_title": "체육부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article 1988021900209201003, OCR text: '체육 曺相鎬(조상호)건설 崔同燮(최동섭) 체신 吳明(오명)장관등 7개부처장관이 재기용됐으며' (named by the president-elect on 1988-02-19 as one of seven 재기용 ministers); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988021900209201003; accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/sports/ext88/articles/nl_1988021900209201003.json)",
+    "한국일보 1988-02-20 \"16部處 신규·7部處 再起用\" (BigKinds news_id 01101101.19880220092404102, full text: '崔侊洙외무·李相熙내무·司空壹재무·丁海昌법무·曺相鎬체육·崔同燮건설·吳明체신부장관 등 7개 부처 장관은 재기용했다' (independent paper, same announcement); https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880220092404102&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T12:48:51-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19880220092404102.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다' (the 23 국무위원 of the new list, the seven 재기용 ministers included, received 임명장 on the morning of 1988-02-25); https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/sports/ext88/articles/bk_01100901.19880225005009001.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '盧泰愚(노태우)대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰(이현재)신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500099201010; accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022500099201010.json)",
+    "경향신문 1988-02-26 p.4 \"\"閣下(각하)\"없애고 本人(본인) 대신\"제가…\"\" (Naver News Library article 1988022600329204002, OCR text: '상오11시40분 청와대 본관대접견실에서 있은 신임각료및 수석비서관임명장 수여식에서' (임명장 at 11:40 on 1988-02-25); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022600329204002; accessed 2026-09-26T09:05:44-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022600329204002.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1988_p1.html)",
+    "국사편찬위원회 대한민국사연표 1988-02-19 '노태우 차기대통령, 부총리 나웅배 등 새 정부 첫 내각 발표' (https://db.history.go.kr/id/tcct_1988_02_19_0010; accessed 2026-09-26T09:24:54-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1988_02_19_0010.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '6대 조상호(曺相鎬) 1987년 7월 14일 ~ 1988년 12월 4일 (one row covering both spells)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '李賢宰(이현재)국무총리를 비롯한 全(전)국무위원들은이날상오 임시국무회의를소집,盧(노)대통령에게 일괄사표를 제출했으며 盧(노)대통령은 신임姜(강)총리서리와 새각료들에게 임명장을 주었' (whole cabinet resigned on the morning of 1988-12-05, successors given 임명장 the same day); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120500329201003.json)",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '▲체육 金潗(김집) 대한체육회부회장' (successor named 1988-12-05); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120500329201003.json)",
+    "한국일보 1988-12-06 \"政局往來\" (BigKinds news_id 01101101.19881206102907110, full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여' (successors' 임명장 at 16:00 on 1988-12-05); https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102907110&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19881206102907110.json)",
+    "조선일보 1988-12-06 p.11 \"\"이번 改閣(개각)은 올림픽 승진\"\" (Naver News Library article 1988120600239111004, OCR text: '그러나 당시 체육부장관이던 曺相鎬(조상호)씨와 체육회장이던 金宗河(김종하)씨가 제외된데대해선' (left the cabinet in the 12·5 개각); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120600239111004; accessed 2026-09-26T09:29:56-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120600239111004.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1988_p1.html)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' (https://db.history.go.kr/id/tcct_1988_12_05_0010; accessed 2026-09-26T08:40:49-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1988_12_05_0010.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '6대 조상호 ... ~ 1988년 12월 4일 (day-before-successor convention)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "Reappointed (재기용) in the first 노태우 cabinet. The president-elect named him on 1988-02-19 as one of seven sitting ministers kept (동아일보 1988-02-19, 한국일보 and 서울신문 1988-02-20), and after the 5th-republic cabinet's resignations were accepted on the morning of 1988-02-25 he received a new 임명장 with the other 국무위원 at 11:40 that day (중앙일보 1988-02-25, 경향신문 1988-02-26, 대통령기록관 일정 1988-02-25). He sat in the 노태우 cabinet as 체육장관 (경향신문 1988-03-04 국무회의 report, 서울신문 1988-03-11 업무보고 on 1988-03-10). At the end of the spell the whole cabinet tendered resignations on the morning of 1988-12-05, and 김집 received his 임명장 at 16:00 that afternoon. ko.wikipedia shows one row for both spells, 1987-07-14 to 1988-12-04. No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EC%A1%B0%EC%83%81%ED%98%B8%20%281926%EB%85%84%29, accessed 2026-09-26T09:24:34-0400), so name_en is null. Birth date and gender come from ko.wikipedia '조상호 (1926년)' https://ko.wikipedia.org/w/index.php?oldid=39377872 (birth field '1926년 11월 29일', accessed 2026-09-26T09:24:33-0400, snapshot roster/sources/sports/ext88/persons/kowiki_조상호.json, secondary) and Wikidata Q19941130 (P21 male, P569 1926-11-29, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary)."
+  },
+  {
+   "name": "김집",
+   "name_hanja": "金潗",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1926-12-15",
+   "gender": "M",
+   "ministry": "체육부",
+   "office_title": "체육부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '▲체육 金潗(김집) 대한체육회부회장' (named and given the 임명장 on 1988-12-05); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120500329201003.json)",
+    "한겨레 1988-12-07 p.9 \"체육상 경기부문 여자핸드볼\" (Naver News Library article 1988120700289109004, OCR text: '김씨가 이날 체육부장관으로임명됨에 따라' (이날 = 1988-12-05); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120700289109004; accessed 2026-09-26T09:30:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120700289109004.json)",
+    "한국일보 1988-12-06 \"政局往來\" (BigKinds news_id 01101101.19881206102907110, full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102907110&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19881206102907110.json)",
+    "서울신문 1988-12-06 \"새總理 姜英勳씨\" (BigKinds news_id 01100611.19881206160851003, full text: '▲체육 金潗대한체육회훈련원장'; https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160851003&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:32:51-0400; snapshot roster/sources/sports/ext88/articles/bk_01100611.19881206160851003.json)",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article 1988120500209201032, OCR text: '盧(노)대통령은 이날낮 신임姜(강)총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500209201032; accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120500209201032.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1988_p1.html)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' (https://db.history.go.kr/id/tcct_1988_12_05_0010; accessed 2026-09-26T08:40:49-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1988_12_05_0010.html)",
+    "교육부 역대 장관 page (문교부 정원식, same 12·5 개각) https://www.moe.go.kr/mnstrHistory.do, row '정원식 1988-12-05 ~ 1990-12-26' (tier 2, same reshuffle, cited for the reshuffle's legal date; accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/sports/ext88/articles/ministry_moe.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '7대 김집(金潗) 1988년 12월 5일 ~ 1990년 3월 18일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end": "1990-03-19",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "조선일보 1990-03-18 p.13 \"스포츠 게시판\" (Naver News Library article 1990031800239113002, OCR text: '金潗(김집)체육부장관은 17일 체육부강당 15층에서 전직원들이 참석한 가운데 이임식을가졌다' (이임식 on 1990-03-17); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031800239113002; accessed 2026-09-26T09:30:19-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031800239113002.json)",
+    "조선일보 1990-03-17 p.1 \"오늘 오전 改閣(개각) 발표\" (Naver News Library article 1990031700239101001, OCR text: '새 내각의 각료에 대한 임명장 수여식은 19일 오전 청와대에서 있을 예정이다' (cabinet resignations tendered on 1990-03-16, successors' 임명장 set for 1990-03-19); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700239101001; accessed 2026-09-26T09:30:43-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031700239101001.json)",
+    "동아일보 1990-03-19 p.1 \"經濟難(경제난)-民生治安(민생치안)해결 당부\" (Naver News Library article 1990031900209201005, OCR text: '盧泰愚(노태우)대통령은 19일 오전靑瓦臺(청와대)에서 3.17개각으로입각한 李承潤(이승윤)부총리등 신임각료에게 임명장을 주고' (successor's legal start 1990-03-19); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005; accessed 2026-09-26T09:30:28-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031900209201005.json)",
+    "한국일보 1990-03-20 \"“민심 쇄신정책 과감히 추진” 노대통령,신임 각료등에 임명장 수여\" (BigKinds news_id 01101101.19900320000000104, full text: '노태우대통령은 19일 상오 청와대에서 신임각료와 청와대 비서실장 등 장관급비서관등과 간담회를 갖고' (the same article ends '노대통령은 신임장관들에게 임명장을 수여했다'); https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000104&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:29:52-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19900320000000104.json)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '7대 김집 ... ~ 1990년 3월 18일 (day-before-successor convention)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "Named in the 12·5 개각 of 1988 and given the 임명장 at 16:00 on 1988-12-05 (한국일보 1988-12-06), 취임식 1988-12-06 (조선일보 1988-12-07). Replaced in the 3·17 개각 of 1990. The cabinet tendered resignations on 1990-03-16, the reshuffle was announced on 1990-03-17 and he held his 이임식 that day (조선일보 1990-03-18). His 면직 date was not found. The successor's 임명장 was given on 1990-03-19, so end is set to that day (inferred_from_successor, same-day handover convention). Wikipedia gives 1990-03-18. Former 12th-Assembly member (민주정의당 전국구, 1985-04-11..1988-05-29, na_members_12_22.csv mona_cd 1Q092210), not sitting at appointment (ko.wikipedia says 제11대 instead). No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EA%B9%80%EC%A7%91%20%281926%EB%85%84%29, accessed 2026-09-26T09:24:35-0400), so name_en is null. Birth date and gender come from na_members/na_members_12_22.csv (mona_cd 1Q092210, 金潗, birth 1926-12-15, gender 남), ko.wikipedia '김집 (1926년)' https://ko.wikipedia.org/w/index.php?oldid=39439374 (birth field '[[1926년]] [[12월 15일]]', accessed 2026-09-26T09:24:34-0400, snapshot roster/sources/sports/ext88/persons/kowiki_김집.json, secondary) and Wikidata Q27953240 (P21 male, P569 1926-12-15, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary)."
+  },
+  {
+   "name": "정동성",
+   "name_hanja": "鄭東星",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-07-08",
+   "gender": "M",
+   "ministry": "체육부",
+   "office_title": "체육부장관",
+   "deputy_pm": false,
+   "start": "1990-03-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1990-03-19 p.1 \"經濟難(경제난)-民生治安(민생치안)해결 당부\" (Naver News Library article 1990031900209201005, OCR text: '盧泰愚(노태우)대통령은 19일 오전靑瓦臺(청와대)에서 3.17개각으로입각한 李承潤(이승윤)부총리등 신임각료에게 임명장을 주고'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005; accessed 2026-09-26T09:30:28-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031900209201005.json)",
+    "조선일보 1990-03-20 p.15 \"鄭東星(정동성)체육장관 취임\" (Naver News Library article 1990032000239115002, OCR text: '鄭東星(정동성) 신임체육부장관 취임식이 19일 오전10시30분체육부 회의실에서 열렸다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990032000239115002; accessed 2026-09-26T09:30:35-0400; snapshot roster/sources/sports/ext88/articles/nl_1990032000239115002.json)",
+    "동아일보 1990-03-17 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article 1990031700209201001, OCR text: '체육부장관에는 鄭東星(정동성)(民正(민정)계)' (named in the 3·17 개각, announced 1990-03-17); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209201001; accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031700209201001.json)",
+    "서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds news_id 01100611.20160420190235310, full text: '체육장관에 정동성 민자당의원' (named 1990-03-17); https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:25:41-0400; snapshot roster/sources/sports/ext88/articles/bk_01100611.20160420190235310.json)",
+    "세계일보 1990-03-18 \"15부처 장관 경질/대폭 개각 단행\" (BigKinds news_id 01100701.19900318000000101, full text: '▲체육 정동성민자당의원'; https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900318000000101&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:34:07-0400; snapshot roster/sources/sports/ext88/articles/bk_01100701.19900318000000101.json)",
+    "국사편찬위원회 대한민국사연표 1990-03-17 '노태우 대통령, 15개 부처 장관 교체' (https://db.history.go.kr/id/tcct_1990_03_17_0010; accessed 2026-09-26T09:05:51-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1990_03_17_0010.html)",
+    "행정안전부 총무처 역대 장관 page (총무처 이연택, same 3·17 개각) https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do, row '이연택 1990년 3월 19일 ~ 1991년 12월 19일' (tier 2, same reshuffle, cited for the reshuffle's legal date; accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/sports/ext88/articles/ministry_mois_govadmin.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '8대 정동성(鄭東星) 1990년 3월 19일 ~ 1990년 12월 26일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)"
+   ],
+   "end": "1990-12-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1990-12-28 p.10 \"영광과 좌절…90 韓國(한국) 스포츠 明暗(명암)\" (Naver News Library article 1990122800329210001, OCR text: '27일 있었던 개각에서 鄭東星(정동성)체육부장관이 물러가고朴哲彥(박철언)장관이 초대 체육청소년부장관으로 임명됨으로써'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800329210001; accessed 2026-09-26T09:30:55-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122800329210001.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122800239101002, OCR text: '盧(노)대통령은 이날 오후 신임盧(노)총리서리를 비롯,새 각료들에게 임명장을 수여했으며' (이날 = 1990-12-27); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122800239101002.json)",
+    "한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19901228000000102.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), 1990-12-27 '국무총리 임명' / '국무총리 노재봉, 통일원장관 최호중 등 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1990; accessed 2026-09-26T09:04:39-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1990_p1.html)",
+    "ko.wikipedia '대한민국 체육부' https://ko.wikipedia.org/w/index.php?oldid=39492490 (revid 39492490), row '8대 정동성 ... ~ 1990년 12월 26일 (day-before-successor convention)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육부.json)",
+    "[verifier 2026-09-26] 정부조직법 법률 제4268호 (promulgated and in force 1990-12-27), law.go.kr text via https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227 (human page https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227), accessed 2026-09-26T08:33:46-0400, snapshot inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json (tier 1) [quote: '제1조 (시행일) 이 법은 공포한 날로부터 시행한다.'] [summary: 법률 제4268호 took effect on promulgation, 1990-12-27. The 단서 of 부칙 제1조 does not cover 제29조, whose amendment reads '\"체육부\"를 \"체육청소년부\"로 한다', so the name 체육부 ended on 1990-12-26]",
+    "[verifier 2026-09-26] 조선일보 1990-12-27 p.4 '姜(강)총리 改閣(개각)보도 一笑(일소)' (Naver News Library article 1990122700239104004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700239104004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700239104004, accessed 2026-09-26T13:31:12-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700239104004.json) [quote: '첫날인26일에는 통일원장관을 부총리로 격상시키는 정부조직법개정안공포등 공포안건 39건과'] [summary: the 국무회의 of 26 Dec 1990 cleared the promulgation of the 정부조직법 amendment, which was promulgated on 27 Dec]",
+    "[verifier 2026-09-26] 동아일보 1990-12-27 p.1 '총리에 盧在鳳(노재봉)씨' (Naver News Library article 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700209201001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700209201001.json) [quote: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고 10개부처와 청와대비서진을 개편하는등 대대적인 정부인사를단행했다.'] [summary: 12·27 개각 on the morning of 27 Dec 1990. The same story names '체육청소년부장관에 朴哲彥民自黨의원을', i.e. the successor was appointed to the renamed office]",
+    "[verifier 2026-09-26] 경향신문 1990-12-27 p.2 '「紙上(지상)발령」에 앞당겨 斷行(단행)' (Naver News Library article 1990122700329202001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700329202001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329202001, accessed 2026-09-26T09:31:06-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700329202001.json) [quote: '재임9개월의 짧은기간이지만 마사회이관,남북통일축구등 큼직한 일들을해낸 鄭東星장관에겐 아쉽다는 표정.'] [summary: 정동성 replaced on 27 Dec after nine months]",
+    "[verifier 2026-09-26] 부산일보 1990-12-27 '\"南北체육 교류 확대할 터\"' (BigKinds news_id 01500701.19901227201604104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201604104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:48:05-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01500701.19901227201604104.json) [quote: '정동성(鄭東星)전 장관과 만나 모든 업무를 논의하겠다고 말했다.'] [summary: 부산일보 of 27 Dec 1990 already calls him the former minister]",
+    "[verifier 2026-09-26] 서울신문 1990-12-28 '「12·27 개각」 정가·관가 표정' (BigKinds news_id 01100611.20160421001333355, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001333355&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:37-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.20160421001333355.json) [quote: '정동성 장관의 잦은 경질설로 이번 개각에서 장관이 바뀔 것으로 보아온 체육부는'] [summary: 서울신문 of 28 Dec 1990 on his replacement]",
+    "[verifier 2026-09-26] Namu Wiki '문화체육관광부장관' https://namu.wiki/w/%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EB%B6%80%EC%9E%A5%EA%B4%80 (Playwright text, accessed 2026-09-25T13:58:54-0400, snapshot roster/sources/sports/ext88_verify/web/namu_문화체육관광부장관.txt, secondary) [quote: '8대 / 정동성(鄭東星) / 1990년 3월 19일 ~ 1990년 12월 26일'] [summary: secondary list, end 1990-12-26]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 13th NA member at appointment (민주정의당 at election, 경기 여주, seat 1988-05-30..1992-05-29), na_members_12_22.csv mona_cd VFP5558B",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "Named in the 3·17 개각 of 1990 (announced 1990-03-17, a Saturday). The 임명장 was given on the morning of 1990-03-19 and the 취임식 followed at 10:30 that day. Start uses 03-19, the 임명장 date also printed by the ministry pages for the same reshuffle (총무처 이연택 1990-03-19). Replaced in the 12·27 개각 of 1990, when the successor was named and given the 임명장 in the afternoon of 1990-12-27. His own 면직 date was not found, so end is the successor's appointment day (same-day handover). Wikipedia gives 1990-12-26. The same day 법률 제4268호 renamed the ministry 체육청소년부, so his spell runs one day past the 체육부 period in offices_1988.json (to 1990-12-26). His 13th-Assembly seat ran to 1992-05-29 with exit term_end in na_members_12_22.csv, so he held it while minister. No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EC%A0%95%EB%8F%99%EC%84%B1, accessed 2026-09-26T09:24:36-0400), so name_en is null. Birth date and gender come from na_members/na_members_12_22.csv (mona_cd VFP5558B, 鄭東星, birth 1939-07-08, gender 남), ko.wikipedia '정동성' https://ko.wikipedia.org/w/index.php?oldid=42023406 (birth field '{{출생일|1939|7|8}}', accessed 2026-09-26T09:24:35-0400, snapshot roster/sources/sports/ext88/persons/kowiki_정동성.json, secondary) and Wikidata Q19941038 (P21 male, P569 1939-07-08, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary). [verifier 2026-09-26] End corrected from 1990-12-27 to 1990-12-26. 법률 제4268호 took effect on its promulgation on 1990-12-27 and renamed 체육부 to 체육청소년부 (제29조, not covered by the 단서 of 부칙 제1조). His successor was appointed to the renamed office that day, so, as for 정원식 (education.ext88) and 홍성철 (unification.ext88) at the same law and for 이돈희 at the 2001 rename in the main education file, the spell ends on the last legal day of 체육부 and no continuation spell in 체육청소년부 is created. He may have nominally held the renamed office for part of 1990-12-27 before the reshuffle, the builder's value, which is kept in verification.disputes."
+  },
+  {
+   "name": "박철언",
+   "name_hanja": "朴哲彦",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1942-08-05",
+   "gender": "M",
+   "ministry": "체육청소년부",
+   "office_title": "체육청소년부장관",
+   "deputy_pm": false,
+   "start": "1990-12-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122700099201001, OCR text: '청소년체육부(前(전)체육부)장관에 朴哲彥民自黨(박철언민자당)의원' (임명·발령 on 1990-12-27, title as printed); POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700099201001; accessed 2026-09-26T09:08:13-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122700099201001.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122800239101002, OCR text: '盧(노)대통령은 이날 오후 신임盧(노)총리서리를 비롯,새 각료들에게 임명장을 수여했으며'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800239101002; accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122800239101002.json)",
+    "경향신문 1990-12-28 p.10 \"영광과 좌절…90 韓國(한국) 스포츠 明暗(명암)\" (Naver News Library article 1990122800329210001, OCR text: '朴哲彥(박철언)장관이 초대 체육청소년부장관으로 임명됨으로써'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800329210001; accessed 2026-09-26T09:30:55-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122800329210001.json)",
+    "한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19901228000000102.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), 1990-12-27 '국무총리 임명' / '국무총리 노재봉, 통일원장관 최호중 등 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1990; accessed 2026-09-26T09:04:39-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1990_p1.html)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' (https://db.history.go.kr/id/tcct_1990_12_27_0010; accessed 2026-09-26T09:13:55-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1990_12_27_0010.html)",
+    "ko.wikipedia '대한민국 체육청소년부' https://ko.wikipedia.org/w/index.php?oldid=39111479 (revid 39111479), row '9대 박철언(朴哲彦) 1990년 12월 27일 ~ 1991년 12월 19일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육청소년부.json)"
+   ],
+   "end": "1991-12-20",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1991-12-20 p.3 \"\"예상보다小幅(소폭)\"…官街(관가)차분\" (Naver News Library article 1991122000209203005, OCR text: '그러나 떠나는 朴哲彥(박철언)장관이 이미 청소년기본법경륜경정법등을 통과시키고' (replaced in the 12·19 개각); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209203005; accessed 2026-09-26T09:29:16-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000209203005.json)",
+    "동아일보 1991-12-19 p.1 \"7部(부)장관更迭(경질)\" (Naver News Library article 1991121900209201001, OCR text: '체육청소년부장관에 李鎭三(이진삼)전육군참모총장' (successor named on the afternoon of 1991-12-19); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991121900209201001; accessed 2026-09-26T09:31:27-0400; snapshot roster/sources/sports/ext88/articles/nl_1991121900209201001.json)",
+    "매일경제 1991-12-20 p.2 \"盧(노) 대통령 신임 장관에 임명장\" (Naver News Library article 1991122000099202020, OCR text: '盧泰愚(노태우)대통령은 20일 오전 청와대에서 신임 崔世昌(최세창)국방 李秀正(이수정)문화 李鎭三(이진삼)체육청소년' (successor's 임명장 on 1991-12-20); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000099202020; accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000099202020.json)",
+    "부산일보 1991-12-21 \"“바르셀로나 남북단일팀 구성 최선”\" (BigKinds news_id 01500701.20160408195301787, full text: '오전 9시30분 청와대에서 임명장을 받은 이장관은' (successor's 임명장 at 09:30 on 1991-12-20); https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160408195301787&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:47-0400; snapshot roster/sources/sports/ext88/articles/bk_01500701.20160408195301787.json)",
+    "ko.wikipedia '대한민국 체육청소년부' https://ko.wikipedia.org/w/index.php?oldid=39111479 (revid 39111479), row '9대 박철언 ... ~ 1991년 12월 19일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육청소년부.json)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (revid 41095050), row '제9대 박철언 1990년 12월 27일 / 1991년 12월 18일' (secondary; accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_문화체육관광부_장관.json)",
+    "[verifier 2026-09-26] 동아일보 1991-12-20 p.3 '核心(핵심)개편유보「모호한 補閣(보각)」' (Naver News Library article 1991122000209203003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209203003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203003, accessed 2026-09-26T10:14:30-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122000209203003.json) [quote: '朴哲彥체육청소년부장관과 李衍澤총무처장관의 경질은 14대총선에서 大邱壽城區와 全北全州에서 각각 출마할 뜻을 굳혔기 때문에 오래전부터 예상돼왔다.'] [summary: replaced because he would run in 대구 수성구 at the 14th general election (동아일보 p.3 analysis, a different story from the builder's p.3 item)]",
+    "[verifier 2026-09-26] 한겨레 1991-12-20 '7개부처 장관 경질' (BigKinds news_id 01101001.19911220000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19911220000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:55:58-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19911220000000104.json) [quote: '이번 개각에서 물러난 박철언 체육청소년부 장관과 이연택 총무처장관은 총선에서 민자당 공천으로 지역구에 출마할 예정이다.'] [summary: 한겨레 of 20 Dec 1991: he left the cabinet to stand for a 지역구 seat]",
+    "[verifier 2026-09-26] 경향신문 1991-12-19 '개각 금명 단행/부총리 포함 5∼6개부처 경질' (BigKinds news_id 01100101.19911219000000103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19911219000000103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:47:57-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100101.19911219000000103.json) [quote: '이번 개각에서 14대 총선에 출마하는 최각규 부총리,박철언 체육청소년부장관,이연택 총무처장관과 이봉서 상공부장관 등 5∼6개 부처의 장관이 경질될 것으로 전해졌다.'] [summary: 경향신문 of 19 Dec 1991, before the reshuffle]",
+    "[verifier 2026-09-26] 중앙일보 1991-12-20 '신·구 체육장관 「포부와 감회」' (BigKinds news_id 01100901.19911220070201001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19911220070201001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:38-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19911220070201001.json) [quote: '정계일선에 나가더라도 체육청소년부가'] [summary: his own farewell words refer to going into front-line politics]",
+    "[verifier 2026-09-26] na_members/na_members_12_22.csv row term 14, mona_cd DQE3331P (박철언 朴哲彦, 민주자유당, 대구 수성구갑, 지역구, seat 1992-05-30..1994-06-28, row sources NA-API 의원이력, NA-API ALLNAMEMBER, kowiki list oldid=40331547, kowiki 의석변동 oldid=41819802) [summary: he ran in the 14th general election of 1992-03-24 and won 대구 수성구갑]"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 13th NA member at appointment (민주정의당 전국구 at election, seat 1988-05-30..1992-05-29), na_members_12_22.csv mona_cd DQE3331P",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "First head of 체육청소년부. Named in the 12·27 개각 of 1990 (announced that morning) and given the 임명장 in the afternoon of 1990-12-27, the day 법률 제4268호 took effect and renamed 체육부 to 체육청소년부 (offices_1988.json OFA20). The press used several titles that week. 동아일보, 경향신문 and 한겨레 wrote 체육청소년부장관, 매일경제 '청소년체육부(前체육부)장관', and 경향신문 1990-12-28 reports that at his 취임식 on 1990-12-28 he stressed becoming first minister of the 체육청소년부 'born on 1991-01-01'. 국가기록원 dates the new ministry to 1991-02-01 (직제). Office title follows the statute (see issues). He kept his 전국구 seat, per 매일경제 1990-12-28 p.2 \"朴哲彥(박철언) 체육장관 議員職(의원직) 사퇴안해\" (Naver News Library article 1990122800099202010, OCR text: '전국구의원직을사퇴하지 않겠다는 입장을밝혔다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800099202010; accessed 2026-09-26T09:44:12-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122800099202010.json). Replaced in the 12·19 개각 of 1991. His 면직 date was not found, so end is the successor's 임명장 day (1991-12-20). The two Wikipedia tables give 1991-12-19 and 1991-12-18. No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EB%B0%95%EC%B2%A0%EC%96%B8, accessed 2026-09-26T09:24:37-0400), so name_en is null. Birth date and gender come from na_members/na_members_12_22.csv (mona_cd DQE3331P, 朴哲彦, birth 1942-08-05, gender 남), ko.wikipedia '박철언' https://ko.wikipedia.org/w/index.php?oldid=42434102 (birth field '{{출생일과 만나이|1942|8|5}}', accessed 2026-09-26T09:24:36-0400, snapshot roster/sources/sports/ext88/persons/kowiki_박철언.json, secondary) and Wikidata Q12597255 (P21 male, P569 1942-08-05, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary). [verifier 2026-09-26] end_reason corrected from 'replaced' to 'resigned_to_run'. The press of 19-20 Dec 1991 reported that he left the cabinet in the 12·19 개각 because he would stand for a 지역구 seat in the 14th general election (동아일보 1991-12-20 p.3, 한겨레 1991-12-20, 경향신문 1991-12-19). He ran in 대구 수성구갑 on 1992-03-24 and won (na_members_12_22.csv, 14th term from 1992-05-30). 이연택 (general_affairs.ext88), who left in the same reshuffle to run in 전주, is coded the same way. The end date stays on the successor's 임명장 day, 1991-12-20."
+  },
+  {
+   "name": "이진삼",
+   "name_hanja": "李鎭三",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-02-10",
+   "gender": "M",
+   "ministry": "체육청소년부",
+   "office_title": "체육청소년부장관",
+   "deputy_pm": false,
+   "start": "1991-12-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1991-12-20 p.2 \"盧(노) 대통령 신임 장관에 임명장\" (Naver News Library article 1991122000099202020, OCR text: '盧泰愚(노태우)대통령은 20일 오전 청와대에서 신임 崔世昌(최세창)국방 李秀正(이수정)문화 李鎭三(이진삼)체육청소년'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000099202020; accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000099202020.json)",
+    "부산일보 1991-12-21 \"“바르셀로나 남북단일팀 구성 최선”\" (BigKinds news_id 01500701.20160408195301787, full text: '오전 9시30분 청와대에서 임명장을 받은 이장관은' (임명장 09:30 and 취임식 11:00 on 1991-12-20); https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160408195301787&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:47-0400; snapshot roster/sources/sports/ext88/articles/bk_01500701.20160408195301787.json)",
+    "동아일보 1991-12-19 p.1 \"7部(부)장관更迭(경질)\" (Naver News Library article 1991121900209201001, OCR text: '盧泰愚(노태우)대통령은 19일오후 개각을 단행,국방 상공건설 체육청소년 문화 총무처 정무제2장관등 7명을 경질했다' (announcement 1991-12-19); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991121900209201001; accessed 2026-09-26T09:31:27-0400; snapshot roster/sources/sports/ext88/articles/nl_1991121900209201001.json)",
+    "세계일보 1991-12-20 \"7부장관 경질\" (BigKinds news_id 01100701.19911220000000101, full text: '체육청소년장관에는 이진삼전육군참모총장' (named 1991-12-19); https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19911220000000101&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:27-0400; snapshot roster/sources/sports/ext88/articles/bk_01100701.19911220000000101.json)",
+    "국사편찬위원회 대한민국사연표 1991-12-19 '노태우 대통령, 국방부장관 등 7개 부처장관 경질' (https://db.history.go.kr/id/tcct_1991_12_19_0010; accessed 2026-09-26T09:24:56-0400; snapshot roster/sources/sports/ext88/chronology/tcct_1991_12_19_0010.html)",
+    "문화체육관광부 역대 장관 page, 문화부 tab (이수정, same 12·19 개각) https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, row '이수정 1991.12.20.~1993.02.25.' (tier 2, same reshuffle, cited for the reshuffle's legal date; accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/sports/ext88/articles/ministry_mcst_munhwa.html)",
+    "ko.wikipedia '대한민국 체육청소년부' https://ko.wikipedia.org/w/index.php?oldid=39111479 (revid 39111479), row '10대 이진삼(李鎭三) 1991년 12월 19일 ~ 1993년 2월 25일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육청소년부.json)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1993-02-27 p.23 \"動資(동자)-體靑部(체청부) \"우리 앞날 어떻게 되나\"\"\" (Naver News Library article 1993022700209223002, OCR text: '李鎭三(이진삼)체청부장관이 26일 퇴임한후 새로 출범한 내각에서 장관이 임명되지않은 두 부처는'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700209223002; accessed 2026-09-26T09:21:06-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022700209223002.json)",
+    "매일경제 1993-02-27 p.2 \"장관없는 部處(부처)로 남아\" (Naver News Library article 1993022700099202016, OCR text: '총무처는 앞으로 폐지될 동자부 체육청소년부장관이 의원면직됨에 따라 정부조직법이공포돼 최종확정될 때까지 차관이 직무대리로업무를 수행하게 된다고유권해석'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700099202016; accessed 2026-09-26T09:21:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022700099202016.json)",
+    "매일경제 1993-02-26 p.13 \"李鎭三(이진삼)체육 이임\" (Naver News Library article 1993022600099213011, OCR text: '李鎭三(이진삼) 체육청소년부장관이 26일 오후 체육청소년부 회의실에서 이임식을가졌다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600099213011; accessed 2026-09-26T09:31:34-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022600099213011.json)",
+    "조선일보 1993-02-27 p.17 \"「마지막 체청부」고별식 李(이)진삼장관,14개월만에 퇴임\" (Naver News Library article 1993022700239117009, OCR text: '李鎭三(이진삼) 체육청소년부 장관의 이임식이 26일 정부종합청사 15층 회의실서'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700239117009; accessed 2026-09-26T09:31:43-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022700239117009.json)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1993; accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_김영삼_1993_p1.html)",
+    "ko.wikipedia '대한민국 체육청소년부' https://ko.wikipedia.org/w/index.php?oldid=39111479 (revid 39111479), row '10대 이진삼 ... ~ 1993년 2월 25일' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육청소년부.json)",
+    "[verifier 2026-09-26] 충청투데이 1993-02-27 '李진삼 體靑部장관 이임식' (BigKinds news_id 01400701.19930227124057103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01400701.19930227124057103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:44-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01400701.19930227124057103.json) [quote: '李鎭三 체육청소년부장관의 이임식이 26일 오후2시'] [summary: 이임식 at 14:00 on 26 Feb 1993 (충청투데이)]",
+    "[verifier 2026-09-26] 경향신문 1993-02-27 p.19 '李鎭三(이진삼)장관 이임식' (Naver News Library article 1993022700329119012, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700329119012, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329119012, accessed 2026-09-26T13:07:26-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022700329119012.json) [quote: '李鎭三장관의이임식이 26일 오후 체육청소년부 회의실에서 열렸다.'] [summary: same, 경향신문 of 27 Feb]",
+    "[verifier 2026-09-26] 매일경제 1993-02-24 p.2 '\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"' (Naver News Library article 1993022400099202004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022400099202004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004, accessed 2026-09-26T09:13:01-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022400099202004.json) [quote: '새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.'] [summary: 총무처 reading of 24 Feb 1993: 노태우's ministers have no fixed term and leave when the new president appoints their successors]",
+    "[verifier 2026-09-26] 한겨레 1993-02-27 '부총리 이경식(기획원장관) 한완상(통일원장관)' (BigKinds news_id 01101001.19930227000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:34-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19930227000000101.json) [quote: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게 임명장을 주었다.'] [summary: the new cabinet received its 임명장 on the afternoon of 26 Feb 1993, with no 체육청소년부장관]",
+    "[verifier 2026-09-26] 경향신문 1993-02-26 p.19 '舊(구)체청부 직원들\"어떻게 되나\"' (Naver News Library article 1993022600329119009, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600329119009, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600329119009, accessed 2026-09-26T14:02:23-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022600329119009.json) [quote: '체육청소년부의 마지막 수장인 李鎭三장관은'] [summary: 경향신문 of 26 Feb 1993 still treats him as the head of the ministry]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06 onward).",
+   "notes": "Former 육군참모총장 (동아일보 1991-12-19 '李鎭三(이진삼)전육군참모총장'), named in the 12·19 개각 of 1991 (announced in the afternoon of 1991-12-19) and given the 임명장 at 09:30 on 1991-12-20, 취임식 at 11:00 (부산일보 1991-12-21). Start uses the 임명장 date, which the 문화부 tab of the MCST page also uses for the same reshuffle (이수정 1991-12-20). Wikipedia gives 1991-12-19. Last 체육청소년부장관. He stayed in office past the 1993-02-25 inauguration of 김영삼 and left on 1993-02-26, the day the new cabinet was named, with 의원면직 and a farewell ceremony that afternoon. No successor was appointed because the 정부조직법 amendment merging the ministry into 문화체육부 had passed the Assembly, per 조선일보 1993-02-25 p.25 \"한국스포츠 위상제고에 큰기여\" (Naver News Library article 1993022500239125006, OCR text: '체육청소년부가 정부조직법 개정안의 국회통과로출범 11년만에 닻을 내렸다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022500239125006; accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022500239125006.json). The amendment (법률 제4541호) was promulgated and took effect on 1993-03-06. end_reason is 'resigned' because he left by 의원면직 at the change of government while the office still existed. The office then had no minister until it was abolished (see acting and issues). Later 18th-Assembly member (2008-2012, na_members_12_22.csv mona_cd LR83348R), not a member in 1991-1993. No English Wikipedia interlanguage link (https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&format=json&redirects=1&titles=%EC%9D%B4%EC%A7%84%EC%82%BC, accessed 2026-09-26T09:24:38-0400), so name_en is null. Birth date and gender come from na_members/na_members_12_22.csv (mona_cd LR83348R, 李鎭三, birth 1937-02-10, gender 남), ko.wikipedia '이진삼' https://ko.wikipedia.org/w/index.php?oldid=41884297 (birth field '{{출생일과 만나이|1937|2|10}}', accessed 2026-09-26T09:24:37-0400, snapshot roster/sources/sports/ext88/persons/kowiki_이진삼.json, secondary) and Wikidata Q12612811 (P21 male, P569 1937-02-10, accessed 2026-09-26T09:35:56-0400, snapshot roster/sources/sports/ext88/persons/wikidata_persons.json, secondary). [verifier 2026-09-26] End 1993-02-26 kept but disputed. His own 이임식 was on the afternoon of 1993-02-26 (충청투데이 and 경향신문 of 1993-02-27, besides the builder's 매일경제 and 조선일보), and the 총무처 reading of 1993-02-24 was that 노태우's ministers stay until the new president appoints their successors. Against this, 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) reports that all outgoing ministers resigned on 25 Feb and that every resignation was accepted ('25일 일괄사표를 제출,전원 수리됐다'), and 조선일보 1993-02-26 p.7 has 동력자원부, in the same position, without a minister from 26 Feb. No document gives the formal 면직 date. end_confidence lowered to medium, as in energy.ext88 for 진념."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "조상호",
+   "office_title": "체육부장관",
+   "nomination_date": "1987-07-13",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1987-07-14",
+   "sources": [
+    "경향신문 1987-07-14 p.1 \"總理(총리)에 金貞烈(김정렬)씨\" (Naver News Library article 1987071400329201004, OCR text: '▲체육부장관에 曺相鎬(조상호) 올림픽조직위부위원장을 임명 발령했다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1987071400329201004; accessed 2026-09-26T09:08:52-0400; snapshot roster/sources/sports/ext88/articles/nl_1987071400329201004.json)",
+    "한국경제 1987-07-15 \"신임閣僚들에 임명장\" (BigKinds news_id 02100601.19870715190013104, full text: '全斗煥대통령은 14일상오 청와대에서 金貞烈신임국무총리서리를 비롯 鄭寬溶내무, 徐明源문교, 鄭鎬溶국방, 曺相鎬체육'; https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19870715190013104&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:32:39-0400; snapshot roster/sources/sports/ext88/articles/bk_02100601.19870715190013104.json)"
+   ],
+   "notes": "Appointment by 전두환 in the 7·13 개각 of 1987, before the window. Order issued 1987-07-13, 임명장 1987-07-14. No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  },
+  {
+   "nominee": "조상호",
+   "office_title": "체육부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "서울신문 1988-02-20 \"새정부 內閣名單 발표\" (BigKinds news_id 01100611.19880220164719005, full text: '曺相鎬체육' (listed among the 7개부처장관 재기용 announced 1988-02-19); https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880220164719005&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:20:54-0400; snapshot roster/sources/sports/ext88/articles/bk_01100611.19880220164719005.json)",
+    "조선일보 1988-02-20 p.1 \"새政府(정부) 첫內閣(내각) 발표 就任(취임)직후 대규모 후속人事(인사)\" (Naver News Library article 1988022000239101024, OCR text: '체육 曺相鎬(조상호)' (7개부처장관이 再(재)기용); POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022000239101024; accessed 2026-09-26T09:07:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022000239101024.json)",
+    "한국일보 1988-02-20 \"16部處 신규·7部處 再起用\" (BigKinds news_id 01101101.19880220092404102, full text: '曺相鎬체육·崔同燮건설·吳明체신부장관 등 7개 부처 장관은 재기용했다'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880220092404102&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T12:48:51-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19880220092404102.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text: '청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다'; https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/sports/ext88/articles/bk_01100901.19880225005009001.json)",
+    "동아일보 1988-02-25 p.1 \"새内閣(내각)은 내일부터\" (Naver News Library article 1988022500209201007, OCR text: '盧泰愚(노태우)대통령은 25일 제13대대통령취임식이 끝난후 李賢宰(이현재)국무총리등 새각료들에게 임명장을 수여'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500209201007; accessed 2026-09-26T09:07:16-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022500209201007.json)",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '金貞烈(김정렬)국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022600239101004; accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/sports/ext88/articles/nl_1988022600239101004.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988; accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/sports/ext88/pa_schedule/pa_노태우_1988_p1.html)"
+   ],
+   "notes": "Reappointment (재기용) of the sitting minister by the new president 노태우. Announced by the president-elect on 1988-02-19, new 임명장 on 1988-02-25 after the 5th-republic cabinet's resignations were accepted that morning. This appointment opens his second spell (1988-02-25..1988-12-05). No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  },
+  {
+   "nominee": "김집",
+   "office_title": "체육부장관",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '▲체육 金潗(김집) 대한체육회부회장'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329201003; accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1988120500329201003.json)",
+    "한국일보 1988-12-06 \"政局往來\" (BigKinds news_id 01101101.19881206102907110, full text: '盧泰愚 대통령은 5일 하오 4시청와대 서재에서 姜英勳국무총리서리를 비롯해 신임각료 21명에게 일일이 임명장을 수여'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102907110&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:23:35-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19881206102907110.json)"
+   ],
+   "notes": "Named and appointed the same day in the 12·5 개각. No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  },
+  {
+   "nominee": "정동성",
+   "office_title": "체육부장관",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "동아일보 1990-03-17 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article 1990031700209201001, OCR text: '체육부장관에는 鄭東星(정동성)(民正(민정)계)'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209201001; accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031700209201001.json)",
+    "동아일보 1990-03-19 p.1 \"經濟難(경제난)-民生治安(민생치안)해결 당부\" (Naver News Library article 1990031900209201005, OCR text: '盧泰愚(노태우)대통령은 19일 오전靑瓦臺(청와대)에서 3.17개각으로입각한 李承潤(이승윤)부총리등 신임각료에게 임명장을 주고'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031900209201005; accessed 2026-09-26T09:30:28-0400; snapshot roster/sources/sports/ext88/articles/nl_1990031900209201005.json)"
+   ],
+   "notes": "Named in the 3·17 개각 (1990-03-17), 임명장 1990-03-19. No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  },
+  {
+   "nominee": "박철언",
+   "office_title": "체육청소년부장관",
+   "nomination_date": "1990-12-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-12-27",
+   "sources": [
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122700099201001, OCR text: '청소년체육부(前(전)체육부)장관에 朴哲彥民自黨(박철언민자당)의원'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700099201001; accessed 2026-09-26T09:08:13-0400; snapshot roster/sources/sports/ext88/articles/nl_1990122700099201001.json)",
+    "한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, full text: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와'; https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000; accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/sports/ext88/articles/bk_01101101.19901228000000102.json)"
+   ],
+   "notes": "Named in the morning and appointed in the afternoon of 1990-12-27 (12·27 개각). No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  },
+  {
+   "nominee": "이진삼",
+   "office_title": "체육청소년부장관",
+   "nomination_date": "1991-12-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1991-12-20",
+   "sources": [
+    "동아일보 1991-12-19 p.1 \"7部(부)장관更迭(경질)\" (Naver News Library article 1991121900209201001, OCR text: '체육청소년부장관에 李鎭三(이진삼)전육군참모총장'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1991121900209201001; accessed 2026-09-26T09:31:27-0400; snapshot roster/sources/sports/ext88/articles/nl_1991121900209201001.json)",
+    "매일경제 1991-12-20 p.2 \"盧(노) 대통령 신임 장관에 임명장\" (Naver News Library article 1991122000099202020, OCR text: '盧泰愚(노태우)대통령은 20일 오전 청와대에서 신임 崔世昌(최세창)국방 李秀正(이수정)문화 李鎭三(이진삼)체육청소년'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000099202020; accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000099202020.json)"
+   ],
+   "notes": "Named in the afternoon of 1991-12-19 (12·19 개각), 임명장 on the morning of 1991-12-20. No 인사청문 or Assembly consent applied to 국무위원 at the time (hearings for 국무위원 began in 2005)."
+  }
+ ],
+ "acting": [
+  {
+   "name": "이해봉",
+   "role": "체육청소년부 차관, 장관 직무대리 after 이진삼's 의원면직 until the ministry was merged into 문화체육부. The person is inferred. 총무처 ruled that the 차관 would act, and 이해봉 had been 차관 since 1992-04-20 and was still 차관 in January and February 1993. No source naming him as 직무대리 was found.",
+   "from": "1993-02-27",
+   "to": "1993-03-05",
+   "inferred": true,
+   "sources": [
+    "매일경제 1993-02-27 p.2 \"장관없는 部處(부처)로 남아\" (Naver News Library article 1993022700099202016, OCR text: '총무처는 앞으로 폐지될 동자부 체육청소년부장관이 의원면직됨에 따라 정부조직법이공포돼 최종확정될 때까지 차관이 직무대리로업무를 수행하게 된다고유권해석'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700099202016; accessed 2026-09-26T09:21:02-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022700099202016.json)",
+    "동아일보 1993-02-27 p.23 \"動資(동자)-體靑部(체청부) \"우리 앞날 어떻게 되나\"\"\" (Naver News Library article 1993022700209223002, OCR text: '내달초 정부조직개편안이 국무회의에서 의결돼 상공자원부와문화체육부가 발족할 때까지 차관체제로 운영된다'; POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700209223002; accessed 2026-09-26T09:21:06-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022700209223002.json)",
+    "동아일보 1993-02-07 p.3 \"\"시대착오적 발상\"걱정속 술렁\" (Naver News Library article 1993020700209103006, OCR text: '李海鳳(이해봉)차관' (차관 on 1993-02-06); POST https://newslibrary.naver.com/api/article/detail/json articleId=1993020700209103006; accessed 2026-09-26T09:31:49-0400; snapshot roster/sources/sports/ext88/articles/nl_1993020700209103006.json)",
+    "매일경제 1993-03-09 p.12 \"문화체육부 출범 기대半(반)…우려半(반)…\" (Naver News Library article 1993030900099212001, OCR text: '문화체육부는 93년 3월6일자로 정부조직법(법률제4541호)개정과 문화체육부직제(대통령령 제13869호)가 확정·공포됨에 따라 기존의 문화부와체육청소년부가 통합되어새로 발족하게 된 것' (end of the vacancy); POST https://newslibrary.naver.com/api/article/detail/json articleId=1993030900099212001; accessed 2026-09-26T09:31:57-0400; snapshot roster/sources/sports/ext88/articles/nl_1993030900099212001.json)",
+    "ko.wikipedia '대한민국 체육청소년부' https://ko.wikipedia.org/w/index.php?oldid=39111479 (revid 39111479), row '체육청소년부 차관 7대 이해봉(李海鳳) 1991년 12월 20일 ~ 1993년 2월 25일 (secondary, end date conflicts with the 차관체제 reports)' (secondary; accessed 2026-09-26T09:03:56-0400; snapshot roster/sources/sports/ext88/wiki/wiki_대한민국_체육청소년부.json)",
+    "[verifier 2026-09-26] 동아일보 1992-04-21 p.2 '次官(차관)·知事級(지사급) 11명 人事(인사)' (Naver News Library article 1992042100209202001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1992042100209202001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992042100209202001, accessed 2026-09-26T14:08:27-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1992042100209202001.json) [quote: '체육청소년부차관에 李海鳳大邱시장을 전보했으며'] [summary: 이해봉 became 체육청소년부 차관 on 20 Apr 1992 (not on 1991-12-20 as ko.wikipedia gives)]",
+    "[verifier 2026-09-26] 한겨레 1992-04-21 p.1 '차관급 11명 인사단행' (Naver News Library article 1992042100289101002, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1992042100289101002, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992042100289101002, accessed 2026-09-26T21:21:41-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1992042100289101002.json) [quote: '체육청소년부차관에는 이해봉 대구직할시장'] [summary: same appointment, 한겨레 of 21 Apr 1992]",
+    "[verifier 2026-09-26] Naver News Library search '李海鳳' 1993-01-01..1993-03-31 (POST https://newslibrary.naver.com/api/search/article/json, accessed 2026-09-26T21:23:07-0400, snapshot roster/sources/sports/ext88_verify/nl/search/nls_acting_李海鳳_1993-01-01_1993-03-31_p1.json), hits 경향신문 1993-01-14 p.19 (1993011400329119012) and 조선일보 1993-01-14 p.27 (1993011400239127011) [summary: 이해봉 still 체육청소년부 차관 in January 1993, snippets only]. Searches for '체육청소년부 차관', '체청부 차관' and '직무대리' over 1993-02-25..1993-03-08 found no story naming the acting head (same listing file, script roster/scripts/sports_ext88_verify_09_acting_search.py)."
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Cross-lineage note for culture. The MCST page (문화체육부 tab) and Wikipedia list 이민섭 as 문화체육부장관 from 1993-02-26, and the press of 1993-02-26/27 called him 문화체육부장관. 문화체육부 only existed from 1993-03-06. The contemporary reports say 체육청소년부 had no minister after 이진삼 left on 1993-02-26 and was run by its 차관 until the merger (매일경제 1993-02-27 '장관없는 部處로 남아', 동아일보 1993-02-27 '장관이 임명되지않은 두 부처'). So 이민섭 is not a 체육청소년부장관 and this file has no spell for him. On 1993-02-26 he was 문화부장관, and his 문화체육부 spell starts 1993-03-06. The culture lineage should record it that way."
+  },
+  {
+   "severity": "medium",
+   "desc": "Convention for the 1988-02-25 reappointment. 조상호 was one of the seven 5th-republic ministers kept (재기용) in the first 노태우 cabinet (외무 최광수, 내무 이상희, 재무 사공일, 법무 정해창, 체육 조상호, 건설 최동섭, 체신 오명, 동아일보 1988-02-19 p.1 and 한국일보 1988-02-20). The cabinet's blanket resignations were accepted on the morning of 1988-02-25 (매일경제 1988-02-25, 중앙일보 1988-02-25, 조선일보 1988-02-26) and the 23 국무위원 of the new list received 임명장 that morning. This file splits him into a 전두환 spell ending 1988-02-25 (end_reason resigned) and a 노태우 spell starting 1988-02-25, as justice.ext88.json (정해창), interior.ext88.json (이상희), finance.ext88.json (사공일) and foreign.ext88.json (최광수) do. An earlier build of this file (2026-09-26 09:56) kept him as one spell, and this build replaces it. ko.wikipedia '대한민국 체육부' shows one row (1987-07-14 to 1988-12-04), and the 1993 count of ten ministers (조선일보 1993-02-25) counts persons, so neither conflicts with the split. reorg_continuation stays false because this is not a reorganization. The assembler may want a flag that joins the pair."
+  },
+  {
+   "severity": "low",
+   "desc": "Start-date convention. Several reshuffles were announced one or two days before the 임명장 (7·13 개각 1987 order 07-13 and 임명장 07-14, 3·17 개각 1990 announced 03-17 and 임명장 03-19, 12·19 개각 1991 announced 12-19 and 임명장 12-20). Start uses the 임명장 date throughout, the date the ministry pages print for the same reshuffles (교육부, 총무처, MCST 문화부 tab). ko.wikipedia follows the 임명장 date for 1987 and 1990 but the announcement date for 1991 (이진삼 1991-12-19). The announcement dates are in nominations.nomination_date."
+  },
+  {
+   "severity": "low",
+   "desc": "End-date convention. Where no 면직 date was found (김집, 정동성, 박철언), end is the successor's 임명장 day (inferred_from_successor), so neighbouring spells share one day. ko.wikipedia uses the day before the successor (1990-03-18, 1990-12-26, 1991-12-19 or 1991-12-18). 김집 held his 이임식 on 1990-03-17, two days before the successor's 임명장. For the 3·17 개각 most ext88 lineages end the outgoing holder on 1990-03-19 as this file does, but epb.ext88.json ends 조순 on 1990-03-17, the announcement and 이임식 day. The assembler should apply one rule to that reshuffle."
+  },
+  {
+   "severity": "low",
+   "desc": "Rename date and 박철언's title. offices_1988.json dates 체육청소년부 from 1990-12-27 (법률 제4268호 on promulgation), 국가기록원 from 1991-02-01 (직제), and the press of 1990-12-27/28 spoke of the new ministry launching on 1991-01-01. 박철언 was appointed on 1990-12-27 and most papers titled him 체육청소년부장관, but 매일경제 wrote '청소년체육부(前체육부)장관' and some reports still said 체육부장관. The file follows the statute and gives him 체육청소년부 from 1990-12-27. 정동성 (체육부) ends 1990-12-27, one day into the 체육청소년부 period, because the rename and the reshuffle fell on the same day."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancy 1993-02-27..1993-03-05. 이진삼 left by 의원면직 on 1993-02-26 and no minister was appointed before the merger. The acting record for 차관 이해봉 is inferred. 총무처 ruled that the 차관 acts, and 이해봉 is the 차관 named on 1993-02-06. No 체육청소년부 차관 appears in the 1993-03-04 차관급 인사 list (동아일보 1993-03-04 p.1, News Library article 1993030400209201003, snapshot roster/sources/sports/ext88/articles/nl_1993030400209201003.json). Wikipedia ends his 차관 term on 1993-02-25, which conflicts with the 차관체제 reports. No source naming the acting head during the vacancy was found."
+  },
+  {
+   "severity": "low",
+   "desc": "BigKinds transcription errors. The BigKinds text of 중앙일보 1988-02-19 (01100901.19880219004312001) lists '서상호 체육' among the reappointed ministers, and 중앙일보 1988-03-10 (01100901.19880310010508001) has '서상호 체육부장관'. Both are typos for 조상호 (曺相鎬), as the same stories in 서울신문 and the News Library pages show. They are not used as sources here."
+  },
+  {
+   "severity": "info",
+   "desc": "No spell continues past 1998-02-24, since the ministry was abolished on 1993-03-06, so there are no from_main records. The first spell (조상호, 전두환 appointee) starts before the window (1987-07-14) and is included because he was in office on 1988-02-25."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier 2026-09-26] The builder's issue on the 1990-12-27 rename (정동성 ending one day into the 체육청소년부 period) is resolved by ending 정동성 on 1990-12-26, the convention of education.ext88 and unification.ext88 for the same law."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier 2026-09-26] 이해봉 was appointed 체육청소년부 차관 on 1992-04-20 (동아일보 and 한겨레 1992-04-21), not on 1991-12-20 as ko.wikipedia gives. The acting record for the 1993 vacancy is still inferred."
+  }
+ ],
+ "continuity": {
+  "window": [
+   "1988-02-25",
+   "1993-03-05"
+  ],
+  "vacancies": [
+   {
+    "after": "이진삼",
+    "before": null,
+    "vacant_from": "1993-02-27",
+    "vacant_to": "1993-03-05",
+    "days": 7,
+    "acting": [
+     "이해봉 1993-02-27..1993-03-05 (inferred)"
+    ],
+    "days_without_acting_record": 0
+   }
+  ],
+  "holder_count_checks": [
+   "조선일보 1993-02-25 p.25 \"한국스포츠 위상제고에 큰기여\" (Naver News Library article 1993022500239125006, OCR text: '거쳐간 장관수는 초대 盧泰愚(노태우)씨부터 마지막 李鎭三(이진삼)씨에 이르기까지 10명' (ten ministers from the first, 노태우, to the last, 이진삼. The ko.wikipedia table has the same ten, five of them before 조상호); POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022500239125006; accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/sports/ext88/articles/nl_1993022500239125006.json)",
+   "동아일보 1991-12-20 p.17 \"체육청소년부 장관교체 새位相(위상) 기대\" (Naver News Library article 1991122000209217003, OCR text: '전역 19일째의 4성장군을 열번째장관으로 맞았다' (이진삼 is the tenth minister); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209217003; accessed 2026-09-26T09:44:29-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000209217003.json)",
+   "동아일보 1991-12-20 p.17 \"체육청소년부 장관교체 새位相(위상) 기대\" (Naver News Library article 1991122000209217003, OCR text: '그동안 체청부는 모두9명의 장관을 맞고 보냈다' (nine ministers before 이진삼); POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209217003; accessed 2026-09-26T09:44:29-0400; snapshot roster/sources/sports/ext88/articles/nl_1991122000209217003.json)"
+  ],
+  "handovers": [
+   {
+    "from": "조상호",
+    "to": "조상호",
+    "date": "1988-02-25",
+    "type": "reappointment (재기용) by the new president, resignation accepted and new 임명장 the same morning"
+   },
+   {
+    "from": "조상호",
+    "to": "김집",
+    "date": "1988-12-05",
+    "type": "same-day (resignation in the morning, 임명장 in the afternoon)"
+   },
+   {
+    "from": "김집",
+    "to": "정동성",
+    "date": "1990-03-19",
+    "type": "end inferred from successor (이임식 1990-03-17)"
+   },
+   {
+    "from": "정동성",
+    "to": "박철언",
+    "date": "1990-12-26/1990-12-27",
+    "type": "rename day. 정동성 ends 1990-12-26, the last legal day of 체육부, and 박철언 starts 1990-12-27 as the first 체육청소년부장관 (verifier correction, was 'end inferred from successor, same day as the rename')"
+   },
+   {
+    "from": "박철언",
+    "to": "이진삼",
+    "date": "1991-12-20",
+    "type": "end inferred from successor (박철언 left to run in the 14th general election, see verification)"
+   }
+  ],
+  "news_scan": {
+   "method": "sports_ext88_05_continuity.py: per month 1987-07..1993-03, News Library (5 papers) and BigKinds searches for 체육부장관 and 체육청소년부장관, tallying the name printed next to the title. Output roster/sources/sports/ext88/continuity/continuity_scan.json.",
+   "complete": true,
+   "months_scanned": 69,
+   "known_holder_mentions_by_month": {
+    "1987-07": {
+     "조상호": 16
+    },
+    "1987-08": {
+     "조상호": 9
+    },
+    "1987-09": {
+     "조상호": 14
+    },
+    "1987-10": {
+     "조상호": 10
+    },
+    "1987-11": {
+     "조상호": 10
+    },
+    "1987-12": {
+     "조상호": 9
+    },
+    "1988-01": {
+     "조상호": 26
+    },
+    "1988-02": {
+     "조상호": 12
+    },
+    "1988-03": {
+     "조상호": 14
+    },
+    "1988-04": {
+     "조상호": 13
+    },
+    "1988-05": {
+     "조상호": 9
+    },
+    "1988-06": {
+     "조상호": 20
+    },
+    "1988-07": {
+     "조상호": 15
+    },
+    "1988-08": {
+     "조상호": 17
+    },
+    "1988-09": {
+     "조상호": 39
+    },
+    "1988-10": {
+     "조상호": 44
+    },
+    "1988-11": {
+     "조상호": 27
+    },
+    "1988-12": {
+     "조상호": 1,
+     "김집": 39
+    },
+    "1989-01": {
+     "조상호": 1,
+     "김집": 33
+    },
+    "1989-02": {
+     "김집": 18
+    },
+    "1989-03": {
+     "조상호": 1,
+     "김집": 19
+    },
+    "1989-04": {
+     "김집": 18
+    },
+    "1989-05": {
+     "김집": 13
+    },
+    "1989-06": {
+     "조상호": 3,
+     "김집": 5
+    },
+    "1989-07": {
+     "김집": 13
+    },
+    "1989-08": {
+     "조상호": 2,
+     "김집": 19
+    },
+    "1989-09": {
+     "조상호": 1,
+     "김집": 31
+    },
+    "1989-10": {
+     "김집": 18
+    },
+    "1989-11": {
+     "김집": 15
+    },
+    "1989-12": {
+     "조상호": 1,
+     "김집": 39,
+     "박철언": 2
+    },
+    "1990-01": {
+     "김집": 35
+    },
+    "1990-02": {
+     "김집": 29
+    },
+    "1990-03": {
+     "김집": 12,
+     "정동성": 25
+    },
+    "1990-04": {
+     "김집": 5,
+     "정동성": 34
+    },
+    "1990-05": {
+     "정동성": 28
+    },
+    "1990-06": {
+     "정동성": 16
+    },
+    "1990-07": {
+     "정동성": 20
+    },
+    "1990-08": {
+     "조상호": 2,
+     "정동성": 23
+    },
+    "1990-09": {
+     "조상호": 2,
+     "정동성": 93
+    },
+    "1990-10": {
+     "조상호": 3,
+     "김집": 2,
+     "정동성": 123
+    },
+    "1990-11": {
+     "정동성": 24
+    },
+    "1990-12": {
+     "김집": 1,
+     "정동성": 24,
+     "박철언": 19
+    },
+    "1991-01": {
+     "김집": 2,
+     "정동성": 2,
+     "박철언": 43
+    },
+    "1991-02": {
+     "박철언": 62
+    },
+    "1991-03": {
+     "정동성": 1,
+     "박철언": 89
+    },
+    "1991-04": {
+     "정동성": 1,
+     "박철언": 125
+    },
+    "1991-05": {
+     "박철언": 59
+    },
+    "1991-06": {
+     "김집": 1,
+     "박철언": 30
+    },
+    "1991-07": {
+     "박철언": 76
+    },
+    "1991-08": {
+     "박철언": 74
+    },
+    "1991-09": {
+     "조상호": 1,
+     "정동성": 1,
+     "박철언": 37
+    },
+    "1991-10": {
+     "정동성": 1,
+     "박철언": 85
+    },
+    "1991-11": {
+     "김집": 1,
+     "박철언": 40
+    },
+    "1991-12": {
+     "박철언": 47,
+     "이진삼": 19
+    },
+    "1992-01": {
+     "조상호": 1,
+     "박철언": 8,
+     "이진삼": 49
+    },
+    "1992-02": {
+     "정동성": 1,
+     "박철언": 4,
+     "이진삼": 66
+    },
+    "1992-03": {
+     "이진삼": 19
+    },
+    "1992-04": {
+     "이진삼": 35
+    },
+    "1992-05": {
+     "이진삼": 21
+    },
+    "1992-06": {
+     "이진삼": 18
+    },
+    "1992-07": {
+     "조상호": 2,
+     "박철언": 1,
+     "이진삼": 49
+    },
+    "1992-08": {
+     "이진삼": 35
+    },
+    "1992-09": {
+     "이진삼": 17
+    },
+    "1992-10": {
+     "정동성": 3,
+     "이진삼": 25
+    },
+    "1992-11": {
+     "조상호": 1,
+     "박철언": 1,
+     "이진삼": 13
+    },
+    "1992-12": {
+     "이진삼": 17
+    },
+    "1993-01": {
+     "김집": 1,
+     "이진삼": 13
+    },
+    "1993-02": {
+     "정동성": 3,
+     "이진삼": 14
+    },
+    "1993-03": {
+     "이민섭": 1
+    }
+   },
+   "months_where_most_mentioned_differs_from_spell_holder": [
+    {
+     "month": "1990-03",
+     "spell_holder_on_15th": "김집",
+     "most_mentioned": "정동성",
+     "tally": {
+      "김집": 12,
+      "정동성": 25
+     }
+    },
+    {
+     "month": "1993-03",
+     "spell_holder_on_15th": null,
+     "most_mentioned": "이민섭",
+     "tally": {
+      "이민섭": 1
+     }
+    }
+   ],
+   "reading": "In every month from 1987-07 to 1993-02 except 1990-03 the name printed most often next to the title is the holder the spells give for the 15th of that month. In 1990-03 the 3·17 개각 coverage of the incoming 정동성 outnumbers 김집, who held the post on the 15th and is the second name that month. In 1993-03, after the vacancy began, the single hit is 이민섭 as 문화체육부장관. No name outside the five holders was printed as a sitting 체육(청소년)부장관 in the scan. Other names next to the title are former ministers (이영호, 박세직, 이세기 with 전), an OCR misreading of 金潗 as 金準 (김준) in 매일경제, and ordinary words. Reading the top non-holder tokens of each month in continuity_scan.json is how this was checked."
+  }
+ },
+ "build": {
+  "builder": "roster builder 1988-1998, lineage sports",
+  "scripts": [
+   "roster/scripts/sports_ext88_01_mcst_probe.py",
+   "roster/scripts/sports_ext88_02_wiki.py",
+   "roster/scripts/sports_ext88_03_pa_schedule.py",
+   "roster/scripts/sports_ext88_04_news_search.py",
+   "roster/scripts/sports_ext88_05_continuity.py",
+   "roster/scripts/sports_ext88_06_persons.py",
+   "roster/scripts/sports_ext88_06b_wikidata.py",
+   "roster/scripts/sports_ext88_07_chronology.py",
+   "roster/scripts/sports_ext88_08_snap_articles.py",
+   "roster/scripts/sports_ext88_09_build.py",
+   "roster/scripts/sports_ext88_10_split_search.py",
+   "roster/scripts/sports_ext88_11_split_snap.py"
+  ],
+  "snapshots": "roster/sources/sports/ext88/",
+  "note": "No official 역대 장관 list for 체육부 or 체육청소년부 was found (the MCST page has tabs for 문화체육관광부, 문화관광부, 문화체육부, 문화부, 문화공보부, 공보부, 공보실 and 공보처 only, probed pOrgNm 01-12). Holder list from ko.wikipedia (two pages) checked against day-of news in both archives and the continuity scan. Rebuilt on restart to split 조상호 at the 1988-02-25 reappointment (scripts 10 and 11 add the sources, snapshots in articles/ and split/)."
+ },
+ "verification": {
+  "verified_at": "2026-09-26T21:28:29-0400",
+  "verifier": "adversarial verifier, lineage sports, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/sports.ext88.json",
+  "input_built_at": "2026-09-26T12:51:07-0400",
+  "started_at": "2026-09-26T13:26:51-0400",
+  "steps_done": [
+   "step 0 (2026-09-26T13:26:51-0400): read builder file (6 spells, 6 nominations, 1 acting, 8 issues), offices_1988.json (OFA19, OFA20), SOURCES_TOOLKIT.md, culture.ext88.verified.json for the format. Builder-cited article ids saved to roster/sources/sports/ext88_verify/builder_cited_ids.json (35 News Library, 14 BigKinds). 법률 제4268호 부칙 제1조 checked in inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json. Its 단서 delays only 제2조③④⑥, 제9조, 제31조, 제38조①, 제40조④ and 부칙 제8조, so the 체육청소년부 rename (제35조의3, 부칙 제10조) took effect on promulgation, 1990-12-27.",
+   "step 1 (2026-09-26T14:08:39-0400): independent holder list. Namu Wiki '문화체육관광부장관' (Playwright cache of 2026-09-25T13:58:54-0400, secondary) and a monthly News Library tally with queries the builder did not use (체육장관 1987-07..1993-03, 체육청소년장관 and 체청장관 1990-12..1993-03, 125 monthly queries, roster/scripts/sports_ext88_verify_02_monthly_tally.py, output roster/sources/sports/ext88_verify/tally/nl_monthly_tally.json). 국민일보 1990-03-17 개각 일지 (BigKinds) lists every 6공 reshuffle to 1989-12.",
+   "step 2 (2026-09-26T14:08:39-0400): BigKinds searches around each start and end (roster/scripts/sports_ext88_verify_03_bk_search.py, 27 searches) and full text of 45 stories the builder did not cite (sports_ext88_verify_06_bk_fulltext.py, ext88_verify/bk/bk_fulltext.json). Tier 2 rows from 대통령기록관 일정 (sports_ext88_verify_05_tier2.py). db.history.go.kr timed out (ConnectTimeout at 13:4x), so no new chronology rows were used.",
+   "step 3 (2026-09-26T14:08:39-0400): targeted News Library searches (sports_ext88_verify_07_nl_targeted.py, 23 searches plus 5 ad hoc for 1993 and 이해봉) and OCR text of 33 articles not cited by the builder (sports_ext88_verify_08_nl_fulltext.py, ext88_verify/nl/nl_fulltext.json).",
+   "step 4 (2026-09-26T21:28:29-0400): acting-head searches for the 1993 vacancy (roster/scripts/sports_ext88_verify_09_acting_search.py, ext88_verify/nl/acting_search.json), four more News Library full texts (sports_ext88_verify_08_nl_fulltext.py), and the build with quote checks (roster/scripts/sports_ext88_verify_10_build.py). Every quote in this object is an exact substring of the saved snapshot text. News Library quotes were checked against the OCR text, not against the page images."
+  ],
+  "summary": {
+   "n_spells": 6,
+   "confirmed": 3,
+   "corrected": 2,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 6,
+   "acting_entries": 1,
+   "fields_changed": 6
+  },
+  "completeness": [
+   "Independent holder list: monthly News Library tally of the name printed with the office title (queries 체육장관 1987-07..1993-03, 체육청소년장관 and 체청장관 1990-12..1993-03, 125 monthly queries, script roster/scripts/sports_ext88_verify_02_monthly_tally.py, output roster/sources/sports/ext88_verify/tally/nl_monthly_tally.json, first query accessed 2026-09-26T09:20:59-0400). The leading current-holder name per month runs 조상호 (1987-07..1988-11), 김집 (1988-12..1990-02), 정동성 (1990-03..1990-11), 박철언 (1990-12..1991-12), 이진삼 (1991-12..1993-02) and 이민섭 (1993-03, as 문화체육부장관), with two names only in handover months. Other names are former ministers (이세기, 박세직, 이영호, 노태우), 박철언 as 정무제1장관 in 1989, and OCR noise (김준 for 金潗). Namu Wiki '문화체육관광부장관' (secondary, accessed 2026-09-25T13:58:54-0400) lists the same five as 6대-10대. 국민일보 1990-03-17 '6공화국 개각 일지' (BigKinds 01100201.19900317000000419) lists 조상호 in the 88.2.19 조각 and 김집 in the 88.12.5 개각 and no other 체육 change up to 1989-12.",
+   "Counts agree with no missing holder: 매일경제 1990-03-20 has 정동성 as the 8th 체육부장관, 경향신문 1993-02-25 p.17 has 박철언 as the 9th ('朴哲彥9대장관'), and 동아일보 1993-02-24 p.19 has ten ministers from 노태우 to 이진삼 ('노태우(盧泰愚)초대장관부터 이진삼(李鎭三)장관까지 10대장관이 거쳐갔다'). 조상호 is the 6th (경향신문 1993-02-25 '6대 曺相鎬장관'). Snapshots: roster/sources/sports/ext88_verify/nl/nl_1993022500329117006.json and nl_1993022400209219005.json (News Library OCR text, accessed 2026-09-26T14:02:33-0400).",
+   "Transitions: 1988-02-25 (전두환 holdover 조상호 reappointed, split into two spells like the other six 재기용 ministers), 1990-12-27 (rename to 체육청소년부 and replacement the same day, 정동성 end corrected), 1993-02-26 (이진삼 left with no successor, ministry merged into 문화체육부 on 1993-03-06).",
+   "Elections: no minister left to run in the 1988 (4·26) general election (조상호 stayed to 1988-12-05). 박철언 left in the 12·19 개각 of 1991 to run in the 1992 (3·24) general election (end_reason corrected). The office no longer existed at the 1995 local elections and the 1996 general election.",
+   "Short tenures: none. The tally shows no other name as a sitting 체육(청소년)부장관 in any month."
+  ],
+  "continuity_check": [
+   {
+    "from": "조상호 (체육부) end 1988-02-25",
+    "to": "조상호 (체육부) start 1988-02-25",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "조상호 (체육부) end 1988-12-05",
+    "to": "김집 (체육부) start 1988-12-05",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "김집 (체육부) end 1990-03-19",
+    "to": "정동성 (체육부) start 1990-03-19",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "정동성 (체육부) end 1990-12-26",
+    "to": "박철언 (체육청소년부) start 1990-12-27",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "박철언 (체육청소년부) end 1991-12-20",
+    "to": "이진삼 (체육청소년부) start 1991-12-20",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "이진삼 (체육청소년부) end 1993-02-26",
+    "to": "ministry abolished, last day 1993-03-05",
+    "gap_days": 7,
+    "overlap_days": 0,
+    "explained": "vacancy 1993-02-27..1993-03-05. No minister was appointed because the merger into 문화체육부 had passed the Assembly. Acting head: 차관 이해봉 (inferred, see acting)."
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage).",
+  "field_hygiene": [
+   "appointing_president matches the president on each start date (전두환 1987-07-14, 노태우 from 1988-02-25). appointed_by_acting_president false for all, correct.",
+   "deputy_pm false for all spells. offices_1988.json gives deputy_pm_title [] for OFA19 and OFA20.",
+   "ministry and office_title match offices_1988.json periods after the 정동성 correction (체육부 to 1990-12-26, 체육청소년부 1990-12-27..1993-03-05). 조상호's first spell starts before the window in the same office (체육부 since 1982-03-20).",
+   "reorg fields. No spell continues across a reorganization. reorg_continuation false and reappointed_on_reorg null for all, correct (정동성 was replaced on the rename day, 이진삼 left before the merger).",
+   "from_main: none (the office was abolished on 1993-03-06, before 1998).",
+   "nominations: the 6 records agree with the verified starts (nomination_date = announcement day, outcome_date = 임명장 day). No consent vote or hearing applied to 국무위원 in 1987-1993."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "조상호",
+    "ministry": "체육부",
+    "start": "1987-07-14",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1987-07-14 confirmed (임명장 day of the 7·13 개각, before the window): 동아일보 1987-07-14 p.1 '새國務委員(국무위원)에 임명장' (Naver News Library article 1987071400209201013, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1987071400209201013, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400209201013, accessed 2026-09-26T10:20:52-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1987071400209201013.json) [quote: '全斗煥대통령은 14일오전金貞烈국무총리서리를 비롯한 신임 국무위원들에게 임명장을 수여했다.'] [summary: 임명장 for the 7·13 cabinet on the morning of 14 Jul 1987 (동아일보, a paper the builder did not use for this date)] | 경향신문 1987-07-14 p.1 '全(전)대통령,새總理(총리)등에 임명장수여' (Naver News Library article 1987071400329201017, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1987071400329201017, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1987071400329201017, accessed 2026-09-26T09:45:07-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1987071400329201017.json) [quote: '全斗煥대통령은 14일상오 청와대에서 신임 金貞烈 국무총리서리(사진)와 8部장관'] [summary: same 임명장 on the morning of 14 Jul (a different 경향신문 story from the builder's)] | 중앙일보 1987-07-14 '내 무 정관용 국 방 정호용 문 교 서명원 체 욱 조상호 체 신 오 명 총무처 장기오 과기처 박긍식 정무1 이 종 율' (BigKinds news_id 01100901.19870714194838001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19870714194838001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:21:32-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19870714194838001.json) [quote: '체육장관에 조상호올림픽조직위부위원장을 각각 임명하고'] [summary: 중앙일보 reports the appointment made on the afternoon of 13 Jul 1987 (the order day). The start stays on the 임명장 day as in the builder's issue 3] | Namu Wiki '문화체육관광부장관' https://namu.wiki/w/%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EB%B6%80%EC%9E%A5%EA%B4%80 (Playwright text, accessed 2026-09-25T13:58:54-0400, snapshot roster/sources/sports/ext88_verify/web/namu_문화체육관광부장관.txt, secondary) [quote: '6대 / 조상호(曺相鎬) / 1987년 7월 14일 ~ 1988년 12월 4일'] [summary: secondary list, start 1987-07-14].",
+     "end 1988-02-25 confirmed (the 5th-republic cabinet's resignations, handed in on 24 Feb, took effect when 노태우 gave the new cabinet its 임명장 on 25 Feb, and 조상호 was reappointed that day): 한국경제 1988-02-25 '盧 새大統領내외에 무궁화大勳章 수여' (BigKinds news_id 02100601.19880225193101106, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880225193101106&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:19:34-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_02100601.19880225193101106.json) [quote: '한편 金頁烈국무총리등 전 국무위원들은 이날 일괄사표를 제출했다.'] [summary: the whole 김정렬 cabinet (金貞烈, misprinted 金頁烈) handed in resignations on 24 Feb 1988 after the last 국무회의] | 경향신문 1988-02-23 p.3 '보통사람時代(시대) 알리는\"보통祝祭(축제)\"' (Naver News Library article 1988022300329203001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022300329203001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022300329203001, accessed 2026-09-26T14:00:06-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988022300329203001.json) [quote: '현각료들은 사표를 제출했다하더라도 후임자가 공식임명될때까지는 자리를 지키게된다.'] [summary: sitting ministers stay in post until their successors are formally appointed. The same story schedules the new 임명장 for 25 Feb after the inauguration ('25일 취임식이 끝난후 청와대에서 새각료들에게 임명장을 수여하고')] | 한국경제 1988-02-24 '[政街산책] 25일 0시부터 權限행사' (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '이들은 취임식을 마치고 청와대로 들어와 盧대통령으로부터 임명장을 받는 시각부터 정식 국무위원 자격을 가질 것이라고 풀이'] [summary: 법제처 reading that the new cabinet held office from its 임명장 on 25 Feb 1988] | 한국경제 1988-02-26 '盧 대통령 就任式 이모저모' (BigKinds news_id 02100601.19880226193114109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:16-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_02100601.19880226193114109.json) [quote: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작'] [summary: the 23 new 국무위원, the reappointed ones included, received 임명장 on 25 Feb 1988] | 경향신문 1988-02-25 p.1 '全(전) 前任(전임)대통령 환송 새閣僚(각료)들에 임명장' (Naver News Library article 1988022500329201003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988022500329201003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003, accessed 2026-09-26T09:05:38-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988022500329201003.json) [quote: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어제6共和國 정부를 출범시켰다.'] [summary: same event, 경향신문 evening edition of 25 Feb].",
+     "end_reason 'resigned' kept. It matches the other ministers reappointed on 1988-02-25 (foreign, finance, interior, justice). culture.ext88 codes its non-reappointed holdover as 'replaced' (see disputes).",
+     "appointing_president 전두환 correct (start 1987-07-14). The spell is a caretaker holdover with one day in the window."
+    ]
+   },
+   "1": {
+    "name": "조상호",
+    "ministry": "체육부",
+    "start": "1988-02-25",
+    "end": "1988-12-05",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed (재기용, new 임명장 on 25 Feb 1988): 매일경제 1988-02-19 p.1 '曺相鎬(조상호) 체육' (Naver News Library article 1988021900099201018, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988021900099201018, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900099201018, accessed 2026-09-26T12:48:27-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988021900099201018.json) [quote: '◇曺 相 鎬 체육'] [summary: 매일경제 of 19 Feb 1988 prints 조상호 under 체육 in the profile boxes of the new cabinet list] | 국민일보 1990-03-17 '6공화국 개각 일지' (BigKinds news_id 01100201.19900317000000419, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900317000000419&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:39-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19900317000000419.json) [quote: '조상호(체육)'] [summary: 국민일보 개각 일지 lists 조상호 (체육) in the '88.2.19 조각' line, i.e. as a member of the first 노태우 cabinet] | 한국일보 1988-02-26 '大赦免 오늘 議決…발표' (BigKinds news_id 01101101.19880226092506104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880226092506104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:17-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101101.19880226092506104.json) [quote: '盧泰愚대통령은 25일상오 제13代대통령취임식에 참석한뒤 李賢宰신임국무총리등 새 각료들과'] [summary: 임명장 for the new cabinet on the morning of 25 Feb 1988 (한국일보 story different from the builder's 한국일보 item)] | 한국경제 1988-02-26 '盧 대통령 就任式 이모저모' (BigKinds news_id 02100601.19880226193114109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:16-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_02100601.19880226193114109.json) [quote: '李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로'] [summary: 23 국무위원 received the 임명장 on 25 Feb, which counts the seven 재기용 ministers].",
+     "end 1988-12-05 confirmed (12·5 개각, successor's 임명장 that afternoon): 한겨레 1988-12-06 p.1 '내각 전면적 개편' (Naver News Library article 1988120600289101001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120600289101001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001, accessed 2026-09-26T09:44:44-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988120600289101001.json) [quote: '4개 부처를 제외하고 20개 부처의 장관이 모두교체됐다.'] [summary: 한겨레 of 6 Dec 1988: all but four ministers replaced on 5 Dec. The same story lists '체육 김집 대한체육회 부회장' among the new appointees] | 한국일보 1988-12-06 '\"民主化 국민요구 수렴, 轉換期 어려움 극복을\"' (BigKinds news_id 01101101.19881206102906105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19881206102906105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:03-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101101.19881206102906105.json) [quote: '盧泰愚 대통령은 5일 하오 姜英勳국무총리서리 및 신임 국무위원 전원에게 임명장을 수여한 뒤'] [summary: successors' 임명장 on the afternoon of 5 Dec 1988 (a different 한국일보 story from the builder's)] | 서울신문 1988-12-06 '\"강력한 公權力 확립 左傾暴力확산 國民불안 해소를\"' (BigKinds news_id 01100611.19881206160852002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160852002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:22:59-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.19881206160852002.json) [quote: '盧泰愚대통령은 5일하오 청와대 대접견실에서 신임 국무위원들에게 임명장을 수여하고'] [summary: same event, 서울신문] | 경향신문 1988-12-05 p.14 '새長官(장관) 人物評(인물평)에 일손놓고…' (Naver News Library article 1988120500329214003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500329214003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329214003, accessed 2026-09-26T09:08:20-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988120500329214003.json) [quote: '체육부는 金潗대한체육회부회장이 신임장관으로임명되자'] [summary: 경향신문 of 5 Dec 1988 (evening): the ministry received the news of 김집's appointment that day] | 국민일보 1990-03-17 '6공화국 개각 일지' (BigKinds news_id 01100201.19900317000000419, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900317000000419&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:39-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19900317000000419.json) [quote: '김집(체육)'] [summary: 국민일보 개각 일지 lists 김집 (체육) in the '88.12.5 개각' line].",
+     "appointing_president 노태우 correct. reorg_continuation false correct (no reorganization)."
+    ]
+   },
+   "2": {
+    "name": "김집",
+    "ministry": "체육부",
+    "start": "1988-12-05",
+    "end": "1990-03-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-12-05 confirmed: 매일경제 1988-12-05 p.1 '金潗(김집)체육' (Naver News Library article 1988120500099201027, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120500099201027, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099201027, accessed 2026-09-26T14:06:10-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988120500099201027.json) [quote: '◇金 潗체육'] [summary: 매일경제 of 5 Dec 1988 prints 김집 under 체육 in the profile boxes of the new cabinet] | 서울신문 1988-12-06 '\"社會체육 활성화… 엘리트養成 주력\"' (BigKinds news_id 01100611.19881206160912002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160912002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:53:48-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.19881206160912002.json) [quote: '개각이 발표된 5일 상오 태릉훈련원에서 기자와 만난 김장관은'] [summary: reshuffle announced on the morning of 5 Dec 1988] | 서울신문 1988-12-06 '\"강력한 公權力 확립 左傾暴力확산 國民불안 해소를\"' (BigKinds news_id 01100611.19881206160852002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160852002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:22:59-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.19881206160852002.json) [quote: '盧泰愚대통령은 5일하오 청와대 대접견실에서 신임 국무위원들에게 임명장을 수여하고'] [summary: 임명장 on the afternoon of 5 Dec] | 경향신문 1988-12-06 p.8 '대한민국 體育賞(체육상) 女(여)핸드볼(경기)張(장)은경(지도)' (Naver News Library article 1988120600329208003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1988120600329208003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600329208003, accessed 2026-09-26T14:00:39-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1988120600329208003.json) [quote: '金潗당시훈련원장(현체육부장관)이 내정됐으나 체육부장관으로 임명됨에 따라 결정이 보류됐다.'] [summary: 경향신문 of 6 Dec 1988 calls him the current 체육부장관 after the 5 Dec appointment] | 중앙일보 1988-12-06 '관 주도 탈피 민간자율로' (BigKinds news_id 01100901.19881206055240002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881206055240002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:53:30-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19881206055240002.json) [quote: '김집 (김집) 체육부장관은 6일 체육부회의실에서 가진 취임식에서'] [summary: 취임식 on 6 Dec 1988].",
+     "end 1990-03-19 confirmed as the successor's 임명장 day (inferred_from_successor, as in agriculture, energy, finance, general_affairs, justice, science and unification for the 3·17 개각). His 이임식 was on 1990-03-17, which epb.ext88 uses for 조순 (project-level rule, see disputes): 국민일보 1990-03-19 '신임각료에 임명장/노대통령' (BigKinds news_id 01100201.19900319000000107, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19900319000000107.json) [quote: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다.'] [summary: successor's 임명장 on the morning of 19 Mar 1990] | 중앙일보 1990-03-19 '국정 분위기ㆍ민심 쇄신 당부/노대통령 내각에 지시' (BigKinds news_id 01100901.19900319174220001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900319174220001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:48:14-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19900319174220001.json) [quote: '노태우대통령은 19일 오전 청와대에서 새로 임명된 각료와 청와대 비서실장 등에게 임명장을 주며'] [summary: same event, 중앙일보] | 중앙일보 1990-03-19 '생활체육 활성화에 백의종군' (BigKinds news_id 01100901.19900319174255003, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900319174255003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:54:36-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19900319174255003.json) [quote: '부임 1년3개월만에 체육부장관직에서 물러나는 김집(김집) 전임강관은'] [summary: 중앙일보 of 19 Mar 1990 (evening) on his departure ('전임강관' is a typo for 전임장관)] | 동아일보 1990-03-17 p.2 '「成長(성장)우선」으로 方向(방향)선회 예고\"알려진 내용\"담담한 반응' (Naver News Library article 1990031700209202004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700209202004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209202004, accessed 2026-09-26T09:40:41-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990031700209202004.json) [quote: '金장관은 이임하는 17일에도 아침일찍출근,간부직원들과 차한잔을 나누면서 노고를 치하했고'] [summary: his farewell was on 17 Mar 1990, two days before the successor's 임명장. This agrees with the builder's 조선일보 1990-03-18 (이임식 on 17 Mar) and is the reason the end is inferred, not documented] | 서울신문 1990-03-21 '「3ㆍ20 이동」에 비친 달라진 관행' (BigKinds news_id 01100611.20160420190406182, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190406182&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:49-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.20160420190406182.json) [quote: '김집장관과 함께 체육부를 떠난 김진원 전차관은 20일 이임식에서'] [summary: his 차관 left with him, 이임식 on 20 Mar 1990]."
+    ]
+   },
+   "3": {
+    "name": "정동성",
+    "ministry": "체육부",
+    "start": "1990-03-19",
+    "end": "1990-12-26",
+    "status": "corrected",
+    "checks": [
+     "start 1990-03-19 confirmed: 매일경제 1990-03-17 p.1 '鄭東星(정동성)체육' (Naver News Library article 1990031700099201005, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990031700099201005, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700099201005, accessed 2026-09-26T14:06:29-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990031700099201005.json) [quote: '◇鄭東星체육'] [summary: 매일경제 of 17 Mar 1990 prints 정동성 under 체육 in the profile boxes of the 3·17 cabinet] | 한국일보 1990-03-20 '새 내각 간담회… “소신ㆍ책임” 일색' (BigKinds news_id 01101101.19900320000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101101.19900320000000301.json) [quote: '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'] [summary: 임명장 on the morning of 19 Mar 1990 (a different 한국일보 story from the builder's)] | 국민일보 1990-03-19 '신임각료에 임명장/노대통령' (BigKinds news_id 01100201.19900319000000107, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900319000000107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:27:22-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19900319000000107.json) [quote: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와'] [summary: same event, 국민일보] | 중앙일보 1990-03-19 '신·구 체육장관의 소감' (BigKinds news_id 01100901.19900319174256001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900319174256001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:54:08-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19900319174256001.json) [quote: '신임 정동성 (정동성·51) 체육부장관은'] [summary: 중앙일보 of 19 Mar 1990 quotes him as the new minister] | 매일경제 1990-03-20 p.16 '인터뷰 신임 鄭東星(정동성) 체육부 장관 \"생활체육 활성화 注力(주력)\"' (Naver News Library article 1990032000099216001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990032000099216001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000099216001, accessed 2026-09-26T14:01:12-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990032000099216001.json) [quote: '金潗전장관에 이어 8대체육부장관으로 취임한 鄭東星장관(51)은'] [summary: 매일경제 of 20 Mar 1990: 8th 체육부장관, after 김집].",
+     "end corrected 1990-12-27 -> 1990-12-26, the last legal day of 체육부. The builder's own notes and issue 5 record that the old value ran one day into the 체육청소년부 period of offices_1988.json. Evidence: 정부조직법 법률 제4268호 (promulgated and in force 1990-12-27), law.go.kr text via https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227 (human page https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227), accessed 2026-09-26T08:33:46-0400, snapshot inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json (tier 1) [quote: '제1조 (시행일) 이 법은 공포한 날로부터 시행한다.'] [summary: 법률 제4268호 took effect on promulgation, 1990-12-27. The 단서 of 부칙 제1조 does not cover 제29조, whose amendment reads '\"체육부\"를 \"체육청소년부\"로 한다', so the name 체육부 ended on 1990-12-26] | 조선일보 1990-12-27 p.4 '姜(강)총리 改閣(개각)보도 一笑(일소)' (Naver News Library article 1990122700239104004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700239104004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700239104004, accessed 2026-09-26T13:31:12-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700239104004.json) [quote: '첫날인26일에는 통일원장관을 부총리로 격상시키는 정부조직법개정안공포등 공포안건 39건과'] [summary: the 국무회의 of 26 Dec 1990 cleared the promulgation of the 정부조직법 amendment, which was promulgated on 27 Dec] | 동아일보 1990-12-27 p.1 '총리에 盧在鳳(노재봉)씨' (Naver News Library article 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700209201001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700209201001.json) [quote: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고 10개부처와 청와대비서진을 개편하는등 대대적인 정부인사를단행했다.'] [summary: 12·27 개각 on the morning of 27 Dec 1990. The same story names '체육청소년부장관에 朴哲彥民自黨의원을', i.e. the successor was appointed to the renamed office] | 경향신문 1990-12-27 p.2 '「紙上(지상)발령」에 앞당겨 斷行(단행)' (Naver News Library article 1990122700329202001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700329202001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329202001, accessed 2026-09-26T09:31:06-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700329202001.json) [quote: '재임9개월의 짧은기간이지만 마사회이관,남북통일축구등 큼직한 일들을해낸 鄭東星장관에겐 아쉽다는 표정.'] [summary: 정동성 replaced on 27 Dec after nine months] | 부산일보 1990-12-27 '\"南北체육 교류 확대할 터\"' (BigKinds news_id 01500701.19901227201604104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201604104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:48:05-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01500701.19901227201604104.json) [quote: '정동성(鄭東星)전 장관과 만나 모든 업무를 논의하겠다고 말했다.'] [summary: 부산일보 of 27 Dec 1990 already calls him the former minister] | 서울신문 1990-12-28 '「12·27 개각」 정가·관가 표정' (BigKinds news_id 01100611.20160421001333355, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001333355&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:37-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.20160421001333355.json) [quote: '정동성 장관의 잦은 경질설로 이번 개각에서 장관이 바뀔 것으로 보아온 체육부는'] [summary: 서울신문 of 28 Dec 1990 on his replacement] | Namu Wiki '문화체육관광부장관' https://namu.wiki/w/%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EB%B6%80%EC%9E%A5%EA%B4%80 (Playwright text, accessed 2026-09-25T13:58:54-0400, snapshot roster/sources/sports/ext88_verify/web/namu_문화체육관광부장관.txt, secondary) [quote: '8대 / 정동성(鄭東星) / 1990년 3월 19일 ~ 1990년 12월 26일'] [summary: secondary list, end 1990-12-26]. Cross-lineage: education.ext88 (정원식) and unification.ext88 (홍성철) end on 1990-12-26 for the same law, and the main education file ends 이돈희 on the day before the 2001 rename.",
+     "end_reason 'replaced' kept (successor appointed to the renamed office the same day, as for 정원식 and 홍성철)."
+    ]
+   },
+   "4": {
+    "name": "박철언",
+    "ministry": "체육청소년부",
+    "start": "1990-12-27",
+    "end": "1991-12-20",
+    "status": "corrected",
+    "checks": [
+     "start 1990-12-27 confirmed (appointed 체육청소년부장관 on the day 법률 제4268호 took effect): 동아일보 1990-12-27 p.1 '총리에 盧在鳳(노재봉)씨' (Naver News Library article 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700209201001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700209201001.json) [quote: '체육청소년부장관에 朴哲彥民自黨의원을'] [summary: appointed 체육청소년부장관 on 27 Dec 1990] | 서울신문 1990-12-28 '“법질서 확립 피부로 느끼게”/노대통령,새각료에 임명장 수여' (BigKinds news_id 01100611.20160421001252461, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001252461&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:08:01-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100611.20160421001252461.json) [quote: '노태우 대통령은 27일 하오 청와대에서 노재봉 총리서리를 비롯한 신임각료와'] [summary: 임명장 on the afternoon of 27 Dec 1990] | 국민일보 1990-12-27 '새 각료에 임명장 수여' (BigKinds news_id 01100201.19901227000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901227000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:07:47-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19901227000000102.json) [quote: '노 대통령은 이날 오후 청와대에서 신임각료들에게 임명장을 수여하고 국무회의를 주재했다.'] [summary: same event, 국민일보 of 27 Dec] | 조선일보 1990-12-28 p.22 '改閣(개각)겹친「送旧迎新(송구영신)」…部処(부처)마다\"새출발\"' (Naver News Library article 1990122800239122004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122800239122004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004, accessed 2026-09-26T09:29:34-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122800239122004.json) [quote: '오후4시 30분에는 새 각료들과함께 다시 청와대로 들어와盧대통령으로부터 임명장을수여받았다.'] [summary: 임명장 at 16:30 on 27 Dec (조선일보 p.22, a different story from the builder's p.1)] | 중앙일보 1990-12-28 '\"국민체육·청소년 건전 육성\"' (BigKinds news_id 01100901.19901228235123002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19901228235123002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:48:57-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19901228235123002.json) [quote: '박철언 초대 체육청소년부장관은 28일 오전 체육부회의실에서 취임식을 갖고'] [summary: first 체육청소년부장관 (세계일보 01100701.19901228000000401 places a 취임식 on 27 Dec instead, a detail that does not affect the start)].",
+     "end 1991-12-20 confirmed as the successor's 임명장 day (inferred_from_successor, as for 이연택 in general_affairs.ext88, who left in the same reshuffle): 한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101101.19911220000000102.json) [quote: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화,이진삼 체육청소년'] [summary: successor's 임명장 on the morning of 20 Dec 1991] | 경향신문 1991-12-21 p.5 '\"이젠 經濟(경제)에 총력할때\"' (Naver News Library article 1991122100329105010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122100329105010, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329105010, accessed 2026-09-26T10:21:43-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122100329105010.json) [quote: '盧泰愚대통령은 20일상오 청와대에서 신임 7부장관에게 임명장을 수여한뒤'] [summary: same event, 경향신문] | 조선일보 1991-12-21 p.2 '\"경제 총력 기울일때\"' (Naver News Library article 1991122100239102017, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122100239102017, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100239102017, accessed 2026-09-26T14:01:52-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122100239102017.json) [quote: '盧대통령은 이날오전 신임 각료들에게 임명장을수여한뒤'] [summary: same event, 조선일보 of 21 Dec] | 중앙일보 1991-12-20 '신·구 체육장관 「포부와 감회」' (BigKinds news_id 01100901.19911220070201001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19911220070201001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:38-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19911220070201001.json) [quote: '부임1년만에 체육청소년부장관직에서 물러나는 박철언(박철언) 전임장관은'] [summary: 중앙일보 of 20 Dec 1991 (evening) on his departure. No dated 이임식 or 면직 was found, so the end stays inferred from the successor].",
+     "end_reason corrected 'replaced' -> 'resigned_to_run': 동아일보 1991-12-20 p.3 '核心(핵심)개편유보「모호한 補閣(보각)」' (Naver News Library article 1991122000209203003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209203003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203003, accessed 2026-09-26T10:14:30-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122000209203003.json) [quote: '朴哲彥체육청소년부장관과 李衍澤총무처장관의 경질은 14대총선에서 大邱壽城區와 全北全州에서 각각 출마할 뜻을 굳혔기 때문에 오래전부터 예상돼왔다.'] [summary: replaced because he would run in 대구 수성구 at the 14th general election (동아일보 p.3 analysis, a different story from the builder's p.3 item)] | 한겨레 1991-12-20 '7개부처 장관 경질' (BigKinds news_id 01101001.19911220000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19911220000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:55:58-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19911220000000104.json) [quote: '이번 개각에서 물러난 박철언 체육청소년부 장관과 이연택 총무처장관은 총선에서 민자당 공천으로 지역구에 출마할 예정이다.'] [summary: 한겨레 of 20 Dec 1991: he left the cabinet to stand for a 지역구 seat] | 경향신문 1991-12-19 '개각 금명 단행/부총리 포함 5∼6개부처 경질' (BigKinds news_id 01100101.19911219000000103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19911219000000103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:47:57-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100101.19911219000000103.json) [quote: '이번 개각에서 14대 총선에 출마하는 최각규 부총리,박철언 체육청소년부장관,이연택 총무처장관과 이봉서 상공부장관 등 5∼6개 부처의 장관이 경질될 것으로 전해졌다.'] [summary: 경향신문 of 19 Dec 1991, before the reshuffle] | 중앙일보 1991-12-20 '신·구 체육장관 「포부와 감회」' (BigKinds news_id 01100901.19911220070201001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19911220070201001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:38-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19911220070201001.json) [quote: '정계일선에 나가더라도 체육청소년부가'] [summary: his own farewell words refer to going into front-line politics] | na_members/na_members_12_22.csv row term 14, mona_cd DQE3331P (박철언 朴哲彦, 민주자유당, 대구 수성구갑, 지역구, seat 1992-05-30..1994-06-28, row sources NA-API 의원이력, NA-API ALLNAMEMBER, kowiki list oldid=40331547, kowiki 의석변동 oldid=41819802) [summary: he ran in the 14th general election of 1992-03-24 and won 대구 수성구갑].",
+     "mp_hint confirmed: sitting 13th NA member (민주정의당 전국구, 1988-05-30..1992-05-29) who kept the seat while minister (국민일보 1990-12-28 '박 체육 의원겸직 밝혀', BigKinds 01100201.19901228000000212, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901228000000212&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:56:59-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100201.19901228000000212.json) [quote: '박철언 체육청소년부장관은 28일 민자당 전국구의 원직을 유지,사퇴하지 않고 장관과 의원직을 겸직하겠다고 밝혔다.']."
+    ]
+   },
+   "5": {
+    "name": "이진삼",
+    "ministry": "체육청소년부",
+    "start": "1991-12-20",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1991-12-20 confirmed (named 19 Dec, 임명장 20 Dec 1991): 조선일보 1991-12-20 p.1 '7部(부)장관 경질' (Naver News Library article 1991122000239101002, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000239101002, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000239101002, accessed 2026-09-26T09:32:06-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122000239101002.json) [quote: '체육청소년부장관에 李鎭三전육군참모총장'] [summary: named in the 12·19 개각 on the afternoon of 19 Dec 1991 (조선일보 p.1)] | 한겨레 1991-12-20 '7개부처 장관 경질' (BigKinds news_id 01101001.19911220000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19911220000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:55:58-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19911220000000104.json) [quote: '체육청소년부장관에 이진삼 전 육군참모총장'] [summary: same announcement, 한겨레] | 한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101101.19911220000000102.json) [quote: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화,이진삼 체육청소년'] [summary: 임명장 on the morning of 20 Dec 1991] | 경향신문 1991-12-21 p.5 '\"이젠 經濟(경제)에 총력할때\"' (Naver News Library article 1991122100329105010, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122100329105010, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329105010, accessed 2026-09-26T10:21:43-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122100329105010.json) [quote: '盧泰愚대통령은 20일상오 청와대에서 신임 7부장관에게 임명장을 수여한뒤'] [summary: same event, 경향신문] | 동아일보 1991-12-21 '李장관\"우리部 손대지 말라\"强性과시' (BigKinds news_id 01100401.19911221055722001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19911221055722001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:56:33-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100401.19911221055722001.json) [quote: '이진삼(李鎭三)장관이 취임과 동시에'] [summary: 동아일보 of 21 Dec 1991 on his first day].",
+     "end 1993-02-26 kept, disputed. For 26 Feb: 충청투데이 1993-02-27 '李진삼 體靑部장관 이임식' (BigKinds news_id 01400701.19930227124057103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01400701.19930227124057103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:44-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01400701.19930227124057103.json) [quote: '李鎭三 체육청소년부장관의 이임식이 26일 오후2시'] [summary: 이임식 at 14:00 on 26 Feb 1993 (충청투데이)] | 경향신문 1993-02-27 p.19 '李鎭三(이진삼)장관 이임식' (Naver News Library article 1993022700329119012, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022700329119012, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329119012, accessed 2026-09-26T13:07:26-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022700329119012.json) [quote: '李鎭三장관의이임식이 26일 오후 체육청소년부 회의실에서 열렸다.'] [summary: same, 경향신문 of 27 Feb] | 매일경제 1993-02-24 p.2 '\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"' (Naver News Library article 1993022400099202004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022400099202004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004, accessed 2026-09-26T09:13:01-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022400099202004.json) [quote: '새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.'] [summary: 총무처 reading of 24 Feb 1993: 노태우's ministers have no fixed term and leave when the new president appoints their successors] | 한겨레 1993-02-27 '부총리 이경식(기획원장관) 한완상(통일원장관)' (BigKinds news_id 01101001.19930227000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:34-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19930227000000101.json) [quote: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게 임명장을 주었다.'] [summary: the new cabinet received its 임명장 on the afternoon of 26 Feb 1993, with no 체육청소년부장관] | 경향신문 1993-02-26 p.19 '舊(구)체청부 직원들\"어떻게 되나\"' (Naver News Library article 1993022600329119009, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600329119009, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600329119009, accessed 2026-09-26T14:02:23-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022600329119009.json) [quote: '체육청소년부의 마지막 수장인 李鎭三장관은'] [summary: 경향신문 of 26 Feb 1993 still treats him as the head of the ministry]. Against, for 25 Feb: 중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.'] [summary: 중앙일보 of 25 Feb 1993 reports that all outgoing ministers resigned and were accepted on 25 Feb, which would end the spell on 1993-02-25] | 조선일보 1993-02-26 p.7 '「15년 特立(특립)」마감 動資部(동자부),허탈한 분위기' (Naver News Library article 1993022600239107011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600239107011, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600239107011, accessed 2026-09-26T09:57:21-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022600239107011.json) [quote: '26일부터 일단「장관不在」상태로 들어가는동력자원부는'] [summary: 조선일보 of 26 Feb 1993 says 동력자원부, in the same position as 체육청소년부, was without a minister from 26 Feb] | Namu Wiki '문화체육관광부장관' https://namu.wiki/w/%EB%AC%B8%ED%99%94%EC%B2%B4%EC%9C%A1%EA%B4%80%EA%B4%91%EB%B6%80%EC%9E%A5%EA%B4%80 (Playwright text, accessed 2026-09-25T13:58:54-0400, snapshot roster/sources/sports/ext88_verify/web/namu_문화체육관광부장관.txt, secondary) [quote: '10대 / 이진삼(李鎭三) / 1991년 12월 19일 ~ 1993년 2월 25일'] [summary: secondary list, end 1993-02-25 (day-before convention)]. No source gives the formal 면직 date. end_confidence lowered high -> medium.",
+     "end_reason 'resigned' kept (의원면직 at the change of government while the office still existed until 1993-03-05, as for 진념 in energy.ext88)."
+    ]
+   }
+  },
+  "changes": [
+   {
+    "section": "spells",
+    "index": 3,
+    "name": "정동성",
+    "field": "end",
+    "old": "1990-12-27",
+    "new": "1990-12-26",
+    "evidence": "정부조직법 법률 제4268호 (promulgated and in force 1990-12-27), law.go.kr text via https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5792&efYd=19901227 (human page https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5792&efYd=19901227), accessed 2026-09-26T08:33:46-0400, snapshot inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json (tier 1) [quote: '제1조 (시행일) 이 법은 공포한 날로부터 시행한다.'] [summary: 법률 제4268호 took effect on promulgation, 1990-12-27. The 단서 of 부칙 제1조 does not cover 제29조, whose amendment reads '\"체육부\"를 \"체육청소년부\"로 한다', so the name 체육부 ended on 1990-12-26] | 조선일보 1990-12-27 p.4 '姜(강)총리 改閣(개각)보도 一笑(일소)' (Naver News Library article 1990122700239104004, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700239104004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700239104004, accessed 2026-09-26T13:31:12-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700239104004.json) [quote: '첫날인26일에는 통일원장관을 부총리로 격상시키는 정부조직법개정안공포등 공포안건 39건과'] [summary: the 국무회의 of 26 Dec 1990 cleared the promulgation of the 정부조직법 amendment, which was promulgated on 27 Dec] | 동아일보 1990-12-27 p.1 '총리에 盧在鳳(노재봉)씨' (Naver News Library article 1990122700209201001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1990122700209201001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001, accessed 2026-09-26T09:07:59-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1990122700209201001.json) [quote: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고 10개부처와 청와대비서진을 개편하는등 대대적인 정부인사를단행했다.'] [summary: 12·27 개각 on the morning of 27 Dec 1990. The same story names '체육청소년부장관에 朴哲彥民自黨의원을', i.e. the successor was appointed to the renamed office] | cross-lineage convention: roster/education.ext88.verified.json 정원식 end 1990-12-26 and roster/unification.ext88.verified.json 홍성철 end 1990-12-26 (same law, same day), roster/education.verified.json 이돈희 end 2001-01-28 (2001 rename)."
+   },
+   {
+    "section": "spells",
+    "index": 3,
+    "name": "정동성",
+    "field": "end_confidence",
+    "old": "inferred_from_successor",
+    "new": "medium",
+    "evidence": "The end is now the last legal day of 체육부 (statute), not the successor's appointment day. No 면직 or 이임식 date for 정동성 was found."
+   },
+   {
+    "section": "spells",
+    "index": 4,
+    "name": "박철언",
+    "field": "end_reason",
+    "old": "replaced",
+    "new": "resigned_to_run",
+    "evidence": "동아일보 1991-12-20 p.3 '核心(핵심)개편유보「모호한 補閣(보각)」' (Naver News Library article 1991122000209203003, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1991122000209203003, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203003, accessed 2026-09-26T10:14:30-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1991122000209203003.json) [quote: '朴哲彥체육청소년부장관과 李衍澤총무처장관의 경질은 14대총선에서 大邱壽城區와 全北全州에서 각각 출마할 뜻을 굳혔기 때문에 오래전부터 예상돼왔다.'] [summary: replaced because he would run in 대구 수성구 at the 14th general election (동아일보 p.3 analysis, a different story from the builder's p.3 item)] | 한겨레 1991-12-20 '7개부처 장관 경질' (BigKinds news_id 01101001.19911220000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19911220000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:55:58-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01101001.19911220000000104.json) [quote: '이번 개각에서 물러난 박철언 체육청소년부 장관과 이연택 총무처장관은 총선에서 민자당 공천으로 지역구에 출마할 예정이다.'] [summary: 한겨레 of 20 Dec 1991: he left the cabinet to stand for a 지역구 seat] | 경향신문 1991-12-19 '개각 금명 단행/부총리 포함 5∼6개부처 경질' (BigKinds news_id 01100101.19911219000000103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19911219000000103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:47:57-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100101.19911219000000103.json) [quote: '이번 개각에서 14대 총선에 출마하는 최각규 부총리,박철언 체육청소년부장관,이연택 총무처장관과 이봉서 상공부장관 등 5∼6개 부처의 장관이 경질될 것으로 전해졌다.'] [summary: 경향신문 of 19 Dec 1991, before the reshuffle] | na_members/na_members_12_22.csv row term 14, mona_cd DQE3331P (박철언 朴哲彦, 민주자유당, 대구 수성구갑, 지역구, seat 1992-05-30..1994-06-28, row sources NA-API 의원이력, NA-API ALLNAMEMBER, kowiki list oldid=40331547, kowiki 의석변동 oldid=41819802) [summary: he ran in the 14th general election of 1992-03-24 and won 대구 수성구갑] | cross-lineage: roster/general_affairs.ext88.verified.json 이연택 (same reshuffle) end_reason resigned_to_run."
+   },
+   {
+    "section": "spells",
+    "index": 5,
+    "name": "이진삼",
+    "field": "end_confidence",
+    "old": "high",
+    "new": "medium",
+    "evidence": "중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400, snapshot roster/sources/sports/ext88_verify/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다.'] [summary: 중앙일보 of 25 Feb 1993 reports that all outgoing ministers resigned and were accepted on 25 Feb, which would end the spell on 1993-02-25] | 조선일보 1993-02-26 p.7 '「15년 特立(특립)」마감 動資部(동자부),허탈한 분위기' (Naver News Library article 1993022600239107011, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1993022600239107011, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600239107011, accessed 2026-09-26T09:57:21-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1993022600239107011.json) [quote: '26일부터 일단「장관不在」상태로 들어가는동력자원부는'] [summary: 조선일보 of 26 Feb 1993 says 동력자원부, in the same position as 체육청소년부, was without a minister from 26 Feb]"
+   },
+   {
+    "section": "acting",
+    "index": 0,
+    "name": "이해봉",
+    "field": "role",
+    "old": "체육청소년부 차관, 장관 직무대리 after 이진삼's 의원면직 until the ministry was merged into 문화체육부. The person is inferred. 총무처 ruled that the 차관 would act, and 이해봉 is the 차관 named in February 1993. No source naming him as 직무대리 was found.",
+    "new": "체육청소년부 차관, 장관 직무대리 after 이진삼's 의원면직 until the ministry was merged into 문화체육부. The person is inferred. 총무처 ruled that the 차관 would act, and 이해봉 had been 차관 since 1992-04-20 and was still 차관 in January and February 1993. No source naming him as 직무대리 was found.",
+    "evidence": "동아일보 1992-04-21 p.2 '次官(차관)·知事級(지사급) 11명 人事(인사)' (Naver News Library article 1992042100209202001, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1992042100209202001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992042100209202001, accessed 2026-09-26T14:08:27-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1992042100209202001.json) [quote: '체육청소년부차관에 李海鳳大邱시장을 전보했으며'] [summary: 이해봉 became 체육청소년부 차관 on 20 Apr 1992 (not on 1991-12-20 as ko.wikipedia gives)] | 한겨레 1992-04-21 p.1 '차관급 11명 인사단행' (Naver News Library article 1992042100289101002, OCR text via POST https://newslibrary.naver.com/api/article/detail/json articleId=1992042100289101002, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992042100289101002, accessed 2026-09-26T21:21:41-0400, snapshot roster/sources/sports/ext88_verify/nl/nl_1992042100289101002.json) [quote: '체육청소년부차관에는 이해봉 대구직할시장'] [summary: same appointment, 한겨레 of 21 Apr 1992] | ko.wikipedia (builder's source) starts his 차관 term on 1991-12-20, which these two papers contradict."
+   },
+   {
+    "section": "continuity",
+    "index": null,
+    "name": "정동성 -> 박철언",
+    "field": "handovers",
+    "old": "{\"from\": \"정동성\", \"to\": \"박철언\", \"date\": \"1990-12-27\", \"type\": \"end inferred from successor, same day as the rename\"}",
+    "new": "{\"from\": \"정동성\", \"to\": \"박철언\", \"date\": \"1990-12-26/1990-12-27\", \"type\": \"rename day. 정동성 ends 1990-12-26, the last legal day of 체육부, and 박철언 starts 1990-12-27 as the first 체육청소년부장관 (verifier correction, was 'end inferred from successor, same day as the rename')\"}",
+    "evidence": "follows the 정동성 end correction above"
+   }
+  ],
+  "disputes": [
+   "이진삼 (체육청소년부) end: 1993-02-26 kept (own 이임식 on 26 Feb, 총무처 reading of 24 Feb, 12 other ext88 lineages) against 1993-02-25 (중앙일보 1993-02-25 BigKinds 01100901.19930225151908002 '25일 일괄사표를 제출,전원 수리됐다', 조선일보 1993-02-26 p.7 on 동자부 '26일부터 일단「장관不在」', ko.wikipedia and Namu). No source gives the formal 면직 date. The 1993 transition should be settled once across lineages (culture, energy, environment and general_affairs record the same dispute).",
+   "정동성 (체육부) end: 1990-12-26 (legal-day convention for the 1990-12-27 rename, as education.ext88 and unification.ext88) against the builder's 1990-12-27 (successor's appointment day, he may have held the renamed office for part of that day).",
+   "Project-level rule for the 3·17 개각 of 1990: this file keeps 김집 on 1990-03-19 (successor's 임명장) although his 이임식 was on 1990-03-17, like most ext88 lineages, while epb (조순) and industry end on 1990-03-17.",
+   "end_reason for 1988 holdovers: 'resigned' here and in foreign, finance, interior and justice (reappointed ministers), 'replaced' in culture and energy (not reappointed). Whether 전두환 holdovers end on 1988-02-24 or 1988-02-25 is also open at project level."
+  ],
+  "scripts": [
+   "roster/scripts/sports_ext88_verify_01_lists.py",
+   "roster/scripts/sports_ext88_verify_02_monthly_tally.py",
+   "roster/scripts/sports_ext88_verify_03_bk_search.py",
+   "roster/scripts/sports_ext88_verify_04_hankook_web.py",
+   "roster/scripts/sports_ext88_verify_05_tier2.py",
+   "roster/scripts/sports_ext88_verify_06_bk_fulltext.py",
+   "roster/scripts/sports_ext88_verify_07_nl_targeted.py",
+   "roster/scripts/sports_ext88_verify_08_nl_fulltext.py",
+   "roster/scripts/sports_ext88_verify_09_acting_search.py",
+   "roster/scripts/sports_ext88_verify_10_build.py"
+  ],
+  "snapshots": "roster/sources/sports/ext88_verify/"
+ }
+}

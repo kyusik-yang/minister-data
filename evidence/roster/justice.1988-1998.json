@@ -1,0 +1,1240 @@
+{
+ "lineage": "justice",
+ "built_at": "2026-09-26T09:49:37-0400",
+ "window": {
+  "start": "1988-02-25",
+  "end": "1998-02-24",
+  "note": "Every spell with a day in office in the window. The 1998 holdover (김종구) is copied unchanged from roster/justice.verified.json with from_main true."
+ },
+ "ministry_names": [
+  {
+   "ministry": "법무부",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (effective 1987-01-01) 제29조② and 법률 제5153호 (effective 1996-08-08) 제29조②, under which the heads of 행정각부 are 국무위원 (장관은 국무위원으로 보한다). No renaming within the window. From 1998-02-28 see the main file.",
+   "source": "offices_1988.json OFA15 법무부 (GOA_3854, GOA_5153, ARCH_OG0001524)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "정해창",
+   "name_hanja": "丁海昌",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1987-05-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '36,37대 정해창 (丁 海 昌) 1987.05.26 ~ 1988.12.04' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "동아일보 1987-05-26 p.1 \"總理(총리)에 李漢基(이한기)씨\" (Naver News Library article 1987052600209201003, OCR text: '법무부장관에 丁海昌대검차장,법제처장에 金鐘鍵青瓦臺사정수석비서관,검찰총장에 李種南법무부차관을 각각 임명,이날오후에 李총리등 신임각료등에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600209201003&editNo=2&printCount=1&publishDate=1987-05-26&officeId=00020&pageNo=1&printNo=20197&publishType=00020, accessed 2026-09-26T09:09:39-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1987052600209201003.json)",
+    "중앙일보 1987-05-26 \"박군· 범양사건관련 대폭개각 총리에 이한동씨\" (BigKinds news_id 01100901.19870526194211004, full text: '▲법무장관에 정해창대검차장을 각각 임명하고', accessed 2026-09-26T09:09:41-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19870526194211004.json)",
+    "대통령기록관 연도별 대통령 일정 (전두환 1987) 1987-05-26 '신임 국무총리 임명장 수여' / '이한기 국무총리(서리)와 신임 국무위원 등에게 임명장 수여' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=전두환&year=1987, accessed 2026-09-26T09:04:56-0400; snapshot roster/sources/justice/ext88/pa_chron/pa_전두환_1987_p1.html)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제36대 정해창 1987년 5월 26일 ~ 1988년 2월 24일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "경향신문 1987-05-26 p.1 \"總理(총리)에 李漢基(이한기)씨\" (Naver News Library article 1987052600329201004, OCR text: '全斗煥대통령은 26일 상오국무총리서리에 李漢基前감사원장을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600329201004&editNo=3&printCount=1&publishDate=1987-05-26&officeId=00032&pageNo=1&printNo=12817&publishType=00020, accessed 2026-09-26T10:10:59-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1987052600329201004.json) [verifier]",
+    "경향신문 1987-05-26 p.1 \"總理(총리)에 李漢基(이한기)씨\" (Naver News Library article 1987052600329201004, OCR text: '▲법무부장관에丁海昌 대검차장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987052600329201004&editNo=3&printCount=1&publishDate=1987-05-26&officeId=00032&pageNo=1&printNo=12817&publishType=00020, accessed 2026-09-26T10:10:59-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1987052600329201004.json) [verifier]",
+    "조선일보 1987-05-27 p.1 \"總理(총리)에 李漢基(이한기)씨 全(전)대통령,어제 問責改閣(문책개각) 단행\" (Naver News Library article 1987052700239101008, OCR text: '이날오후 青瓦臺에서 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987052700239101008&editNo=1&printCount=1&publishDate=1987-05-27&officeId=00023&pageNo=1&printNo=20350&publishType=00010, accessed 2026-09-26T10:11:22-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1987052700239101008.json) [verifier]",
+    "경향신문 1987-05-27 p.11 \"\"명예·信賴(신뢰)회복 선결과제\" (Naver News Library article 1987052700329211001, OCR text: '신임丁海昌법무부장관과 李種南 검찰총장은 26일과 27일취임식을가진후', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1987052700329211001&editNo=3&printCount=1&publishDate=1987-05-27&officeId=00032&pageNo=11&printNo=12818&publishType=00020, accessed 2026-09-26T10:11:10-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1987052700329211001.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022600239101004.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022500099201010.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text: '제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다', accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19880225005009001.json)",
+    "동아일보 1988-02-24 p.1 \"國務委員(국무위원) 일괄사표\" (Naver News Library article 1988022400209201012, OCR text: '이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T09:09:55-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022400209201012.json)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제36대 정해창 1987년 5월 26일 ~ 1988년 2월 24일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "한국경제 1988-02-25 \"盧 새大統領내외에 무궁화大勳章 수여\" (BigKinds news_id 02100601.19880225193101106, full text: '한편 金頁烈국무총리등 전 국무위원들은 이날 일괄사표를 제출했다.', accessed 2026-09-26T09:19:34-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_02100601.19880225193101106.json) (the blanket resignations of 1988-02-24) [verifier]",
+    "경향신문 1988-02-25 p.3 \"祝砲(축포)·비둘기 날리며\"希望(희망)의 나라로\"\" (Naver News Library article 1988022500329203002, OCR text: '盧대통령은全前대통령을 환송한뒤 李賢宰국무총리를 비롯,각료들에게 임명장을 수여함으로써', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329203002&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=3&printNo=13049&publishType=00020, accessed 2026-09-26T09:08:05-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988022500329203002.json) (the new cabinet, including the reappointed ministers, was appointed on 1988-02-25) [verifier]",
+    "동아일보 1988-02-26 p.11 \"大統領(대통령)행차때 車輛(차량)통제 안해\" (Naver News Library article 1988022600209211004, OCR text: '25일오전의 새내각및 青瓦臺수석비서관 임명장수여때부터', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600209211004&editNo=2&printCount=1&publishDate=1988-02-26&officeId=00020&pageNo=11&printNo=20430&publishType=00020, accessed 2026-09-26T13:27:25-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988022600209211004.json) [verifier]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Appointed in the 1987-05-26 개각 after the 박종철 affair, with the 임명장 that afternoon (동아일보 1987-05-26). The 대한민국사연표 files the reshuffle under 1987-05-25 (tcct_1987_05_25_0010), one day before every other source. Still in office when 노태우 took office on 1988-02-25, so a 전두환-era caretaker holdover. The whole 5공 cabinet handed in blanket resignations after the last 국무회의 on 1988-02-24, and the new President accepted them on the morning of 1988-02-25 (조선일보 1988-02-26, 매일경제 1988-02-25, 중앙일보 1988-02-25). end_reason 'resigned' records that formal acceptance. He was reappointed by 노태우 the same morning (next spell), so the two spells are one continuous stay in office. The ministry page merges both into one row numbered '36,37대' (1987.05.26 ~ 1988.12.04), and ko.wikipedia lists 제36대 to 1988-02-24 and 제37대 from 1988-02-25. This file ends the first spell on 1988-02-25, the day the resignation was accepted, following the same-day handover convention of the main justice file. No gazette files exist before 2001."
+  },
+  {
+   "name": "정해창",
+   "name_hanja": "丁海昌",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022600239101004.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text: '23명의 신임 국무위원들에게 임명장을 수여했다', accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19880225005009001.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022500099201010.json)",
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article 1988021900209201003, OCR text: '법무 丁海昌 체육 曺相鎬건설 崔同燮 체신 吳明장관등 7개부처장관이 재기용됐으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988021900209201003.json)",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text: '사공일 재무, 정해창 법무, 서상호 체육, 최동섭 건설, 오명 체신장관 등 7명을 재기용했으며', accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19880219004312001.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/justice/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제37대 정해창 1988년 2월 25일 ~ 1988년 12월 4일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "경향신문 1988-02-19 p.1 \"새政府(정부) 內閣(내각)명단 발표\" (Naver News Library article 1988021900329201004, OCR text: '丁海昌법무 曺相鎬체육崔同燮건설 吳明체신부장관등 7명을 재기용했으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004&editNo=3&printCount=1&publishDate=1988-02-19&officeId=00032&pageNo=1&printNo=13044&publishType=00020, accessed 2026-09-26T09:04:12-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988021900329201004.json) [verifier]",
+    "매일경제 1988-02-19 p.1 \"부총리에 羅雄培(나웅배)씨\" (Naver News Library article 1988021900099201001, OCR text: '丁海昌법무장관,曺相鎬체육장관,崔同燮건설장관,吳明체신장관등7개부처장관은 유임됐다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900099201001&editNo=1&printCount=1&publishDate=1988-02-19&officeId=00009&pageNo=1&printNo=6757&publishType=00020, accessed 2026-09-26T09:44:38-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988021900099201001.json) [verifier]",
+    "경향신문 1988-02-26 p.4 \"\"閣下(각하)\"없애고 本人(본인) 대신\"제가…\"\" (Naver News Library article 1988022600329204002, OCR text: '상오11시40분 청와대 본관대접견실에서 있은 신임각료및 수석비서관임명장 수여식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329204002&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=4&printNo=13050&publishType=00020, accessed 2026-09-26T09:05:44-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988022600329204002.json) [verifier]",
+    "동아일보 1988-02-26 p.11 \"大統領(대통령)행차때 車輛(차량)통제 안해\" (Naver News Library article 1988022600209211004, OCR text: '25일오전의 새내각및 青瓦臺수석비서관 임명장수여때부터', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600209211004&editNo=2&printCount=1&publishDate=1988-02-26&officeId=00020&pageNo=11&printNo=20430&publishType=00020, accessed 2026-09-26T13:27:25-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988022600209211004.json) [verifier]",
+    "경향신문 1988-02-26 p.11 \"\"民主(민주)·和合(화합)으로 참된 奉仕(봉사)행정\"\" (Naver News Library article 1988022600329211001, OCR text: '丁海昌 법무부장관은 이날상오 법무부 검찰간부들이모인자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329211001&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=11&printNo=13050&publishType=00020, accessed 2026-09-26T09:06:29-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988022600329211001.json) (in office on 1988-02-26) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '36,37대 정해창 (丁 海 昌) 1987.05.26 ~ 1988.12.04' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "동아일보 1988-12-05 p.2 \"李(이)총리,마지막 國務會議(국무회의)\" (Naver News Library article 1988120500209202006, OCR text: '李賢宰국무총리는 5일오전 8시10분정부종합청사19증 국무회의실에서「6공화국첫내각」의 마지막 국무회의를 주재하고 전국무위원들의 일괄사표를 받아', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209202006&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=2&printNo=20672&publishType=00020, accessed 2026-09-26T09:42:36-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209202006.json)",
+    "동아일보 1988-12-05 p.2 \"李(이)총리,마지막 國務會議(국무회의)\" (Naver News Library article 1988120500209202006, OCR text: '국무회의실 주변에는 오전7시45분경 丁海昌법무 李範俊교통 李鍾賛정무제1장관등이 맨먼저 도착', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209202006&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=2&printNo=20672&publishType=00020, accessed 2026-09-26T09:42:36-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209202006.json)",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '법무부장관 許亨九전검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209201003.json)",
+    "한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120600289101006.json)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제37대 정해창 1988년 2월 25일 ~ 1988년 12월 4일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120500329201003.json) [verifier]",
+    "한겨레 1988-12-06 p.1 \"내각 전면적 개편\" (Naver News Library article 1988120600289101001, OCR text: '법무 허형구 전 검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:44:44-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120600289101001.json) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Reappointed on inauguration day. 노태우 as 대통령당선인 named him on 1988-02-19 as one of seven ministers of the 5공 cabinet kept in the new cabinet (외무 최광수, 내무 이상희, 재무 사공일, 법무 정해창, 체육 조상호, 건설 최동섭, 체신 오명, per 동아일보 and 중앙일보 1988-02-19). The new President gave the 임명장 to the PM 서리 and all 23 국무위원 on the morning of 1988-02-25, right after accepting the outgoing cabinet's resignations. Replaced in the 1988-12-05 전면개각. He attended the last 국무회의 of the 이현재 cabinet at 08:10 that morning, where all ministers handed in their resignations, and 허형구 received his 임명장 in the afternoon (동아일보 1988-12-05). The ministry page gives 1988-12-04 as the last day (day-before convention), and this file uses the handover day. He later served as 대통령 비서실장 (ministry 약력 page, not used for dates)."
+  },
+  {
+   "name": "허형구",
+   "name_hanja": "許亨九",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '38대 허형구 (許 亨 九) 1988.12.05 ~ 1990.03.18' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '법무부장관 許亨九전검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209201003.json)",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article 1988120500209201032, OCR text: '오후에는 신임국무위원들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209201032.json)",
+    "한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120600289101006.json)",
+    "중앙일보 1988-12-06 \"신임내각취임 제1성\" (BigKinds news_id 01100901.19881206055155001, full text: '◇허형구 법무=자유민주주의 체제를 수호해야 한다는', accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19881206055155001.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1988_12_05_0010 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1988-12-05.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/justice/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '▲법무 許亨九전검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120500329201003.json) [verifier]",
+    "경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120500329201003.json) [verifier]",
+    "한겨레 1988-12-06 p.1 \"내각 전면적 개편\" (Naver News Library article 1988120600289101001, OCR text: '법무 허형구 전 검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:44:44-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120600289101001.json) [verifier]",
+    "조선일보 1988-12-06 p.14 \"\"산적한 현안…과감한 추진 기대\" 새長官(장관)맞는 각部処(부처) 이모저모\" (Naver News Library article 1988120600239114006, OCR text: '법무부직원들은 許亨九신임장관이 원만한 성품의검찰원로급 인사라는 점에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=14&printNo=20825&publishType=00010, accessed 2026-09-26T09:47:57-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1988120600239114006.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1990-03-19",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '38대 허형구 (許 亨 九) 1988.12.05 ~ 1990.03.18' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "동아일보 1990-03-17 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article 1990031700209201001, OCR text: '법무부장관에 李種南前검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1990031700209201001.json)",
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds news_id 01100201.19900319000000107, full text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다', accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100201.19900319000000107.json)",
+    "부산일보 1990-03-18 \"신임閣僚에 임명장 盧 대통령\" (BigKinds news_id 01500701.19900318195508102, full text: '19일상오 청와대에서 李承)潤부총 리겸 경제기획원장관을 비롯한 15명의 신임각료', accessed 2026-09-26T09:30:06-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01500701.19900318195508102.json)",
+    "중앙일보 1990-03-19 \"국정 분위기ㆍ민심 쇄신 당부/노대통령 내각에 지시\" (BigKinds news_id 01100901.19900319174220001, full text: '노태우대통령은 19일 오전 청와대에서 새로 임명된 각료와 청와대 비서실장 등에게 임명장을 주며', accessed 2026-09-26T09:48:14-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19900319174220001.json) [verifier]",
+    "매일경제 1990-03-19 p.1 \"\"經濟難(경제난) 빨리 풀도록\"\" (Naver News Library article 1990031900099201005, OCR text: '盧泰愚대통령은 19일상오 청와대에서 李承潤부총리겸경제기획원장관등 신임각료와 盧在鳳청와대비서실장등 신임비서관에게임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900099201005&editNo=1&printCount=1&publishDate=1990-03-19&officeId=00009&pageNo=1&printNo=7398&publishType=00020, accessed 2026-09-26T09:40:19-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1990031900099201005.json) [verifier]",
+    "매일경제 1990-03-17 p.1 \"부총리에 李承潤(이승윤)씨\" (Naver News Library article 1990031700099201002, OCR text: '법무부장관에 李種南前검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700099201002&editNo=1&printCount=1&publishDate=1990-03-17&officeId=00009&pageNo=1&printNo=7397&publishType=00020, accessed 2026-09-26T10:12:52-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1990031700099201002.json) (announcement of 1990-03-17) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Former 검찰총장 named in the 1988-12-05 전면개각 and given the 임명장 that afternoon. Replaced in the reshuffle announced on 1990-03-17 (15개 부처 장관 경질). The successor's 임명장 was given on the morning of 1990-03-19, so the end is set to that day (inferred_from_successor). The ministry page lists 1990-03-18 (day-before convention). No separate exit date was found."
+  },
+  {
+   "name": "이종남",
+   "name_hanja": "李種南",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1990-03-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '39대 이종남 (李 種 南) 1990.03.19 ~ 1991.05.2' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds news_id 01100201.19900319000000107, full text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다', accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100201.19900319000000107.json)",
+    "한국일보 1990-03-20 \"“민심 쇄신정책 과감히 추진” 노대통령,신임 각료등에 임명장 수여\" (BigKinds news_id 01101101.19900320000000104, full text: '노대통령은 신임장관들에게 임명장을 수여했다', accessed 2026-09-26T09:29:52-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19900320000000104.json)",
+    "서울신문 1990-03-19 \"신임각료 15명에 오늘 임명장 수여/노대통령\" (BigKinds news_id 01100611.20160420190313339, full text: '노태우대통령은 19일 상오 청와대에서 이승윤부총리겸 경제기획원장관등 15개 부처 신임장관과', accessed 2026-09-26T09:26:53-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160420190313339.json)",
+    "동아일보 1990-03-17 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article 1990031700209201001, OCR text: '법무부장관에 李種南前검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1990031700209201001.json)",
+    "경향신문 1990-03-19 p.15 \"신임李種南(이종남)법무 귀국\" (Naver News Library article 1990031900329215013, OCR text: '李種南신임법무부장관은 18일하오8시45분 KAL025편으로 귀국했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329215013&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=15&printNo=13685&publishType=00020, accessed 2026-09-26T09:27:20-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1990031900329215013.json)",
+    "행정안전부 역대 내무부 장관 https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do, row '1990년 3월 19일 ~ 1991년 4월 28일' preceded by '년 3월 30일 제53대 장관 안응모 재임기간' (same reshuffle, cross-check of the effective day, accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/justice/ext88/crossministry/mois_home.html)",
+    "보건복지부 역대 장관 (보건사회부) https://www.mohw.go.kr/pastProfile.es?mid=a10605060000&menuType=2&searchType=&keyword=&pageNum=4, row '1990.03.19 ~ 1991.05.26' preceded by '5대 김정수 金正秀 부처명 보건사회부 재임기간' (same reshuffle, cross-check of the effective day, accessed 2026-09-26T08:38:40-0400; snapshot roster/sources/justice/ext88/crossministry/mohw.html)",
+    "매일경제 1990-03-17 p.1 \"부총리에 李承潤(이승윤)씨\" (Naver News Library article 1990031700099201002, OCR text: '법무부장관에 李種南前검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700099201002&editNo=1&printCount=1&publishDate=1990-03-17&officeId=00009&pageNo=1&printNo=7397&publishType=00020, accessed 2026-09-26T10:12:52-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1990031700099201002.json) (announcement of 1990-03-17) [verifier]",
+    "중앙일보 1990-03-19 \"국정 분위기ㆍ민심 쇄신 당부/노대통령 내각에 지시\" (BigKinds news_id 01100901.19900319174220001, full text: '노태우대통령은 19일 오전 청와대에서 새로 임명된 각료와 청와대 비서실장 등에게 임명장을 주며', accessed 2026-09-26T09:48:14-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19900319174220001.json) [verifier]",
+    "매일경제 1990-03-19 p.1 \"\"經濟難(경제난) 빨리 풀도록\"\" (Naver News Library article 1990031900099201005, OCR text: '盧泰愚대통령은 19일상오 청와대에서 李承潤부총리겸경제기획원장관등 신임각료와 盧在鳳청와대비서실장등 신임비서관에게임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900099201005&editNo=1&printCount=1&publishDate=1990-03-19&officeId=00009&pageNo=1&printNo=7398&publishType=00020, accessed 2026-09-26T09:40:19-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1990031900099201005.json) [verifier]",
+    "국민일보 1990-03-20 \"“범죄자 발 못붙이는 풍토 조성”/신임 이종남 법무장관(인터뷰)\" (BigKinds news_id 01100201.19900320000001810, full text: '18일밤 귀국한 신임 이종남법무장관은 19일 오후 취임식 직후', accessed 2026-09-26T13:20:08-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19900320000001810.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1991-05-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=5, entry '39대 이종남 (李 種 南) 1990.03.19 ~ 1991.05.2' (accessed 2026-09-24T22:37:07-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p5.html)",
+    "중앙일보 1991-05-27 \"4부장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준\" (BigKinds news_id 01100901.19910527025209002, full text: '이종남 법무장관등 비교적 장수한 4개부처 장관등을 바꾸기로 했다', accessed 2026-09-26T09:30:56-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19910527025209002.json)",
+    "경향신문 1991-05-28 p.2 \"鄭(정)총리·신임각료4명 盧(노)대통령,임명장수여\" (Naver News Library article 1991052800329102005, OCR text: '盧泰愚대통령은 27일 상오 청와대에서 鄭元植총리서리와 李龍萬재무·金淇春법무·陳稔동자·安弼濬보사부장관에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800329102005&editNo=15&printCount=1&publishDate=1991-05-28&officeId=00032&pageNo=2&printNo=14063&publishType=00010, accessed 2026-09-26T09:27:35-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1991052800329102005.json)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제39대 이종남 1990년 3월 19일 ~ 1991년 5월 26일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "세계일보 1991-05-28 \"4부장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준\" (BigKinds news_id 01100701.19910528000000102, full text: '이어 노 대통령은 27일 정 총리서리와 신임 4부장관에게 임명장을 수여했다.', accessed 2026-09-26T13:18:19-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100701.19910528000000102.json) [verifier]",
+    "중앙일보 1991-05-27 \"소신행정 당부/노 대통령\" (BigKinds news_id 01100901.19910527025211001, full text: '노태우 대통령은 27일 정원식 신임총리서리 및 이용만 재무·김기춘 법무·진념 동자·안필준 보사부장관에게 임명장을 수여하고', accessed 2026-09-26T13:19:02-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19910527025211001.json) [verifier]",
+    "한겨레 1991-05-28 p.1 \"4부장관 경질\" (Naver News Library article 1991052800289101004, OCR text: '노태우 대통령은 27일 정원식총리서리와 신임 4부 장관들에게임명장을 주었다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800289101004&editNo=4&printCount=1&publishDate=1991-05-28&officeId=00028&pageNo=1&printNo=936&publishType=00010, accessed 2026-09-26T10:12:32-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1991052800289101004.json) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Named on 1990-03-17 while a visiting scholar at Harvard, returned on the evening of 1990-03-18 (경향신문 1990-03-19) and received the 임명장 with the other new ministers on the morning of 1990-03-19. Start is the 임명장 day, which the ministry page and the pages of the other ministries in the same reshuffle (내무부, 보건사회부, 총무처, 동력자원부, 과학기술처, 통일원) also print. The 대한민국사연표 files the reshuffle under the 1990-03-17 announcement. Replaced in the 1991-05-26 개각 after the 노재봉 cabinet fell. The ministry page prints the end as '1991.05.2' (truncated in the HTML), and ko.wikipedia gives 1991-05-26, the announcement day. This file ends the spell on 1991-05-27, when the successor received the 임명장 (inferred_from_successor). He later served as 감사원장 (ministry 약력 page). Verifier: 한겨레 1991-05-28 says the four ministers of the 1991-05-26 개각 were '임명·발령' on the afternoon of 1991-05-26, while 세계일보 and 중앙일보 put the 임명장 on 1991-05-27 and the 법무부 and 동력자원부 pages print 1991-05-27. The end is kept on the 임명장 day as in the other reshuffles."
+  },
+  {
+   "name": "김기춘",
+   "name_hanja": "金淇春",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-11-25",
+   "gender": "M",
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1991-05-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '40대 김기춘 (金 淇 春) 1991.05.27 ~ 1992.10.08' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "경향신문 1991-05-28 p.2 \"鄭(정)총리·신임각료4명 盧(노)대통령,임명장수여\" (Naver News Library article 1991052800329102005, OCR text: '盧泰愚대통령은 27일 상오 청와대에서 鄭元植총리서리와 李龍萬재무·金淇春법무·陳稔동자·安弼濬보사부장관에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800329102005&editNo=15&printCount=1&publishDate=1991-05-28&officeId=00032&pageNo=2&printNo=14063&publishType=00010, accessed 2026-09-26T09:27:35-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1991052800329102005.json)",
+    "한국일보 1991-05-28 \"정총리서리·4부장관/노 대통령,임명장 수여\" (BigKinds news_id 01101101.19910528000000204, full text: '노태우대통령은 27일 상오 청와대에서 신임 정원식 국무총리서리·이용만 재무·김기춘 법무·진임 동자·안필준 보사부장관에게 임명장을 수여했다', accessed 2026-09-26T09:30:36-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19910528000000204.json)",
+    "동아일보 1991-05-27 p.3 \"盧泰愚(노태우)대통령이 27일오전 鄭元植(정원식)국무총리서리와...\" (Naver News Library article 1991052700209203002, OCR text: '盧泰愚대통령이 27일오전 鄭元植국무총리서리와 신임4개부처 장관들에게 임명장을 준 다음', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991052700209203002&editNo=2&printCount=1&publishDate=1991-05-27&officeId=00020&pageNo=3&printNo=21485&publishType=00020, accessed 2026-09-26T09:27:29-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1991052700209203002.json)",
+    "세계일보 1991-05-28 \"“체제파괴 기도/관용할 수 없다”/김기춘 법무 취임사\" (BigKinds news_id 01100701.19910528000001809, full text: '김기춘 신임법무부 장관은 27일 취임사를 통해', accessed 2026-09-26T09:30:46-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100701.19910528000001809.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1991_05_26_0010 '노태우 대통령, 재무장관 이용만·법무장관 김기춘 ·동력자원장관 진념·보건사회장관 안필준 임명' https://db.history.go.kr/id/tcct_1991_05_26_0010 (accessed 2026-09-26T09:06:42-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1991-05-26.html)",
+    "산업통상부 역대 장관 (상공부, 동력자원부) https://www.motir.go.kr/kor/21/history?pageIndex=4, row '1991년05월27일 ~ 1993년02월25일' preceded by '번호 부처 이름 재임기간 47 동력자원부 진념' (same reshuffle, cross-check of the effective day, accessed 2026-09-24T22:43:58-0400; snapshot roster/sources/justice/ext88/crossministry/motir.html)",
+    "세계일보 1991-05-28 \"4부장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준\" (BigKinds news_id 01100701.19910528000000102, full text: '노태우 대통령은 26일 오후 4개 부처 장관을 경질,재무부 장관에 이용만 은행감독원장,법무부 장관에 김기춘 전 검찰총장', accessed 2026-09-26T13:18:19-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100701.19910528000000102.json) (announcement) [verifier]",
+    "세계일보 1991-05-28 \"4부장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준\" (BigKinds news_id 01100701.19910528000000102, full text: '이어 노 대통령은 27일 정 총리서리와 신임 4부장관에게 임명장을 수여했다.', accessed 2026-09-26T13:18:19-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100701.19910528000000102.json) [verifier]",
+    "중앙일보 1991-05-27 \"소신행정 당부/노 대통령\" (BigKinds news_id 01100901.19910527025211001, full text: '노태우 대통령은 27일 정원식 신임총리서리 및 이용만 재무·김기춘 법무·진념 동자·안필준 보사부장관에게 임명장을 수여하고', accessed 2026-09-26T13:19:02-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19910527025211001.json) [verifier]",
+    "조선일보 1991-05-28 p.3 \"닻올린 鄭(정)내각…「法(법)질서-所信(소신)」강조\" (Naver News Library article 1991052800239103001, OCR text: '신임金淇春법무장관은 오후2시 있은 취임식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1991052800239103001&editNo=1&printCount=1&publishDate=1991-05-28&officeId=00023&pageNo=3&printNo=21645&publishType=00010, accessed 2026-09-26T10:12:40-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1991052800239103001.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1992-10-09",
+   "end_confidence": "high",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '40대 김기춘 (金 淇 春) 1991.05.27 ~ 1992.10.08' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "경향신문 1992-10-08 \"새총리에 현승종씨/정 내각 일괄 사표/내일 개각…4∼5개부처 경질\" (BigKinds news_id 01100101.19921008000000101, full text: '한편 정원식 국무총리와 국무위원 전원은 7일 하오 3시 간담회를 갖고 일괄 사표를 작성,노 대통령에게 제출했다', accessed 2026-09-26T09:31:32-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100101.19921008000000101.json)",
+    "한국일보 1992-10-10 \"4부처 장관 경질/안기부장에 이현우씨\" (BigKinds news_id 01101101.19921010000000103, full text: '또 이날 유임이 결정된 국무위원들의 사표는 모두 반려됐다', accessed 2026-09-26T09:24:27-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19921010000000103.json)",
+    "동아일보 1992-10-09 p.1 \"安企部長(안기부장)-4部處(부처)장관 경질「中立內閣(중립내각)」출범\" (Naver News Library article 1992100900209201001, OCR text: '법무부장관에 李正雨前법원행정처장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1992100900209201001.json)",
+    "전북도민일보 1992-10-10 \"새 각료에 任命狀 수여 盧대통령\" (BigKinds news_id 01601001.19921010094152104, full text: '盧泰愚대통령은 9일 하오 청와대에서 李賢雨안기부장과 白光鉉내무 李正雨법무', accessed 2026-09-26T09:31:20-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601001.19921010094152104.json)",
+    "국민일보 1992-10-10 \"「판사 법무장관」과 검찰/한병권 사회부(현장기자)\" (BigKinds news_id 01100201.19921010000001804, full text: '9일 오전과 오후 과천정부제2청사 법무부강당에서 김기춘·이정우 장관의 이·취임식이 각각 열렸다.', accessed 2026-09-26T13:20:46-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19921010000001804.json) [verifier]",
+    "경향신문 1992-10-10 p.1 \"\"모든 선거事犯(사범) 法(법)대로\"\" (Naver News Library article 1992101000329101001, OCR text: '盧대통령은 안기부장과4개부처장관이외의 각료들이 제출한 사표는 이날반려해 모두 유임시켰다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329101001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=1&printNo=14549&publishType=00010, accessed 2026-09-26T10:13:51-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1992101000329101001.json) [verifier]",
+    "경향신문 1992-10-09 p.3 \"\"限時(한시)장관\"고사로 설득 진통\" (Naver News Library article 1992100900329103001, OCR text: '金淇春장관이 뜻밖으로 물러나게된데대해', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900329103001&editNo=15&printCount=1&publishDate=1992-10-09&officeId=00032&pageNo=3&printNo=14548&publishType=00010, accessed 2026-09-26T09:59:49-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1992100900329103001.json) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Former 검찰총장. The 개각 was announced on the afternoon of Sunday 1991-05-26 (조선일보, 중앙일보 1991-05-27) and the 임명장 was given on the morning of 1991-05-27, which the ministry page and the 동력자원부 page (진념, same reshuffle) print as the start. The 대한민국사연표 dates the appointment 1991-05-26 (announcement). The 정원식 cabinet handed in blanket resignations on 1992-10-07 before the 중립내각. On 1992-10-09 the President named four new ministers including 이정우 at 법무부 and returned the resignations of the ministers who stayed (한국일보 1992-10-10), so 김기춘's resignation took effect that day. The acceptance is implied, not stated, hence end_confidence medium. The ministry page lists 1992-10-08 (day-before convention). Birth date and gender from na_members/na_members_12_22.csv (mona_cd of the 15th-17th term member 김기춘 金淇春, hanja matches the ministry page). He was not an Assembly member at the time of this spell. Verifier: end_confidence raised from medium to high. 국민일보 1992-10-10 reports that the 이임식 of 김기춘 and the 취임식 of 이정우 were held in the 법무부 auditorium on the morning and the afternoon of 1992-10-09, and 경향신문 1992-10-10 that the resignations of the ministers who stayed were returned that day."
+  },
+  {
+   "name": "이정우",
+   "name_hanja": "李正雨",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1992-10-09",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '41대 이정우 (李 正 雨) 1992.10.09 ~ 1993.02.25' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "동아일보 1992-10-09 p.1 \"安企部長(안기부장)-4部處(부처)장관 경질「中立內閣(중립내각)」출범\" (Naver News Library article 1992100900209201001, OCR text: '盧대통령은 이날오후 靑瓦臺에서 신임 안기부장및4개부처장관들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1992100900209201001.json)",
+    "전북도민일보 1992-10-10 \"새 각료에 任命狀 수여 盧대통령\" (BigKinds news_id 01601001.19921010094152104, full text: '盧泰愚대통령은 9일 하오 청와대에서 李賢雨안기부장과 白光鉉내무 李正雨법무', accessed 2026-09-26T09:31:20-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601001.19921010094152104.json)",
+    "조선일보 1992-10-10 p.3 \"◇임명장 수여\" (Naver News Library article 1992101000239103005, OCR text: '盧泰愚대통령이 9일오후 청와대에서 이날출범한', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000239103005&editNo=1&printCount=1&publishDate=1992-10-10&officeId=00023&pageNo=3&printNo=22134&publishType=00010, accessed 2026-09-26T09:27:41-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1992101000239103005.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1992_10_09_0010 '노태우 대통령, 내무부장관 백광현·법무부장관 이정우·공보처장관 유혁인·정무제1장관 김동익 등 중립내각 개편' https://db.history.go.kr/id/tcct_1992_10_09_0010 (accessed 2026-09-26T09:07:08-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1992-10-09.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1992) 1992-10-09 '중립내각 구성에 관한 특별 담화 발표' / '신임국무총리에 현승종, 내무부장관 백광현, 법무부장관 이정우, 공보처장관 유혁인, 정무제1장관 김동익 등 중립내각 개편' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1992, accessed 2026-09-26T09:04:41-0400; snapshot roster/sources/justice/ext88/pa_chron/pa_노태우_1992_p1.html)",
+    "경향신문 1992-10-10 p.1 \"\"모든 선거事犯(사범) 法(법)대로\"\" (Naver News Library article 1992101000329101001, OCR text: '법무부장관에 李正雨前법원행정처장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329101001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=1&printNo=14549&publishType=00010, accessed 2026-09-26T10:13:51-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1992101000329101001.json) [verifier]",
+    "경향신문 1992-10-10 p.1 \"\"모든 선거事犯(사범) 法(법)대로\"\" (Naver News Library article 1992101000329101001, OCR text: '盧대통령은 이어 이날하오 신임각료들에게 임명장을 수여한뒤', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329101001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=1&printNo=14549&publishType=00010, accessed 2026-09-26T10:13:51-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1992101000329101001.json) [verifier]",
+    "중부매일 1992-10-10 \"신임장관에 임명장\" (BigKinds news_id 01400401.19921010171108111, full text: '9일 오후 청와대에서 李賢雨 안기부장과 白光敍내무 李正雨 법무 柳赫仁 공보처 金銅益 정무 1장관 등신임 4부 장관에 임명장을 수여했다.', accessed 2026-09-26T13:09:42-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01400401.19921010171108111.json) [verifier]",
+    "국민일보 1992-10-10 \"「판사 법무장관」과 검찰/한병권 사회부(현장기자)\" (BigKinds news_id 01100201.19921010000001804, full text: '9일 오전과 오후 과천정부제2청사 법무부강당에서 김기춘·이정우 장관의 이·취임식이 각각 열렸다.', accessed 2026-09-26T13:20:46-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19921010000001804.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '41대 이정우 (李 正 雨) 1992.10.09 ~ 1993.02.25' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"\" (Naver News Library article 1993022400099202004, OCR text: '새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022400099202004.json)",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '법무장관에 朴熺太民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601101.19930226014940103.json)",
+    "ko.wikipedia '대한민국 법무부 장관' https://ko.wikipedia.org/w/index.php?oldid=42390799, row '제41대 이정우 1992년 10월 9일 ~ 1993년 2월 25일' (tier 4, accessed 2026-09-24T22:33:21-0400; snapshot roster/sources/justice/ext88/wiki_대한민국_법무부_장관.json)",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993022700289101001.json) [verifier]",
+    "경향신문 1993-02-27 p.1 \"부총리 李經植(이경식)(기획원)韓完相(한완상)(통일원)\" (Naver News Library article 1993022700329101001, OCR text: '법무부장관에 朴熺太民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329101001&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=1&printNo=14685&publishType=00010, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993022700329101001.json) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Former 대법원 판사 and 법원행정처장, the first judge to head the ministry (한겨레 1992-10-10). Appointed to the 현승종 중립선거관리내각 on 1992-10-09 (named that morning, 임명장 that afternoon). Served past the 1993-02-25 inauguration of 김영삼 as a caretaker holdover. On 1993-02-24 the 총무처 view reported by 매일경제 was that ministers had no fixed term, did not need to resign en bloc to the new President, and would hand over when successors were appointed. The first 김영삼 cabinet, 박희태 at 법무부, was appointed on 1993-02-26, so the end is that day (inferred_from_successor). The ministry page and ko.wikipedia give 1993-02-25."
+  },
+  {
+   "name": "박희태",
+   "name_hanja": "朴熺太",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-08-09",
+   "gender": "M",
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '42대 박희태 (朴 熺 太) 1993.02.26 ~ 1993.03.07' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '법무장관에 朴熺太民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022600209201001.json)",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601101.19930226014940103.json)",
+    "부산일보 1993-02-27 \"[기자실] 金 대통령 內閣임명장 수여도 「破格」\" (BigKinds news_id 01500701.20160409010500850, full text: '26일 오후 24개 부처 장관과 안기부장 등 이 날 임명된 27명에게 임명장을 수여하면서도', accessed 2026-09-26T09:31:58-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01500701.20160409010500850.json)",
+    "동아일보 1993-02-27 p.4 \"새内閣(내각) 기념촬영\" (Naver News Library article 1993022700209204002, OCR text: '26일새정부 組閣등 인선내용을 발표한뒤 靑瓦臺에서 임명장을 주고 기념촬영을 했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209204002&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=4&printNo=22098&publishType=00020, accessed 2026-09-26T09:27:46-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022700209204002.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' https://db.history.go.kr/id/tcct_1993_02_26_0010 (accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1993-02-26.html)",
+    "경향신문 1993-02-27 p.1 \"부총리 李經植(이경식)(기획원)韓完相(한완상)(통일원)\" (Naver News Library article 1993022700329101001, OCR text: '법무부장관에 朴熺太民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329101001&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=1&printNo=14685&publishType=00010, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993022700329101001.json) [verifier]",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다.', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993022700289101001.json) [verifier]",
+    "경향신문 1993-02-27 p.23 \"내주말 특별赦免(사면)\" (Naver News Library article 1993022700329123014, OCR text: '朴熺太신임법무부장관은26일', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329123014&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=23&printNo=14685&publishType=00010, accessed 2026-09-26T10:13:58-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993022700329123014.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1993-03-08",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1993-03-08 p.1 \"부분改閣(개각) 단행\" (Naver News Library article 1993030800209201009, OCR text: '金泳三대통령은 8일오후 딸의 대학편법입학으로물의를 일으킨 朴熺太법무장관과 부동산투기로 말썽을 빚은 朴孃實보사부장관의 사표를 수리하고 후임장관을 임명한다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993030800209201009&editNo=1&printCount=1&publishDate=1993-03-08&officeId=00020&pageNo=1&printNo=22107&publishType=00020, accessed 2026-09-26T09:27:55-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993030800209201009.json)",
+    "국민일보 1993-03-08 \"법무·보사 경질/두 장관 사표수리\" (BigKinds news_id 01100201.19930308000000101, full text: '김영삼대통령은 8일 오후 딸의 특례입학과 관련,물의를 빚은 박희태법무부장관과', accessed 2026-09-26T09:32:57-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100201.19930308000000101.json)",
+    "한국일보 1993-03-09 \"법무 김두희/건설 고병우씨/보사 송정숙/서울시장 이원종씨\" (BigKinds news_id 01101101.19930309000000103, full text: '김영삼대통령은 8일 하오 도덕성시비 및 축재의혹 등으로 물의를 빚은 법무·건설·보사 등 3개 부처장관의 경질인사를 단행,신임 법무부장관에 김두희 검찰총장을 임명했다', accessed 2026-09-26T09:33:39-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19930309000000103.json)",
+    "경향신문 1993-03-08 \"박희태법무도 사퇴/어제 청와대에 뜻 전달/“개혁걸림돌 우려 결심”\" (BigKinds news_id 01100101.19930308000000101, full text: '박 법무장관은 이에앞서 7일 오후 김 대통령에게 사퇴의사를 전했으며', accessed 2026-09-26T09:32:45-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100101.19930308000000101.json)",
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '42대 박희태 (朴 熺 太) 1993.02.26 ~ 1993.03.07' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "서울신문 1993-03-09 \"3부장관 경질/김 대통령/“일부각료 도덕적문제 야기에 죄송”\" (BigKinds news_id 01100611.20160421222535182, full text: '자진사퇴한 박희태전법무부장관과 부동산취득시 법적문제를 일으켰던 박량실전보사부장관의 사표를 받아들이고', accessed 2026-09-26T13:22:02-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100611.20160421222535182.json) [verifier]",
+    "한겨레 1993-03-09 \"군수뇌·3부장관 경질\" (BigKinds news_id 01101001.19930309000000101, full text: '이 수석은 박희태 법무·박양실 보사부장관의 경우 딸의 대학편법입학과 부동산 취득 때의 법적 문제가 각각 제기됨에 따라 사표를 수리했다고 설명했으나', accessed 2026-09-26T13:23:26-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01101001.19930309000000101.json) [verifier]",
+    "국민일보 1993-03-09 \"아쉬운 도중하차/박병권 사회부(현장기자)\" (BigKinds news_id 01100201.19930309000000404, full text: '취임 10일만에 경질된 박희태법무장관의 후임으로', accessed 2026-09-26T13:22:50-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19930309000000404.json) [verifier]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 14th NA member (민주자유당, 경남 남해·하동군) at appointment, na_members_12_22.csv mona_cd FSN5613H (seat 1992-05-30..1996-05-29); 동아일보 1993-02-26 calls him '朴熺太民自黨의원'",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Named in the first 김영삼 cabinet on 1993-02-26 and given the 임명장 that afternoon. Resigned over his daughter's 특례입학. He told 비서실장 박관용 on the afternoon of Sunday 1993-03-07 that he would step down (경향신문, 한겨레 1993-03-08), and the President accepted the resignation and appointed 김두희 on the afternoon of 1993-03-08 (동아일보 1993-03-08, 국민일보 1993-03-08, 한국일보 1993-03-09). End is the acceptance day, a same-day handover. The ministry page lists 1993-03-07 (day-before convention). Birth date and gender from na_members/na_members_12_22.csv (mona_cd FSN5613H)."
+  },
+  {
+   "name": "김두희",
+   "name_hanja": "金斗喜",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1993-03-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '43대 김두희 (金 斗 喜) 1993.03.08 ~ 1994.12.23' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "한국일보 1993-03-09 \"법무 김두희/건설 고병우씨/보사 송정숙/서울시장 이원종씨\" (BigKinds news_id 01101101.19930309000000103, full text: '김 대통령은 이날 하오 청와대에서 신임 각료와 서울시장에게 임명장을 주었다', accessed 2026-09-26T09:33:39-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19930309000000103.json)",
+    "조선일보 1993-03-09 p.1 \"◇8일 오후 청와대에서 임명장을 받은 金斗喜(김두희)법...\" (Naver News Library article 1993030900239101013, OCR text: '8일 오후 청와대에서 임명장을 받은 金斗喜법무', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900239101013&editNo=1&printCount=1&publishDate=1993-03-09&officeId=00023&pageNo=1&printNo=22280&publishType=00010, accessed 2026-09-26T09:27:50-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993030900239101013.json)",
+    "한겨레 1993-03-10 p.3 \"사진은 지난 8일 새로 임명된 3부 장관과 서울시장이 청와대에서 임명장을 받는 모습\" (Naver News Library article 1993031000289103002, OCR text: '사진은 지난 8일 새로 임명된 3부 장관과 서울시장이 청와대에서 임명장을 받는 모습', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993031000289103002&editNo=5&printCount=1&publishDate=1993-03-10&officeId=00028&pageNo=3&printNo=1497&publishType=00010, accessed 2026-09-26T09:27:52-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993031000289103002.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1993_03_08_0010 '김영삼 대통령, 고위공직자 도덕성 파문으로 부분개각 △법무부장관 김두희·건설부장관 고병우·서울특별시장 이원종' https://db.history.go.kr/id/tcct_1993_03_08_0010 (accessed 2026-09-26T09:07:44-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1993-03-08.html)",
+    "서울신문 1993-03-09 \"3부장관 경질/김 대통령/“일부각료 도덕적문제 야기에 죄송”\" (BigKinds news_id 01100611.20160421222535182, full text: '김 대통령은 이날 하오 청와대에서 신임각료와 서울시장에게 임명장을 수여했다.', accessed 2026-09-26T13:22:02-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100611.20160421222535182.json) [verifier]",
+    "경향신문 1993-03-09 p.3 \"金斗喜(김두희)법무·高炳佑(고병우)건설·宋貞淑(송정숙)보사부장관과 李元鐘(이원종)...\" (Naver News Library article 1993030900329103002, OCR text: '8일·오후 청와대에서 임명장을 받은뒤', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900329103002&editNo=12&printCount=1&publishDate=1993-03-09&officeId=00032&pageNo=3&printNo=14695&publishType=00010, accessed 2026-09-26T13:22:03-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1993030900329103002.json) [verifier]",
+    "한겨레 1993-03-09 \"군수뇌·3부장관 경질\" (BigKinds news_id 01101001.19930309000000101, full text: '새 법무부장관에 김두희 검찰총장', accessed 2026-09-26T13:23:26-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01101001.19930309000000101.json) [verifier]",
+    "국민일보 1993-03-09 \"아쉬운 도중하차/박병권 사회부(현장기자)\" (BigKinds news_id 01100201.19930309000000404, full text: '김두희 신임법무장관이 청와대로 임명장을 받으러가기 앞서 검찰총장으로서의 마지막 기자회견을 가졌다.', accessed 2026-09-26T13:22:50-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19930309000000404.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1994-12-24",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '43대 김두희 (金 斗 喜) 1993.03.08 ~ 1994.12.23' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library article 1994122400329101001, OCR text: '법무장관에 安又萬전대법관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122400329101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122500099102002.json)",
+    "한국일보 1994-12-25 \"“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조\" (BigKinds news_id 01101101.19941225000000102, full text: '김대통령은 이날 청와대에서 홍재형 경제부총리를 비롯한 신임각료와 청와대수석진에게 임명장을 수여한', accessed 2026-09-26T09:34:35-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19941225000000102.json)",
+    "경향신문 1994-12-24 p.1 \"次官(차관) 인사 26일 단행\" (Naver News Library article 1994122400329101008, OCR text: '金대통령은 이에앞서 24일 오전 청와대에서 신임각료들에게 임명장을 수여한뒤', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101008&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:49:31-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1994122400329101008.json) [verifier]",
+    "전북도민일보 1994-12-25 \"＂작지만 책임지는 강한 정부 역점＂\" (BigKinds news_id 01601001.19941225091848009, full text: '金泳三대통령은 24일 상오 청와대에서 새로 임명된 국무위원 및 청와대 수석비서관들에게 임명장을 수여한 뒤', accessed 2026-09-26T13:24:13-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01601001.19941225091848009.json) [verifier]",
+    "경향신문 1994-12-24 p.7 \"安前(안전)대법관 法務(법무)기용에\"깜짝\"\" (Naver News Library article 1994122400329107001, OCR text: '법무장관에대법관출신의 安又萬씨가임명됐다는 소식이 전해지자', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329107001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=7&printNo=15292&publishType=00010, accessed 2026-09-26T09:50:25-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1994122400329107001.json) (announcement of 1994-12-23) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Sitting 검찰총장, appointed on the afternoon of 1993-03-08 after 박희태's resignation, with the 임명장 the same afternoon. Replaced in the 19-ministry 개각 announced on the afternoon of 1994-12-23. The successor received the 임명장 on the morning of 1994-12-24, so the end is that day (inferred_from_successor). The ministry page lists 1994-12-23. Verifier: 조선일보 1994-12-25 p.1 dates the 임명장 to '25일', against its own p.4 and every other paper (24일). Treated as a misprint."
+  },
+  {
+   "name": "안우만",
+   "name_hanja": "安又萬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1994-12-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '44대 안우만 (安 又 萬) 1994.12.24 ~ 1997.03.05' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122500099102002.json)",
+    "한국일보 1994-12-25 \"“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조\" (BigKinds news_id 01101101.19941225000000102, full text: '김대통령은 이날 청와대에서 홍재형 경제부총리를 비롯한 신임각료와 청와대수석진에게 임명장을 수여한', accessed 2026-09-26T09:34:35-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19941225000000102.json)",
+    "한겨레 1994-12-26 p.3 \"사진은 24일 청와대에서 열린 임명장 수여 장면\" (Naver News Library article 1994122600289103003, OCR text: '사진은 24일 청와대에서 열린 임명장 수여 장면', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122600289103003&editNo=5&printCount=1&publishDate=1994-12-26&officeId=00028&pageNo=3&printNo=2105&publishType=00010, accessed 2026-09-26T09:28:10-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122600289103003.json)",
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library article 1994122400329101001, OCR text: '법무장관에 安又萬전대법관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122400329101001.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' https://db.history.go.kr/id/tcct_1994_12_23_0010 (accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1994-12-23.html)",
+    "외교부 역대 장관 https://www.mofa.go.kr/minister/wpge/m_20036/contents.do, row '1994.12.24. - 1996.11.07.' preceded by '98.03.03. 25대 장관 공로명(孔魯明)' (same reshuffle, cross-check of the effective day, accessed 2026-09-24T22:34:20-0400; snapshot roster/sources/justice/ext88/crossministry/mofa.html)",
+    "행정안전부 역대 내무부 장관 https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do, row '1994년 12월 24일 ~ 1995년 12월 20일' preceded by '년 2월 12일 제59대 장관 김용태 재임기간' (same reshuffle, cross-check of the effective day, accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/justice/ext88/crossministry/mois_home.html)",
+    "경향신문 1994-12-24 p.1 \"次官(차관) 인사 26일 단행\" (Naver News Library article 1994122400329101008, OCR text: '金대통령은 이에앞서 24일 오전 청와대에서 신임각료들에게 임명장을 수여한뒤', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101008&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:49:31-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1994122400329101008.json) [verifier]",
+    "전북도민일보 1994-12-25 \"＂작지만 책임지는 강한 정부 역점＂\" (BigKinds news_id 01601001.19941225091848009, full text: '金泳三대통령은 24일 상오 청와대에서 새로 임명된 국무위원 및 청와대 수석비서관들에게 임명장을 수여한 뒤', accessed 2026-09-26T13:24:13-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01601001.19941225091848009.json) [verifier]",
+    "한겨레 1994-12-25 p.2 \"'정치판사'법무장관의'확신'\" (Naver News Library article 1994122500289102015, OCR text: '그 안우만 장관이 24일 취임식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500289102015&editNo=5&printCount=1&publishDate=1994-12-25&officeId=00028&pageNo=2&printNo=2104&publishType=00010, accessed 2026-09-26T13:24:25-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1994122500289102015.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1997-03-06",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '44대 안우만 (安 又 萬) 1994.12.24 ~ 1997.03.05' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "한국일보 1997-03-06 \"7부 장관 등 10명 경질/경제부총리 강경식씨/김 대통령\" (BigKinds news_id 01101101.19970306000000102, full text: '김대통령은 또 안우만 법무장관, 김영수 문체부장관, 안광구 통산부장관, 추경석 건교부장관, 김용진 과기처장관을 경질하고', accessed 2026-09-26T09:36:27-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19970306000000102.json)",
+    "서울신문 1997-03-07 \"7개부처 장관 등에 임명장\" (BigKinds news_id 01100611.20160421072549847, full text: '김영삼 대통령은 6일 상오 청와대에서 강경식 경제부총리와 강운태 내무장관 등 7개부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 주었다', accessed 2026-09-26T09:35:35-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421072549847.json)",
+    "매일경제 1997-03-07 p.2 \"신임 장관에 임명장\" (Naver News Library article 1997030700099102003, OCR text: '6일 청와대에서강경식 경제부총리를 비롯한 신임장관들에게 임명장을 수여한 후', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997030700099102003&editNo=15&printCount=1&publishDate=1997-03-07&officeId=00009&pageNo=2&printNo=9696&publishType=00010, accessed 2026-09-26T09:28:25-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997030700099102003.json)",
+    "중앙일보 1997-03-07 \"어깨 무거운 신임각료(사진)\" (BigKinds news_id 01100901.19970307133040002, full text: '김영삼 대통령이 6일 오전 청와대에서 강경식 경제부총리등 7개 부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 준후', accessed 2026-09-26T09:52:27-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19970307133040002.json) [verifier]",
+    "중부매일 1997-03-07 \"＂투명 행정으로 국민신뢰를 ＂\" (BigKinds news_id 01400401.19970307205451025, full text: '6일 오전 청와대에서 姜慶植 경제부총리를 비롯하여 姜雲太내무 장관 등 7개부처 장관을 포함한 신임 부처장 10명에게 임명장을 수여했다.', accessed 2026-09-26T09:47:32-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01400401.19970307205451025.json) [verifier]",
+    "문화일보 1997-03-06 \"7개부처 포함 장관급 10명 경질/경제부총리 강경식씨\" (BigKinds news_id 01100501.19970306000000102, full text: '법무장관에 최상엽 전법제처장', accessed 2026-09-26T09:51:06-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100501.19970306000000102.json) (announcement of 1997-03-05) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Former 대법관. Named on the afternoon of 1994-12-23, after the Assembly passed the 정부조직법 amendment that day, and given the 임명장 on the morning of 1994-12-24, which the ministry page and the 외무부, 내무부, 총무처, 통일원 and 과학기술처 pages print as the start. The 대한민국사연표 files the reshuffle under 1994-12-23. Replaced in the 1997-03-05 개각. The successor received the 임명장 on the morning of 1997-03-06, so the end is that day (inferred_from_successor). The ministry page lists 1997-03-05."
+  },
+  {
+   "name": "최상엽",
+   "name_hanja": "崔相曄",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1997-03-06",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '45대 최상엽 (崔 相 曄) 1997.03.06 ~ 1997.08.04' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "서울신문 1997-03-07 \"7개부처 장관 등에 임명장\" (BigKinds news_id 01100611.20160421072549847, full text: '김영삼 대통령은 6일 상오 청와대에서 강경식 경제부총리와 강운태 내무장관 등 7개부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 주었다', accessed 2026-09-26T09:35:35-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421072549847.json)",
+    "매일경제 1997-03-07 p.2 \"신임 장관에 임명장\" (Naver News Library article 1997030700099102003, OCR text: '김영삼대통령이 6일 청와대에서강경식 경제부총리를 비롯한 신임장관들에게 임명장을 수여한 후', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997030700099102003&editNo=15&printCount=1&publishDate=1997-03-07&officeId=00009&pageNo=2&printNo=9696&publishType=00010, accessed 2026-09-26T09:28:25-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997030700099102003.json)",
+    "KBS 1997-03-06 \"김영삼 대통령, 신임 각료들에 임명장 수여-투명행정 국민신뢰 획득 당부\" (BigKinds news_id 08100101.19970306153810001, full text: '김영삼 대통령은 오늘 오전 청와대에서 강경식 경제부총리를 비롯한 신임 각료들에게 임명장을 주었습니다', accessed 2026-09-26T09:35:13-0400; snapshot roster/sources/justice/ext88/news/bk/bk_08100101.19970306153810001.json)",
+    "경향신문 1997-03-07 \"최 법무 “검찰 자성해야”/이례적 취임사/“국민불신 심각” 인식\" (BigKinds news_id 01100101.19970307000002701, full text: '최상엽 신임 법무부장관이 6일 취임사를 통해', accessed 2026-09-26T09:35:59-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100101.19970307000002701.json)",
+    "동아일보 1997-03-06 p.1 \"장관급 10명 경질\" (Naver News Library article 1997030600209101002, OCR text: '법무장관에 崔相曄(최상엽)전법제처장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600209101002&editNo=45&printCount=1&publishDate=1997-03-06&officeId=00020&pageNo=1&printNo=23471&publishType=00010, accessed 2026-09-26T09:28:26-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997030600209101002.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1997_03_05_0010 '김영삼 대통령, 장관급 인사 10명 개각' https://db.history.go.kr/id/tcct_1997_03_05_0010 (accessed 2026-09-26T09:08:15-0400; snapshot roster/sources/justice/ext88/pa_chron/chron_1997-03-05.html)",
+    "행정안전부 역대 내무부 장관 https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do, row '1997년 3월 6일 ~ 1997년 8월 5일' preceded by '8년 3월 2일 제62대 장관 강운태 재임기간' (same reshuffle, cross-check of the effective day, accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/justice/ext88/crossministry/mois_home.html)",
+    "문화일보 1997-03-06 \"7개부처 포함 장관급 10명 경질/경제부총리 강경식씨\" (BigKinds news_id 01100501.19970306000000102, full text: '법무장관에 최상엽 전법제처장', accessed 2026-09-26T09:51:06-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100501.19970306000000102.json) (announcement of 1997-03-05) [verifier]",
+    "중앙일보 1997-03-07 \"어깨 무거운 신임각료(사진)\" (BigKinds news_id 01100901.19970307133040002, full text: '김영삼 대통령이 6일 오전 청와대에서 강경식 경제부총리등 7개 부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 준후', accessed 2026-09-26T09:52:27-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100901.19970307133040002.json) [verifier]",
+    "중부매일 1997-03-07 \"＂투명 행정으로 국민신뢰를 ＂\" (BigKinds news_id 01400401.19970307205451025, full text: '6일 오전 청와대에서 姜慶植 경제부총리를 비롯하여 姜雲太내무 장관 등 7개부처 장관을 포함한 신임 부처장 10명에게 임명장을 수여했다.', accessed 2026-09-26T09:47:32-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01400401.19970307205451025.json) [verifier]",
+    "국민일보 1997-03-07 \"최 법무 “검찰 반성을…”/신뢰회복에 최우선/취임사서 이례적\" (BigKinds news_id 01100201.19970307000003002, full text: '최상엽 신임 법무장관이 6일 취임 일성으로', accessed 2026-09-26T13:25:15-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19970307000003002.json) [verifier]",
+    "나무위키 '법무부장관' https://namu.wiki/w/%EB%B2%95%EB%AC%B4%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, rendered 2026-09-24T22:33:55-0400; snapshot roster/sources/justice/ext88_verify/lists/namu_법무부장관.html) and en.wikipedia 'Minister of Justice (South Korea)' https://en.wikipedia.org/w/index.php?oldid=1375836469 (tier 4, accessed 2026-09-26T10:06:14-0400; snapshot roster/sources/justice/ext88_verify/lists/enwiki_Minister_of_Justice_(South_Korea).json), same holder and start (tier 4, day-before end convention) [verifier]"
+   ],
+   "end": "1997-08-05",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '45대 최상엽 (崔 相 曄) 1997.03.06 ~ 1997.08.04' (accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/justice/ext88/moj_pastministers_p4.html)",
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, OCR text: '崔相曄(최상엽)법무장관을 경질', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010, accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997080600239101004.json)",
+    "경향신문 1997-08-06 \"11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임\" (BigKinds news_id 01100101.19970806000000101, full text: '김영삼 대통령은 5일 오후 내무부장관에 조해녕 전 총무처 장관, 법무부장관에 김종구 서울고검장을 임명하는 등', accessed 2026-09-26T09:37:26-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100101.19970806000000101.json)",
+    "서울신문 1997-08-06 \"내무·법무 교체에 직원들 “아쉽다”/8·5 개각­부처 표정\" (BigKinds news_id 01100611.20160421115258209, full text: '전임 최상엽 법무장관이 임명된지 5개월여만에 전격 교체되자', accessed 2026-09-26T09:37:54-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421115258209.json)",
+    "서울신문 1997-08-07 \"신임 각료에 임명장\" (BigKinds news_id 01100611.20160421115451026, full text: '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다', accessed 2026-09-26T09:36:57-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421115451026.json)",
+    "국민일보 1997-08-06 \"선거관리내각 구성/당적각료 모두 교체… 고총리 유임/김 대통령\" (BigKinds news_id 01100201.19970806000000201, full text: '김 대통령은 이날 오후 고 총리와 인선협의를 거친 뒤 강운태 내무장관과 최상엽 법무장관을 경질하고 후임에 조해녕 전 총무처장관과 김종구 서울고검장을 임명했다.', accessed 2026-09-26T13:26:59-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100201.19970806000000201.json) (supports 1997-08-05 as the announcement day) [verifier]",
+    "문화일보 1997-08-06 \"11개부처 장관 교체\" (BigKinds news_id 01100501.19970806000000102, full text: '이밖에 최상엽 법무, 안병영 교육, 진념 노동장관 등도 물러났다.', accessed 2026-09-26T09:52:33-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01100501.19970806000000102.json) [verifier]",
+    "경향신문 1997-08-06 p.2 \"신임 법무부장관으로 임명된 김종구서울고검장(왼...\" (Naver News Library article 1997080600329102009, OCR text: '신임 법무부장관으로 임명된 김종구서울고검장(왼쪽)이 5일 서울고검대회의실에서 열린 이임식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600329102009&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00032&pageNo=2&printNo=16180&publishType=00010, accessed 2026-09-26T13:25:36-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1997080600329102009.json) (the successor left his previous post on 1997-08-05) [verifier]",
+    "매일신문 1997-08-06 \"사태수습 만전지시\" (BigKinds news_id 01500601.19970806004701001, full text: '김대통령은 이날 오전 9시30분 청와대 조해녕내무, 김종구법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤', accessed 2026-09-26T09:46:01-0400; snapshot roster/sources/justice/ext88_verify/news/bk/bk_01500601.19970806004701001.json) (contrary evidence: the 임명장 was given on 1997-08-06) [verifier]",
+    "동아일보 1997-08-06 p.1 \"11部處(부처) 장관 경질\" (Naver News Library article 1997080600209101001, OCR text: '김대통령은 6일 오전청와대에서 신임각료들에게 임명장을 수여하고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209101001&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00020&pageNo=1&printNo=23614&publishType=00010, accessed 2026-09-26T09:34:18-0400; snapshot roster/sources/justice/ext88_verify/news/nl/nl_1997080600209101001.json) (contrary evidence: the 임명장 was scheduled for 1997-08-06) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Former 법제처장. Named on the afternoon of 1997-03-05 in the 고건 cabinet reshuffle and given the 임명장 on the morning of 1997-03-06, the day of his 취임사 (경향신문 1997-03-07). The ministry page and the 내무부, 총무처 and 과학기술처 pages print 1997-03-06. The 대통령기록관 schedule for 1997-03-05 misspells him as '최상화'. Replaced in the 1997-08-05 개각. End is set to the start of the successor 김종구 as recorded in the main file (1997-08-05). The 임명장 of that reshuffle was given on the morning of 1997-08-06 (서울신문 1997-08-07, 조선일보 1997-08-06), and four other ministries' pages print 1997-08-06 for their holders, so the true handover day may be 1997-08-06. See issues (severity high). The ministry page lists 1997-08-04 as his last day. Verifier: end disputed. The 1997-08-05 value is kept because it is tied to the start of the from_main spell 김종구, which this file must not change, and moving it alone would create a one-day overlap. Evidence for 1997-08-05: the announcement and 임명 on the afternoon of 1997-08-05 (국민일보, 문화일보, 경향신문 1997-08-06), 김종구's farewell at 서울고검 that day (경향신문 1997-08-06 p.2), and the 법무부 page (김종구 from 1997.08.05). Evidence for 1997-08-06: the 임명장 at 09:30 on 1997-08-06 (매일신문 1997-08-06, 동아일보 1997-08-06 p.1, 서울신문 1997-08-07, 조선일보 1997-08-06), and the 역대 장관 pages of 교육부, 내무부, 총무처 and 환경부, which start their holders of the same reshuffle on 1997-08-06. In every other reshuffle of the window this file dates the handover by the 임명장."
+  },
+  {
+   "name": "김종구",
+   "name_hanja": "金鍾求",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "법무부",
+   "office_title": "법무부장관",
+   "deputy_pm": false,
+   "start": "1997-08-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '김종구 (金 鍾 求) 1997.08.05 ~ 1998.03.02' (accessed 2026-09-24T22:42:31-0400; snapshot sources/justice/moj_pastministers_p4.html)",
+    "경향신문 1997-08-06 \"11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임\" (BigKinds news_id 01100101.19970806000000101, metadata and snippet, accessed 2026-09-25T13:31:20-0400; snapshot sources/justice/news/bigkinds/bigkinds_kjg_start2_861bea27a7.json)",
+    "동아일보 1997-08-06 \"검찰총장 崔永光씨 내정\" (BigKinds news_id 01100401.19970806091348011, metadata and snippet, accessed 2026-09-25T13:31:20-0400; snapshot sources/justice/news/bigkinds/bigkinds_kjg_start2_861bea27a7.json)",
+    "중앙일보 1997-08-06 \"11개부처 개각단행\" (BigKinds news_id 01100901.19970806174806001, metadata and snippet, snippet: '김영삼 대통령은 5일 ... 법무장관에 김종구 서울고검장 ... 임명', accessed 2026-09-25T14:14:40-0400; snapshot roster/sources/justice/verify/bigkinds/bk_s0_kjg_start_b5904e1b73.json) [verifier]",
+    "매일경제 1997-08-06 \"11개 부처 장관 교체/김 대통령 중폭 개각… 후속인사 곧 단행\" (BigKinds news_id 02100101.20160113174038434, metadata and snippet, accessed 2026-09-25T14:14:40-0400; snapshot roster/sources/justice/verify/bigkinds/bk_s0_kjg_start_b5904e1b73.json) [verifier]"
+   ],
+   "end": "1998-03-03",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "법무부 열린장관실 역대장관 https://www.moj.go.kr/minister/2090/subview.do?page=4, entry '김종구 (金 鍾 求) 1997.08.05 ~ 1998.03.02' (accessed 2026-09-24T22:42:31-0400; snapshot sources/justice/moj_pastministers_p4.html)",
+    "연합뉴스 1998-03-03 12:39:00 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" https://n.news.naver.com/mnews/article/001/0004372354 (Naver News, accessed 2026-09-24T22:44:26-0400; snapshot sources/justice/news/naver_001_0004372354.html)",
+    "연합뉴스 1998-03-03 15:43:00 \"金대통령 초대내각 임명장 수여 안팎\" https://n.news.naver.com/mnews/article/001/0004368749 (Naver News, accessed 2026-09-24T22:44:23-0400; snapshot sources/justice/news/naver_001_0004368749.html)",
+    "문화일보 1998-02-27 \"‘검사비리’ 수사 촉구/법사위 내 4,5일 개최\" (BigKinds news_id 01100501.19980227000000105, metadata and snippet, snippet: '김종구 법무장관을 출석시켜 (still in office after the 1998-02-25 inauguration)', accessed 2026-09-25T14:14:44-0400; snapshot roster/sources/justice/verify/bigkinds/bk_s0_kjg_end_5cba2e4ced.json) [verifier]",
+    "경향신문 1998-03-04 \"박상천 법무 ‘늦깎이 만세’/검사때 한직만 맡아\" (BigKinds news_id 01100101.19980304000001806, metadata and snippet, snippet: 'successor appointed in the 3일 개각', accessed 2026-09-25T14:14:48-0400; snapshot roster/sources/justice/verify/bigkinds/bk_s1_psc_start_823660094f.json) [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Kim Young-sam era minister still in office on 1998-02-25 (caretaker holdover). Appointed in the 1997-08-05 개각 (경향신문 1997-08-06). The ministry page gives 1998-03-02 as the last day. The successor 박상천 was named and received his 임명장 on the afternoon of 1998-03-03 (연합뉴스 1998-03-03), and no separate exit date for 김종구 was found, so end is set to the successor's appointment day. No gazette files exist before 2001.",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named by 대통령당선인 노태우 on 1988-02-19 as a minister kept from the 5공 cabinet (재기용). Appointed with the new cabinet on inauguration day.",
+   "nominee": "정해창",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article 1988021900209201003, OCR text: '법무 丁海昌 체육 曺相鎬건설 崔同燮 체신 吳明장관등 7개부처장관이 재기용됐으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988021900209201003.json)",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text: '사공일 재무, 정해창 법무, 서상호 체육, 최동섭 건설, 오명 체신장관 등 7명을 재기용했으며', accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19880219004312001.json)",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988022600239101004.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named and appointed on the day of the 12-05 전면개각.",
+   "nominee": "허형구",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '법무부장관 許亨九전검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120500209201003.json)",
+    "한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1988120600289101006.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Announced on 1990-03-17 (the press wrote '임명') while he was in the United States. 임명장 on 1990-03-19.",
+   "nominee": "이종남",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "동아일보 1990-03-17 p.1 \"15部(부)장관 更迭(경질)\" (Naver News Library article 1990031700209201001, OCR text: '법무부장관에 李種南前검찰총장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1990031700209201001.json)",
+    "국민일보 1990-03-19 \"신임각료에 임명장/노대통령\" (BigKinds news_id 01100201.19900319000000107, full text: '노태우대통령은 19일 오전 청와대에서 이승윤부총리등 신임각료와 노재봉비서실장등 신임 비서진에게 임명장을 주었다', accessed 2026-09-26T09:27:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100201.19900319000000107.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Announced on the afternoon of Sunday 1991-05-26 on the 제청 of PM 서리 정원식. 임명장 on 1991-05-27.",
+   "nominee": "김기춘",
+   "nomination_date": "1991-05-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1991-05-27",
+   "sources": [
+    "중앙일보 1991-05-27 \"4부장관 경질/재무 이용만/법무 김기춘/동자 진념/보사 안필준\" (BigKinds news_id 01100901.19910527025209002, full text: '노태우 대통령은 26일 오후 4부장관을 경질해', accessed 2026-09-26T09:30:56-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100901.19910527025209002.json)",
+    "한국일보 1991-05-28 \"정총리서리·4부장관/노 대통령,임명장 수여\" (BigKinds news_id 01101101.19910528000000204, full text: '노태우대통령은 27일 상오 청와대에서 신임 정원식 국무총리서리·이용만 재무·김기춘 법무·진임 동자·안필준 보사부장관에게 임명장을 수여했다', accessed 2026-09-26T09:30:36-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19910528000000204.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the morning of 1992-10-09 on the 제청 of the new PM 현승종 and given the 임명장 that afternoon.",
+   "nominee": "이정우",
+   "nomination_date": "1992-10-09",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1992-10-09",
+   "sources": [
+    "동아일보 1992-10-09 p.1 \"安企部長(안기부장)-4部處(부처)장관 경질「中立內閣(중립내각)」출범\" (Naver News Library article 1992100900209201001, OCR text: '법무부장관에 李正雨前법원행정처장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1992100900209201001.json)",
+    "전북도민일보 1992-10-10 \"새 각료에 任命狀 수여 盧대통령\" (BigKinds news_id 01601001.19921010094152104, full text: '盧泰愚대통령은 9일 하오 청와대에서 李賢雨안기부장과 白光鉉내무 李正雨법무', accessed 2026-09-26T09:31:20-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601001.19921010094152104.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named in the morning 조각 발표 of 1993-02-26 and appointed that afternoon.",
+   "nominee": "박희태",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '법무장관에 朴熺太民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01601101.19930226014940103.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named and appointed on the afternoon of 1993-03-08.",
+   "nominee": "김두희",
+   "nomination_date": "1993-03-08",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-03-08",
+   "sources": [
+    "한국일보 1993-03-09 \"법무 김두희/건설 고병우씨/보사 송정숙/서울시장 이원종씨\" (BigKinds news_id 01101101.19930309000000103, full text: '신임 법무부장관에 김두희 검찰총장을 임명했다', accessed 2026-09-26T09:33:39-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01101101.19930309000000103.json)",
+    "조선일보 1993-03-09 p.1 \"◇8일 오후 청와대에서 임명장을 받은 金斗喜(김두희)법...\" (Naver News Library article 1993030900239101013, OCR text: '8일 오후 청와대에서 임명장을 받은 金斗喜법무', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900239101013&editNo=1&printCount=1&publishDate=1993-03-09&officeId=00023&pageNo=1&printNo=22280&publishType=00010, accessed 2026-09-26T09:27:50-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1993030900239101013.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Announced on the afternoon of 1994-12-23. 임명장 on the morning of 1994-12-24.",
+   "nominee": "안우만",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library article 1994122400329101001, OCR text: '법무장관에 安又萬전대법관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122400329101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1994122500099102002.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Announced on the afternoon of 1997-03-05. 임명장 on the morning of 1997-03-06.",
+   "nominee": "최상엽",
+   "nomination_date": "1997-03-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1997-03-06",
+   "sources": [
+    "동아일보 1997-03-06 p.1 \"장관급 10명 경질\" (Naver News Library article 1997030600209101002, OCR text: '법무장관에 崔相曄(최상엽)전법제처장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600209101002&editNo=45&printCount=1&publishDate=1997-03-06&officeId=00020&pageNo=1&printNo=23471&publishType=00010, accessed 2026-09-26T09:28:26-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997030600209101002.json)",
+    "서울신문 1997-03-07 \"7개부처 장관 등에 임명장\" (BigKinds news_id 01100611.20160421072549847, full text: '김영삼 대통령은 6일 상오 청와대에서 강경식 경제부총리와 강운태 내무장관 등 7개부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 주었다', accessed 2026-09-26T09:35:35-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421072549847.json)"
+   ]
+  },
+  {
+   "office_title": "법무부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Announced on the afternoon of 1997-08-05. outcome_date follows the spell start in the main file (1997-08-05). The 임명장 was given on the morning of 1997-08-06, see issues.",
+   "nominee": "김종구",
+   "nomination_date": "1997-08-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1997-08-05",
+   "sources": [
+    "경향신문 1997-08-06 \"11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임\" (BigKinds news_id 01100101.19970806000000101, full text: '김영삼 대통령은 5일 오후 내무부장관에 조해녕 전 총무처 장관, 법무부장관에 김종구 서울고검장을 임명하는 등', accessed 2026-09-26T09:37:26-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100101.19970806000000101.json)",
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, OCR text: '6일오전 신임 각료들에게 임명장을 수여하며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010, accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/justice/ext88/news/nl/nl_1997080600239101004.json)",
+    "서울신문 1997-08-07 \"신임 각료에 임명장\" (BigKinds news_id 01100611.20160421115451026, full text: '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다', accessed 2026-09-26T09:36:57-0400; snapshot roster/sources/justice/ext88/news/bk/bk_01100611.20160421115451026.json)"
+   ]
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "high",
+   "desc": "from_main spell 김종구 (start 1997-08-05, main file justice.verified.json) may start on 1997-08-06. The 1997-08-05 개각 was announced on the afternoon of 1997-08-05, and the 임명장 was given on the morning of 1997-08-06 (서울신문 1997-08-07 BigKinds 01100611.20160421115451026 '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다', and 조선일보 1997-08-06 News Library 1997080600239101004 and 경향신문, 한국일보 1997-08-06 announce the 6일 오전 임명장). Four other ministries' 역대 장관 pages print 1997-08-06 as the start for the same reshuffle (교육부 이명현, 내무부 조해녕, 총무처 심우영, 환경부 윤여준, see ext88/crossministry.json). In the other reshuffles of this window where announcement and 임명장 fell on different days (1990-03-17/19, 1991-05-26/27, 1994-12-23/24, 1997-03-05/06), the 법무부 page prints the 임명장 day. Only for 김종구 does it print the announcement day (1997.08.05). The main record was left unchanged and 최상엽's end in this file is tied to it (1997-08-05). If the start of 김종구 is moved to 1997-08-06, 최상엽's end and the 김종구 nomination outcome_date should move with it."
+  },
+  {
+   "severity": "medium",
+   "desc": "Convention for ministers reappointed at the 1988-02-25 transition. The 5공 cabinet's blanket resignations were accepted on the morning of 1988-02-25 and the new President appointed the whole new cabinet the same morning, seven of them reappointed (외무 최광수, 내무 이상희, 재무 사공일, 법무 정해창, 체육 조상호, 건설 최동섭, 체신 오명, per 동아일보 1988-02-19). This file splits 정해창 into a 전두환 spell ending 1988-02-25 (end_reason resigned) and a 노태우 spell starting 1988-02-25, as the 법무부 page (36,37대), the 내무부 page (이상희 48대 to 1988-02-24, 49대 from 1988-02-25) and ko.wikipedia do. The 체신부 list on the msit page does not split 오명. Other ext88 lineages should use one convention for all seven, and the builder may want a flag that joins the pair into one appointment (reorg_continuation is false here because this is not a reorganization)."
+  },
+  {
+   "severity": "medium",
+   "desc": "Announcement day against 임명장 day. In five reshuffles the press reported the appointment on one day and the 임명장 on the next (1990-03-17/19, 1991-05-26/27, 1994-12-23/24, 1997-03-05/06, 1997-08-05/06). Starts here follow the 임명장 day, which the 법무부 page and the other ministries' pages also print (except 김종구, see the high issue). The 대한민국사연표 and ko.wikipedia sometimes use the announcement day (연표 1987-05-25 for the 1987-05-26 개각, wiki 1991-05-26 for 이종남's end). nomination_date is the announcement day and outcome_date the 임명장 day."
+  },
+  {
+   "severity": "low",
+   "desc": "Ministry page end dates are the day before the successor's start. This file follows the main justice file and ends each replaced holder on the successor's start day. Where the outgoing minister is known to have been in office that day (정해창 at the 1988-12-05 morning 국무회의) or his resignation was accepted that day (박희태 1993-03-08, 정해창 1988-02-25) the end is high. Otherwise it is inferred_from_successor. For 김기춘 (1992-10-09) the acceptance is implied by the return of the other ministers' blanket resignations that day, so medium."
+  },
+  {
+   "severity": "low",
+   "desc": "The 법무부 page prints 이종남's term as '1990.03.19 ~ 1991.05.2' in the HTML itself, with the end day truncated. ko.wikipedia gives 1991-05-26. This file ends the spell on 1991-05-27 (successor's 임명장). The 약력 page (moj profile 178) has no dates."
+  },
+  {
+   "severity": "low",
+   "desc": "News Library OCR text was not compared with the scanned page images. Every date that rests on a News Library story is also supported by an independent BigKinds text from a different paper, the ministry page, or the 대통령기록관 schedule."
+  },
+  {
+   "severity": "low",
+   "desc": "birth_date and gender are filled only for 박희태 and 김기춘, from na_members/na_members_12_22.csv. The others are null. They have no Assembly record, and the cached Wikidata holder list for Q12592448 has none of the 1988-1997 holders."
+  },
+  {
+   "severity": "low",
+   "desc": "The 법무부 약력 page for 최상엽 (profile 184) ends with '특기사항 새천년민주당 제13.14.15.16대 국회의원', which belongs to another person (박상천). It was not used."
+  },
+  {
+   "severity": "high",
+   "desc": "Verifier: the 1997-08-05/06 question for 최상엽's end and the from_main start of 김종구 remains open and is marked disputed. Two sources the builder did not use confirm the 임명장 on the morning of 1997-08-06 (매일신문 1997-08-06 BigKinds 01500601.19970806004701001, '이날 오전 9시30분 ... 김종구법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤', and 동아일보 1997-08-06 p.1 News Library 1997080600209101001). 김종구 left 서울고검 with an 이임식 on 1997-08-05 (경향신문 1997-08-06 p.2). The main file should decide the date. This file keeps 1997-08-05 so that the from_main record stays untouched and the chain has no overlap."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier: completeness sweep. Every month from 1987-05 to 1998-03 was searched for '법무장관' in the News Library and for '법무부장관' in BigKinds, and the name most often written right before the title was taken as the sitting minister. In 129 of 131 months it is the roster holder of that month (김성기 before 1987-05-26, 박상천 in 1998-03). In 1996-06 a regex artifact ('총장과', 3 hits) outnumbers 안우만 (2 hits, 동아일보 1996-06-08 and 경향신문 1996-06-09), and in 1998-01 no sitting minister is named, while 김종구 is named in 1997-12 and 1998-02. Other names are retrospective mentions (for example 박희태 in a 1998-01 retrospective). No holder, short tenure or vacancy is missing. The 1988-04-26, 1992-03-24 and 1996-04-11 general elections and the 1995-06-27 local elections did not change the holder. The office kept its name in the whole window."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier: independent lists (namu, en.wikipedia) follow the ministry numbering (36대-46대) and give the same holders. Wikidata has no 1988-1997 holder."
+  }
+ ],
+ "continuity": {
+  "window": [
+   "1988-02-25",
+   "1998-02-24"
+  ],
+  "window_fully_covered": true,
+  "vacancies": [],
+  "same_day_or_overlapping_handovers": [
+   {
+    "a": "정해창",
+    "b": "정해창",
+    "a_end": "1988-02-25",
+    "b_start": "1988-02-25"
+   },
+   {
+    "a": "정해창",
+    "b": "허형구",
+    "a_end": "1988-12-05",
+    "b_start": "1988-12-05"
+   },
+   {
+    "a": "허형구",
+    "b": "이종남",
+    "a_end": "1990-03-19",
+    "b_start": "1990-03-19"
+   },
+   {
+    "a": "이종남",
+    "b": "김기춘",
+    "a_end": "1991-05-27",
+    "b_start": "1991-05-27"
+   },
+   {
+    "a": "김기춘",
+    "b": "이정우",
+    "a_end": "1992-10-09",
+    "b_start": "1992-10-09"
+   },
+   {
+    "a": "이정우",
+    "b": "박희태",
+    "a_end": "1993-02-26",
+    "b_start": "1993-02-26"
+   },
+   {
+    "a": "박희태",
+    "b": "김두희",
+    "a_end": "1993-03-08",
+    "b_start": "1993-03-08"
+   },
+   {
+    "a": "김두희",
+    "b": "안우만",
+    "a_end": "1994-12-24",
+    "b_start": "1994-12-24"
+   },
+   {
+    "a": "안우만",
+    "b": "최상엽",
+    "a_end": "1997-03-06",
+    "b_start": "1997-03-06"
+   },
+   {
+    "a": "최상엽",
+    "b": "김종구",
+    "a_end": "1997-08-05",
+    "b_start": "1997-08-05"
+   }
+  ],
+  "overlaps": [],
+  "note": "Every handover in the window is same-day. The outgoing minister's end is the successor's start. The ministry page instead ends each holder on the day before the successor starts (except that it merges 정해창's two spells). No vacancy, so no acting head records."
+ },
+ "build": {
+  "scripts": [
+   "roster/scripts/justice_ext88_01_lists.py",
+   "roster/scripts/justice_ext88_02_schedule_chron.py",
+   "roster/scripts/justice_ext88_03_news_search.py",
+   "roster/scripts/justice_ext88_04_read_articles.py",
+   "roster/scripts/justice_ext88_05_crossministry.py",
+   "roster/scripts/justice_ext88_06_build.py"
+  ],
+  "snapshots": "roster/sources/justice/ext88/",
+  "summary": "There are 11 spells. Ten are built here for 1987-05-26..1997-08-05 (9 persons, 정해창 split at the 1988-02-25 reappointment) and the 1998 holdover 김종구 copied from the main file. 10 nominations. No vacancies, so no acting records. Holder list from the 법무부 역대장관 page (tier 2), checked against ko.wikipedia (tier 4). Dates from the ministry page, the 대통령기록관 schedule and the 대한민국사연표 (tier 2), and day-of stories in the Naver News Library and BigKinds (tier 3, different papers). Each quoted passage was matched in the saved article text by the build script. Runs of whitespace are shown as one space."
+ },
+ "verification": {
+  "verified_at": "2026-09-26T13:38:08-0400",
+  "verifier": "adversarial verifier 1988-1998, lineage justice (resumed pass: steps 01-04 of the interrupted verifier were reused, then extended)",
+  "scripts": [
+   "roster/scripts/justice_ext88_verify_01_lists.py",
+   "roster/scripts/justice_ext88_verify_02_monthly_sweep.py",
+   "roster/scripts/justice_ext88_verify_03_transition_search.py",
+   "roster/scripts/justice_ext88_verify_03b_transition_search.py",
+   "roster/scripts/justice_ext88_verify_04_read.py",
+   "roster/scripts/justice_ext88_verify_05_targeted.py",
+   "roster/scripts/justice_ext88_verify_06_build.py"
+  ],
+  "snapshots": "roster/sources/justice/ext88_verify/",
+  "summary": "11 spells and 10 nominations checked. The holder list is complete (monthly sweep 1987-05..1998-03). Every start and end of the ten non-from_main spells was re-verified with day-of stories the builder did not cite. No date is changed. 김기춘's end_confidence is raised to high. 최상엽's end and the from_main start of 김종구 are disputed (1997-08-05 announcement against 1997-08-06 임명장) and left as they are.",
+  "per_spell": [
+   {
+    "index": 0,
+    "name": "정해창",
+    "start": "1987-05-26",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1987-05-26: 경향신문 1987-05-26 p.1 (26일 상오 개각, 법무부장관에 丁海昌), 조선일보 1987-05-27 p.1 (이날오후 임명장), 경향신문 1987-05-27 p.11 (26일 취임식). None cited by the builder.",
+     "end 1988-02-25: 한국경제 1988-02-25 (BigKinds) on the blanket resignations of 1988-02-24, 경향신문 1988-02-25 p.3 and 동아일보 1988-02-26 p.11 on the new cabinet's 임명장 on the morning of 1988-02-25. The acceptance itself is stated only in the builder's sources (조선, 매경, 중앙). The ministry page, ko.wikipedia, namu and en.wikipedia give 1988-02-24 (day-before convention).",
+     "fields: appointing_president 전두환, end_reason resigned. The same split with end_reason resigned is used for all seven ministers reappointed on 1988-02-25 across the ext88 lineages (foreign 최광수, interior 이상희, finance 사공일, sports 조상호, land 최동섭, ict 오명)."
+    ]
+   },
+   {
+    "index": 1,
+    "name": "정해창",
+    "start": "1988-02-25",
+    "end": "1988-12-05",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25: 경향신문 and 매일경제 1988-02-19 p.1 (재기용, 유임), 경향신문 1988-02-26 p.4 (임명장 수여식 상오11시40분), 동아일보 1988-02-26 p.11, 경향신문 1988-02-26 p.11 (in office on the 26th).",
+     "end 1988-12-05: 경향신문 1988-12-05 p.1 (blanket resignations that morning and 임명장 to the new cabinet the same day), 한겨레 1988-12-06 p.1 (article 1988120600289101001, not the one the builder cited).",
+     "fields: appointing_president 노태우."
+    ]
+   },
+   {
+    "index": 2,
+    "name": "허형구",
+    "start": "1988-12-05",
+    "end": "1990-03-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-12-05: 경향신문 1988-12-05 p.1, 한겨레 1988-12-06 p.1, 조선일보 1988-12-06 p.14 (법무부 staff on the new minister).",
+     "end 1990-03-19 (inferred_from_successor): 중앙일보 1990-03-19 and 매일경제 1990-03-19 p.1 on the 임명장 of 19일 오전, 매일경제 1990-03-17 p.1 on the announcement."
+    ]
+   },
+   {
+    "index": 3,
+    "name": "이종남",
+    "start": "1990-03-19",
+    "end": "1991-05-27",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-03-19: 중앙일보 1990-03-19, 매일경제 1990-03-19 p.1, 국민일보 1990-03-20 interview (19일 오후 취임식).",
+     "end 1991-05-27 (inferred_from_successor): 세계일보 1991-05-28, 중앙일보 1991-05-27, 한겨레 1991-05-28 p.1. 한겨레 uses the words '임명·발령' for 1991-05-26 (announcement), see notes."
+    ]
+   },
+   {
+    "index": 4,
+    "name": "김기춘",
+    "start": "1991-05-27",
+    "end": "1992-10-09",
+    "status": "confirmed",
+    "checks": [
+     "start 1991-05-27: 세계일보 1991-05-28 (26일 오후 임명, 27일 임명장), 중앙일보 1991-05-27, 조선일보 1991-05-28 p.3 (오후2시 취임식).",
+     "end 1992-10-09: 국민일보 1992-10-10 (이임식 9일 오전), 경향신문 1992-10-10 p.1 (other resignations returned that day), 경향신문 1992-10-09 p.3. end_confidence raised to high.",
+     "fields: birth_date 1939-11-25 and gender M match na_members_12_22.csv (WVT1840E). mp_hint null is correct because his first seat began 1996-05-30."
+    ]
+   },
+   {
+    "index": 5,
+    "name": "이정우",
+    "start": "1992-10-09",
+    "end": "1993-02-26",
+    "status": "confirmed",
+    "checks": [
+     "start 1992-10-09: 경향신문 1992-10-10 p.1 (9일상오 임명, 이날하오 임명장), 중부매일 1992-10-10, 국민일보 1992-10-10, 서울신문 1992-10-10 interview (9일 상오 임명 발표).",
+     "end 1993-02-26 (inferred_from_successor, caretaker past the 1993-02-25 inauguration): 한겨레 1993-02-27 p.1 and 경향신문 1993-02-27 p.1 on the first 김영삼 cabinet and its 임명장 on the afternoon of 1993-02-26. No separate exit date was found."
+    ]
+   },
+   {
+    "index": 6,
+    "name": "박희태",
+    "start": "1993-02-26",
+    "end": "1993-03-08",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26: 경향신문 1993-02-27 p.1, 한겨레 1993-02-27 p.1, 경향신문 1993-02-27 p.23.",
+     "end 1993-03-08 and end_reason resigned: 서울신문 1993-03-09 (사표를 받아들이고), 한겨레 1993-03-09 (사표를 수리했다고 설명), 국민일보 1993-03-09.",
+     "fields: mp_hint checked in na_members_12_22.csv (14th term, 민주자유당, 경남 남해·하동군, seat 1992-05-30..1996-05-29, FSN5613H), birth_date 1938-08-09."
+    ]
+   },
+   {
+    "index": 7,
+    "name": "김두희",
+    "start": "1993-03-08",
+    "end": "1994-12-24",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-03-08: 서울신문 1993-03-09, 한겨레 1993-03-09, 경향신문 1993-03-09 p.3 (8일 오후 임명장), 국민일보 1993-03-09.",
+     "end 1994-12-24 (inferred_from_successor): 경향신문 1994-12-24 p.1, 전북도민일보 1994-12-25, 경향신문 1994-12-24 p.7. 조선일보 1994-12-25 p.1 prints '25일', a misprint."
+    ]
+   },
+   {
+    "index": 8,
+    "name": "안우만",
+    "start": "1994-12-24",
+    "end": "1997-03-06",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-12-24: 경향신문 1994-12-24 p.1, 전북도민일보 1994-12-25, 한겨레 1994-12-25 p.2 (24일 취임식).",
+     "end 1997-03-06 (inferred_from_successor): 중앙일보 1997-03-07, 중부매일 1997-03-07, 문화일보 1997-03-06. No 이임식 report was found (search '안우만 이임' returned nothing)."
+    ]
+   },
+   {
+    "index": 9,
+    "name": "최상엽",
+    "start": "1997-03-06",
+    "end": "1997-08-05",
+    "status": "disputed",
+    "checks": [
+     "start 1997-03-06: 중앙일보 1997-03-07, 중부매일 1997-03-07, 국민일보 1997-03-07 (6일 취임식), 문화일보 1997-03-06 (announcement).",
+     "end disputed: 1997-08-05 kept (tied to the from_main successor start). The 임명장 of the 8·5 개각 was given at 09:30 on 1997-08-06 (매일신문 1997-08-06, 동아일보 1997-08-06 p.1, plus the builder's 서울신문 1997-08-07 and 조선일보 1997-08-06). If the main file moves 김종구 to 1997-08-06, this end should move with it."
+    ]
+   },
+   {
+    "index": 10,
+    "name": "김종구",
+    "start": "1997-08-05",
+    "end": "1998-03-03",
+    "status": "disputed",
+    "checks": [
+     "from_main record copied unchanged (compared field by field with roster/justice.verified.json, identical apart from the from_main flag).",
+     "start disputed as for 최상엽's end. The main verifier confirmed 1997-08-05 from announcement stories (중앙일보, 매일경제 1997-08-06). The independent 임명장 evidence (매일신문 and 동아일보 1997-08-06) points to 1997-08-06. Flagged for the main file, not changed here.",
+     "end 1998-03-03 lies outside this window and was verified in the main file."
+    ]
+   }
+  ],
+  "per_nomination": [
+   {
+    "index": 0,
+    "nominee": "정해창",
+    "status": "confirmed",
+    "check": "nomination_date 1988-02-19 and outcome_date 1988-02-25 checked against the sources in per_spell"
+   },
+   {
+    "index": 1,
+    "nominee": "허형구",
+    "status": "confirmed",
+    "check": "nomination_date 1988-12-05 and outcome_date 1988-12-05 checked against the sources in per_spell"
+   },
+   {
+    "index": 2,
+    "nominee": "이종남",
+    "status": "confirmed",
+    "check": "nomination_date 1990-03-17 and outcome_date 1990-03-19 checked against the sources in per_spell. nomination 1990-03-17 (매일경제 1990-03-17 p.1), outcome 1990-03-19"
+   },
+   {
+    "index": 3,
+    "nominee": "김기춘",
+    "status": "confirmed",
+    "check": "nomination_date 1991-05-26 and outcome_date 1991-05-27 checked against the sources in per_spell"
+   },
+   {
+    "index": 4,
+    "nominee": "이정우",
+    "status": "confirmed",
+    "check": "nomination_date 1992-10-09 and outcome_date 1992-10-09 checked against the sources in per_spell"
+   },
+   {
+    "index": 5,
+    "nominee": "박희태",
+    "status": "confirmed",
+    "check": "nomination_date 1993-02-26 and outcome_date 1993-02-26 checked against the sources in per_spell"
+   },
+   {
+    "index": 6,
+    "nominee": "김두희",
+    "status": "confirmed",
+    "check": "nomination_date 1993-03-08 and outcome_date 1993-03-08 checked against the sources in per_spell"
+   },
+   {
+    "index": 7,
+    "nominee": "안우만",
+    "status": "confirmed",
+    "check": "nomination_date 1994-12-23 and outcome_date 1994-12-24 checked against the sources in per_spell"
+   },
+   {
+    "index": 8,
+    "nominee": "최상엽",
+    "status": "confirmed",
+    "check": "nomination_date 1997-03-05 and outcome_date 1997-03-06 checked against the sources in per_spell"
+   },
+   {
+    "index": 9,
+    "nominee": "김종구",
+    "status": "disputed",
+    "check": "outcome_date 1997-08-05 follows the from_main spell start. The 임명장 was given on 1997-08-06 (매일신문, 동아일보 1997-08-06)."
+   }
+  ],
+  "completeness": {
+   "method": "monthly sweep (News Library '법무장관', BigKinds '법무부장관'), independent lists (namu, en.wikipedia, Wikidata)",
+   "months_checked": 131,
+   "months_where_top_name_not_on_roster": {
+    "1996-06": "총장과",
+    "1998-01": "가능성"
+   },
+   "explanation": {
+    "1996-06": "regex artifact '총장과' (3 hits) ahead of 안우만 (2 hits, 동아일보 1996-06-08 '安우만법무 올림픽대표 격려', 경향신문 1996-06-09)",
+    "1998-01": "no sitting minister named in the hits, only retrospective mentions. 김종구 is named as minister in 1997-12 and 1998-02"
+   },
+   "result": "complete, no missing holder"
+  },
+  "continuity": {
+   "window": [
+    "1988-02-25",
+    "1998-02-24"
+   ],
+   "handovers": [
+    {
+     "a": "정해창",
+     "a_end": "1988-02-25",
+     "b": "정해창",
+     "b_start": "1988-02-25",
+     "gap_days": null
+    },
+    {
+     "a": "정해창",
+     "a_end": "1988-12-05",
+     "b": "허형구",
+     "b_start": "1988-12-05",
+     "gap_days": null
+    },
+    {
+     "a": "허형구",
+     "a_end": "1990-03-19",
+     "b": "이종남",
+     "b_start": "1990-03-19",
+     "gap_days": null
+    },
+    {
+     "a": "이종남",
+     "a_end": "1991-05-27",
+     "b": "김기춘",
+     "b_start": "1991-05-27",
+     "gap_days": null
+    },
+    {
+     "a": "김기춘",
+     "a_end": "1992-10-09",
+     "b": "이정우",
+     "b_start": "1992-10-09",
+     "gap_days": null
+    },
+    {
+     "a": "이정우",
+     "a_end": "1993-02-26",
+     "b": "박희태",
+     "b_start": "1993-02-26",
+     "gap_days": null
+    },
+    {
+     "a": "박희태",
+     "a_end": "1993-03-08",
+     "b": "김두희",
+     "b_start": "1993-03-08",
+     "gap_days": null
+    },
+    {
+     "a": "김두희",
+     "a_end": "1994-12-24",
+     "b": "안우만",
+     "b_start": "1994-12-24",
+     "gap_days": null
+    },
+    {
+     "a": "안우만",
+     "a_end": "1997-03-06",
+     "b": "최상엽",
+     "b_start": "1997-03-06",
+     "gap_days": null
+    },
+    {
+     "a": "최상엽",
+     "a_end": "1997-08-05",
+     "b": "김종구",
+     "b_start": "1997-08-05",
+     "gap_days": null
+    }
+   ],
+   "result": "every handover is same-day, no gap and no overlap, window fully covered"
+  },
+  "fields": {
+   "appointing_president": "전두환 for the 1987 spell, 노태우 1988-02-25..1993-02-24 appointments, 김영삼 from 1993-02-26. All match the appointment dates.",
+   "deputy_pm": "false for every spell. offices_1988.json lists no 부총리 title for 법무부 (deputy_pm_title empty).",
+   "reorg": "reorg_continuation false and reappointed_on_reorg null for every spell. 법무부 was not renamed or merged in the window (offices_1988.json OFA15).",
+   "pm_fields": "pm_status and pm_acting_until null (not the PM lineage).",
+   "from_main": {
+    "spell": "김종구 1997-08-05",
+    "identical_to_main": true,
+    "key_diff": [
+     "from_main"
+    ],
+    "value_diff": []
+   },
+   "acting": "no vacancy, no acting record needed"
+  },
+  "changes": [
+   {
+    "target": "spells[4] 김기춘",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "국민일보 1992-10-10 '9일 오전과 오후 과천정부제2청사 법무부강당에서 김기춘·이정우 장관의 이·취임식이 각각 열렸다' (BigKinds 01100201.19921010000001804), 경향신문 1992-10-10 p.1 '각료들이 제출한 사표는 이날반려해' (News Library 1992101000329101001). End date 1992-10-09 unchanged."
+   },
+   {
+    "target": "spells[9] 최상엽",
+    "field": "end",
+    "old": "1997-08-05",
+    "new": "1997-08-05 (unchanged, status disputed)",
+    "evidence": "매일신문 1997-08-06 '이날 오전 9시30분 청와대 조해녕내무, 김종구법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤' (BigKinds 01500601.19970806004701001) and 동아일보 1997-08-06 p.1 '6일 오전청와대에서 신임각료들에게 임명장을 수여하고' (News Library 1997080600209101001) against 국민일보 1997-08-06 '이날 오후 ... 최상엽 법무장관을 경질하고 후임에 ... 김종구 서울고검장을 임명했다' (BigKinds 01100201.19970806000000201) and the 법무부 page."
+   },
+   {
+    "target": "spells[3] 이종남",
+    "field": "notes",
+    "old": "(builder notes)",
+    "new": "(builder notes) + verifier sentence on the 한겨레 '임명·발령' wording",
+    "evidence": "한겨레 1991-05-28 (BigKinds 01101001.19910528000000104 snippet '26일 오후 4부 장관을 바꾼 부분개각에서 ... 각각 임명·발령했다'); dates unchanged."
+   },
+   {
+    "target": "spells[7] 김두희",
+    "field": "notes",
+    "old": "(builder notes)",
+    "new": "(builder notes) + verifier sentence on the 조선일보 1994-12-25 misprint",
+    "evidence": "조선일보 1994-12-25 p.1 (News Library 1994122500239101016) '25일', against 경향신문 1994-12-24 p.1 and 전북도민일보 1994-12-25 (24일); dates unchanged."
+   }
+  ],
+  "n_spells_corrected": 0,
+  "status_counts": {
+   "confirmed": 9,
+   "disputed": 2
+  }
+ }
+}

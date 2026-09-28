@@ -1,0 +1,996 @@
+{
+ "lineage": "culture",
+ "built_at": "2026-09-26T09:54:44-0400",
+ "window": {
+  "start": "1988-02-25",
+  "end": "1998-02-24",
+  "note": "Every spell with at least one day in the window. 송태호 continues past 1998-02-24 and is copied from culture.verified.json (from_main)."
+ },
+ "ministry_names": [
+  {
+   "ministry": "문화공보부",
+   "from": "1988-02-25",
+   "to": "1990-01-02",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 제29조② (장관은 국무위원으로 보한다), in force at window start (version effective 1987-01-01); 법률 제4183호 제29조① and 부칙 제2조 abolish it with effect from 1990-01-03 (부칙 제1조 단서, 대통령령 제12895호)",
+   "source": "offices_1988.json OFA21 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103, https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0019302, https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0022497)"
+  },
+  {
+   "ministry": "문화부",
+   "from": "1990-01-03",
+   "to": "1993-03-05",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4183호 제29조②, 제35조의2 (establishes, effective 1990-01-03 with 대통령령 제12895호); 법률 제4541호 부칙 제2조 (merged with 체육청소년부 into 문화체육부, effective 1993-03-06 with 대통령령 제13869호)",
+   "source": "offices_1988.json OFA22 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306, https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017254)"
+  },
+  {
+   "ministry": "문화체육부",
+   "from": "1993-03-06",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4541호 제29조②, 제35조의2 (establishes, effective 1993-03-06 with 대통령령 제13869호); 법률 제4831호 adds 관광 from 1994-12-23; 법률 제5529호 (전부개정) 제35조, 부칙 제3조① renames it 문화관광부 from 1998-02-28",
+   "source": "offices_1988.json OFA23 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228, https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0017326)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "이웅희",
+   "name_hanja": "李雄熙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1931-01-26",
+   "gender": "M",
+   "ministry": "문화공보부",
+   "office_title": "문화공보부장관",
+   "deputy_pm": false,
+   "start": "1986-08-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "경향신문 1986-08-27 p.1 '全대통령,신임長官에 임명장' (Naver News Library article 1986082700329201008, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329201008&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=1&printNo=12591&publishType=00020, accessed 2026-09-26T09:35:10-0400; snapshot roster/sources/culture/ext88/nl/nl_1986082700329201008.json) [quote: '全斗煥 대통령은 27일 상오 청와대에서 金宗鎬내무등 신임 9개부처장관과 李相薰 비상기획위원장에게 임명장을 주었다'] [summary: 임명장 for the nine new ministers of the 8·26 reshuffle on the morning of 27 Aug 1986]",
+    "한국일보 1986-08-28 '新任장관에 임명장' (BigKinds news_id 01101101.19860828183351105, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860828183351105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:29:28-0400; snapshot roster/sources/culture/ext88/bk/bk_01101101.19860828183351105.json) [quote: '全斗煥대통령은 27일 상오 靑瓦臺에서 金宗鎬내무장관 등 신임 9개부처장관과 李相薰비상기획위원장에게 임명장을 수여했다'] [summary: same ceremony, 27 Aug 1986, independent paper]",
+    "경향신문 1986-08-26 p.1 '10部장관 更迭' (Naver News Library article 1986082600329201004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600329201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00032&pageNo=1&printNo=12590&publishType=00020, accessed 2026-09-26T09:07:43-0400; snapshot roster/sources/culture/ext88/nl/nl_1986082600329201004.json) [quote: '문공부장관에 李雄熙 프레스센터이사장'] [summary: 8·26 reshuffle list, 이웅희 named 문공부장관 on 26 Aug 1986 (임명발령 that day); he is one of the nine who received the 임명장 on the 27th, only 최광수 (외무) was abroad]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제26대 이웅희 재임기간: 1986.08.27.~1988.02.24.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)",
+    "국사편찬위원회 대한민국사연표 1986-08-26 entry tcct_1986_08_26_0010 '전두환 대통령, 외무부장관 최광수·내무부장관 김종호·체육부장관 이세기·상공부장관 나웅배·노동부장관 이헌기·교통부장관 차주헌·체신부장관 이대형·문공부장관 이웅희·과기처장관 이태섭·통일원장관 허문도 임명' https://db.history.go.kr/id/tcct_1986_08_26_0010 (tier 2, day list accessed 2026-09-26T09:04:54-0400; snapshot roster/sources/culture/ext88/hist/hist_1986-08-26.html)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (tier 4, secondary, accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/ext88/wiki/wiki_대한민국_문화체육관광부_장관.wikitext) lists 제26대 이웅희 1986-08-27 ~ 1988-02-24"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 '새閣僚에 임명장' (Naver News Library article 1988022600239101004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022600239101004.json) [quote: '金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다'] [summary: the 5th Republic cabinet's resignations were accepted on the morning of 25 Feb 1988, after 노태우 took office and before the new ministers received their 임명장 the same morning]",
+    "중앙일보 1988-02-25 '신임각료들에 임명장' (BigKinds news_id 01100901.19880225005009001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19880225005009001.json) [quote: '제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다'] [summary: independent paper (중앙일보, 25 Feb 1988), resignations tendered to 노태우 and accepted, new cabinet sworn in on 25 Feb]",
+    "조선일보 1988-02-25 p.2 '\"떠나면서 당부한다\" 離任국무위원들의 한마디' (Naver News Library article 1988022500239102002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022500239102002.json) [quote: '국무위원전원이 이날 사표를 냈다'] [summary: all 국무위원 tendered resignations on 24 Feb 1988 as the 5th Republic ended at midnight; 이웅희 문공부장관 is among the outgoing ministers quoted]",
+    "경향신문 1988-02-26 p.11 '\"民主·和合으로 참된 奉仕행정\"' (Naver News Library article 1988022600329211001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329211001&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=11&printNo=13050&publishType=00020, accessed 2026-09-26T09:06:29-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022600329211001.json) [quote: '李雄熙 전임장관과 함께 차를 나누고환담한뒤 5층강당에 마련된이취임식장에 나란히 참석했다'] [summary: joint 이·취임식 with 정한모 at 11:00 on 26 Feb 1988 (a ceremony, after the legal handover)]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제26대 이웅희 재임기간: 1986.08.27.~1988.02.24.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member while minister. He was 프레스센터 이사장 when appointed (경향신문 1986-08-26). ko.wikipedia '이웅희 (1931년)' lists him as a later 13th-15th NA member.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "전두환-era caretaker holdover. Appointed in the 8·26 reshuffle of 1986 (announced and 발령 26 Aug, 임명장 27 Aug, 취임식 27 Aug). Start uses the 임명장 date, which the MCST list and ko.wikipedia share. The 5th Republic cabinet tendered its resignations on 24 Feb 1988, and they were accepted on the morning of 25 Feb, the day 노태우 took office and gave 정한모 his 임명장 (조선일보 1988-02-26, 중앙일보 1988-02-25). 헌법 제10호 부칙 제4조① deems officials in office on 25 Feb appointed under the new constitution (offices_1988.json holdovers_1988). The spell therefore ends on 1988-02-25, a same-day handover, and has one day in the 1988-02-25..1998-02-24 window. MCST and ko.wikipedia end it on 1988-02-24 (MCST prints the day before the successor's start). Birth date from ko.wikipedia '이웅희 (1931년)' https://ko.wikipedia.org/w/index.php?oldid=41464637 (snapshot roster/sources/culture/ext88/wiki/kowiki_bio_이웅희_(1931년).json). Gender from the same page ('이석배 주러대사의 선친'). Hanja from 경향신문 1986-08-26."
+  },
+  {
+   "name": "정한모",
+   "name_hanja": "鄭漢模",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1923-10-27",
+   "gender": "M",
+   "ministry": "문화공보부",
+   "office_title": "문화공보부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "조선일보 1988-02-26 p.1 '새閣僚에 임명장' (Naver News Library article 1988022600239101004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022600239101004.json) [quote: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여'] [summary: 임명장 for the new cabinet on the morning of 25 Feb 1988]",
+    "중앙일보 1988-02-25 '신임각료들에 임명장' (BigKinds news_id 01100901.19880225005009001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19880225005009001.json) [quote: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다'] [summary: same ceremony reported by 중앙일보 (BigKinds), independent of the News Library papers]",
+    "조선일보 1988-02-20 p.1 '새政府 첫內閣 발표 就任직후 대규모 후속人事' (Naver News Library article 1988022000239101024, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022000239101024&editNo=1&printCount=1&publishDate=1988-02-20&officeId=00023&pageNo=1&printNo=20577&publishType=00010, accessed 2026-09-26T09:07:02-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022000239101024.json) [quote: '문공 鄭漢模문예진흥원장'] [summary: 2·19 cabinet list names 정한모 (문예진흥원장) for 문공]",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) row 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' / '국무총리 이현재, 대통령 비서실장 홍성철 임명' (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/culture/ext88/pa/pa_노태우_1988_p1.html)",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제27대 정한모 재임기간: 1988.02.25.~1988.12.04.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (tier 4, secondary, accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/ext88/wiki/wiki_대한민국_문화체육관광부_장관.wikitext) lists 제27대 정한모 1988-02-25 ~ 1988-12-04"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "medium",
+   "end_sources": [
+    "경향신문 1988-12-05 p.1 '總理에 姜英勳씨' (Naver News Library article 1988120500329201003, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500329201003.json) [quote: '李賢宰국무총리를 비롯한 全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다'] [summary: on 5 Dec 1988 the whole cabinet resigned in the morning and the new ministers received their 임명장 the same day]",
+    "경향신문 1988-12-05 p.14 '새長官 人物評에 일손놓고…' (Naver News Library article 1988120500329214003, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329214003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=14&printNo=13292&publishType=00020, accessed 2026-09-26T09:08:20-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500329214003.json) [quote: '개각단행일인 5일상오일찍부터 전임장관을 환송하고 새장관을맞을 채비를 하느라 부산한 모습들'] [summary: 문공부 saw off 정한모 on the morning of 5 Dec 1988]",
+    "동아일보 1988-12-05 p.1 '新任장관에 임명장 盧大統領' (Naver News Library article 1988120500209201032, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500209201032.json) [quote: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다'] [summary: independent paper (동아일보), new ministers' 임명장 on the afternoon of 5 Dec 1988]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제27대 정한모 재임기간: 1988.02.25.~1988.12.04.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 entry tcct_1988_12_05_0010 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (tier 2, day list accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/culture/ext88/hist/hist_1988-12-05.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member. He was 한국문화예술진흥원장 when appointed (조선일보 1988-02-20).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Named in the 2·19 cabinet announcement of 1988 and appointed on 25 Feb 1988 with the first 노태우 cabinet. Replaced in the 12·5 reshuffle of 1988, in which the cabinet resigned that morning and the new ministers received their 임명장 that afternoon, so the end is a same-day handover on 1988-12-05. MCST and ko.wikipedia give 1988-12-04 (the day before the successor). Birth date from ko.wikipedia '정한모' https://ko.wikipedia.org/w/index.php?oldid=41195237 (snapshot roster/sources/culture/ext88/wiki/kowiki_bio_정한모.json), which Wikidata Q12616120 repeats. Gender from Wikidata Q12616120 (snapshot roster/sources/culture/ext88/wiki/wikidata_culture_ext88_people.json)."
+  },
+  {
+   "name": "최병렬",
+   "name_hanja": "崔秉烈",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-09-16",
+   "gender": "M",
+   "ministry": "문화공보부",
+   "office_title": "문화공보부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1988-12-05 p.1 '총리에 姜英勲씨' (Naver News Library article 1988120500209201003, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500209201003.json) [quote: '문공부장관 崔秉烈(최병렬) 青瓦臺(청와대)정무수석비서관'] [summary: 12·5 reshuffle list, 5 Dec 1988, 최병렬 (청와대 정무수석) named 문공부장관]",
+    "동아일보 1988-12-05 p.1 '新任장관에 임명장 盧大統領' (Naver News Library article 1988120500209201032, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500209201032.json) [quote: '오후에는 신임국무위원들에게 임명장을 수여했다'] [summary: 임명장 on the afternoon of 5 Dec 1988 (동아일보)]",
+    "한겨레 1988-12-06 p.1 '노 대통령,새 각료 임명장' (Naver News Library article 1988120600289101006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120600289101006.json) [quote: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서'] [summary: independent paper (한겨레, 연합 wire), 임명장 on 5 Dec 1988]",
+    "중앙일보 1988-12-05 '극비 조각…일요일 밤 본인에 통보-12·5개각…강영훈 내각 탄생 안팎' (BigKinds news_id 01100901.19881205055134001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205055134001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:08:26-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19881205055134001.json) [quote: '최병렬 문공'] [summary: 중앙일보 (BigKinds) account of the 12·5 cabinet names 최병렬 as 문공]",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) row 1988-12-05 '총리에 강영훈 임명 등 전면개각' / '제5공화국과 단절하겠다는 대통령의 약속에 따라 단행된 개각은 국무총리를 비롯한 거의 모든 각료 개각' (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1988, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/culture/ext88/pa/pa_노태우_1988_p1.html)",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제28대 최병렬 재임기간: 1988.12.05.~1990.01.02.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)"
+   ],
+   "end": "1990-01-02",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices_1988.json OFA21 문화공보부 1988-02-25 to 1990-01-02: 문화공보부 abolished from 1990-01-03 under 법률 제4183호 부칙 제1조 단서, the date 대통령령 제12895호 (문화부직제, repealing 문화공보부직제) took effect (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5790&efYd=19870101, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103; 국가기록원 문화공보부 '1968.07.24 ~ 1990.01.02'; 국가기록원 문화공보부 '1968.07.24 ~ 1990.01.02')",
+    "문화체육관광부 열린장관실 역대장관 page, 문화공보부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, lists '제28대 최병렬 재임기간: 1988.12.05.~1990.01.02.' (tier 2, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm05.html)",
+    "경향신문 1990-01-03 p.1 '盧대통령 임명장수여 신설 3개部處장관에' (Naver News Library article 1990010300329201006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300329201006&editNo=3&printCount=1&publishDate=1990-01-03&officeId=00032&pageNo=1&printNo=13622&publishType=00020, accessed 2026-09-26T09:07:29-0400; snapshot roster/sources/culture/ext88/nl/nl_1990010300329201006.json) [quote: '盧泰愚대통령은 3일 상오청와대에서 李御寧문화부,曺京植환경처,崔秉烈공보처장관등 신설된 3개부처의 신임장관에게 임명장을 수여했다'] [summary: 3 Jan 1990, 최병렬 received his 임명장 as the first 공보처장관, so his 문공부 tenure ended on 2 Jan]",
+    "경향신문 1989-12-28 p.1 '初代 문화장관 李御寧씨' (Naver News Library article 1989122800329201015, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800329201015&editNo=3&printCount=1&publishDate=1989-12-28&officeId=00032&pageNo=1&printNo=13618&publishType=00020, accessed 2026-09-26T09:41:44-0400; snapshot roster/sources/culture/ext88/nl/nl_1989122800329201015.json) [quote: '공보처장관에 崔秉烈문공부장관을 각각 새해1월3일자로 임명했다'] [summary: announced 27 Dec 1989, appointments to the new offices effective 3 Jan 1990, 최병렬 still 문공부장관 until then]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not sitting when appointed. He came from 청와대 정무수석비서관 (동아일보 1988-12-05). A 동아일보 1988-12-05 p.4 profile (News Library search snippet, roster/sources/culture/ext88/nl/nl_최병렬_문공_1988-12-03_1988-12-08_p1.json) calls him a former 12th NA member (민정당).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Appointed in the 12·5 reshuffle of 1988. 문화공보부 was split into 문화부 and 공보처 on 1990-01-03 (법률 제4183호, promulgated 1989-12-30, 부칙 제1조 단서 with 대통령령 제12895호). He was named on 1989-12-27 as the first 공보처장관 with effect from 1990-01-03 and received that 임명장 on 1990-01-03. The 공보처 spell belongs to the public_info lineage and is not in this file. ko.wikipedia ends his 문화공보부 tenure on 1989-12-27 and starts 공보처 on 1989-12-28, the day a 임명장 was announced for (한겨레 1989-12-28), but the 임명장 reports found are dated 3 Jan 1990 (동아일보, 경향신문) and the 27 Dec announcement made the appointments effective 3 Jan. Birth date from ko.wikipedia '최병렬 (정치인)' https://ko.wikipedia.org/w/index.php?oldid=42545660 and Wikidata Q11274249 (snapshots in roster/sources/culture/ext88/wiki/). Gender from Wikidata Q11274249."
+  },
+  {
+   "name": "이어령",
+   "name_hanja": "李御寧",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1933-12-29",
+   "gender": "M",
+   "ministry": "문화부",
+   "office_title": "문화부장관",
+   "deputy_pm": false,
+   "start": "1990-01-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1990-01-03 p.1 '盧대통령 임명장수여 신설 3개部處장관에' (Naver News Library article 1990010300329201006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300329201006&editNo=3&printCount=1&publishDate=1990-01-03&officeId=00032&pageNo=1&printNo=13622&publishType=00020, accessed 2026-09-26T09:07:29-0400; snapshot roster/sources/culture/ext88/nl/nl_1990010300329201006.json) [quote: '盧泰愚대통령은 3일 상오청와대에서 李御寧문화부,曺京植환경처,崔秉烈공보처장관등 신설된 3개부처의 신임장관에게 임명장을 수여했다'] [summary: 임명장 on the morning of 3 Jan 1990, the day 문화부 came into existence]",
+    "동아일보 1990-01-03 p.2 '政局주도 다짐…들뜬 新春政街' (Naver News Library article 1990010300209202003, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300209202003&editNo=2&printCount=1&publishDate=1990-01-03&officeId=00020&pageNo=2&printNo=21002&publishType=00020, accessed 2026-09-26T09:41:43-0400; snapshot roster/sources/culture/ext88/nl/nl_1990010300209202003.json) [quote: '盧泰愚대통령은 3일오전 青瓦臺에서 李御寧문화부장관등 신설3개부처 장관에게 임명장을주고'] [summary: independent paper (동아일보), same ceremony, 3 Jan 1990]",
+    "경향신문 1989-12-28 p.1 '初代 문화장관 李御寧씨' (Naver News Library article 1989122800329201015, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800329201015&editNo=3&printCount=1&publishDate=1989-12-28&officeId=00032&pageNo=1&printNo=13618&publishType=00020, accessed 2026-09-26T09:41:44-0400; snapshot roster/sources/culture/ext88/nl/nl_1989122800329201015.json) [quote: '새해1월3일자로 신설되는 문화부장관에 李御寧梨花女大교수'] [summary: announced 27 Dec 1989 with effect from 3 Jan 1990]",
+    "한겨레 1989-12-28 p.1 '신설 3부장관 임명' (Naver News Library article 1989122800289101012, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800289101012&editNo=4&printCount=1&publishDate=1989-12-28&officeId=00028&pageNo=1&printNo=502&publishType=00010, accessed 2026-09-26T09:07:12-0400; snapshot roster/sources/culture/ext88/nl/nl_1989122800289101012.json) [quote: '노태우 대통령은 27일 내년 1월3일부터 신설되는 문화부장관에 이어령 이화여대 교수를'] [summary: 한겨레 1989-12-28, same announcement]",
+    "국사편찬위원회 대한민국사연표 1989-12-27 entry tcct_1989_12_27_0010 '정부, 신설 3개 부처 보각(補閣)' https://db.history.go.kr/id/tcct_1989_12_27_0010 (tier 2, day list accessed 2026-09-26T09:13:39-0400; snapshot roster/sources/culture/ext88/hist/hist_1989-12-27.html)",
+    "문화체육관광부 열린장관실 역대장관 page, 문화부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, lists '제29대 이어령 재임기간: 1990.01.03.~1991.12.19.' (tier 2, accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm04.html)"
+   ],
+   "end": "1991-12-19",
+   "end_confidence": "medium",
+   "end_sources": [
+    "동아일보 1991-12-20 p.3 '\"예상보다小幅\"…官街차분' (Naver News Library article 1991122000209203005, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000209203005&editNo=2&printCount=1&publishDate=1991-12-20&officeId=00020&pageNo=3&printNo=21684&publishType=00020, accessed 2026-09-26T09:29:16-0400; snapshot roster/sources/culture/ext88/nl/nl_1991122000209203005.json) [quote: '이날의 이임방문으로 대신'] [summary: on 19 Dec 1991, after the 3 pm reshuffle announcement, 이어령 (called 전장관) replaced a press meeting planned for the 20th with a farewell visit that day]",
+    "중앙일보 1991-12-20 '\"「문화의 집」기둥은 세웠습니다\"|우리사회 「문화의 신경줄」없어 아쉬워' (BigKinds news_id 01100901.19911220070211001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19911220070211001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:21-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19911220070211001.json) [quote: '이어령 전문화부장관을 19일 본지가 단독 인터뷰했다'] [summary: independent paper (중앙일보, BigKinds), called former minister in an interview on 19 Dec 1991]",
+    "조선일보 1991-12-20 p.2 '庁-次長 승진 국세청\"慶事났네\"' (Naver News Library article 1991122000239102008, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000239102008&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00023&pageNo=2&printNo=21848&publishType=00010, accessed 2026-09-26T09:29:25-0400; snapshot roster/sources/culture/ext88/nl/nl_1991122000239102008.json) [quote: '청와대측은 19일 오후3시정각 개각사실과 신임각료 명단을 발표'] [summary: the 12·19 reshuffle was announced at 15:00 on 19 Dec 1991]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, lists '제29대 이어령 재임기간: 1990.01.03.~1991.12.19.' (tier 2, accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm04.html)",
+    "국사편찬위원회 대한민국사연표 1991-12-19 entry tcct_1991_12_19_0010 '노태우 대통령, 국방부장관 등 7개 부처장관 경질' https://db.history.go.kr/id/tcct_1991_12_19_0010 (tier 2, day list accessed 2026-09-26T09:10:57-0400; snapshot roster/sources/culture/ext88/hist/hist_1991-12-19.html)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (tier 4, secondary, accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/ext88/wiki/wiki_대한민국_문화체육관광부_장관.wikitext) lists 제29대 이어령 1989-12-28 ~ 1991-12-19 (start disputed, see notes)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member. He was an 이화여대 교수 when appointed (경향신문 1989-12-28).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "First 문화부장관. The appointment was announced on 1989-12-27 with effect from 1990-01-03 (경향신문 1989-12-28 wrote '새해1월3일자로 임명'). Papers of 28 Dec said the 임명장 would be given that day, but the ceremony reports found are dated 3 Jan 1990 (동아일보, 경향신문) and no report of a 28 Dec ceremony was found (News Library and BigKinds searches for 임명장 1989-12-28..31). Start 1990-01-03, as on the MCST page. ko.wikipedia gives 1989-12-28. Replaced in the 12·19 reshuffle of 1991 (announced 15:00, 19 Dec), his farewell visit was that day and his successor's 임명장 the next morning, so the end is 1991-12-19, which matches MCST and ko.wikipedia. Birth date from ko.wikipedia '이어령' https://ko.wikipedia.org/w/index.php?oldid=42420851, whose footnote gives the registered date 1934-01-15 (Wikidata Q11266309 has 1934-01-15). Gender from Wikidata Q11266309."
+  },
+  {
+   "name": "이수정",
+   "name_hanja": "李秀正",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "문화부",
+   "office_title": "문화부장관",
+   "deputy_pm": false,
+   "start": "1991-12-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1991-12-20 p.2 '盧 대통령 신임 장관에 임명장' (Naver News Library article 1991122000099202020, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000099202020&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00009&pageNo=2&printNo=7985&publishType=00020, accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/culture/ext88/nl/nl_1991122000099202020.json) [quote: '盧泰愚대통령은 20일 오전 청와대에서 신임 崔世昌국방 李秀正문화'] [summary: 임명장 on the morning of 20 Dec 1991 (매일경제)]",
+    "한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/culture/ext88/bk/bk_01101101.19911220000000102.json) [quote: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화'] [summary: independent paper (한국일보, BigKinds), same ceremony]",
+    "서울경제 1991-12-21 '신임장관·수석비서관 盧대통령, 임명장수여' (BigKinds news_id 02100311.19911221172532003, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19911221172532003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:49-0400; snapshot roster/sources/culture/ext88/bk/bk_02100311.19911221172532003.json) [quote: '盧泰愚대통령은 20일 상오 청와대에서 신임 崔世昌국방, 李秀正문화'] [summary: 서울경제 1991-12-21, same ceremony]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, lists '제30대 이수정 재임기간: 1991.12.20.~1993.02.25.' (tier 2, accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm04.html)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (tier 4, secondary, accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/ext88/wiki/wiki_대한민국_문화체육관광부_장관.wikitext) lists 제30대 이수정 1991-12-20 ~ 1993-02-25"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "조선일보 1993-02-27 p.1 '◇새 얼굴' (Naver News Library article 1993022700239101006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, accessed 2026-09-26T09:29:49-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022700239101006.json) [quote: '金泳三대통령이 26일 오후 청와대 본관 앞에서 이날 임명장을 받은 신임 국무위원들과'] [summary: the successor cabinet (⑪ 李敏燮 문체) received its 임명장 on the afternoon of 26 Feb 1993]",
+    "매일경제 1993-02-24 p.2 '\"25일0시이후 非常사태 새政府가 대처\"' (Naver News Library article 1993022400099202004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022400099202004.json) [quote: '새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다'] [summary: 매일경제 1993-02-24, the outgoing 노태우 ministers had no fixed term and would hand over when the new ministers were appointed]",
+    "동아일보 1993-02-27 '動資-體靑部 \"우리 앞날 어떻게 되나\"\"' (BigKinds news_id 01100401.19930227063312002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19930227063312002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:57-0400; snapshot roster/sources/culture/ext88/bk/bk_01100401.19930227063312002.json) [quote: '陳稔동자부장관과 李鎭三체청부장관이 26일 퇴임한후'] [summary: other outgoing ministers left office on 26 Feb 1993 (동아일보, BigKinds copy)]",
+    "중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다'] [summary: contrary report (중앙일보 1993-02-25), the outgoing cabinet resigned and all resignations were accepted on 25 Feb 1993]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, lists '제30대 이수정 재임기간: 1991.12.20.~1993.02.25.' (tier 2, accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm04.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member. He was 청와대 공보수석비서관 겸 대변인 when appointed (한국일보 1991-12-20).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Appointed in the 12·19 reshuffle of 1991 (announced 19 Dec, 임명장 20 Dec). His own exit was not found in the News Library (no hit for 李秀正 in 1993-02-22..03-01) or BigKinds. Two readings exist. 중앙일보 of 25 Feb 1993 says the outgoing cabinet's resignations were all accepted on the 25th, and MCST and ko.wikipedia end the spell on 1993-02-25. Against that, 매일경제 of 24 Feb says the ministers would stay until the new ministers were appointed, and other 노태우 ministers held their farewells and left office on 26 Feb (진념, 이진삼, 최각규, 한봉수). The new cabinet received its 임명장 on the afternoon of 26 Feb. This file uses the same-day handover (1993-02-26, inferred_from_successor), as the main roster does for the 1998 transition. See issues. Birth date not found (no ko.wikipedia article). 매일경제 1991-12-21 gives his age as 51. Gender from 한국일보 1991-12-20 ('부인 권정혜씨', BigKinds 01101101.19911220000000504, snapshot roster/sources/culture/ext88/bk/bk_01101101.19911220000000504.json)."
+  },
+  {
+   "name": "이민섭",
+   "name_hanja": "李敏燮",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-02-28",
+   "gender": "M",
+   "ministry": "문화부",
+   "office_title": "문화부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1993-02-26 p.1 '새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)' (Naver News Library article 1993022600209201001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022600209201001.json) [quote: '문화체육부장관에 李敏燮民自黨의원'] [summary: 2·26 cabinet, 이민섭 named for the culture and sports post, announced and 발령 26 Feb 1993]",
+    "동아일보 1993-02-26 p.1 '새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)' (Naver News Library article 1993022600209201001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022600209201001.json) [quote: '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며'] [summary: 임명장 on the afternoon of 26 Feb 1993 (동아일보)]",
+    "조선일보 1993-02-27 p.1 '◇새 얼굴' (Naver News Library article 1993022700239101006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, accessed 2026-09-26T09:29:49-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022700239101006.json) [quote: '⑪李敏燮문체'] [summary: 조선일보 1993-02-27 photo caption of the ministers who received their 임명장 on 26 Feb, 이민섭 is no. 11]",
+    "중앙일보 1993-03-01 '\"「경제」에 가려진「문화」복원\" -이민섭 신임 문화체육부장관의 포부' (BigKinds news_id 01100901.19930301152946002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930301152946002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:35-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19930301152946002.json) [quote: '이민섭 신임 문화체육부장관은 26일 취임식을 마치고'] [summary: independent paper (중앙일보, BigKinds), 취임식 on 26 Feb 1993]",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993) row 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1993, accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/culture/ext88/pa/pa_김영삼_1993_p1.html)",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제31대 이민섭 재임기간: 1993.02.26.~1994.12.23.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)"
+   ],
+   "end": "1993-03-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices_1988.json OFA22 문화부 1990-01-03 to 1993-03-05: 문화부 abolished and merged with 체육청소년부 into 문화체육부 from 1993-03-06 under 법률 제4541호 부칙 제1조 단서 with 대통령령 제13869호 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18823&efYd=19900103, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306; 국가기록원 문화부 '1990.01.03 ~ 1993.03.05')",
+    "매일경제 1993-03-09 p.12 '문화체육부 출범 기대半…우려半…' (Naver News Library article 1993030900099212001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900099212001&editNo=1&printCount=1&publishDate=1993-03-09&officeId=00009&pageNo=12&printNo=8354&publishType=00020, accessed 2026-09-26T09:31:57-0400; snapshot roster/sources/culture/ext88/nl/nl_1993030900099212001.json) [quote: '문화체육부는 93년 3월6일자로 정부조직법(법률제4541호)개정과 문화체육부직제(대통령령 제13869호)가 확정·공포됨에 따라 기존의 문화부와체육청소년부가 통합되어새로 발족하게 된 것'] [summary: 문화부 and 체육청소년부 merged into 문화체육부 as of 6 Mar 1993]",
+    "한국경제 1993-03-09 '삶의 質높이는 레저文化육성 기대' (BigKinds news_id 02100601.19930309074912102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19930309074912102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:45:15-0400; snapshot roster/sources/culture/ext88/bk/bk_02100601.19930309074912102.json) [quote: '이에 앞서 6일자로 정부조직법이 개정되고 문화체육부 직제가 확정 공포됐다'] [summary: independent paper (한국경제, BigKinds), same]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting 14th NA member (민주자유당, 강원 춘천·양구·인제), four terms from the 11th NA, when appointed (동아일보 1993-02-26 '李敏燮民自黨의원' and 국민일보 1993-02-26 profile via BigKinds search snapshot roster/sources/culture/ext88/bk/bk_이민섭_부인_1993-02-25_1993-03-03.json).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Appointed on 1993-02-26 in the first 김영삼 cabinet, announced as 문화체육부장관, but 문화체육부 did not exist until 법률 제4541호 took effect on 1993-03-06. Until then the legal office was 문화부장관. The press called him 문화부장관 in this period (동아일보 1993-02-27 p.4 '문화부장관에기용된 李敏燮의원', 매일경제 1993-03-03 '李敏燮 문화부장관은 2일', 한겨레 1993-03-05 '문화부장관에 ... 이민섭 의원이 임명된'), and no 체육청소년부장관 was appointed in the new cabinet (동아일보 1993-02-27 reports that the two ministries to be abolished ran under their vice ministers after 26 Feb). He is not recorded as 체육청소년부장관 (sports lineage). The spell is split at 1993-03-06. Birth date from ko.wikipedia '이민섭' https://ko.wikipedia.org/w/index.php?oldid=41713648 and Wikidata Q130539454. Gender from 세계일보 1993-02-27 ('부인 홍순영씨(52)와 1여', BigKinds 01100701.19930227000000410)."
+  },
+  {
+   "name": "이민섭",
+   "name_hanja": "李敏燮",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-02-28",
+   "gender": "M",
+   "ministry": "문화체육부",
+   "office_title": "문화체육부장관",
+   "deputy_pm": false,
+   "start": "1993-03-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "offices_1988.json OFA23 문화체육부 1993-03-06 to 1998-02-27: 문화체육부 established from 1993-03-06 (법률 제4541호 부칙 제1조 단서, 대통령령 제13869호) (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5794&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=18831&efYd=19930306, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5923&efYd=19941223, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228; 국가기록원 문화체육부 '1993.03.06 ~ 1998.02.27')",
+    "매일경제 1993-03-09 p.12 '문화체육부 출범 기대半…우려半…' (Naver News Library article 1993030900099212001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900099212001&editNo=1&printCount=1&publishDate=1993-03-09&officeId=00009&pageNo=12&printNo=8354&publishType=00020, accessed 2026-09-26T09:31:57-0400; snapshot roster/sources/culture/ext88/nl/nl_1993030900099212001.json) [quote: '문화체육부 발족 현판식이 8일 오후 2시30분 종로구 세종로 문화체육부청사에서 李敏燮장관과 직원들이 참석한 가운데 개최됐다'] [summary: 이민섭 headed 문화체육부 at its 현판식 on 8 Mar 1993]",
+    "세계일보 1993-03-10 '문화체육부 통합체제 출범' (BigKinds news_id 01100701.19930310000001502, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930310000001502&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:45:29-0400; snapshot roster/sources/culture/ext88/bk/bk_01100701.19930310000001502.json) [quote: '문화체육부는 지난 6일 정부조직법이 개정되고 직제가 확정된데 이어 8일 현판식을 갖고'] [summary: independent paper (세계일보, BigKinds)]",
+    "조선일보 1993-03-06 p.21 '게시판' (Naver News Library article 1993030600239121007, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030600239121007&editNo=1&printCount=1&publishDate=1993-03-06&officeId=00023&pageNo=21&printNo=22277&publishType=00010, accessed 2026-09-26T09:41:55-0400; snapshot roster/sources/culture/ext88/nl/nl_1993030600239121007.json) [quote: '문화체육부장관(李敏燮)초청'] [summary: 조선일보 1993-03-06 listing refers to 문화체육부장관 이민섭]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제31대 이민섭 재임기간: 1993.02.26.~1994.12.23.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)"
+   ],
+   "end": "1994-12-23",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1994-12-24 p.27 '게시판' (Naver News Library article 1994122400239127012, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239127012&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=27&printNo=22895&publishType=00010, accessed 2026-09-26T09:41:59-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122400239127012.json) [quote: '문화체육부는 23일 오후5시 5층회의실서 이민섭전장관의 이임식을 가졌다'] [summary: farewell ceremony at 17:00 on 23 Dec 1994]",
+    "조선일보 1994-12-24 p.3 '◇떠나는 장관들' (Naver News Library article 1994122400239103007, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239103007&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=3&printNo=22895&publishType=00010, accessed 2026-09-26T09:41:56-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122400239103007.json) [quote: '23일 오후 李敏燮문체,李炳台국방,金佑錫건설장관 등이 개각발표직전 전 국무위원 일괄사표제출을 위해 소집된 국무회의를마친뒤'] [summary: the whole cabinet resigned at a 국무회의 on the afternoon of 23 Dec 1994, just before the 12·23 reshuffle was announced]",
+    "동아일보 1994-12-24 p.1 '19部處장관 경질 大改閣' (Naver News Library article 1994122400209101001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122400209101001.json) [quote: '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며'] [summary: independent paper (동아일보), successor's 임명장 on 24 Dec]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제31대 이민섭 재임기간: 1993.02.26.~1994.12.23.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)",
+    "국사편찬위원회 대한민국사연표 1994-12-23 entry tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' https://db.history.go.kr/id/tcct_1994_12_23_0010 (tier 2, day list accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/culture/ext88/hist/hist_1994-12-23.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting 14th NA member (민주자유당, 강원 춘천·양구·인제) throughout.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Continuation of his 문화부 tenure after 문화부 and 체육청소년부 merged into 문화체육부 on 1993-03-06. 법률 제4541호 부칙 제2조 carries 문화부 and 체육청소년부 staff over to 문화체육부 but excludes 정무직, which suggests a fresh appointment was needed. No report of a new 임명장 around 1993-03-06 was found (News Library and BigKinds searches for 임명장, 문화체육부장관 and 문화체육부장관 임명 1993-03-05..09 return the 3·4 vice-minister ceremony, the 3·6 민자당 당무위원 ceremony and the 3·8 ceremony for three other ministers only), so reappointed_on_reorg is null (not established). The press already used the new title on 3·6 and he presided at the 현판식 on 3·8. Tourism moved in from 교통부 on 1994-12-23 (법률 제4831호) without a change of name. Replaced in the 12·23 reshuffle of 1994. The cabinet resigned at a 국무회의 on the afternoon of 23 Dec, the reshuffle was announced at 15:00 and he held his 이임식 at 17:00 that day, so the end is 1994-12-23, as on the MCST page. His successor received the 임명장 on the morning of 24 Dec."
+  },
+  {
+   "name": "주돈식",
+   "name_hanja": "朱燉植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-07-08",
+   "gender": "M",
+   "ministry": "문화체육부",
+   "office_title": "문화체육부장관",
+   "deputy_pm": false,
+   "start": "1994-12-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1994-12-25 p.2 '새국무위원에 임명장' (Naver News Library article 1994122500099102002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122500099102002.json) [quote: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다'] [summary: 임명장 on the morning of 24 Dec 1994 (매일경제)]",
+    "경향신문 1994-12-25 p.2 '새내각' (Naver News Library article 1994122500329102002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329102002&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=2&printNo=15293&publishType=00010, accessed 2026-09-26T09:42:02-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122500329102002.json) [quote: '金泳三대통령이 24일 청와대에서 신임장관들에게 임명장을 준 뒤'] [summary: 경향신문 1994-12-25, same ceremony]",
+    "한국일보 1994-12-25 '신임　주돈식문체부장관/“전국　빈문예공간　알차게　채우겠다”' (BigKinds news_id 01101101.19941225000001701, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000001701&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:45:51-0400; snapshot roster/sources/culture/ext88/bk/bk_01101101.19941225000001701.json) [quote: '주돈식　신임　문화체육부장관은　24일　상오　취임식　직후'] [summary: independent paper (한국일보, BigKinds), 취임식 24 Dec after the 청와대 임명장 ceremony]",
+    "동아일보 1994-12-24 p.1 '19部處장관 경질 大改閣' (Naver News Library article 1994122400209101001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122400209101001.json) [quote: '문화체육 朱燉植대통령공보수석비서관'] [summary: 12·23 reshuffle list names 주돈식 for 문화체육]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제32대 주돈식 재임기간: 1994.12.24.~1995.12.20.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 (tier 4, secondary, accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/ext88/wiki/wiki_대한민국_문화체육관광부_장관.wikitext) lists 제32대 주돈식 1994-12-24 ~ 1995-12-20"
+   ],
+   "end": "1995-12-21",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "경향신문 1995-12-21 p.1 '11部장관 경질' (Naver News Library article 1995122100329101001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100329101001&editNo=30&printCount=1&publishDate=1995-12-21&officeId=00032&pageNo=1&printNo=15631&publishType=00010, accessed 2026-09-26T09:33:53-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122100329101001.json) [quote: '金대통령은 21일 오전 9시 청와대에서 신임장관들에게 임명장을 수여하고'] [summary: the 12·20 reshuffle's 임명장 were set for 09:00 on 21 Dec 1995]",
+    "매일경제 1995-12-22 p.1 '새진용' (Naver News Library article 1995122200099101004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099101004&editNo=15&printCount=1&publishDate=1995-12-22&officeId=00009&pageNo=1&printNo=9305&publishType=00010, accessed 2026-09-26T09:33:57-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122200099101004.json) [quote: '金泳三대통령은 21일 오전 청와대에서 신임각료와 수석비서관들에게 임명장을 수여한 뒤'] [summary: 매일경제 1995-12-22, 임명장 given on the morning of 21 Dec]",
+    "동아일보 1995-12-21 p.39 '「세계를 빛낸…」참가 음악인 훈장·표창' (Naver News Library article 1995122100209139001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100209139001&editNo=45&printCount=1&publishDate=1995-12-21&officeId=00020&pageNo=39&printNo=23060&publishType=00010, accessed 2026-09-26T09:42:07-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122100209139001.json) [quote: '朱燉植문화체육부장관(현정무1장관)이 金泳三대통령을 대신해 훈장과 표창을 준이날 수여식'] [summary: on 20 Dec 1995, after the reshuffle announcement, he still presented awards as 문화체육부장관 (동아일보)]",
+    "조선일보 1995-12-21 p.39 '「세계를 빛낸 음악인」문화훈장-대통령표창' (Naver News Library article 1995122100239139017, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100239139017&editNo=1&printCount=1&publishDate=1995-12-21&officeId=00023&pageNo=39&printNo=23235&publishType=00010, accessed 2026-09-26T09:42:05-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122100239139017.json) [quote: '20일 오후 문화체육부 5층 회의실에서 朱燉植문체부장관으로부터 문화훈장 및 정부표창을 받았다'] [summary: 조선일보, same event, afternoon of 20 Dec]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제32대 주돈식 재임기간: 1994.12.24.~1995.12.20.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an NA member. He was 청와대 공보수석비서관 when appointed (동아일보 1994-12-24).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Moved from 청와대 공보수석비서관 in the 12·23 reshuffle of 1994. In the 12·20 reshuffle of 1995 he was moved to 정무장관(제1) (경향신문 1995-12-21 '朱燉植문체부장관은 정무1장관으로 자리를 옮겼다'), a different lineage, so end_reason is other. No 이임식 was found. He still acted as 문화체육부장관 on the afternoon of 20 Dec and his successor received the 임명장 on the morning of 21 Dec, so the end is 1995-12-21 (same-day handover, inferred_from_successor). MCST and ko.wikipedia give 1995-12-20. Birth date from ko.wikipedia '주돈식' https://ko.wikipedia.org/w/index.php?oldid=41098550 and Wikidata Q109547053. Gender from Wikidata Q109547053."
+  },
+  {
+   "name": "김영수",
+   "name_hanja": "金榮秀",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1942-05-10",
+   "gender": "M",
+   "ministry": "문화체육부",
+   "office_title": "문화체육부장관",
+   "deputy_pm": false,
+   "start": "1995-12-21",
+   "start_confidence": "high",
+   "start_sources": [
+    "매일경제 1995-12-22 p.1 '새진용' (Naver News Library article 1995122200099101004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099101004&editNo=15&printCount=1&publishDate=1995-12-22&officeId=00009&pageNo=1&printNo=9305&publishType=00010, accessed 2026-09-26T09:33:57-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122200099101004.json) [quote: '金泳三대통령은 21일 오전 청와대에서 신임각료와 수석비서관들에게 임명장을 수여한 뒤'] [summary: 임명장 on the morning of 21 Dec 1995 (매일경제)]",
+    "경향신문 1995-12-22 p.2 '\"내년은 제2건국의 해\"' (Naver News Library article 1995122200329102001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200329102001&editNo=30&printCount=1&publishDate=1995-12-22&officeId=00032&pageNo=2&printNo=15632&publishType=00010, accessed 2026-09-26T09:30:42-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122200329102001.json) [quote: '金대통령은 이날 오전청와대에서 羅雄培경제·權五琦통일부총리를 비롯한신임각료와'] [summary: 경향신문 1995-12-22, same ceremony]",
+    "국제신문 1995-12-21 '12·20改閣 政局전망...强性측근 포진 \"총선돌파\"' (BigKinds news_id 01500401.19951221134254112, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19951221134254112&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:15-0400; snapshot roster/sources/culture/ext88/bk/bk_01500401.19951221134254112.json) [quote: '金泳三대통령은 21일 오전 청와대에서 李壽成국무총리를 포함한 전 국무위원들에게 임명장을 수여한 뒤'] [summary: independent paper (국제신문, BigKinds), 임명장 on 21 Dec]",
+    "동아일보 1995-12-22 p.15 '\"월드컵유치 최대역점\" 金영수 문체장관 취임 간담' (Naver News Library article 1995122200209115020, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200209115020&editNo=45&printCount=1&publishDate=1995-12-22&officeId=00020&pageNo=15&printNo=23061&publishType=00010, accessed 2026-09-26T09:42:09-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122200209115020.json) [quote: '김영수 신임 문화체육부장관은21일 취임후 가진 기자간담회에서'] [summary: 동아일보 1995-12-22, took office on 21 Dec]",
+    "한겨레 1995-12-21 '부총리 나웅배(경제) 권오기(통일)씨/새 비서실장 김광일씨' (BigKinds news_id 01101001.19951221000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19951221000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:35-0400; snapshot roster/sources/culture/ext88/bk/bk_01101001.19951221000000101.json) [quote: '문화체육 김영수'] [summary: 한겨레 1995-12-21 reshuffle list]",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제33대 김영수 재임기간: 1995.12.21.~1997.03.05.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)"
+   ],
+   "end": "1997-03-06",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "조선일보 1997-03-06 p.1 '장관급 10명 경질' (Naver News Library article 1997030600239101002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600239101002&editNo=1&printCount=1&publishDate=1997-03-06&officeId=00023&pageNo=1&printNo=23645&publishType=00010, accessed 2026-09-26T09:42:10-0400; snapshot roster/sources/culture/ext88/nl/nl_1997030600239101002.json) [quote: '金泳三(김영삼)대통령은5일 오후 개각을 단행'] [summary: the 3·5 reshuffle of 1997 replaced him (조선일보 1997-03-06)]",
+    "한국일보 1997-03-06 '7부 장관 등 10명 경질/경제부총리 강경식씨/김 대통령' (BigKinds news_id 01101101.19970306000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19970306000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:36:27-0400; snapshot roster/sources/culture/ext88/bk/bk_01101101.19970306000000102.json) [quote: '문체 송태호'] [summary: independent paper (한국일보, BigKinds), 3·5 reshuffle list, 문체 송태호]",
+    "서울신문 1997-03-07 '7개부처 장관 등에 임명장' (BigKinds news_id 01100611.20160421072549847, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421072549847&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:35-0400; snapshot roster/sources/culture/ext88/bk/bk_01100611.20160421072549847.json) [quote: '임명장'] [summary: 서울신문 1997-03-07 '7개부처 장관 등에 임명장', the successor's 임명장 on 6 Mar 1997 (the date the main roster uses for 송태호)]",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1997) row 1997-03-05 '경제부총리 등 장관급 인사' / '장관급 인사 10명 개각 ' (tier 2, POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1997, accessed 2026-09-26T09:05:07-0400; snapshot roster/sources/culture/ext88/pa/pa_김영삼_1997_p1.html)",
+    "문화체육관광부 열린장관실 역대장관 page, 문화체육부 tab, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제33대 김영수 재임기간: 1995.12.21.~1997.03.05.' (tier 2, accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/ext88/mcst/mcst_minHistory_pOrgNm03.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not a sitting NA member when appointed. He had been a 14th NA member (민주자유당 전국구) from 1992-05-30 until his seat resignation was accepted on 1993-02-27, on becoming 청와대 민정수석비서관 (likms billId 012320 국회의원(김영수)사직의건, 원안가결 1993-02-27, 매일경제 1993-02-27 p.2, na_members/na_member_spells_12_22.csv), and he stayed 민정수석 until this appointment (세계일보 1995-12-21).",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Moved from 청와대 민정수석비서관 in the 12·20 reshuffle of 1995 (announced 20 Dec, 임명장 21 Dec). Replaced in the 3·5 reshuffle of 1997 (announced on the afternoon of 5 Mar). No 이임식 or acceptance date was found, and his successor 송태호 received the 임명장 on 6 Mar, so the end is 1997-03-06 (same-day handover, inferred_from_successor). MCST and ko.wikipedia give 1997-03-05. Birth date from ko.wikipedia '김영수 (1942년)' https://ko.wikipedia.org/w/index.php?oldid=41935277 (Wikidata Q18119313 gives the year only). Gender from Wikidata Q18119313."
+  },
+  {
+   "name": "송태호",
+   "name_hanja": "宋泰鎬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "문화체육부",
+   "office_title": "문화체육부장관",
+   "deputy_pm": false,
+   "start": "1997-03-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제34대 송태호 재임기간: 1997.03.06.~1998.03.02.' (accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm03.html)",
+    "BigKinds metadata record: 서울신문 1997-03-07 '7개부처 장관 등에 임명장' (search '임명장 신임 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:00:21-0400; snapshot roster/sources/culture/bigkinds_임명장_신임_장관_1997-03-05_1997-03-07.json) [summary: 김영삼 대통령 6일 상오 신임 장관급 10명에 임명장]",
+    "BigKinds metadata record: 매일신문 1997-03-06 '장관급 10명 경질' (search '송태호 문화체육부장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:57-0400; snapshot roster/sources/culture/bigkinds_송태호_문화체육부장관_1997-03-05_1997-03-08.json) [summary: 3·5 개각 list includes 문체 宋泰鎬]",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 lists '제34대 송태호 1997년 3월 6일 ~ 1998년 3월 2일' (accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext)",
+    "BigKinds metadata record: 경향신문 1997-03-07 '“「세계화」로 가는 징검다리 되겠다”/송태호 문체부 장관' news_id 01100101.19970307000000602 (search '송태호 문화체육부' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:04:32-0400; snapshot roster/sources/culture/verify/bk/s01_start_송태호_문화체육부_1997_03_04_1997_03_08.json) [verifier] [summary: 송태호 신임 문체부 장관(52)은 6일 오전 취임식을 갖고]"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 강원도민일보 1998-02-28 '[월드컵스키대회 스케치]내외빈 50여명 참석' (search '송태호' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:24-0400; snapshot roster/sources/culture/bigkinds_송태호_1998-02-25_1998-03-03.json) [summary: 송태호문체부장관 at a dinner on 27 Feb 1998 19:00]",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effective.html) [summary: 문화관광부 is one of 7 ministries whose heads are vacant from 28 Feb 1998]",
+    "연합뉴스 1998-02-28 15:30 '<새 정부조직법 발효와 공직사회 파장>-1' https://n.news.naver.com/mnews/article/001/0004300892 (accessed 2026-09-24T22:44:48-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effect_civilservice.html) [summary: '부처'가 자동적으로 없어지면서 새 장관도 맞지 못하는 재경부 ... 문화관광부, 산업자원부 등 7개부처]",
+    "offices.json transitional_staff_clauses: 법률 제5529호 부칙 제3조② excludes 정무직",
+    "BigKinds metadata record: 한국경제 1998-03-02 '정부조직법 발효 .. 김대통령, 53개 법령 서명' news_id 02100601.20160116161620774 (search '공보처 폐지' 1998-02-26..03-02, accessed 2026-09-25T14:03:46-0400; snapshot roster/sources/culture/verify/bk/s00_end_공보처_폐지_1998_02_26_1998_03_02.json) [summary: 명칭이 바뀌는 7개 부의 장관이 궐위]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "The 3·5 개각 was announced on 1997-03-05 and 임명장 were given on 03-06 (start uses 03-06, the date the MCST list and the 임명장 reports share). 문화체육부 was renamed 문화관광부 by 법률 제5529호 effective 1998-02-28. 연합뉴스 (1998-02-28) counts 문화관광부 among the seven new ministries whose heads were vacant and says the vice ministers were told to carry on. He was therefore not treated as 문화관광부장관. MCST and ko.wikipedia list his tenure to 1998-03-02, the day before 신낙균 took office. His farewell ceremony planned for 02-26 was cancelled (연합뉴스 1998-02-26, snapshot naver_yna_19980226_mcst_farewell_cancelled.html). Gender from the 중앙일보 1997-03-06 profile (BigKinds, bigkinds_송태호_문화체육부장관_1997-03-05_1997-03-08.json), which names his wife. Birth date not found.",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "정한모",
+   "office_title": "문화공보부장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "조선일보 1988-02-20 p.1 '새政府 첫內閣 발표 就任직후 대규모 후속人事' (Naver News Library article 1988022000239101024, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022000239101024&editNo=1&printCount=1&publishDate=1988-02-20&officeId=00023&pageNo=1&printNo=20577&publishType=00010, accessed 2026-09-26T09:07:02-0400; snapshot roster/sources/culture/ext88/nl/nl_1988022000239101024.json) [quote: '문공 鄭漢模문예진흥원장'] [summary: 2·19 cabinet list, published 20 Feb 1988]",
+    "중앙일보 1988-02-27 '문화부 신설에 바란다-김성호<중앙일보 출판기획위원>' (BigKinds news_id 01100901.19880227005326002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880227005326002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:42:55-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19880227005326002.json) [quote: '신임 정한모 문화공보부 장관'] [summary: 중앙일보 1988-02-27 calls him the new 문화공보부 장관]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Named with the whole first 노태우 cabinet on 1988-02-19 (조선일보 1988-02-20 p.3 '「2.19內閣」'), appointed on 25 Feb."
+  },
+  {
+   "nominee": "최병렬",
+   "office_title": "문화공보부장관",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "동아일보 1988-12-05 p.1 '총리에 姜英勲씨' (Naver News Library article 1988120500209201003, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/culture/ext88/nl/nl_1988120500209201003.json) [quote: '문공부장관 崔秉烈(최병렬) 青瓦臺(청와대)정무수석비서관'] [summary: 12·5 reshuffle, 5 Dec 1988]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Named and appointed the same day."
+  },
+  {
+   "nominee": "이어령",
+   "office_title": "문화부장관",
+   "nomination_date": "1989-12-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-01-03",
+   "sources": [
+    "경향신문 1989-12-28 p.1 '初代 문화장관 李御寧씨' (Naver News Library article 1989122800329201015, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800329201015&editNo=3&printCount=1&publishDate=1989-12-28&officeId=00032&pageNo=1&printNo=13618&publishType=00020, accessed 2026-09-26T09:41:44-0400; snapshot roster/sources/culture/ext88/nl/nl_1989122800329201015.json) [quote: '새해1월3일자로 신설되는 문화부장관에 李御寧梨花女大교수'] [summary: announced 27 Dec 1989, effective 3 Jan 1990]",
+    "경향신문 1990-01-03 p.1 '盧대통령 임명장수여 신설 3개部處장관에' (Naver News Library article 1990010300329201006, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300329201006&editNo=3&printCount=1&publishDate=1990-01-03&officeId=00032&pageNo=1&printNo=13622&publishType=00020, accessed 2026-09-26T09:07:29-0400; snapshot roster/sources/culture/ext88/nl/nl_1990010300329201006.json) [quote: '盧泰愚대통령은 3일 상오청와대에서 李御寧문화부'] [summary: 임명장 3 Jan 1990]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced on 1989-12-27 with effect from the day 문화부 came into existence."
+  },
+  {
+   "nominee": "이수정",
+   "office_title": "문화부장관",
+   "nomination_date": "1991-12-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1991-12-20",
+   "sources": [
+    "한국일보 1991-12-20 '신임각료에 임명장' (BigKinds news_id 01101101.19911220000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19911220000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:13-0400; snapshot roster/sources/culture/ext88/bk/bk_01101101.19911220000000102.json) [quote: '노태우대통령은 20일 상오 신임 최세창국방,이수정문화'] [summary: 임명장 20 Dec 1991]",
+    "조선일보 1991-12-20 p.2 '庁-次長 승진 국세청\"慶事났네\"' (Naver News Library article 1991122000239102008, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122000239102008&editNo=1&printCount=1&publishDate=1991-12-20&officeId=00023&pageNo=2&printNo=21848&publishType=00010, accessed 2026-09-26T09:29:25-0400; snapshot roster/sources/culture/ext88/nl/nl_1991122000239102008.json) [quote: '청와대측은 19일 오후3시정각 개각사실과 신임각료 명단을 발표'] [summary: announced 19 Dec 1991]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced on the afternoon of 1991-12-19, 임명장 on the 20th."
+  },
+  {
+   "nominee": "이민섭",
+   "office_title": "문화부장관 (announced as 문화체육부장관)",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 '새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)' (Naver News Library article 1993022600209201001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022600209201001.json) [quote: '문화체육부장관에 李敏燮民自黨의원'] [summary: 2·26 cabinet announcement]",
+    "동아일보 1993-02-26 p.1 '새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)' (Naver News Library article 1993022600209201001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/culture/ext88/nl/nl_1993022600209201001.json) [quote: '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며'] [summary: 임명장 that afternoon]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced as 문화체육부장관 before that ministry existed. The legal office until 1993-03-05 was 문화부장관. The 1993-03-06 continuation as 문화체육부장관 has no separate nomination record."
+  },
+  {
+   "nominee": "주돈식",
+   "office_title": "문화체육부장관",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "동아일보 1994-12-24 p.1 '19部處장관 경질 大改閣' (Naver News Library article 1994122400209101001, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122400209101001.json) [quote: '문화체육 朱燉植대통령공보수석비서관'] [summary: 12·23 reshuffle announcement]",
+    "매일경제 1994-12-25 p.2 '새국무위원에 임명장' (Naver News Library article 1994122500099102002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/culture/ext88/nl/nl_1994122500099102002.json) [quote: '金泳三대통령이 24일오전 청와대에서'] [summary: 임명장 24 Dec 1994]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced at 15:00 on 1994-12-23, 임명장 on the morning of the 24th."
+  },
+  {
+   "nominee": "김영수",
+   "office_title": "문화체육부장관",
+   "nomination_date": "1995-12-20",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1995-12-21",
+   "sources": [
+    "한겨레 1995-12-21 '부총리 나웅배(경제) 권오기(통일)씨/새 비서실장 김광일씨' (BigKinds news_id 01101001.19951221000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19951221000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:46:35-0400; snapshot roster/sources/culture/ext88/bk/bk_01101001.19951221000000101.json) [quote: '문화체육 김영수'] [summary: 12·20 reshuffle announcement]",
+    "매일경제 1995-12-22 p.1 '새진용' (Naver News Library article 1995122200099101004, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099101004&editNo=15&printCount=1&publishDate=1995-12-22&officeId=00009&pageNo=1&printNo=9305&publishType=00010, accessed 2026-09-26T09:33:57-0400; snapshot roster/sources/culture/ext88/nl/nl_1995122200099101004.json) [quote: '金泳三대통령은 21일 오전 청와대에서 신임각료와 수석비서관들에게 임명장을 수여한 뒤'] [summary: 임명장 21 Dec 1995]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced on 1995-12-20, 임명장 on the morning of the 21st."
+  },
+  {
+   "nominee": "송태호",
+   "office_title": "문화체육부장관",
+   "nomination_date": "1997-03-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1997-03-06",
+   "sources": [
+    "조선일보 1997-03-06 p.1 '장관급 10명 경질' (Naver News Library article 1997030600239101002, OCR text via https://newslibrary.naver.com/api/article/detail/json, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600239101002&editNo=1&printCount=1&publishDate=1997-03-06&officeId=00023&pageNo=1&printNo=23645&publishType=00010, accessed 2026-09-26T09:42:10-0400; snapshot roster/sources/culture/ext88/nl/nl_1997030600239101002.json) [quote: '문체宋泰鎬'] [summary: 3·5 reshuffle announcement]",
+    "서울신문 1997-03-07 '7개부처 장관 등에 임명장' (BigKinds news_id 01100611.20160421072549847, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421072549847&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:35:35-0400; snapshot roster/sources/culture/ext88/bk/bk_01100611.20160421072549847.json) [quote: '임명장'] [summary: 서울신문 1997-03-07 '7개부처 장관 등에 임명장']"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). A 국무위원 needed no Assembly consent under 헌법 제10호. Announced on the afternoon of 1997-03-05, 임명장 on the 6th. The spell itself is the 1998 holdover copied from culture.verified.json (from_main), whose nominations list starts in 1998, so this appointment is recorded here."
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "1988 holdover. 이웅희 (문화공보부, appointed by 전두환) is included with one day in the window. The 5th Republic cabinet tendered its resignations on 1988-02-24 and they were accepted on the morning of 1988-02-25, the day 노태우 gave the new ministers their 임명장 (조선일보 1988-02-26, 중앙일보 1988-02-25). MCST and ko.wikipedia end his tenure on 1988-02-24. If the project closes all 전두환 spells on 1988-02-24, this spell drops out of the window. The same question applies to every lineage's 1988 holdovers and should be settled once for all of them."
+  },
+  {
+   "severity": "medium",
+   "desc": "1993 transition. 이수정's end is set to 1993-02-26 (same-day handover, inferred_from_successor). 중앙일보 of 1993-02-25 (BigKinds 01100901.19930225151908002) says the outgoing cabinet's resignations were all accepted on 25 Feb, and MCST and ko.wikipedia give 1993-02-25. 매일경제 1993-02-24 says the ministers would stay until successors were appointed, and 동아일보, 서울경제, 국민일보 and 조선일보 report farewells and exits of other 노태우 ministers (진념, 이진삼, 최각규, 한봉수) on 26 Feb. The sports (이진삼) and energy (진념) lineages face the same choice and should use the same date."
+  },
+  {
+   "severity": "medium",
+   "desc": "1993 merger. 이민섭 was announced on 1993-02-26 as 문화체육부장관, but that ministry existed only from 1993-03-06. His spell is split into 문화부장관 1993-02-26..03-05 and 문화체육부장관 from 1993-03-06 (reorg_continuation true, reappointed_on_reorg null). 법률 제4541호 부칙 제2조 excludes 정무직 from the staff transfer, as 법률 제5529호 did in 1998, when the main roster treated the heads of renamed ministries as leaving office. In 1993 he was in office after 3·6 without any reported new 임명장, so this file keeps him in office and leaves the reappointment question open. No 체육청소년부장관 was appointed on 1993-02-26 (동아일보 1993-02-27), so 이민섭 is not recorded in the sports lineage and 체육청소년부 had no minister from 26 Feb to 5 Mar 1993. The industry lineage has the same pattern (김철수, called 상공부장관 in the 대한민국사연표 entry for 1993-03-06)."
+  },
+  {
+   "severity": "low",
+   "desc": "Start dates use the 임명장 date where the announcement came earlier. The cases are 이웅희 (발령 1986-08-26, 임명장 08-27), 이어령 (announced 1989-12-27 with effect from 1990-01-03), 이수정 (1991-12-19 / 12-20), 주돈식 (1994-12-23 / 12-24), 김영수 (1995-12-20 / 12-21) and 송태호 (1997-03-05 / 03-06). This follows the main roster. The announcement dates are in nominations[]. ko.wikipedia gives 이어령 1989-12-28, the day a 임명장 was trailed in the press, but the ceremony reports found are dated 1990-01-03."
+  },
+  {
+   "severity": "low",
+   "desc": "MCST end dates are the day before the successor's start. Where the news shows an exit on the announcement day (이어령 1991-12-19, 이민섭 1994-12-23) the file agrees with MCST. Where the handover was the same day (이웅희 1988-02-25, 정한모 1988-12-05) or no exit was found (주돈식, successor 1995-12-21, and 김영수, successor 1997-03-06) the end is the successor's start, one day after MCST."
+  },
+  {
+   "severity": "low",
+   "desc": "Cross-lineage moves. 최병렬 left 문화공보부 on its abolition and became the first 공보처장관 on 1990-01-03 (public_info). 주돈식 moved to 정무장관(제1) on 1995-12-21 (the lineage that holds 정무장관(제1)). Neither of those spells is in this file."
+  },
+  {
+   "severity": "low",
+   "desc": "culture.verified.json also holds 오인환's 공보처 spell (1993-02-26..1998-02-27). offices_1988.json assigns 공보처 to the new public_info lineage, so it is not copied here to avoid a duplicate. The only from_main record here is 송태호. No tier 1-3 evidence against it was found (조선일보 1997-03-06 and 서울신문 1997-03-07 agree with its 1997-03-06 start)."
+  },
+  {
+   "severity": "low",
+   "desc": "No vacancy in the culture lineage between 1986-08-27 and 1998-02-27, so acting[] is empty. Consecutive spells meet either the next day or on the same day (same-day handover)."
+  },
+  {
+   "severity": "low",
+   "desc": "Gazette files do not exist before 2001, so no spell has tier 1 evidence. Dates rest on the MCST 역대장관 page (tier 2), the 대한민국사연표 and 대통령기록관 schedule (tier 2) and day-of reports from at least two different newspapers (News Library and BigKinds). OCR quotes from the News Library were checked against the OCR text, not against the page images. 이수정's birth date was not found."
+  }
+ ],
+ "continuity": [
+  {
+   "from": "이웅희 (문화공보부) end 1988-02-25",
+   "to": "정한모 (문화공보부) start 1988-02-25",
+   "gap_days": 0,
+   "overlap_days": 1
+  },
+  {
+   "from": "정한모 (문화공보부) end 1988-12-05",
+   "to": "최병렬 (문화공보부) start 1988-12-05",
+   "gap_days": 0,
+   "overlap_days": 1
+  },
+  {
+   "from": "최병렬 (문화공보부) end 1990-01-02",
+   "to": "이어령 (문화부) start 1990-01-03",
+   "gap_days": 0,
+   "overlap_days": 0
+  },
+  {
+   "from": "이어령 (문화부) end 1991-12-19",
+   "to": "이수정 (문화부) start 1991-12-20",
+   "gap_days": 0,
+   "overlap_days": 0
+  },
+  {
+   "from": "이수정 (문화부) end 1993-02-26",
+   "to": "이민섭 (문화부) start 1993-02-26",
+   "gap_days": 0,
+   "overlap_days": 1
+  },
+  {
+   "from": "이민섭 (문화부) end 1993-03-05",
+   "to": "이민섭 (문화체육부) start 1993-03-06",
+   "gap_days": 0,
+   "overlap_days": 0
+  },
+  {
+   "from": "이민섭 (문화체육부) end 1994-12-23",
+   "to": "주돈식 (문화체육부) start 1994-12-24",
+   "gap_days": 0,
+   "overlap_days": 0
+  },
+  {
+   "from": "주돈식 (문화체육부) end 1995-12-21",
+   "to": "김영수 (문화체육부) start 1995-12-21",
+   "gap_days": 0,
+   "overlap_days": 1
+  },
+  {
+   "from": "김영수 (문화체육부) end 1997-03-06",
+   "to": "송태호 (문화체육부) start 1997-03-06",
+   "gap_days": 0,
+   "overlap_days": 1
+  }
+ ],
+ "sources_used": {
+  "scripts": [
+   "roster/scripts/culture_ext88_01_lists.py",
+   "roster/scripts/culture_ext88_02_checkpoint_list.py",
+   "roster/scripts/culture_ext88_03_news_search.py",
+   "roster/scripts/culture_ext88_04_read.py",
+   "roster/scripts/culture_ext88_05_schedule_chrono.py",
+   "roster/scripts/culture_ext88_06_people.py",
+   "roster/scripts/culture_ext88_07_wiki_cabinets.py",
+   "roster/scripts/culture_ext88_08_fetch_cited.py",
+   "roster/scripts/culture_ext88_09_build.py"
+  ],
+  "snapshots": "roster/sources/culture/ext88/",
+  "tiers": "MCST 역대장관 (2), 대한민국사연표 (2), 대통령기록관 일정 (2), Naver News Library OCR (3), BigKinds full text (3), ko.wikipedia and Wikidata (4, secondary and biographical only)"
+ },
+ "verification": {
+  "verified_at": "2026-09-26T13:19:11-0400",
+  "verifier": "adversarial verifier, lineage culture, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/culture.ext88.json",
+  "input_built_at": "2026-09-26T09:54:44-0400",
+  "started_at": "2026-09-26T10:19:44-0400",
+  "steps_done": [
+   "step 0: read builder file (10 spells, 8 nominations, 7 issues), offices_1988.json (OFA21-23, sports, public_info), toolkit. Namu Wiki returned HTTP 403 (Cloudflare) for 문화공보부, 문화부(대한민국), 문화체육부, 문화체육관광부/역대 장관 at 10:18-10:19, so the independent list will come from a News Library monthly tally.",
+   "step 1 (resumed 2026-09-26T12:58:07-0400): prior BigKinds transition search (roster/scripts/culture_ext88_verify_03_bk.py, 32 jobs, roster/sources/culture/ext88_verify/bk_search_listing.json) is complete. Monthly News Library tally (culture_ext88_verify_02_monthly_tally.py) had 24 of the planned months and was restarted, resuming by key.",
+   "step 2 (2026-09-26T13:05:26-0400): BigKinds full text of 57 articles not cited by the builder (culture_ext88_verify_04_bk_fulltext.py, ext88_verify/bk_fulltext.json), tier 2 schedule and chronology rows (culture_ext88_verify_05_tier2.py, ext88_verify/tier2.json). Targeted News Library searches running (culture_ext88_verify_06_nl_targeted.py).",
+   "step 3 (2026-09-26T13:19:11-0400): targeted News Library searches in papers the builder did not cite for each event (roster/scripts/culture_ext88_verify_06_nl_targeted.py, ext88_verify/nl_targeted.json, 35 searches, 145+ articles) and extra BigKinds exit searches (culture_ext88_verify_04_bk_fulltext.py 'searches').",
+   "step 4 (2026-09-26T13:19:11-0400): build with quote checks (roster/scripts/culture_ext88_verify_07_build.py). Every quote in this object is an exact substring of the saved snapshot text. News Library quotes were checked against the OCR text, not against the page images.",
+   "rerun R1 (2026-09-26T21:17:34-0400): integrity audit (roster/scripts/culture_ext88_verify_08_rerun_audit.py, output roster/sources/culture/ext88_verify/rerun_audit_2026-09-26T211734.json). Input unchanged (built_at 2026-09-26T09:54:44-0400, md5 7929680666b28b84ad8931afdbd75dfb). 148 of 148 quotes are exact substrings of their snapshots, 134 of 134 referenced snapshots are on disk, every start and end has at least two sources with at least one outside Wikipedia/Wikidata/Namu, no gap and no overlap over one day, 송태호 from_main identical to the main roster, and the only builder-to-verified difference is the listed 김영수 mp_hint change.",
+   "rerun R2 (2026-09-26T21:50:53-0400): search for 이수정's own exit (culture_ext88_verify_09_lsj_exit.py). Nothing dates it, see per_spell 4.",
+   "rerun R3 (2026-09-26T21:50:53-0400): recorded R1 and R2 here (culture_ext88_verify_10_rerun_finalize.py). No spell value or status changed.",
+   "restart S1-S5 (2026-09-27T21:53:05-0400, trigger '다시 시작해주세요'). Input unchanged (md5 7929680666b28b84ad8931afdbd75dfb). S1 integrity audit passed (roster/sources/culture/ext88_verify/rerun_audit_2026-09-27T215000.json, 150 of 150 quotes, 136 of 136 snapshots). S2 read-only survey of the other ext88.verified files. S3 대통령기록관 노태우 1993 schedule without a filter (culture_ext88_verify_11_restart_pa1993.py). S4 own field-hygiene check against offices_1988.json OFA21-23 (periods, deputy_pm_title [], no culture entry in deputy_pm_designations). S5 this record (culture_ext88_verify_12_restart_finalize.py). No spell value or status changed. The cross-lineage statements in disputes[0-3] and per_spell 4 were brought up to date."
+  ],
+  "summary": {
+   "n_spells": 10,
+   "confirmed": 8,
+   "corrected": 1,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 8,
+   "acting_entries": 0,
+   "fields_changed": 1
+  },
+  "completeness": [
+   "Independent holder list: monthly News Library tally of the name printed before the office title (queries 문공부장관 and 문화공보부장관 1988-01..1990-01, 문화부장관 1989-12..1993-03, 문화체육부장관 and 문체부장관 1993-02..1998-03, 214 monthly queries, script roster/scripts/culture_ext88_verify_02_monthly_tally.py, output roster/sources/culture/ext88_verify/monthly_tally.json, search snapshots in roster/sources/culture/ext88_verify/nl, first query accessed 2026-09-26T10:19:53-0400). The leading current-holder name per month runs 이웅희 (1988-01..02), 정한모 (1988-02..11), 최병렬 (1988-12..1989-12), 이어령 (1990-01..1991-12), 이수정 (1991-12..1993-02), 이민섭 (1993-02..1994-12), 주돈식 (1994-12..1995-12), 김영수 (1995-12..1997-03), 송태호 (1997-03..1998-02), with both names only in the months of a handover. Other names that appear (이광표, 이원홍, 이진희, 윤주영) are pre-1988 문공부장관 named in the 1988 언론통폐합 hearings, checked in the snippets. No other holder, no short tenure and no break around the 1988, 1992 and 1996 general elections or the 1995 local elections.",
+   "1988 transition from 전두환: one holdover (이웅희), included with one day in the window. 1993 transition: 이수정 to 이민섭 (end disputed, see per_spell). 1990-01-03 split (최병렬 to 공보처, public_info), 1993-03-06 merger (이민섭 split), 1994-12-23 addition of 관광 without a rename, 1998-02-28 rename (송태호, from_main) are all handled.",
+   "Elections: no culture minister left office to run in the 1988 (4·26), 1992 (3·24) or 1996 (4·11) general elections or the 1995 (6·27) local elections (tally rows for those months show the sitting minister). 이웅희 hinted on 1988-02-23 that he would run (동아일보 1988-02-24) but left with the whole cabinet on 02-25.",
+   "Reshuffles that kept the minister (checked in the tally): 1990-03-17/19, 1990-12-27, 1991-05, 1992-06-26, 1992-10-09, 1993-12-21, 1994-04-30, 1996-08-08."
+  ],
+  "continuity_check": [
+   {
+    "from": "이웅희 (문화공보부) end 1988-02-25",
+    "to": "정한모 (문화공보부) start 1988-02-25",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "정한모 (문화공보부) end 1988-12-05",
+    "to": "최병렬 (문화공보부) start 1988-12-05",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "최병렬 (문화공보부) end 1990-01-02",
+    "to": "이어령 (문화부) start 1990-01-03",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "이어령 (문화부) end 1991-12-19",
+    "to": "이수정 (문화부) start 1991-12-20",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "이수정 (문화부) end 1993-02-26",
+    "to": "이민섭 (문화부) start 1993-02-26",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "이민섭 (문화부) end 1993-03-05",
+    "to": "이민섭 (문화체육부) start 1993-03-06",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "이민섭 (문화체육부) end 1994-12-23",
+    "to": "주돈식 (문화체육부) start 1994-12-24",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "주돈식 (문화체육부) end 1995-12-21",
+    "to": "김영수 (문화체육부) start 1995-12-21",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "김영수 (문화체육부) end 1997-03-06",
+    "to": "송태호 (문화체육부) start 1997-03-06",
+    "gap_days": 0,
+    "overlap_days": 1
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage).",
+  "field_hygiene": [
+   "appointing_president matches the president on each start date (전두환 1986-08-27, 노태우 1988-02-25 to 1991-12-20, 김영삼 1993-02-26 on). appointed_by_acting_president false for all, correct (no acting president in the window).",
+   "deputy_pm false for all spells. offices_1988.json gives deputy_pm_title [] for OFA21, OFA22 and OFA23.",
+   "ministry and office_title match offices_1988.json periods for every spell (문화공보부 to 1990-01-02, 문화부 1990-01-03..1993-03-05, 문화체육부 1993-03-06..1998-02-27).",
+   "reorg fields. 최병렬 and 이민섭 (문화부) end ministry_reorganized. 이민섭 (문화체육부) has reorg_continuation true and reappointed_on_reorg null. 송태호 keeps the reorg fields of the main roster.",
+   "from_main: only 송태호, identical to roster/culture.verified.json apart from the flag.",
+   "nominations: all 8 nomination_date and outcome_date values agree with the verifier's sources (E08, E09, E13, E19/E23, E31, E40, E43, E49) and with the spell starts."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "이웅희",
+    "ministry": "문화공보부",
+    "start": "1986-08-27",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1986-08-27 confirmed: 중앙일보 1986-08-27 '신임 각료에 임명장' (BigKinds news_id 01100901.19860827214434005, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860827214434005&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:44:53-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100901.19860827214434005.json) [quote: '전두환 대통령은 27일 상오 김종호 내무장관 등 9개 부처장관과 이상훈 비상기획위원장에게 임명장을 수여했다'] [summary: 임명장 for the 8·26 reshuffle ministers on the morning of 27 Aug 1986] | 전북일보 1986-08-27 '全대통령 새 閣僚에 임명장' (BigKinds news_id 01601101.19860827100306107, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19860827100306107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:24:30-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01601101.19860827100306107.json) [quote: '全斗煥대통령은 27일 상오 靑瓦臺에서 金宗鎬내무장관등 신임 각료 9명과 李相薰 비상기획위원장에게 각각 임명장을 수여했다'] [summary: same ceremony, regional paper carrying 연합 copy]. Neither is cited by the builder.",
+     "end 1988-02-25 confirmed as the legal end: 한국경제 1988-02-24 '[政街산책] 25일 0시부터 權限행사' (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '임명장을 받는 시각부터 정식 국무위원 자격을 가질 것이라고 풀이'] [summary: 법제처 reading: government passes to 노태우 at 0시 25일, the new ministers become 국무위원 when they receive the 임명장 on the morning of 25 Feb] | 서울신문 1988-02-26 '우린 「함께 걷는 민主主義」출발선상에' (BigKinds news_id 01100611.19880226163139001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163139001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:58:56-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.19880226163139001.json) [quote: '盧泰愚대통령은 25일 상오 취임식후 靑瓦臺 집무실에서 국무위원 임명장에 서명하는 것으로 대통령 집무를 시작했다'] [summary: 노태우 signed the 국무위원 임명장 on the morning of 25 Feb 1988]. With the builder's reports that the 5th Republic cabinet's resignations were accepted by 노태우 on the morning of 25 Feb, the successor took office the same morning, so the same-day handover rule used in every ext88 lineage gives 25 Feb.",
+     "Counterpoint recorded, no change: 동아일보 1988-02-24 p.2 '李文公 出馬할뜻 비쳐' (Naver News Library article 1988022400209202011, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022400209202011), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209202011&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=2&printNo=20428&publishType=00020, accessed 2026-09-26T13:02:02-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1988022400209202011.json) [quote: '퇴임을 하루 앞둔 심경을 술회'] [summary: 이웅희 on the afternoon of 23 Feb spoke of 'the eve of retirement', i.e. he expected to leave office with the 5th Republic on 24 Feb. He also hinted he would run for the Assembly in 용인]. MCST also prints 1988-02-24 (its convention is the day before the successor's start). This is the builder's issue 1 (whether 전두환 holdovers end on 02-24 and drop out of the window), a project-level choice. All 12 ext88 lineages with a 1988 holdover currently end it on 1988-02-25.",
+     "end_reason 'replaced' kept. 동아일보 1988-02-24 shows he meant to run for the 13th Assembly (용인), which he won (na_members/na_member_spells_12_22.csv, term 13 from 1988-05-30), but he left office with the collective resignation at the change of government, not by a separate resignation to run. Other lineages code their 1988 holdovers as 'resigned' (foreign, finance, interior, justice, sports) or 'replaced', see disputes."
+    ]
+   },
+   "1": {
+    "name": "정한모",
+    "ministry": "문화공보부",
+    "start": "1988-02-25",
+    "end": "1988-12-05",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed: 서울신문 1988-02-26 '우린 「함께 걷는 민主主義」출발선상에' (BigKinds news_id 01100611.19880226163139001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163139001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:58:56-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.19880226163139001.json) [quote: '盧泰愚대통령은 25일 상오 취임식후 靑瓦臺 집무실에서 국무위원 임명장에 서명하는 것으로 대통령 집무를 시작했다'] [summary: 노태우 signed the 국무위원 임명장 on the morning of 25 Feb 1988] | 한국경제 1988-02-24 '[政街산책] 25일 0시부터 權限행사' (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '임명장을 받는 시각부터 정식 국무위원 자격을 가질 것이라고 풀이'] [summary: 법제처 reading: government passes to 노태우 at 0시 25일, the new ministers become 국무위원 when they receive the 임명장 on the morning of 25 Feb] | in office on 26 Feb: 동아일보 1988-02-26 p.1 '7,200여명 赦免復權' (Naver News Library article 1988022600209201003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022600209201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600209201003&editNo=2&printCount=1&publishDate=1988-02-26&officeId=00020&pageNo=1&printNo=20430&publishType=00020, accessed 2026-09-26T13:02:12-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1988022600209201003.json) [quote: '鄭漢模문공부장관을 통해 사면복권을 발표'] [summary: 정한모 acting as 문공부장관 on 26 Feb 1988] | 매일경제 1988-02-27 p.1 '赦免·復權단행' (Naver News Library article 1988022700099201009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022700099201009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022700099201009&editNo=1&printCount=1&publishDate=1988-02-27&officeId=00009&pageNo=1&printNo=6764&publishType=00020, accessed 2026-09-26T13:02:24-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1988022700099201009.json) [quote: '정부대변인 鄭漢模문공부장관은 이날 대사면관련 정부성명을 발표'] [summary: 정한모 as 문공부장관 and government spokesman on 26 Feb 1988].",
+     "end 1988-12-05 confirmed: 서울신문 1988-12-06 '새總理 姜英勳씨' (BigKinds news_id 01100611.19881206160851003, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160851003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:32:51-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.19881206160851003.json) [quote: '이날 상오8시 임시국무회의를 열고 일괄사표를 제출'] [summary: the whole cabinet tendered resignations at 08:00 on 5 Dec 1988 before the 12·5 reshuffle, which named 문공 崔秉烈] | 조선일보 1988-12-06 p.1 '총리에 姜英勲씨' (Naver News Library article 1988120600239101029, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988120600239101029), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1988120600239101029.json) [quote: '오후에는 신임각료들에게 청와대에서 임명장을 수여했다'] [summary: new ministers received the 임명장 on the afternoon of 5 Dec 1988]. Resignations in the morning, successor's 임명장 in the afternoon of the same day.",
+     "nomination_date 1988-02-19 confirmed: 중앙일보 1988-02-19 '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임' (BigKinds news_id 01100901.19880219004312001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100901.19880219004312001.json) [quote: '노 당선자는 이날 오전 24개 부처장관 중 정무 제1장관을 제외한 23개 부처장 관내정자를 발표'] [summary: cabinet designates announced on the morning of 19 Feb 1988, with ▲문공=정한모 문예진흥원장]."
+    ]
+   },
+   "2": {
+    "name": "최병렬",
+    "ministry": "문화공보부",
+    "start": "1988-12-05",
+    "end": "1990-01-02",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-12-05 confirmed: 조선일보 1988-12-06 p.1 '총리에 姜英勲씨' (Naver News Library article 1988120600239101029, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988120600239101029), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239101029&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=1&printNo=20825&publishType=00010, accessed 2026-09-26T09:54:45-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1988120600239101029.json) [quote: '오후에는 신임각료들에게 청와대에서 임명장을 수여했다'] [summary: new ministers received the 임명장 on the afternoon of 5 Dec 1988] | 서울신문 1988-12-06 '\"쇄신요구\" 부응…진통끝에 落點 「姜英勳내각」이 탄생하기까지' (BigKinds news_id 01100611.19881206160853002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19881206160853002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:06-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.19881206160853002.json) [quote: '盧泰愚대통령이 5일하오 새 각료들에게 임명장을 준뒤'] [summary: photo caption, 임명장 on the afternoon of 5 Dec 1988] | 중앙일보 1988-12-06 '「강성인사」유임…민정도 갸우뚱' (BigKinds news_id 01100901.19881206055150001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881206055150001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:14-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100901.19881206055150001.json) [quote: '최병렬씨가 문공장관에 임명된데다'] [summary: 최병렬 named 문공장관 in the 12·5 reshuffle].",
+     "end 1990-01-02 confirmed: 세계일보 1989-12-28 '文化部장관 李御寧 環境處장관 曺京植 公報處장관 崔秉烈 어제 3部장관 임명' (BigKinds news_id 01100701.19891228163234004, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19891228163234004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:31-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19891228163234004.json) [quote: '정부의 조직개편에 따라 내년 1월3일부터 현 文化公報部는 문화부와 공보처로 분리되며'] [summary: 이어령 named 문화부장관 and 최병렬 (sitting 문공부장관) named 공보처장관 on the afternoon of 27 Dec 1989, the offices to exist from 3 Jan 1990] | 세계일보 1989-12-29 '次官4명 후속人事' (BigKinds news_id 01100701.19891229163307001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19891229163307001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:05:09-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19891229163307001.json) [quote: '盧대통령은 새해 1월 3일 신설 3개부처 장관에 대한 임명장을 수여할 예정이며'] [summary: the 임명장 trailed for 28 Dec was set for 3 Jan 1990] | 한국일보 1990-01-04 '신임 3장관에 임명장' (BigKinds news_id 01101101.19900104000000205, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900104000000205&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:15:27-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01101101.19900104000000205.json) [quote: '노태우대통령은 3일 상오 이어령문화부장관 조경식환경처장관 최병렬 공보처장관에게 임명장을 주었다'] [summary: 임명장 on the morning of 3 Jan 1990] | 세계일보 1990-01-05 '해외공보관 재배치검토/최공보처장관/미­동구겨냥… 전통문화 소개주력' (BigKinds news_id 01100701.19900105000000202, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900105000000202&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:24-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19900105000000202.json) [quote: '최병렬공보처장관은 4일 기자들과 만나'] [summary: 최병렬 acting as 공보처장관 on 4 Jan 1990]. 문화공보부 existed to 1990-01-02 (offices_1988.json OFA21). He stayed 문공부장관 until then and became 공보처장관 on 1990-01-03 (public_info.ext88.json has the same date)."
+    ]
+   },
+   "3": {
+    "name": "이어령",
+    "ministry": "문화부",
+    "start": "1990-01-03",
+    "end": "1991-12-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-01-03 confirmed: 세계일보 1989-12-29 '次官4명 후속人事' (BigKinds news_id 01100701.19891229163307001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19891229163307001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:05:09-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19891229163307001.json) [quote: '盧대통령은 새해 1월 3일 신설 3개부처 장관에 대한 임명장을 수여할 예정이며'] [summary: the 임명장 trailed for 28 Dec was set for 3 Jan 1990] | 한국일보 1990-01-04 '신임 3장관에 임명장' (BigKinds news_id 01101101.19900104000000205, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900104000000205&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:15:27-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01101101.19900104000000205.json) [quote: '노태우대통령은 3일 상오 이어령문화부장관 조경식환경처장관 최병렬 공보처장관에게 임명장을 주었다'] [summary: 임명장 on the morning of 3 Jan 1990] | 부산일보 1990-01-03 '3部處장관 임명' (BigKinds news_id 01500701.19900103195012115, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19900103195012115&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:20-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500701.19900103195012115.json) [quote: '盧泰愚대통령은 3일상오 신임 李御寧문화부장관 曺京植환경처장관 崔秉烈공보처장관에게 각각 임명장을 수여했다'] [summary: same, independent regional paper] | 조선일보 1990-01-04 p.13 '◇신설 文化部 시무식겸 장차관 취임식에서 직원들과 인사를 나누고 있는 李御寧장관' (Naver News Library article 1990010400239113007, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990010400239113007), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010400239113007&editNo=1&printCount=1&publishDate=1990-01-04&officeId=00023&pageNo=13&printNo=21155&publishType=00010, accessed 2026-09-26T13:04:04-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1990010400239113007.json) [quote: '신설 文化部 시무식겸 장차관 취임식'] [summary: 이어령's 취임식 at the new 문화부 (reported 4 Jan 1990 for 3 Jan)]. The 28 Dec 1989 ceremony trailed on 28 Dec did not take place, which also rules out ko.wikipedia's 1989-12-28.",
+     "end 1991-12-19 confirmed: 국제신문 1991-12-20 '企劃院 \"웃고\" 商工部 \"울다\"' (BigKinds news_id 01500401.19911220162222001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19911220162222001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:13:02-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500401.19911220162222001.json) [quote: '李秀正청와대대변인은 19일 오후3시 청와대 춘추관에서 7개부처 장관에 대한 盧泰愚대통령의 개각 내용을 발표'] [summary: announcement at 15:00 on 19 Dec 1991] | 부산일보 1991-12-20 '“신임건설 强性” 소문에 불안감' (BigKinds news_id 01500701.20160408195141977, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160408195141977&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:12:18-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500701.20160408195141977.json) [quote: '李御寧 前문화부장관은 사임 발표가 난 후에도 몇몇 국장들과 문화부 5층에 있는 시사실에서'] [summary: on 19 Dec, after the announcement, the paper already calls 이어령 前 문화부장관] | 세계일보 1991-12-20 '7부장관 경질' (BigKinds news_id 01100701.19911220000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19911220000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:27-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19911220000000101.json) [quote: '노대통령은 20일 이들 신임 각료들에게 임명장을 수여한다'] [summary: reshuffle announced on the afternoon of 19 Dec 1991, 임명장 set for 20 Dec].",
+     "nomination_date 1989-12-27 confirmed: 세계일보 1989-12-28 '文化部장관 李御寧 環境處장관 曺京植 公報處장관 崔秉烈 어제 3部장관 임명' (BigKinds news_id 01100701.19891228163234004, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19891228163234004&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:31-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19891228163234004.json) [quote: '정부의 조직개편에 따라 내년 1월3일부터 현 文化公報部는 문화부와 공보처로 분리되며'] [summary: 이어령 named 문화부장관 and 최병렬 (sitting 문공부장관) named 공보처장관 on the afternoon of 27 Dec 1989, the offices to exist from 3 Jan 1990]."
+    ]
+   },
+   "4": {
+    "name": "이수정",
+    "ministry": "문화부",
+    "start": "1991-12-20",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1991-12-20 confirmed: 세계일보 1991-12-20 '7부장관 경질' (BigKinds news_id 01100701.19911220000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19911220000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:27-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19911220000000101.json) [quote: '노대통령은 20일 이들 신임 각료들에게 임명장을 수여한다'] [summary: reshuffle announced on the afternoon of 19 Dec 1991, 임명장 set for 20 Dec] | 서울경제 1991-12-21 '[政街往來] 盧대통령 “6共 멋지게 마무리 짓도록 팀워크 발휘” …신임장관에 당부' (BigKinds news_id 02100311.19911221172539001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19911221172539001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:26-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_02100311.19911221172539001.json) [quote: '盧대통령은 20일 상오 12·19개각을 통해 새로 임명된 신임장관및 비서관들에게 임명장을 수여하면서'] [summary: 임명장 on the morning of 20 Dec 1991] | 경향신문 1991-12-21 p.9 '자유로운 文化활동 적극 뒷받침 李秀正 문화부장관' (Naver News Library article 1991122100329109009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991122100329109009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991122100329109009&editNo=15&printCount=1&publishDate=1991-12-21&officeId=00032&pageNo=9&printNo=14265&publishType=00010, accessed 2026-09-26T13:06:40-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1991122100329109009.json) [quote: '20일 상오 2대 문화부장관으로 취임한 李秀正장관(51)은'] [summary: 이수정 took office on the morning of 20 Dec 1991].",
+     "end 1993-02-26 (builder, inferred_from_successor) is disputed and kept. For 26 Feb: 세계일보 1993-02-25 '새 정부출범 전야 관가표정' (BigKinds news_id 01100701.19930225000000201, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930225000000201&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:08-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19930225000000201.json) [quote: '현승종총리 이하 현국무위원들은 26일 새내각이 탄생하면 곧바로 이취임식을 갖고 대부분 야인으로 돌아간다'] [summary: the outgoing ministers were to leave with 이취임식 on 26 Feb 1993, when the new cabinet took office] | 한겨레 1993-02-26 '퇴임 경제부처 장관들 유학계획많아' (BigKinds news_id 01101001.19930226000000603, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930226000000603&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:46-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01101001.19930226000000603.json) [quote: '26일 일제히 퇴임하는 경제부처 장관들은'] [summary: 노태우's ministers retire together on 26 Feb 1993] | 서울신문 1993-02-27 '철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정' (BigKinds news_id 01100611.20160421220544125, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220544125&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:53:05-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160421220544125.json) [quote: '이날 퇴임한 백광현장관은 이임식을 마친뒤'] [summary: 내무부장관 백광현 left office on 26 Feb 1993] | 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022700239105001.json) [quote: '동자부는 26일 오전 쓸쓸한 분위기에서 陳稔장관의 이임식을 갖고'] [summary: 진념 이임식 on the morning of 26 Feb. The same story times the new cabinet's 임명장 at 14:00 that day ('오후2시 각료 임명장 수여')] | 매일경제 1993-02-26 p.13 '李鎭三체육 이임' (Naver News Library article 1993022600099213011, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022600099213011), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600099213011&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00009&pageNo=13&printNo=8345&publishType=00020, accessed 2026-09-26T09:31:34-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022600099213011.json) [quote: '李鎭三 체육청소년부장관이 26일 오후 체육청소년부 회의실에서 이임식을가졌다'] [summary: 이진삼 이임식 on the afternoon of 26 Feb 1993]. These show the 노태우 ministers in office on 26 Feb and leaving at their 이임식 that day, but none names 이수정. For 25 Feb: 중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/culture/ext88/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다'] [summary: builder's source. The outgoing cabinet's resignations were tendered and all accepted on 25 Feb 1993], and the MCST list (1993.02.25, day-before convention). 국민일보 1993-02-20 '6공1기 각료/퇴임후 「설땅찾기」 부심' (BigKinds news_id 01100201.19930220000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930220000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:40-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100201.19930220000000501.json) [quote: '이수정문화부장관은 그동안 읽고 싶었으나 시간이 없어 미뤄두었던 책을 읽고'] [summary: 이수정 planning his retirement with the change of government (no date)] gives no date. No report of 이수정's own 이임식 or exit was found (News Library '이수정' 1993-02-20..03-03 0 hits, '문화부 이임식' 1993-02-24..03-02 0 hits, BigKinds '이수정 장관' 1993-02-20..03-02 1 hit, E30). Under the builder's own rule an explicit 사표 수리 before the successor's start sets the end, which would give 25 Feb, while the practice reported for his colleagues gives 26 Feb. At the first pass the cross-lineage choice was split (education 조완규 and foreign 이상옥 ended on 1993-02-25, eleven other lineages on 1993-02-26). Both have since been changed to 1993-02-26, see the restart check below.",
+     "Rerun R2 (2026-09-26T21:50:53-0400): one more search for his own exit, with queries not run before (roster/scripts/culture_ext88_verify_09_lsj_exit.py, output roster/sources/culture/ext88_verify/lsj_exit.json, search and article snapshots in ext88_verify/nl and ext88_verify/bk, searches accessed 2026-09-26T21:18:36-0400 to 2026-09-26T21:25:31-0400). News Library with the hanja name '李秀正' gave 0 hits in 1993-02-20..03-05 and 11 in 1993-02-01..04-30, the last on 1993-02-19 (실험극장 폐관식). '문화부 離任' gave 0, '문화부 퇴임' 2, '이민섭 취임' 5, '李敏燮' 20, '이임' (26-27 Feb) 13 and '퇴임 장관' 14 hits. The full headline index of 동아일보, 매일경제 and 경향신문 of 1993-02-26 and of 동아일보, 매일경제, 경향신문, 조선일보 and 한겨레 of 1993-02-27 (2513 headlines) was scanned. BigKinds '이수정 이임' gave 0 hits, '이민섭 취임식' 5, '문화부 직원' 4 and '이수정 전 문화부장관' (Mar-Dec 1993) 5. All 144 candidate articles were fetched in full and scanned for 이수정/李秀正, 문화부 and exit wording, and every hit was read. None dates 이수정's exit or a 문화부 이임식. The search adds two more reports of the general pattern on 26 Feb, 국민일보 1993-02-27 '마지막 장관/정진영 경제부(현장기자)' (BigKinds news_id 01100201.19930227000000705, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930227000000705&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:30-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100201.19930227000000705.json) [quote: '이날 이임식은 비슷한 시각 다른 곳에서 열린 여타 정부부처의 이임식과는 판이한 의미를 지녔기 때문이었다'] [summary: 진념's 이임식 at 동자부 on the morning of 26 Feb 1993 was held at about the same time as the 이임식 of the other ministries] | 동아일보 1993-02-26 p.2 '告別인사' (Naver News Library article 1993022600209202003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022600209202003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202003&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020, accessed 2026-09-26T09:29:44-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022600209202003.json) [quote: '26일 새내각 발표후崔永喆통일원장관이 간부들과 이임인사를 하고 있다'] [summary: photo caption, 통일원장관 최영철 saying farewell to his staff on 26 Feb 1993 after the new cabinet was announced (석간)]. Status stays disputed and the value stays 1993-02-26.",
+     "Restart check (2026-09-27T21:53:05-0400). The other ext88.verified files were re-read (read-only). All 22 ministry lineages now end the outgoing 노태우 cabinet on 1993-02-26 (agriculture, culture, defense, education, energy, environment, epb, finance, foreign, gender, general_affairs, ict, industry, interior, justice, labor, land, public_info, science, special, sports, unification). education 조완규 and foreign 이상옥 carry verifier notes that moved them from 1993-02-25 to 1993-02-26 (education cites 매일경제 1993-02-24, foreign cites 조선일보 1993-02-24 p.3, both saying the outgoing ministers stayed until successors were appointed). Only the PM lineage ends on 1993-02-25 (현승종, successor 황인성 appointed that day). The 대통령기록관 노태우 1993 schedule, fetched without a keyword filter (roster/scripts/culture_ext88_verify_11_restart_pa1993.py, snapshot roster/sources/culture/ext88_verify/pa/pa_노태우_1993_all_p1.html, first fetched 2026-09-26T09:04:44-0400), has three rows for 1993 (01-01, 02-17 and 02-23 퇴임 기자회견) and none on the cabinet's exit. No tier 1-3 source dates 이수정's own exit. Status stays disputed and the value stays 1993-02-26."
+    ]
+   },
+   "5": {
+    "name": "이민섭",
+    "ministry": "문화부",
+    "start": "1993-02-26",
+    "end": "1993-03-05",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26 confirmed: 한겨레 1993-02-27 '부총리 이경식(기획원장관) 한완상(통일원장관)' (BigKinds news_id 01101001.19930227000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930227000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:34-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01101001.19930227000000101.json) [quote: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게 임명장을 주었다'] [summary: the 김영삼 cabinet, including 문화체육=이민섭, received the 임명장 on the afternoon of 26 Feb 1993] | 부산일보 1993-02-27 '[인터뷰] 통합혼란 극소화…상호보완' (BigKinds news_id 01500701.20160409010515388, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409010515388&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:20-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500701.20160409010515388.json) [quote: '26일 오후 과장급 이상이 참석한 취임식에서'] [summary: 이민섭's 취임식 on the afternoon of 26 Feb 1993] | 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022700239105001.json) [quote: '동자부는 26일 오전 쓸쓸한 분위기에서 陳稔장관의 이임식을 갖고'] [summary: 진념 이임식 on the morning of 26 Feb. The same story times the new cabinet's 임명장 at 14:00 that day ('오후2시 각료 임명장 수여')].",
+     "end 1993-03-05 (reorganisation) confirmed: 한겨레 1993-03-05 p.9 '지난 90년 1월 신설된 문화부가 체육부 폐지...' (Naver News Library article 1993030500289109002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993030500289109002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030500289109002&editNo=5&printCount=1&publishDate=1993-03-05&officeId=00028&pageNo=9&printNo=1492&publishType=00010, accessed 2026-09-26T13:15:43-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993030500289109002.json) [quote: '6일문화체육부로 탈바꿈한다'] [summary: 문화부 becomes 문화체육부 on 6 Mar 1993] | 경향신문 1993-03-05 p.4 '\"官僚엘리트 인정\"대체로 喜色' (Naver News Library article 1993030500329104008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993030500329104008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030500329104008&editNo=12&printCount=1&publishDate=1993-03-05&officeId=00032&pageNo=4&printNo=14691&publishType=00010, accessed 2026-09-26T13:07:41-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993030500329104008.json) [quote: '6일부터 문화체육부로 개편될 예정인 문화부는'] [summary: same, independent paper]. offices_1988.json OFA22/OFA23 put the legal change on 1993-03-06 (법률 제4541호 부칙 제1조 단서, 대통령령 제13869호). 국민일보 1993-03-10 '「한집살림」 문화체육부/기구정비·청사이전 “부산”' (BigKinds news_id 01100201.19930310000001302, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930310000001302&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:10-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100201.19930310000001302.json) [quote: '지난 5일 공식 출범했다'] [summary: conflicting report that 문화체육부 was launched on 5 Mar 1993] conflicts, but the statute date is tier 1 and two papers of 5 Mar say 6일, so no change.",
+     "The legal title from 02-26 to 03-05 is 문화부장관, as the builder argues (the press announced him as 문화체육부장관, and the vice minister was likewise named 문화체육 on 03-04 before the ministry existed, 서울신문 1993-03-05 in BigKinds listing). No 체육청소년부장관 was appointed (동아일보 1993-02-27, builder's BigKinds 01100401.19930227063312002, re-read: '장관이 임명되지않은 두 부처는 ... 차관체제로 운영된다'), so 이민섭 is correctly absent from sports."
+    ]
+   },
+   "6": {
+    "name": "이민섭",
+    "ministry": "문화체육부",
+    "start": "1993-03-06",
+    "end": "1994-12-23",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-03-06 (continuation) confirmed: 한겨레 1993-03-05 p.9 '지난 90년 1월 신설된 문화부가 체육부 폐지...' (Naver News Library article 1993030500289109002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993030500289109002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030500289109002&editNo=5&printCount=1&publishDate=1993-03-05&officeId=00028&pageNo=9&printNo=1492&publishType=00010, accessed 2026-09-26T13:15:43-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993030500289109002.json) [quote: '6일문화체육부로 탈바꿈한다'] [summary: 문화부 becomes 문화체육부 on 6 Mar 1993] | 동아일보 1993-03-09 p.17 '文化體育部 현판식' (Naver News Library article 1993030900209217013, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993030900209217013), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993030900209217013&editNo=1&printCount=1&publishDate=1993-03-09&officeId=00020&pageNo=17&printNo=22108&publishType=00020, accessed 2026-09-26T13:08:00-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993030900209217013.json) [quote: '문화체육부 현판식이 8일 오후 서울世宗路 舊文化部청사에서 거행됐다'] [summary: 현판식 on 8 Mar 1993 with 이민섭 as 장관].",
+     "reorg fields: reorg_continuation true and reappointed_on_reorg null kept. BigKinds '임명장 수여 장관' 1993-03-04..03-10 (31 hits, snapshot roster/sources/culture/ext88_verify/bk/) shows 임명장 on 3·3 (민자당 당직), 3·4 (차관, 청장, 시도지사), 3·6 (당무위원) and 3·8 (법무, 건설, 보사, 서울시장) only, and News Library '문화체육부장관 임명' 1993-03-04..03-12 has no reappointment either. The agriculture lineage codes the same absence of evidence (강운태 1996) as false, see disputes.",
+     "end 1994-12-23 confirmed: 한겨레 1994-12-24 '부총리 홍재형 재경원장관·김덕 통일원장관' (BigKinds news_id 01101001.19941224000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19941224000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:15:55-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01101001.19941224000000101.json) [quote: '이 총리를 뺀 모든 각료들은 일괄사표를 제출했다'] [summary: all ministers except the PM resigned at the 임시국무회의 on 23 Dec 1994 before the announcement] | 서울신문 1994-12-24 '「세계화 내각」 발표되던날 정관가 표정(12·23 개각)' (BigKinds news_id 01100611.20160422183143144, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183143144&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:59:07-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160422183143144.json) [quote: '이임하는 이민섭장관과 같은 언론인출신인데다'] [summary: reaction on 23 Dec 1994 to 주돈식's appointment, with 이민섭 leaving] | 경향신문 1994-12-24 p.4 '「新민주系」3명 入閣 대약진' (Naver News Library article 1994122400329104004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400329104004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104004&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010, accessed 2026-09-26T09:49:33-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1994122400329104004.json) [quote: '李敏燮문체 徐淸源정무1장관이 물러나고'] [summary: 이민섭 left in the 12·23 reshuffle]. The builder's 조선일보 게시판 (이임식 23일 오후5시) is the only source for the hour, and it agrees."
+    ]
+   },
+   "7": {
+    "name": "주돈식",
+    "ministry": "문화체육부",
+    "start": "1994-12-24",
+    "end": "1995-12-21",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-12-24 confirmed: 서울신문 1994-12-24 '부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편' (BigKinds news_id 01100611.20160422183118192, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183118192&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:57-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160422183118192.json) [quote: '김대통령은 24일 상오 청와대에서 신임 장관들에게 임명장을 수여하고'] [summary: 12·23 reshuffle announced on the afternoon of 23 Dec 1994 (문화체육부장관에 주돈식), 임명장 set for 24 Dec] | 서울신문 1994-12-25 '세계화·지방화·통일대비·경제안정/“새내각은 4대과제 과감히 추진”' (BigKinds news_id 01100611.20160422183253992, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183253992&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:34-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160422183253992.json) [quote: '김대통령은 이날 상오 청와대에서 홍재형부총리겸 재정경제원장관을 비롯,새로 임명된 국무위원'] [summary: 임명장 given on the morning of 24 Dec 1994] | 충청투데이 1994-12-25 '\"새內閣 임무는 세계화실천\"' (BigKinds news_id 01400701.19941225160205001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01400701.19941225160205001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:40-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01400701.19941225160205001.json) [quote: '金대통령은 이날오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯, 새로 임명된 국무위원'] [summary: same, independent regional paper].",
+     "end 1995-12-21 confirmed: 서울신문 1995-12-21 '부총리 경제­나웅배 통일­권오기씨/11부장관·비서진 7명 교체' (BigKinds news_id 01100611.20160423094157179, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423094157179&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:08-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160423094157179.json) [quote: '주돈식 문체장관은 정무1장관으로 자리이동했다'] [summary: 12·20 reshuffle: 문화체육장관에 김영수, 주돈식 moved to 정무1. The story sets the 임명장 for 09:00 on 21 Dec] | 국제신문 1995-12-21 '\"제도적改革 강력 추진\"...金대통령 각료임명장 수여뒤 開議주재' (BigKinds news_id 01500401.19951221134253101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19951221134253101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:58-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500401.19951221134253101.json) [quote: '신임 청와대수석비서관들에게 임명장을 수여했다'] [summary: 임명장 given on 21 Dec 1995 before the 국무회의] | 서울신문 1995-12-22 '비당원으로 「정무1」맡은 주돈식 장관/중진현역의원 임명관례 깨져' (BigKinds news_id 01100611.20160423094430660, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423094430660&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:27:29-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160423094430660.json) [quote: '21일 임명장을 받은 주돈식 장관(58)은'] [summary: 주돈식 received his 정무1장관 임명장 on 21 Dec 1995] | 조선일보 1995-12-21 p.1 '부총리 羅雄培(경제) 權五琦(통일)씨' (Naver News Library article 1995122100239101028, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995122100239101028), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100239101028&editNo=1&printCount=1&publishDate=1995-12-21&officeId=00023&pageNo=1&printNo=23235&publishType=00010, accessed 2026-09-26T13:04:26-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1995122100239101028.json) [quote: '정무1장관에 朱燉植(주돈식)문화체육장관을 轉補(전보)임명했다'] [summary: 주돈식 transferred from 문화체육 to 정무1]. end_reason 'other' (moved to another cabinet post) fits the convention used elsewhere (oceans 허성관 2003)."
+    ]
+   },
+   "8": {
+    "name": "김영수",
+    "ministry": "문화체육부",
+    "start": "1995-12-21",
+    "end": "1997-03-06",
+    "status": "corrected",
+    "checks": [
+     "start 1995-12-21 confirmed: 서울신문 1995-12-21 '부총리 경제­나웅배 통일­권오기씨/11부장관·비서진 7명 교체' (BigKinds news_id 01100611.20160423094157179, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423094157179&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:08-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160423094157179.json) [quote: '주돈식 문체장관은 정무1장관으로 자리이동했다'] [summary: 12·20 reshuffle: 문화체육장관에 김영수, 주돈식 moved to 정무1. The story sets the 임명장 for 09:00 on 21 Dec] | 국제신문 1995-12-21 '\"제도적改革 강력 추진\"...金대통령 각료임명장 수여뒤 開議주재' (BigKinds news_id 01500401.19951221134253101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19951221134253101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:00:58-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01500401.19951221134253101.json) [quote: '신임 청와대수석비서관들에게 임명장을 수여했다'] [summary: 임명장 given on 21 Dec 1995 before the 국무회의] | 서울신문 1995-12-22 '각 부처 이취임식 이모저모' (BigKinds news_id 01100611.20160423094425635, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423094425635&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:47-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100611.20160423094425635.json) [quote: '김영수 신임 문화체육부장관은 21일 상오 취임식에서'] [summary: 김영수 took office on the morning of 21 Dec 1995] | 중앙일보 1995-12-22 '\"월드컵 유치 가장 큰 과제\"-김영수 신임 문체부장관' (BigKinds news_id 01100901.19951222032841001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19951222032841001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:01:12-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100901.19951222032841001.json) [quote: '김영수 신임 문화체육부장관(사진)은 21일 취임식 직후 가진 기자간담회에서'] [summary: same, independent paper].",
+     "end 1997-03-06 confirmed as a same-day handover: 국민일보 1997-03-06 '장관급 10명 경질/경제부총리 강경식씨/김 대통령' (BigKinds news_id 01100201.19970306000000105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19970306000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:54:29-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100201.19970306000000105.json) [quote: '김 대통령은 6일 오전 청와대에서 신임 각료들에게 임명장을 수여했다'] [summary: 3·5 reshuffle (문체장관에 송태호), 임명장 on the morning of 6 Mar 1997] | 한겨레 1997-03-06 p.1 '7개 부처 장관 교체' (Naver News Library article 1997030600289101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997030600289101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600289101001&editNo=6&printCount=1&publishDate=1997-03-06&officeId=00028&pageNo=1&printNo=2820&publishType=00010, accessed 2026-09-26T09:47:12-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1997030600289101001.json) [quote: '김 대통령은 6일 오전 청와대에서강 경제부총리를 비롯한 새 각료들에게 임명장을 주고'] [summary: same, independent paper] | 중앙일보 1997-03-07 '어깨 무거운 신임각료(사진)' (BigKinds news_id 01100901.19970307133040002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970307133040002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:52:27-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100901.19970307133040002.json) [quote: '김영삼 대통령이 6일 오전 청와대에서 강경식 경제부총리등 7개 부처 장관을 포함한 신임 장관급 인사 10명에게 임명장을 준후'] [summary: photo caption, 임명장 on 6 Mar 1997] | 경향신문 1997-03-07 p.2 '새일꾼과 함께' (Naver News Library article 1997030700329102002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997030700329102002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030700329102002&editNo=45&printCount=1&publishDate=1997-03-07&officeId=00032&pageNo=2&printNo=16042&publishType=00010, accessed 2026-09-26T12:51:41-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1997030700329102002.json) [quote: '金泳三대통령이 6일 오전 신임 각료들에게 임명장을 준뒤'] [summary: photo caption, 임명장 on 6 Mar 1997]. No report of his own exit or 이임식 was found (News Library 김영수 in 동아, 경향, 한겨레 1997-03-04..09 and BigKinds '김영수 장관 이임' 1997-03-04..09), so the end stays inferred_from_successor.",
+     "mp_hint corrected (seat status was left unchecked by the builder): 의안정보시스템 (likms) 제안 1993-02-26, 의결 1993-02-27 '국회의원(김영수)사직의건' (likms billId 012320, text via https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=012320, accessed 2026-09-26T08:47:18-0400; snapshot na_members/sources/na_bills/likms_12_14/012320.txt) [quote: '[140215] 국회의원(김영수)사직의건(김영수의원)'] [summary: resignation of 14th NA member 김영수 (민주자유당 전국구), proposed 1993-02-26, passed by the plenary 1993-02-27 (원안가결)] | 매일경제 1993-02-27 p.2 '임시國會 폐회 民主불참…새閣僚인사' (Naver News Library article 1993022700099202009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700099202009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700099202009&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00009&pageNo=2&printNo=8346&publishType=00020, accessed 2026-09-26T13:10:25-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022700099202009.json) [quote: '청와대비서실장과 민정수석비서관으로 각각 임명된 朴寛用·金榮秀의원의의원직 사퇴서를 처리했다'] [summary: the Assembly accepted 金榮秀's seat resignation on 27 Feb 1993 after his appointment as 민정수석비서관] | 조선일보 1995-12-21 p.4 '문민정부 司正작업 보좌' (Naver News Library article 1995122100239104017, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995122100239104017), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100239104017&editNo=1&printCount=1&publishDate=1995-12-21&officeId=00023&pageNo=4&printNo=23235&publishType=00010, accessed 2026-09-26T13:12:00-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1995122100239104017.json) [quote: '14대 전국구 의원으로 정계에입문했으나 현정부 출범과 함께청와대 민정수석으로 발탁돼'] [summary: profile of the new 문화체육부장관 金榮秀 (the same person)] | 세계일보 1995-12-21 '오인환·김영수·주돈식 문민출범후 계속 중용 배경주목' (BigKinds news_id 01100701.19951221000000401, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19951221000000401&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:01:46-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100701.19951221000000401.json) [quote: '김장관은 현 정부출범이후 3년 가까이 민정수석비서관 한 자리만을 지키며'] [summary: 민정수석 from the start of the 김영삼 government until the 1995 appointment]."
+    ]
+   },
+   "9": {
+    "name": "송태호",
+    "ministry": "문화체육부",
+    "start": "1997-03-06",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "from_main record left untouched. It is identical to roster/culture.verified.json apart from the from_main flag (check result: True).",
+     "start 1997-03-06 re-checked with sources the main roster did not cite: 국민일보 1997-03-06 '장관급 10명 경질/경제부총리 강경식씨/김 대통령' (BigKinds news_id 01100201.19970306000000105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19970306000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:54:29-0400; snapshot roster/sources/culture/ext88_verify/bk/bk_01100201.19970306000000105.json) [quote: '김 대통령은 6일 오전 청와대에서 신임 각료들에게 임명장을 수여했다'] [summary: 3·5 reshuffle (문체장관에 송태호), 임명장 on the morning of 6 Mar 1997] | 한겨레 1997-03-06 p.1 '7개 부처 장관 교체' (Naver News Library article 1997030600289101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997030600289101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600289101001&editNo=6&printCount=1&publishDate=1997-03-06&officeId=00028&pageNo=1&printNo=2820&publishType=00010, accessed 2026-09-26T09:47:12-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1997030600289101001.json) [quote: '김 대통령은 6일 오전 청와대에서강 경제부총리를 비롯한 새 각료들에게 임명장을 주고'] [summary: same, independent paper]. The end 1998-02-27 lies outside this window and was verified in the main roster."
+    ]
+   }
+  },
+  "changes": [
+   {
+    "section": "spells",
+    "index": 8,
+    "name": "김영수",
+    "field": "mp_hint",
+    "old": "Appointed from 청와대 민정수석비서관 (경향신문 1995-12-21). ko.wikipedia '김영수 (1942년)' lists a 14th NA term (민주자유당) among his posts. His seat status at appointment was not checked.",
+    "new": "Not a sitting NA member when appointed. He had been a 14th NA member (민주자유당 전국구) from 1992-05-30 until his seat resignation was accepted on 1993-02-27, on becoming 청와대 민정수석비서관 (likms billId 012320 국회의원(김영수)사직의건, 원안가결 1993-02-27, 매일경제 1993-02-27 p.2, na_members/na_member_spells_12_22.csv), and he stayed 민정수석 until this appointment (세계일보 1995-12-21).",
+    "evidence": "의안정보시스템 (likms) 제안 1993-02-26, 의결 1993-02-27 '국회의원(김영수)사직의건' (likms billId 012320, text via https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=012320, accessed 2026-09-26T08:47:18-0400; snapshot na_members/sources/na_bills/likms_12_14/012320.txt) [quote: '[140215] 국회의원(김영수)사직의건(김영수의원)'] [summary: resignation of 14th NA member 김영수 (민주자유당 전국구), proposed 1993-02-26, passed by the plenary 1993-02-27 (원안가결)] | 매일경제 1993-02-27 p.2 '임시國會 폐회 民主불참…새閣僚인사' (Naver News Library article 1993022700099202009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700099202009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700099202009&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00009&pageNo=2&printNo=8346&publishType=00020, accessed 2026-09-26T13:10:25-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1993022700099202009.json) [quote: '청와대비서실장과 민정수석비서관으로 각각 임명된 朴寛用·金榮秀의원의의원직 사퇴서를 처리했다'] [summary: the Assembly accepted 金榮秀's seat resignation on 27 Feb 1993 after his appointment as 민정수석비서관] | 조선일보 1995-12-21 p.4 '문민정부 司正작업 보좌' (Naver News Library article 1995122100239104017, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995122100239104017), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100239104017&editNo=1&printCount=1&publishDate=1995-12-21&officeId=00023&pageNo=4&printNo=23235&publishType=00010, accessed 2026-09-26T13:12:00-0400; snapshot roster/sources/culture/ext88_verify/nl/nl_1995122100239104017.json) [quote: '14대 전국구 의원으로 정계에입문했으나 현정부 출범과 함께청와대 민정수석으로 발탁돼'] [summary: profile of the new 문화체육부장관 金榮秀 (the same person)]"
+   }
+  ],
+  "disputes": [
+   "이수정 (문화부) end: 1993-02-26 kept (same-day handover, as for 진념, 이진삼, 백광현 and 한봉수, 세계일보 1993-02-25, 한겨레 1993-02-26, 서울신문/조선일보/매일경제 1993-02-26..27) against 1993-02-25 (중앙일보 1993-02-25 BigKinds 01100901.19930225151908002 '25일 일괄사표를 제출,전원 수리됐다', and MCST). No source dates his own exit. The 1993 transition should be settled once across lineages (at the first pass education and foreign used 02-25. On 2026-09-27 both read 02-26, so all 22 ministry lineages end the outgoing 노태우 cabinet on 1993-02-26, and only the PM lineage ends 현승종 on 1993-02-25, the day 황인성 was appointed). A rerun search on 2026-09-26 (hanja name, full headline index of 26-27 Feb, BigKinds) again found no source that dates his own exit. 국민일보 1993-02-27 reports that the other ministries held their 이임식 at about the same time as 동자부 on the morning of 26 Feb. A restart check on 2026-09-27 fetched the 대통령기록관 노태우 1993 schedule without a keyword filter. It has three rows (1993-01-01, 02-17, 02-23 퇴임 기자회견) and none on the cabinet's exit.",
+   "Coding of reappointed_on_reorg when no new 임명장 is found: null here (이민섭 1993-03-06), false in agriculture (강운태 1996-08-08) and environment (박윤흔 1994-12-23), true in finance (홍재형, 임명장 found). A single rule for all lineages is a researcher decision. Update 2026-09-27 (read-only survey of the other ext88.verified files). null for both 1993-03-06 mergers (culture 이민섭, industry 김철수 상공자원부), false in agriculture (강운태 1996-08-08), environment (박윤흔 1994-12-23), ict (윤동윤 1994-12-23) and industry (김철수 1994-12-23), true in finance (홍재형 1994-12-24) and land (오명 1994-12-24).",
+   "end_reason for 1988 holdovers: 'replaced' here, 'resigned' in foreign, finance, interior, justice and sports. Update 2026-09-27. 'replaced' in 11 lineages (agriculture, culture, defense, education, energy, epb, general_affairs, labor, pm, science, unification), 'resigned' in 8 (finance, foreign, ict, interior, justice, land, special, sports) and 'other' in industry.",
+   "Project-level: whether 전두환 holdovers end on 1988-02-24 (MCST, 동아일보 1988-02-24 '퇴임을 하루 앞둔') or 1988-02-25 (resignations accepted on 02-25). If 02-24, 이웅희 leaves the window. Update 2026-09-27. All 20 lineages with a 1988 holdover (pm included) end it on 1988-02-25, and all 20 successors start on 1988-02-25."
+  ],
+  "scripts": [
+   "roster/scripts/culture_ext88_verify_01_lists.py (Namu Wiki, HTTP 403, not used)",
+   "roster/scripts/culture_ext88_verify_02_monthly_tally.py",
+   "roster/scripts/culture_ext88_verify_03_bk.py",
+   "roster/scripts/culture_ext88_verify_04_bk_fulltext.py",
+   "roster/scripts/culture_ext88_verify_05_tier2.py",
+   "roster/scripts/culture_ext88_verify_06_nl_targeted.py",
+   "roster/scripts/culture_ext88_verify_07_build.py",
+   "roster/scripts/culture_ext88_verify_08_rerun_audit.py",
+   "roster/scripts/culture_ext88_verify_09_lsj_exit.py",
+   "roster/scripts/culture_ext88_verify_10_rerun_finalize.py",
+   "roster/scripts/culture_ext88_verify_11_restart_pa1993.py",
+   "roster/scripts/culture_ext88_verify_12_restart_finalize.py"
+  ],
+  "snapshots": "roster/sources/culture/ext88_verify/",
+  "reruns": [
+   {
+    "at": "2026-09-26T21:50:53-0400",
+    "trigger": "workflow rerun",
+    "audit": "roster/sources/culture/ext88_verify/rerun_audit_2026-09-26T211734.json",
+    "result": "integrity audit passed. One more search for the only open spell dispute (이수정 end) found no source that dates his exit. No spell value, status or summary count changed."
+   },
+   {
+    "at": "2026-09-27T21:53:05-0400",
+    "trigger": "workflow restart ('다시 시작해주세요')",
+    "audit": "roster/sources/culture/ext88_verify/rerun_audit_2026-09-27T215000.json",
+    "cross_lineage_observations": [
+     "1988-02 handover. All 20 lineages end the holdover on 1988-02-25 and start the successor on 1988-02-25.",
+     "1991-12 handover. culture 이어령 and industry 이봉서 end on 1991-12-19 on dated exit evidence (farewell visit or 전장관 on the 19th). defense, gender, general_affairs, land and sports end on 1991-12-20, mostly inferred_from_successor. Both follow the same rule (the last day in office when an exit is dated, the successor's start otherwise).",
+     "1993-02 handover. 22 of 22 ministry lineages end on 1993-02-26. PM 현승종 ends on 1993-02-25.",
+     "1994-12 handover. culture 이민섭 ends on 1994-12-23 (own 이임식 at 17:00 on the 23rd, 조선일보 1994-12-24 p.27). defense 이병태 ends on 1994-12-24 (own 이임식 on the morning of the 24th, 조선일보 1994-12-25 p.4). Same rule, different evidence per person.",
+     "1995-12 handover. culture 주돈식, finance, interior, land, special and unification end on 1995-12-21. agriculture, education, environment and ict end on 1995-12-20 (medium). 주돈식 was still acting as minister on the afternoon of the 20th (동아일보 and 조선일보 1995-12-21 p.39), so 1995-12-21 stands.",
+     "1997-03 handover. All 7 lineages end on 1997-03-06."
+    ],
+    "result": "integrity audit passed. No spell value, status or summary count changed. Stale cross-lineage statements in the disputes and per_spell 4 were updated."
+   }
+  ],
+  "last_rerun_at": "2026-09-27T21:53:05-0400"
+ }
+}

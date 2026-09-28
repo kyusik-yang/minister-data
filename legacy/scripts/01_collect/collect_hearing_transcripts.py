@@ -32,6 +32,7 @@ Data structure:
     - 20-22대: speech-level records, MNTS_FILE_EXT=xml (HTML viewer available)
 """
 
+import os
 import requests
 import json
 import time
@@ -728,7 +729,7 @@ def parse_pdf_text(text: str, meeting_meta: dict) -> list:
 
 def main():
     parser = argparse.ArgumentParser(description="인사청문회 회의록 수집 및 Q-A dyad 구축 (v2)")
-    parser.add_argument("--api-key",  default="***REMOVED***",
+    parser.add_argument("--api-key",  default=os.environ.get("ASSEMBLY_API_KEY"),
                         help="국회 Open API 키 (현재 미사용 -- Pharos 기반)")
     parser.add_argument("--stage",    choices=["discover", "transcripts", "dyads", "all"],
                         default="all",  help="실행 단계")

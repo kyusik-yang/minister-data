@@ -1,0 +1,1959 @@
+{
+  "lineage": "agriculture",
+  "built_at": "2026-09-25T21:32:08-0400",
+  "ministry_names": [
+    {
+      "ministry": "농림부",
+      "from": "1998-02-25",
+      "to": "2008-02-28",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제5153호 (1996-08-08 version, in force at window start); 법률 제5529호 전부개정 (1998-02-28, 제26조①②, continues 농림부); abolished by 법률 제8852호 전부개정 (effective 2008-02-29)",
+      "source": "offices.json OF016"
+    },
+    {
+      "ministry": "농림수산식품부",
+      "from": "2008-02-29",
+      "to": "2013-03-22",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제8852호 전부개정 (effective 2008-02-29, 제22조, 제31조); renamed by 법률 제11690호 전부개정 (effective 2013-03-23)",
+      "source": "offices.json OF038"
+    },
+    {
+      "ministry": "농림축산식품부",
+      "from": "2013-03-23",
+      "to": null,
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제11690호 전부개정 (effective 2013-03-23, 제26조, 제36조); still listed in 법률 제21065호 (version effective 2026-01-02, 제29조①②)",
+      "source": "offices.json OF051"
+    }
+  ],
+  "spells": [
+    {
+      "name": "이효계",
+      "name_hanja": "李孝桂",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1935-09-01",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "1997-08-06",
+      "start_confidence": "medium",
+      "start_sources": [
+        "연합뉴스 1997-08-06 07:49 '金대통령 靑瓦臺서 비상대책회의 주재', https://n.news.naver.com/mnews/article/001/0004188815, snapshot roster/sources/agriculture/naver_001_0004188815.html (accessed 2026-09-25T13:01:20-0400). Quote: '金대통령은 이날오전 9시30분 청와대에서 曺海寧내무, 金鍾九법무장관을 비롯한 신임각료에게 임명장을 수여한 뒤'",
+        "연합뉴스 1997-08-05 19:49 '<오늘의 주요 정치뉴스>(6일)', https://n.news.naver.com/mnews/article/001/0004190411, snapshot roster/sources/agriculture/naver_001_0004190411.html (accessed 2026-09-25T13:01:28-0400). Quote: '金泳三대통령은 오전 청와대에서 曺海寧내무 金鍾求법무장관을 비롯한 신임 각료들에게 임명장을 수여한다'",
+        "BigKinds metadata: 경향신문 1997-08-06 '11개 부처 장관 경질/중폭개각…' lists 농림 이효계, reshuffle announced 5일 오후; search snapshot roster/sources/agriculture/bigkinds_1997-08-05_1997-08-07_f1a98a8e86.json (accessed 2026-09-24T22:49:41-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '49대 장관 이효계 1997.08.06 ~ 1998.03.03'"
+      ],
+      "end": "1998-03-03",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎', https://n.news.naver.com/mnews/article/001/0004368749, snapshot roster/sources/agriculture/naver_001_0004368749.html (accessed 2026-09-24T22:44:23-0400). Quote: '金大中대통령은 3일오전 `국민의 정부' 초대 내각을 발표한 데 이어 오후 청와대 본관 세종실에서 신임 각료들에게 임명장을 수여했다'",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '49대 장관 이효계 1997.08.06 ~ 1998.03.03'",
+        "ko.wikipedia '대한민국 농림축산식품부 장관' revid 41095054, https://ko.wikipedia.org/w/index.php?oldid=41095054, snapshot roster/sources/agriculture/wiki_대한민국_농림축산식품부_장관.json (accessed 2026-09-24T22:42:48-0400)",
+        "[verifier] BigKinds metadata: 전북일보 1998-03-03 '金대통령, 첫 내각 발표' (news_id 01601101.19980303204646101). Quote: '金大中대통령은 3일 재경부장관에 李揆成전재무장관을'. Search '김성훈 농림부장관 임명' 1998-03-02..1998-03-05, snapshot roster/sources/agriculture/verify/bigkinds/bk_ksh_start_1998-03-02_1998-03-05_45e427a4.json (accessed 2026-09-25T21:44:22-0400)",
+        "[verifier] BigKinds metadata: 서울신문 1998-02-28 '외채 만기연장 협상 악영향 우려/국정 사흘째 표류…주요정책 점검' (news_id 01100611.20160421191808236). Quote: '새 정부 출범 사흘이 지나도록 새 총리 인준과 후속 내각 구성이 이루어지지 않아'. Search '농림부장관' 1998-02-25..1998-03-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_lhg_end4_1998-02-25_1998-03-02_70642609.json (accessed 2026-09-25T21:46:28-0400)",
+        "[verifier] BigKinds metadata: 동아일보 1998-02-20 '동정' (news_id 01100401.19980220093550012). Quote: '이효계(李孝桂)농림부장관은20일'. Search '이효계 장관' 1998-02-15..1998-03-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_lhg_end5_1998-02-15_1998-03-06_523aca3f.json (accessed 2026-09-25T21:51:08-0400)",
+        "[verifier] BigKinds metadata: 중앙일보 1998-02-19 '농림장관은 어디로…김대중 당선자 인사 감상법 5대 포인트(1)' (news_id 01100901.19980219225124002). Quote: '이효계 (李孝桂) 현장관까지'. Search '이효계 장관' 1998-02-15..1998-03-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_lhg_end5_1998-02-15_1998-03-06_523aca3f.json (accessed 2026-09-25T21:51:08-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김영삼",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "not_applicable",
+      "transcript_notes": "Spell ends before the transcript window (2000-06 onward).",
+      "notes": "김영삼-era holdover, in office on 1998-02-25 and until the first 김대중 cabinet was appointed on 1998-03-03 (same-day handover). The 8·5 개각 was announced on 1997-08-05 and the 임명장 was given on 1997-08-06 (start set to the 임명장 date, no gazette file exists for 1997). The 1998-02-28 전부개정 정부조직법 (법률 제5529호) kept 농림부, so no split. Hanja from ko.wikipedia and 전남일보 1997-08-07 (BigKinds)."
+    },
+    {
+      "name": "김성훈",
+      "name_hanja": "金成勳",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1939-09-20",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "1998-03-03",
+      "start_confidence": "high",
+      "start_sources": [
+        "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎', https://n.news.naver.com/mnews/article/001/0004368749, snapshot roster/sources/agriculture/naver_001_0004368749.html (accessed 2026-09-24T22:44:23-0400). Quote: '3일오전 `국민의 정부' 초대 내각을 발표한 데 이어 오후 청와대 본관 세종실에서 신임 각료들에게 임명장을 수여했다'",
+        "BigKinds metadata: 중앙일보 1998-03-04 '새장관 6명 병역 미필' ('3일 임명된 김대중 정권의 초대 내각 장관'), 서울신문 1998-03-05 '남북 곡물 계약재배 추진/김성훈 농림 회견'; search snapshot roster/sources/agriculture/bigkinds_1998-03-02_1998-03-05_d18120b838.json (accessed 2026-09-24T22:49:25-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '50대 장관 김성훈 1998.03.03 ~ 2000.08.07'",
+        "[verifier] BigKinds metadata: 전북일보 1998-03-03 '金대통령, 첫 내각 발표' (news_id 01601101.19980303204646101). Quote: '金大中대통령은 3일 재경부장관에 李揆成전재무장관을'. Search '김성훈 농림부장관 임명' 1998-03-02..1998-03-05, snapshot roster/sources/agriculture/verify/bigkinds/bk_ksh_start_1998-03-02_1998-03-05_45e427a4.json (accessed 2026-09-25T21:44:22-0400)"
+      ],
+      "end": "2000-08-07",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "BigKinds metadata: 국제신문 2000-08-08 '8개부처 장관 교체' ('김대중 대통령은 7일 ... 8개 부처 및 3개 위원회 등 11개 장관급에 대한 인사를 단행'), 중부매일 2000-08-08 (농림 한갑수); search snapshot roster/sources/agriculture/bigkinds_2000-08-06_2000-08-09_9881504094.json (accessed 2026-09-24T22:49:47-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '50대 장관 김성훈 1998.03.03 ~ 2000.08.07'",
+        "[verifier] BigKinds metadata: 한국일보 2000-08-08 '8 ·7개각/ 組閣당시 장관 1명도 남지 않아' (news_id 01101101.20000808000000404). Quote: '김대중 대통령이 7일 단행한 개각은'. Search '김성훈 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_ksh_end2_2000-08-06_2000-08-10_2d52dab4.json (accessed 2026-09-25T21:45:17-0400)",
+        "[verifier] BigKinds metadata: 서울신문 2000-08-08 '8·7 개각/ 관심모은 개각 2題' (news_id 01100611.20160423034729913). Quote: '농림의 경우 6일 밤까지도 김성훈(金成勳) 전장관의 유임이확실시되던 자리였다'. Search '김성훈 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_ksh_end2_2000-08-06_2000-08-10_2d52dab4.json (accessed 2026-09-25T21:45:17-0400)",
+        "[verifier] BigKinds metadata: 매일경제 2000-08-08 '[연합인터뷰] 한갑수 신임 농림부 장관(종합)' (news_id 02100101.20160115215558577). Quote: '7일 새 농림부 장관으로 임명된 한갑수(韓甲洙)'. Search '한갑수 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_start2_2000-08-06_2000-08-10_594b042c.json (accessed 2026-09-25T21:45:21-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "4 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2000-06-22, last 2000-07-21.",
+      "notes": "Replaced in the 8·7 개각 (2000). ko.wikipedia list gives the end as 2000-08-06, the ministry page gives 2000.08.07. Hanja from ko.wikipedia."
+    },
+    {
+      "name": "한갑수",
+      "name_hanja": "韓甲洙",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1934-06-27",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2000-08-07",
+      "start_confidence": "high",
+      "start_sources": [
+        "BigKinds metadata: 국제신문 2000-08-08 '8개부처 장관 교체' ('김대중 대통령은 7일 ... 임명하는 등'), 파이낸셜뉴스 2000-08-08 '11개 부처 장관급 교체' (농림 한갑수), 중부매일 2000-08-08; search snapshot roster/sources/agriculture/bigkinds_2000-08-06_2000-08-09_9881504094.json (accessed 2026-09-24T22:49:47-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '51대 장관 한갑수 2000.08.07 ~ 2001.09.07'",
+        "[verifier] BigKinds metadata: 매일경제 2000-08-08 '[연합인터뷰] 한갑수 신임 농림부 장관(종합)' (news_id 02100101.20160115215558577). Quote: '7일 새 농림부 장관으로 임명된 한갑수(韓甲洙)'. Search '한갑수 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_start2_2000-08-06_2000-08-10_594b042c.json (accessed 2026-09-25T21:45:21-0400)",
+        "[verifier] BigKinds metadata: 중도일보 2000-08-08 '태안해경 '디지털 마인드' 부족' (news_id 01400351.20000808080729001). Quote: '김대중 대통령은 7일 재정경제부 장관에 진념 기획예산처 장관을'. Search '한갑수 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_start2_2000-08-06_2000-08-10_594b042c.json (accessed 2026-09-25T21:45:21-0400)",
+        "[verifier] 연합뉴스 2000-08-07 11:43:00 '<프로필> 한갑수 농림부 장관\n\t\t', https://n.news.naver.com/mnews/article/001/0000019395, snapshot roster/sources/agriculture/verify/naver_001_0000019395.html (accessed 2026-09-25T14:12:53-0400). Quote: '신임 한갑수(韓甲洙) 농림부 장관은 연구하는 지장형 경영인으로 통한다'"
+      ],
+      "end": "2001-09-07",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제14901호 (published 2001-09-13), 인사 item toc_seq 00000000000000001319017417050000, text: '◉2001년 9 월 7 일자 김 동 태(金 東 泰) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20010913_14901_00000000000000001319017417050000.txt and roster/sources/agriculture/gazette_14901_00000000000000001319017417050000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N (accessed 2026-09-24T22:43:59-0400)",
+        "BigKinds metadata: 동아일보 2001-09-07 '김대통령 5부장관 교체' ('7일 오전 ... 농림부장관에 김동태 전농림부차관 ... 임명'); 한국경제 2001-09-08 ('DJP공조 파기로 발생한 자민련 출신 장관직을 중심으로 보각'); search snapshot roster/sources/agriculture/bigkinds_2001-09-03_2001-09-08_9881504094.json (accessed 2026-09-25T13:13:35-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '51대 장관 한갑수 2000.08.07 ~ 2001.09.07'",
+        "[verifier] BigKinds metadata: 한겨레 2001-09-08 '통일 홍순영.건교 안정남/ 장관 5명 교체.청와대 비서실장에 외부인사' (news_id 01101001.20010908000000101). Quote: '김 대통령은 또 농림부 장관에 김동태 농수산물유통공사 사장을'. Search '한갑수' 2001-09-06..2001-09-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_end2_2001-09-06_2001-09-10_33bf8e85.json (accessed 2026-09-25T21:45:27-0400)",
+        "[verifier] BigKinds metadata: 서울신문 2001-09-08 '5部장관 교체…10일 黨·政 개편' (news_id 01100611.20160421063342155). Quote: '김대중(金大中) 대통령은 7일 통일부 장관에 홍순영(洪淳瑛) 주중대사를 임명하는 등 장관 5명을 교체하는 부분 개각을 단행했다'. Search '한갑수' 2001-09-06..2001-09-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_end2_2001-09-06_2001-09-10_33bf8e85.json (accessed 2026-09-25T21:45:27-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Not in na_members_15_22.csv (no seat in the 15th-22nd NA). 중앙일보 2000-08-08 profile (BigKinds) lists 국회의원 among his past posts; counted as the 자민련 share of the cabinet (국민일보 2000-08-08).",
+      "transcript_check": "ok",
+      "transcript_notes": "23 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2000-10-16, last 2001-09-07.",
+      "notes": "Replaced in the 9·7 개각 (2001) that followed the collapse of the DJP coalition. He still spoke as minister in the 농림해양수산위원회 on 2001-09-06 and 2001-09-07, so the handover to 김동태 was same-day."
+    },
+    {
+      "name": "김동태",
+      "name_hanja": "金東泰",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": null,
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2001-09-07",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제14901호 (published 2001-09-13), 인사 item toc_seq 00000000000000001319017417050000, text: '◉2001년 9 월 7 일자 김 동 태(金 東 泰) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20010913_14901_00000000000000001319017417050000.txt and roster/sources/agriculture/gazette_14901_00000000000000001319017417050000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N (accessed 2026-09-24T22:43:59-0400)",
+        "BigKinds metadata: 동아일보 2001-09-07 '김대통령 5부장관 교체'; search snapshot roster/sources/agriculture/bigkinds_2001-09-03_2001-09-08_9881504094.json (accessed 2026-09-25T13:13:35-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '52대 장관 김동태 2001.09.07 ~ 2003.02.27'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20010913_14901_00000000000000001319017417050000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '◉2001년 9 월 7 일자 ... 김 동 태(金 東 泰) 국무위원에 임함 농림부장관에 보함'",
+        "[verifier] BigKinds metadata: 서울신문 2001-09-08 '5部장관 교체…10일 黨·政 개편' (news_id 01100611.20160421063342155). Quote: '김대중(金大中) 대통령은 7일 통일부 장관에 홍순영(洪淳瑛) 주중대사를 임명하는 등 장관 5명을 교체하는 부분 개각을 단행했다'. Search '한갑수' 2001-09-06..2001-09-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_end2_2001-09-06_2001-09-10_33bf8e85.json (accessed 2026-09-25T21:45:27-0400)"
+      ],
+      "end": "2003-02-27",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000, text: '◉2003년 2 월27일자 ... 김 영 진(金 泳 鎭) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt and roster/sources/agriculture/gazette_15338_00000000000000001319026541100000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '52대 장관 김동태 2001.09.07 ~ 2003.02.27'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '◉2003년 2 월27일자 ... 김 영 진(金 泳 鎭) 국무위원에 임함 농림부장관에 보함'",
+        "[verifier] BigKinds metadata: 동아일보 2003-02-27 '[盧대통령 인선원칙 설명]＂국정원장 실무형 임명＂' (news_id 01100401.20030227062208065). Quote: '노무현(盧武鉉) 대통령은 27일 오후 신임 장관들에게 임명장을 수여한 직후'. Search '노무현 임명장 장관' 2003-02-27..2003-02-28, snapshot roster/sources/agriculture/verify/bigkinds/bk_kdt_end3_2003-02-27_2003-02-28_753bab4f.json (accessed 2026-09-25T21:45:39-0400)",
+        "[verifier] BigKinds metadata: 동아일보 2003-02-27 '[퇴임 경제각료 어디로]전윤철-김동태 前장관 대학으로…' (news_id 01100401.20030227062208008). Quote: '김대중(金大中) 정부의 마지막을 함께 한 경제부처 장관들은 새로운 인생을 맞게 됐다'. Search '김동태 장관' 2003-02-25..2003-02-28, snapshot roster/sources/agriculture/verify/bigkinds/bk_kdt_end2_2003-02-25_2003-02-28_a620e302.json (accessed 2026-09-25T21:45:33-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "35 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2001-09-10, last 2003-02-19.",
+      "notes": "김대중-appointed minister who stayed into the 노무현 term (2003-02-25) until the first 노무현 cabinet was appointed on 2003-02-27. No ko.wikipedia person page exists (the list links a missing page), so birth date is null."
+    },
+    {
+      "name": "김영진",
+      "name_hanja": "金泳鎭",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1947-11-17",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2003-02-27",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000, text: '◉2003년 2 월27일자 ... 김 영 진(金 泳 鎭) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt and roster/sources/agriculture/gazette_15338_00000000000000001319026541100000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '53대 장관 김영진 2003.02.27 ~ 2003.07.18'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '◉2003년 2 월27일자 ... 김 영 진(金 泳 鎭) 국무위원에 임함 농림부장관에 보함'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2003-07-18",
+      "end_confidence": "high",
+      "end_sources": [
+        "BigKinds metadata: 동아일보 2003-07-18 '盧, 김영진장관 사표수리…새 농림장관 내주초 인선' ('노무현 대통령은 18일 ... 김영진 농림부 장관의 사표를 수리했다'); 서울경제 2003-07-18 ('사표를 18일 오전 수리'); 문화일보 2003-07-18; 서울신문 2003-07-19; search snapshot roster/sources/agriculture/bigkinds_2003-07-15_2003-07-26_89460e46ee.json (accessed 2026-09-24T22:51:35-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '53대 장관 김영진 2003.02.27 ~ 2003.07.18'",
+        "[verifier] BigKinds metadata: 세계일보 2003-07-19 '盧대통령 \"새만금 조속재개 강구\"' (news_id 01100701.20030719000000105). Quote: '노 대통령은 이날 김영진(金泳鎭) 농림부장관의 사표를 수리하고'. Search '김영진 농림부장관 사표' 2003-07-15..2003-07-23, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyj_end_2003-07-15_2003-07-23_b1371ada.json (accessed 2026-09-25T21:44:50-0400)",
+        "[verifier] BigKinds metadata: 국민일보 2003-07-19 '김영진장관 사표 수리…후임자 다음주초 임명' (news_id 01100201.20030719000000203). Quote: '노무현 대통령은 18일 법원의 새만금 공사 잠정중단 판결에 반발,사의를 표명한 김영진 농림부장관의 사표를 수리했다'. Search '김영진 농림부장관 사표' 2003-07-15..2003-07-23, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyj_end_2003-07-15_2003-07-23_b1371ada.json (accessed 2026-09-25T21:44:50-0400)",
+        "[verifier] BigKinds metadata: 부산일보 2003-07-18 '김영진 농림 사표 수리' (news_id 01500701.20160410182750596). Quote: '노무현 대통령은 18일 김영진 농림부장관의 사표를 수리하고 후임 인선에 착수했다'. Search '김영진 농림부장관 사표' 2003-07-15..2003-07-23, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyj_end_2003-07-15_2003-07-23_b1371ada.json (accessed 2026-09-25T21:44:50-0400)"
+      ],
+      "end_reason": "resigned",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Sitting 16th NA member when appointed (새천년민주당, 비례대표, seat 2000-05-30..2003-03-04, left the seat on appointment), mona_cd BCO6264C (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "5 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2003-04-15, last 2003-07-01.",
+      "notes": "Resigned in protest at the 서울행정법원 order suspending the 새만금 project (2003-07-15). ko.wikipedia list gives the start as 2003-02-28, the gazette prints 2003-02-27."
+    },
+    {
+      "name": "허상만",
+      "name_hanja": "許祥萬",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1943-10-12",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2003-07-24",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15458호 (published 2003-07-29), 인사 item toc_seq 00000000000000001319028367599000, text: '◉2003년 7 월24일자 허 상 만(許 祥 萬) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20030729_15458_00000000000000001319028367599000.txt and roster/sources/agriculture/gazette_15458_00000000000000001319028367599000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319028354374000&tocId=00000000000000001319028367599000&isTocOrder=N (accessed 2026-09-24T22:45:46-0400)",
+        "BigKinds metadata: 동아일보 2003-07-24 '새 농림장관에 허상만' ('노무현 대통령은 24일 ... 허상만 ... 교수를 임명했다'); search snapshot roster/sources/agriculture/bigkinds_2003-07-18_2003-07-24_b8b140bce8.json (accessed 2026-09-24T22:53:02-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '54대 장관 허상만 2003.07.24 ~ 2005.01.04'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20030729_15458_00000000000000001319028367599000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '◉2003년 7 월24일자 허 상 만(許 祥 萬) 국무위원에 임함 농림부장관에 보함'"
+      ],
+      "end": "2005-01-05",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제15892호 (published 2005-01-10), 인사 item toc_seq 00000000000000001319033474221000, text: '⊙2005년 1 월 5 일자 ... 박 홍 수(朴 弘 綏) 국무위원에 임함 농림부 장관에 보함'. harvest/gazette_text/20050110_15892_00000000000000001319033474221000.txt and roster/sources/agriculture/gazette_15892_00000000000000001319033474221000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033464602000&tocId=00000000000000001319033474221000&isTocOrder=N (accessed 2026-09-24T22:48:02-0400)",
+        "연합뉴스 2005-01-04 10:06 '교체되는 장관들', https://n.news.naver.com/mnews/article/001/0000872380, snapshot roster/sources/agriculture/naver_001_0000872380.html (accessed 2026-09-25T13:09:32-0400). Quote: '허성관 행자부장관과 허상만 농림부장관, 장승우 해양수산부장관 등 개각되는 장관들이 4일'",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '54대 장관 허상만 2003.07.24 ~ 2005.01.04'",
+        "[verifier] BigKinds metadata: 한국일보 2005-01-06 '경제 칵테일/ 장관은 울고 국장은 웃고' (news_id 01101101.20050106100006721). Quote: '4일 개각에서 쌀시장 추가개방에 대한 농민 반발을 무마하기 위해 협상을 지휘한 허상만 농림부 장관이 경질된'. Search '허상만 장관' 2005-01-03..2005-01-07, snapshot roster/sources/agriculture/verify/bigkinds/bk_hsm_end2_2005-01-03_2005-01-07_268620d9.json (accessed 2026-09-25T21:46:35-0400)",
+        "[verifier] BigKinds metadata: 머니투데이 2005-01-06 '[기자수첩]농림부 시계는 10년전?' (news_id 02100201.20160224184247306). Quote: '박홍수 신임 농림부 장관이 취임한 5일'. Search '허상만 장관' 2005-01-03..2005-01-07, snapshot roster/sources/agriculture/verify/bigkinds/bk_hsm_end2_2005-01-03_2005-01-07_268620d9.json (accessed 2026-09-25T21:46:35-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "32 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2003-07-30, last 2004-12-28.",
+      "notes": "Replaced in the 1·4 개각 (announced 2005-01-04, successor appointed 2005-01-05 per the gazette). The ministry page gives 2005.01.04 as his last day. The legal exit date was not found, so the end is the successor's appointment date."
+    },
+    {
+      "name": "박홍수",
+      "name_hanja": "朴弘綏",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-04-18",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2005-01-05",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15892호 (published 2005-01-10), 인사 item toc_seq 00000000000000001319033474221000, text: '⊙2005년 1 월 5 일자 ... 박 홍 수(朴 弘 綏) 국무위원에 임함 농림부 장관에 보함'. harvest/gazette_text/20050110_15892_00000000000000001319033474221000.txt and roster/sources/agriculture/gazette_15892_00000000000000001319033474221000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033464602000&tocId=00000000000000001319033474221000&isTocOrder=N (accessed 2026-09-24T22:48:02-0400)",
+        "국민일보 2007-08-31 18:35 '“농업현장 돌아가 성공 일굴 것”… 이임식 가진 박홍수 농림', https://n.news.naver.com/mnews/article/005/0000288246, snapshot roster/sources/agriculture/naver_005_0000288246.html (accessed 2026-09-25T13:06:33-0400). Quote: '2005년 1월5일 농업인들의 기대와 환영 속에 농림부 수장에 올랐던 박홍수 장관'",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '55대 장관 박홍수 2005.01.05 ~ 2007.08.31'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20050110_15892_00000000000000001319033474221000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '⊙2005년 1 월 5 일자 ... 박 홍 수(朴 弘 綏) 국무위원에 임함 농림부 장관에 보함'"
+      ],
+      "end": "2007-08-31",
+      "end_confidence": "high",
+      "end_sources": [
+        "국민일보 2007-08-31 18:35 '“농업현장 돌아가 성공 일굴 것”… 이임식 가진 박홍수 농림', https://n.news.naver.com/mnews/article/005/0000288246, snapshot roster/sources/agriculture/naver_005_0000288246.html (accessed 2026-09-25T13:06:33-0400). Quote: '박 장관은 31일 정부 과천청사 농림부 대회의실에서 이임식을 갖고'",
+        "관보 제16583호 (published 2007-09-06), 인사 item toc_seq 00000000000000001319078832014000, text: '◉2007년 8 월31일자 임 상 규(任 祥 奎) 국무위원에 임함. 농림부장관에 보함.'. harvest/gazette_text/20070906_16583_00000000000000001319078832014000.txt and roster/sources/agriculture/gazette_16583_00000000000000001319078832014000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319078814067000&tocId=00000000000000001319078832014000&isTocOrder=N (accessed 2026-09-24T22:53:00-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '55대 장관 박홍수 2005.01.05 ~ 2007.08.31'",
+        "[verifier] BigKinds metadata: 매일경제 2007-08-31 '농림부 장관 이임식 \"농업인들께 죄송\"' (news_id 02100101.20160120005409829). Quote: '박 장관은 이임식에서 지금까지 현장 농정을 많이 강조해 온 만큼'. Search '박홍수 장관' 2007-08-29..2007-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_phs_end2_2007-08-29_2007-09-02_1339a3bb.json (accessed 2026-09-25T21:46:43-0400)",
+        "[verifier] BigKinds metadata: 한국일보 2007-08-31 '박홍수 농림, 다시 농업 현장으로 복귀' (news_id 01101101.20070831100000125). Quote: '박홍수 농림부 장관이 31일 이임식을 갖고 2년 8개월 만에 농업 현장으로 다시 돌아간다'. Search '박홍수 장관' 2007-08-29..2007-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_phs_end2_2007-08-29_2007-09-02_1339a3bb.json (accessed 2026-09-25T21:46:43-0400)",
+        "[verifier] BigKinds metadata: 문화일보 2007-08-31 '‘농민의 밥’ 위해 뛴 2년 7개월… 뚝심의 ‘밥장관’ 박수속에 떠나다' (news_id 01100501.20070831100008195). Quote: '이장 출신 박홍수 농림부 장관 이임식'. Search '박홍수 장관' 2007-08-29..2007-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_phs_end2_2007-08-29_2007-09-02_1339a3bb.json (accessed 2026-09-25T21:46:43-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Sitting 17th NA member when appointed (열린우리당, 비례대표, seat 2004-05-30..2005-01-10, resigned), mona_cd 5JX61739 (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "61 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2005-02-18, last 2007-08-09. 5 rows of invalid types (국회본회의, 예산결산특별위원회) ignored, dates 2000-06-16, 2000-07-22, 2002-10-23, 2002-11-01, 2003-04-10 (misattached content per the audit caveat). Includes OCR name variants 박홍식 2005-09-22, 박흥수 2005-11-01.",
+      "notes": "Hanja: the gazette prints 朴弘綏, na_members_15_22.csv and ko.wikipedia give 朴弘綬. Appointed before 국무위원 hearings began (2005-07-28)."
+    },
+    {
+      "name": "임상규",
+      "name_hanja": "任祥奎",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1949-07-04",
+      "gender": "M",
+      "ministry": "농림부",
+      "office_title": "농림부장관",
+      "deputy_pm": false,
+      "start": "2007-08-31",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제16583호 (published 2007-09-06), 인사 item toc_seq 00000000000000001319078832014000, text: '◉2007년 8 월31일자 임 상 규(任 祥 奎) 국무위원에 임함. 농림부장관에 보함.'. harvest/gazette_text/20070906_16583_00000000000000001319078832014000.txt and roster/sources/agriculture/gazette_16583_00000000000000001319078832014000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319078814067000&tocId=00000000000000001319078832014000&isTocOrder=N (accessed 2026-09-24T22:53:00-0400)",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '56대 장관 임상규 2007.08.31 ~ 2008.02.29'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20070906_16583_00000000000000001319078832014000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '◉2007년 8 월31일자 임 상 규(任 祥 奎) 국무위원에 임함. 농림부장관에 보함.'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2008-02-28",
+      "end_confidence": "high",
+      "end_sources": [
+        "offices.json OF016 농림부 to 2008-02-28, 정부조직법 법률 제8852호 (effective 2008-02-29) abolished 농림부 and created 농림수산식품부; 부칙 제2조② excludes 정무직 from the staff transfer (offices.json transitional_staff_clauses)",
+        "조세일보 2008-02-29 18:21 '靑, '임대 국무위원'에 임상규 前농림장관 추가', https://n.news.naver.com/mnews/article/123/0001938616, snapshot roster/sources/agriculture/naver_123_0001938616.html (accessed 2026-09-25T13:07:22-0400). Quote: '참여정부 장관 중에 이미 장관직을 떠났지만 국무위원 자격을 유지시킨 '임대 국무위원'에 29일 이임식을 가진 임상규 농림부 장관을 추가했다'",
+        "농림축산식품부 역대장관 list page 2, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=2, snapshot roster/sources/agriculture/mafra_past_ministers_list_p2.html (accessed 2026-09-24T22:47:53-0400). Row: '56대 장관 임상규 2007.08.31 ~ 2008.02.29'",
+        "[verifier] BigKinds metadata: 매일경제 2008-02-29 '임상규 \"농림수산식품부, 더 많은 역할 할 것\"' (news_id 02100101.20160120040928668). Quote: '농림부 장관직을 물러난 임상규 장관은 이임사에서'. Search '임상규 장관' 2008-02-27..2008-03-04, snapshot roster/sources/agriculture/verify/bigkinds/bk_lsg_end2_2008-02-27_2008-03-04_49335a1f.json (accessed 2026-09-25T21:46:51-0400)",
+        "[verifier] BigKinds metadata: 문화일보 2008-03-03 '무임소 국무위원 4명 보수는?…하루 26만7000원씩 지급' (news_id 01100501.20080303100002453). Quote: '이날 국무회의에 참석한 노무현 정부의 박명재 행정자치부 장관과 이규용 환경부 장관, 변재진 보건복지부 장관, 임상규 농림부 장관 등 국무위원 4명'. Search '임상규 장관' 2008-02-27..2008-03-04, snapshot roster/sources/agriculture/verify/bigkinds/bk_lsg_end2_2008-02-27_2008-03-04_49335a1f.json (accessed 2026-09-25T21:46:51-0400)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "13 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2007-09-17, last 2008-02-14. 2 rows of invalid types (국회본회의, 예산결산특별위원회) ignored, dates 2003-06-05, 2003-11-25 (misattached content per the audit caveat).",
+      "notes": "Last day of 농림부 was 2008-02-28. He held his 이임식 on 2008-02-29, the day 정운천 was appointed 농림수산식품부장관. 조세일보 2008-02-29 reports that the 이명박 청와대 kept him as a 국무위원 without portfolio ('임대 국무위원') to reach the quorum of the 2008-03-03 국무회의. That residual 국무위원 status is not a spell of this lineage (see issues)."
+    },
+    {
+      "name": "정운천",
+      "name_hanja": "鄭雲天",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1954-04-10",
+      "gender": "M",
+      "ministry": "농림수산식품부",
+      "office_title": "농림수산식품부장관",
+      "deputy_pm": false,
+      "start": "2008-02-29",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제16703호 (published 2008-03-06), 인사 item toc_seq 00000000000000001319081960066000, text: '⊙2008년 2월 29일자 ... 정 운 천(鄭 雲 天) 국무위원에 임함 농림수산식품부장관에 보함'. harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt and roster/sources/agriculture/gazette_16703_00000000000000001319081960066000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '57대 장관 정운천 2008.02.29 ~ 2008.08.06'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '정 운 천(鄭 雲 天) 국무위원에 임함 농림수산식품부장관에 보함 (section ⊙2008년 2월 29일자)'"
+      ],
+      "end": "2008-08-06",
+      "end_confidence": "high",
+      "end_sources": [
+        "노컷뉴스 2008-08-06 17:05 '정운천 농림 \"쇠고기 책임 모두 안고 떠난다\"', https://n.news.naver.com/mnews/article/079/0001983654, snapshot roster/sources/agriculture/naver_079_0001983654.html (accessed 2026-09-25T13:02:36-0400). Quote: '정 장관은 6일 과천 정부종합청사에서 열린 이임식에서'",
+        "아시아경제 2008-08-06 17:27 '장태평 장관 \"마지막 기회, 열심히 하겠다\"', https://n.news.naver.com/mnews/article/277/0002012884, snapshot roster/sources/agriculture/naver_277_0002012884.html (accessed 2026-09-25T13:02:56-0400). Quote: '이날 과천청사에서는 정운천 현 장관 이임식과 장 신임 장관 취임식이 연이어 열렸으며'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '57대 장관 정운천 2008.02.29 ~ 2008.08.06'",
+        "[verifier] BigKinds metadata: 강원도민일보 2008-08-07 '정운천 쇠고기안고 떠난다' (news_id 01300101.20080807174255001). Quote: '정 장관은 6일 과천 정부종합청사에서 열린 이임식에서'. Search '정운천 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_juc_end2_2008-08-05_2008-08-08_d74d0b47.json (accessed 2026-09-25T21:46:59-0400)",
+        "[verifier] BigKinds metadata: 이데일리 2008-08-06 '떠나는 쇠고기 장관 \"모든 책임 안고 갑니다\"' (news_id 04101008.20160308185030737). Quote: '6일 정 전 장관은 이임사를 통해'. Search '정운천 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_juc_end2_2008-08-05_2008-08-08_d74d0b47.json (accessed 2026-09-25T21:46:59-0400)",
+        "[verifier] BigKinds metadata: 동아일보 2008-08-07 '李대통령, 장관 3명 임명' (news_id 01100401.20080807064808040). Quote: '이명박 대통령은 6일 안병만 교육과학기술부 장관과 장태평 농림수산식품부 장관, 전재희 보건복지가족부 장관을 공식 임명했다'. Search '장태평 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_start2_2008-08-05_2008-08-08_51ca93a7.json (accessed 2026-09-25T21:47:09-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Not an NA member while minister. Later 20th NA member (새누리당, 전북 전주시을) and 21st (미래한국당, 비례대표), mona_cd NZF1659U (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "3 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2008-04-29, last 2008-05-21.",
+      "notes": "First head of 농림수산식품부 (new ministry, not a continuation of his own tenure). Nominated by the 대통령당선인 as 농림부장관 (likms ZZ1907). Replaced after the 2008 US beef protests (7·7 개각 named the successor)."
+    },
+    {
+      "name": "장태평",
+      "name_hanja": "張太平",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1949-03-03",
+      "gender": "M",
+      "ministry": "농림수산식품부",
+      "office_title": "농림수산식품부장관",
+      "deputy_pm": false,
+      "start": "2008-08-06",
+      "start_confidence": "high",
+      "start_sources": [
+        "연합뉴스 2008-08-06 15:32 '임명장 받는 장태평 농림수산식품부 장관', https://n.news.naver.com/mnews/article/001/0002209577, snapshot roster/sources/agriculture/naver_001_0002209577.html (accessed 2026-09-25T12:59:20-0400). Quote: '이명박 대통령이 6일 오후 청와대에서 장태평 농림수산식품부 장관에게 임명장을 주고 있다'",
+        "뉴시스 2008-08-06 16:44 '이 대통령, 장태평 신임 농림수산식품부 장관 임명', https://n.news.naver.com/mnews/article/003/0002225510, snapshot roster/sources/agriculture/naver_003_0002225510.html (accessed 2026-09-25T12:59:23-0400). Quote: '이명박 대통령이 6일 오후 청와대에서 장태평 신임 농림수산식품부 장관에게 임명장을 수여하고 있다'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '58대 장관 장태평 2008.08.06 ~ 2010.8.30'",
+        "[verifier] BigKinds metadata: 동아일보 2008-08-07 '李대통령, 장관 3명 임명' (news_id 01100401.20080807064808040). Quote: '이명박 대통령은 6일 안병만 교육과학기술부 장관과 장태평 농림수산식품부 장관, 전재희 보건복지가족부 장관을 공식 임명했다'. Search '장태평 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_start2_2008-08-05_2008-08-08_51ca93a7.json (accessed 2026-09-25T21:47:09-0400)",
+        "[verifier] BigKinds metadata: 경남신문 2008-08-07 '靑, 장관 3명 임명' (news_id 01500051.20160428121837393). Quote: '청와대는 국회 인사청문 경과보고서가 법정시한인 5일까지 도착하지 않음에 따라 안병만 교육과학기술부 장관, 장태평 농림수산식품부 장관, 전재희 보건복지가족부 장관을 6일 공식 임명했다'. Search '장태평 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_start2_2008-08-05_2008-08-08_51ca93a7.json (accessed 2026-09-25T21:47:09-0400)",
+        "[verifier] BigKinds metadata: 환경일보 2008-08-08 '장태평 농식품부장관 취임 '강한 농수식품업 만든다'' (news_id 07100502.20080808001121005). Quote: '장태평 농림수산식품부 장관이 6일 정부과천청사에서 취임식을 가졌다'. Search '장태평 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_start2_2008-08-05_2008-08-08_51ca93a7.json (accessed 2026-09-25T21:47:09-0400)"
+      ],
+      "end": "2010-08-30",
+      "end_confidence": "high",
+      "end_sources": [
+        "관보 제17335호 (published 2010-09-03), 인사 item toc_seq 00000000000000001319095514840000, text: '유 정 복(劉 正 福) 국무위원에 임함 농림수산식품부장관에 보함 2010.8.30'. harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt and roster/sources/agriculture/gazette_17335_00000000000000001319095514840000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095495488000&tocId=00000000000000001319095514840000&isTocOrder=N (accessed 2026-09-24T22:58:56-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '58대 장관 장태평 2008.08.06 ~ 2010.8.30'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '유 정 복(劉 正 福) 국무위원에 임함 농림수산식품부장관에 보함 2010.8.30'",
+        "[verifier] BigKinds metadata: 이데일리 2010-08-30 '떠나는 장관의 포부..장태평, 자작시 낭송하며 이임' (news_id 04101008.20160310065448228). Quote: '장태평 농림수산식품부 장관이 30일 `포부`를 밝히면서 이임했다'. Search '장태평 장관' 2010-08-27..2010-09-01, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_end2_2010-08-27_2010-09-01_51ca93a7.json (accessed 2026-09-25T21:47:19-0400)",
+        "[verifier] BigKinds metadata: 서울경제 2010-08-30 '\"농식품산업 발전에 마지막 힘 쏟을것\"' (news_id 02100311.20160316112356077). Quote: '장태평 농식품부 장관이 30일 이임했다'. Search '장태평 장관' 2010-08-27..2010-09-01, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_end2_2010-08-27_2010-09-01_51ca93a7.json (accessed 2026-09-25T21:47:19-0400)",
+        "[verifier] BigKinds metadata: 노컷뉴스 2010-08-30 '장태평 이임사 \"저를 움직인 열정은 농어민과 농어촌에 대한 사랑\"' (news_id 04100058.20100830171454006). Quote: '이 임 사2010. 8. 30.농림수산식품부 장관張 太 平'. Search '장태평 장관' 2010-08-27..2010-09-01, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_end2_2010-08-27_2010-09-01_51ca93a7.json (accessed 2026-09-25T21:47:19-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "51 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2008-09-02, last 2010-06-21.",
+      "notes": "Appointed without a hearing: the 18th NA had not formed its committees, the 20-day deadline lapsed on 2008-07-30 and the 대통령 appointed on 2008-08-06 (이데일리, 아시아경제, 머니투데이 2008-08-06). No gazette notice was found: absent from the category-19 index for 2008-07..08 and from every regular issue 2008-08-07..08-29 (whole-issue scans, logs roster/sources/agriculture/gazette_issue_scan_20080807_20080814.log and gazette_issue_scan_20080815_20080829.log). [verifier] The 이임식 was held on 2010-08-30, the day the successor was appointed (이데일리, 서울경제 and 노컷뉴스 2010-08-30 via BigKinds), so the end is documented rather than only inferred from the successor."
+    },
+    {
+      "name": "유정복",
+      "name_hanja": "劉正福",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1957-06-16",
+      "gender": "M",
+      "ministry": "농림수산식품부",
+      "office_title": "농림수산식품부장관",
+      "deputy_pm": false,
+      "start": "2010-08-30",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17335호 (published 2010-09-03), 인사 item toc_seq 00000000000000001319095514840000, text: '유 정 복(劉 正 福) 국무위원에 임함 농림수산식품부장관에 보함 2010.8.30'. harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt and roster/sources/agriculture/gazette_17335_00000000000000001319095514840000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095495488000&tocId=00000000000000001319095514840000&isTocOrder=N (accessed 2026-09-24T22:58:56-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '59대 장관 유정복 2010.08.30 ~ 2011.06.02'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20100903_17335_00000000000000001319095514840000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '유 정 복(劉 正 福) 국무위원에 임함 농림수산식품부장관에 보함 2010.8.30'",
+        "[verifier] BigKinds metadata: 노컷뉴스 2010-08-30 '유정복 \"희망주고 사랑받는 농식품부 기대\"' (news_id 04100058.20100830154431018). Quote: '취 임 사2010. 8. 30.농림수산식품부장관 유 정 복'. Search '장태평 장관' 2010-08-27..2010-09-01, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_end2_2010-08-27_2010-09-01_51ca93a7.json (accessed 2026-09-25T21:47:19-0400)"
+      ],
+      "end": "2011-06-02",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제17524호 (published 2011-06-08), 인사 item toc_seq 00000000000000001319090318529000, text: '서규용(徐圭龍) 국무위원에 임함 농림수산식품부장관에 보함 2011. 6 .2.'. harvest/gazette_text/20110608_17524_00000000000000001319090318529000.txt and roster/sources/agriculture/gazette_17524_00000000000000001319090318529000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319090303216000&tocId=00000000000000001319090318529000&isTocOrder=N (accessed 2026-09-25T06:56:39-0400)",
+        "연합뉴스 2011-06-01 20:49 '유정복 장관 이임식', https://n.news.naver.com/mnews/article/001/0005093180, snapshot roster/sources/agriculture/naver_001_0005093180.html (accessed 2026-09-25T13:07:49-0400). Quote: '유정복 농림수산식품부 장관이 1일 오후 과천 정부청사에서 열린 이임식에서'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '59대 장관 유정복 2010.08.30 ~ 2011.06.02'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20110608_17524_00000000000000001319090318529000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '서규용(徐圭龍) 국무위원에 임함 농림수산식품부장관에 보함 2011. 6 .2.'",
+        "[verifier] BigKinds metadata: 매일경제 2011-06-01 '구제역 사투 벌였던 유정복 장관 1일 물러나' (news_id 02100101.20160123123241786). Quote: '유정복 농식품부 장관은 1일 이임식에서'. Search '유정복 장관' 2011-05-31..2011-06-03, snapshot roster/sources/agriculture/verify/bigkinds/bk_yjb_end2_2011-05-31_2011-06-03_d1a0f575.json (accessed 2026-09-25T21:48:35-0400)",
+        "[verifier] BigKinds metadata: 이투데이 2011-06-02 '서규용 장관 “잘사는 농어촌 만들겠다”' (news_id 02100351.20110602150000301). Quote: '서규용 농림수산식품부장관은 2일 오후 정부과천청사에서 개최된 취임식에서'. Search '유정복 장관' 2011-05-31..2011-06-03, snapshot roster/sources/agriculture/verify/bigkinds/bk_yjb_end2_2011-05-31_2011-06-03_d1a0f575.json (accessed 2026-09-25T21:48:35-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Sitting 18th NA member (한나라당, 경기 김포시) throughout, mona_cd 63J3777V (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "16 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2010-09-08, last 2011-04-20.",
+      "notes": "이임식 on 2011-06-01, successor appointed 2011-06-02 (gazette). The legal exit date was not found, so the end is the successor's appointment date. ko.wikipedia gives the start as 2010-08-31, the gazette prints 2010.8.30."
+    },
+    {
+      "name": "서규용",
+      "name_hanja": "徐圭龍",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1948-01-09",
+      "gender": "M",
+      "ministry": "농림수산식품부",
+      "office_title": "농림수산식품부장관",
+      "deputy_pm": false,
+      "start": "2011-06-02",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17524호 (published 2011-06-08), 인사 item toc_seq 00000000000000001319090318529000, text: '서규용(徐圭龍) 국무위원에 임함 농림수산식품부장관에 보함 2011. 6 .2.'. harvest/gazette_text/20110608_17524_00000000000000001319090318529000.txt and roster/sources/agriculture/gazette_17524_00000000000000001319090318529000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319090303216000&tocId=00000000000000001319090318529000&isTocOrder=N (accessed 2026-09-25T06:56:39-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '60대 장관 서규용 2011.06.02 ~ 2013.3.11'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20110608_17524_00000000000000001319090318529000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '서규용(徐圭龍) 국무위원에 임함 농림수산식품부장관에 보함 2011. 6 .2.'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2013-03-11",
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2013-03-11 13:11 '서규용 농림수산식품부장관 이임식', https://n.news.naver.com/mnews/article/001/0006138701, snapshot roster/sources/agriculture/naver_001_0006138701.html (accessed 2026-09-25T13:08:30-0400). Quote: '서규용농림수산식품부장관이 11일 오전 세종시 어진동 정부세종청사에서 열린 이임식에서'",
+        "관보 제17971호 (published 2013-03-14), 인사 item toc_seq 00000000000000001363076221739000, text: '이동필(李桐弼) 국무위원에 임함 농림수산식품부장관에 보함 2013. 3. 11.'. harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt and roster/sources/agriculture/gazette_17971_00000000000000001363076221739000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '60대 장관 서규용 2011.06.02 ~ 2013.3.11'",
+        "[verifier] BigKinds metadata: 이투데이 2013-03-11 '서규용 농식품부 장관 이임식 가져' (news_id 02100351.20130311100516174). Quote: '서규용 농림수산식품부 장관이 11일 오전 10시 세종정부청사 농림수산식품부 대강당에서 이임식을 하고 1년9개월간의 임기를 끝냈다'. Search '서규용 장관' 2013-02-24..2013-03-13, snapshot roster/sources/agriculture/verify/bigkinds/bk_sgy_end2_2013-02-24_2013-03-13_e0933c78.json (accessed 2026-09-25T21:48:42-0400)",
+        "[verifier] BigKinds metadata: 이데일리 2013-03-11 '떠나는 서규용 장관 \"1년 9개월간 지구 한바퀴 다녔다\"' (news_id 04101008.20160312023213604). Quote: '서규용 농림수산식품부 장관은 11일 지난 1년 9개월의 임기를 돌아보며'. Search '서규용 장관' 2013-02-24..2013-03-13, snapshot roster/sources/agriculture/verify/bigkinds/bk_sgy_end2_2013-02-24_2013-03-13_e0933c78.json (accessed 2026-09-25T21:48:42-0400)",
+        "[verifier] BigKinds metadata: 아시아경제 2013-03-10 '11일부터 돼지고기 원산지 특별단속' (news_id 02100801.20160222191529581). Quote: '농림수산식품부(장관 서규용)는 10일'. Search '서규용 장관' 2013-02-24..2013-03-13, snapshot roster/sources/agriculture/verify/bigkinds/bk_sgy_end2_2013-02-24_2013-03-13_e0933c78.json (accessed 2026-09-25T21:48:42-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "이명박",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "44 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2011-06-14, last 2013-02-20.",
+      "notes": "이명박-appointed minister who stayed into the 박근혜 term (2013-02-25) until 이동필 was appointed on 2013-03-11."
+    },
+    {
+      "name": "이동필",
+      "name_hanja": "李桐弼",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-08-29",
+      "gender": "M",
+      "ministry": "농림수산식품부",
+      "office_title": "농림수산식품부장관",
+      "deputy_pm": false,
+      "start": "2013-03-11",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17971호 (published 2013-03-14), 인사 item toc_seq 00000000000000001363076221739000, text: '이동필(李桐弼) 국무위원에 임함 농림수산식품부장관에 보함 2013. 3. 11.'. harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt and roster/sources/agriculture/gazette_17971_00000000000000001363076221739000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)",
+        "likms ZZ19051, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6, rendered text harvest/likms/PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6.txt and roster/sources/agriculture/likms_detail_ZZ19051.txt (accessed 2026-09-24T22:54:45-0400). 경과보고서 채택 2013-03-11 (제314회 제1차 청문회).",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '61대 장관 이동필 2013.03.11 ~ 2016.09.05'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '이동필(李桐弼) 국무위원에 임함 농림수산식품부장관에 보함 2013. 3. 11.'"
+      ],
+      "end": "2013-03-22",
+      "end_confidence": "high",
+      "end_sources": [
+        "offices.json OF038 농림수산식품부 to 2013-03-22, renamed 농림축산식품부 by 정부조직법 법률 제11690호 effective 2013-03-23; 부칙 제3조② excludes 정무직 (offices.json transitional_staff_clauses)",
+        "관보 제17983호 (published 2013-03-28), 인사 item toc_seq 00000000000000001364357833254000, text: '이동필(李桐弼) 국무위원에 임함 농림축산식품부장관에 보함 2013. 3. 23.'. harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt and roster/sources/agriculture/gazette_17983_00000000000000001364357833254000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "1 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2013-03-19, last 2013-03-19.",
+      "notes": "First spell under the old name. Continued as 농림축산식품부장관 from 2013-03-23 under a new appointment notice."
+    },
+    {
+      "name": "이동필",
+      "name_hanja": "李桐弼",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-08-29",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2013-03-23",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제17983호 (published 2013-03-28), 인사 item toc_seq 00000000000000001364357833254000, text: '이동필(李桐弼) 국무위원에 임함 농림축산식품부장관에 보함 2013. 3. 23.'. harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt and roster/sources/agriculture/gazette_17983_00000000000000001364357833254000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)",
+        "노컷뉴스 2013-03-23 09:54 '박근혜 정부, 출범 26일만에 정부조직 개편 마무리', https://n.news.naver.com/mnews/article/079/0002454033, snapshot roster/sources/agriculture/naver_079_0002454033.html (accessed 2026-09-25T13:25:32-0400). Quote: '이 법령들은 23일 관보게재 함께 즉시 시행된다 ... 박근혜 대통령은 오는 26일 정부조직법 시행 후 새로 임명된 장관들과 함께 첫번째 국무회의를 개최할 예정이다'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '이동필(李桐弼) 국무위원에 임함 농림축산식품부장관에 보함 2013. 3. 23.'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2016-09-05",
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2016-09-05 12:39 '기념촬영 하는 이동필 장관', https://n.news.naver.com/mnews/article/001/0008664674, snapshot roster/sources/agriculture/naver_001_0008664674.html (accessed 2026-09-25T13:10:36-0400). Quote: '이동필 농림축산식품부 장관이 5일 오전 정부세종청사에서 열린 이임식에서'",
+        "관보 제18843호 (published 2016-09-12), 인사 item toc_seq 00000000000000001473384557408000, text: '김재수(金在水) 국무위원에 임함 농림축산식품부장관에 보함 2016. 9. 5.'. harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt and roster/sources/agriculture/gazette_18843_00000000000000001473384557408000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001473384514531000&tocId=00000000000000001473384557408000&isTocOrder=N (accessed 2026-09-24T22:51:00-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '61대 장관 이동필 2013.03.11 ~ 2016.09.05'",
+        "[verifier] BigKinds metadata: 동아일보 2016-09-06 '6차산업 국내 뿌리내린 ‘현장맨’ 이동필 前장관 “시골 텃밭 가꾸며 직접 느껴야죠”' (news_id 01100401.20160906125016013). Quote: '5일 정부세종청사에서 퇴임식을 마친 이 전 장관은'. Search '이동필 장관' 2016-09-03..2016-09-07, snapshot roster/sources/agriculture/verify/bigkinds/bk_ldp_end2_2016-09-03_2016-09-07_41e0eaa6.json (accessed 2026-09-25T21:48:50-0400)",
+        "[verifier] BigKinds metadata: 중앙일보 2016-09-05 '항저우 간 박 대통령, 전자결재로 장관 3명 임명' (news_id 01100901.20160905203314003). Quote: '박 대통령의 임명은 이날 오전 전자결재를 통해 이뤄졌다'. Search '김재수 청문보고서' 2016-09-01..2016-09-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_report_2016-09-01_2016-09-06_d84dbe99.json (accessed 2026-09-25T21:58:49-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": true,
+      "reappointed_on_reorg": true,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "65 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2013-04-08, last 2016-08-08.",
+      "notes": "Continuation of his 농림수산식품부 tenure after the renaming; the gazette prints a new appointment dated 2013-03-23. ko.wikipedia gives the end as 2016-09-04."
+    },
+    {
+      "name": "김재수",
+      "name_hanja": "金在水",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1957-02-20",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2016-09-05",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제18843호 (published 2016-09-12), 인사 item toc_seq 00000000000000001473384557408000, text: '김재수(金在水) 국무위원에 임함 농림축산식품부장관에 보함 2016. 9. 5.'. harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt and roster/sources/agriculture/gazette_18843_00000000000000001473384557408000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001473384514531000&tocId=00000000000000001473384557408000&isTocOrder=N (accessed 2026-09-24T22:51:00-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '62대 장관 김재수 2016.09.05 ~ 2017.06.30'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '김재수(金在水) 국무위원에 임함 농림축산식품부장관에 보함 2016. 9. 5.'",
+        "[verifier] BigKinds metadata: 중앙일보 2016-09-05 '항저우 간 박 대통령, 전자결재로 장관 3명 임명' (news_id 01100901.20160905203314003). Quote: '박 대통령의 임명은 이날 오전 전자결재를 통해 이뤄졌다'. Search '김재수 청문보고서' 2016-09-01..2016-09-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_report_2016-09-01_2016-09-06_d84dbe99.json (accessed 2026-09-25T21:58:49-0400)"
+      ],
+      "end": "2017-07-03",
+      "end_confidence": "medium",
+      "end_sources": [
+        "뉴시스 2017-07-03 11:01 '김재수 농식품부 장관 이임식', https://n.news.naver.com/mnews/article/003/0008046033, snapshot roster/sources/agriculture/naver_003_0008046033.html (accessed 2026-09-25T13:03:11-0400). Quote: '3일 오전 정부세종청사 대강당에서 열린 농림축산식품부 장관 이임식에서 김재수 장관이 재임기념패를 받고 있다'",
+        "전자신문 2017-07-03 15:11 '3일 김재수 농식품부 장관 이임식', https://n.news.naver.com/mnews/article/030/0002621601, snapshot roster/sources/agriculture/naver_030_0002621601.html (accessed 2026-09-25T13:03:20-0400). Quote: '김재수 농림축산식품부 장관이 3일 정부세종청사 대강당에서 이임식을 가졌다'",
+        "관보 제19052호 (published 2017-07-17), 인사 item toc_seq 00000000000000001499993578089000, text: '김영록 (金瑛錄) 국 무 위원에 임 함 농 림 축 산식품부장관에 보함 2017.7.3.'. harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt and roster/sources/agriculture/gazette_19052_00000000000000001499993578089000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N (accessed 2026-09-24T22:51:32-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '62대 장관 김재수 2016.09.05 ~ 2017.06.30'",
+        "[verifier] BigKinds metadata: 헤럴드경제 2017-07-03 '김재수 농림축산식품주 장관 퇴임…40년 농정외길 고별' (news_id 02100701.20170703143446001). Quote: '김재수 농림축산식품부 장관이 3일 퇴임했다'. Search '김재수 장관' 2017-06-29..2017-07-05, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_end2_2017-06-29_2017-07-05_1f87e47e.json (accessed 2026-09-25T21:48:58-0400)",
+        "[verifier] BigKinds metadata: 이투데이 2017-07-03 '김재수 장관 “농정 현안 못 풀고 떠나... 농업 미래 밝다”' (news_id 02100351.20170703162006001). Quote: '김 장관은 3일 정부세종청사 대강당에서 열린 이임식에서'. Search '김재수 장관' 2017-06-29..2017-07-05, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_end2_2017-06-29_2017-07-05_1f87e47e.json (accessed 2026-09-25T21:48:58-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "19 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2016-09-26, last 2017-03-29. 3 rows of invalid types (국회본회의) ignored, dates 2012-05-02, 2012-09-06, 2012-11-22 (misattached content per the audit caveat).",
+      "notes": "박근혜-appointed minister who stayed into the 문재인 term until 김영록 was appointed on 2017-07-03. The ministry page ends his tenure on 2017.06.30 and ko.wikipedia on 2017-07-02, but he held his 이임식 on the morning of 2017-07-03 as 장관, and no resignation acceptance before that date was found. [verifier] 중앙일보 and 중부일보 2016-09-05 report that the appointment was approved by 전자결재 on 2016-09-04 in 항저우. The 관보 prints 2016. 9. 5., which is kept as the legal appointment date."
+    },
+    {
+      "name": "김영록",
+      "name_hanja": "金瑛錄",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-02-17",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2017-07-03",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19052호 (published 2017-07-17), 인사 item toc_seq 00000000000000001499993578089000, text: '김영록 (金瑛錄) 국 무 위원에 임 함 농 림 축 산식품부장관에 보함 2017.7.3.'. harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt and roster/sources/agriculture/gazette_19052_00000000000000001499993578089000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N (accessed 2026-09-24T22:51:32-0400)",
+        "연합뉴스 2017-07-03 11:57 '文대통령, 오늘 오후 통일·농식품부 장관 임명장 수여', https://n.news.naver.com/mnews/article/001/0009379725, snapshot roster/sources/agriculture/naver_001_0009379725.html (accessed 2026-09-25T13:04:38-0400). Quote: '문재인 대통령은 3일 오후 3시 청와대 본관에서 조명균 통일부 장관, 김영록 농림축산식품부 장관, 박은정 국민권익위원회 위원장의 임명장 수여식을 개최한다'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '63대 장관 김영록 2017.07.03 ~ 2018.03.15'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '김영록 (金瑛錄) 국 무 위원에 임 함 농 림 축 산식품부장관에 보함 2017.7.3.'"
+      ],
+      "end": "2018-03-15",
+      "end_confidence": "medium",
+      "end_sources": [
+        "BigKinds metadata: 국제신문 2018-03-16 ('15일 정부 세종청사 대강당에서 이임식을 하고 장관직에서 공식 사퇴했다'), 대전일보 2018-03-15 ('15일 장관직에서 공식 사퇴'), 헤럴드경제 2018-03-15, 한국경제 2018-03-14 ('오늘 사직원을 (청와대에) ...'); search snapshot roster/sources/agriculture/bigkinds_2018-03-12_2018-03-18_27e430cf2e.json (accessed 2026-09-24T22:52:07-0400)",
+        "뉴시스 2018-03-14 16:26 '[종합]민주당 전남지사 경선 '라인업' 확정…본격 '레이스'', https://n.news.naver.com/mnews/article/003/0008486503, snapshot roster/sources/agriculture/naver_003_0008486503.html (accessed 2026-09-24T22:52:28-0400). Quote: '농식품부를 내일부로 떠나서 정치 여정에 나서게 됐다'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '63대 장관 김영록 2017.07.03 ~ 2018.03.15'",
+        "[verifier] BigKinds metadata: 중앙일보 2018-03-16 '윤곽 잡히는 대진표…안희정 사태로 흔들린 충남? 호남 혈투?' (news_id 01100901.20180316204638001). Quote: '지난 15일에 맞춰 전남지사에 출마하려는 김영록 농림축산식품부 장관이 공식 퇴임하는 등'. Search '김영록 장관' 2018-03-14..2018-03-17, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyr_end2_2018-03-14_2018-03-17_99ec039c.json (accessed 2026-09-25T21:49:06-0400)",
+        "[verifier] BigKinds metadata: 중도일보 2018-03-15 '김영록 농식품부장관 사퇴' (news_id 01400351.20180315220456001). Quote: '김영록 농림축산식품부 장관이 15일 정부세종청사에서 이임식을 갖고 공식 사퇴했다'. Search '김영록 장관' 2018-03-14..2018-03-17, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyr_end2_2018-03-14_2018-03-17_99ec039c.json (accessed 2026-09-25T21:49:06-0400)",
+        "[verifier] BigKinds metadata: 서울경제 2018-03-14 '김영록 농림부 장관, 전남지사 출마 위해 장관 사퇴' (news_id 02100311.20180314185007001). Quote: '이번 지방선거에 출마하기 위해 이날 오전 사직원을 제출했다'. Search '김영록 사의' 2018-03-12..2018-03-16, snapshot roster/sources/agriculture/verify/bigkinds/bk_kyr_sub2_2018-03-12_2018-03-16_4f5a236d.json (accessed 2026-09-25T21:55:34-0400)"
+      ],
+      "end_reason": "resigned_to_run",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Not sitting when appointed. Former 18th (무소속, later 민주당) and 19th (민주통합당) NA member for 전남 해남·완도·진도, mona_cd 5JA4781U (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "21 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2017-07-05, last 2018-02-21. 1 rows of invalid types (국회본회의) ignored, dates 2013-03-05 (misattached content per the audit caveat).",
+      "notes": "Resigned to run for 전남지사 in the 2018-06-13 local elections (resignation deadline 2018-03-15). He submitted his resignation on 2018-03-14 and held his 이임식 on 2018-03-15. The date the resignation was formally accepted was not found. Office vacant until 2018-08-10 (see acting)."
+    },
+    {
+      "name": "이개호",
+      "name_hanja": "李介昊",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1959-06-23",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2018-08-10",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19324호 (published 2018-08-23), 인사 item toc_seq 00000000000000001534834134858000, text: '이개호(李介昊) 국무위원에 임함 농림축산식품부장관에 보함 2018.8.10.'. harvest/gazette_text/20180823_19324_00000000000000001534834134858000.txt and roster/sources/agriculture/gazette_19324_00000000000000001534834134858000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001534834129998000&tocId=00000000000000001534834134858000&isTocOrder=N (accessed 2026-09-24T22:52:52-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '64대 장관 이개호 2018.08.10 ~ 2019.08.31'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20180823_19324_00000000000000001534834134858000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '이개호(李介昊) 국무위원에 임함 농림축산식품부장관에 보함 2018.8.10.'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2019-08-31",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제19589호 (published 2019-09-19), 인사 item toc_seq 00000000000000001568766613365000, text: '김현수(金炫秀) 국무위원에 임함 농림축산식품부장관에 보함 2019.8.31.'. harvest/gazette_text/20190919_19589_00000000000000001568766613365000.txt and roster/sources/agriculture/gazette_19589_00000000000000001568766613365000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001568766603093000&tocId=00000000000000001568766613365000&isTocOrder=N (accessed 2026-09-24T22:35:16-0400)",
+        "뉴스1 2019-08-30 18:51 '정부세종청사 떠나는 이개호 농림부 장관', https://n.news.naver.com/mnews/article/421/0004172344, snapshot roster/sources/agriculture/naver_421_0004172344.html (accessed 2026-09-25T13:11:08-0400). Quote: '30일 오후 정부세종청사 대강당에서 이개호 농림축산식품부 장관이 이임식을 마치고'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '64대 장관 이개호 2018.08.10 ~ 2019.08.31'",
+        "[verifier] BigKinds metadata: 뉴스핌 2019-08-30 '국회 복귀 이개호 장관 \"사람 중심 농정 개혁 흔들림없이 추진해야\"' (news_id 04100078.20190830175323001). Quote: '이개호 농식품부 장관은 30일 오후 세종청사 대강당에서 열린 이임식에서'. Search '이개호 장관' 2019-08-29..2019-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_lgh_end2_2019-08-29_2019-09-02_e512acac.json (accessed 2026-09-25T21:49:12-0400)",
+        "[verifier] BigKinds metadata: 광주일보 2019-09-02 '문대통령, 김현수 농식품부장관 임명' (news_id 01600301.20190902020125003). Quote: '김 후보자의 임기는 지난달 31일부터 시작됐다'. Search '이개호 장관' 2019-08-29..2019-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_lgh_end2_2019-08-29_2019-09-02_e512acac.json (accessed 2026-09-25T21:49:12-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "Sitting 20th NA member (더불어민주당, 전남 담양군·함평군·영광군·장성군) throughout, mona_cd I7R13867 (na_members_15_22.csv).",
+      "transcript_check": "ok",
+      "transcript_notes": "19 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2018-08-21, last 2019-08-29. 5 rows of invalid types (국회본회의, 예산결산특별위원회) ignored, dates 2011-09-21, 2013-11-22, 2013-11-29, 2013-11-30, 2013-12-02 (misattached content per the audit caveat).",
+      "notes": "이임식 on 2019-08-30, successor appointed 2019-08-31 (gazette). End set to the successor's appointment date. ko.wikipedia gives the start as 2018-08-09, the gazette prints 2018.8.10."
+    },
+    {
+      "name": "김현수",
+      "name_hanja": "金炫秀",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1961-03-15",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2019-08-31",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19589호 (published 2019-09-19), 인사 item toc_seq 00000000000000001568766613365000, text: '김현수(金炫秀) 국무위원에 임함 농림축산식품부장관에 보함 2019.8.31.'. harvest/gazette_text/20190919_19589_00000000000000001568766613365000.txt and roster/sources/agriculture/gazette_19589_00000000000000001568766613365000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001568766603093000&tocId=00000000000000001568766613365000&isTocOrder=N (accessed 2026-09-24T22:35:16-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '65대 장관 김현수 2019.08.31 ~ 2022.05.10'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20190919_19589_00000000000000001568766613365000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '김현수(金炫秀) 국무위원에 임함 농림축산식품부장관에 보함 2019.8.31.'",
+        "[verifier] BigKinds metadata: 광주일보 2019-09-02 '문대통령, 김현수 농식품부장관 임명' (news_id 01600301.20190902020125003). Quote: '김 후보자의 임기는 지난달 31일부터 시작됐다'. Search '이개호 장관' 2019-08-29..2019-09-02, snapshot roster/sources/agriculture/verify/bigkinds/bk_lgh_end2_2019-08-29_2019-09-02_e512acac.json (accessed 2026-09-25T21:49:12-0400)"
+      ],
+      "end": "2022-05-10",
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2022-05-10 16:37 '이임식 입장하는 김현수 장관', https://n.news.naver.com/mnews/article/001/0013169240, snapshot roster/sources/agriculture/naver_001_0013169240.html (accessed 2026-09-25T13:11:55-0400). Quote: '김현수 농림축산식품부 장관(오른쪽)이 10일 오후 세종시 정부세종청사에서 열린 이임식에 입장하고 있다'",
+        "관보 제20255호 (published 2022-05-23), 인사 item toc_seq I0000000000000001652659816213000, text: '정황근(鄭煌根) 국무위원에 임함 농림축산식품부장관에 보함 2022. 5. 10.'. roster/sources/agriculture/gazette_20255_I0000000000000001652659816213000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '65대 장관 김현수 2019.08.31 ~ 2022.05.10'",
+        "[verifier] BigKinds metadata: 헤럴드경제 2022-05-10 '‘文정부 농정’ 이끈 김현수 농식품부 “중요 정책, 새 정부서도 이어가야”' (news_id 02100701.20220510173830002). Quote: '김현수 농림축산식품부 장관은 임기 마지막 날인 10일'. Search '김현수 장관' 2022-05-09..2022-05-12, snapshot roster/sources/agriculture/verify/bigkinds/bk_khs_end2_2022-05-09_2022-05-12_8d490318.json (accessed 2026-09-25T21:49:18-0400)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "40 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2019-09-24, last 2022-04-26. 3 rows of invalid types (국정조사, 국회본회의) ignored, dates 2014-06-23, 2014-07-02, 2015-07-24 (misattached content per the audit caveat).",
+      "notes": "문재인-appointed minister in office at the 2022-05-10 transition; handed over to 정황근 the same day."
+    },
+    {
+      "name": "정황근",
+      "name_hanja": "鄭煌根",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1960-01-20",
+      "gender": "M",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2022-05-10",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제20255호 (published 2022-05-23), 인사 item toc_seq I0000000000000001652659816213000, text: '정황근(鄭煌根) 국무위원에 임함 농림축산식품부장관에 보함 2022. 5. 10.'. roster/sources/agriculture/gazette_20255_I0000000000000001652659816213000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400)",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '66대 장관 정황근 2022.05.10 ~ 2023.12.28'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '정황근(鄭煌根) 국무위원에 임함 농림축산식품부장관에 보함 2022. 5. 10.'",
+        "[verifier] builder's PDF snapshot re-extracted with src.pdf_text (agriculture_v12_gazette_pdf_reread.py, output roster/sources/agriculture/verify/gazette/pdf_reread_v12.json), same text"
+      ],
+      "end": "2023-12-29",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제20661호 (published 2024-01-05), 인사 item toc_seq I0000000000000001703827582647000, text: '송미령(宋美玲) 국무위원에 임함 농림축산식품부장관에 보함 2023. 12. 29.'. roster/sources/agriculture/gazette_20661_I0000000000000001703827582647000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001704262361700000&tocId=I0000000000000001703827582647000&isTocOrder=N (accessed 2026-09-24T22:54:47-0400)",
+        "파이낸셜뉴스 2023-12-28 16:44 '정황근 농식품부 장관 업무 이임...총선서 새출발', https://n.news.naver.com/mnews/article/014/0005120904, snapshot roster/sources/agriculture/naver_014_0005120904.html (accessed 2026-09-25T13:12:40-0400). Quote: '정황근 농림축산식품부 장관이 28일 이임식을 끝으로 1년 8개월여의 장관직 업무를 마무리했다'",
+        "농림축산식품부 역대장관 list page 1, POST https://www.mafra.go.kr/profl/home/10/artclList.do page=1, snapshot roster/sources/agriculture/mafra_past_ministers_list_p1.html (accessed 2026-09-24T22:47:49-0400). Row: '66대 장관 정황근 2022.05.10 ~ 2023.12.28'",
+        "[verifier] 농민신문 2023-12-28 17:49:01 '정황근 농식품부 장관 이임식 “1년 8개월간 많은 지원 보내준 농민들과 직원들께 감사”', https://n.news.naver.com/mnews/article/662/0000034788, snapshot roster/sources/agriculture/verify/naver/naver_662_0000034788.html (accessed 2026-09-25T13:12:55-0400). Quote: '28일 농림축산식품부는 정부세종청사 대강당에서 ‘제66대 정황근 농식품부 장관 이임식’을 열었다.'",
+        "[verifier] BigKinds metadata: KBS 2023-12-29 '윤 대통령, 최상목 기재부 장관 등 장관급 5명 임명' (news_id 08100101.20231229211442001). Quote: '윤석열 대통령이 장관급 인사 5명을 오늘(29일)자로 임명했습니다'. Search '송미령 임명' 2023-12-28..2023-12-31, snapshot roster/sources/agriculture/verify/bigkinds/bk_smr_start2_2023-12-28_2023-12-31_f2151823.json (accessed 2026-09-25T21:51:26-0400)",
+        "[verifier] 뉴시스 2024-02-21 11:09:16 '국민의힘 천안을 정황근, 이정만에게 \"공정 경선\" 제안', https://n.news.naver.com/mnews/article/003/0012384168, snapshot roster/sources/agriculture/verify/naver/naver_003_0012384168.html (accessed 2026-09-25T21:53:58-0400). Quote: '국민의힘 소속으로 충남 천안을 출마를 선언한 정황근 전 농림축산식품부 장관이'",
+        "[verifier] 매일경제 2024-03-10 17:38:06 '이영·정황근 前장관 본선행 무산', https://n.news.naver.com/mnews/article/009/0005270031, snapshot roster/sources/agriculture/verify/naver/naver_009_0005270031.html (accessed 2026-09-25T21:53:53-0400). Quote: '정황근 전 농림축산식품부 장관의 본선행이 무산됐다'"
+      ],
+      "end_reason": "resigned_to_run",
+      "appointing_president": "윤석열",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "24 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2022-05-16, last 2023-12-20. 3 rows of invalid types (국정조사, 국회본회의, 예산결산특별위원회) ignored, dates 2015-02-16, 2016-12-06, 2017-07-18 (misattached content per the audit caveat).",
+      "notes": "Replaced in the 2023-12-04 reshuffle. 이임식 on 2023-12-28 and the ministry page ends his tenure on 2023.12.28, while the successor's appointment runs from 2023-12-29. End set to the successor's appointment date. He left to run in the 2024-04-10 general election in 천안 (파이낸셜뉴스 2023-12-28), so end_reason could be recoded resigned_to_run. [verifier] end_reason recoded from replaced to resigned_to_run. He left in the 2023-12-04 reshuffle and ran for the 국민의힘 nomination in 충남 천안을 for the 2024-04-10 general election (뉴시스 2024-02-21, 예비후보), losing the primary (매일경제 2024-03-10). He was not a sitting NA member, so leaving the cabinet was required to run, which is how the other lineages code the non-MP ministers of the same reshuffle (sme 이영, industry 방문규, veterans 박민식, land 원희룡)."
+    },
+    {
+      "name": "송미령",
+      "name_hanja": "宋美玲",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1967-06-09",
+      "gender": "F",
+      "ministry": "농림축산식품부",
+      "office_title": "농림축산식품부장관",
+      "deputy_pm": false,
+      "start": "2023-12-29",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제20661호 (published 2024-01-05), 인사 item toc_seq I0000000000000001703827582647000, text: '송미령(宋美玲) 국무위원에 임함 농림축산식품부장관에 보함 2023. 12. 29.'. roster/sources/agriculture/gazette_20661_I0000000000000001703827582647000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001704262361700000&tocId=I0000000000000001703827582647000&isTocOrder=N (accessed 2026-09-24T22:54:47-0400)",
+        "뉴스1 2023-12-29 09:50 '윤 대통령, 최상목·송미령·강도형·오영주·김홍일 임명 재가(종합)', https://n.news.naver.com/mnews/article/421/0007260478, snapshot roster/sources/agriculture/naver_421_0007260478.html (accessed 2026-09-25T13:23:15-0400). Quote: '윤석열 대통령은 29일 ... 송미령 농림축산식품부 장관 ... 을 임명했다 ... 이들 임기는 이날(29일)부터 시작된다'",
+        "농림축산식품부 장관 소개, https://www.mafra.go.kr/home/5304/subview.do, snapshot roster/sources/agriculture/mafra_5304.html (accessed 2026-09-24T22:47:16-0400). Row: '농림축산식품부 장관 송미령 ... 2023년 12월 ∼ 현재 농림축산식품부 제67대 장관'",
+        "[verifier] 관보 re-read by the verifier in harvest/gazette_text/20240105_20661_I0000000000000001703827582647000.txt (agriculture_v06_gazette_corpus.py, output roster/sources/agriculture/verify/gazette_corpus_hits_v06.json): '송미령(宋美玲) 국무위원에 임함 농림축산식품부장관에 보함 2023. 12. 29.'",
+        "[verifier] BigKinds metadata: KBS 2023-12-29 '윤 대통령, 최상목 기재부 장관 등 장관급 5명 임명' (news_id 08100101.20231229211442001). Quote: '윤석열 대통령이 장관급 인사 5명을 오늘(29일)자로 임명했습니다'. Search '송미령 임명' 2023-12-28..2023-12-31, snapshot roster/sources/agriculture/verify/bigkinds/bk_smr_start2_2023-12-28_2023-12-31_f2151823.json (accessed 2026-09-25T21:51:26-0400)"
+      ],
+      "end": null,
+      "end_confidence": "high",
+      "end_sources": [
+        "연합뉴스 2026-09-24 13:00 '송미령 농식품장관, 추석 연휴 충남 일대 방역 점검', https://www.yna.co.kr/view/AKR20260924027800030, snapshot roster/sources/agriculture/yna_AKR20260924027800030.html (accessed 2026-09-24T22:48:35-0400). Quote: '송미령 농림축산식품부 장관은 24일 충남도청 재난상황실과 충남 당진시 거점소독시설을 방문해'",
+        "농림축산식품부 장관 소개, https://www.mafra.go.kr/home/5304/subview.do, snapshot roster/sources/agriculture/mafra_5304.html (accessed 2026-09-24T22:47:16-0400). Row: '농림축산식품부 장관 송미령 ... 2023년 12월 ∼ 현재'",
+        "연합뉴스 2026-08-30 16:23 '2기내각, 강경파·친문·범여권 전진배치…', https://www.yna.co.kr/view/AKR20260830037900001, snapshot roster/sources/agriculture/yna_AKR20260830037900001.html (accessed 2026-09-24T22:48:56-0400). The six nominees named on 2026-08-30 (재정경제·법무·국방·성평등가족·국토교통·중소벤처기업) do not include agriculture",
+        "연합뉴스 2026-06-21 16:11 '靑 개편에 2기 개각도 가시화…한성숙 청문정국 후 본격화할 듯', https://www.yna.co.kr/view/AKR20260621033700001, snapshot roster/sources/agriculture/recheck/yna_AKR20260621033700001.html (accessed 2026-09-24T22:48:36-0400). Quote: '이 대통령은 앞서 1기 내각을 구성하면서 전임 정부 출신인 송미령 농림축산식품부 장관을 유임했고'",
+        "[verifier] BigKinds metadata: 조선일보 2025-06-27 '송미령 “다른 작물로 바꾸면 인센티브”... 양곡법 절충안 제시' (news_id 01100801.20250627224608001). Quote: '이재명 대통령의 유임 결정으로 장관직을 유지하게 된 송미령 농림축산식품부 장관이'. Search '송미령 유임' 2025-06-20..2025-06-27, snapshot roster/sources/agriculture/verify/bigkinds/bk_smr_2025_2025-06-20_2025-06-27_7950ec71.json (accessed 2026-09-25T21:51:38-0400)",
+        "[verifier] BigKinds metadata: 이투데이 2026-08-31 '송미령 장관, 李 ‘실용주의 인사’ 상징으로…역대 2위 장수 農장관 유력' (news_id 02100351.20260831171139001). Quote: '2기 개각, 6개 부처 장관 교체 속 생존'. Search '농식품부 장관 후보자' 2026-01-01..2026-09-24, snapshot roster/sources/agriculture/verify/bigkinds/bk_agri_2026_2026-01-01_2026-09-24_3ac91afa.json (accessed 2026-09-25T21:51:50-0400)",
+        "[verifier] BigKinds metadata: 부산일보 2026-09-24 '송미령 장관, 충남 일대 가축 전염병 방역 점검' (news_id 01500701.20260924131857001). Quote: '송미령 농림축산식품부 장관이 24일 충남도청 재난상황실과 충남 당진시 거점소독시설을 방문해'. Search '송미령 장관' 2026-09-15..2026-09-24, snapshot roster/sources/agriculture/verify/bigkinds/bk_smr_now_2026-09-15_2026-09-24_11c371a9.json (accessed 2026-09-25T21:49:26-0400)"
+      ],
+      "end_reason": "in_office",
+      "appointing_president": "윤석열",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "12 valid-type minister rows (상임위원회/국정감사/인사청문특별위원회) inside this spell, first 2024-02-01, last 2024-12-26. 3 rows of invalid types (국회본회의, 예산결산특별위원회) ignored, dates 2022-11-23, 2023-01-30, 2024-12-02 (misattached content per the audit caveat).",
+      "notes": "First woman to head the ministry. Retained by 이재명: the 유임 was announced on 2025-06-23 (뉴스1 2025-06-23 22:49, roster/sources/agriculture/naver_421_0008328186.html: '이날 발표된 송미령 농림축산식품부 장관 유임 결정') and she attended her first 국무회의 after retention on 2025-06-24 (연합뉴스 2025-06-24 15:32, roster/sources/agriculture/naver_001_0015467461.html). No new appointment notice: the 관보 cabinet notices for 2025-06-01..2025-07-31 contain no 농림 item (agriculture_10_recent.py). Spell not split at the 2025-06-04 transition (done in code later). A second source for the retention is 연합뉴스 2026-06-21 (see end_sources). 연합뉴스 search (last 12 months, queries '농식품부 장관 후보자', '농림축산식품부 장관 후보자', '송미령 교체', '송미령 사의', '송미령 장관', run 2026-09-25) shows no agriculture nomination, and her last dated activity in the window is 2026-09-24."
+    }
+  ],
+  "nominations": [
+    {
+      "nominee": "김성훈",
+      "office_title": "농림부장관",
+      "nomination_date": "1998-03-03",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "1998-03-03",
+      "sources": [
+        "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎', https://n.news.naver.com/mnews/article/001/0004368749, snapshot roster/sources/agriculture/naver_001_0004368749.html (accessed 2026-09-24T22:44:23-0400). Quote: '3일오전 `국민의 정부' 초대 내각을 발표한 데 이어 오후 청와대 본관 세종실에서 신임 각료들에게 임명장을 수여했다'",
+        "BigKinds metadata: 중앙일보 1998-03-04 '새장관 6명 병역 미필' ('3일 임명된 김대중 정권의 초대 내각 장관'), 서울신문 1998-03-05 '남북 곡물 계약재배 추진/김성훈 농림 회견'; search snapshot roster/sources/agriculture/bigkinds_1998-03-02_1998-03-05_d18120b838.json (accessed 2026-09-24T22:49:25-0400)",
+        "[verifier] BigKinds metadata: 전북일보 1998-03-03 '金대통령, 첫 내각 발표' (news_id 01601101.19980303204646101). Quote: '金大中대통령은 3일 재경부장관에 李揆成전재무장관을'. Search '김성훈 농림부장관 임명' 1998-03-02..1998-03-05, snapshot roster/sources/agriculture/verify/bigkinds/bk_ksh_start_1998-03-02_1998-03-05_45e427a4.json (accessed 2026-09-25T21:44:22-0400)"
+      ],
+      "notes": "First 김대중 cabinet, announced and appointed on 1998-03-03. No 국무위원 hearing existed. [verifier] 조홍래 was reported in February 1998 as the rumoured choice for 농림부장관 ('후보로 거론되는', 중부매일 1998-02-25 via BigKinds, snapshot roster/sources/agriculture/verify/bigkinds/bk_lhg_end4_1998-02-25_1998-03-02_70642609.json). No announcement was made, so he is not a nomination."
+    },
+    {
+      "nominee": "한갑수",
+      "office_title": "농림부장관",
+      "nomination_date": "2000-08-07",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2000-08-07",
+      "sources": [
+        "BigKinds metadata: 국제신문 2000-08-08 '8개부처 장관 교체' ('김대중 대통령은 7일 ... 임명하는 등'), 파이낸셜뉴스 2000-08-08 '11개 부처 장관급 교체' (농림 한갑수), 중부매일 2000-08-08; search snapshot roster/sources/agriculture/bigkinds_2000-08-06_2000-08-09_9881504094.json (accessed 2026-09-24T22:49:47-0400)",
+        "[verifier] BigKinds metadata: 매일경제 2000-08-08 '[연합인터뷰] 한갑수 신임 농림부 장관(종합)' (news_id 02100101.20160115215558577). Quote: '7일 새 농림부 장관으로 임명된 한갑수(韓甲洙)'. Search '한갑수 농림' 2000-08-06..2000-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_hgs_start2_2000-08-06_2000-08-10_594b042c.json (accessed 2026-09-25T21:45:21-0400)"
+      ],
+      "notes": "8·7 개각. No 국무위원 hearing existed."
+    },
+    {
+      "nominee": "김동태",
+      "office_title": "농림부장관",
+      "nomination_date": "2001-09-07",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2001-09-07",
+      "sources": [
+        "관보 제14901호 (published 2001-09-13), 인사 item toc_seq 00000000000000001319017417050000, text: '◉2001년 9 월 7 일자 김 동 태(金 東 泰) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20010913_14901_00000000000000001319017417050000.txt and roster/sources/agriculture/gazette_14901_00000000000000001319017417050000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017397944000&tocId=00000000000000001319017417050000&isTocOrder=N (accessed 2026-09-24T22:43:59-0400)",
+        "BigKinds metadata: 동아일보 2001-09-07 '김대통령 5부장관 교체'; search snapshot roster/sources/agriculture/bigkinds_2001-09-03_2001-09-08_9881504094.json (accessed 2026-09-25T13:13:35-0400)"
+      ],
+      "notes": "9·7 개각. No 국무위원 hearing existed."
+    },
+    {
+      "nominee": "김영진",
+      "office_title": "농림부장관",
+      "nomination_date": "2003-02-27",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2003-02-27",
+      "sources": [
+        "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000, text: '◉2003년 2 월27일자 ... 김 영 진(金 泳 鎭) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt and roster/sources/agriculture/gazette_15338_00000000000000001319026541100000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)"
+      ],
+      "notes": "First 노무현 cabinet. No 국무위원 hearing existed."
+    },
+    {
+      "nominee": "허상만",
+      "office_title": "농림부장관",
+      "nomination_date": "2003-07-24",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2003-07-24",
+      "sources": [
+        "관보 제15458호 (published 2003-07-29), 인사 item toc_seq 00000000000000001319028367599000, text: '◉2003년 7 월24일자 허 상 만(許 祥 萬) 국무위원에 임함 농림부장관에 보함'. harvest/gazette_text/20030729_15458_00000000000000001319028367599000.txt and roster/sources/agriculture/gazette_15458_00000000000000001319028367599000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319028354374000&tocId=00000000000000001319028367599000&isTocOrder=N (accessed 2026-09-24T22:45:46-0400)",
+        "BigKinds metadata: 동아일보 2003-07-24 '새 농림장관에 허상만' ('노무현 대통령은 24일 ... 허상만 ... 교수를 임명했다'); search snapshot roster/sources/agriculture/bigkinds_2003-07-18_2003-07-24_b8b140bce8.json (accessed 2026-09-24T22:53:02-0400)"
+      ],
+      "notes": "No 국무위원 hearing existed. 민병채 had been reported as the choice on 2003-07-23 but was dropped before any announcement (영남일보, 광주일보 2003-07-24 via BigKinds), so it is not listed as a nomination."
+    },
+    {
+      "nominee": "박홍수",
+      "office_title": "농림부장관",
+      "nomination_date": "2005-01-04",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2005-01-05",
+      "sources": [
+        "부산일보 2005-01-04 12:12 '해양부 장관 오거돈씨 유력', https://n.news.naver.com/mnews/article/082/0000029356, snapshot roster/sources/agriculture/naver_082_0000029356.html (accessed 2026-09-25T13:10:00-0400). Quote: '노 대통령은 4일 오후 교육부총리를 비롯,6개 부처에 대한 중 폭 규모의 개각을 단행한다'",
+        "관보 제15892호 (published 2005-01-10), 인사 item toc_seq 00000000000000001319033474221000, text: '⊙2005년 1 월 5 일자 ... 박 홍 수(朴 弘 綏) 국무위원에 임함 농림부 장관에 보함'. harvest/gazette_text/20050110_15892_00000000000000001319033474221000.txt and roster/sources/agriculture/gazette_15892_00000000000000001319033474221000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033464602000&tocId=00000000000000001319033474221000&isTocOrder=N (accessed 2026-09-24T22:48:02-0400)"
+      ],
+      "notes": "1·4 개각 announced 2005-01-04, appointment dated 2005-01-05 in the gazette. Before 국무위원 hearings began (2005-07-28)."
+    },
+    {
+      "nominee": "임상규",
+      "office_title": "농림부장관",
+      "nomination_date": "2007-08-08",
+      "request_date": "2007-08-17",
+      "likms_bill_id": "PRC_M0H7A0M8M1L7C1R3L4U6Z3Z2E3N3A3 (ZZ1869)",
+      "hearing_dates": [
+        "2007-08-29"
+      ],
+      "hearing_committee": "농림해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2007-08-31",
+      "sources": [
+        "머니투데이 2007-08-08 15:33 '농림장관에 임상규, 정통장관에 유영환씨', https://n.news.naver.com/mnews/article/008/0000815397, snapshot roster/sources/agriculture/naver_008_0000815397.html (accessed 2026-09-25T13:19:57-0400). Quote: '새 농림부 장관에는 임상규 국무조정실장을 내정하고'",
+        "likms ZZ1869, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M0H7A0M8M1L7C1R3L4U6Z3Z2E3N3A3, rendered text harvest/likms/PRC_M0H7A0M8M1L7C1R3L4U6Z3Z2E3N3A3.txt and roster/sources/agriculture/likms_detail_ZZ1869.txt (accessed 2026-09-24T22:53:38-0400). 회부 2007-08-17, 상정 2007-08-22, 처리 2007-08-29 경과보고서채택, 송부 2007-08-30.",
+        "inputs/nominee_hearing_meetings.csv: 2007-08-29 meeting 36154 '국무위원후보자(농림부장관 임상규)에 대한 인사청문회'",
+        "[verifier] BigKinds metadata: 중부일보 2007-08-08 '법무 정성진 농림 임상규 정통 유영환' (news_id 01400501.20070808205711001). Quote: '농림부장관에 임상규 국무조정실장(58)'. Search '임상규 농림부장관 내정' 2007-08-07..2007-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_lsg_nom_2007-08-07_2007-08-10_794f73d2.json (accessed 2026-09-25T21:58:59-0400)"
+      ],
+      "notes": "2007-08-22 committee meeting 상정 (plan). Hearing and report on 2007-08-29."
+    },
+    {
+      "nominee": "정운천",
+      "office_title": "농림부장관 (nominated by the 대통령당선인; appointed 농림수산식품부장관)",
+      "nomination_date": "2008-02-18",
+      "request_date": "2008-02-20",
+      "likms_bill_id": "PRC_S0F8W0H2S2Y0Q1Y5R3L8S5V2W1W9Q6 (ZZ1907)",
+      "hearing_dates": [
+        "2008-02-27"
+      ],
+      "hearing_committee": "농림해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2008-02-29",
+      "sources": [
+        "연합뉴스 2008-02-18 21:26 '정운천 농림부 장관 내정자', https://n.news.naver.com/mnews/article/001/0001964830, snapshot roster/sources/agriculture/naver_001_0001964830.html (accessed 2026-09-25T13:16:51-0400). Quote: '농림부 장관으로 내정된 정운천 한국참다래연합회장'",
+        "likms ZZ1907, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S0F8W0H2S2Y0Q1Y5R3L8S5V2W1W9Q6, rendered text harvest/likms/PRC_S0F8W0H2S2Y0Q1Y5R3L8S5V2W1W9Q6.txt and roster/sources/agriculture/likms_detail_ZZ1907.txt (accessed 2026-09-24T22:53:52-0400). 회부 2008-02-22, 상정 2008-02-26 (제7차 전체회의), 처리 2008-02-27 경과보고서채택, 송부 2008-02-28.",
+        "inputs/nominee_hearing_meetings.csv: 2008-02-27 meeting 36866 '국무위원후보자(농림부장관 정운천) 인사청문회' and '(계속)'"
+      ],
+      "notes": "Request filed under the 2007-12-14 당선인 hearing provision. The 2008-02-26 meeting only placed the item on the agenda."
+    },
+    {
+      "nominee": "장태평",
+      "office_title": "농림수산식품부장관",
+      "nomination_date": "2008-07-07",
+      "request_date": "2008-07-11",
+      "likms_bill_id": "PRC_A0L8W0Y7J1C1S1U7B3T5V3L1L0E7F3 (ZZ18008)",
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2008-08-06",
+      "sources": [
+        "이데일리 2008-07-07 14:46 '(프로필)장태평 농림수산식품부 장관 내정자', https://n.news.naver.com/mnews/article/018/0001995023, snapshot roster/sources/agriculture/naver_018_0001995023.html (accessed 2026-09-25T13:17:29-0400). Quote: '농림수산식품부 장관에 내정된 장태평 전 국가청렴위원회 사무처장은'",
+        "likms ZZ18008, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A0L8W0Y7J1C1S1U7B3T5V3L1L0E7F3, rendered text harvest/likms/PRC_A0L8W0Y7J1C1S1U7B3T5V3L1L0E7F3.txt and roster/sources/agriculture/likms_detail_ZZ18008.txt (accessed 2026-09-24T22:54:05-0400). 소관위원회 미확정, no review stages recorded.",
+        "아시아경제 2008-08-06 11:07 '靑, 3개부처 장관 내정자 임명 강행', https://n.news.naver.com/mnews/article/277/0002012624, snapshot roster/sources/agriculture/naver_277_0002012624.html (accessed 2026-09-25T13:05:38-0400). Quote: ''20일 이내(7월 30일 기한) 청문회를 실시해야 한다'는 규정을 지키지 못했다'",
+        "머니투데이 2008-08-06 07:30 '李대통령, 오늘 교육·농림·보건장관 임명 강행', https://n.news.naver.com/mnews/article/008/0002018159, snapshot roster/sources/agriculture/naver_008_0002018159.html (accessed 2026-09-25T13:06:04-0400). Quote: '국회가 법에 정해진 기한인 지난달 30일까지 신임 장관들에 대한 인사청문회를 열지 않은 만큼'",
+        "[verifier] BigKinds metadata: 경남신문 2008-08-07 '靑, 장관 3명 임명' (news_id 01500051.20160428121837393). Quote: '청와대는 국회 인사청문 경과보고서가 법정시한인 5일까지 도착하지 않음에 따라 안병만 교육과학기술부 장관, 장태평 농림수산식품부 장관, 전재희 보건복지가족부 장관을 6일 공식 임명했다'. Search '장태평 장관' 2008-08-05..2008-08-08, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_start2_2008-08-05_2008-08-08_51ca93a7.json (accessed 2026-09-25T21:47:09-0400)"
+      ],
+      "notes": "No hearing was held: the 18th NA had not formed its standing committees, the 20-day period ran out on 2008-07-30 and no report was sent. Appointed 2008-08-06 without a hearing."
+    },
+    {
+      "nominee": "유정복",
+      "office_title": "농림수산식품부장관",
+      "nomination_date": "2010-08-08",
+      "request_date": "2010-08-11",
+      "likms_bill_id": "PRC_Y1G0M0L8B1A1T1N9Q3F2H5X7O3X9Y1 (ZZ18101)",
+      "hearing_dates": [
+        "2010-08-23"
+      ],
+      "hearing_committee": "농림수산식품위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2010-08-30",
+      "sources": [
+        "디지털타임스 2010-08-09 08:30 '새 총리 48세 김태호 전 경남지사 내정', https://n.news.naver.com/mnews/article/029/0002029105, snapshot roster/sources/agriculture/naver_029_0002029105.html (accessed 2026-09-25T13:17:54-0400). Quote: '이명박 대통령은 8일 김태호 전 경남지사를 신임 국무총리에 내정하는 등 장관급 9명을 교체하는 개각을 단행했다 ... 농림 유정복'",
+        "likms ZZ18101, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Y1G0M0L8B1A1T1N9Q3F2H5X7O3X9Y1, rendered text harvest/likms/PRC_Y1G0M0L8B1A1T1N9Q3F2H5X7O3X9Y1.txt and roster/sources/agriculture/likms_detail_ZZ18101.txt (accessed 2026-09-24T22:54:19-0400). 회부 2010-08-11, 상정 2010-08-18, 처리 2010-08-24 경과보고서채택, 송부 2010-08-30.",
+        "inputs/nominee_hearing_meetings.csv: 2010-08-23 meeting 39684 '국무위원후보자(농림수산식품부장관 유정복) 인사청문회'"
+      ],
+      "notes": ""
+    },
+    {
+      "nominee": "서규용",
+      "office_title": "농림수산식품부장관",
+      "nomination_date": "2011-05-06",
+      "request_date": "2011-05-12",
+      "likms_bill_id": "PRC_B1C1S0B5U1O2R1X8Z3B1B0X6S7O3G7 (ZZ18142)",
+      "hearing_dates": [
+        "2011-05-23"
+      ],
+      "hearing_committee": "농림수산식품위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2011-06-02",
+      "sources": [
+        "연합뉴스 2011-05-06 20:05 '5개부처 개각단행..기재부장관에 박재완(종합)', https://n.news.naver.com/mnews/article/001/0005051230, snapshot roster/sources/agriculture/naver_001_0005051230.html (accessed 2026-09-25T13:18:21-0400). Quote: '농림수산식품부 장관에 서규용 전 농림부 차관을 내정하는 등 5개 부처에 대한 개각을 단행했다'",
+        "likms ZZ18142, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_B1C1S0B5U1O2R1X8Z3B1B0X6S7O3G7, rendered text harvest/likms/PRC_B1C1S0B5U1O2R1X8Z3B1B0X6S7O3G7.txt and roster/sources/agriculture/likms_detail_ZZ18142.txt (accessed 2026-09-24T22:54:32-0400). 회부 2011-05-12, 상정 2011-05-23, no 처리 recorded.",
+        "연합뉴스 2011-05-31 16:20 '국회 농식품위, 서규용 청문보고서 채택 불발', https://n.news.naver.com/mnews/article/001/0005090358, snapshot roster/sources/agriculture/naver_001_0005090358.html (accessed 2026-09-25T13:22:23-0400). Quote: '여야 이견으로 보고서 채택이 무산됐다'",
+        "inputs/nominee_hearing_meetings.csv: 2011-05-23 meeting 40632 '국무위원후보자(농림수산식품부장관 서규용) 인사청문회'",
+        "[verifier] BigKinds metadata: 서울신문 2011-06-01 '서규용 청문보고서 무산… 박재완은 채택' (news_id 01100611.20160420113540634). Quote: '서규용 농림수산식품부 장관 후보자에 대한 국회 인사청문회 경과보고서 채택이 결국 무산됐다'. Search '서규용 청문보고서' 2011-05-23..2011-06-03, snapshot roster/sources/agriculture/verify/bigkinds/bk_sgy_report_2011-05-23_2011-06-03_4042243f.json (accessed 2026-09-25T21:58:39-0400)",
+        "[verifier] BigKinds metadata: 프레시안 2011-06-02 'MB \"장관들은 국회 답변에서 당당하게 임하라\"' (news_id 04104008.20110602010220002). Quote: '이 중 서규용 농림수산식품부 장관 등은 국회에서 청문보고서가 채택되지 못했지만 임명을 강행한 것'. Search '서규용 청문보고서' 2011-05-23..2011-06-03, snapshot roster/sources/agriculture/verify/bigkinds/bk_sgy_report_2011-05-23_2011-06-03_4042243f.json (accessed 2026-09-25T21:58:39-0400)"
+      ],
+      "notes": ""
+    },
+    {
+      "nominee": "이동필",
+      "office_title": "농림수산식품부장관 (nominated by the 대통령당선인 as 농림축산부 장관)",
+      "nomination_date": "2013-02-17",
+      "request_date": "2013-02-20",
+      "likms_bill_id": "PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6 (ZZ19051)",
+      "hearing_dates": [
+        "2013-03-06"
+      ],
+      "hearing_committee": "농림수산식품위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2013-03-11",
+      "sources": [
+        "연합뉴스 2013-02-17 14:10 '농림축산부 장관 내정자 이동필 누구인가', https://n.news.naver.com/mnews/article/001/0006098284, snapshot roster/sources/agriculture/naver_001_0006098284.html (accessed 2026-09-25T13:18:43-0400). Quote: '17일 농림축산부 장관에 내정된 이동필 한국농촌경제연구원 원장'",
+        "likms ZZ19051, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6, rendered text harvest/likms/PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6.txt and roster/sources/agriculture/likms_detail_ZZ19051.txt (accessed 2026-09-24T22:54:45-0400). 회부 2013-02-20, meetings 2013-02-26 (제2차 청문회, 상정), 2013-03-06 (제3차 청문회), 2013-03-11 (제314회 제1차 청문회, 상정/의결 경과보고서채택).",
+        "inputs/nominee_hearing_meetings.csv: 2013-03-06 meeting 42543 '국무위원후보자(농림수산식품부장관 이동필) 인사청문회'"
+      ],
+      "notes": "Announced as 농림축산부 장관 before the reorganization law passed. The hearing itself was on 2013-03-06 (transcript), the 2013-02-26 meeting placed the item on the agenda."
+    },
+    {
+      "nominee": "김재수",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2016-08-16",
+      "request_date": "2016-08-19",
+      "likms_bill_id": "PRC_L1N6G0R8Q1Z9T1D2K4Y0N2S7B4Z6H6 (ZZ20014)",
+      "hearing_dates": [
+        "2016-09-01"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2016-09-05",
+      "sources": [
+        "서울신문 2016-08-16 10:41 '‘농림축산식품부 장관 내정’ 김재수는 누구? “농업분야 공직만 30년”', https://n.news.naver.com/mnews/article/081/0002747655, snapshot roster/sources/agriculture/naver_081_0002747655.html (accessed 2026-09-25T13:19:17-0400). Quote: '16일 발표된 개각에서 농림축산식품부 장관으로 내정된 김재수'",
+        "likms ZZ20014, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L1N6G0R8Q1Z9T1D2K4Y0N2S7B4Z6H6, rendered text harvest/likms/PRC_L1N6G0R8Q1Z9T1D2K4Y0N2S7B4Z6H6.txt and roster/sources/agriculture/likms_detail_ZZ20014.txt (accessed 2026-09-24T22:54:59-0400). 회부 2016-08-19, 상정 2016-08-25, 처리 2016-09-01 경과보고서채택.",
+        "뉴스1 2016-09-05 17:08 '野3당, 김재수 해임건의안 제출키로…조윤선 제외(종합)', https://n.news.naver.com/mnews/article/421/0002263276, snapshot roster/sources/agriculture/naver_421_0002263276.html (accessed 2026-09-25T13:22:50-0400). Quote: '박근혜 대통령이 국회가 '부적격' 의견의 인사청문경과보고서를 채택했음에도 불구하고 임명을 강행한 것'",
+        "inputs/nominee_hearing_meetings.csv: 2016-09-01 meeting 46361 '국무위원후보자(농림축산식품부장관 김재수) 인사청문회'",
+        "[verifier] BigKinds metadata: 한국경제 2016-09-05 '야 3당 \"김재수 장관 해임건의안 제출\"' (news_id 02100601.20160905192404447). Quote: '‘부적격 의견’을 담은 청문보고서를 채택했다'. Search '김재수 청문보고서' 2016-09-01..2016-09-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_report_2016-09-01_2016-09-06_d84dbe99.json (accessed 2026-09-25T21:58:49-0400)",
+        "[verifier] BigKinds metadata: 중앙일보 2016-09-05 '항저우 간 박 대통령, 전자결재로 장관 3명 임명' (news_id 01100901.20160905203314003). Quote: '박 대통령의 임명은 이날 오전 전자결재를 통해 이뤄졌다'. Search '김재수 청문보고서' 2016-09-01..2016-09-06, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjs_report_2016-09-01_2016-09-06_d84dbe99.json (accessed 2026-09-25T21:58:49-0400)"
+      ],
+      "notes": "Report adopted with an '부적격' (unfit) opinion, then appointed. [verifier] The 임명 was approved by 전자결재 on 2016-09-04 (중앙일보 2016-09-05). The 관보 date 2016-09-05 is used as outcome_date."
+    },
+    {
+      "nominee": "김영록",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2017-06-13",
+      "request_date": "2017-06-15",
+      "likms_bill_id": "PRC_P1Q7R0R6M1P5E1J9G3B2E3R1B0F0M4 (ZZ20057)",
+      "hearing_dates": [
+        "2017-06-28"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2017-07-03",
+      "sources": [
+        "연합뉴스 2017-06-13 14:23 '김영록 농식품부 장관 후보자…행정·의정 경험에 정무감각 겸비', https://n.news.naver.com/mnews/article/001/0009333045, snapshot roster/sources/agriculture/naver_001_0009333045.html (accessed 2026-09-25T13:20:13-0400). Quote: '13일 농림축산식품부 장관에 지명된 김영록 전 더불어민주당 의원'",
+        "likms ZZ20057, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_P1Q7R0R6M1P5E1J9G3B2E3R1B0F0M4, rendered text harvest/likms/PRC_P1Q7R0R6M1P5E1J9G3B2E3R1B0F0M4.txt and roster/sources/agriculture/likms_detail_ZZ20057.txt (accessed 2026-09-24T22:55:12-0400). 회부 2017-06-16, meetings 2017-06-22 (상정), 2017-06-28, 2017-06-29 (상정/의결 경과보고서채택).",
+        "inputs/nominee_hearing_meetings.csv: 2017-06-28 meeting 47192 '국무위원후보자(농림축산식품부장관 김영록) 인사청문회'"
+      ],
+      "notes": ""
+    },
+    {
+      "nominee": "이개호",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2018-07-26",
+      "request_date": "2018-07-30",
+      "likms_bill_id": "PRC_W1H8W0Y7J3G0W1K7P2X2G0G7B8H1M9 (ZZ20220)",
+      "hearing_dates": [
+        "2018-08-09"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2018-08-10",
+      "sources": [
+        "연합뉴스 2018-07-26 17:00 '농림축산식품부 장관에 이개호…文정부 2기 내각 첫인선', https://n.news.naver.com/mnews/article/001/0010235824, snapshot roster/sources/agriculture/naver_001_0010235824.html (accessed 2026-09-25T13:20:41-0400). Quote: '문재인 대통령은 26일 농림축산식품부 장관으로 더불어민주당 이개호(59) 의원을 지명했다'",
+        "likms ZZ20220, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W1H8W0Y7J3G0W1K7P2X2G0G7B8H1M9, rendered text harvest/likms/PRC_W1H8W0Y7J3G0W1K7P2X2G0G7B8H1M9.txt and roster/sources/agriculture/likms_detail_ZZ20220.txt (accessed 2026-09-24T22:55:26-0400). 회부 2018-07-31, 상정 2018-08-09, 처리 2018-08-09 채택 (제362회 제3차 청문회).",
+        "inputs/nominee_hearing_meetings.csv: 2018-08-09 meeting 48222 '국무위원후보자(농림축산식품부장관 이개호) 인사청문회'",
+        "[verifier] BigKinds metadata: 부산일보 2018-07-27 '이개호 농식품부 장관 후보자 \"모든 농정 농업인 시각에서 정책수립\"' (news_id 01500701.20180727155027001). Quote: '26일자로 농림축산식품부 장관 후보자로 지명 받은 이개호 국회의원은'. Search '이개호 농림축산식품부 장관 지명' 2018-07-25..2018-07-28, snapshot roster/sources/agriculture/verify/bigkinds/bk_lgh_nom_2018-07-25_2018-07-28_8b42f67c.json (accessed 2026-09-25T21:59:13-0400)"
+      ],
+      "notes": ""
+    },
+    {
+      "nominee": "김현수",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2019-08-09",
+      "request_date": "2019-08-14",
+      "likms_bill_id": "PRC_P1L9P0J8A1P4R1M3B3A9Y5H7L3X0N2 (ZZ20281)",
+      "hearing_dates": [
+        "2019-08-29"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2019-08-31",
+      "sources": [
+        "SBS 2019-08-09 10:02 '[영상] 법무 조국·과기 최기영·여성 이정옥·농림 김현수…개각 발표', https://n.news.naver.com/mnews/article/055/0000750927, snapshot roster/sources/agriculture/naver_055_0000750927.html (accessed 2026-09-25T13:21:09-0400). Quote: '농림축산식품부 장관 후보자엔 김현수 현 농림축산식품부 차관이 승진 지명됐습니다'",
+        "likms ZZ20281, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_P1L9P0J8A1P4R1M3B3A9Y5H7L3X0N2, rendered text harvest/likms/PRC_P1L9P0J8A1P4R1M3B3A9Y5H7L3X0N2.txt and roster/sources/agriculture/likms_detail_ZZ20281.txt (accessed 2026-09-24T22:55:40-0400). 회부 2019-08-16, 상정 2019-08-21 (실시계획), 처리 2019-08-29 경과보고서채택.",
+        "inputs/nominee_hearing_meetings.csv: 2019-08-29 meeting 49350 '국무위원후보자(농림축산식품부장관 김현수) 인사청문회'"
+      ],
+      "notes": "SBS calls him the current 차관, 세계일보 (2019-08-09) the former 차관."
+    },
+    {
+      "nominee": "정황근",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2022-04-14",
+      "request_date": "2022-04-19",
+      "likms_bill_id": "PRC_D2H2N0V4W1V9O1T7W2Q3K4N4K1E2R4 (ZZ21110)",
+      "hearing_dates": [
+        "2022-05-06"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2022-05-10",
+      "sources": [
+        "연합뉴스 2022-04-14 14:06 '尹당선인, 농림 정황근·노동 이정식 장관 후보 지명', https://n.news.naver.com/mnews/article/001/0013113878, snapshot roster/sources/agriculture/naver_001_0013113878.html (accessed 2026-09-25T13:21:31-0400). Quote: '윤석열 대통령 당선인은 14일 농림축산식품부 장관에 정황근 전 농촌진흥청장 ... 을 각각 지명했다'",
+        "likms ZZ21110, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D2H2N0V4W1V9O1T7W2Q3K4N4K1E2R4, rendered text harvest/likms/PRC_D2H2N0V4W1V9O1T7W2Q3K4N4K1E2R4.txt and roster/sources/agriculture/likms_detail_ZZ21110.txt (accessed 2026-09-24T22:55:54-0400). 회부 2022-04-20, 2022-04-26 실시계획서 채택, 2022-05-06 인사청문회, 2022-05-09 경과보고서 채택.",
+        "inputs/nominee_hearing_meetings.csv: 2022-05-06 meeting 051872 '국무위원후보자(농림축산식품부장관 정황근) 인사청문회'",
+        "[verifier] BigKinds metadata: 경남일보 2022-04-14 '윤석열 당선인, 농림 정황근·노동 이정식 장관 후보 지명' (news_id 01500101.20220414012657003). Quote: '윤석열 대통령 당선인은 14일 농림축산식품부 장관에 정황근 전 농촌진흥청장'. Search '정황근 농림축산식품부 장관 후보' 2022-04-13..2022-04-15, snapshot roster/sources/agriculture/verify/bigkinds/bk_jhg_nom_2022-04-13_2022-04-15_2630aa05.json (accessed 2026-09-25T21:59:31-0400)"
+      ],
+      "notes": "Nominated by the 대통령당선인."
+    },
+    {
+      "nominee": "송미령",
+      "office_title": "농림축산식품부장관",
+      "nomination_date": "2023-12-04",
+      "request_date": "2023-12-07",
+      "likms_bill_id": "PRC_R2P3K1O2M0F7Z1S8D5B9N3T0Y7S4O7 (ZZ21179)",
+      "hearing_dates": [
+        "2023-12-18"
+      ],
+      "hearing_committee": "농림축산식품해양수산위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2023-12-29",
+      "sources": [
+        "파이낸셜뉴스 2023-12-04 15:04 '[프로필]송미령 농식품부 장관 후보자...부처 첫 여성 장관', https://n.news.naver.com/mnews/article/014/0005109829, snapshot roster/sources/agriculture/naver_014_0005109829.html (accessed 2026-09-25T13:21:55-0400). Quote: '송미령 한국농촌경제연구원 선임연구원이 윤석열 정부의 두번째 농림축산식품부 장관 후보자로 지명됐다'",
+        "likms ZZ21179, https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_R2P3K1O2M0F7Z1S8D5B9N3T0Y7S4O7, rendered text harvest/likms/PRC_R2P3K1O2M0F7Z1S8D5B9N3T0Y7S4O7.txt and roster/sources/agriculture/likms_detail_ZZ21179.txt (accessed 2026-09-24T22:56:07-0400). 회부 2023-12-08, 2023-12-12 실시계획서 채택, 2023-12-18 인사청문회, no 처리 recorded.",
+        "시사저널 2023-12-29 10:20 '尹대통령, 최상목·송미령·강도형·오영주·김홍일 임명', https://n.news.naver.com/mnews/article/586/0000070255, snapshot roster/sources/agriculture/naver_586_0000070255.html (accessed 2026-09-25T13:23:16-0400). Quote: '송미령 농림부 장관, 강도형 해수부 장관, 오영주 중기부 장관에 대한 청문보고서는 여야 이견으로 채택이 불발됐다'",
+        "inputs/nominee_hearing_meetings.csv: 2023-12-18 meeting 053678 '국무위원후보자(농림축산식품부장관 송미령) 인사청문회'",
+        "[verifier] BigKinds metadata: 동아일보 2023-12-30 '청문보고서 채택없이… 尹, 장관급 임명 24명째' (news_id 01100401.20231230014214001). Quote: '이날 임명된 장관급 5명 중 국회 인사청문보고서가 채택된 건 최 부총리 한 명이다'. Search '송미령 임명' 2023-12-28..2023-12-31, snapshot roster/sources/agriculture/verify/bigkinds/bk_smr_start2_2023-12-28_2023-12-31_f2151823.json (accessed 2026-09-25T21:51:26-0400)"
+      ],
+      "notes": "Appointed after the report deadline passed without a report. No agriculture nomination was made from 2024 through 2026-09-24: 송미령 was retained on 2025-06-23 without a new nomination, and the 연합뉴스 search API (last 12 months) shows no 농림축산식품부 장관 후보자 story."
+    }
+  ],
+  "acting": [
+    {
+      "name": "김정호",
+      "role": "농림부 차관, acting head during the vacancy after 김영진's resignation was accepted on the morning of 2003-07-18 until 허상만 was appointed on 2003-07-24 (직무대행 by 정부조직법 제7조, not explicitly labelled 직무대행 in the sources found)",
+      "from": "2003-07-19",
+      "to": "2003-07-23",
+      "sources": [
+        "관보 제15340호 (published 2003-03-07), harvest/gazette_text/20030307_15340_00000000000000001319026570332000.txt: '◉2003년 3 월 3 일자 ... 김 정 호(金 正 鎬) 농림부차관에 임함'. viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026557356000&tocId=00000000000000001319026570332000&isTocOrder=N (accessed 2026-09-24T22:44:36-0400)",
+        "파이낸셜뉴스 2003-07-20 17:30 '농림부장관 21일 발표', https://n.news.naver.com/mnews/article/014/0000077492, snapshot roster/sources/agriculture/naver_014_0000077492.html (accessed 2026-09-25T13:15:36-0400). Quote: '청와대는 특히 김정호 농림부 차관이 대구 출신인 점 등을 감안'",
+        "연합뉴스 2003-07-24 16:15 '국회 농해수산위', https://n.news.naver.com/mnews/article/001/0000418861, snapshot roster/sources/agriculture/naver_001_0000418861.html (accessed 2026-09-25T13:16:01-0400). Quote: '24일 오후 국회 농해수위 전체회의에 참석한 ... 김정호농림부 차관'",
+        "[verifier] BigKinds metadata: 전북도민일보 2003-07-25 '새만금공사 빨리 끝내라' (news_id 01601001.20030725063535001). Quote: '국회 농림해양수산위는 24일 김정호 농림차관을 출석시킨 가운데 전체회의를 열고'. Search '김정호 차관' 2003-07-18..2003-07-25, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjh_acting_2003-07-18_2003-07-25_705e79cf.json (accessed 2026-09-25T21:56:45-0400)",
+        "[verifier] BigKinds metadata: 한국일보 2003-07-18 '농림부, 휴일 근무… 차관은 辭意 접어' (news_id 01101101.20030718000000302). Quote: '김 차관은 그러나 주변의 만류로 사퇴 의사를 접고 간부회의를 주재하는 등'. Search '김정호 차관' 2003-07-18..2003-07-25, snapshot roster/sources/agriculture/verify/bigkinds/bk_kjh_acting_2003-07-18_2003-07-25_705e79cf.json (accessed 2026-09-25T21:56:45-0400)"
+      ]
+    },
+    {
+      "name": "김현수",
+      "role": "농림축산식품부 차관 장관 직무대행, during the vacancy after 김영록 left on 2018-03-15 to run for 전남지사 until 이개호 was appointed on 2018-08-10 (end of the acting period inferred from that appointment)",
+      "from": "2018-03-16",
+      "to": "2018-08-09",
+      "sources": [
+        "BigKinds metadata: 헤럴드경제 2018-04-04 '김현수 농식품부 차관 \"김포 구제역 추가 확산방지 총력\"' ('장관 직무대행 중인 김현수 농림축산식품부 차관은 4일'); 파이낸셜뉴스 2018-04-23 '농업 현안 쌓이는데.. 농식품부, 장관 인선 지연에 어수선' ('차관 대행 정책수행에 한계'); search snapshot roster/sources/agriculture/bigkinds_2018-03-15_2018-08-10_d452e42329.json (accessed 2026-09-24T22:52:44-0400)",
+        "관보 제19324호 (published 2018-08-23), 인사 item toc_seq 00000000000000001534834134858000, text: '이개호(李介昊) 국무위원에 임함 농림축산식품부장관에 보함 2018.8.10.'. harvest/gazette_text/20180823_19324_00000000000000001534834134858000.txt and roster/sources/agriculture/gazette_19324_00000000000000001534834134858000.pdf; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001534834129998000&tocId=00000000000000001534834134858000&isTocOrder=N (accessed 2026-09-24T22:52:52-0400)",
+        "inputs/minister_role_meetings.csv (kr-hearings-data v9), role minister_acting, speaker '농림축산식품부장관직무대리 김현수' in 농림축산식품해양수산위원회 상임위원회 meetings 48137 (2018-05-16) and 48202 (2018-07-24)",
+        "[verifier] BigKinds metadata: 광주매일신문 2018-03-28 'aT, 농식품 청년해외개척단 3-4기 발대식' (news_id 01600201.20180328004101002). Quote: '농림축산식품부(농식품부, 장관 직무대행 김현수)'. Search '김현수 직무대행' 2018-03-16..2018-08-10, snapshot roster/sources/agriculture/verify/bigkinds/bk_khs_acting_2018-03-16_2018-08-10_b8f4ec97.json (accessed 2026-09-25T21:56:59-0400)"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "severity": "low",
+      "desc": "Continuity check (per ministry chain, day level): same-day handover 1998-03-03 이효계 -> 김성훈; same-day handover 2000-08-07 김성훈 -> 한갑수; same-day handover 2001-09-07 한갑수 -> 김동태; same-day handover 2003-02-27 김동태 -> 김영진; vacancy 2003-07-19..2003-07-23 (5 days) between 김영진 (농림부) and 허상만 (농림부); same-day handover 2005-01-05 허상만 -> 박홍수; same-day handover 2007-08-31 박홍수 -> 임상규; consecutive days 2008-02-28 -> 2008-02-29 임상규 (농림부) -> 정운천 (농림수산식품부) at the legal reorganization; same-day handover 2008-08-06 정운천 -> 장태평; same-day handover 2010-08-30 장태평 -> 유정복; same-day handover 2011-06-02 유정복 -> 서규용; same-day handover 2013-03-11 서규용 -> 이동필; consecutive days 2013-03-22 -> 2013-03-23 이동필 (농림수산식품부) -> 이동필 (농림축산식품부) at the legal reorganization; same-day handover 2016-09-05 이동필 -> 김재수; same-day handover 2017-07-03 김재수 -> 김영록; vacancy 2018-03-16..2018-08-09 (147 days) between 김영록 (농림축산식품부) and 이개호 (농림축산식품부); same-day handover 2019-08-31 이개호 -> 김현수; same-day handover 2022-05-10 김현수 -> 정황근; same-day handover 2023-12-29 정황근 -> 송미령. The two vacancies are covered by the acting records. No overlaps."
+    },
+    {
+      "severity": "low",
+      "desc": "Transcript completeness check: every person appearing as a 농림부/농림수산식품부/농림축산식품부 장관 in valid-type meetings of inputs/minister_role_meetings.csv has a spell here (OCR variants 박홍식 2005-09-22 and 박흥수 2005-11-01 are 박홍수). Rows labelled minister but belonging to officials (이봉하, 이정렬 of 구리농수산물도매시장관리공사, 강준석 어업자원관, 나승렬 소비안전정책관, 유원상 장관실) are not ministers. coverage_gaps.csv leads for this lineage (김성훈, 한갑수, 김동태 absent from the old panel, 송미령 2024, and the partially-outside rows) are all inside the spells above. Rows of invalid types (국회본회의, 예산결산특별위원회, 국정조사) that fall outside spells are misattached content, see each spell's transcript_notes."
+    },
+    {
+      "severity": "medium",
+      "desc": "임상규 (농림부장관 to 2008-02-28) was kept as a 국무위원 without portfolio after 농림부 was abolished, to reach the quorum of the first 이명박 국무회의 on 2008-03-03 (조세일보 2008-02-29, roster/sources/agriculture/naver_123_0001938616.html). The end of that residual status was not researched. It is not a spell of this lineage, but the orchestrator may need it for a 국무위원-level panel."
+    },
+    {
+      "severity": "medium",
+      "desc": "장태평 start (2008-08-06) rests on wire reports of the 임명장 ceremony plus the ministry page. No 관보 notice was found in the category-19 index or in whole regular issues 2008-08-07..2008-08-29. It may sit in a 호외 or a later issue. The complete harvested corpus (checked again after GAZETTE_DONE) contains 張太平 only as a civil servant (2002-04-22, 2005-09-07, 2006-07-13) and as 국가청렴위원회 상임위원 (관보 제16354호, 2006-10-11), never as 농림수산식품부장관."
+    },
+    {
+      "severity": "low",
+      "desc": "Three exits have the 이임식 one day before the successor's appointment (유정복 2011-06-01, 이개호 2019-08-30, 정황근 2023-12-28). The legal exit date was not found, so the end is set to the successor's appointment date (inferred_from_successor). The ministry page agrees for 유정복 and 이개호 but gives 2023.12.28 for 정황근."
+    },
+    {
+      "severity": "low",
+      "desc": "The ministry 역대장관 page (mafra.go.kr) gives 김재수's end as 2017.06.30 and 허상만's as 2005.01.04. News places 김재수's 이임식 as 장관 on 2017-07-03, the day his successor was appointed. The build uses 2017-07-03 (medium) and 2005-01-05 (inferred)."
+    },
+    {
+      "severity": "low",
+      "desc": "ko.wikipedia list dates that the gazette contradicts: 김영진 start 2003-02-28 (gazette 2003-02-27), 유정복 start 2010-08-31 (gazette 2010-08-30), 이개호 start 2018-08-09 (gazette 2018-08-10), 이동필 end 2016-09-04 (successor 2016-09-05), 김성훈 end 2000-08-06 (successor 2000-08-07). The gazette dates are used."
+    },
+    {
+      "severity": "low",
+      "desc": "이효계 (pre-window start): the 8·5 개각 was announced on 1997-08-05 and the 임명장 was given on 1997-08-06. Start set to 1997-08-06 (medium). This only affects the pre-window part of a holdover spell."
+    },
+    {
+      "severity": "low",
+      "desc": "박홍수 hanja: gazette 제15892호 prints 朴弘綏, na_members_15_22.csv and ko.wikipedia give 朴弘綬. Gazette form kept in name_hanja."
+    },
+    {
+      "severity": "low",
+      "desc": "정황근 left office to run in the 2024-04-10 general election, but he was replaced through the 2023-12-04 reshuffle rather than by a reported resignation. end_reason is 'replaced'. Recode to resigned_to_run if that category is defined by motive. [verifier] Resolved: recoded to resigned_to_run (see verification.changes)."
+    },
+    {
+      "severity": "low",
+      "desc": "농림수산식품부 (2008-02-29..2013-03-22) also held the fisheries portfolio (offices.json lineage_overlaps). The five spells under that name (정운천, 장태평, 유정복, 서규용, and the first 이동필 spell) are also the heads of the oceans lineage's fisheries part."
+    },
+    {
+      "severity": "low",
+      "desc": "likms records are ambiguous for two reports: ZZ18142 (서규용) shows no 처리결과, and news confirms the report was not adopted. ZZ20014 (김재수) shows 경과보고서채택, and news confirms it was adopted with an unfit opinion."
+    },
+    {
+      "severity": "low",
+      "desc": "The 관보 harvest is now complete (harvest/GAZETTE_DONE written 2026-09-25T13:06:46-0400, 2,709 인사 item texts from 2001-01-02 to 2026-09-18). A space-tolerant grep of the whole corpus for '농림부/농림수산식품부/농림축산식품부 장관에 (보함|임함)' (agriculture_13_recheck_corpus.py, output roster/sources/agriculture/recheck/corpus_hits.json) returns 16 appointment notices, and each one matches a spell start in this file (김동태, 김영진, 허상만, 박홍수, 임상규, 정운천, 유정복, 서규용, 이동필 twice, 김재수, 김영록, 이개호, 김현수, 정황근, 송미령). No agriculture appointment notice appears after 2023-12-29. Pre-2001 spells (이효계, 김성훈, 한갑수) and 장태평 have no gazette notice in the corpus. The earlier gazette_cabinet_notices scans for 2020-05..2026-09 (gazette_cabinet_scan_2020_2026.log) agree."
+    },
+    {
+      "severity": "low",
+      "desc": "name_en is null for every spell. No official romanization source was reachable without an open.assembly.go.kr API key."
+    },
+    {
+      "severity": "low",
+      "desc": "[verifier] The oceans and finance lineage files code 조승환 and 추경호 (same 2023-12 reshuffle) as 'replaced', while sme 이영, industry 방문규, veterans 박민식 and land 원희룡 are 'resigned_to_run'. 정황근 is now 'resigned_to_run'. The orchestrator may want one rule for ministers who left in a reshuffle and then stood for election."
+    },
+    {
+      "severity": "low",
+      "desc": "[verifier] Namu Wiki (secondary) end dates that tier-3 reports contradict: 김영진 2003-07-21 (resignation accepted 07-18), 박홍수 2007-08-30 (이임식 08-31), 정운천 2008-08-05 (이임식 08-06), 장태평 2010-08-29 (이임식 08-30), 서규용 2013-02-24 (이임식 2013-03-11). None was adopted."
+    }
+  ],
+  "verification": {
+    "verified_at": "2026-09-25T22:07:33-0400",
+    "verifier": "adversarial verifier, lineage agriculture",
+    "builder_file": "roster/agriculture.json (built_at 2026-09-25T21:32:08-0400, not modified)",
+    "summary": "20 spells and 18 nominations re-checked. No spell added or removed. Two field corrections (장태평 end_confidence, 정황근 end_reason). Every end date and every non-gazette start date re-verified with tier-3 sources the builder did not cite. All 16 gazette-backed starts re-read in the harvested 관보 text, 6 of them also re-extracted from the PDF. No date value changed.",
+    "scripts": [
+      "roster/scripts/agriculture_v01_gazette_grep.py (earlier interrupted run)",
+      "roster/scripts/agriculture_v02_namu.py (earlier run, Namu snapshot)",
+      "roster/scripts/agriculture_v03_likms.py (earlier run, likms keyword search terms 16-22)",
+      "roster/scripts/agriculture_v06_gazette_corpus.py",
+      "roster/scripts/agriculture_v07_gazette_persons.py",
+      "roster/scripts/agriculture_v08_transcripts.py",
+      "roster/scripts/agriculture_v09_bigkinds.py",
+      "roster/scripts/agriculture_v10_naver.py",
+      "roster/scripts/agriculture_v11_wikidata.py",
+      "roster/scripts/agriculture_v12_gazette_pdf_reread.py",
+      "roster/scripts/agriculture_v13_continuity.py",
+      "roster/scripts/agriculture_v14_cite.py",
+      "roster/scripts/agriculture_v15_build_verified.py"
+    ],
+    "snapshots": "roster/sources/agriculture/verify (bigkinds/, naver/, gazette/, namu_*, likms_keyword_search.json, transcript_check_v08.json, continuity_v13.json, gazette_corpus_hits_v06.json, gazette_person_hits_v07.json, wikidata_agri_positions.json)",
+    "completeness": [
+      "Independent holder list: Namu Wiki '농림축산식품부장관' (not used by the builder) lists the same 19 persons from 이효계 to 송미령 (20 spells once 이동필 is split at the 2013-03-23 renaming). Wikidata Q16176423 has only 5 holders and adds nothing.",
+      "관보 corpus (GAZETTE_DONE present, 2001-01..2026-09): letter-spacing tolerant grep for 농림부/농림수산식품부/농림축산식품부/농림축산부/농림수산부 장관에 보함|임함|을 면함|직무|겸|서리 gives exactly 16 notices, each matching a spell start. NFKC grep of every holder's hanja finds no exit, 겸임 or second cabinet notice. The 2008-08-06 notice (장태평, 안병만, 전재희) is absent from the index.",
+      "likms: harvest/likms_cabinet_bills.csv and an independent keyword search for terms 16-22 (verify/likms_keyword_search.json) give the same 12 agriculture 인사청문요청안, all present as nominations. No withdrawn agriculture nominee was found. 조홍래 (1998) and 민병채 (2003) were press rumours, never announced.",
+      "Transitions: holdovers 이효계 (1998), 김동태 (2003), 임상규 (2008, to the 02-28 abolition), 서규용 (2013), 김재수 (2017), 김현수 (2022 same day), 송미령 (2025 retained) are all present.",
+      "Election exits: 김영록 (2018 local) and 정황근 (2024 general, now coded resigned_to_run). No agriculture minister left for the 2000, 2004, 2008, 2012, 2016, 2020 general elections, the 2002, 2006, 2010, 2014, 2022, 2026 local elections or the 2026-06-03 by-elections (송미령 in office on 2026-09-24).",
+      "Transcripts: 493 valid-type minister rows for this lineage, none outside a spell. Unmatched names are OCR variants (박홍식, 박흥수) or non-ministers (강준석, 나승렬, 유원상, 이봉하, 이정렬)."
+    ],
+    "per_spell": {
+      "0": {
+        "name": "이효계",
+        "ministry": "농림부",
+        "start": "1997-08-06",
+        "end": "1998-03-03",
+        "status": "confirmed",
+        "checks": [
+          "start (pre-window, 1997-08-06, medium) not re-derived. Namu Wiki gives 1997-08-06 ~ 1998-03-03 as well (secondary).",
+          "end 1998-03-03 (inferred_from_successor) confirmed with sources the builder did not use: 전북일보 1998-03-03 reports that the President named the first cabinet on 3일 with 농림 김성훈. 서울신문 1998-02-28 reports that three days after the 2-25 inauguration no new cabinet had been formed (the 김영삼 cabinet stayed on). 동아일보 1998-02-20 and 중앙일보 1998-02-19 still call him the sitting 농림부장관. No report of an earlier resignation was found (BigKinds '이효계', '李孝桂', '이효계 장관' 1998-02-15..03-06, and Naver '이효계 농림부장관' 1998-02-25..03-04 returned nothing).",
+          "transcripts: not applicable (before 2000-06).",
+          "fields: appointing_president 김영삼 (start 1997), holdover across 1998-02-25, end_reason replaced, in_scope true (offices.json OF016)."
+        ]
+      },
+      "1": {
+        "name": "김성훈",
+        "ministry": "농림부",
+        "start": "1998-03-03",
+        "end": "2000-08-07",
+        "status": "confirmed",
+        "checks": [
+          "start 1998-03-03 confirmed by 전북일보 1998-03-03 (not used by the builder): '金大中대통령은 3일 재경부장관에 李揆成전재무장관을' with 농 림 김성훈 in the list.",
+          "end 2000-08-07 (inferred_from_successor) confirmed by 한국일보 2000-08-08 ('김대중 대통령이 7일 단행한 개각'), 서울신문 2000-08-08 and 매일경제 2000-08-08 ('7일 새 농림부 장관으로 임명된 한갑수'). ko.wikipedia gives 2000-08-06 (secondary, rejected, builder already noted).",
+          "transcripts: 4 valid rows 2000-06-22..2000-07-21, inside the spell (agriculture_v08_transcripts.py).",
+          "fields: appointing_president 김대중, end_reason replaced (8·7 개각), mp_hint null (not in na_members_15_22.csv)."
+        ]
+      },
+      "2": {
+        "name": "한갑수",
+        "ministry": "농림부",
+        "start": "2000-08-07",
+        "end": "2001-09-07",
+        "status": "confirmed",
+        "checks": [
+          "start 2000-08-07 confirmed by 매일경제 2000-08-08 [연합인터뷰], 중도일보 2000-08-08 and 연합뉴스 2000-08-07 11:43 '<프로필> 한갑수 농림부 장관' (none used by the builder).",
+          "end 2001-09-07 (inferred_from_successor) confirmed by 한겨레 2001-09-08 and 서울신문 2001-09-08 (7일 개각, 농림부 장관에 김동태) and by the 관보 제14901호 notice re-read by the verifier ('◉2001년 9 월 7 일자 ... 김 동 태(金 東 泰) 국무위원에 임함 농림부장관에 보함'). He still spoke as 농림부장관 in meeting 29393 on 2001-09-07, so the handover is same-day.",
+          "transcripts: 23 valid rows 2000-10-16..2001-09-07, inside the spell.",
+          "fields: appointing_president 김대중, end_reason replaced, mp_hint notes a pre-15th NA career (파이낸셜뉴스 2000-08-08 via BigKinds says 10대국회의원 나주·광산), not a sitting member."
+        ]
+      },
+      "3": {
+        "name": "김동태",
+        "ministry": "농림부",
+        "start": "2001-09-07",
+        "end": "2003-02-27",
+        "status": "confirmed",
+        "checks": [
+          "start 2001-09-07: 관보 제14901호 re-read by the verifier (harvested text), plus 서울신문 2001-09-08.",
+          "end 2003-02-27 (inferred_from_successor): 관보 제15338호 re-read by the verifier and re-extracted from the PDF ('◉2003년 2 월27일자'), 동아일보 2003-02-27 ('27일 오후 신임 장관들에게 임명장을 수여'), 동아일보 2003-02-27 on the departing 김대중-era economic ministers including 김동태.",
+          "transcripts: 35 valid rows 2001-09-10..2003-02-19, inside the spell.",
+          "fields: appointing_president 김대중, holdover into the 노무현 term (2003-02-25..27), end_reason replaced."
+        ]
+      },
+      "4": {
+        "name": "김영진",
+        "ministry": "농림부",
+        "start": "2003-02-27",
+        "end": "2003-07-18",
+        "status": "confirmed",
+        "checks": [
+          "start 2003-02-27: 관보 제15338호 re-read (harvested text and PDF re-extraction). ko.wikipedia 2003-02-28 rejected (builder).",
+          "end 2003-07-18 (resignation accepted) confirmed by 세계일보 2003-07-19, 국민일보 2003-07-19 and 부산일보 2003-07-18 (not used by the builder). Namu Wiki gives 2003-07-21 (secondary, contradicted by all tier-3 reports, rejected).",
+          "transcripts: 5 valid rows 2003-04-15..2003-07-01, inside the spell.",
+          "fields: end_reason resigned (protest at the 새만금 suspension order), mp_hint correct (16th NA 비례대표 seat 2000-05-30..2003-03-04, exit 'resigned_on_appointment' in na_members_15_22.csv)."
+        ]
+      },
+      "5": {
+        "name": "허상만",
+        "ministry": "농림부",
+        "start": "2003-07-24",
+        "end": "2005-01-05",
+        "status": "confirmed",
+        "checks": [
+          "start 2003-07-24: 관보 제15458호 re-read by the verifier.",
+          "end 2005-01-05 (inferred_from_successor) confirmed by 한국일보 2005-01-06 (replaced in the 4일 개각) and 머니투데이 2005-01-06 (successor took office on 5일), with 관보 제15892호 '⊙2005년 1 월 5 일자' re-read. The ministry page gives 2005.01.04 (its day-before convention). The legal exit date was not found, so the value stays inferred.",
+          "transcripts: 32 valid rows 2003-07-30..2004-12-28, inside the spell."
+        ]
+      },
+      "6": {
+        "name": "박홍수",
+        "ministry": "농림부",
+        "start": "2005-01-05",
+        "end": "2007-08-31",
+        "status": "confirmed",
+        "checks": [
+          "start 2005-01-05: 관보 제15892호 re-read by the verifier.",
+          "end 2007-08-31 confirmed by 한국일보 2007-08-31 ('31일 이임식을 갖고'), 매일경제 2007-08-31 and 문화일보 2007-08-31 (not used by the builder), and the successor's notice 관보 제16583호 '◉2007년 8 월31일자' re-read. Namu Wiki 2007-08-30 rejected (secondary).",
+          "transcripts: 59 valid rows 2005-02-18..2007-08-09 inside the spell. The OCR variants 박홍식 (2005-09-22) and 박흥수 (2005-11-01) are single one-line rows and fall inside the spell.",
+          "fields: mp_hint correct (17th NA 비례대표 2004-05-30..2005-01-10, resigned). Hanja 朴弘綏 as printed in the gazette (na_members has 朴弘綬)."
+        ]
+      },
+      "7": {
+        "name": "임상규",
+        "ministry": "농림부",
+        "start": "2007-08-31",
+        "end": "2008-02-28",
+        "status": "confirmed",
+        "checks": [
+          "start 2007-08-31: 관보 제16583호 re-read (text and PDF).",
+          "end 2008-02-28 (ministry abolished by 법률 제8852호, effective 2008-02-29, offices.json OF016) kept. 매일경제 2008-02-29 reports his 이임사. The ministry page lists 2008.02.29. The day-before-effective-date convention is the one used for every ministry abolished on 2008-02-29 in the other lineages (culture, finance, health, ict, industry, interior, oceans, science), so it is kept for consistency.",
+          "문화일보 2008-03-03 confirms he sat in the first 이명박 국무회의 on 2008-03-03 as one of four 무임소 국무위원 (builder's issue, out of this lineage).",
+          "transcripts: 13 valid rows 2007-09-17..2008-02-14, inside the spell."
+        ]
+      },
+      "8": {
+        "name": "정운천",
+        "ministry": "농림수산식품부",
+        "start": "2008-02-29",
+        "end": "2008-08-06",
+        "status": "confirmed",
+        "checks": [
+          "start 2008-02-29: 관보 제16703호 re-read by the verifier.",
+          "end 2008-08-06 confirmed by 강원도민일보 2008-08-07 and 이데일리 2008-08-06 (이임식 on 6일) and 동아일보 2008-08-07 (successor appointed 6일), none used by the builder. Namu Wiki 2008-08-05 rejected (secondary).",
+          "transcripts: 3 valid rows 2008-04-29..2008-05-21 inside the spell, nominee hearing 2008-02-27 (meeting 36866).",
+          "fields: appointing_president 이명박 (2008-02-29), reorg_continuation false (first head of the new ministry), mp_hint correct (later 20th and 21st NA member)."
+        ]
+      },
+      "9": {
+        "name": "장태평",
+        "ministry": "농림수산식품부",
+        "start": "2008-08-06",
+        "end": "2010-08-30",
+        "status": "corrected",
+        "checks": [
+          "start 2008-08-06 confirmed by 동아일보 2008-08-07, 경남신문 2008-08-07 and 환경일보 2008-08-08 (취임식 6일), none used by the builder. The harvested 관보 corpus for 2008-08..09 names none of the three ministers appointed that day (NFKC grep for 안병만, 전재희, 장태평 and their hanja), so the gap in the gazette index covers the whole 2008-08-06 notice.",
+          "end 2010-08-30: 이임식 on 2010-08-30 (이데일리, 서울경제, 노컷뉴스 이임사) plus the 관보 notice for 유정복 dated 2010.8.30 re-read by the verifier. end_confidence raised from inferred_from_successor to high. Namu Wiki 2010-08-29 rejected (secondary).",
+          "transcripts: 51 valid rows 2008-09-02..2010-06-21 inside the spell.",
+          "nomination: no hearing (likms ZZ18008 '경과보고서미채택', request to send the report by 2008-08-05, 경남신문 2008-08-07 confirms the report never arrived)."
+        ]
+      },
+      "10": {
+        "name": "유정복",
+        "ministry": "농림수산식품부",
+        "start": "2010-08-30",
+        "end": "2011-06-02",
+        "status": "confirmed",
+        "checks": [
+          "start 2010-08-30: 관보 제17335호 re-read (NFKC-normalised, the file prints 劉 as U+F9C7) and 노컷뉴스 2010-08-30 취임사 dated 2010. 8. 30.",
+          "end 2011-06-02 (inferred_from_successor) kept: 이임식 2011-06-01 (매일경제 2011-06-01, also 아주경제, 이데일리, 이투데이, 머니투데이, 아시아경제), successor appointed and took office 2011-06-02 (관보 제17524호 re-read and PDF re-extracted, 이투데이 2011-06-02). No 면직 date was found, so the builder's rule-based value stands. Namu Wiki 2011-06-01 is the 이임식 day.",
+          "transcripts: 16 valid rows 2010-09-08..2011-04-20 inside the spell.",
+          "fields: mp_hint correct (18th NA member for 경기 김포시 through the spell)."
+        ]
+      },
+      "11": {
+        "name": "서규용",
+        "ministry": "농림수산식품부",
+        "start": "2011-06-02",
+        "end": "2013-03-11",
+        "status": "confirmed",
+        "checks": [
+          "start 2011-06-02: 관보 제17524호 re-read (text and PDF).",
+          "end 2013-03-11 confirmed by 이투데이 2013-03-11 (이임식 11일 오전 10시), 이데일리 2013-03-11 and 아시아경제 2013-03-10 ('농림수산식품부(장관 서규용)'), none used by the builder. Namu Wiki gives 2013-02-24 (the end of the 이명박 term), which these reports contradict. He stayed into the 박근혜 term as a holdover until 이동필 was appointed on 2013-03-11.",
+          "transcripts: 44 valid rows 2011-06-14..2013-02-20 inside the spell (last row before the 2013-02-25 transition, none contradicts the holdover).",
+          "fields: appointing_president 이명박, end_reason replaced."
+        ]
+      },
+      "12": {
+        "name": "이동필",
+        "ministry": "농림수산식품부",
+        "start": "2013-03-11",
+        "end": "2013-03-22",
+        "status": "confirmed",
+        "checks": [
+          "start 2013-03-11: 관보 제17971호 re-read by the verifier (NFKC-normalised, 李 printed as U+F9E1).",
+          "end 2013-03-22: 법률 제11690호 effective 2013-03-23 (offices.json OF038), new notice 관보 제17983호 dated 2013. 3. 23. re-read and PDF re-extracted.",
+          "transcripts: 1 valid row 2013-03-19 (affiliation 농림수산식품부) inside the spell."
+        ]
+      },
+      "13": {
+        "name": "이동필",
+        "ministry": "농림축산식품부",
+        "start": "2013-03-23",
+        "end": "2016-09-05",
+        "status": "confirmed",
+        "checks": [
+          "start 2013-03-23: 관보 제17983호 re-read (text and PDF). reorg_continuation true and reappointed_on_reorg true are right (a fresh '국무위원에 임함 농림축산식품부장관에 보함' notice).",
+          "end 2016-09-05 confirmed by 동아일보 2016-09-06 ('5일 정부세종청사에서 퇴임식을 마친') and the successor's 관보 date 2016. 9. 5. Note that the successor's 임명 was approved by 전자결재 on 2016-09-04 (중앙일보 2016-09-05, '청와대가 4일 밝혔다 ... 이날 오전 전자결재'), which explains the ko.wikipedia and Namu value 2016-09-04. The gazette date and the 9-5 퇴임식 are kept.",
+          "transcripts: 65 valid rows 2013-04-08..2016-08-08 inside the spell."
+        ]
+      },
+      "14": {
+        "name": "김재수",
+        "ministry": "농림축산식품부",
+        "start": "2016-09-05",
+        "end": "2017-07-03",
+        "status": "confirmed",
+        "checks": [
+          "start 2016-09-05: 관보 제18843호 re-read. Tier-3 reports date the 전자결재 to 2016-09-04 (중앙일보, 중부일보, 광주일보 2016-09-05). The gazette date is the legal appointment date under the source rules, so it is kept. The note was extended.",
+          "end 2017-07-03 (medium) confirmed by 헤럴드경제 2017-07-03 ('3일 퇴임했다') and 이투데이 2017-07-03 (이임식 3일), plus 파이낸셜뉴스, 아시아경제 and 국민일보 the same day. The ministry page value 2017.06.30 is not supported by any report found (BigKinds '김재수 사표' 2017-05-10..07-03 returned nothing relevant).",
+          "transcripts: 19 valid rows 2016-09-26..2017-03-29 inside the spell.",
+          "nomination: report adopted with a '부적격' opinion (한국경제 2016-09-05, 광주일보 2016-09-05, likms ZZ20014 경과보고서채택)."
+        ]
+      },
+      "15": {
+        "name": "김영록",
+        "ministry": "농림축산식품부",
+        "start": "2017-07-03",
+        "end": "2018-03-15",
+        "status": "confirmed",
+        "checks": [
+          "start 2017-07-03: 관보 제19052호 re-read.",
+          "end 2018-03-15 (medium) kept: 중앙일보 2018-03-16 and 중도일보 2018-03-15 say he formally left on 15일 with his 이임식. He submitted his 사직원 on the morning of 2018-03-14 (서울경제 2018-03-14, 국민일보 2018-03-15), and a few outlets write that he resigned on 14일 (디지털타임스 2018-03-15 '지난 14일 물러', 머니투데이 2018-03-15 '전날 사퇴'). The date of acceptance was not reported. The 이임식 day is better supported and is kept.",
+          "transcripts: 21 valid rows 2017-07-05..2018-02-21 inside the spell.",
+          "fields: end_reason resigned_to_run correct (전남지사, 2018-06-13 local elections)."
+        ]
+      },
+      "16": {
+        "name": "이개호",
+        "ministry": "농림축산식품부",
+        "start": "2018-08-10",
+        "end": "2019-08-31",
+        "status": "confirmed",
+        "checks": [
+          "start 2018-08-10: 관보 제19324호 re-read (text and PDF).",
+          "end 2019-08-31 (inferred_from_successor) kept: 이임식 2019-08-30 (뉴스핌, 헤럴드경제 2019-08-30), successor's term from 2019-08-31 (광주일보 2019-09-02, '임명안을 재가' on 30일, '임기는 지난달 31일부터'), 관보 제19589호 2019.8.31 re-read.",
+          "transcripts: 19 valid rows 2018-08-21..2019-08-29 inside the spell.",
+          "fields: mp_hint correct (sitting 20th NA member)."
+        ]
+      },
+      "17": {
+        "name": "김현수",
+        "ministry": "농림축산식품부",
+        "start": "2019-08-31",
+        "end": "2022-05-10",
+        "status": "confirmed",
+        "checks": [
+          "start 2019-08-31: 관보 제19589호 re-read, 광주일보 2019-09-02.",
+          "end 2022-05-10 confirmed by 헤럴드경제 2022-05-10 ('임기 마지막 날인 10일', 이임식) and the successor's 관보 date 2022. 5. 10. (re-read).",
+          "transcripts: 40 valid rows 2019-09-24..2022-04-26 inside the spell. He also appears as '농림축산식품부장관직무대리' in 2018 (acting record, correct)."
+        ]
+      },
+      "18": {
+        "name": "정황근",
+        "ministry": "농림축산식품부",
+        "start": "2022-05-10",
+        "end": "2023-12-29",
+        "status": "corrected",
+        "checks": [
+          "start 2022-05-10: 관보 제20255호 re-read (text and PDF).",
+          "end 2023-12-29 (inferred_from_successor) kept: 이임식 2023-12-28 (농민신문 2023-12-28, not used by the builder), successor appointed '29일자' (KBS 2023-12-29, 대구신문 2023-12-29 '이날 자로', 관보 제20661호 2023. 12. 29. re-read). The ministry page gives 2023.12.28 (이임식 day).",
+          "end_reason corrected from replaced to resigned_to_run (예비후보 for 천안을, lost the 국민의힘 primary).",
+          "transcripts: 24 valid rows 2022-05-16..2023-12-20 inside the spell."
+        ]
+      },
+      "19": {
+        "name": "송미령",
+        "ministry": "농림축산식품부",
+        "start": "2023-12-29",
+        "end": null,
+        "status": "confirmed",
+        "checks": [
+          "start 2023-12-29: 관보 제20661호 re-read, KBS 2023-12-29 ('오늘(29일)자로 임명').",
+          "in office at the cutoff: 조선일보 2025-06-27 (retained by 이재명, no new appointment, 관보 corpus has no later 농림 notice), 이투데이 2026-08-31 (survived the second 이재명 reshuffle of 2026-08-30), 부산일보 2026-09-24 (field inspection on 24일). BigKinds '농식품부 장관 후보자' 2026-01-01..09-24 (47 hits) names no agriculture nominee, and the likms keyword search for terms 16-22 has no agriculture request after ZZ21179.",
+          "transcripts: 12 valid rows 2024-02-01..2024-12-26 inside the spell.",
+          "fields: appointing_president 윤석열, not split at 2025-06-04 (retention without reappointment), gender F."
+        ]
+      }
+    },
+    "per_nomination": {
+      "0": {
+        "nominee": "김성훈",
+        "status": "confirmed",
+        "checks": [
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier]).",
+          "1998 rumoured candidate 조홍래 checked and excluded (no announcement, like 민병채 in 2003)."
+        ]
+      },
+      "1": {
+        "nominee": "한갑수",
+        "status": "confirmed",
+        "checks": [
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "2": {
+        "nominee": "김동태",
+        "status": "confirmed",
+        "checks": [
+          "no hearing existed for this appointment (before 2005-07-28)."
+        ]
+      },
+      "3": {
+        "nominee": "김영진",
+        "status": "confirmed",
+        "checks": [
+          "no hearing existed for this appointment (before 2005-07-28)."
+        ]
+      },
+      "4": {
+        "nominee": "허상만",
+        "status": "confirmed",
+        "checks": [
+          "no hearing existed for this appointment (before 2005-07-28)."
+        ]
+      },
+      "5": {
+        "nominee": "박홍수",
+        "status": "confirmed",
+        "checks": [
+          "no hearing existed for this appointment (before 2005-07-28)."
+        ]
+      },
+      "6": {
+        "nominee": "임상규",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2007-08-29 per inputs/nominee_hearing_meetings.csv meeting 36154 (matches hearing_dates).",
+          "likms PRC_M0H7A0M8M1L7C1R3L4U6Z3Z2E3N3A3 (ZZ1869): request_date 2007-08-17 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "7": {
+        "nominee": "정운천",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2008-02-27 per inputs/nominee_hearing_meetings.csv meeting 36866 (matches hearing_dates).",
+          "likms PRC_S0F8W0H2S2Y0Q1Y5R3L8S5V2W1W9Q6 (ZZ1907): request_date 2008-02-20 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes)."
+        ]
+      },
+      "8": {
+        "nominee": "장태평",
+        "status": "confirmed",
+        "checks": [
+          "likms PRC_A0L8W0Y7J1C1S1U7B3T5V3L1L0E7F3 (ZZ18008): request_date 2008-07-11 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (no).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "9": {
+        "nominee": "유정복",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2010-08-23 per inputs/nominee_hearing_meetings.csv meeting 39684 (matches hearing_dates).",
+          "likms PRC_Y1G0M0L8B1A1T1N9Q3F2H5X7O3X9Y1 (ZZ18101): request_date 2010-08-11 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes)."
+        ]
+      },
+      "10": {
+        "nominee": "서규용",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2011-05-23 per inputs/nominee_hearing_meetings.csv meeting 40632 (matches hearing_dates).",
+          "likms PRC_B1C1S0B5U1O2R1X8Z3B1B0X6S7O3G7 (ZZ18142): request_date 2011-05-12 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (no).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "11": {
+        "nominee": "이동필",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2013-03-06 per inputs/nominee_hearing_meetings.csv meeting 42543 (matches hearing_dates).",
+          "likms PRC_Q1C3P0R2G2W0G1M7I5Y2M0D4O2W0T6 (ZZ19051): request_date 2013-02-20 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes)."
+        ]
+      },
+      "12": {
+        "nominee": "김재수",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2016-09-01 per inputs/nominee_hearing_meetings.csv meeting 46361 (matches hearing_dates).",
+          "likms PRC_L1N6G0R8Q1Z9T1D2K4Y0N2S7B4Z6H6 (ZZ20014): request_date 2016-08-19 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier]).",
+          "outcome_date 2016-09-05 follows the 관보, the 전자결재 was on 2016-09-04."
+        ]
+      },
+      "13": {
+        "nominee": "김영록",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2017-06-28 per inputs/nominee_hearing_meetings.csv meeting 47192 (matches hearing_dates).",
+          "likms PRC_P1Q7R0R6M1P5E1J9G3B2E3R1B0F0M4 (ZZ20057): request_date 2017-06-15 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes)."
+        ]
+      },
+      "14": {
+        "nominee": "이개호",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2018-08-09 per inputs/nominee_hearing_meetings.csv meeting 48222 (matches hearing_dates).",
+          "likms PRC_W1H8W0Y7J3G0W1K7P2X2G0G7B8H1M9 (ZZ20220): request_date 2018-07-30 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "15": {
+        "nominee": "김현수",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2019-08-29 per inputs/nominee_hearing_meetings.csv meeting 49350 (matches hearing_dates).",
+          "likms PRC_P1L9P0J8A1P4R1M3B3A9Y5H7L3X0N2 (ZZ20281): request_date 2019-08-14 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes)."
+        ]
+      },
+      "16": {
+        "nominee": "정황근",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2022-05-06 per inputs/nominee_hearing_meetings.csv meeting 051872 (matches hearing_dates).",
+          "likms PRC_D2H2N0V4W1V9O1T7W2Q3K4N4K1E2R4 (ZZ21110): request_date 2022-04-19 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (yes).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      },
+      "17": {
+        "nominee": "송미령",
+        "status": "confirmed",
+        "checks": [
+          "hearing 2023-12-18 per inputs/nominee_hearing_meetings.csv meeting 053678 (matches hearing_dates).",
+          "likms PRC_R2P3K1O2M0F7Z1S8D5B9N3T0Y7S4O7 (ZZ21179): request_date 2023-12-07 equals the propose date in harvest/likms_cabinet_bills.csv, and the rendered detail text (harvest/likms/) gives the report status recorded here (no).",
+          "verifier sources appended for the nomination date or report status (see sources marked [verifier])."
+        ]
+      }
+    },
+    "per_acting": {
+      "0": {
+        "name": "김정호",
+        "status": "confirmed_with_caveat",
+        "checks": [
+          "차관 during the 2003-07-19..07-23 vacancy (전북도민일보 2003-07-25, 한국일보 2003-07-18). No source labels him 직무대행 explicitly."
+        ]
+      },
+      "1": {
+        "name": "김현수",
+        "status": "confirmed",
+        "checks": [
+          "장관 직무대행 during the 2018-03-16..08-09 vacancy (광주매일신문 2018-03-28, 헤럴드경제 2018-04-04, transcripts 2018-05-16 and 2018-07-24)."
+        ]
+      }
+    },
+    "continuity": [
+      {
+        "from_spell": "이효계 (농림부) end 1998-03-03",
+        "to_spell": "김성훈 (농림부) start 1998-03-03",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김성훈 (농림부) end 2000-08-07",
+        "to_spell": "한갑수 (농림부) start 2000-08-07",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "한갑수 (농림부) end 2001-09-07",
+        "to_spell": "김동태 (농림부) start 2001-09-07",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김동태 (농림부) end 2003-02-27",
+        "to_spell": "김영진 (농림부) start 2003-02-27",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김영진 (농림부) end 2003-07-18",
+        "to_spell": "허상만 (농림부) start 2003-07-24",
+        "type": "gap",
+        "gap_days": 5,
+        "overlap_days": 0,
+        "vacancy": [
+          "2003-07-19",
+          "2003-07-23"
+        ],
+        "explanation": "김영진's resignation accepted 2003-07-18, 허상만 appointed 2003-07-24 (관보 제15458호). 차관 김정호 ran the ministry (acting)."
+      },
+      {
+        "from_spell": "허상만 (농림부) end 2005-01-05",
+        "to_spell": "박홍수 (농림부) start 2005-01-05",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "박홍수 (농림부) end 2007-08-31",
+        "to_spell": "임상규 (농림부) start 2007-08-31",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "임상규 (농림부) end 2008-02-28",
+        "to_spell": "정운천 (농림수산식품부) start 2008-02-29",
+        "type": "consecutive_days",
+        "gap_days": 0,
+        "overlap_days": 0,
+        "explanation": "legal reorganization boundary (offices.json)."
+      },
+      {
+        "from_spell": "정운천 (농림수산식품부) end 2008-08-06",
+        "to_spell": "장태평 (농림수산식품부) start 2008-08-06",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "장태평 (농림수산식품부) end 2010-08-30",
+        "to_spell": "유정복 (농림수산식품부) start 2010-08-30",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "유정복 (농림수산식품부) end 2011-06-02",
+        "to_spell": "서규용 (농림수산식품부) start 2011-06-02",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "서규용 (농림수산식품부) end 2013-03-11",
+        "to_spell": "이동필 (농림수산식품부) start 2013-03-11",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "이동필 (농림수산식품부) end 2013-03-22",
+        "to_spell": "이동필 (농림축산식품부) start 2013-03-23",
+        "type": "consecutive_days",
+        "gap_days": 0,
+        "overlap_days": 0,
+        "explanation": "legal reorganization boundary (offices.json)."
+      },
+      {
+        "from_spell": "이동필 (농림축산식품부) end 2016-09-05",
+        "to_spell": "김재수 (농림축산식품부) start 2016-09-05",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김재수 (농림축산식품부) end 2017-07-03",
+        "to_spell": "김영록 (농림축산식품부) start 2017-07-03",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김영록 (농림축산식품부) end 2018-03-15",
+        "to_spell": "이개호 (농림축산식품부) start 2018-08-10",
+        "type": "gap",
+        "gap_days": 147,
+        "overlap_days": 0,
+        "vacancy": [
+          "2018-03-16",
+          "2018-08-09"
+        ],
+        "explanation": "김영록 left 2018-03-15 to run for 전남지사. The successor 이개호 was nominated only on 2018-07-26 and appointed 2018-08-10. 차관 김현수 was 장관 직무대행."
+      },
+      {
+        "from_spell": "이개호 (농림축산식품부) end 2019-08-31",
+        "to_spell": "김현수 (농림축산식품부) start 2019-08-31",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "김현수 (농림축산식품부) end 2022-05-10",
+        "to_spell": "정황근 (농림축산식품부) start 2022-05-10",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      },
+      {
+        "from_spell": "정황근 (농림축산식품부) end 2023-12-29",
+        "to_spell": "송미령 (농림축산식품부) start 2023-12-29",
+        "type": "same_day_handover",
+        "gap_days": 0,
+        "overlap_days": 0
+      }
+    ],
+    "changes": [
+      {
+        "target": "spells[9] 장태평",
+        "field": "end_confidence",
+        "old": "inferred_from_successor",
+        "new": "high",
+        "evidence": "이데일리 2010-08-30 '장태평 농림수산식품부 장관이 30일 `포부`를 밝히면서 이임했다', 서울경제 2010-08-30 '장태평 농식품부 장관이 30일 이임했다', 노컷뉴스 2010-08-30 text of the 이임사 dated '2010. 8. 30.' (BigKinds news_id 04101008.20160310065448228, 02100311.20160316112356077, 04100058.20100830171454006, snapshot roster/sources/agriculture/verify/bigkinds/bk_jtp_end2_2010-08-27_2010-09-01_51ca93a7.json). Same-day handover with 유정복 (관보 제17335호 2010.8.30). End date unchanged."
+      },
+      {
+        "target": "spells[9] 장태평",
+        "field": "start_sources/end_sources (append)",
+        "old": "builder sources",
+        "new": "plus 3 start and 4 end verifier sources",
+        "evidence": "동아일보 2008-08-07, 경남신문 2008-08-07, 환경일보 2008-08-08 for the start (no 관보 notice exists in the corpus for any of the three 2008-08-06 appointees 안병만, 전재희, 장태평). Dates unchanged."
+      },
+      {
+        "target": "spells[18] 정황근",
+        "field": "end_reason",
+        "old": "replaced",
+        "new": "resigned_to_run",
+        "evidence": "파이낸셜뉴스 2023-12-28 (builder's source) '충남 천안 출마 공식화'. 뉴시스 2024-02-21 https://n.news.naver.com/mnews/article/003/0012384168 '국민의힘 소속으로 충남 천안을 출마를 선언한 정황근 전 농림축산식품부 장관' (snapshot roster/sources/agriculture/verify/naver/naver_003_0012384168.html). 매일경제 2024-03-10 https://n.news.naver.com/mnews/article/009/0005270031 '정황근 전 농림축산식품부 장관의 본선행이 무산됐다' (snapshot roster/sources/agriculture/verify/naver/naver_009_0005270031.html). Not an NA member (na_members_15_22.csv), so he had to leave office to stand. Consistent with sme 이영, industry 방문규, veterans 박민식 and land 원희룡 in the other lineage files. End date unchanged."
+      }
+    ],
+    "disputes": [
+      "김영록 end: 2018-03-15 (이임식, '공식 사퇴', 중앙일보 and 중도일보) kept over 2018-03-14 (사직원 submitted, 디지털타임스 '지난 14일 물러'). Acceptance date not reported.",
+      "김재수 start: 관보 2016-09-05 kept, 전자결재 on 2016-09-04 (중앙일보 2016-09-05). Same pattern for 김현수 (재가 2019-08-30, 관보 and term 2019-08-31).",
+      "임상규 end 2008-02-28 follows the cross-lineage abolition convention, while the ministry page gives 2008.02.29 and his 이임식 was on 2008-02-29."
+    ]
+  }
+}

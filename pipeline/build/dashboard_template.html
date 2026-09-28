@@ -1,0 +1,792 @@
+<title>Korean Cabinet Explorer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f3f5f7;
+  --surface: #fcfdfd;
+  --surface-2: #eef1f4;
+  --band: #e9edf1;
+  --ink: #101419;
+  --ink-2: #4a525d;
+  --muted: #7f8792;
+  --grid: #e1e5ea;
+  --axis: #c3c9d1;
+  --ring: rgba(16, 20, 25, 0.10);
+  --accent: #2a78d6;
+  --accent-ink: #1c5cab;
+  --accent-wash: rgba(42, 120, 214, 0.10);
+  --neutral-bar: #9aa3ae;
+  --c1: #2a78d6; --c2: #eb6834; --c3: #1baf7a; --c4: #eda100;
+  --good: #0ca30c; --warn: #fab219; --crit: #d03b3b;
+  --shadow: 0 1px 2px rgba(16,20,25,.06), 0 8px 24px rgba(16,20,25,.06);
+  --sans: "IBM Plex Sans KR", system-ui, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0f12; --surface: #15181c; --surface-2: #1d2126; --band: #1a1e23;
+    --ink: #f3f5f7; --ink-2: #c1c7cf; --muted: #8b939e; --grid: #262b31; --axis: #3a4048;
+    --ring: rgba(255,255,255,0.10); --accent: #3987e5; --accent-ink: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+    --neutral-bar: #5d6570; --c1: #3987e5; --c2: #d95926; --c3: #199e70; --c4: #c98500;
+    --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.3);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0f12; --surface: #15181c; --surface-2: #1d2126; --band: #1a1e23;
+  --ink: #f3f5f7; --ink-2: #c1c7cf; --muted: #8b939e; --grid: #262b31; --axis: #3a4048;
+  --ring: rgba(255,255,255,0.10); --accent: #3987e5; --accent-ink: #86b6ef; --accent-wash: rgba(57,135,229,0.16);
+  --neutral-bar: #5d6570; --c1: #3987e5; --c2: #d95926; --c3: #199e70; --c4: #c98500;
+  --shadow: 0 1px 2px rgba(0,0,0,.4), 0 8px 24px rgba(0,0,0,.3);
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { background: var(--page); color: var(--ink); font-family: var(--sans); font-size: 14px; line-height: 1.55; }
+.wrap { max-width: 1280px; margin: 0 auto; padding-inline: 20px; padding-block: 28px 64px; display: grid; gap: 20px; }
+@media (max-width: 600px) { .wrap { padding-inline: 16px; } }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+.mono, .num { font-family: var(--mono); font-variant-numeric: tabular-nums; }
+button, input, select { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* header */
+.head { display: grid; gap: 10px; }
+.eyebrow { font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+.head h1 { font-size: clamp(28px, 4vw, 40px); font-weight: 700; letter-spacing: -0.01em; line-height: 1.15; }
+.head h1 .ko { display: block; font-size: .55em; font-weight: 500; color: var(--ink-2); letter-spacing: 0; margin-top: 6px; }
+.lede { max-width: 72ch; color: var(--ink-2); margin: 0; }
+.stamp { display: flex; flex-wrap: wrap; gap: 8px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; padding: 3px 10px; border-radius: 999px; background: var(--surface); box-shadow: inset 0 0 0 1px var(--ring); color: var(--ink-2); }
+.chip b { color: var(--ink); font-weight: 600; }
+
+/* filter bar */
+.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 20; background: color-mix(in srgb, var(--page) 92%, transparent); backdrop-filter: blur(8px); padding-block: 10px; display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; border-bottom: 1px solid var(--grid); }
+.fgroup { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.flabel { font-size: 12px; color: var(--muted); margin-right: 2px; }
+.pill { border: 0; background: var(--surface); box-shadow: inset 0 0 0 1px var(--ring); border-radius: 999px; padding: 4px 11px; font-size: 13px; cursor: pointer; color: var(--ink-2); }
+.pill:hover { background: var(--surface-2); }
+.pill[aria-pressed="true"] { background: var(--ink); color: var(--surface); box-shadow: none; }
+select, input[type="search"] { background: var(--surface); border: 0; box-shadow: inset 0 0 0 1px var(--ring); border-radius: 8px; padding: 6px 10px; font-size: 13px; }
+input[type="search"] { width: 200px; max-width: 100%; }
+.fcount { margin-left: auto; font-size: 12px; color: var(--muted); }
+.ghost { border: 0; background: none; color: var(--accent-ink); cursor: pointer; font-size: 13px; padding: 4px 6px; }
+
+/* cards */
+.card { background: var(--surface); border-radius: 14px; box-shadow: var(--shadow), inset 0 0 0 1px var(--ring); padding: 18px 20px; display: grid; gap: 12px; min-width: 0; }
+.card-h { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 6px 16px; }
+.card-h h2 { font-size: 16px; font-weight: 600; }
+.card-h h2 small { font-weight: 400; color: var(--muted); font-size: 12px; margin-left: 6px; }
+.card-note { font-size: 12px; color: var(--muted); margin: 0; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12px; color: var(--ink-2); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.sw { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+/* KPI */
+.kpis { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 12px; }
+@media (max-width: 900px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.kpi { background: var(--surface); border-radius: 12px; box-shadow: inset 0 0 0 1px var(--ring); padding: 14px 16px; display: grid; gap: 2px; }
+.kpi .lbl { font-size: 12px; color: var(--muted); }
+.kpi .val { font-size: 28px; font-weight: 600; letter-spacing: -0.01em; }
+.kpi .sub { font-size: 12px; color: var(--ink-2); }
+.kpi.hero .val { color: var(--accent-ink); }
+
+/* timeline */
+.tl-scroll { overflow-x: auto; overflow-y: hidden; }
+.tl-scroll svg { display: block; }
+.tl-row-label { font-size: 12px; fill: var(--ink-2); }
+.tl-group-label { font-size: 10px; fill: var(--muted); letter-spacing: .06em; }
+.tl-admin { font-size: 11px; fill: var(--ink-2); font-weight: 500; }
+.tl-year { font-size: 11px; fill: var(--muted); font-family: var(--mono); }
+.bar { cursor: pointer; }
+.bar.dim { opacity: .16; }
+.bar:hover { filter: brightness(1.12); }
+.bar.sel { stroke: var(--ink); stroke-width: 1.5px; }
+
+/* grid of charts */
+.grid2 { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+@media (max-width: 900px) { .grid2 { grid-template-columns: 1fr; } }
+.chart svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis-t { font-size: 11px; fill: var(--muted); font-family: var(--mono); }
+.lab-t { font-size: 12px; fill: var(--ink-2); }
+.val-t { font-size: 11px; fill: var(--ink); font-family: var(--mono); }
+.hit { fill: transparent; cursor: pointer; }
+.tabletoggle { justify-self: start; }
+.mini-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+.mini-table th, .mini-table td { text-align: right; padding: 4px 6px; border-bottom: 1px solid var(--grid); font-variant-numeric: tabular-nums; }
+.mini-table th:first-child, .mini-table td:first-child { text-align: left; }
+
+/* table */
+.tbl-wrap { overflow-x: auto; }
+table.data { width: 100%; border-collapse: collapse; font-size: 13px; min-width: 860px; }
+table.data th { text-align: left; font-weight: 500; color: var(--muted); font-size: 12px; padding: 8px 8px; border-bottom: 1px solid var(--axis); cursor: pointer; white-space: nowrap; user-select: none; }
+table.data th[aria-sort="ascending"]::after { content: " ▲"; font-size: 9px; }
+table.data th[aria-sort="descending"]::after { content: " ▼"; font-size: 9px; }
+table.data td { padding: 7px 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+table.data tbody tr { cursor: pointer; }
+table.data tbody tr:hover { background: var(--accent-wash); }
+td.num, th.num { text-align: right; font-family: var(--mono); font-variant-numeric: tabular-nums; }
+.tag { display: inline-flex; align-items: center; gap: 4px; font-size: 11px; padding: 1px 7px; border-radius: 999px; background: var(--surface-2); color: var(--ink-2); white-space: nowrap; }
+.tag.dual { background: var(--accent-wash); color: var(--accent-ink); }
+.tag.disputed { background: color-mix(in srgb, var(--warn) 22%, transparent); color: var(--ink); }
+.tag.corrected { background: var(--surface-2); }
+.hanja { color: var(--muted); font-size: 12px; margin-left: 4px; }
+.pager { display: flex; gap: 8px; align-items: center; justify-content: flex-end; font-size: 12px; color: var(--muted); }
+
+/* tooltip */
+#tip { position: fixed; z-index: 50; pointer-events: none; background: var(--surface); color: var(--ink); border-radius: 10px; box-shadow: var(--shadow), inset 0 0 0 1px var(--ring); padding: 10px 12px; font-size: 12px; max-width: 300px; display: grid; gap: 3px; }
+#tip .tv { font-weight: 600; font-size: 13px; }
+#tip .tk { color: var(--ink-2); }
+
+/* person panel */
+#panel { position: fixed; top: 0; right: 0; bottom: 0; width: min(440px, 100%); z-index: 40; background: var(--surface); box-shadow: -8px 0 32px rgba(0,0,0,.18); padding: calc(env(safe-area-inset-top, 0px) + 20px) 22px 28px; overflow-y: auto; display: grid; gap: 14px; align-content: start; }
+#panel h3 { font-size: 22px; font-weight: 700; }
+#panel .close { position: absolute; top: calc(env(safe-area-inset-top, 0px) + 12px); right: 14px; border: 0; background: var(--surface-2); border-radius: 999px; width: 32px; height: 32px; cursor: pointer; font-size: 16px; }
+.pspell { border-left: 3px solid var(--neutral-bar); padding-left: 12px; display: grid; gap: 3px; }
+.pspell.isdual { border-left-color: var(--accent); }
+.pspell .pt { font-weight: 600; }
+.pspell .pd { font-family: var(--mono); font-size: 12px; color: var(--ink-2); }
+.pspell .ps { font-size: 12px; color: var(--muted); }
+.pspell a { color: var(--accent-ink); }
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; font-size: 13px; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; }
+
+/* methods */
+.methods { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+@media (max-width: 900px) { .methods { grid-template-columns: 1fr; } }
+.methods h3 { font-size: 14px; font-weight: 600; margin-bottom: 6px; }
+.methods p, .methods li { color: var(--ink-2); font-size: 13px; max-width: 65ch; }
+.methods ul { margin: 0; padding-left: 18px; display: grid; gap: 4px; }
+.meter { height: 8px; border-radius: 999px; background: var(--surface-2); overflow: hidden; display: flex; gap: 2px; }
+.meter i { display: block; height: 100%; }
+code { font-family: var(--mono); font-size: 12px; background: var(--surface-2); padding: 1px 5px; border-radius: 4px; }
+@media (prefers-reduced-motion: no-preference) { .bar, .kpi .val { transition: opacity .2s ease; } }
+</style>
+
+<div class="wrap">
+  <header class="head">
+    <div class="eyebrow">대한민국 국무총리·국무위원 1988–2026</div>
+    <h1>Korean Cabinet Explorer<span class="ko">한국 내각 탐색기: 누가, 언제, 어느 부처를 맡았나</span></h1>
+    <p class="lede">노태우 정부부터 이재명 정부까지 국무총리와 모든 국무위원의 재임 기록입니다. 관보 임명 고시, 국회 의안정보시스템, 당일 보도로 날짜를 확인했고, 별도 에이전트가 다른 출처로 다시 검증했습니다. 현직 국회의원이 장관을 겸한 경우(겸직)는 국회 의원이력 자료로 날짜 단위로 판정했습니다.</p>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <nav class="filters" aria-label="필터">
+    <div class="fgroup" id="adminPills"><span class="flabel">정부</span></div>
+    <div class="fgroup">
+      <label class="flabel" for="linSel">부처 계통</label>
+      <select id="linSel"></select>
+    </div>
+    <div class="fgroup" id="dualPills"><span class="flabel">겸직</span></div>
+    <div class="fgroup">
+      <label class="flabel" for="q">이름</label>
+      <input type="search" id="q" placeholder="이름 또는 한자" autocomplete="off">
+    </div>
+    <button class="ghost" id="reset" type="button">초기화</button>
+    <span class="fcount" id="fcount"></span>
+  </nav>
+
+  <section class="kpis" id="kpis" aria-label="요약 지표"></section>
+
+  <section class="card">
+    <div class="card-h">
+      <h2>내각 연표 <small>Cabinet timeline</small></h2>
+      <div class="legend">
+        <span><i class="sw" style="background:var(--accent)"></i>현직 의원 겸직으로 임명</span>
+        <span><i class="sw" style="background:var(--neutral-bar)"></i>비겸직</span>
+        <span><i class="sw" style="background:var(--neutral-bar);opacity:.4"></i>전 정부 임명자가 새 정부에서 재임한 기간</span>
+      </div>
+    </div>
+    <p class="card-note">막대를 누르면 인물 기록이 열립니다. 정부를 하나 고르면 해당 기간으로 확대됩니다. 짧은 재임도 보이도록 막대 최소 폭을 2px로 두었습니다.</p>
+    <div class="tl-scroll" id="tlScroll"><svg id="tl" role="img" aria-label="부처 계통별 장관 재임 연표"></svg></div>
+  </section>
+
+  <div class="grid2">
+    <section class="card chart">
+      <div class="card-h"><h2>현직 의원 겸직 비율 <small>by appointing president</small></h2></div>
+      <p class="card-note">각 대통령이 새로 임명한 국무총리·국무위원 가운데 임명 당시 국회의원이었던 사람의 비율입니다. 부처 개편으로 이어진 재임은 새 임명으로 세지 않았습니다.</p>
+      <div id="dualChart"></div>
+      <button class="ghost tabletoggle" data-t="dualTable" type="button">표로 보기</button>
+      <div id="dualTable" hidden></div>
+    </section>
+    <section class="card chart">
+      <div class="card-h"><h2>재임 기간 분포 <small>tenure in months</small></h2></div>
+      <p class="card-note">점 하나가 끝난 재임 한 건입니다(임명한 대통령 기준). 세로선은 중앙값입니다. 부처 이름이 바뀌어도 계속 재임한 경우는 한 건으로 합쳤습니다.</p>
+      <div id="tenureChart"></div>
+      <button class="ghost tabletoggle" data-t="tenureTable" type="button">표로 보기</button>
+      <div id="tenureTable" hidden></div>
+    </section>
+    <section class="card chart">
+      <div class="card-h"><h2>인사청문 결과 <small>nominations with a hearing requirement</small></h2></div>
+      <div class="legend" id="nomLegend"></div>
+      <p class="card-note">국무총리는 2000년 6월부터, 국무위원은 2005년 7월부터 인사청문 대상입니다. 국무총리 지명은 국회 임명동의 표결 결과도 포함합니다.</p>
+      <div id="nomChart"></div>
+      <button class="ghost tabletoggle" data-t="nomTable" type="button">표로 보기</button>
+      <div id="nomTable" hidden></div>
+    </section>
+    <section class="card chart">
+      <div class="card-h"><h2>연도별 신규 임명 <small>new appointments per year</small></h2></div>
+      <p class="card-note">그해 임명된 국무총리·국무위원 수입니다. 막대에 마우스를 올리면 그해 임명자가 보입니다.</p>
+      <div id="yearChart"></div>
+      <button class="ghost tabletoggle" data-t="yearTable" type="button">표로 보기</button>
+      <div id="yearTable" hidden></div>
+    </section>
+  </div>
+
+  <section class="card">
+    <div class="card-h"><h2>재임 기록 <small>spells</small></h2><span class="card-note" id="tblCount"></span></div>
+    <div class="tbl-wrap">
+      <table class="data" id="tbl">
+        <thead><tr>
+          <th data-k="n">이름</th><th data-k="t">직위</th><th data-k="s">시작</th><th data-k="e">종료</th>
+          <th data-k="d" class="num">재임(일)</th><th data-k="ap">임명</th><th data-k="dual">겸직</th>
+          <th data-k="hear">청문</th><th data-k="er">종료 사유</th><th data-k="ver">검증</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div class="pager"><button class="ghost" id="prev" type="button">이전</button><span id="pageInfo"></span><button class="ghost" id="next" type="button">다음</button></div>
+  </section>
+
+  <section class="card">
+    <div class="card-h"><h2>자료와 검증 <small>sources and quality</small></h2></div>
+    <div class="methods" id="methods"></div>
+  </section>
+</div>
+
+<div id="tip" hidden role="tooltip"></div>
+<aside id="panel" hidden aria-label="인물 기록"></aside>
+
+<script>
+const DATA = /*__DATA__*/null;
+(function () {
+  "use strict";
+  const $ = (s, r = document) => r.querySelector(s);
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v; else if (k === "text") n.textContent = v; else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const k of kids) if (k != null) n.append(k.nodeType ? k : document.createTextNode(String(k)));
+    return n;
+  };
+  const SVGNS = "http://www.w3.org/2000/svg";
+  const sv = (tag, attrs = {}) => { const n = document.createElementNS(SVGNS, tag); for (const [k, v] of Object.entries(attrs)) if (v != null) n.setAttribute(k, v); return n; };
+  const css = (v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+  const DAY = 86400000;
+  const ts = (d) => Date.parse(d + "T00:00:00Z");
+  const fmtN = (x) => x.toLocaleString("ko-KR");
+  const CUTOFF = DATA.meta.cutoff;
+
+  const ADM = DATA.admins;
+  const LIN = DATA.lineages;
+  const LINMAP = Object.fromEntries(LIN.map((l) => [l.k, l]));
+  const SP = DATA.spells.map((s) => ({ ...s, ts: ts(s.s), te: ts(s.e || CUTOFF) }));
+  const NOM = DATA.noms;
+  const NOMMAP = Object.fromEntries(NOM.map((n) => [n.id, n]));
+  const PER = Object.fromEntries(DATA.persons.map((p) => [p.pid, p]));
+  const admOf = (t) => { let a = null; for (const x of ADM) if (t >= ts(x.s)) a = x.k; return a; };
+  const admRange = (k) => { const a = ADM.find((x) => x.k === k); return [ts(a.s), ts(a.e)]; };
+  // an "appointment" = a spell that is not a reorganization continuation
+  const isNew = (s) => !s.reorg;
+  // tenure of the whole appointment (merging reorganization continuations)
+  const appTenure = (() => {
+    const byPid = {};
+    [...SP].sort((a, b) => a.ts - b.ts).forEach((s) => { (byPid[s.pid + "|" + s.l] ||= []).push(s); });
+    const out = new Map();
+    for (const list of Object.values(byPid)) {
+      let cur = null;
+      for (const s of list) {
+        if (cur && s.reorg && s.ts - cur.te <= 2 * DAY) { cur.te = s.te; cur.open = !s.e; cur.parts.push(s); }
+        else { cur = { head: s, ts: s.ts, te: s.te, open: !s.e, parts: [s] }; out.set(s.id, cur); }
+      }
+    }
+    return out;
+  })();
+
+  const ER = { replaced: "교체", resigned: "사임", resigned_to_run: "출마 사퇴", ministry_reorganized: "부처 개편", in_office: "재임 중", dismissed: "면직", consent_rejected: "동의안 부결", impeached_removed: "탄핵", died: "사망", other: "기타" };
+  const VER = { confirmed: "확인", corrected: "수정", disputed: "이견", added: "추가", unverified: "미검증" };
+
+  // ---------------- state
+  const state = { admins: new Set(), lin: "", dual: "all", q: "", sort: { k: "s", dir: -1 }, page: 0, sel: null };
+  try { const s = JSON.parse(localStorage.getItem("kce-filters") || "null"); if (s) { state.lin = s.lin || ""; state.dual = s.dual || "all"; (s.admins || []).forEach((a) => state.admins.add(a)); } } catch (e) {}
+  const save = () => { try { localStorage.setItem("kce-filters", JSON.stringify({ lin: state.lin, dual: state.dual, admins: [...state.admins] })); } catch (e) {} };
+
+  const matches = (s) => {
+    if (state.lin && s.l !== state.lin) return false;
+    if (state.dual === "dual" && !s.dual) return false;
+    if (state.dual === "non" && s.dual) return false;
+    if (state.admins.size) {
+      let ok = false;
+      for (const a of state.admins) { const [x, y] = admRange(a); if (s.ts <= y && s.te >= x) { ok = true; break; } }
+      if (!ok) return false;
+    }
+    if (state.q) {
+      const q = state.q.replace(/\s+/g, "");
+      if (!(s.n.includes(q) || (s.h || "").includes(q) || (s.en || "").toLowerCase().includes(q.toLowerCase()))) return false;
+    }
+    return true;
+  };
+  const filtered = () => SP.filter(matches);
+
+  // ---------------- header stamp and filters
+  function buildHeader() {
+    const m = DATA.meta, v = m.verification || {};
+    const st = $("#stamp");
+    if (v.unverified) st.append(el("span", { class: "chip", style: "box-shadow: inset 0 0 0 1px var(--warn)" }, "검증 진행 중 ", el("b", { text: fmtN(v.unverified) }), "건 (미리보기)"));
+    st.append(
+      el("span", { class: "chip" }, "기준일 ", el("b", { text: m.cutoff })),
+      el("span", { class: "chip" }, "재임 기록 ", el("b", { text: fmtN(m.n_spells) })),
+      el("span", { class: "chip" }, "인물 ", el("b", { text: fmtN(m.n_persons) })),
+      el("span", { class: "chip" }, "지명 ", el("b", { text: fmtN(m.n_noms) })),
+      el("span", { class: "chip" }, "검증 확인 ", el("b", { text: fmtN(v.confirmed || 0) }), " · 수정 ", el("b", { text: fmtN(v.corrected || 0) }), " · 이견 ", el("b", { text: fmtN(v.disputed || 0) }))
+    );
+    const ap = $("#adminPills");
+    const all = el("button", { class: "pill", type: "button", "aria-pressed": String(!state.admins.size), text: "전체" });
+    all.addEventListener("click", () => { state.admins.clear(); refresh(); });
+    ap.append(all);
+    for (const a of ADM) {
+      const b = el("button", { class: "pill", type: "button", "data-a": a.k, "aria-pressed": String(state.admins.has(a.k)), title: `${a.en} ${a.s} ~ ${a.e}`, text: a.k });
+      b.addEventListener("click", () => { state.admins.has(a.k) ? state.admins.delete(a.k) : state.admins.add(a.k); refresh(); });
+      ap.append(b);
+    }
+    const sel = $("#linSel");
+    sel.append(el("option", { value: "", text: "전체 계통" }));
+    for (const l of LIN) sel.append(el("option", { value: l.k, text: `${l.ko} (${l.en})` }));
+    sel.value = state.lin;
+    sel.addEventListener("change", () => { state.lin = sel.value; refresh(); });
+    const dp = $("#dualPills");
+    for (const [k, t] of [["all", "전체"], ["dual", "겸직"], ["non", "비겸직"]]) {
+      const b = el("button", { class: "pill", type: "button", "data-d": k, "aria-pressed": String(state.dual === k), text: t });
+      b.addEventListener("click", () => { state.dual = k; refresh(); });
+      dp.append(b);
+    }
+    let tmr;
+    $("#q").addEventListener("input", (e) => { clearTimeout(tmr); tmr = setTimeout(() => { state.q = e.target.value.trim(); refresh(); }, 120); });
+    $("#reset").addEventListener("click", () => { state.admins.clear(); state.lin = ""; state.dual = "all"; state.q = ""; $("#q").value = ""; $("#linSel").value = ""; refresh(); });
+    document.querySelectorAll(".tabletoggle").forEach((b) => b.addEventListener("click", () => { const t = document.getElementById(b.dataset.t); t.hidden = !t.hidden; b.textContent = t.hidden ? "표로 보기" : "표 닫기"; }));
+  }
+  function syncPills() {
+    document.querySelectorAll("#adminPills .pill").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.a ? state.admins.has(b.dataset.a) : !state.admins.size)));
+    document.querySelectorAll("#dualPills .pill").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.d === state.dual)));
+    $("#linSel").value = state.lin;
+  }
+
+  // ---------------- tooltip
+  const tip = $("#tip");
+  function showTip(ev, lines) {
+    tip.replaceChildren(...lines.map(([cls, txt]) => el("div", { class: cls, text: txt })));
+    tip.hidden = false;
+    const pad = 14, w = tip.offsetWidth, h = tip.offsetHeight;
+    let x = ev.clientX + pad, y = ev.clientY + pad;
+    if (x + w > innerWidth - 8) x = ev.clientX - w - pad;
+    if (y + h > innerHeight - 8) y = ev.clientY - h - pad;
+    tip.style.left = Math.max(8, x) + "px"; tip.style.top = Math.max(8, y) + "px";
+  }
+  const hideTip = () => { tip.hidden = true; };
+  const spellTip = (s) => {
+    const lines = [["tv", `${s.n}${s.h ? " " + s.h : ""}`], ["tk", s.t || s.m], ["", `${s.s} ~ ${s.e || "재임 중"} (${fmtN(s.d)}일)`], ["tk", `임명 ${s.ap || "?"}${s.pms === "서리" ? " · 서리" : ""}`]];
+    if (s.dual) lines.push(["", `겸직 · ${s.term ? s.term + "대 " : ""}${s.party || ""}${s.dist ? " · " + s.dist : ""}`]);
+    if (s.er && s.e) lines.push(["tk", `종료 ${ER[s.er] || s.er}`]);
+    return lines;
+  };
+
+  // ---------------- KPIs
+  function renderKPIs(rows) {
+    const k = $("#kpis"); k.replaceChildren();
+    const apps = rows.filter(isNew);
+    const dualN = apps.filter((s) => s.dual).length;
+    const done = [...new Set(rows.map((s) => appTenure.get(s.id) || null).filter(Boolean))].filter((a) => !a.open);
+    const months = done.map((a) => (a.te - a.ts) / DAY / 30.44).sort((a, b) => a - b);
+    const med = months.length ? months[Math.floor(months.length / 2)] : null;
+    const pids = new Set(rows.map((s) => s.pid));
+    const noms = NOM.filter((n) => (!state.lin || n.l === state.lin) && (!state.q || (n.n || "").includes(state.q)) && inAdmins(n.nd || n.od));
+    const failed = noms.filter((n) => ["withdrawn", "nominee_withdrew", "rejected"].includes(n.o)).length;
+    const tiles = [
+      ["재임 기록", fmtN(rows.length), `인물 ${fmtN(pids.size)}명`],
+      ["신규 임명", fmtN(apps.length), "부처 개편 연속 재임 제외"],
+      ["현직 의원 겸직 비율", apps.length ? Math.round((100 * dualN) / apps.length) + "%" : "–", `${fmtN(dualN)}건 / ${fmtN(apps.length)}건`, true],
+      ["재임 기간 중앙값", med != null ? med.toFixed(1) + "개월" : "–", `끝난 재임 ${fmtN(months.length)}건 기준`],
+      ["지명 철회·부결", fmtN(failed), `지명 ${fmtN(noms.length)}건 중`],
+    ];
+    for (const [l, v, s, hero] of tiles) k.append(el("div", { class: "kpi" + (hero ? " hero" : "") }, el("div", { class: "lbl", text: l }), el("div", { class: "val", text: v }), el("div", { class: "sub", text: s })));
+  }
+  function inAdmins(d) {
+    if (!state.admins.size || !d) return true;
+    const t = ts(d);
+    for (const a of state.admins) { const [x, y] = admRange(a); if (t >= x && t <= y) return true; }
+    return false;
+  }
+
+  // ---------------- timeline
+  function renderTimeline(rows) {
+    const svg = $("#tl"); svg.replaceChildren();
+    const set = new Set(rows.map((s) => s.id));
+    let x0 = ts("1988-02-25"), x1 = ts(CUTOFF) + 60 * DAY;
+    if (state.admins.size) {
+      const r = [...state.admins].map(admRange);
+      x0 = Math.min(...r.map((z) => z[0])) - 45 * DAY; x1 = Math.max(...r.map((z) => z[1])) + 45 * DAY;
+    }
+    const lins = LIN.filter((l) => !state.lin || l.k === state.lin);
+    const labelW = 132, rowH = 22, top = 46, barH = 12;
+    const avail = Math.max(760, $("#tlScroll").clientWidth);
+    const W = avail, plotW = W - labelW - 16;
+    const H = top + lins.length * rowH + 12;
+    svg.setAttribute("width", W); svg.setAttribute("height", H); svg.setAttribute("viewBox", `0 0 ${W} ${H}`);
+    const X = (t) => labelW + ((Math.min(Math.max(t, x0), x1) - x0) / (x1 - x0)) * plotW;
+    // administration bands
+    ADM.forEach((a, i) => {
+      const s = ts(a.s), e = ts(a.e) + DAY;
+      if (e < x0 || s > x1) return;
+      const xa = X(s), xb = X(e);
+      if (i % 2 === 0) svg.append(sv("rect", { x: xa, y: top - 6, width: Math.max(0, xb - xa), height: H - top, fill: css("--band") }));
+      const t = sv("text", { x: xa + 4, y: 14, class: "tl-admin" }); t.textContent = a.k;
+      if (xb - xa > 34) svg.append(t);
+    });
+    // year ticks
+    const y0 = new Date(x0).getUTCFullYear(), y1 = new Date(x1).getUTCFullYear();
+    const step = (y1 - y0) > 20 ? 4 : (y1 - y0) > 8 ? 2 : 1;
+    for (let y = Math.ceil(y0 / step) * step; y <= y1; y += step) {
+      const t = Date.UTC(y, 0, 1); if (t < x0 || t > x1) continue;
+      const x = X(t);
+      svg.append(sv("line", { x1: x, x2: x, y1: top - 8, y2: H - 6, stroke: css("--grid"), "stroke-width": 1 }));
+      const tx = sv("text", { x: x + 3, y: 32, class: "tl-year" }); tx.textContent = y; svg.append(tx);
+    }
+    // rows
+    let lastG = null;
+    lins.forEach((l, i) => {
+      const y = top + i * rowH;
+      if (l.g !== lastG) { lastG = l.g; }
+      const lab = sv("text", { x: labelW - 10, y: y + barH - 2, "text-anchor": "end", class: "tl-row-label" }); lab.textContent = l.ko; svg.append(lab);
+      svg.append(sv("line", { x1: labelW, x2: W - 8, y1: y + barH + 5, y2: y + barH + 5, stroke: css("--grid"), "stroke-width": 1, opacity: .6 }));
+    });
+    const acc = css("--accent"), neu = css("--neutral-bar"), surf = css("--surface");
+    const rowIdx = Object.fromEntries(lins.map((l, i) => [l.k, i]));
+    for (const s of SP) {
+      if (!(s.l in rowIdx)) continue;
+      if (s.te < x0 || s.ts > x1) continue;
+      const y = top + rowIdx[s.l] * rowH;
+      const xa = X(s.ts), xb = X(s.te + DAY);
+      const w = Math.max(2, xb - xa - 1);
+      const color = s.dual ? acc : neu;
+      const g = sv("g", { class: "bar" + (set.has(s.id) ? "" : " dim") + (state.sel === s.pid ? " sel" : "") });
+      // holdover part: from the end of the appointing president's term
+      const apAdm = ADM.find((a) => a.k === s.ap);
+      const hold = apAdm ? ts(apAdm.e) + DAY : null;
+      if (hold && hold > s.ts && hold < s.te) {
+        const xh = X(hold);
+        g.append(sv("rect", { x: xa, y, width: Math.max(1, xh - xa - 1), height: barH, rx: 2, fill: color }));
+        g.append(sv("rect", { x: xh, y, width: Math.max(1, xa + w - xh), height: barH, rx: 2, fill: color, opacity: .4 }));
+      } else {
+        g.append(sv("rect", { x: xa, y, width: w, height: barH, rx: 2, fill: color }));
+      }
+      g.append(sv("rect", { x: xa - 2, y: y - 4, width: w + 4, height: barH + 8, fill: "transparent" }));
+      g.addEventListener("pointermove", (ev) => showTip(ev, spellTip(s)));
+      g.addEventListener("pointerleave", hideTip);
+      g.addEventListener("click", () => openPerson(s.pid));
+      svg.append(g);
+    }
+  }
+
+  // ---------------- chart helpers
+  function chartSvg(w, h) { return sv("svg", { viewBox: `0 0 ${w} ${h}`, role: "img" }); }
+  function miniTable(headers, rows) {
+    const t = el("table", { class: "mini-table" });
+    t.append(el("thead", {}, el("tr", {}, ...headers.map((h) => el("th", { text: h })))));
+    const tb = el("tbody");
+    rows.forEach((r) => tb.append(el("tr", {}, ...r.map((c) => el("td", { text: c })))));
+    t.append(tb); return t;
+  }
+
+  // dual share by appointing president
+  function renderDual(rows) {
+    const box = $("#dualChart"); box.replaceChildren();
+    const W = 560, H = 250, L = 36, B = 44, T = 22;
+    const svg = chartSvg(W, H);
+    const stats = ADM.map((a) => { const apps = rows.filter((s) => isNew(s) && s.ap === a.k); const d = apps.filter((s) => s.dual).length; return { a, n: apps.length, d, p: apps.length ? d / apps.length : 0 }; });
+    const maxP = Math.max(0.5, ...stats.map((s) => s.p));
+    const Y = (p) => T + (H - T - B) * (1 - p / maxP);
+    for (let p = 0; p <= maxP + 1e-9; p += 0.1) {
+      svg.append(sv("line", { x1: L, x2: W - 6, y1: Y(p), y2: Y(p), stroke: css("--grid") }));
+      const t = sv("text", { x: L - 6, y: Y(p) + 4, "text-anchor": "end", class: "axis-t" }); t.textContent = Math.round(p * 100) + "%"; svg.append(t);
+    }
+    const bw = (W - L - 12) / stats.length, barW = Math.min(24, bw * 0.55);
+    stats.forEach((s, i) => {
+      const cx = L + 6 + bw * i + bw / 2;
+      const y = Y(s.p), h = Y(0) - y;
+      if (s.n) {
+        svg.append(sv("path", { d: roundTop(cx - barW / 2, y, barW, h, 4), fill: css("--accent") }));
+        const v = sv("text", { x: cx, y: y - 6, "text-anchor": "middle", class: "val-t" }); v.textContent = Math.round(s.p * 100) + "%"; svg.append(v);
+      }
+      const lb = sv("text", { x: cx, y: H - B + 16, "text-anchor": "middle", class: "lab-t" }); lb.textContent = s.a.k; svg.append(lb);
+      const nb = sv("text", { x: cx, y: H - B + 31, "text-anchor": "middle", class: "axis-t" }); nb.textContent = `n=${s.n}`; svg.append(nb);
+      const hit = sv("rect", { x: cx - bw / 2, y: T, width: bw, height: H - T - B, class: "hit" });
+      hit.addEventListener("pointermove", (ev) => showTip(ev, [["tv", `${Math.round(s.p * 100)}%`], ["tk", `${s.a.k} 정부 신규 임명 ${s.n}건 중 겸직 ${s.d}건`]]));
+      hit.addEventListener("pointerleave", hideTip);
+      svg.append(hit);
+    });
+    svg.append(sv("line", { x1: L, x2: W - 6, y1: Y(0), y2: Y(0), stroke: css("--axis") }));
+    box.append(svg);
+    $("#dualTable").replaceChildren(miniTable(["정부", "신규 임명", "겸직", "비율"], stats.map((s) => [s.a.k, s.n, s.d, s.n ? (100 * s.p).toFixed(1) + "%" : "–"])));
+  }
+  function roundTop(x, y, w, h, r) {
+    if (h <= 0) return "";
+    r = Math.min(r, h, w / 2);
+    return `M${x},${y + h}V${y + r}Q${x},${y} ${x + r},${y}H${x + w - r}Q${x + w},${y} ${x + w},${y + r}V${y + h}Z`;
+  }
+  function roundRight(x, y, w, h, r) {
+    if (w <= 0) return "";
+    r = Math.min(r, w, h / 2);
+    return `M${x},${y}H${x + w - r}Q${x + w},${y} ${x + w},${y + r}V${y + h - r}Q${x + w},${y + h} ${x + w - r},${y + h}H${x}Z`;
+  }
+
+  // tenure strip plot
+  function renderTenure(rows) {
+    const box = $("#tenureChart"); box.replaceChildren();
+    const ids = new Set(rows.map((s) => s.id));
+    const apps = [];
+    for (const [id, a] of appTenure) { if (!a.open && a.parts.some((p) => ids.has(p.id))) apps.push(a); }
+    const W = 560, rowH = 26, L = 64, T = 10, B = 30;
+    const adms = ADM.filter((a) => apps.some((x) => x.head.ap === a.k));
+    const H = T + adms.length * rowH + B;
+    const svg = chartSvg(W, H);
+    const maxM = 60;
+    const X = (m) => L + (Math.min(m, maxM) / maxM) * (W - L - 16);
+    for (let m = 0; m <= maxM; m += 12) {
+      svg.append(sv("line", { x1: X(m), x2: X(m), y1: T - 4, y2: H - B + 4, stroke: css("--grid") }));
+      const t = sv("text", { x: X(m), y: H - B + 18, "text-anchor": "middle", class: "axis-t" }); t.textContent = m === maxM ? "60+" : m; svg.append(t);
+    }
+    const ax = sv("text", { x: W - 16, y: H - 2, "text-anchor": "end", class: "axis-t" }); ax.textContent = "개월"; svg.append(ax);
+    const tab = [];
+    adms.forEach((a, i) => {
+      const y = T + i * rowH + rowH / 2;
+      const lb = sv("text", { x: L - 8, y: y + 4, "text-anchor": "end", class: "lab-t" }); lb.textContent = a.k; svg.append(lb);
+      const list = apps.filter((x) => x.head.ap === a.k).map((x) => ({ x, m: (x.te - x.ts) / DAY / 30.44 })).sort((p, q) => p.m - q.m);
+      list.forEach((o, j) => {
+        const jy = y + (((j * 37) % 11) - 5) * 1.3;
+        const c = sv("circle", { cx: X(o.m), cy: jy, r: 3.2, fill: o.x.head.dual ? css("--accent") : css("--neutral-bar"), stroke: css("--surface"), "stroke-width": 1.5, class: "bar" });
+        c.addEventListener("pointermove", (ev) => showTip(ev, [["tv", `${o.m.toFixed(1)}개월`], ["tk", `${o.x.head.n} · ${o.x.head.t || o.x.head.m}`], ["", `${o.x.head.s} ~ ${new Date(o.x.te).toISOString().slice(0, 10)}`]]));
+        c.addEventListener("pointerleave", hideTip);
+        c.addEventListener("click", () => openPerson(o.x.head.pid));
+        svg.append(c);
+      });
+      if (list.length) {
+        const med = list[Math.floor(list.length / 2)].m;
+        svg.append(sv("line", { x1: X(med), x2: X(med), y1: y - 10, y2: y + 10, stroke: css("--ink"), "stroke-width": 2, "stroke-linecap": "round" }));
+        tab.push([a.k, list.length, med.toFixed(1), list[0].m.toFixed(1), list[list.length - 1].m.toFixed(1)]);
+      }
+    });
+    box.append(svg);
+    $("#tenureTable").replaceChildren(miniTable(["정부", "끝난 재임", "중앙값(개월)", "최단", "최장"], tab));
+  }
+
+  // nominations outcomes (hearing era)
+  const NOMCAT = [
+    ["adopted", "보고서 채택 후 임명", "--c1"],
+    ["noreport", "보고서 없이 임명", "--c2"],
+    ["withdrawn", "지명 철회·자진 사퇴", "--c3"],
+    ["rejected", "국회 부결", "--c4"],
+  ];
+  function nomCat(n) {
+    if (n.o === "rejected") return "rejected";
+    if (n.o === "withdrawn" || n.o === "nominee_withdrew") return "withdrawn";
+    if (n.o === "appointed" && n.rep === "yes") return "adopted";
+    if (n.o === "appointed" && n.rep === "no") return "noreport";
+    return null;
+  }
+  function renderNoms() {
+    const box = $("#nomChart"); box.replaceChildren();
+    const leg = $("#nomLegend"); leg.replaceChildren(...NOMCAT.map(([, t, c]) => el("span", {}, el("i", { class: "sw", style: `background:var(${c})` }), t)));
+    const noms = NOM.filter((n) => (n.hd && n.hd.length) || ["withdrawn", "nominee_withdrew", "rejected"].includes(n.o)).filter((n) => (!state.lin || n.l === state.lin) && (!state.q || (n.n || "").includes(state.q)));
+    const SPMAP = Object.fromEntries(SP.map((s) => [s.id, s]));
+    // presidential election days: nominations made by a president-elect count for the incoming president
+    const ELECT = { "김영삼": "1992-12-18", "김대중": "1997-12-18", "노무현": "2002-12-19", "이명박": "2007-12-19", "박근혜": "2012-12-19", "윤석열": "2022-03-09" };
+    const nomAdm = (n) => {
+      if (n.sid && SPMAP[n.sid] && SPMAP[n.sid].ap) return SPMAP[n.sid].ap;
+      const d = n.nd || n.rd || n.od; if (!d) return null;
+      const t = ts(d.slice(0, 10));
+      for (const [k, e] of Object.entries(ELECT)) { const [s] = admRange(k); if (t >= ts(e) && t < s) return k; }
+      return admOf(t);
+    };
+    const byA = ADM.map((a) => {
+      const list = noms.filter((n) => nomAdm(n) === a.k);
+      const c = Object.fromEntries(NOMCAT.map(([k]) => [k, list.filter((n) => nomCat(n) === k)]));
+      return { a, c, total: NOMCAT.reduce((s, [k]) => s + c[k].length, 0) };
+    }).filter((r) => r.total > 0 && (!state.admins.size || state.admins.has(r.a.k)));
+    const W = 560, rowH = 30, L = 64, T = 6, B = 26;
+    const H = T + byA.length * rowH + B;
+    const svg = chartSvg(W, H);
+    const max = Math.max(10, ...byA.map((r) => r.total));
+    const X = (v) => L + (v / max) * (W - L - 40);
+    for (let v = 0; v <= max; v += max > 40 ? 10 : 5) {
+      svg.append(sv("line", { x1: X(v), x2: X(v), y1: T, y2: H - B + 4, stroke: css("--grid") }));
+      const t = sv("text", { x: X(v), y: H - B + 18, "text-anchor": "middle", class: "axis-t" }); t.textContent = v; svg.append(t);
+    }
+    byA.forEach((r, i) => {
+      const y = T + i * rowH + 6, h = 16;
+      const lb = sv("text", { x: L - 8, y: y + 12, "text-anchor": "end", class: "lab-t" }); lb.textContent = r.a.k; svg.append(lb);
+      let acc = 0;
+      NOMCAT.forEach(([k, t, c], ci) => {
+        const n = r.c[k].length; if (!n) return;
+        const xa = X(acc) + (acc ? 1 : 0), xb = X(acc + n) - 1;
+        const last = NOMCAT.slice(ci + 1).every(([kk]) => !r.c[kk].length);
+        const shape = last ? sv("path", { d: roundRight(xa, y, Math.max(1, xb - xa), h, 4), fill: css(c) }) : sv("rect", { x: xa, y, width: Math.max(1, xb - xa), height: h, fill: css(c) });
+        shape.classList.add("bar");
+        shape.addEventListener("pointermove", (ev) => showTip(ev, [["tv", `${n}건`], ["tk", `${r.a.k} · ${t}`], ["", r.c[k].slice(0, 8).map((x) => x.n).join(", ") + (n > 8 ? " 외" : "")]]));
+        shape.addEventListener("pointerleave", hideTip);
+        svg.append(shape);
+        acc += n;
+      });
+      const tv = sv("text", { x: X(acc) + 6, y: y + 12, class: "val-t" }); tv.textContent = r.total; svg.append(tv);
+    });
+    box.append(svg);
+    $("#nomTable").replaceChildren(miniTable(["정부", ...NOMCAT.map((c) => c[1]), "합계"], byA.map((r) => [r.a.k, ...NOMCAT.map(([k]) => r.c[k].length), r.total])));
+  }
+
+  // appointments per year
+  function renderYears(rows) {
+    const box = $("#yearChart"); box.replaceChildren();
+    const apps = rows.filter(isNew);
+    const y0 = 1988, y1 = +CUTOFF.slice(0, 4);
+    const years = []; for (let y = y0; y <= y1; y++) years.push({ y, list: apps.filter((s) => +s.s.slice(0, 4) === y) });
+    const W = 560, H = 230, L = 30, B = 28, T = 16;
+    const svg = chartSvg(W, H);
+    const max = Math.max(5, ...years.map((x) => x.list.length));
+    const nice = max > 30 ? 10 : 5;
+    const top = Math.ceil(max / nice) * nice;
+    const Y = (v) => T + (H - T - B) * (1 - v / top);
+    for (let v = 0; v <= top; v += nice) {
+      svg.append(sv("line", { x1: L, x2: W - 4, y1: Y(v), y2: Y(v), stroke: css("--grid") }));
+      const t = sv("text", { x: L - 6, y: Y(v) + 4, "text-anchor": "end", class: "axis-t" }); t.textContent = v; svg.append(t);
+    }
+    const bw = (W - L - 8) / years.length, barW = Math.min(12, bw - 2);
+    years.forEach((o, i) => {
+      const cx = L + 4 + bw * i + bw / 2, n = o.list.length;
+      if (n) svg.append(sv("path", { d: roundTop(cx - barW / 2, Y(n), barW, Y(0) - Y(n), 3), fill: css("--accent") }));
+      if (o.y % 4 === 0) { const t = sv("text", { x: cx, y: H - B + 16, "text-anchor": "middle", class: "axis-t" }); t.textContent = o.y; svg.append(t); }
+      const hit = sv("rect", { x: cx - bw / 2, y: T, width: bw, height: H - T - B, class: "hit" });
+      hit.addEventListener("pointermove", (ev) => showTip(ev, [["tv", `${n}명`], ["tk", `${o.y}년 신규 임명`], ["", o.list.slice(0, 10).map((s) => s.n).join(", ") + (n > 10 ? " 외" : "")]]));
+      hit.addEventListener("pointerleave", hideTip);
+      svg.append(hit);
+    });
+    svg.append(sv("line", { x1: L, x2: W - 4, y1: Y(0), y2: Y(0), stroke: css("--axis") }));
+    box.append(svg);
+    $("#yearTable").replaceChildren(miniTable(["연도", "신규 임명"], years.map((o) => [o.y, o.list.length])));
+  }
+
+  // ---------------- table
+  const PAGE = 40;
+  function hearOf(s) { const n = s.nom && NOMMAP[s.nom]; if (!n || !n.hd || !n.hd.length) return ""; return n.hd[0] + (n.rep === "no" ? " · 보고서 미채택" : ""); }
+  function renderTable(rows) {
+    const { k, dir } = state.sort;
+    const val = (s) => k === "hear" ? hearOf(s) : k === "dual" ? (s.dual ? 1 : 0) : (s[k] ?? "");
+    const sorted = [...rows].sort((a, b) => { const x = val(a), y = val(b); return (x > y ? 1 : x < y ? -1 : 0) * dir; });
+    const pages = Math.max(1, Math.ceil(sorted.length / PAGE));
+    state.page = Math.min(state.page, pages - 1);
+    const tb = $("#tbl tbody"); tb.replaceChildren();
+    for (const s of sorted.slice(state.page * PAGE, state.page * PAGE + PAGE)) {
+      const tr = el("tr", { tabindex: "0" },
+        el("td", {}, el("b", { text: s.n }), s.h ? el("span", { class: "hanja", text: s.h }) : null),
+        el("td", { text: s.t || s.m }),
+        el("td", { class: "mono", text: s.s }),
+        el("td", { class: "mono", text: s.e || "재임 중" }),
+        el("td", { class: "num", text: fmtN(s.d) }),
+        el("td", { text: s.ap || "" }),
+        el("td", {}, s.dual ? el("span", { class: "tag dual", text: `${s.term ? s.term + "대 " : ""}${s.party || "겸직"}` }) : ""),
+        el("td", { class: "mono", text: hearOf(s) }),
+        el("td", { text: s.e ? (ER[s.er] || s.er || "") : "재임 중" }),
+        el("td", {}, s.ver && s.ver !== "confirmed" ? el("span", { class: "tag " + s.ver, text: VER[s.ver] || s.ver }) : el("span", { class: "tag", text: VER[s.ver] || "미검증" }))
+      );
+      tr.addEventListener("click", () => openPerson(s.pid));
+      tr.addEventListener("keydown", (e) => { if (e.key === "Enter") openPerson(s.pid); });
+      tb.append(tr);
+    }
+    $("#pageInfo").textContent = `${state.page + 1} / ${pages}`;
+    $("#tblCount").textContent = `${fmtN(rows.length)}건`;
+    document.querySelectorAll("#tbl th").forEach((th) => th.setAttribute("aria-sort", th.dataset.k === k ? (dir > 0 ? "ascending" : "descending") : "none"));
+  }
+  document.querySelectorAll("#tbl th").forEach((th) => th.addEventListener("click", () => { const k = th.dataset.k; state.sort = { k, dir: state.sort.k === k ? -state.sort.dir : 1 }; renderTable(filtered()); }));
+  $("#prev").addEventListener("click", () => { state.page = Math.max(0, state.page - 1); renderTable(filtered()); });
+  $("#next").addEventListener("click", () => { state.page += 1; renderTable(filtered()); });
+
+  // ---------------- person panel
+  const panel = $("#panel");
+  function openPerson(pid) {
+    state.sel = pid;
+    const p = PER[pid] || {};
+    const spells = SP.filter((s) => s.pid === pid).sort((a, b) => a.ts - b.ts);
+    const first = spells[0] || {};
+    panel.replaceChildren();
+    const close = el("button", { class: "close", type: "button", "aria-label": "닫기", text: "×" });
+    close.addEventListener("click", closePanel);
+    const kv = el("dl", { class: "kv" });
+    const add = (k, v) => { if (v) kv.append(el("dt", { text: k }), el("dd", { text: v })); };
+    add("한자", p.h || first.h); add("영문", first.en); add("생년", p.b); add("국회의원", p.na ? p.na.split(",").map((t) => t + "대").join(", ") : ""); add("의원 코드", p.mona);
+    panel.append(close, el("div", { class: "eyebrow", text: "인물 기록" }), el("h3", { text: p.n || first.n }), kv);
+    for (const s of spells) {
+      const n = s.nom && NOMMAP[s.nom];
+      const box = el("div", { class: "pspell" + (s.dual ? " isdual" : "") },
+        el("div", { class: "pt", text: s.t || s.m }),
+        el("div", { class: "pd", text: `${s.s} ~ ${s.e || "재임 중"} · ${fmtN(s.d)}일` }),
+        el("div", { class: "ps", text: `임명 ${s.ap || "?"}${s.pms ? " · " + s.pms : ""}${s.e ? " · 종료 " + (ER[s.er] || s.er || "") : ""}${s.reorg ? " · 부처 개편으로 이어진 재임" : ""}` })
+      );
+      if (s.dual) box.append(el("div", { class: "ps", text: `겸직: ${s.term ? s.term + "대 " : ""}${s.party || ""}${s.dist ? ", " + s.dist : ""}` }));
+      if (n && (n.hd?.length || n.nd)) box.append(el("div", { class: "ps", text: `지명 ${n.nd || "?"}${n.hd?.length ? " · 청문 " + n.hd.join(", ") : ""}${n.rep === "yes" ? " · 보고서 채택" : n.rep === "no" ? " · 보고서 미채택" : ""}` }));
+      if (s.src) { const d = el("div", { class: "ps" }, "시작일 근거: ", s.url ? el("a", { href: s.url, target: "_blank", rel: "noopener", text: s.src }) : s.src); box.append(d); }
+      if (s.esrc && s.e) { const d = el("div", { class: "ps" }, "종료일 근거: ", s.eurl ? el("a", { href: s.eurl, target: "_blank", rel: "noopener", text: s.esrc }) : s.esrc); box.append(d); }
+      box.append(el("div", { class: "ps", text: `검증 ${VER[s.ver] || "미검증"} · 시작일 확신도 ${s.conf || "?"} · 종료일 ${s.econf || "?"}` }));
+      panel.append(box);
+    }
+    const failed = NOM.filter((n) => n.n === (p.n || first.n) && ["withdrawn", "nominee_withdrew", "rejected"].includes(n.o));
+    for (const n of failed) panel.append(el("div", { class: "pspell" }, el("div", { class: "pt", text: `${n.t} 지명` }), el("div", { class: "pd", text: `${n.nd || "?"} · ${n.o === "rejected" ? "국회 부결" : "지명 철회·자진 사퇴"} ${n.od || ""}` })));
+    panel.hidden = false;
+    renderTimeline(filtered());
+    close.focus();
+  }
+  function closePanel() { panel.hidden = true; state.sel = null; renderTimeline(filtered()); }
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !panel.hidden) closePanel(); });
+
+  // ---------------- methods
+  function renderMethods() {
+    const m = DATA.meta, v = m.verification || {};
+    const tot = Object.values(v).reduce((a, b) => a + b, 0) || 1;
+    const meter = el("div", { class: "meter", role: "img", "aria-label": "검증 결과 비율" },
+      el("i", { style: `width:${(100 * (v.confirmed || 0)) / tot}%;background:var(--good)` }),
+      el("i", { style: `width:${(100 * (v.corrected || 0)) / tot}%;background:var(--c1)` }),
+      el("i", { style: `width:${(100 * (v.disputed || 0)) / tot}%;background:var(--warn)` }));
+    const col1 = el("div", {}, el("h3", { text: "출처" }), el("ul", {},
+      el("li", { text: "관보 임명 고시(2001년 이후 전자 원문). 임명일의 1차 근거입니다." }),
+      el("li", { text: "국회 의안정보시스템의 인사청문요청안과 국무총리 임명동의안." }),
+      el("li", { text: "부처 역대 장관 페이지, 대통령기록관, 정책브리핑, 당일 보도(빅카인즈, 네이버 뉴스)." }),
+      el("li", { text: "국회 열린국회정보 의원이력(12~22대)으로 겸직 기간을 날짜 단위로 판정했습니다." })));
+    const col2 = el("div", {}, el("h3", { text: "검증" }),
+      el("p", { text: `재임 기록 ${fmtN(tot)}건마다 구축 에이전트와 다른 출처로 날짜를 다시 확인했습니다. 확인 ${fmtN(v.confirmed || 0)}, 수정 ${fmtN(v.corrected || 0)}, 이견 ${fmtN(v.disputed || 0)}건입니다. 이견은 근거가 더 강한 값을 쓰고 다른 값을 함께 기록했습니다.` }), meter);
+    if (m.audit) col2.append(el("p", { text: m.audit.text }));
+    const col3 = el("div", {}, el("h3", { text: "범위와 한계" }), el("ul", {},
+      el("li", { text: "범위는 국무총리(서리 포함)와 국무위원 직위입니다. 직무대행은 재임 기록에 넣지 않았습니다." }),
+      el("li", { text: "2001년 이전은 관보 전자 원문이 없어 보도와 공식 페이지로 확인했습니다." }),
+      el("li", { text: "대통령 교체 때 이어진 재임은 연표에서 옅게 표시했습니다. 데이터 파일에는 정부별로 행을 나눈 표도 있습니다." }),
+      el("li", { text: `기준일은 ${m.cutoff}이며 그 뒤의 인사는 반영하지 않았습니다.` })));
+    $("#methods").replaceChildren(col1, col2, col3);
+  }
+
+  // ---------------- refresh
+  let lastW = 0;
+  function refresh() {
+    syncPills(); save();
+    const rows = filtered();
+    $("#fcount").textContent = `${fmtN(rows.length)} / ${fmtN(SP.length)}건`;
+    renderKPIs(rows); renderTimeline(rows); renderDual(rows); renderTenure(rows); renderNoms(); renderYears(rows);
+    state.page = 0; renderTable(rows);
+  }
+  buildHeader(); renderMethods(); refresh();
+  new ResizeObserver(() => { const w = $("#tlScroll").clientWidth; if (Math.abs(w - lastW) > 20) { lastW = w; renderTimeline(filtered()); } }).observe($("#tlScroll"));
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", refresh);
+  new MutationObserver(refresh).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+})();
+</script>

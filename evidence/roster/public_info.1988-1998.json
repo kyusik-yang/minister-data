@@ -1,0 +1,813 @@
+{
+ "lineage": "public_info",
+ "built_at": "2026-09-26T13:47:13-0400",
+ "window": {
+  "start": "1988-02-25",
+  "end": "1998-02-24",
+  "note": "Every 공보처장관 spell with a day in office in the window. 공보처 existed from 1990-01-03, so there are no spells before that date."
+ },
+ "ministry_names": [
+  {
+   "ministry": "공보처",
+   "from": "1990-01-03",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4183호 (1989-12-30 공포) 제26조의3 (공보처, 장관은 국무위원으로 보하고), effective 1990-01-03 under 부칙 제1조 단서 with 공보처직제 대통령령 제12898호 (1990-01-03 공포·시행). Renumbered 제26조의2 by 법률 제4268호 (1990-12-27). Broadcasting dropped from its remit by 법률 제4831호 (1994-12-23). Abolished by 정부조직법 전부개정 법률 제5529호 (1998-02-28), 제22조 (공보실 under the 국무총리, head not a 국무위원), 부칙 제3조.",
+   "source": "offices_1988.json OFA09 (sources GOA_4183, DEC_12898, GOA_4268, GOA_4831, GOA_5529, ARCH_OG0016597). Same office as offices.json OF006. Before 1990-01-03 the 공보 portfolio sat inside 문화공보부 (culture lineage)."
+  }
+ ],
+ "spells": [
+  {
+   "name": "최병렬",
+   "name_hanja": "崔秉烈",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-09-16",
+   "gender": "M",
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1990-01-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1990-01-03 p.1 \"盧대통령 임명장수여 신설 3개部處장관에\" (Naver News Library article 1990010300329201006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300329201006&editNo=3&printCount=1&publishDate=1990-01-03&officeId=00032&pageNo=1&printNo=13622&publishType=00020, OCR text: '盧泰愚대통령은 3일 상오청와대에서 李御寧문화부,曺京植환경처,崔秉烈공보처장관등 신설된 3개부처의 신임장관에게 임명장을 수여했다.', accessed 2026-09-26T09:07:29-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990010300329201006.json)",
+    "중앙일보 1990-01-03 \"신설부처 장관 임명장/노태우 대통령\" (BigKinds full text, news_id 01100901.19900103163342003, https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900103163342003&returnCnt=1&sectionDiv=1000, text: '노태우대통령은 3일 오전 청와대에서 이어령문화ㆍ조경식환경처ㆍ최병렬공보처장관 등 신설 3개부처 장관에게 임명장을 주었다.', accessed 2026-09-26T09:15:01-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100901.19900103163342003.json)",
+    "한국일보 1990-01-04 \"신임 3장관에 임명장\" (BigKinds full text, news_id 01101101.19900104000000205, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900104000000205&returnCnt=1&sectionDiv=1000, text: '노태우대통령은 3일 상오 이어령문화부장관 조경식환경처장관 최병렬 공보처장관에게 임명장을 주었다.', accessed 2026-09-26T09:15:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19900104000000205.json)",
+    "세계일보 1990-01-04 \"신임장관에 임명장/노대통령\" (BigKinds full text, news_id 01100701.19900104000000212, https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19900104000000212&returnCnt=1&sectionDiv=1000, text: '노태우대통령은 3일 오전 청와대에서 정부조직 개편에 따라 새로 임명된 이어령문화부장관,조경식환경처장관,최병렬공보처장관에게 임명장을 주었다.', accessed 2026-09-26T09:16:47-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100701.19900104000000212.json)",
+    "동아일보 1989-12-28 p.1 \"新設 3部장관 임명\" (Naver News Library article 1989122800209201008, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800209201008&editNo=2&printCount=1&publishDate=1989-12-28&officeId=00020&pageNo=1&printNo=20998&publishType=00020, OCR text: '盧泰愚대통령은 27일 오후내년1월3일부터 신설되는문화부장관에 李御寧犁大교수,환경처장관에 曺京植현교통부차관,공보처장관에 崔秉烈현문공부장관을 임명하는등 보각을 단행했다.' [named on 1989-12-27 for the office that opens on 1990-01-03], accessed 2026-09-26T09:06:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1989122800209201008.json)",
+    "정부조직법 일부개정 법률 제4183호 (1989-12-30 공포). Cabinet provisions (제26조의2 환경처, 제26조의3 공보처, 제29조①, 제35조의2 문화부) effective on the 직제 date, 1990-01-03 (부칙 제1조 단서; law.go.kr 조문시행일자 19900103) (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5791&efYd=19891230, accessed 2026-09-26T08:33:45-0400; snapshot inventory_sources/1988/law_go_kr/govorg/text_19891230_5791.json) via offices_1988.json OFA09 [공보처 exists from 1990-01-03]",
+    "국가기록원 기록물 생산기관 변천정보, 공보처 (OG0016597): 존립기간 1990.01.03 ~ 1998.02.27 (https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0016597, accessed 2026-09-26T08:52:06-0400; snapshot inventory_sources/1988/web/archives_organ/organ_OG0016597.html) via offices_1988.json OFA09 [공보처 existence starts 1990.01.03]",
+    "ko.wikipedia '대한민국 공보처' https://ko.wikipedia.org/w/index.php?oldid=41400921 (revid 41400921), table 공보처 장관 row '1989년 12월 28일 ~ 1990년 12월 20일' (tier 4, accessed 2026-09-24T22:43:44-0400; snapshot roster/sources/public_info/ext88/wiki/wiki_대한민국_공보처.json)"
+   ],
+   "end": "1990-12-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, OCR text: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고 10개부처와 청와대비서진을 개편하는등 대대적인 정부인사를단행했다.', accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700209201001.json)",
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, OCR text: '노동부장관에 崔秉烈공보처장관을', accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700209201001.json)",
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text: '또 노동부장관에는 崔秉烈공보처장관,', accessed 2026-09-26T09:08:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700099201001.json)",
+    "서울신문 1990-12-28 \"새 총리에 노재봉씨/10부 장관 경질·청와대비서진 개편\" (BigKinds full text, news_id 01100611.20160421001247892, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001247892&returnCnt=1&sectionDiv=1000, text: '노동부 장관에 최병렬 공보처 장관', accessed 2026-09-26T09:22:49-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421001247892.json)",
+    "한국일보 1990-12-28 \"총리에 노재봉씨\" (BigKinds full text, news_id 01101101.19901228000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000101&returnCnt=1&sectionDiv=1000, text: '노동부 장관에 최병렬 공보처 장관을', accessed 2026-09-26T09:23:21-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19901228000000101.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), 1990-12-27 '국무총리 임명' / '국무총리 노재봉, 통일원장관 최호중 등 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1990, accessed 2026-09-26T09:04:39-0400; snapshot roster/sources/public_info/ext88/official/pa_schedule_노태우_1990_p1.html)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' (https://db.history.go.kr/id/tcct_1990_12_27_0010, accessed 2026-09-26T09:13:55-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1990_12_27_0010.html)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting NA member during the spell. Former 12th NA member (민주정의당, 전국구, seat 1985-04-11..1988-05-29) and later 14th NA member (민주자유당, 전국구, seat 1992-05-30..1994-11-02), mona_cd 34C34428, from _rebuild/na_members/na_members_12_22.csv",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "First 공보처장관. Named on 1989-12-27 (보각) while sitting 문화공보부장관, together with 이어령 (문화부) and 조경식 (환경처), for the offices that 법률 제4183호 created with effect from 1990-01-03 (부칙 제1조 단서, 공보처직제 대통령령 제12898호). The papers of 1989-12-28 expected the 임명장 on 12-28, but 경향신문 (1990-01-03), 중앙일보 (1990-01-03), 한국일보 and 세계일보 (1990-01-04) report that the 임명장 for the three new offices were handed over on the morning of 1990-01-03, so start is the day the office opened. His 문화공보부장관 spell (culture lineage) runs to 1990-01-02. Because 공보처 was a new office and this lineage starts with him, reorg_continuation is false. Left on 1990-12-27 when he was appointed 노동부장관 in the 12·27 개각 (end_reason other = moved to another cabinet post). ko.wikipedia gives 1989-12-28 ~ 1990-12-20, which the day-of reports do not support. Birth date from the NA record (_rebuild/na_members/na_members_12_22.csv) and ko.wikipedia '최병렬 (정치인)'. News Library OCR passages were cross-checked against the typed BigKinds texts of other papers for the same events."
+  },
+  {
+   "name": "최창윤",
+   "name_hanja": "崔昌潤",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-09-07",
+   "gender": "M",
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1990-12-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, OCR text: '공보처장관에崔昌潤 대통령정무수석비서관을', accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700209201001.json)",
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text: '한편 盧대통령은 이날하오 신임각료및 청와대비서진들에게 임명장을 수여하고 임시국무회의를 주재했다.', accessed 2026-09-26T09:08:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700099201001.json)",
+    "조선일보 1990-12-28 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122800239101002, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=1&printNo=21500&publishType=00010, OCR text: '盧대통령은 이날 오후 신임盧총리서리를 비롯,새 각료들에게 임명장을 수여했으며', accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122800239101002.json)",
+    "서울신문 1990-12-28 \"새 총리에 노재봉씨/10부 장관 경질·청와대비서진 개편\" (BigKinds full text, news_id 01100611.20160421001247892, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001247892&returnCnt=1&sectionDiv=1000, text: '공보처 장관에 최창윤 대통령정무수석비서곤', accessed 2026-09-26T09:22:49-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421001247892.json)",
+    "한국일보 1990-12-28 \"총리에 노재봉씨\" (BigKinds full text, news_id 01101101.19901228000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000101&returnCnt=1&sectionDiv=1000, text: '공보처 장관에 최창윤 대통령정무수석비서관을', accessed 2026-09-26T09:23:21-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19901228000000101.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), 1990-12-27 '국무총리 임명' / '국무총리 노재봉, 통일원장관 최호중 등 임명' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1990, accessed 2026-09-26T09:04:39-0400; snapshot roster/sources/public_info/ext88/official/pa_schedule_노태우_1990_p1.html)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' (https://db.history.go.kr/id/tcct_1990_12_27_0010, accessed 2026-09-26T09:13:55-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1990_12_27_0010.html)",
+    "ko.wikipedia '대한민국 공보처' https://ko.wikipedia.org/w/index.php?oldid=41400921 (revid 41400921), table 공보처 장관 row '1990년 12월 20일 ~ 1992년 6월 6일' (tier 4, accessed 2026-09-24T22:43:44-0400; snapshot roster/sources/public_info/ext88/wiki/wiki_대한민국_공보처.json)"
+   ],
+   "end": "1992-06-08",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1992-06-06 p.1 \"공보처장관 孫柱煥씨 崔昌潤씨는 民自代表비서실장에\" (Naver News Library article 1992060600329101010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600329101010&editNo=15&printCount=1&publishDate=1992-06-06&officeId=00032&pageNo=1&printNo=14427&publishType=00010, OCR text: '崔昌潤 공보처장관은 같은날짜로 金泳三 民自黨대표최고위원 비서실장으로발령된다고 金대변인은 밝혔다.' [같은날짜 = 8일자], accessed 2026-09-26T09:08:23-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992060600329101010.json)",
+    "동아일보 1992-06-06 p.1 \"公報處장관 孫柱煥씨\" (Naver News Library article 1992060600209201008, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600209201008&editNo=1&printCount=1&publishDate=1992-06-06&officeId=00020&pageNo=1&printNo=21846&publishType=00020, OCR text: '盧泰愚대통령은 5일 공보처장관에孫柱煥前靑瓦臺정무수석 비서관을,金泳三民自黨 대표최고위원비서실장에 崔昌潤공보처장관을 오는 8일자로 각각 임명했다고 金學俊靑瓦臺대변인이 발표했다.', accessed 2026-09-26T09:08:32-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992060600209201008.json)",
+    "서울신문 1992-06-09 \"“내년 2월까지 10개월/국가발전 중요한 시기”\" (BigKinds full text, news_id 01100611.20160421124722101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421124722101&returnCnt=1&sectionDiv=1000, text: '이에앞서 최창윤전장관은 이임사를 통해' [이임식 on 1992-06-08, before 손주환's 취임식 the same day], accessed 2026-09-26T09:10:34-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421124722101.json)",
+    "문화일보 1992-06-07 \"공보처장관 孫柱煥 民自대표 비서실장 崔昌潤씨\" (BigKinds full text, news_id 01100501.19920607204610101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19920607204610101&returnCnt=1&sectionDiv=1000, text: '盧泰愚대통령은 5일 공보처장관을 경질、 孫柱焕前청와대정무수석비서관을8일자로 새장관에 임명했다。', accessed 2026-09-26T09:11:38-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100501.19920607204610101.json)",
+    "ko.wikipedia '대한민국 공보처' https://ko.wikipedia.org/w/index.php?oldid=41400921 (revid 41400921), table 공보처 장관 row '1990년 12월 20일 ~ 1992년 6월 6일' (tier 4, accessed 2026-09-24T22:43:44-0400; snapshot roster/sources/public_info/ext88/wiki/wiki_대한민국_공보처.json)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting NA member during the spell. Former 13th NA member (민주정의당, 전국구, seat 1988-05-30..1988-12-22, resigned on appointment as 대통령 정무수석비서관), mona_cd C0E9428E, from _rebuild/na_members/na_members_12_22.csv",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Appointed in the 12·27 개각 of 1990 (국무총리서리 노재봉), moving from 대통령 정무수석비서관. The cabinet list was announced in the morning and the 임명장 were handed over the same afternoon (매일경제 1990-12-27, 조선일보 1990-12-28). On 1992-06-05 the 청와대 announced that he would become 민자당 대표최고위원(김영삼) 비서실장 and that 손주환 would succeed him, both with effect from 1992-06-08 (8일자). He gave his 이임사 at the 공보처 on 1992-06-08 (서울신문 1992-06-09), so end is 1992-06-08 (end_reason other = moved to a party post). ko.wikipedia gives 1990-12-20 ~ 1992-06-06, which the day-of reports do not support. Later 총무처장관 from 1993-02-26 (general_affairs lineage). Birth date from the NA record (_rebuild/na_members/na_members_12_22.csv) and ko.wikipedia '최창윤'."
+  },
+  {
+   "name": "손주환",
+   "name_hanja": "孫柱煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-04-20",
+   "gender": "M",
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1992-06-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "경향신문 1992-06-06 p.1 \"공보처장관 孫柱煥씨 崔昌潤씨는 民自代表비서실장에\" (Naver News Library article 1992060600329101010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600329101010&editNo=15&printCount=1&publishDate=1992-06-06&officeId=00032&pageNo=1&printNo=14427&publishType=00010, OCR text: '盧泰愚대통령은 공보처장관에 孫柱煥 前청와대정무수석을 오는 8일자로임명한다고 金學俊 청와대 대변인이 5일 발표했다.', accessed 2026-09-26T09:08:23-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992060600329101010.json)",
+    "매일경제 1992-06-06 p.1 \"公報處장관 孫柱煥씨\" (Naver News Library article 1992060600099201006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600099201006&editNo=1&printCount=1&publishDate=1992-06-06&officeId=00009&pageNo=1&printNo=8124&publishType=00020, OCR text: '盧泰愚대통령은 8일자로 공보처장관에 孫柱煥前청와대정무수석비서관을임명했다고 5일오후 金學俊청와대대변인이 발표했다.', accessed 2026-09-26T09:08:41-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992060600099201006.json)",
+    "서울신문 1992-06-06 \"공보처장관 손주환씨/김 대표 비서실장에 최창윤씨\" (BigKinds full text, news_id 01100611.20160421124334898, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421124334898&returnCnt=1&sectionDiv=1000, text: '노태우대통령은 오는 8일자로 공보처장관에 손주환 전청와대정무수석비서관을 임명했다고 김학준청와대대변인이 5일 발표했다.', accessed 2026-09-26T09:11:00-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421124334898.json)",
+    "서울신문 1992-06-09 \"“내년 2월까지 10개월/국가발전 중요한 시기”\" (BigKinds full text, news_id 01100611.20160421124722101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421124722101&returnCnt=1&sectionDiv=1000, text: '손장관은 이날 공보처강당에서 가진 취임식에서' [이날 = 8일], accessed 2026-09-26T09:10:34-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421124722101.json)",
+    "국민일보 1992-06-09 \"“노 대통령 집권마무리 총력”/신임 공보처장관 손주환씨\" (BigKinds full text, news_id 01100201.19920609000000801, https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920609000000801&returnCnt=1&sectionDiv=1000, text: '8일 취임한 손주환공보처장관(53)은', accessed 2026-09-26T09:10:12-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100201.19920609000000801.json)"
+   ],
+   "end": "1992-10-09",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 1992-10-08 \"“늙은이 데려다 채찍질할 필요있나”/「현승종총리」 지명 안팎\" (BigKinds full text, news_id 01100101.19921008000000401, https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19921008000000401&returnCnt=1&sectionDiv=1000, text: '한편 손주환 공보처장관은 사표를 제출한뒤 기자실에 들러 『4개월동안 신세 많이 졌다』며 『정이 들려고 할 때 내각을 떠나게 돼 섭섭하다』며 안타까움을 피력.' [remark made on 1992-10-07 after the 국무회의 at which the 정원식 cabinet signed collective resignations. 서울신문 1992-10-10 reports that the resignations of the ministers who stayed were returned on 10-09, so his was the one accepted when 유혁인 was appointed], accessed 2026-09-26T12:50:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100101.19921008000000401.json)",
+    "동아일보 1992-10-09 p.1 \"安企部長-4部處장관 경질「中立內閣」출범\" (Naver News Library article 1992100900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, OCR text: '盧泰愚대통령은 9일오전 국가안전기획부장에 李賢雨靑瓦臺경호실장,내무부장관에 白光鉉前법원연수원장,법무부장관에 李正雨前법원행정처장,공보처장관에 柳赫仁한국국제교류재단이사장,정무제1장관에 金東益中央日報고문을 각각 임명했다.', accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900209201001.json)",
+    "동아일보 1992-10-09 p.1 \"安企部長-4部處장관 경질「中立內閣」출범\" (Naver News Library article 1992100900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, OCR text: '盧대통령은 이날오후 靑瓦臺에서 신임 안기부장및4개부처장관들에게 임명장을 수여했다.', accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900209201001.json)",
+    "한국일보 1992-10-10 \"4부처 장관 경질/안기부장에 이현우씨\" (BigKinds full text, news_id 01101101.19921010000000103, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19921010000000103&returnCnt=1&sectionDiv=1000, text: '공보처장관에 유혁인 한국국제교류재단 이사장을', accessed 2026-09-26T09:24:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19921010000000103.json)",
+    "서울신문 1992-10-10 \"오늘 중립내각 첫 각의/어제/안기부장·4부처장관 경질\" (BigKinds full text, news_id 01100611.20160421173954422, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421173954422&returnCnt=1&sectionDiv=1000, text: '노대통령은 이날 하오 신임각료들에게 임명장을 수여했으며 유임된 나머지 각료들의 사표를 모두 반려했다.', accessed 2026-09-26T09:23:57-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421173954422.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1992), 1992-10-09 '중립내각 구성에 관한 특별 담화 발표' / '신임국무총리에 현승종, 내무부장관 백광현, 법무부장관 이정우, 공보처장관 유혁인, 정무제1장관 김동익 등 중립내각 개편' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1992, accessed 2026-09-26T09:04:41-0400; snapshot roster/sources/public_info/ext88/official/pa_schedule_노태우_1992_p1.html)",
+    "국사편찬위원회 대한민국사연표 1992-10-09 '노태우 대통령, 내무부장관 백광현·법무부장관 이정우·공보처장관 유혁인·정무제1장관 김동익 등 중립내각 개편' (https://db.history.go.kr/id/tcct_1992_10_09_0010, accessed 2026-09-26T09:13:56-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1992_10_09_0010.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting NA member during the spell. Former 13th NA member (민주정의당, 전국구, seat 1988-05-30..1990-12-29, resigned on appointment as 대통령 정무수석비서관), mona_cd TJJ2271P, from _rebuild/na_members/na_members_12_22.csv (the NA record spells the hanja 孫株煥)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Announced by 청와대 대변인 김학준 on 1992-06-05 with effect from 1992-06-08 (8일자). 한겨레 and 한국일보 of 1992-06-06 write that he was appointed on the 5th, but most reports give 8일자, and 서울신문 and 국민일보 (1992-06-09) report his 취임식 on 1992-06-08. He had left the post of 정무수석비서관 in early May 1992 during the 민자당 presidential primary (국민일보 1992-06-09). Replaced in the 10·9 중립내각 reshuffle of 1992-10-09, when 노태우 changed the ministers most involved in running the presidential election. ko.wikipedia gives 1992-06-06 ~ 1992-10-09. Hanja 孫柱煥 as printed in the 1992 papers and on ko.wikipedia. The NA member record has 孫株煥. Birth date from the NA record (_rebuild/na_members/na_members_12_22.csv) and ko.wikipedia '손주환 (정치인)'. Cousin (사촌 처남) of 김영삼 per 국민일보 1992-06-09. 경향신문 of 1992-10-08 reports that after signing the cabinet's collective resignation on 1992-10-07 he said goodbye to the press room as the outgoing minister, which ties the 10·9 replacement to him by name."
+  },
+  {
+   "name": "유혁인",
+   "name_hanja": "柳赫仁",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1934",
+   "gender": "M",
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1992-10-09",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1992-10-09 p.1 \"安企部長-4部處장관 경질「中立內閣」출범\" (Naver News Library article 1992100900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, OCR text: '공보처장관에 柳赫仁한국국제교류재단이사장', accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900209201001.json)",
+    "동아일보 1992-10-09 p.1 \"安企部長-4部處장관 경질「中立內閣」출범\" (Naver News Library article 1992100900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, OCR text: '盧대통령은 이날오후 靑瓦臺에서 신임 안기부장및4개부처장관들에게 임명장을 수여했다.', accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900209201001.json)",
+    "매일경제 1992-10-10 p.2 \"柳신임공보처 첫회견 \"MBC 파업사태 「국민입장」서 수습\"\" (Naver News Library article 1992101000099202011, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000099202011&editNo=1&printCount=1&publishDate=1992-10-10&officeId=00009&pageNo=2&printNo=8230&publishType=00020, OCR text: '柳赫仁신임공보처장관은9일', accessed 2026-09-26T09:12:01-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992101000099202011.json)",
+    "한국일보 1992-10-10 \"4부처 장관 경질/안기부장에 이현우씨\" (BigKinds full text, news_id 01101101.19921010000000103, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19921010000000103&returnCnt=1&sectionDiv=1000, text: '노 대통령은 이날 하오 청와대에서 신임 안기부장 및 4개부처 장관들에게 임명장을 수여했다.', accessed 2026-09-26T09:24:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19921010000000103.json)",
+    "서울신문 1992-10-10 \"오늘 중립내각 첫 각의/어제/안기부장·4부처장관 경질\" (BigKinds full text, news_id 01100611.20160421173954422, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421173954422&returnCnt=1&sectionDiv=1000, text: '공보처장관에 유혁인국제교류재단이사장', accessed 2026-09-26T09:23:57-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421173954422.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1992), 1992-10-09 '중립내각 구성에 관한 특별 담화 발표' / '신임국무총리에 현승종, 내무부장관 백광현, 법무부장관 이정우, 공보처장관 유혁인, 정무제1장관 김동익 등 중립내각 개편' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=노태우 year=1992, accessed 2026-09-26T09:04:41-0400; snapshot roster/sources/public_info/ext88/official/pa_schedule_노태우_1992_p1.html)",
+    "국사편찬위원회 대한민국사연표 1992-10-09 '노태우 대통령, 내무부장관 백광현·법무부장관 이정우·공보처장관 유혁인·정무제1장관 김동익 등 중립내각 개편' (https://db.history.go.kr/id/tcct_1992_10_09_0010, accessed 2026-09-26T09:13:56-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1992_10_09_0010.html)",
+    "ko.wikipedia '대한민국 공보처' https://ko.wikipedia.org/w/index.php?oldid=41400921 (revid 41400921), table 공보처 장관 row '1992년 10월 9일 ~ 1993년 2월 25일' (tier 4, accessed 2026-09-24T22:43:44-0400; snapshot roster/sources/public_info/ext88/wiki/wiki_대한민국_공보처.json)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text: '金泳三대통령은 26일오전 새정부의 組閣내용을발표', accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022600209201001.json)",
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text: '공보처장관에 吳隣煥民自黨총재정치특보', accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022600209201001.json)",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다.', accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022700289101001.json)",
+    "한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\" (BigKinds full text, news_id 01101101.19930227000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000, text: '이밖에 공보처장관에는 오인환 민자당 총재정치특보가', accessed 2026-09-26T09:24:53-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19930227000000101.json)",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常사태 새政府가 대처\"\" (Naver News Library article 1993022400099202004, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, OCR text: '따라서 새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다.' [총무처 interpretation of 1993-02-24: the 현승종 cabinet stays in office until each successor is appointed], accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022400099202004.json)",
+    "매일경제 1993-02-20 p.2 \"公明선거 有功者 서훈 玄총리\" (Naver News Library article 1993022000099202016, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022000099202016&editNo=1&printCount=1&publishDate=1993-02-20&officeId=00009&pageNo=2&printNo=8340&publishType=00020, OCR text: '柳赫仁공보처' [still named as 공보처장관 at a cabinet event on 1993-02-20], accessed 2026-09-26T09:36:10-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022000099202016.json)",
+    "동아일보 1993-02-26 p.3 \"\"適任\"…\"意外\"…환영과 우려\" (Naver News Library article 1993022600209203001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=3&printNo=22097&publishType=00020, OCR text: '한편 崔前부총리는 이날오전 이임식을 갖고' [outgoing 노태우 ministers left on 1993-02-26, the day their successors were appointed], accessed 2026-09-26T09:36:12-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022600209203001.json)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), 1993-02-26 '각 부 장관 등 새정부 발표' / '국무위원, 국가안전기획부장, 서울특별시장 등 새정부 진용 발표' (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1993, accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/public_info/ext88/official/pa_schedule_김영삼_1993_p1.html)",
+    "국사편찬위원회 대한민국사연표 1993-02-26 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' (https://db.history.go.kr/id/tcct_1993_02_26_0010, accessed 2026-09-26T09:07:15-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1993_02_26_0010.html)",
+    "ko.wikipedia '류혁인' https://ko.wikipedia.org/w/index.php?oldid=41127875 (revid 41127875), text '1992년 10월 9일부터 1993년 2월 25일까지 공보처 장관' (tier 4, accessed 2026-09-26T09:35:21-0400; snapshot roster/sources/public_info/ext88/wiki/wiki_bio_류혁인.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "no NA membership found in _rebuild/na_members/na_members_12_22.csv (terms 12-22)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Appointed in the 10·9 중립내각 reshuffle of 1992 (국무총리 현승종 제청), announced in the morning with the 임명장 in the afternoon of 1992-10-09. He stayed in office into the 김영삼 presidency. According to the 총무처 reading reported by 매일경제 (1993-02-24), the 현승종 cabinet did not have to tender a collective resignation and each minister would hand over when a successor was appointed. The new cabinet, with 오인환 as 공보처장관, was announced on the morning of 1993-02-26 and received its 임명장 that afternoon, and other outgoing ministers (최각규, 이진삼, 진념) held their 이임식 on 1993-02-26. No report of his own 이임식 was found (News Library and BigKinds searched for 유혁인/柳赫仁 1993-02-21 to 1993-04-30), so end is set to the successor's appointment day. ko.wikipedia '대한민국 공보처' and '류혁인' give 1993-02-25. The surname is written 柳 (유혁인 in the papers of the time, 류혁인 on ko.wikipedia). Birth year only, from ko.wikipedia '류혁인' (tier 4). 연합뉴스 1999-01-29 (https://n.news.naver.com/mnews/article/001/0004437011, accessed 2026-09-26T09:35:30-0400, snapshot roster/sources/public_info/ext88/news/naver_001_0004437011.html) reports his death at 향년 65세. Gender from the same obituary, which names his wife."
+  },
+  {
+   "name": "오인환",
+   "name_hanja": "吳隣煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds metadata record: 부산일보 1993-02-26 '부총리 李經植(경제)·韓完相씨(통일)' (search '오인환 공보처장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:41-0400; snapshot roster/sources/culture/bigkinds_오인환_공보처장관_1993-02-25_1993-02-28.json) [summary: cabinet list of 26 Feb 1993 includes '공보처 오인환']",
+    "BigKinds metadata record: 국민일보 1993-02-26 '부총리 이경식(경제)·한완상(통일)씨/김 대통령 조각발표' (search '오인환 공보처장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:41-0400; snapshot roster/sources/culture/bigkinds_오인환_공보처장관_1993-02-25_1993-02-28.json) [summary: list includes '공보처 오인환']",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 lists '제5대 오인환 1993년 2월 26일 ~ 1998년 2월 24일' (accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext)",
+    "BigKinds metadata record: 서울신문 1993-02-27 '부총리 이경식(기획원) 한완상(통일원)씨' news_id 01100611.20160421220436146 (search '오인환 공보처' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:04:14-0400; snapshot roster/sources/culture/verify/bk/s00_start_오인환_공보처_1993_02_25_1993_02_28.json) [verifier] [summary: 김영삼대통령은 26일 ... 공보처 오인환]"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1998-02-27 16:44 '高총리 등 일부 국무위원 3월봉급 반납키로' https://n.news.naver.com/mnews/article/001/0004290714 (accessed 2026-09-24T22:45:21-0400; snapshot roster/sources/culture/naver_yna_19980227_salary_return.html) [summary: 27 Feb 1998: 吳隣煥공보처장관 among the sitting 각료 deciding to return March pay]",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effective.html) [summary: new 정부조직법 promulgated and effective 28 Feb 1998, abolishing 공보처]",
+    "offices.json OF006 (공보처 abolished by 법률 제5529호 effective 1998-02-28)",
+    "BigKinds metadata record: 한국일보 1998-02-28 '“하루만 근무해도 한달봉급”/구 내각 장관들 반납 결의' news_id 01101101.19980228000000505 (search '오인환 공보처장관' 1998-02-23..03-03, accessed 2026-09-25T14:04:00-0400; snapshot roster/sources/culture/verify/bk/s00_end_오인환_공보처장관_1998_02_23_1998_03_03.json) [summary: 고건 총리와 몇몇 장관들은 27일 오찬을 함께 하면서 ... 오인환 공보처장관 및 송종의 법제처장관 등이 뜻을 같이했고]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "YS-era holdover in the window 1998-02-25..02-27. 공보처 has no lineage key in offices.json and is folded into culture by instruction (문화관광부 took 방송행정·출판·간행물·해외홍보, 법률 제5529호 부칙 제3조). The office was abolished on 1998-02-28 and he was not carried over (부칙 제3조② excludes 정무직). ko.wikipedia gives 퇴임 1998-02-24, the day of his farewell press meeting (연합뉴스 1998-02-24 https://n.news.naver.com/mnews/article/001/0004296439, snapshot naver_yna_19980224_oh_farewell.html), but 연합뉴스 still names him as sitting 공보처장관 on 02-27 and on 03-02 (standing by at home, 'naver_yna_19980302_paralysis.html'). End set to the last day before abolition. Birth date and gender were not confirmed in a saved source.",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "office_title": "공보처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "request_date": null,
+   "outcome": "appointed",
+   "nominee": "최병렬",
+   "nomination_date": "1989-12-27",
+   "outcome_date": "1990-01-03",
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Named on 1989-12-27 (보각) for the office that opened on 1990-01-03. 임명장 on 1990-01-03.",
+   "sources": [
+    "동아일보 1989-12-28 p.1 \"新設 3部장관 임명\" (Naver News Library article 1989122800209201008, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800209201008&editNo=2&printCount=1&publishDate=1989-12-28&officeId=00020&pageNo=1&printNo=20998&publishType=00020, OCR text: '盧泰愚대통령은 27일 오후내년1월3일부터 신설되는문화부장관에 李御寧犁大교수,환경처장관에 曺京植현교통부차관,공보처장관에 崔秉烈현문공부장관을 임명하는등 보각을 단행했다.' [named on 1989-12-27 for the office that opens on 1990-01-03], accessed 2026-09-26T09:06:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1989122800209201008.json)",
+    "서울신문 1989-12-28 \"신설 3部處장관 임명\" (BigKinds full text, news_id 01100611.19891228162332001, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19891228162332001&returnCnt=1&sectionDiv=1000, text: '공보처장관에 崔秉烈문공부장관을 각각 임명했다.', accessed 2026-09-26T09:15:51-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.19891228162332001.json)",
+    "한국일보 1989-12-28 \"문화 李御寧 환경 曺京植 공보 崔秉烈\" (BigKinds full text, news_id 01101101.19891228125004101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19891228125004101&returnCnt=1&sectionDiv=1000, text: '공보처장관에 崔秉烈 현 문공부장관을 각각 임명했다.', accessed 2026-09-26T09:16:17-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19891228125004101.json)",
+    "국사편찬위원회 대한민국사연표 1989-12-27 '정부, 신설 3개 부처 보각(補閣)' (https://db.history.go.kr/id/tcct_1989_12_27_0010, accessed 2026-09-26T09:13:53-0400; snapshot roster/sources/public_info/ext88/official/chrono_entry_tcct_1989_12_27_0010.html)",
+    "경향신문 1990-01-03 p.1 \"盧대통령 임명장수여 신설 3개部處장관에\" (Naver News Library article 1990010300329201006, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300329201006&editNo=3&printCount=1&publishDate=1990-01-03&officeId=00032&pageNo=1&printNo=13622&publishType=00020, OCR text: '盧泰愚대통령은 3일 상오청와대에서 李御寧문화부,曺京植환경처,崔秉烈공보처장관등 신설된 3개부처의 신임장관에게 임명장을 수여했다.', accessed 2026-09-26T09:07:29-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990010300329201006.json)"
+   ]
+  },
+  {
+   "office_title": "공보처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "request_date": null,
+   "outcome": "appointed",
+   "nominee": "최창윤",
+   "nomination_date": "1990-12-27",
+   "outcome_date": "1990-12-27",
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Named in the 12·27 개각 and given the 임명장 the same afternoon.",
+   "sources": [
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, OCR text: '공보처장관에崔昌潤 대통령정무수석비서관을', accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700209201001.json)",
+    "매일경제 1990-12-27 p.1 \"총리에 盧在鳳씨\" (Naver News Library article 1990122700099201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700099201001&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00009&pageNo=1&printNo=7670&publishType=00020, OCR text: '한편 盧대통령은 이날하오 신임각료및 청와대비서진들에게 임명장을 수여하고 임시국무회의를 주재했다.', accessed 2026-09-26T09:08:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1990122700099201001.json)",
+    "한국일보 1990-12-28 \"총리에 노재봉씨\" (BigKinds full text, news_id 01101101.19901228000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000101&returnCnt=1&sectionDiv=1000, text: '공보처 장관에 최창윤 대통령정무수석비서관을', accessed 2026-09-26T09:23:21-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19901228000000101.json)"
+   ]
+  },
+  {
+   "office_title": "공보처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "request_date": null,
+   "outcome": "appointed",
+   "nominee": "손주환",
+   "nomination_date": "1992-06-05",
+   "outcome_date": "1992-06-08",
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on 1992-06-05 with effect from 1992-06-08 (8일자).",
+   "sources": [
+    "경향신문 1992-06-06 p.1 \"공보처장관 孫柱煥씨 崔昌潤씨는 民自代表비서실장에\" (Naver News Library article 1992060600329101010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600329101010&editNo=15&printCount=1&publishDate=1992-06-06&officeId=00032&pageNo=1&printNo=14427&publishType=00010, OCR text: '盧泰愚대통령은 공보처장관에 孫柱煥 前청와대정무수석을 오는 8일자로임명한다고 金學俊 청와대 대변인이 5일 발표했다.', accessed 2026-09-26T09:08:23-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992060600329101010.json)",
+    "서울신문 1992-06-06 \"공보처장관 손주환씨/김 대표 비서실장에 최창윤씨\" (BigKinds full text, news_id 01100611.20160421124334898, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421124334898&returnCnt=1&sectionDiv=1000, text: '노태우대통령은 오는 8일자로 공보처장관에 손주환 전청와대정무수석비서관을 임명했다고 김학준청와대대변인이 5일 발표했다.', accessed 2026-09-26T09:11:00-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421124334898.json)",
+    "서울신문 1992-06-09 \"“내년 2월까지 10개월/국가발전 중요한 시기”\" (BigKinds full text, news_id 01100611.20160421124722101, https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421124722101&returnCnt=1&sectionDiv=1000, text: '손장관은 이날 공보처강당에서 가진 취임식에서' [이날 = 8일], accessed 2026-09-26T09:10:34-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100611.20160421124722101.json)"
+   ]
+  },
+  {
+   "office_title": "공보처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "request_date": null,
+   "outcome": "appointed",
+   "nominee": "유혁인",
+   "nomination_date": "1992-10-09",
+   "outcome_date": "1992-10-09",
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. 경향신문 of 1992-10-09 reported him as confirmed 내정자 before the 09:00 announcement. Announced and appointed on 1992-10-09.",
+   "sources": [
+    "동아일보 1992-10-09 p.1 \"安企部長-4部處장관 경질「中立內閣」출범\" (Naver News Library article 1992100900209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900209201001&editNo=3&printCount=1&publishDate=1992-10-09&officeId=00020&pageNo=1&printNo=21965&publishType=00020, OCR text: '공보처장관에 柳赫仁한국국제교류재단이사장', accessed 2026-09-26T09:11:48-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900209201001.json)",
+    "한국일보 1992-10-10 \"4부처 장관 경질/안기부장에 이현우씨\" (BigKinds full text, news_id 01101101.19921010000000103, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19921010000000103&returnCnt=1&sectionDiv=1000, text: '노 대통령은 이날 하오 청와대에서 신임 안기부장 및 4개부처 장관들에게 임명장을 수여했다.', accessed 2026-09-26T09:24:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19921010000000103.json)",
+    "경향신문 1992-10-09 p.1 \"中立내각 오늘 출범\" (Naver News Library article 1992100900329101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992100900329101001&editNo=15&printCount=1&publishDate=1992-10-09&officeId=00032&pageNo=1&printNo=14548&publishType=00010, OCR text: '공보처장관에는 柳赫仁한국국제교류재단이사장이 내정된것으로 확인됐다.', accessed 2026-09-26T09:12:04-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1992100900329101001.json)"
+   ]
+  },
+  {
+   "office_title": "공보처장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "request_date": null,
+   "outcome": "appointed",
+   "nominee": "오인환",
+   "nomination_date": "1993-02-26",
+   "outcome_date": "1993-02-26",
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Named in the first 김영삼 cabinet on the morning of 1993-02-26 and given the 임명장 that afternoon. The spell itself is the 1998 holdover record copied from culture.verified.json.",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府 組閣발표 부총리 李經植씨(기획원) 韓完相씨(통일원)\" (Naver News Library article 1993022600209201001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, OCR text: '공보처장관에 吳隣煥民自黨총재정치특보', accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022600209201001.json)",
+    "한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다.', accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022700289101001.json)",
+    "한국일보 1993-02-27 \"부총리 이경식 기획원·한완상씨 통일원/새 내각 발표\" (BigKinds full text, news_id 01101101.19930227000000101, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000, text: '이밖에 공보처장관에는 오인환 민자당 총재정치특보가', accessed 2026-09-26T09:24:53-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19930227000000101.json)",
+    "동아일보 1993-02-27 p.3 \"취임식장의 吳공보처\" (Naver News Library article 1993022700209203010, viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209203010&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=3&printNo=22098&publishType=00020, OCR text: '吳隣煥공보처장관(왼쪽)이 26일 오후 취임식장에 李庚植차관의 안내를 받으며들어서고 있다.', accessed 2026-09-26T09:12:21-0400; snapshot roster/sources/public_info/ext88/newslib/nl_1993022700209203010.json)"
+   ]
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "No official 역대 장관 list exists for the 1990-1998 공보처 (the mcst 공보처 tab is the 1948-1956 office, per SOURCES_TOOLKIT.md), so the holder list rests on ko.wikipedia plus day-of news, and the dates on day-of news, 대통령기록관 schedules and the 국사편찬위원회 연표. ko.wikipedia '대한민국 공보처' (revid 41400921) differs from the day-of reports at every boundary. It gives 최병렬 1989-12-28 ~ 1990-12-20, 최창윤 1990-12-20 ~ 1992-06-06, 손주환 1992-06-06 ~ 1992-10-09, 류혁인 1992-10-09 ~ 1993-02-25 and 오인환 1993-02-26 ~ 1998-02-24. This file uses 1990-01-03 (임명장 for the new office), 1990-12-27 (12·27 개각, 임명장 that afternoon), 1992-06-08 (8일자 appointment, 이·취임식 06-08), 1992-10-09 (중립내각, 임명장 that afternoon) and 1993-02-26 (first 김영삼 cabinet, 임명장 that afternoon)."
+  },
+  {
+   "severity": "low",
+   "desc": "The 1998 holdover 오인환 (1993-02-26 ~ 1998-02-27) is copied unchanged from culture.verified.json with from_main true. His ministry value 공보처 is mapped to public_info through offices_1988.json ministry_to_lineage_overrides ('공보처 -> public_info'), which build_panel.py applies. Evidence found here agrees with the main record's start. 동아일보 1993-02-26 reports the announcement on the morning of 02-26 with the 임명장 that afternoon, and 동아일보 1993-02-27 shows him at his 취임식 on the afternoon of 02-26. Nothing found here contradicts the main record, so no high-severity issue is raised."
+  },
+  {
+   "severity": "low",
+   "desc": "유혁인's end (1993-02-26) is inferred from the successor's appointment. The 현승종 cabinet did not resign collectively on 1993-02-24/25 (매일경제 1993-02-24 quotes the 총무처 view that ministers hand over when a successor is appointed), and other outgoing ministers held their 이임식 on 1993-02-26. No report of his own 이임식 was found."
+  },
+  {
+   "severity": "low",
+   "desc": "최병렬 held 문화공보부장관 (culture lineage) until 1990-01-02 and was named 공보처장관 on 1989-12-27 while still in that post. Here his 공보처 spell starts 1990-01-03 with reorg_continuation false, because public_info has no predecessor spell. If the panel should treat his move from 문화공보부 to 공보처 as one continuous appointment across lineages, that link has to be made outside this file. The culture ext88 file should end his 문화공보부 spell on 1990-01-02."
+  },
+  {
+   "severity": "low",
+   "desc": "손주환's hanja is 孫柱煥 in the 1992 papers and on ko.wikipedia, but 孫株煥 in the NA member record (_rebuild/na_members/na_members_12_22.csv, mona_cd TJJ2271P). This file uses 孫柱煥."
+  },
+  {
+   "severity": "low",
+   "desc": "유혁인 has only a birth year (1934, ko.wikipedia, tier 4) and is written 류혁인 on ko.wikipedia. The NA member table has no record of him."
+  }
+ ],
+ "continuity": {
+  "office_window": [
+   "1990-01-03",
+   "1998-02-27"
+  ],
+  "first_start": "1990-01-03",
+  "last_end": "1998-02-27",
+  "vacancies": [],
+  "same_day_or_overlapping_handovers": [
+   {
+    "a": "최병렬",
+    "b": "최창윤",
+    "a_end": "1990-12-27",
+    "b_start": "1990-12-27"
+   },
+   {
+    "a": "최창윤",
+    "b": "손주환",
+    "a_end": "1992-06-08",
+    "b_start": "1992-06-08"
+   },
+   {
+    "a": "손주환",
+    "b": "유혁인",
+    "a_end": "1992-10-09",
+    "b_start": "1992-10-09"
+   },
+   {
+    "a": "유혁인",
+    "b": "오인환",
+    "a_end": "1993-02-26",
+    "b_start": "1993-02-26"
+   }
+  ],
+  "adjacent_handovers": [],
+  "overlaps_longer_than_same_day": [],
+  "monthly_newslib_check": "News Library hit counts for '<holder> 공보처장관' in every month of each tenure are non-zero (1990-01..1993-02, saved in roster/sources/public_info/ext88/continuity_newslib_monthly.json), so no holder is missing between the reshuffles found. The holder-agnostic scan in holder_agnostic_scan below does not start from the known list and covers the whole life of the office.",
+  "recomputed_by": "roster/scripts/public_info_ext88_09_build.py",
+  "holder_agnostic_scan": {
+   "method": "For every month from 1990-01 to 1998-02, BigKinds ('공보처장관', '공보처 장관', up to 100 items each) and the Naver News Library ('공보처장관', up to 300 items) were searched without any holder name, and every name printed next to the title was extracted. OCR and spelling variants were mapped to the holders and every other name-like token was read in context.",
+   "months_scanned": 98,
+   "window": [
+    "1990-01",
+    "1998-02"
+   ],
+   "holder_hits": {
+    "최병렬": 814,
+    "최창윤": 623,
+    "손주환": 317,
+    "유혁인": 87,
+    "오인환": 2683
+   },
+   "holder_months_span": {
+    "최병렬": [
+     "1990-01",
+     "1991-04"
+    ],
+    "최창윤": [
+     "1990-12",
+     "1994-03"
+    ],
+    "손주환": [
+     "1992-06",
+     "1992-10"
+    ],
+    "유혁인": [
+     "1992-10",
+     "1997-08"
+    ],
+    "오인환": [
+     "1993-02",
+     "1998-02"
+    ]
+   },
+   "holder_hits_outside_tenure": {
+    "최병렬": {
+     "1991-02": 1,
+     "1991-03": 1,
+     "1991-04": 1
+    },
+    "최창윤": {
+     "1992-08": 1,
+     "1993-03": 1,
+     "1994-03": 1
+    },
+    "손주환": {},
+    "유혁인": {
+     "1997-08": 1
+    },
+    "오인환": {}
+   },
+   "holder_hits_outside_tenure_read": "All eight read in context. They are retrospective or misprinted mentions, not sitting holders. 최병렬 1991-02..04 (부산일보, 중앙일보, 동아일보 on his move from 공보처 to 노동부 in the 12·27 개각, '崔秉烈당시공보처장관'), 최창윤 1992-08 (조선일보) and 1994-03 (경향신문) recalling his 1991-08 announcement, 최창윤 1993-03 (한겨레 1993-03-27 on his 1993 scandal while 총무처장관, the office misprinted, and 경향신문 1993-03-06 listing 吳隣煥공보처장관 and 崔昌潤총무처장관 side by side), 유혁인 1997-08 (경향신문 1997-08-25 memoir series on 1992 events).",
+   "months_without_any_name": [],
+   "search_errors": {},
+   "other_tokens_review": {
+    "reviewed_at": "2026-09-26",
+    "method": "each token read in context with public_info_ext88_13b_token_context.py",
+    "misprint_or_ocr_of_a_holder": {
+     "최병렬": [
+      "최진열",
+      "최경렬",
+      "崔炳烈"
+     ],
+     "최창윤": [
+      "최창간",
+      "昌潤前"
+     ],
+     "손주환": [
+      "서주환",
+      "송주환",
+      "손경주",
+      "孫桂煥",
+      "孫柱洪",
+      "係柱煥",
+      "柱煥前"
+     ],
+     "유혁인": [
+      "赫仁前"
+     ],
+     "오인환": [
+      "오경환",
+      "오시환",
+      "오윤환",
+      "오승환",
+      "오인흔",
+      "吳隣換",
+      "吳憐煥",
+      "吳隣燦",
+      "吳購煥",
+      "吳隣焕",
+      "吳陜煥",
+      "吳隣怏",
+      "與陳換",
+      "吳贓煥",
+      "吳嵋贊",
+      "男離燃",
+      "吳瀞煥",
+      "吳麟煥",
+      "吳瞞換",
+      "吳離換"
+     ]
+    },
+    "other_official_printed_next_to_the_title": {
+     "최영철": "노동부장관 in the joint KBS statement of 1990-04-23 (listed before 최병렬 공보처장관)",
+     "박세직": "서울시장 in the 12·27 개각 list of 1990",
+     "김종인": "대통령 경제수석 in a 1992-03 guest list",
+     "이원종": "민자당 부대변인, named for 공보처차관 in 1993-03",
+     "이경재": "공보처차관 (1993-1995). 중앙일보 1994-03-18 prints '이경재 공보처장관' once, while 세계일보 1994-03-12 and 조선일보 1994-03-11 list 오인환 공보처장관 and 이경재 공보처차관 side by side, and 1995-02 reports call him 차관",
+     "강삼재": "민자당 정책조정실장 at a 1993-04 당정회의 with 오인환",
+     "김동익": "정무제1장관 from 1992-10-09",
+     "鄭根謨": "과기처장관 (1994-12)",
+     "유세준": "공보처차관 named 1995-10-07",
+     "서병호": "guest at a 1997-11 advertising event with 오인환",
+     "최동호": "KBS 부사장 (1997-12)",
+     "홍두표": "KBS 사장 (1997-12)",
+     "신경식": "정무1장관 in a 1997-05 list",
+     "김영삼": "민자당 대표 in the 1992-06-05 announcement"
+    },
+    "former_head_of_an_earlier_office": {
+     "임성희": "died 1995-06-13, obituary calls him 전 공보처장관. He was 공보부장관 from 1963-04-12 (동아일보 1963-04-12 '公報長官=任星熙씨', News Library search snapshot roster/sources/public_info/ext88/searches/nl_임성희_공보_1960-01-01_1995-12-31.json), outside the window",
+     "在璟前": "吳在璟前공보처장관 in 1992 party news. Not a 1990-1998 holder, since the 1990-1998 chain is closed by same-day handovers in which each outgoing minister is named, so the title refers to an office before 1990"
+    },
+    "not_a_personal_name": [
+     "共和國",
+     "감사는",
+     "감안해",
+     "공당시",
+     "공들어",
+     "공로로",
+     "공화국",
+     "기금은",
+     "도입해",
+     "마지막",
+     "명에게",
+     "민자당",
+     "반드시",
+     "방송은",
+     "배쟁탈",
+     "부분은",
+     "사람은",
+     "사실상",
+     "사표를",
+     "성명은",
+     "성명을",
+     "소임은",
+     "어제도",
+     "여기에",
+     "예산이",
+     "우리의",
+     "위원을",
+     "위장에",
+     "위하여",
+     "유공자",
+     "이날오",
+     "이라며",
+     "이라크",
+     "이렇게",
+     "이밖에",
+     "이후에",
+     "인사가",
+     "인사는",
+     "인으로",
+     "임명된",
+     "임원을",
+     "임원이",
+     "장관은",
+     "장에서",
+     "정부는",
+     "제외돼",
+     "조처를",
+     "지난달",
+     "지난번",
+     "차관은",
+     "차례로",
+     "최장수",
+     "태도를",
+     "하는데",
+     "하려면",
+     "하마평",
+     "허가는",
+     "현재는"
+    ],
+    "unmatched_listed_tokens": [],
+    "conclusion": "No token names a 공보처장관 other than the five holders in this file."
+   },
+   "files": [
+    "roster/sources/public_info/ext88/completeness/monthly_name_scan.json",
+    "roster/sources/public_info/ext88/completeness/scan_review.json",
+    "roster/sources/public_info/ext88/completeness/scan/"
+   ],
+   "scripts": [
+    "roster/scripts/public_info_ext88_11_completeness_scan.py",
+    "roster/scripts/public_info_ext88_13_scan_review.py"
+   ]
+  },
+  "tenure_span_evidence": [
+   {
+    "claim": "오인환 was the only 공보처장관 of the 김영삼 government (1993-02-26 to the office's end), so the from_main spell covers 1993-02-26..1998-02-24 without a gap.",
+    "sources": [
+     "한겨레 1998-02-25 \"“아시아 최고 정치수준 YS 공적”\" (BigKinds full text, news_id 01101001.19980225000000406, https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19980225000000406&returnCnt=1&sectionDiv=1000, text: '역대 정권에 비해 유난히 잦았던 개각때문에 재임기간 1년 미만의 단명장관들을 양산했던 김영삼 정부에서 유일하게 교체되지 않았던 오 장관은', accessed 2026-09-26T12:48:47-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101001.19980225000000406.json)",
+     "한국일보 1998-02-25 \"떠나는　오인환 장관/“개혁실패　원인은 참모시스템　잘못”\" (BigKinds full text, news_id 01101101.19980225000000504, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19980225000000504&returnCnt=1&sectionDiv=1000, text: '김영삼 대통령과　5년　임기를　함께　한　오인환 공보처 장관은　24일　문민정부　마지막　국무회의에　참석한뒤　고별　간담회를　가졌다.', accessed 2026-09-26T12:48:57-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19980225000000504.json)",
+     "동아일보 1998-02-25 \"吳隣煥공보 이임간담회\" (BigKinds full text, news_id 01100401.19980225093623003, https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19980225093623003&returnCnt=1&sectionDiv=1000, text: '김영삼(金泳三)전대통령과임기 5년을 함께한 현정부 최장수 각료인 오인환(吳隣煥)공보처장관은 24일 이임인사를겸한 기자간담회를 갖고', accessed 2026-09-26T12:48:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100401.19980225093623003.json)"
+    ]
+   },
+   {
+    "claim": "손주환 was the sitting 공보처장관 until the 10·9 reshuffle of 1992, so no one held the office between his start and 유혁인's.",
+    "sources": [
+     "한국일보 1992-10-01 \"“MBC문제 대화로”/민주,손 공보처 방문\" (BigKinds full text, news_id 01101101.19921001000000210, https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19921001000000210&returnCnt=1&sectionDiv=1000, text: '민주당 MBC사태 진상조사단(단장 이부영 최고위원)은 30일 상오 손주환 공보처장관을 방문,', accessed 2026-09-26T12:49:13-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01101101.19921001000000210.json)",
+     "경향신문 1992-10-08 \"“늙은이 데려다 채찍질할 필요있나”/「현승종총리」 지명 안팎\" (BigKinds full text, news_id 01100101.19921008000000401, https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19921008000000401&returnCnt=1&sectionDiv=1000, text: '한편 손주환 공보처장관은 사표를 제출한뒤 기자실에 들러 『4개월동안 신세 많이 졌다』며 『정이 들려고 할 때 내각을 떠나게 돼 섭섭하다』며 안타까움을 피력.' [remark made on 1992-10-07 after the 국무회의 at which the 정원식 cabinet signed collective resignations. 서울신문 1992-10-10 reports that the resignations of the ministers who stayed were returned on 10-09, so his was the one accepted when 유혁인 was appointed], accessed 2026-09-26T12:50:27-0400; snapshot roster/sources/public_info/ext88/bigkinds/bk_01100101.19921008000000401.json)"
+    ]
+   }
+  ]
+ },
+ "built_by": "roster/scripts/public_info_ext88_01_wiki.py .. public_info_ext88_09_build.py (first run, 2026-09-26 09:39), then public_info_ext88_11_completeness_scan.py .. public_info_ext88_14_update.py (resumed run)",
+ "verification": {
+  "verified_at": "2026-09-26T21:46:16-0400",
+  "verifier": "adversarial verifier, lineage public_info, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/public_info.ext88.json",
+  "input_built_at": "2026-09-26T13:47:13-0400",
+  "started_at": "2026-09-26T14:03:46-04:00",
+  "steps_done": [
+   "step 0 (2026-09-26T14:03:46-04:00): read builder file (5 spells, 5 nominations, 6 issues, continuity with holder-agnostic scan), offices_1988.json OFA09, SOURCES_TOOLKIT.md, culture.ext88.verified.json format. from_main 오인환 identical to roster/culture.verified.json apart from the from_main flag. A previous verifier attempt (scripts public_info_ext88_v01..v04, 10:04-10:25, output under roster/sources/public_info/ext88/verify) predates the builder's resumed run and is not reused. This run writes to roster/sources/public_info/ext88_verify and roster/scripts/public_info_ext88_verify_*.py.",
+   "steps 1-3 found complete on resume (2026-09-26T21:17:09-0400): public_info_ext88_verify_01_lists.py (ko.wikipedia per-government cabinet tables '노태우 정부의 국무위원' revid 41125390 and '김영삼 정부의 국무위원' revid 40892143 list 최병렬, 최창윤, 손주환, 유혁인 then 오인환 for 공보처. Namu Wiki HTTP 403/404, Wikidata SPARQL timeout. moel 역대 장관 seq=10 gives 최병렬 '1990 - 1990 초대 공보처 장관' and 노동부 1990-1992, years only), 02_tier2.py (pa.go.kr schedules 노태우 1989-1993 and 김영삼 1993-1998, chronology days), 03_search.py (48 News Library and 16 BigKinds searches, search/search_log.json). Next: read articles in papers the builder did not cite.",
+   "steps 4-7 (2026-09-26T21:41:07-0400): 04_ministry_pages.py (tier 2 anchors for the shared 임명장 days: MCST 이어령 and mcee 조경식 1990-01-03, unikorea/mofa/moe/msit/motir 1990-12-27, mois_home 백광현 and moj 이정우 1992-10-09, mois/moe/msit/unikorea/mofa/moj 1993-02-26, official/ministry_pages_log.json), 05_read.py (targeted searches and 23 News Library plus 11 BigKinds full texts, read_log.json), 06_1993.py (1993-02-25/26 handover, y1993_log.json), 07_profiles.py (유혁인 profiles, predecessor links, 오인환 continuity statements, profiles_log.json). Findings so far: no missing holder, all starts and ends confirmed except 유혁인 end (1993-02-26 vs 1993-02-25, disputed as in 12 other lineages). Next: build with quote checks.",
+   "step 8 (2026-09-26T21:46:16-0400): build with quote checks (roster/scripts/public_info_ext88_verify_08_build.py). 69 quotes checked against saved snapshots. News Library quotes were checked against the OCR text, not against the page images.",
+   "step 9 (2026-09-27T21:49:16-0400): resume audit after a workflow restart (roster/scripts/public_info_ext88_verify_09_resume_audit.py). The checkpoint was already complete, so nothing was refetched and no spell was re-decided. No input changed after step 8 (public_info.ext88.json 2026-09-26 13:47, culture.verified.json 2026-09-25 22:10, offices_1988.json 2026-09-26 09:01). With a matcher independent of step 8 (NFKC fold, all whitespace dropped, text from every JSON string value or tag-stripped HTML), 98 verifier quotes and 58 builder quotes were found in their snapshots and none failed. All 108 cited snapshots exist and every printed access time equals its .meta.json fetched_at. Builder content is carried over unchanged, field hygiene against OFA09 and the presidential terms shows no issue, the from_main 오인환 record still differs from culture.verified.json only in the from_main flag, continuity has no gap, and culture.ext88.verified.json (written 21:51, after step 8) ends 최병렬's 문화공보부 spell on 1990-01-02, consistent with the 1990-01-03 start here. One cited snapshot has no .meta.json sidecar (roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext). It sits in the untouched from_main record and was left as is."
+  ],
+  "summary": {
+   "n_spells": 5,
+   "confirmed": 4,
+   "corrected": 0,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 5,
+   "acting_entries": 0,
+   "fields_changed": 0
+  },
+  "completeness": [
+   "Independent holder list. ko.wikipedia per-government tables, which the builder did not use ('노태우 정부의 국무위원' revid 41125390, https://ko.wikipedia.org/w/index.php?oldid=41125390, accessed 2026-09-26T09:03:42-0400, and '김영삼 정부의 국무위원' revid 40892143, https://ko.wikipedia.org/w/index.php?oldid=40892143, accessed 2026-09-24T22:43:36-0400, snapshots roster/sources/public_info/ext88_verify/lists/wiki_*.json, tier 4), list 최병렬, 최창윤, 손주환, 유혁인 under 노태우 and 오인환 alone under 김영삼. Namu Wiki returned HTTP 403 and 404 (roster/sources/public_info/ext88_verify/lists/namu_*.html) and Wikidata SPARQL timed out, so they were not used. The MCST 역대장관 tabs pOrgNm=04..13 were re-read and none lists the 1990-1998 공보처 (pOrgNm=08 is the 1948-1956 office).",
+   "Chain of predecessors, each link read in a source the builder did not cite. 최병렬 to 최창윤 (한겨레 1990-12-28 p.1, 경향신문 1990-12-27 p.1), 최창윤 to 손주환 (한겨레 and 조선일보 1992-06-06 p.1, 경인일보 1992-06-06), 손주환 to 유혁인 (한겨레 1992-10-10 p.2 '전임자인 손주환씨'), 유혁인 to 오인환 (조선일보, 경향신문, 세계일보 1993-02-27). Every handover is same-day, so no short tenure can sit between two holders.",
+   "Mid-tenure presence. 최병렬 on 1990-04-02 after the 1990-03 reshuffle (동아일보 1990-04-03), 최창윤 on 1991-01-05 and in March 1992 (경향신문 1991-01-05, 조선일보 1992-03-06), 손주환 on 1992-10-07 (조선일보 1992-10-10), 유혁인 on 1993-02-20 (조선일보, 국민일보 1993-02-20), 오인환 kept in every 김영삼 reshuffle (조선일보 1994-12-24, 1995-12-11, 1997-08-06, BigKinds '오인환 유임' 1993-12..1997-12 with 148 hits, and 서울신문 1997-10-05 counting his tenure from 1993-02-26).",
+   "1988 transition from 전두환. Not applicable. 공보처 did not exist until 1990-01-03. From 1988-02-25 to 1990-01-02 the 공보 portfolio sat in 문화공보부 (culture lineage, holdover 이웅희). 1993 transition. 유혁인 to 오인환 on 1993-02-26, end disputed (see per_spell 3).",
+   "Elections. No 공보처장관 left to run. 1988 general election, office not yet created. 1992-03-24, a 전국구 slot for 최창윤 was considered and not given (조선일보 1992-03-06), and he stayed until June. 1995-06-27 local elections and 1996-04-11 general election, 오인환 stayed (조선일보 1995-12-11 '총선출마 가능성은 없다', kept on 1995-12-20). News Library searches '공보처장관 출마' over 1991-12..1992-03, 1995-03..06 and 1995-11..1996-04 found no departure (roster/sources/public_info/ext88_verify/search/search_log.json).",
+   "Renames and mergers. None during the office's life. 법률 제4268호 (1990-12-27) only renumbered the article, and 법률 제4831호 (1994-12-23) dropped 방송 from the statutory remit. The 1994-12-23 text reads '①국내외의 홍보·여론조사·언론 및 보도에 관한 사무를 관장하기 위하여 국무총리소속하에 공보처를 둔다.' (inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json), so the builder's legal_basis note is correct. The office was abolished on 1998-02-28 (법률 제5529호).",
+   "Acting heads and 서리. No 직무대행 period exists, because every handover is same-day. News Library and BigKinds searches for '공보처장관 직무대행' 1990-01..1998-02 returned no acting 공보처장관 (hits were unrelated). 서리 applies only to the PM."
+  ],
+  "continuity_check": [
+   {
+    "from": "office created",
+    "to": "최병렬 start 1990-01-03",
+    "gap_days": 0,
+    "overlap_days": 0
+   },
+   {
+    "from": "최병렬 end 1990-12-27",
+    "to": "최창윤 start 1990-12-27",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "최창윤 end 1992-06-08",
+    "to": "손주환 start 1992-06-08",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "손주환 end 1992-10-09",
+    "to": "유혁인 start 1992-10-09",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "유혁인 end 1993-02-26 (disputed, 1993-02-25 would leave no gap either)",
+    "to": "오인환 start 1993-02-26",
+    "gap_days": 0,
+    "overlap_days": 1
+   },
+   {
+    "from": "오인환 end 1998-02-27",
+    "to": "office abolished 1998-02-28",
+    "gap_days": 0,
+    "overlap_days": 0
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage).",
+  "field_hygiene": [
+   "appointing_president matches the president on each start date. 노태우 for 1990-01-03, 1990-12-27, 1992-06-08 and 1992-10-09, 김영삼 for 1993-02-26. appointed_by_acting_president false for all, correct (no acting president in the window).",
+   "deputy_pm false for all spells. offices_1988.json OFA09 has deputy_pm_title [].",
+   "ministry '공보처' and office_title '공보처장관' match OFA09 (1990-01-03..1998-02-27) for every spell.",
+   "reorg fields. reorg_continuation false and reappointed_on_reorg null for all. 최병렬's move from 문화공보부 (culture) to 공보처 was a new appointment to a new office with its own 임명장 (동아일보 1990-01-03), so false is correct inside this lineage. The cross-lineage link is the builder's open issue. 오인환 ends ministry_reorganized, from the main roster.",
+   "from_main. Only 오인환, identical to roster/culture.verified.json apart from the flag. offices_1988.json maps 공보처 to public_info through ministry_to_lineage_overrides.",
+   "nominations. All 5 nomination_date and outcome_date values agree with the verifier's sources (1989-12-27/1990-01-03, 1990-12-27/1990-12-27, 1992-06-05/1992-06-08, 1992-10-09/1992-10-09, 1993-02-26/1993-02-26) and with the spell starts. hearing_required false is correct (before 2005-07-28).",
+   "mp_hint values agree with na_members/na_members_12_22.csv (최병렬 12th and 14th, 최창윤 13th to 1988-12-22, 손주환 13th to 1990-12-29, 유혁인 and 오인환 none). 조선일보 1992-06-06 confirms 최병렬 was a 14th-term 전국구 member only after he had left 공보처.",
+   "Source lists. Four builder source lists repeat one article with two different quotes (최병렬 end, 손주환 end, 유혁인 start and end, all 동아일보). Not an error, but each counts as one source. Every date still has at least two independent sources outside Wikipedia."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "최병렬",
+    "ministry": "공보처",
+    "start": "1990-01-03",
+    "end": "1990-12-27",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-01-03 confirmed with sources the builder did not cite: 동아일보 1990-01-03 p.2 '政局주도 다짐…들뜬 新春政街' (Naver News Library article 1990010300209202003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990010300209202003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010300209202003&editNo=2&printCount=1&publishDate=1990-01-03&officeId=00020&pageNo=2&printNo=21002&publishType=00020, accessed 2026-09-26T09:41:43-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990010300209202003.json) [quote: '盧泰愚대통령은 3일오전 青瓦臺에서 李御寧문화부장관등 신설3개부처 장관에게 임명장을주고'] [summary: 임명장 for the ministers of the three new offices (문화부, 환경처, 공보처) on the morning of 3 Jan 1990] | 동아일보 1990-01-04 '신설3개部處 현판식' (BigKinds news_id 01100401.19900104045715007, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19900104045715007&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:29:33-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100401.19900104045715007.json) [quote: '문화부 환경처 공보처등신설3개부처의 현판식이 4일오전'] [summary: the new offices opened with their signboards on 4 Jan 1990] | 조선일보 1990-01-05 p.4 '◇공보처 현판식' (Naver News Library article 1990010500239104009, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990010500239104009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990010500239104009&editNo=1&printCount=1&publishDate=1990-01-05&officeId=00023&pageNo=4&printNo=21156&publishType=00010, accessed 2026-09-26T09:07:46-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990010500239104009.json) [quote: '崔秉烈공보처장관이 4일 분리 신설된 공보처의 현판을 걸고 있다'] [summary: 최병렬 acting as 공보처장관 on 4 Jan 1990] | 조선일보 1989-12-28 p.1 '新設 세長官 補閣단행' (Naver News Library article 1989122800239101005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1989122800239101005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1989122800239101005&editNo=1&printCount=1&publishDate=1989-12-28&officeId=00023&pageNo=1&printNo=21150&publishType=00010, accessed 2026-09-26T09:07:05-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1989122800239101005.json) [quote: '盧泰愚대통령은 27일 오후補閣을 단행,새해 1월3일발족되는 문화부장관에' / '盧대통령은 28일오전 이들3개부처장관에게 임명장을주고'] [summary: named on 27 Dec 1989 for offices opening on 3 Jan 1990. The 28 Dec 임명장 was only the plan reported that day, and 동아일보 1990-01-03 reports the 임명장 on 3 Jan] | 문화체육관광부 역대장관, 문화부 tab (tier 2) (https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=04, accessed 2026-09-26T08:38:38-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mcst_munhwa.html) [quote: '제29대 이어령 재임기간: 1990.01.03.~1991.12.19.'] [summary: 이어령 took the new 문화부 in the same 1990-01-03 임명장 ceremony for the three offices created by 법률 제4183호] | 기후에너지환경부 역대 장관 (tier 2) (https://mcee.go.kr/minister/web/index.do?menuId=366, accessed 2026-09-26T09:04:14-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mcee.html) [quote: '7 환경처 조경식 1990.01.03.'] [summary: 조경식, the third minister of that ceremony, starts 환경처 on 1990-01-03] | 문화체육관광부 역대장관, 문화공보부 tab (tier 2) (https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=05, accessed 2026-09-26T08:38:39-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mcst_munhwagongbo.html) [quote: '제28대 최병렬 재임기간: 1988.12.05.~1990.01.02.'] [summary: 최병렬's previous post as 문화공보부장관 ends on 1990-01-02, the day before the 공보처 start]",
+     "end 1990-12-27 confirmed: 경향신문 1990-12-27 p.1 '총리에 盧在鳳씨' (Naver News Library article 1990122700329201001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122700329201001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329201001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=1&printNo=13927&publishType=00020, accessed 2026-09-26T09:08:01-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122700329201001.json) [quote: '盧泰愚대통령은 27일 상오 국무총리서리에 盧在鳳대통령비서실장을 임명하고 10개부처장관을 경질하는 대폭개각을 단행했다' / '▲노동崔秉烈공보처장관' / '▲공보 崔昌潤대통령정무수서'] [summary: 12·27 개각 on the morning of 27 Dec 1990. 최병렬 moves from 공보처 to 노동부 and 최창윤 (then 정무수석, 'OCR 수서') takes 공보처] | 한겨레 1990-12-28 p.1 '새 총리 노재봉씨' (Naver News Library article 1990122800289101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800289101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800289101001.json) [quote: '노동부장관에 최병렬 공보처장관을' / '공보처장관에 최창윤청와대 정무수석비서관을 각각임명했다'] [summary: the same appointments, 27 Dec 1990] | 조선일보 1990-12-28 p.3 '◇임명장 수여' (Naver News Library article 1990122800239103005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800239103005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103005&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=3&printNo=21500&publishType=00010, accessed 2026-09-26T10:03:42-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800239103005.json) [quote: '盧泰愚대통령이 27일 오후 청와대에서 盧在鳳 총리서리와신임 각료들에게 임명장을 주고있다'] [summary: 임명장 for the new ministers on the afternoon of 27 Dec 1990] | 국민일보 1990-12-28 '12·27개각… 「선장」바뀐 부처 표정' (BigKinds news_id 01100201.19901228000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901228000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:09:23-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100201.19901228000000301.json) [quote: '노태우 대통령은 27일 오후 신임 각료들에게 임명장을 수여하는 자리에서'] [summary: 임명장 on the afternoon of 27 Dec 1990] | 조선일보 1990-12-28 p.22 '改閣겹친「送旧迎新」…部処마다\"새출발\"' (Naver News Library article 1990122800239122004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800239122004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800239122004.json) [quote: '崔秉烈장관이노동부로 옮긴후 공보처직원들은'] [summary: 최병렬 had left 공보처 for 노동부 by the evening of 27 Dec 1990] | 통일부 역대장관 (tier 2) (https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, accessed 2026-09-24T22:34:21-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_unikorea.html) [quote: '16대 최호중 1990.12.27∼ 1992.06.25'] [summary: 통일원 changed hands in the same 12·27 개각 on 1990-12-27] | 외교부 역대 장관 (tier 2) (https://www.mofa.go.kr/minister/wpge/m_20036/contents.do, accessed 2026-09-24T22:34:20-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mofa.html) [quote: '23대 장관 이상옥' / '1990.12.27. - 1993.02.26. 22대 장관 최호중'] [summary: 외무부 changed hands on 1990-12-27 (이상옥 1990.12.27. - 1993.02.26., the hanja on this page is a compatibility code point, so the quote is split around it)] | 교육부 역대 장관 (tier 2) (https://www.moe.go.kr/mnstrHistory.do, accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_moe.html) [quote: '31대 윤형섭 1990-12-27 ~ 1992-01-22'] [summary: 교육부 changed hands on 1990-12-27] | 과학기술정보통신부 역대 장관, 체신부 (tier 2) (https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132, accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_msit.html) [quote: '송언종 1990. 12. 27. ~ 1993. 2. 25.'] [summary: 체신부 changed hands on 1990-12-27] | 고용노동부 역대 장관소개, 최병렬 (tier 2, years only) (https://www.moel.go.kr/cyber/intro/hist/view.do?seq=10, accessed 2026-09-25T13:33:27-0400; snapshot roster/sources/public_info/ext88_verify/lists/moel_hist_seq10.html) [quote: '1990 - 1990 초대 공보처 장관' / '1990 - 1992 제8대 노동부 장관'] [summary: first 공보처장관 in 1990, then 노동부장관 from 1990. Years only, so it bounds but does not date the move]",
+     "reshuffles inside the spell (1990-03-17/19 15-부처 개각, 1990-09-19 환경처) did not touch 공보처: 동아일보 1990-04-03 p.14 lists '崔秉烈공보처' among the sitting ministers (동아일보 1990-04-03 p.14 '\"7旬 筆鋒\"2500여명 축배' (Naver News Library article 1990040300209214001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990040300209214001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990040300209214001&editNo=2&printCount=1&publishDate=1990-04-03&officeId=00020&pageNo=14&printNo=21079&publishType=00020, accessed 2026-09-26T21:38:47-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990040300209214001.json) [quote: '曺京植환경처 崔秉烈공보처 朴哲彥정무제1'] [summary: 최병렬 in office on 2 Apr 1990]).",
+     "ko.wikipedia 1989-12-28 ~ 1990-12-20 is not supported by any dated source found here."
+    ]
+   },
+   "1": {
+    "name": "최창윤",
+    "ministry": "공보처",
+    "start": "1990-12-27",
+    "end": "1992-06-08",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-12-27 confirmed: 경향신문 1990-12-27 p.1 '총리에 盧在鳳씨' (Naver News Library article 1990122700329201001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122700329201001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329201001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=1&printNo=13927&publishType=00020, accessed 2026-09-26T09:08:01-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122700329201001.json) [quote: '盧泰愚대통령은 27일 상오 국무총리서리에 盧在鳳대통령비서실장을 임명하고 10개부처장관을 경질하는 대폭개각을 단행했다' / '▲노동崔秉烈공보처장관' / '▲공보 崔昌潤대통령정무수서'] [summary: 12·27 개각 on the morning of 27 Dec 1990. 최병렬 moves from 공보처 to 노동부 and 최창윤 (then 정무수석, 'OCR 수서') takes 공보처] | 한겨레 1990-12-28 p.1 '새 총리 노재봉씨' (Naver News Library article 1990122800289101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800289101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800289101001.json) [quote: '노동부장관에 최병렬 공보처장관을' / '공보처장관에 최창윤청와대 정무수석비서관을 각각임명했다'] [summary: the same appointments, 27 Dec 1990] | 조선일보 1990-12-28 p.3 '◇임명장 수여' (Naver News Library article 1990122800239103005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800239103005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103005&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=3&printNo=21500&publishType=00010, accessed 2026-09-26T10:03:42-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800239103005.json) [quote: '盧泰愚대통령이 27일 오후 청와대에서 盧在鳳 총리서리와신임 각료들에게 임명장을 주고있다'] [summary: 임명장 for the new ministers on the afternoon of 27 Dec 1990] | 국민일보 1990-12-28 '12·27개각… 「선장」바뀐 부처 표정' (BigKinds news_id 01100201.19901228000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901228000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:09:23-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100201.19901228000000301.json) [quote: '노태우 대통령은 27일 오후 신임 각료들에게 임명장을 수여하는 자리에서'] [summary: 임명장 on the afternoon of 27 Dec 1990] | 조선일보 1990-12-28 p.22 '改閣겹친「送旧迎新」…部処마다\"새출발\"' (Naver News Library article 1990122800239122004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800239122004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1990122800239122004.json) [quote: '崔秉烈장관이노동부로 옮긴후 공보처직원들은'] [summary: 최병렬 had left 공보처 for 노동부 by the evening of 27 Dec 1990] | 세계일보 1990-12-28 '「12·27 대폭 개각」있던 날 관가표정' (BigKinds news_id 01100701.19901228000000401, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19901228000000401&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:26:01-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100701.19901228000000401.json) [quote: '최창윤 신임 공보처장관은 이날 국무회의 직후 기자실에 들러'] [summary: 최창윤 acting as the new 공보처장관 on 27 Dec 1990, after the cabinet meeting that followed the 임명장] | 통일부 역대장관 (tier 2) (https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, accessed 2026-09-24T22:34:21-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_unikorea.html) [quote: '16대 최호중 1990.12.27∼ 1992.06.25'] [summary: 통일원 changed hands in the same 12·27 개각 on 1990-12-27] | 외교부 역대 장관 (tier 2) (https://www.mofa.go.kr/minister/wpge/m_20036/contents.do, accessed 2026-09-24T22:34:20-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mofa.html) [quote: '23대 장관 이상옥' / '1990.12.27. - 1993.02.26. 22대 장관 최호중'] [summary: 외무부 changed hands on 1990-12-27 (이상옥 1990.12.27. - 1993.02.26., the hanja on this page is a compatibility code point, so the quote is split around it)] | 교육부 역대 장관 (tier 2) (https://www.moe.go.kr/mnstrHistory.do, accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_moe.html) [quote: '31대 윤형섭 1990-12-27 ~ 1992-01-22'] [summary: 교육부 changed hands on 1990-12-27] | 과학기술정보통신부 역대 장관, 체신부 (tier 2) (https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132, accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_msit.html) [quote: '송언종 1990. 12. 27. ~ 1993. 2. 25.'] [summary: 체신부 changed hands on 1990-12-27]",
+     "in office through the 1991 reshuffles and the 1992-03-24 general election: 경향신문 1991-01-05 p.1 '페灣파병 의료진 100~200명규모로' (Naver News Library article 1991010500329201007, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1991010500329201007), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1991010500329201007&editNo=3&printCount=1&publishDate=1991-01-05&officeId=00032&pageNo=1&printNo=13933&publishType=00020, accessed 2026-09-26T21:39:06-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1991010500329201007.json) [quote: '崔昌潤공보처장관과 丁海昌대통령비서실장이 참석한'] [summary: 최창윤 in office on 5 Jan 1991] | 조선일보 1992-03-06 p.3 '盧대통령,「盧在鳳불가론」에 쐐기' (Naver News Library article 1992030600239103001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992030600239103001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992030600239103001&editNo=1&printCount=1&publishDate=1992-03-06&officeId=00023&pageNo=3&printNo=21921&publishType=00010, accessed 2026-09-26T21:39:21-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992030600239103001.json) [quote: '崔昌潤공보처장관을民自党선거대책부본부장으로 편입시켜 전국구를주는방안을 검토했으나 不発'] [summary: a 전국구 slot for the 1992-03-24 general election was considered for him but not given, so he stayed in office]",
+     "end 1992-06-08 confirmed (same-day handover to 손주환, whose appointment took effect on 8 Jun 1992): 조선일보 1992-06-06 p.1 '공보처장관 孫柱煥씨' (Naver News Library article 1992060600239101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600239101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600239101002&editNo=1&printCount=1&publishDate=1992-06-06&officeId=00023&pageNo=1&printNo=22011&publishType=00010, accessed 2026-09-26T09:08:28-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600239101002.json) [quote: '盧泰愚대통령은 5일 공보처장관을 경질,새 장관에 孫柱煥前대통령政務수석비서관을 8일자로 임명했다'] [summary: announced on 5 Jun 1992, appointment effective 8 Jun (8일자)] | 경인일보 1992-06-06 '公報處 장관 손주환씨' (BigKinds news_id 01200201.19920606150517117, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920606150517117&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:30:32-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01200201.19920606150517117.json) [quote: '노태우 대통령은 8일자로 공보처 장관에 손주환 전 청와대 정무수석비서관을 임명했다고 김학준 청와대 대변인이 5일 오후 발표했다' / '노 대통령은 8일 손 장관에게 임명장을 수여한다'] [summary: effective 8 Jun 1992 with the 임명장 on 8 Jun] | 전북일보 1992-06-06 '공보처 長官에 孫柱煥씨 임명' (BigKinds news_id 01601101.19920606204320102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19920606204320102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:30:12-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01601101.19920606204320102.json) [quote: '노대통령은 8일 서장관에게 임명장을 수여한다'] [summary: the same report, 임명장 on 8 Jun 1992 (the typed text misprints 손주환 as 서주환)] | 한겨레 1992-06-06 p.1 '공보처장관 손주환씨 김대표 비서실장 최창윤씨' (Naver News Library article 1992060600289101005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600289101005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600289101005&editNo=5&printCount=1&publishDate=1992-06-06&officeId=00028&pageNo=1&printNo=1254&publishType=00010, accessed 2026-09-26T09:08:37-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600289101005.json) [quote: '최 공보처장관은 오는 8일자로김영삼 민자당 대표최고위원 겸대통령후보의 비서실장에 임명됐다'] [summary: 최창윤 moves to the party post with effect from 8 Jun 1992]",
+     "ko.wikipedia 1990-12-20 ~ 1992-06-06 is not supported by any dated source found here."
+    ]
+   },
+   "2": {
+    "name": "손주환",
+    "ministry": "공보처",
+    "start": "1992-06-08",
+    "end": "1992-10-09",
+    "status": "confirmed",
+    "checks": [
+     "start 1992-06-08 confirmed: 조선일보 1992-06-06 p.1 '공보처장관 孫柱煥씨' (Naver News Library article 1992060600239101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600239101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600239101002&editNo=1&printCount=1&publishDate=1992-06-06&officeId=00023&pageNo=1&printNo=22011&publishType=00010, accessed 2026-09-26T09:08:28-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600239101002.json) [quote: '盧泰愚대통령은 5일 공보처장관을 경질,새 장관에 孫柱煥前대통령政務수석비서관을 8일자로 임명했다'] [summary: announced on 5 Jun 1992, appointment effective 8 Jun (8일자)] | 경인일보 1992-06-06 '公報處 장관 손주환씨' (BigKinds news_id 01200201.19920606150517117, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920606150517117&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:30:32-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01200201.19920606150517117.json) [quote: '노태우 대통령은 8일자로 공보처 장관에 손주환 전 청와대 정무수석비서관을 임명했다고 김학준 청와대 대변인이 5일 오후 발표했다' / '노 대통령은 8일 손 장관에게 임명장을 수여한다'] [summary: effective 8 Jun 1992 with the 임명장 on 8 Jun] | 전북일보 1992-06-06 '공보처 長官에 孫柱煥씨 임명' (BigKinds news_id 01601101.19920606204320102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19920606204320102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:30:12-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01601101.19920606204320102.json) [quote: '노대통령은 8일 서장관에게 임명장을 수여한다'] [summary: the same report, 임명장 on 8 Jun 1992 (the typed text misprints 손주환 as 서주환)] | 한겨레 1992-06-06 p.1 '공보처장관 손주환씨 김대표 비서실장 최창윤씨' (Naver News Library article 1992060600289101005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600289101005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600289101005&editNo=5&printCount=1&publishDate=1992-06-06&officeId=00028&pageNo=1&printNo=1254&publishType=00010, accessed 2026-09-26T09:08:37-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600289101005.json) [quote: '최 공보처장관은 오는 8일자로김영삼 민자당 대표최고위원 겸대통령후보의 비서실장에 임명됐다'] [summary: 최창윤 moves to the party post with effect from 8 Jun 1992] | 조선일보 1992-06-06 p.2 '언론인출신 일벌레「폰孫」별명' (Naver News Library article 1992060600239102016, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600239102016), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600239102016&editNo=1&printCount=1&publishDate=1992-06-06&officeId=00023&pageNo=2&printNo=22011&publishType=00010, accessed 2026-09-26T21:39:48-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600239102016.json) [quote: '孫柱煥공보처장관'] [summary: profile of the new minister, hanja 孫柱煥 as printed]",
+     "dissenting wording noted, not adopted: 한겨레 1992-06-06 p.1 '공보처장관 손주환씨 김대표 비서실장 최창윤씨' (Naver News Library article 1992060600289101005, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992060600289101005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992060600289101005&editNo=5&printCount=1&publishDate=1992-06-06&officeId=00028&pageNo=1&printNo=1254&publishType=00010, accessed 2026-09-26T09:08:37-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992060600289101005.json) [quote: '노태우 대통령은 5일 최창윤공보처장관을 경질하고 후임에손주환 전 청와대정무수석비서관을 임명·발령했다'] [summary: this paper words it as 임명·발령 on 5 Jun, the announcement day. The other reports give 8일자 and the 임명장 on 8 Jun]",
+     "end 1992-10-09 confirmed: 경향신문 1992-10-10 p.1 '\"모든 선거事犯 法대로\"' (Naver News Library article 1992101000329101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000329101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329101001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=1&printNo=14549&publishType=00010, accessed 2026-09-26T10:13:51-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000329101001.json) [quote: '盧泰愚대통령은 9일상오 국가안전기획부장에 李賢雨대통령경호실장,내무부장관에 白光鉉前법무연수원장,법무부장관에 李正雨前법원행정처장,공보처장관에 柳赫仁한국국제교류재단이사장' / '盧대통령은 안기부장과4개부처장관이외의 각료들이 제출한 사표는 이날반려해 모두 유임시켰다' / '盧대통령은 이어 이날하오 신임각료들에게 임명장을 수여한뒤'] [summary: 10·9 중립내각. 유혁인 named on the morning of 9 Oct 1992 and given the 임명장 that afternoon. The resignations of the ministers not replaced were returned the same day] | 경향신문 1992-10-10 p.20 '\"內閣 지원을\"…\"잘 해나가실 것\"' (Naver News Library article 1992101000329120001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000329120001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329120001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=20&printNo=14549&publishType=00010, accessed 2026-09-26T09:45:10-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000329120001.json) [quote: '이날하오 임명장을 받은 白光鉉내무李正雨법부 柳赫仁공보처장관이 참석'] [summary: 유혁인 received the 임명장 on the afternoon of 9 Oct 1992] | 조선일보 1992-10-10 p.1 '「中立내각」출범' (Naver News Library article 1992101000239101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000239101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000239101002&editNo=1&printCount=1&publishDate=1992-10-10&officeId=00023&pageNo=1&printNo=22134&publishType=00010, accessed 2026-09-26T09:11:54-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000239101002.json) [quote: '盧泰愚대통령은 9일 오전 안기부장과 내무 법무공보처 정무1장관등 4개부처 장관을 경질하는 개각을 단행'] [summary: 4 ministries including 공보처 changed hands on 9 Oct 1992] | 한겨레 1992-10-10 p.1 '안기부장 이현우씨' (Naver News Library article 1992101000289101006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000289101006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000289101006&editNo=5&printCount=1&publishDate=1992-10-10&officeId=00028&pageNo=1&printNo=1360&publishType=00010, accessed 2026-09-26T09:11:57-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000289101006.json) [quote: '내무·법무·공보처·정무1장관 등 4개부처 장관도 새로이 임명했다'] [summary: the same reshuffle, 9 Oct 1992] | 한겨레 1992-10-10 p.2 '진정한 중립으로'영예'를 안으라 새 국무총리와 바뀐 선거관계 장관들' (Naver News Library article 1992101000289102012, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000289102012), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000289102012&editNo=5&printCount=1&publishDate=1992-10-10&officeId=00028&pageNo=2&printNo=1360&publishType=00010, accessed 2026-09-26T21:37:16-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000289102012.json) [quote: '그가 전임자인 손주환씨처럼 경영진을 일방적으로 옹호한다면'] [summary: names 손주환 as 유혁인's immediate predecessor] | 조선일보 1992-10-10 p.3 '안기부장「막판 뒤집기」…玄총리 의견개진 주효' (Naver News Library article 1992101000239103002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000239103002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000239103002&editNo=1&printCount=1&publishDate=1992-10-10&officeId=00023&pageNo=3&printNo=22134&publishType=00010, accessed 2026-09-26T21:27:12-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000239103002.json) [quote: '玄총리는다음날 새벽 6시에孫柱煥 당시 공보처장관에게 전화를 걸어'] [summary: 손주환 still 공보처장관 on the morning of 7 Oct 1992, two days before the reshuffle] | 행정안전부 역대장관, 내무부 (tier 2) (https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do, accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mois_home.html) [quote: '제56대 장관 백광현 재임기간 1992년 10월 9일 ~ 1993년 2월 25일'] [summary: 백광현 (내무부) was appointed in the same 10·9 중립내각 ceremony as 유혁인] | 법무부 역대장관 page 4 (tier 2) (https://www.moj.go.kr/minister/2090/subview.do?page=4, accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_moj_p4.html) [quote: '대순 41 대 성명 이정우' / '재임기간 1992.10.09 ~ 1993.02.25'] [summary: 이정우 (법무부) was appointed in the same ceremony on 1992-10-09]",
+     "Hanja 孫柱煥 as printed by 조선일보 1992-06-06. The NA member record spells 孫株煥 (builder issue, left as is)."
+    ]
+   },
+   "3": {
+    "name": "유혁인",
+    "ministry": "공보처",
+    "start": "1992-10-09",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "checks": [
+     "start 1992-10-09 confirmed: 경향신문 1992-10-10 p.1 '\"모든 선거事犯 法대로\"' (Naver News Library article 1992101000329101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000329101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329101001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=1&printNo=14549&publishType=00010, accessed 2026-09-26T10:13:51-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000329101001.json) [quote: '盧泰愚대통령은 9일상오 국가안전기획부장에 李賢雨대통령경호실장,내무부장관에 白光鉉前법무연수원장,법무부장관에 李正雨前법원행정처장,공보처장관에 柳赫仁한국국제교류재단이사장' / '盧대통령은 안기부장과4개부처장관이외의 각료들이 제출한 사표는 이날반려해 모두 유임시켰다' / '盧대통령은 이어 이날하오 신임각료들에게 임명장을 수여한뒤'] [summary: 10·9 중립내각. 유혁인 named on the morning of 9 Oct 1992 and given the 임명장 that afternoon. The resignations of the ministers not replaced were returned the same day] | 경향신문 1992-10-10 p.20 '\"內閣 지원을\"…\"잘 해나가실 것\"' (Naver News Library article 1992101000329120001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000329120001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329120001&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=20&printNo=14549&publishType=00010, accessed 2026-09-26T09:45:10-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000329120001.json) [quote: '이날하오 임명장을 받은 白光鉉내무李正雨법부 柳赫仁공보처장관이 참석'] [summary: 유혁인 received the 임명장 on the afternoon of 9 Oct 1992] | 조선일보 1992-10-10 p.1 '「中立내각」출범' (Naver News Library article 1992101000239101002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000239101002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000239101002&editNo=1&printCount=1&publishDate=1992-10-10&officeId=00023&pageNo=1&printNo=22134&publishType=00010, accessed 2026-09-26T09:11:54-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000239101002.json) [quote: '盧泰愚대통령은 9일 오전 안기부장과 내무 법무공보처 정무1장관등 4개부처 장관을 경질하는 개각을 단행'] [summary: 4 ministries including 공보처 changed hands on 9 Oct 1992] | 한겨레 1992-10-10 p.1 '안기부장 이현우씨' (Naver News Library article 1992101000289101006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000289101006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000289101006&editNo=5&printCount=1&publishDate=1992-10-10&officeId=00028&pageNo=1&printNo=1360&publishType=00010, accessed 2026-09-26T09:11:57-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000289101006.json) [quote: '내무·법무·공보처·정무1장관 등 4개부처 장관도 새로이 임명했다'] [summary: the same reshuffle, 9 Oct 1992] | 행정안전부 역대장관, 내무부 (tier 2) (https://www.mois.go.kr/mns/sub/a02/MinistryofHomeAffairs/screen.do, accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mois_home.html) [quote: '제56대 장관 백광현 재임기간 1992년 10월 9일 ~ 1993년 2월 25일'] [summary: 백광현 (내무부) was appointed in the same 10·9 중립내각 ceremony as 유혁인] | 법무부 역대장관 page 4 (tier 2) (https://www.moj.go.kr/minister/2090/subview.do?page=4, accessed 2026-09-24T22:42:31-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_moj_p4.html) [quote: '대순 41 대 성명 이정우' / '재임기간 1992.10.09 ~ 1993.02.25'] [summary: 이정우 (법무부) was appointed in the same ceremony on 1992-10-09]",
+     "in office on 20 Feb 1993: 조선일보 1993-02-20 p.15 '외교관생활 40년…82년 公使로 근무하기도 \"韓-日,미래 공동설계 절실…차남 취직걱정\"' (Naver News Library article 1993022000239115004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022000239115004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022000239115004&editNo=1&printCount=1&publishDate=1993-02-20&officeId=00023&pageNo=15&printNo=22263&publishType=00010, accessed 2026-09-26T21:27:29-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1993022000239115004.json) [quote: '柳赫仁공보처장관같은 분들은'] [summary: 유혁인 still 공보처장관 on 20 Feb 1993] | 국민일보 1993-02-20 '6공1기 각료/퇴임후 「설땅찾기」 부심' (BigKinds news_id 01100201.19930220000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19930220000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:40-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100201.19930220000000501.json) [quote: '유혁인공보처장관은 입각 직전 이사장으로 몸담았던 국제교류재단 운영에 다시 참여할 계획인 것으로 알려지고 있다'] [summary: 유혁인 in office on 20 Feb 1993 and expected to leave with the 노태우 cabinet]",
+     "end 1993-02-26 (builder, inferred_from_successor) is disputed and kept. No source dates his own exit. News Library '柳赫仁' 1993-02-20..03-05 has 2 hits, both on 20 Feb (roster/sources/public_info/ext88_verify/search/nl_E5_柳赫仁_1993-02-20_1993-03-05_all_p1.json), BigKinds '유혁인' 1993-02-21..03-31 has one hit, a 1993-03-11 list of candidates for broadcasting posts (roster/sources/public_info/ext88_verify/search/bk6_유혁인_1993-02-21_1993-03-31.json), and News Library '공보처' 1993-02-25..27 in 조선일보, 경향신문, 한겨레, 동아일보 and 매일경제 reports no 공보처 이임식. For 26 Feb (same-day handover): 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1993022700239105001.json) [quote: '오후2시 각료 임명장 수여'] [summary: the 김영삼 cabinet received its 임명장 at 14:00 on 26 Feb 1993] | 세계일보 1993-02-27 '“일일이 다 만나보고 결정했다”/새 대통령 첫 조각 정­관가 표정' (BigKinds news_id 01100701.19930227000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930227000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:19:02-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100701.19930227000000501.json) [quote: '김대통령은 26일 오후 신임24개 부처장관과 안기부장 서울시장 평통사무총장등 27명에게 임명장을 수여'] [summary: 임명장 for all 24 new ministers, 오인환 among them, on the afternoon of 26 Feb 1993] | 세계일보 1993-02-25 '새 정부출범 전야 관가표정' (BigKinds news_id 01100701.19930225000000201, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930225000000201&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:08-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100701.19930225000000201.json) [quote: '현승종총리 이하 현국무위원들은 26일 새내각이 탄생하면 곧바로 이취임식을 갖고 대부분 야인으로 돌아간다'] [summary: the outgoing ministers were to leave on 26 Feb, when the new cabinet took office] | 매일경제 1993-02-24 p.2 '\"25일0시이후 非常사태 새政府가 대처\"' (Naver News Library article 1993022400099202004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022400099202004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1993022400099202004.json) [quote: '새대통령에게 일괄사표를 제출할 필요도 없으며 다만 새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다'] [summary: 총무처 reading of 24 Feb 1993. The outgoing ministers stay until successors are appointed] | 한겨레 1993-02-26 '퇴임 경제부처 장관들 유학계획많아' (BigKinds news_id 01101001.19930226000000603, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19930226000000603&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:46-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01101001.19930226000000603.json) [quote: '26일 일제히 퇴임하는 경제부처 장관들은'] [summary: the outgoing economic ministers left on 26 Feb 1993] | 통일부 역대장관 (tier 2) (https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, accessed 2026-09-24T22:34:21-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_unikorea.html) [quote: '18대 한완상 1993.02.26∼ 1993.12.21' / '17대 최영철 1992.06.26∼ 1993.02.25'] [summary: the 1993 조각 ministers start on 1993-02-26. This page prints the outgoing minister's end as the day before (1993-02-25)] | 외교부 역대 장관 (tier 2) (https://www.mofa.go.kr/minister/wpge/m_20036/contents.do, accessed 2026-09-24T22:34:20-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mofa.html) [quote: '23대 장관 이상옥' / '1990.12.27. - 1993.02.26. 22대 장관 최호중'] [summary: the 외교부 page, which prints the successor's start day as the end, ends 이상옥 on 1993-02-26] | 행정안전부 역대장관, 총무처 (tier 2) (https://www.mois.go.kr/mns/sub/a02/MinistryofGovernmentAdmin/screen.do, accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/public_info/ext88_verify/official/ministry_mois_govadmin.html) [quote: '제26대 장관 최창윤 재임기간 1993년 2월 26일 ~ 1993년 12월 21일'] [summary: the 1993 조각 (in which 오인환 replaced 유혁인) took office on 1993-02-26]. For 25 Feb: 중앙일보 1993-02-25 '내일 조각발표' (BigKinds news_id 01100901.19930225151908002, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100901.19930225151908002.json) [quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다'] [summary: the outgoing cabinet's resignations submitted and all accepted on 25 Feb 1993], and ko.wikipedia '대한민국 공보처' and '류혁인' (builder's snapshots, tier 4) give 1993-02-25.",
+     "birth year: 경향신문 1992-10-10 p.2 '柳赫仁 공보처 維新때 정무수석거친 마당발' (Naver News Library article 1992101000329102008, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992101000329102008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992101000329102008&editNo=15&printCount=1&publishDate=1992-10-10&officeId=00032&pageNo=2&printNo=14549&publishType=00010, accessed 2026-09-26T21:36:13-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1992101000329102008.json) [quote: '▲慶北安東(58)'] [summary: age 58 in October 1992, consistent with the birth year 1934 in the file (or late 1933)] The file keeps 1934 (ko.wikipedia, tier 4)."
+    ]
+   },
+   "4": {
+    "name": "오인환",
+    "ministry": "공보처",
+    "start": "1993-02-26",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "from_main record, not edited. It is identical to roster/culture.verified.json apart from the from_main flag (checked by script).",
+     "start 1993-02-26 confirmed: 조선일보 1993-02-27 p.5 '당혹…환영…\"정권교체 실감\"' (Naver News Library article 1993022700239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T09:45:16-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1993022700239105001.json) [quote: '오후2시 각료 임명장 수여'] [summary: the 김영삼 cabinet received its 임명장 at 14:00 on 26 Feb 1993] | 세계일보 1993-02-27 '“일일이 다 만나보고 결정했다”/새 대통령 첫 조각 정­관가 표정' (BigKinds news_id 01100701.19930227000000501, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930227000000501&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:19:02-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100701.19930227000000501.json) [quote: '김대통령은 26일 오후 신임24개 부처장관과 안기부장 서울시장 평통사무총장등 27명에게 임명장을 수여'] [summary: 임명장 for all 24 new ministers, 오인환 among them, on the afternoon of 26 Feb 1993] | 동아일보 1993-02-27 p.3 '취임식장의 吳공보처' (Naver News Library article 1993022700209203010, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700209203010), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209203010&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=3&printNo=22098&publishType=00020, accessed 2026-09-26T09:12:21-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1993022700209203010.json) [quote: '吳隣煥공보처장관(왼쪽)이 26일 오후 취임식장에 李庚植차관의 안내를 받으며들어서고 있다'] [summary: 오인환's 취임식 on the afternoon of 26 Feb 1993] | 서울신문 1997-10-05 '오인환 공보처 최장수 기록' (BigKinds news_id 01100611.20160421133721618, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421133721618&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T21:29:11-0400; snapshot roster/sources/public_info/ext88_verify/bk/bk_01100611.20160421133721618.json) [quote: '오장관은 지난 93년 2월26일부터 재임해 5일로 4년7개월9일 근무를 기록했다'] [summary: tenure counted from 26 Feb 1993]",
+     "no other holder between 1993-02-26 and 1998-02-27: 조선일보 1994-12-24 p.1 '부총리 洪在馨 (경제) 金悳 (통일) 씨' (Naver News Library article 1994122400239101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400239101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239101001&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=1&printNo=22895&publishType=00010, accessed 2026-09-26T10:09:09-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1994122400239101001.json) [quote: '공보처吳隣煥(留)'] [summary: kept in the 12·23 개각 of 1994] | 조선일보 1995-12-11 p.5 '「長壽장관」거취는…' (Naver News Library article 1995121100239105001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995121100239105001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995121100239105001&editNo=1&printCount=1&publishDate=1995-12-11&officeId=00023&pageNo=5&printNo=23225&publishType=00010, accessed 2026-09-26T21:37:33-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1995121100239105001.json) [quote: '새정부 출범 당시의 자리를 지킨「장관」은 吳隣煥공보처장관 한사람뿐이다'] [summary: the only minister still in the post he took at the start of the government, after 13 reshuffles (December 1995)] | 조선일보 1997-08-06 p.4 '吳隣煥공보“YS와 끝까지…”' (Naver News Library article 1997080600239104002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600239104002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239104002&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=4&printNo=23788&publishType=00010, accessed 2026-09-26T21:38:27-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1997080600239104002.json) [quote: '공보처 장관은5일의 개각 파고도 넘어 유임됐다'] [summary: kept in the 8·5 개각 of 1997] | 경향신문 1998-02-25 p.6 '文民 최장수 각료 오인환 장관 \"영원한 YS맨 되겠다\"' (Naver News Library article 1998022500329106006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998022500329106006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998022500329106006&editNo=40&printCount=1&publishDate=1998-02-25&officeId=00032&pageNo=6&printNo=16365&publishType=00010, accessed 2026-09-26T21:38:09-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1998022500329106006.json) [quote: '김영삼(金泳三)대통령과 임기를 함께한「문민정부」의 최장수 각료이자「정부 대변인」인 오인환(吳隣煥)공보처장관은 24일 이임인사를 겸한 기자간담회를 갖고'] [summary: served the whole 김영삼 term. Farewell press meeting on 24 Feb 1998]",
+     "end 1998-02-27 confirmed (공보처 abolished by 정부조직법 법률 제5529호, effective 1998-02-28, offices_1988.json OFA09 source GOA_5529): 경향신문 1998-02-28 p.2 '총리인준 지연으로 근무연장 국무위원 급여 반납' (Naver News Library article 1998022800329102012, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998022800329102012), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998022800329102012&editNo=40&printCount=1&publishDate=1998-02-28&officeId=00032&pageNo=2&printNo=16368&publishType=00010, accessed 2026-09-26T21:27:49-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1998022800329102012.json) [quote: '고건(高建)총리를 비롯한 국무위원들은 27일 총리인준 지연으로다음달 2일까지 근무할 경우 받게되는 3월분 보수를 전액 반납키로했다' / '고총리와 오인환(吳隣煥)공보처장관 등은 이날 오찬간담회에서'] [summary: 오인환 still 공보처장관 on 27 Feb 1998] | 한겨레 1998-02-28 p.2 '임기연장 각료 봉급반납' (Naver News Library article 1998022800289102006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998022800289102006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998022800289102006&editNo=5&printCount=1&publishDate=1998-02-28&officeId=00028&pageNo=2&printNo=3128&publishType=00010, accessed 2026-09-26T21:39:36-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1998022800289102006.json) [quote: '임기가 김대중 대통령의취임 이후에도 연장되고 있는 고건 총리와 오인환 공보처 장관 등 일부 각료들은 27일'] [summary: his term extended past the 25 Feb inauguration, still in office on 27 Feb 1998] | 동아일보 1998-02-27 p.4 '국정공백 언제까지 각부처 표정 장관들\"출근해야 됩니까\"문의전화' (Naver News Library article 1998022700209104001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998022700209104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998022700209104001&editNo=45&printCount=1&publishDate=1998-02-27&officeId=00020&pageNo=4&printNo=23806&publishType=00010, accessed 2026-09-26T13:39:22-0400; snapshot roster/sources/public_info/ext88_verify/nl/nl_1998022700209104001.json) [quote: '오인환(吳隣煥)장관은 25일 오후 이임식까지 마쳤다'] [summary: his 이임식 was held on 25 Feb 1998, before the office was abolished, so it does not mark the legal end]",
+     "birth_date and gender are null in the main record and were left null (from_main)."
+    ]
+   }
+  },
+  "changes": [],
+  "disputes": [
+   "유혁인 end: 1993-02-26 kept (same-day handover. The 김영삼 cabinet received its 임명장 at 14:00 on 26 Feb, 조선일보 1993-02-27 p.5 and 세계일보 1993-02-27. 세계일보 1993-02-25 and 한겨레 1993-02-26 say the outgoing ministers left on 26 Feb. The 총무처 reading in 매일경제 1993-02-24 says they stay until successors are appointed) against 1993-02-25 (중앙일보 1993-02-25, BigKinds 01100901.19930225151908002, '25일 일괄사표를 제출,전원 수리됐다', and ko.wikipedia). No source dates 유혁인's own exit. The same split is recorded in culture, energy, environment, general_affairs and education, so the 1993 handover should be settled once across lineages (researcher decision).",
+   "최병렬 across lineages. His 문화공보부 spell (culture) ends 1990-01-02 and his 공보처 spell starts 1990-01-03 with reorg_continuation false. Whether the panel should treat this as one continuous appointment is a project-level choice (builder issue)."
+  ],
+  "scripts": [
+   "roster/scripts/public_info_ext88_verify_01_lists.py",
+   "roster/scripts/public_info_ext88_verify_02_tier2.py",
+   "roster/scripts/public_info_ext88_verify_03_search.py",
+   "roster/scripts/public_info_ext88_verify_04_ministry_pages.py",
+   "roster/scripts/public_info_ext88_verify_05_read.py",
+   "roster/scripts/public_info_ext88_verify_06_1993.py",
+   "roster/scripts/public_info_ext88_verify_07_profiles.py",
+   "roster/scripts/public_info_ext88_verify_08_build.py",
+   "roster/scripts/public_info_ext88_verify_09_resume_audit.py"
+  ],
+  "snapshots": "roster/sources/public_info/ext88_verify/",
+  "resume_audit": {
+   "at": "2026-09-27T21:49:16-0400",
+   "result": "passed",
+   "quotes_checked": {
+    "verifier": 98,
+    "builder": 58,
+    "failed": 0
+   },
+   "snapshots_cited": 108,
+   "snapshots_missing": 0,
+   "snapshot_without_meta": [
+    "roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext"
+   ]
+  }
+ }
+}

@@ -1,0 +1,2 @@
+name,acting_for_lineage,role,from,to,coverage,sources,added_by
+이기일,health,보건복지부 장관 직무대행 (printed in NA minutes: 보건복지부장관직무대리 | 보건복지부장관직무대행),2022-07-27,2022-09-22,"incidental, not exhaustive","NA minutes via kr-hearings v10 full build, minister_acting_candidates_v10full.csv (2 dates, 18 turns, sources xml). from/to are the first and last observed speech dates inside the vacancy 2022-05-26..2022-10-04, not appointment dates.",transcript_observation

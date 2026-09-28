@@ -1,0 +1,1559 @@
+{
+ "lineage": "labor",
+ "built_at": "2026-09-26T13:10:12-0400",
+ "window": {
+  "start": "1988-02-25",
+  "end": "1998-02-24",
+  "note": "Every spell with a day in office in the window. The 1998 holdover (이기호) is copied unchanged from roster/labor.verified.json with from_main true."
+ },
+ "ministry_names": [
+  {
+   "ministry": "노동부",
+   "from": "1988-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (effective 1987-01-01) 제29조② and 제39조의2, and 법률 제5153호 (effective 1996-08-08) 제29조② and 제39조의2. The heads of 행정각부 are 국무위원 (장관은 국무위원으로 보한다). 노동부 existed from 1981-04-08 (국가기록원 OG0005032), so 이헌기's pre-window part of the spell (from 1986-08-27) is under the same office. No renaming within the window. From 1998-02-28 see the main file.",
+   "source": "offices_1988.json OFA35 노동부 (GOA_3854, GOA_5153, ARCH_OG0005032)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "이헌기",
+   "name_hanja": "李憲琦",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-08-10",
+   "gender": null,
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1986-08-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "경향신문 1986-08-27 p.1 \"全(전)대통령,신임長官(장관)에 임명장\" (Naver News Library article 1986082700329201008, OCR text: '全斗煥 대통령은 27일 상오 청와대에서 金宗鎬내무등 신임 9개부처장관과 李相薰 비상기획위원장에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329201008&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=1&printNo=12591&publishType=00020, accessed 2026-09-26T09:35:10-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1986082700329201008.json)",
+    "한국일보 1986-08-28 \"新任장관에 임명장\" (BigKinds news_id 01101101.19860828183351105, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860828183351105&returnCnt=1&sectionDiv=1000, quote: '全斗煥대통령은 27일 상오 靑瓦臺에서 金宗鎬내무장관 등 신임 9개부처장관과 李相薰비상기획위원장에게 임명장을 수여했다', accessed 2026-09-26T09:29:28-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19860828183351105.json)",
+    "경향신문 1986-08-27 p.2 \"새長官(장관)\"意慾(의욕)의一聲(일성)\"\" (Naver News Library article 1986082700329202004, OCR text: '노동부는 27일상오11시 노동부1층 회의실에서이·취임식을 갖고떠나는 장관과 새로 오는 장관이 악수를 하며 교대를', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329202004&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=2&printNo=12591&publishType=00020, accessed 2026-09-26T09:30:54-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1986082700329202004.json)",
+    "동아일보 1986-08-26 p.1 \"대폭改閣(개각) 10개部處長官(부처장관) 경질\" (Naver News Library article 1986082600209201004, OCR text: '全斗煥대통령은 26일 오전10개부처에 대한 대폭적인개각을 단행했다' ... '노동부장관에 李憲琦전보사부차관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600209201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00020&pageNo=1&printNo=19970&publishType=00020, accessed 2026-09-26T09:09:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1986082600209201004.json) [announcement and 발령 on 1986-08-26]",
+    "국사편찬위원회 대한민국사연표 1986-08-26 entry tcct_1986_08_26_0010 '전두환 대통령, 외무부장관 최광수·내무부장관 김종호·체육부장관 이세기·상공부장관 나웅배·노동부장관 이헌기·교통부장관 차주헌·체신부장관 이대형·문공부장관 이웅희·과기처장관 이태섭·통일원장관 허문도 임명' https://db.history.go.kr/id/tcct_1986_08_26_0010 (tier 2, day list accessed 2026-09-26T09:04:54-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1986-08-26.html) [announcement day]",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=4 (tier 2, years only, accessed 2026-09-25T13:33:12-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p4.html): '4 대 이헌기(李憲琦) 1986 ~ 1988년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제4대 이헌기 1986년 8월 27일 ~ 1988년 2월 24일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 매일경제 1986-08-26 p.1 \"10部(부) 長官(장관) 경질\" (Naver News Library article 1986082600099201003, OCR text: '全斗煥대통령은 26일 상오외무부장관에 崔侊洙 駐유엔大使를 임명하는등 10개부처에 대한 대폭적인 개각을 단행했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600099201003&editNo=1&printCount=1&publishDate=1986-08-26&officeId=00009&pageNo=1&printNo=6303&publishType=00020, accessed 2026-09-26T09:09:43-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1986082600099201003.json) [announcement of the 8·26 개각, 노동 李憲琦 in the list]",
+    "[verifier] 조선일보 1986-08-27 p.11 \"오고가는 官街(관가)...話題(화제) 만발\" (Naver News Library article 1986082700239111001, OCR text: '趙澈權장관이 바뀌고 李憲琦씨가 신임장관에 임명되었다는 소식이 전해지자', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700239111001&editNo=1&printCount=1&publishDate=1986-08-27&officeId=00023&pageNo=11&printNo=20123&publishType=00010, accessed 2026-09-26T10:22:28-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1986082700239111001.json) [reaction at 노동부 on 1986-08-26]",
+    "[verifier] 조선일보 1986-08-28 p.1 \"신임閣僚(각료)에 임명장\" (Naver News Library article 1986082800239101018, OCR text: '全斗煥 대통령은 27일 오전青瓦臺에서 金宗鎬내무장관등9개부처 장관과 李相薰비상기획위원장에게임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082800239101018&editNo=1&printCount=1&publishDate=1986-08-28&officeId=00023&pageNo=1&printNo=20124&publishType=00010, accessed 2026-09-26T10:21:35-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1986082800239101018.json) [임명장 on the morning of 1986-08-27 for the nine new ministers other than 외무 崔侊洙, who was abroad]",
+    "[verifier] 동아일보 1986-08-27 p.1 \"신임閣僚(각료)에 任命狀(임명장)\" (Naver News Library article 1986082700209201006, OCR text: '全斗煥대통령은 27일오전金宗鎬내무부장관등 신임각료들에게 임명장을수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700209201006&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00020&pageNo=1&printNo=19971&publishType=00020, accessed 2026-09-26T09:41:41-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1986082700209201006.json)",
+    "[verifier, tier 2] 국가기록원 기록물 생산기관 변천정보, 노동부 (OG0005032) 기관장 list https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0005032&isProvince=&mapInfo=mapno1 (accessed 2026-09-26T21:20:32-0400; snapshot roster/sources/labor/ext88_verify/web/archives_viewDetailInfo_OG0005032.html): '제4대 이헌기 ( 1986.08.27 ~ 1988.02.01 )' [day precision in this row. Most rows for 1988-1995 end in .01, a month-only placeholder. 참고정보원 on the page include the 고용노동부 site and 안전행정부 『정부조직변천연혁』 (2013)]"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022600239101004.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022500099201010.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, quote: '제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다', accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19880225005009001.json)",
+    "조선일보 1988-02-25 p.2 \"\"떠나면서 당부한다\" 離任(이임)국무위원들의 한마디\" (Naver News Library article 1988022500239102002, OCR text: '李憲琦노동부장관=비록1년6개월의 짧은 재임기간이었지만', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239102002&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=2&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:31-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022500239102002.json) [farewell remarks of the outgoing ministers]",
+    "동아일보 1988-02-24 p.1 \"國務委員(국무위원) 일괄사표\" (Naver News Library article 1988022400209201012, OCR text: '이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T09:09:55-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022400209201012.json)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, tier 2, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제4대 이헌기 1986년 8월 27일 ~ 1988년 2월 24일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 동아일보 1988-02-24 p.1 \"5共和國(공화국) 마지막날\" (Naver News Library article 1988022400209201005, OCR text: '국무위원들은 회의가 끝난뒤 일괄사표를 냈다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201005&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T13:10:26-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022400209201005.json) [blanket resignation after the last 5공 국무회의 on 1988-02-24]",
+    "[verifier] 경향신문 1988-02-25 p.1 \"全(전) 前任(전임)대통령 환송 새閣僚(각료)들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어제6共和國 정부를 출범시켰다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022500329201003.json) [successors appointed 1988-02-25]",
+    "[verifier] 조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\" (Naver News Library article 1988022600239103011, OCR text: '25일오전 靑瓦臺에서 있은 신임국무위원 24명과 대통령首席비서관들에 대한 임명장수여식', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239103011&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=3&printNo=20582&publishType=00010, accessed 2026-09-26T09:05:29-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022600239103011.json)",
+    "[verifier] 한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\" (BigKinds news_id 02100601.19880226193114109, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, quote: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작', accessed 2026-09-26T09:06:16-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_02100601.19880226193114109.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Former member of the 11th Assembly (민정당 전국구), not a member of the 12th at appointment. 중앙일보 1986-08-26 \"당-정 협조 어느 때 보다 강화\" (BigKinds news_id 01100901.19860826214444005, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19860826214444005&returnCnt=1&sectionDiv=1000, quote: '11대 전국구의원을 지냈던 이헌기씨도 노동장관으로 기용됨으로써', accessed 2026-09-26T10:06:31-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19860826214444005.json). No row in na_members_12_22.csv.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "전두환-era minister still in office on 1988-02-25 (caretaker holdover for part of one day). Named in the 8·26 개각 of 1986 while 전 보건사회부차관 (announced and reported as 임명 on 1986-08-26, 동아일보 1986-08-26), with the 임명장 on the morning of 1986-08-27 and the 이·취임식 at the ministry at 11:00 the same day (경향신문 1986-08-27 p.2). Start follows the 임명장 day, as the culture, foreign and unification ext88 files do for the same reshuffle, hence medium. ko.wikipedia also gives 1986-08-27. The whole 5공 cabinet handed in blanket resignations after the last 국무회의 on 1988-02-24, and the new President accepted them on the morning of 1988-02-25 before giving 최명헌 and the other new ministers their 임명장 the same morning. The spell therefore ends on 1988-02-25 (same-day handover rule used in all ext88 files). The 고용노동부 list prints years only (1986 ~ 1988년) and ko.wikipedia ends him on 1988-02-24. Hanja from 동아일보 1986-08-26. birth_date from ko.wikipedia '이헌기' https://ko.wikipedia.org/w/index.php?oldid=41473239 (tier 4, secondary, accessed 2026-09-26T12:59:48-0400; snapshot roster/sources/labor/ext88/bios/wiki_이헌기.json)."
+  },
+  {
+   "name": "최명헌",
+   "name_hanja": "崔明憲",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1929-06-16",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022600239101004.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880225005009001&returnCnt=1&sectionDiv=1000, quote: '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다', accessed 2026-09-26T09:06:02-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19880225005009001.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰(이현재)내각 발족 새閣僚(각료)에 임명장\" (Naver News Library article 1988022500099201010, OCR text: '盧泰愚대통령은 25일 상오제13대 대통령취임식에 참석한뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 제6공화국 신임각료들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022500099201010.json)",
+    "경향신문 1988-02-26 p.11 \"\"民主(민주)·和合(화합)으로 참된 奉仕(봉사)행정\"\" (Naver News Library article 1988022600329211001, OCR text: '崔明憲노동부장관은 취임사를통해', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600329211001&editNo=3&printCount=1&publishDate=1988-02-26&officeId=00032&pageNo=11&printNo=13050&publishType=00020, accessed 2026-09-26T09:06:29-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022600329211001.json) [취임사 reported the next day]",
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article 1988021900209201003, OCR text: '노동 崔明憲民正黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988021900209201003.json) [named by 대통령당선인 on 1988-02-19]",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000, quote: '▲노동=최명헌 의원(민정)', accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19880219004312001.json) [named 1988-02-19]",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, tier 2, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '5 대 최명헌(崔明憲) 1988 ~ 1988년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제5대 최명헌 1988년 2월 25일 ~ 1988년 12월 5일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 경향신문 1988-02-25 p.1 \"全(전) 前任(전임)대통령 환송 새閣僚(각료)들에 임명장\" (Naver News Library article 1988022500329201003, OCR text: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어제6共和國 정부를 출범시켰다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022500329201003.json)",
+    "[verifier] 동아일보 1988-02-25 p.1 \"새内閣(내각)은 내일부터\" (Naver News Library article 1988022500209201007, OCR text: '盧泰愚대통령은 25일 제13대대통령취임식이 끝난후 李賢宰국무총리등 새각료들에게 임명장을 수여,새정부의진용을 갖췄다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500209201007&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00020&pageNo=1&printNo=20429&publishType=00020, accessed 2026-09-26T09:07:16-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022500209201007.json)",
+    "[verifier] 조선일보 1988-02-26 p.3 \"두손으로 각료 임명장 건네\" (Naver News Library article 1988022600239103011, OCR text: '25일오전 靑瓦臺에서 있은 신임국무위원 24명과 대통령首席비서관들에 대한 임명장수여식', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239103011&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=3&printNo=20582&publishType=00010, accessed 2026-09-26T09:05:29-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022600239103011.json)",
+    "[verifier] 조선일보 1988-02-28 p.10 \"崔(최)노동\"비전문가가 오히려 객관적\"주장\" (Naver News Library article 1988022800239110006, OCR text: '崔장관은 지난26일 열린취임식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022800239110006&editNo=1&printCount=1&publishDate=1988-02-28&officeId=00023&pageNo=10&printNo=20584&publishType=00010, accessed 2026-09-26T13:56:45-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988022800239110006.json) [취임식 of the new 노동부장관 on 1988-02-26]",
+    "[verifier] 한국일보 1988-02-26 \"大赦免 오늘 議決...발표\" (BigKinds news_id 01101101.19880226092506104, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19880226092506104&returnCnt=1&sectionDiv=1000, quote: '盧泰愚대통령은 25일상오 제13代대통령취임식에 참석한뒤 李賢宰신임국무총리등 새 각료들과 洪性徹대통령비서실장 李興雨청와대경호실장 청와대수석 비서관등에게 임명장을 수여,새정부의 진용을 갖췄다', accessed 2026-09-26T09:35:17-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01101101.19880226092506104.json) [한국일보, a paper the builder did not use for this date]"
+   ],
+   "end": "1988-12-05",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1988-12-06 p.14 \"\"산적한 현안…과감한 추진 기대\" 새長官(장관)맞는 각部処(부처) 이모저모\" (Naver News Library article 1988120600239114006, OCR text: '崔전임장관은 이날 오전11시30분 노동부청사에서 열린 이임식에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=14&printNo=20825&publishType=00010, accessed 2026-09-26T09:47:57-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120600239114006.json)",
+    "중앙일보 1988-12-05 \"인물평 한창… 후속 인사에 관심-대폭개각 맞은 관가 이모저모\" (BigKinds news_id 01100901.19881205055119002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205055119002&returnCnt=1&sectionDiv=1000, quote: '최 장관의 유임을 기대했던 노동부 직원들은 5일 출근과 동시에 장관 경질 소식을 듣고', accessed 2026-09-26T09:47:08-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19881205055119002.json)",
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '노동부장관張永喆民正의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201003.json)",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article 1988120500209201032, OCR text: '오후에는 신임국무위원들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201032.json)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 entry tcct_1988_12_05_0010 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (tier 2, day list accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1988-12-05.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-12-05 '총리에 강영훈 임명 등 전면개각' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, tier 2, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제5대 최명헌 1988년 2월 25일 ~ 1988년 12월 5일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '全국무위원들은이날상오 임시국무회의를소집,盧대통령에게 일괄사표를 제출했으며 盧대통령은 신임姜총리서리와 새각료들에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988120500329201003.json) [blanket resignation and new 임명장 the same day, 1988-12-05]",
+    "[verifier] 한겨레 1988-12-06 p.1 \"내각 전면적 개편\" (Naver News Library article 1988120600289101001, OCR text: '노동 장영철 민정당의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:44:44-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988120600289101001.json) [successor named in the 12·5 개각]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting member of the 12th Assembly (민주정의당, 전국구) at appointment, seat 1985-04-11..1988-05-29, so a member-minister until the end of the 12th Assembly on 1988-05-29. Not a member of the 13th. Later 16th Assembly (from 2001-01-04). na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 최명헌 崔明憲 are term 12 민주정의당 전국구 seat 1985-04-11..1988-05-29, and term 16 새천년민주당 비례대표 seat 2001-01-04..2004-05-29. 동아일보 1988-02-19 names him '崔明憲民正黨의원(국회의장비서실장)'.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "First 노태우 cabinet. Named by the President-elect on 1988-02-19 (동아일보, 중앙일보 1988-02-19) and appointed with the new cabinet on inauguration day, 1988-02-25 (임명장 after the inauguration ceremony). Replaced in the 12·5 개각 of 1988, when he held his 이임식 at 11:30 on 1988-12-05 (조선일보 1988-12-06) and 장영철 received his 임명장 that afternoon. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 12 row)."
+  },
+  {
+   "name": "장영철",
+   "name_hanja": "張永喆",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1936-10-28",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1988-12-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '노동부장관張永喆民正의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201003.json)",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article 1988120500209201032, OCR text: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201032.json)",
+    "한겨레 1988-12-06 p.1 \"노 대통령,새 각료 임명장\" (Naver News Library article 1988120600289101006, OCR text: '노태우 대통령은 5일 오후 청와대에서 신임 국무위원들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101006&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:22:08-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120600289101006.json)",
+    "중앙일보 1988-12-06 \"신임내각취임 제1성\" (BigKinds news_id 01100901.19881206055155001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881206055155001&returnCnt=1&sectionDiv=1000, quote: '◇장영철 노동=노사관계의 철저한 확립을 위해', accessed 2026-09-26T09:29:20-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19881206055155001.json)",
+    "조선일보 1988-12-06 p.14 \"\"산적한 현안…과감한 추진 기대\" 새長官(장관)맞는 각部処(부처) 이모저모\" (Naver News Library article 1988120600239114006, OCR text: '신임 張永喆장관이 한때 노동청차장을지낸경력을 들어', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600239114006&editNo=1&printCount=1&publishDate=1988-12-06&officeId=00023&pageNo=14&printNo=20825&publishType=00010, accessed 2026-09-26T09:47:57-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120600239114006.json)",
+    "국사편찬위원회 대한민국사연표 1988-12-05 entry tcct_1988_12_05_0010 '노태우 대통령, 총리에 강영훈 민주정의당 의원을 임명하는 등 개각' https://db.history.go.kr/id/tcct_1988_12_05_0010 (tier 2, day list accessed 2026-09-26T08:40:41-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1988-12-05.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988) 1988-12-05 '총리에 강영훈 임명 등 전면개각' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=노태우&year=1988, tier 2, accessed 2026-09-26T08:49:52-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_노태우_1988_p1.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '6 대 장영철(張永喆) 1988 ~ 1989년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제6대 장영철 1988년 12월 5일 ~ 1989년 7월 19일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 경향신문 1988-12-05 p.1 \"總理(총리)에 姜英勳(강영훈)씨\" (Naver News Library article 1988120500329201003, OCR text: '▲노동 張永喆民正黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020, accessed 2026-09-26T09:22:02-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988120500329201003.json) [12·5 개각 list, with 임명장 the same day (see the end sources of 최명헌)]",
+    "[verifier] 한겨레 1988-12-06 p.1 \"내각 전면적 개편\" (Naver News Library article 1988120600289101001, OCR text: '노태우 대통령은 5일 강영훈민정당의원(전국구)을 국무총리에 기용하는 등 전면적인 개각을단행했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120600289101001&editNo=2&printCount=1&publishDate=1988-12-06&officeId=00028&pageNo=1&printNo=177&publishType=00010, accessed 2026-09-26T09:44:44-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1988120600289101001.json)"
+   ],
+   "end": "1989-07-19",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1989-07-19 p.1 \"安企部長(안기부장)-6部長官(부장관) 경질\" (Naver News Library article 1989071900209201003, OCR text: '盧대통령은 19일오전 신임안기부장과 6개부처장관에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900209201003&editNo=2&printCount=1&publishDate=1989-07-19&officeId=00020&pageNo=1&printNo=20861&publishType=00020, accessed 2026-09-26T10:02:35-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989071900209201003.json)",
+    "중앙일보 1989-07-19 \"안기부장.6부 장관 경질\" (BigKinds news_id 01100901.19890719133010001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890719133010001&returnCnt=1&sectionDiv=1000, quote: '노 대통령은 이날 오전11시 청와대에서 서 안기부장과 6개 부처 장관들에게 임명장을 주고', accessed 2026-09-26T09:47:28-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19890719133010001.json)",
+    "매일경제 1989-07-19 p.3 \"改閣(개각)관련 各部處(각부처) 표정\" (Naver News Library article 1989071900099203010, OCR text: '퇴임장관들도 조찬석상에서 퇴임사실을 통고받았다는 후문', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900099203010&editNo=1&printCount=1&publishDate=1989-07-19&officeId=00009&pageNo=3&printNo=7194&publishType=00020, accessed 2026-09-26T10:03:24-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989071900099203010.json)",
+    "중앙일보 1989-07-19 \"전격개각에 다소 어리둥절\" (BigKinds news_id 01100901.19890719133103001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890719133103001&returnCnt=1&sectionDiv=1000, quote: '◇노동부=장영철 장관의 단명과 관련', accessed 2026-09-26T10:07:15-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19890719133103001.json)",
+    "동아일보 1989-07-20 p.2 \"朴政務(박정무) 취임식지각에\"첫날부터 늦는걸보니 세긴 센모양\"푸념\" (Naver News Library article 1989072000209202005, OCR text: '이번 개각에서 퇴진한李漢東前내무 張永喆前노', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000209202005&editNo=2&printCount=1&publishDate=1989-07-20&officeId=00020&pageNo=2&printNo=20862&publishType=00020, accessed 2026-09-26T10:03:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989072000209202005.json)",
+    "국사편찬위원회 대한민국사연표 1989-07-19 entry tcct_1989_07_19_0010 '노태우 대통령, 국가안전기획부장 및 6부 장관 경질·신임 안기부장 서동권 등 임명' https://db.history.go.kr/id/tcct_1989_07_19_0010 (tier 2, day list accessed 2026-09-26T09:05:56-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1989-07-19.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제6대 장영철 1988년 12월 5일 ~ 1989년 7월 19일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 한겨레 1989-07-20 p.1 \"6부장관 바꿔\" (Naver News Library article 1989072000289101002, OCR text: '노대통령은 이날 오전11시 청와대에서서안기부장과 6개부처 장관들에게임명장을주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000289101002&editNo=4&printCount=1&publishDate=1989-07-20&officeId=00028&pageNo=1&printNo=366&publishType=00010, accessed 2026-09-26T10:07:11-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1989072000289101002.json) [successor 최영철 named and given the 임명장 on 1989-07-19]",
+    "[verifier] 경향신문 1989-07-19 p.2 \"盧泰愚(노태우)\" (Naver News Library article 1989071900329202005, OCR text: '盧泰愚대통령이 19일상오 신임 安企部長과 각료들에게 임명장을 주고있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900329202005&editNo=3&printCount=1&publishDate=1989-07-19&officeId=00032&pageNo=2&printNo=13481&publishType=00020, accessed 2026-09-26T10:18:16-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1989071900329202005.json)",
+    "[verifier] 한국경제 1989-07-20 \"安企部長·6部장관 경질\" (BigKinds news_id 02100601.19890720220558102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19890720220558102&returnCnt=1&sectionDiv=1000, quote: '盧 대통령은 이날 상오 11시청와대에서 신임 안기부장 및 장관들에게 임명장을 주었으며', accessed 2026-09-26T13:57:55-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_02100601.19890720220558102.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting member of the 13th Assembly (민주정의당, 경북 성주·칠곡) at appointment and for the whole spell, seat 1988-05-30..1992-05-29. Also 14th and 15th Assembly later. na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 장영철 張永喆 are term 13 민주정의당 경북 성주,칠곡군 seat 1988-05-30..1992-05-29, and term 14 민주자유당 경북 성주군칠곡군 seat 1992-05-30..1996-05-29, and term 15 신한국당 경북 군위,칠곡군 seat 1996-05-30..2000-05-29. 동아일보 1988-12-05 names him '張永喆民正의원'.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Appointed in the 12·5 개각 of 1988 (announcement and 임명장 the same day). Replaced in the 7·19 개각 of 1989, announced and completed with 임명장 at 11:00 on 1989-07-19. The outgoing ministers were told at a 청와대 breakfast that morning (매일경제 1989-07-19 p.3). ko.wikipedia links him as '장영철 (1936년)'. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 13 row)."
+  },
+  {
+   "name": "최영철",
+   "name_hanja": "崔永喆",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1935-12-19",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1989-07-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "조선일보 1989-07-20 p.1 \"安企部長(안기부장)-6部(부)장관 경질\" (Naver News Library article 1989072000239101009, OCR text: '노동부장관에 崔永喆 체신부장관' ... '盧대통령은 이날 오전11시청와대에서 徐안기부장과 새로 임명된 6부장관들에게임명장을 수여했으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000239101009&editNo=1&printCount=1&publishDate=1989-07-20&officeId=00023&pageNo=1&printNo=21014&publishType=00010, accessed 2026-09-26T10:03:02-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989072000239101009.json)",
+    "한국일보 1989-07-20 \"전격 改閣… 6部장관 경질\" (BigKinds news_id 01101101.19890720113914101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19890720113914101&returnCnt=1&sectionDiv=1000, quote: '노동부장관에 崔永喆체신부 장관' ... '盧대통령은 이날 상오11시청와대에서 신임 徐안기부장과 6개부처장관에게 임명장을 수여하고', accessed 2026-09-26T10:07:05-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19890720113914101.json)",
+    "서울신문 1989-07-20 \"安企部長·6部 장관 경질\" (BigKinds news_id 01100611.19890720163335005, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19890720163335005&returnCnt=1&sectionDiv=1000, quote: '노동부장관에 崔永喆 체신부장관', accessed 2026-09-26T10:06:55-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.19890720163335005.json)",
+    "세계일보 1989-07-20 \"安企部長-6部長官 경질\" (BigKinds news_id 01100701.19890720163707003, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19890720163707003&returnCnt=1&sectionDiv=1000, quote: '노동부장관에는 崔永喆 현체신부장관이', accessed 2026-09-26T10:07:31-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100701.19890720163707003.json)",
+    "조선일보 1989-07-21 p.3 \"빗나간 就任(취임)포부\" (Naver News Library article 1989072100239103003, OCR text: '崔永喆신임노동부장관은 19일오후 취임식 석상에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072100239103003&editNo=1&printCount=1&publishDate=1989-07-21&officeId=00023&pageNo=3&printNo=21015&publishType=00010, accessed 2026-09-26T12:57:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989072100239103003.json)",
+    "국사편찬위원회 대한민국사연표 1989-07-19 entry tcct_1989_07_19_0010 '노태우 대통령, 국가안전기획부장 및 6부 장관 경질·신임 안기부장 서동권 등 임명' https://db.history.go.kr/id/tcct_1989_07_19_0010 (tier 2, day list accessed 2026-09-26T09:05:56-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1989-07-19.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '7 대 최영철(崔永喆) 1989 ~ 1990년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제7대 최영철 1989년 7월 19일 ~ 1990년 12월 27일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 한겨레 1989-07-20 p.1 \"6부장관 바꿔\" (Naver News Library article 1989072000289101002, OCR text: '노동부장관에는 최영철 체신부장관이', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000289101002&editNo=4&printCount=1&publishDate=1989-07-20&officeId=00028&pageNo=1&printNo=366&publishType=00010, accessed 2026-09-26T10:07:11-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1989072000289101002.json)",
+    "[verifier] 한국경제 1989-07-20 \"安企部長·6部장관 경질\" (BigKinds news_id 02100601.19890720220558102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19890720220558102&returnCnt=1&sectionDiv=1000, quote: '노동부 장관에 崔永喆 체신부 장관', accessed 2026-09-26T13:57:55-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_02100601.19890720220558102.json) [임명장 at 11:00 on 1989-07-19 in the same story]",
+    "[verifier] 경향신문 1989-07-19 p.2 \"盧泰愚(노태우)\" (Naver News Library article 1989071900329202005, OCR text: '盧泰愚대통령이 19일상오 신임 安企部長과 각료들에게 임명장을 주고있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900329202005&editNo=3&printCount=1&publishDate=1989-07-19&officeId=00032&pageNo=2&printNo=13481&publishType=00020, accessed 2026-09-26T10:18:16-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1989071900329202005.json)",
+    "[verifier] 경향신문 1989-07-21 p.10 \"분규3者(자)개입 뿌리뽑겠다\" (Naver News Library article 1989072100329210007, OCR text: '崔永喆장관도 19일 취임사에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072100329210007&editNo=3&printCount=1&publishDate=1989-07-21&officeId=00032&pageNo=10&printNo=13483&publishType=00020, accessed 2026-09-26T13:58:13-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1989072100329210007.json) [취임식 on 1989-07-19]"
+   ],
+   "end": "1990-12-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "조선일보 1990-12-28 p.22 \"改閣(개각)겹친「送旧迎新(송구영신)」…部処(부처)마다\"새출발\"\" (Naver News Library article 1990122800239122004, OCR text: '노동부는 이날오후 2시30분 청사 대회의실에서전임 崔永喆장관의 이임식을가진데이어', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122800239122004.json)",
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122700209201001, OCR text: '정치담당특보에 崔永喆노동부장관' ... '노동부장관에 崔秉烈공보처장관을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122700209201001.json)",
+    "경향신문 1990-12-27 \"총리에 노재봉씨/10부 장관 경질 대폭 개각\" (BigKinds news_id 01100101.19901227000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19901227000000101&returnCnt=1&sectionDiv=1000, quote: '최영철 노동부 장관을 추가로 임명하고', accessed 2026-09-26T09:42:51-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19901227000000101.json)",
+    "한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와', accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19901228000000102.json)",
+    "국사편찬위원회 대한민국사연표 1990-12-27 entry tcct_1990_12_27_0010 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' https://db.history.go.kr/id/tcct_1990_12_27_0010 (tier 2, day list accessed 2026-09-26T09:04:58-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1990-12-27.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제7대 최영철 1989년 7월 19일 ~ 1990년 12월 27일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 한겨레 1990-12-28 p.1 \"새 총리 노재봉씨\" (Naver News Library article 1990122800289101001, OCR text: '정치특보에 최영철노동부장관을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1990122800289101001.json) [moved to 대통령 정치특보 in the 12·27 개각]",
+    "[verifier] 조선일보 1990-12-28 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122800239101002, OCR text: '盧대통령은 이날 오후 신임盧총리서리를 비롯,새 각료들에게 임명장을 수여했으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=1&printNo=21500&publishType=00010, accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1990122800239101002.json) [successor's 임명장 on the afternoon of 1990-12-27]",
+    "[verifier] 경기일보 1990-12-27 \"새 각료에 임명장\" (BigKinds news_id 01200101.19901227163601103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19901227163601103&returnCnt=1&sectionDiv=1000, quote: '盧泰愚 대통령은 27일 오후 청와대에서 새로 임명된 盧材鳳 총리서리와 신임 각료들에게 임명장을 수여했다', accessed 2026-09-26T13:19:34-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01200101.19901227163601103.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Former member of the 9th to 12th Assembly, not sitting at appointment (12th seat ended 1988-05-29, no 13th seat). na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 최영철 崔永喆 are term 12 민주정의당 전남 목포시,무안,신안군 seat 1985-04-11..1988-05-29. 동아일보 1990-12-27 \"崔永喆 정치특보 國會부의장 장관지낸「官運」\" (BigKinds news_id 01100401.19901227052707006, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100401.19901227052707006&returnCnt=1&sectionDiv=1000, quote: '13대국회의원에서「황색바람」에 밀려 고배를 마신후 체신 노동장관으로계속 발탁돼', accessed 2026-09-26T10:08:11-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100401.19901227052707006.json)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Moved from 체신부장관 in the 7·19 개각 of 1989 (announced and 임명장 at 11:00 on 1989-07-19, 취임식 that afternoon per 조선일보 1989-07-21). One 동아일보 1989-07-19 p.3 item (News Library 1989071900209203003) dates the 임명장 to '18일오전', against the same paper's p.1 and all other reports of 19일. Left the ministry on 1990-12-27 to become 대통령 정치담당특보, with his 이임식 at 14:30 that day (조선일보 1990-12-28). Later 부총리 겸 통일원장관 from 1992-06-26 (unification lineage). ko.wikipedia links him as '최영철 (1935년)'. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 12 row)."
+  },
+  {
+   "name": "최병렬",
+   "name_hanja": "崔秉烈",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-09-16",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1990-12-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122700209201001, OCR text: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고' ... '노동부장관에 崔秉烈공보처장관을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122700209201001.json)",
+    "조선일보 1990-12-28 p.3 \"◇임명장 수여\" (Naver News Library article 1990122800239103005, OCR text: '盧泰愚대통령이 27일 오후 청와대에서 盧在鳳 총리서리와신임 각료들에게 임명장을 주고있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103005&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=3&printNo=21500&publishType=00010, accessed 2026-09-26T10:03:42-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122800239103005.json)",
+    "한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료와', accessed 2026-09-26T09:33:07-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19901228000000102.json)",
+    "서울신문 1990-12-28 \"“법질서 확립 피부로 느끼게”/노대통령,새각료에 임명장 수여\" (BigKinds news_id 01100611.20160421001252461, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001252461&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 27일 하오 청와대에서 노재봉 총리서리를 비롯한 신임각료와 정해창 대통령비서실장 등에게 임명장을 수여하면서', accessed 2026-09-26T10:08:01-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.20160421001252461.json)",
+    "조선일보 1990-12-28 p.22 \"改閣(개각)겹친「送旧迎新(송구영신)」…部処(부처)마다\"새출발\"\" (Naver News Library article 1990122800239122004, OCR text: '신임 崔秉烈장관의 취임식을 28일 오후 1시30분으로 잠정결정해놓고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122800239122004.json) [취임식 on 1990-12-28]",
+    "국사편찬위원회 대한민국사연표 1990-12-27 entry tcct_1990_12_27_0010 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' https://db.history.go.kr/id/tcct_1990_12_27_0010 (tier 2, day list accessed 2026-09-26T09:04:58-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1990-12-27.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '8 대 최병렬(崔秉烈) 1990 ~ 1992년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제8대 최병렬 1990년 12월 27일 ~ 1992년 6월 25일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 한겨레 1990-12-28 p.1 \"새 총리 노재봉씨\" (Naver News Library article 1990122800289101001, OCR text: '노동부장관에 최병렬 공보처장관을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800289101001&editNo=4&printCount=1&publishDate=1990-12-28&officeId=00028&pageNo=1&printNo=812&publishType=00010, accessed 2026-09-26T09:08:07-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1990122800289101001.json)",
+    "[verifier] 조선일보 1990-12-28 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122800239101002, OCR text: '盧대통령은 이날 오후 신임盧총리서리를 비롯,새 각료들에게 임명장을 수여했으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239101002&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=1&printNo=21500&publishType=00010, accessed 2026-09-26T09:08:04-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1990122800239101002.json)",
+    "[verifier] 경기일보 1990-12-27 \"새 각료에 임명장\" (BigKinds news_id 01200101.19901227163601103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19901227163601103&returnCnt=1&sectionDiv=1000, quote: '盧泰愚 대통령은 27일 오후 청와대에서 새로 임명된 盧材鳳 총리서리와 신임 각료들에게 임명장을 수여했다', accessed 2026-09-26T13:19:34-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01200101.19901227163601103.json)",
+    "[verifier] 서울신문 1990-12-28 \"「12·27 개각」 정가·관가 표정\" (BigKinds news_id 01100611.20160421001333355, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421001333355&returnCnt=1&sectionDiv=1000, quote: '최장관은 이날 상오 강총리에게 인사를 한 뒤 기자들과 점심을 하면서', accessed 2026-09-26T09:25:37-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160421001333355.json) [his first remarks as 노동부장관 on 1990-12-27]"
+   ],
+   "end": "1992-06-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library article 1992062600209201004, OCR text: '盧泰愚대통령은 25일 오후 개각을 단행' ... '崔秉烈노동부장관의 경질을 계기로', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062600209201004.json)",
+    "한국일보 1992-06-26 \"5부처 장관 경질/서울시장·청와대 정치특보도\" (BigKinds news_id 01101101.19920626000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19920626000000101&returnCnt=1&sectionDiv=1000, quote: '전국구로 진출한 최병렬 노동부장관을 오는 29일의 국회개원에 맞춰 경질하는 것을 계기삼아', accessed 2026-09-26T09:43:17-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19920626000000101.json)",
+    "경인일보 1992-06-26 \"新任각료 임명장\" (BigKinds news_id 01200201.19920626150517257, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517257&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 26일 오전 청와대에서 최수철 총리 겸 통일원장관, 이연택 노동부 장관', accessed 2026-09-26T09:35:47-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200201.19920626150517257.json)",
+    "매일경제 1992-06-26 p.1 \"◇盧泰愚(노태우)대통령이 26일오전 崔永喆(최영철) 부총리겸 통...\" (Naver News Library article 1992062600099201006, OCR text: '盧泰愚대통령이 26일오전 崔永喆 부총리겸 통일원장관등 신임 각료들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600099201006&editNo=1&printCount=1&publishDate=1992-06-26&officeId=00009&pageNo=1&printNo=8141&publishType=00020, accessed 2026-09-26T10:04:04-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062600099201006.json)",
+    "조선일보 1992-06-27 p.2 \"\"내뜻 잘아는사람 기용\"\" (Naver News Library article 1992062700239102001, OCR text: '盧泰愚대통령은 26일 오전청와대에서 신임각료등에게임명장을 준뒤' ... '崔秉烈전임장관은 워낙 일을 잘했으나', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700239102001&editNo=1&printCount=1&publishDate=1992-06-27&officeId=00023&pageNo=2&printNo=22032&publishType=00010, accessed 2026-09-26T13:03:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062700239102001.json)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제8대 최병렬 1990년 12월 27일 ~ 1992년 6월 25일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 국민일보 1992-06-26 \"5부장관 경질/서울시장·정치특보도/“아는 사람끼리 잘해보기로”\" (BigKinds news_id 01100201.19920626000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920626000000102&returnCnt=1&sectionDiv=1000, quote: '민자당전국구의원으로 진출한 최병렬노동장관의 경질을 계기로', accessed 2026-09-26T09:39:34-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100201.19920626000000102.json) [replaced on taking up his 14th Assembly seat]",
+    "[verifier] 한겨레 1992-06-27 p.5 \"\"내 뜻 잘아는 사람 기용\"\" (Naver News Library article 1992062700289105005, OCR text: '노태우 대통령은 26일 오전 최영철 통일원장관 등 신임각료들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700289105005&editNo=5&printCount=1&publishDate=1992-06-27&officeId=00028&pageNo=5&printNo=1272&publishType=00010, accessed 2026-09-26T09:35:34-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1992062700289105005.json) [successor's 임명장 on the morning of 1992-06-26]",
+    "[verifier] 경향신문 1992-06-27 p.4 \"\"호흡같이할 인물기용\"\" (Naver News Library article 1992062700329104009, OCR text: '盧泰愚대통령은 26일 상오 신임 崔永喆부총리겸통일원장관,李衍澤노동 李文錫총무처李在昌환경처장관,李相培서울시장,徐東權정치특보에게 임명장을 수여한 자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700329104009&editNo=15&printCount=1&publishDate=1992-06-27&officeId=00032&pageNo=4&printNo=14448&publishType=00010, accessed 2026-09-26T09:36:14-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1992062700329104009.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Former member of the 12th Assembly (민주정의당 전국구, 1985-04-11..1988-05-29), not sitting at appointment. Elected to the 14th Assembly (민주자유당 전국구) in the 1992-03 general election, seat from 1992-05-30, so a member-minister for 1992-05-30..1992-06-26. He was replaced to take up the seat when the 14th Assembly opened. na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 최병렬 崔秉烈 are term 12 민주정의당 전국구 seat 1985-04-11..1988-05-29, and term 14 민주자유당 전국구 seat 1992-05-30..1994-11-02, and term 15 신한국당 서울 서초구갑 seat 1996-05-30..1998-04-29, and term 16 한나라당 서울 강남구갑 seat 2000-05-30..2004-05-29. 조선일보 1992-06-23 p.2 \"勞動長官(노동장관)포함 週內(주내) 부분개각\" (Naver News Library article 1992062300239102005, OCR text: '民自党 전국구의원에 당선된 崔秉烈노동장관을 교체하려', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062300239102005&editNo=1&printCount=1&publishDate=1992-06-23&officeId=00023&pageNo=2&printNo=22028&publishType=00010, accessed 2026-09-26T10:04:15-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062300239102005.json)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Moved from 공보처장관 in the 12·27 개각 of 1990 (announced in the morning, 임명장 in the afternoon of 1990-12-27, 취임식 set for 1990-12-28). Replaced in the 6·25 개각 of 1992. The change was announced on the afternoon of 1992-06-25 and 이연택 received his 임명장 on the morning of 1992-06-26. No report of 최병렬's own 이임식 was found, so the end is the successor's 임명장 day (same-day handover). ko.wikipedia ends him on 1992-06-25. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 12 row)."
+  },
+  {
+   "name": "이연택",
+   "name_hanja": "李衍澤",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1936-09-25",
+   "gender": null,
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1992-06-26",
+   "start_confidence": "medium",
+   "start_sources": [
+    "경인일보 1992-06-26 \"新任각료 임명장\" (BigKinds news_id 01200201.19920626150517257, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517257&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 26일 오전 청와대에서 최수철 총리 겸 통일원장관, 이연택 노동부 장관', accessed 2026-09-26T09:35:47-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200201.19920626150517257.json)",
+    "경기일보 1992-06-26 \"신임각료에 임명장\" (BigKinds news_id 01200101.19920626183350102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920626183350102&returnCnt=1&sectionDiv=1000, quote: '盧泰愚대통령은 26일 오전 청와대에서 崔永喆부총리겸 통일원장관,李衍澤노동부장관', accessed 2026-09-26T10:08:35-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200101.19920626183350102.json)",
+    "매일경제 1992-06-26 p.1 \"◇盧泰愚(노태우)대통령이 26일오전 崔永喆(최영철) 부총리겸 통...\" (Naver News Library article 1992062600099201006, OCR text: '盧泰愚대통령이 26일오전 崔永喆 부총리겸 통일원장관등 신임 각료들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600099201006&editNo=1&printCount=1&publishDate=1992-06-26&officeId=00009&pageNo=1&printNo=8141&publishType=00020, accessed 2026-09-26T10:04:04-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062600099201006.json)",
+    "문화일보 1992-06-27 \"5部處장관등 경질\" (BigKinds news_id 01100501.19920627213456101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19920627213456101&returnCnt=1&sectionDiv=1000, quote: '盧대통령은 26일 오전청와대에서 신임 각료들에게 임명장을 수여했다', accessed 2026-09-26T10:08:47-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100501.19920627213456101.json)",
+    "매일경제 1992-06-27 p.18 \"신임 勞動(노동)장관·서울市長(시장)에 듣는다\" (Naver News Library article 1992062700099218001, OCR text: '李衍澤신임노동부장관은 26일 기자간담회를갖고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700099218001&editNo=1&printCount=1&publishDate=1992-06-27&officeId=00009&pageNo=18&printNo=8142&publishType=00020, accessed 2026-09-26T10:04:22-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062700099218001.json)",
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library article 1992062600209201004, OCR text: '노동부장관에 李衍澤전총무처장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062600209201004.json) [announced on the afternoon of 1992-06-25]",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '9 대 이연택(李衍澤) 1992 ~ 1993년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제9대 이연택 1992년 6월 25일 ~ 1993년 2월 25일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 세계일보 1992-06-26 \"5부장관­2장관급 경질\" (BigKinds news_id 01100701.19920626000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19920626000000101&returnCnt=1&sectionDiv=1000, quote: '노동장관에 이연택 전총무처장관', accessed 2026-09-26T13:33:14-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100701.19920626000000101.json) [announced on 1992-06-25]",
+    "[verifier] 국민일보 1992-06-26 \"5부장관 경질/서울시장·정치특보도/“아는 사람끼리 잘해보기로”\" (BigKinds news_id 01100201.19920626000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920626000000102&returnCnt=1&sectionDiv=1000, quote: '한편 노대통령은 26일 신임각료및 서울시장,정치특보에 대해 임명장을 수여한다', accessed 2026-09-26T09:39:34-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100201.19920626000000102.json)",
+    "[verifier] 경향신문 1992-06-27 p.4 \"\"호흡같이할 인물기용\"\" (Naver News Library article 1992062700329104009, OCR text: '盧泰愚대통령은 26일 상오 신임 崔永喆부총리겸통일원장관,李衍澤노동 李文錫총무처李在昌환경처장관,李相培서울시장,徐東權정치특보에게 임명장을 수여한 자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700329104009&editNo=15&printCount=1&publishDate=1992-06-27&officeId=00032&pageNo=4&printNo=14448&publishType=00010, accessed 2026-09-26T09:36:14-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1992062700329104009.json)",
+    "[verifier] 한겨레 1992-06-27 p.5 \"\"내 뜻 잘아는 사람 기용\"\" (Naver News Library article 1992062700289105005, OCR text: '노태우 대통령은 26일 오전 최영철 통일원장관 등 신임각료들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700289105005&editNo=5&printCount=1&publishDate=1992-06-27&officeId=00028&pageNo=5&printNo=1272&publishType=00010, accessed 2026-09-26T09:35:34-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1992062700289105005.json)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "세계일보 1993-02-25 \"새 정부출범 전야 관가표정\" (BigKinds news_id 01100701.19930225000000201, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19930225000000201&returnCnt=1&sectionDiv=1000, quote: '현국무위원들은 26일 새내각이 탄생하면 곧바로 이취임식을 갖고' ... '이연택노동부장관은 24일' ... '떠날 마음의 준비를 하면서도 짐정리를 보류하고 있어', accessed 2026-09-26T09:50:08-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100701.19930225000000201.json)",
+    "매일경제 1993-02-24 p.2 \"\"25일0시이후 非常(비상)사태 새政府(정부)가 대처\"\" (Naver News Library article 1993022400099202004, OCR text: '새대통령이 새장관을 임명하면 업무를 인계해주고 떠나면 된다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400099202004&editNo=1&printCount=1&publishDate=1993-02-24&officeId=00009&pageNo=2&printNo=8343&publishType=00020, accessed 2026-09-26T09:13:01-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993022400099202004.json)",
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '노동부장관에 李仁濟民自黨의원' ... '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01601101.19930226014940103.json)",
+    "국사편찬위원회 대한민국사연표 1993-02-26 entry tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' https://db.history.go.kr/id/tcct_1993_02_26_0010 (tier 2, day list accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1993-02-26.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제9대 이연택 1992년 6월 25일 ~ 1993년 2월 25일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 조선일보 1993-02-24 p.3 \"法(법)으론 0시 離(이)-就任(취임)...선서는 10시 「두 大統領(대통령)」10시간\" (Naver News Library article 1993022400239103001, OCR text: '6共의 국무총리와 각료들은 신임 국무총리와 각료들이 정식임명되는 시점까지 직책을계속 수행한다는 설명이다', text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022400239103001), accessed 2026-09-26T13:21:15-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022400239103001.json) [government view reported before the inauguration]",
+    "[verifier] 한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022700289101001.json) [successors' 임명장 on the afternoon of 1993-02-26]",
+    "[verifier] 동아일보 1993-02-26 p.3 \"\"適任(적임)\"...\"意外(의외)\"...환영과 우려\" (Naver News Library article 1993022600209203001, OCR text: '李龍萬前장관은 26일오전10시 이임식을 가졌다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209203001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=3&printNo=22097&publishType=00020, accessed 2026-09-26T09:36:12-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022600209203001.json) [outgoing 노태우-era ministers of other ministries held their 이임식 on 1993-02-26]",
+    "[verifier] 서울신문 1993-02-27 \"철저한 보안 “TV보고서야 알았다”/조각 발표날 각부처·정가 표정\" (BigKinds news_id 01100611.20160421220544125, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421220544125&returnCnt=1&sectionDiv=1000, quote: '이날 퇴임한 백광현장관은 이임식을 마친뒤', accessed 2026-09-26T09:53:05-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160421220544125.json) [outgoing 내무부장관 left office on 1993-02-26]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an Assembly member at appointment (전 총무처장관, earlier 대통령 행정수석비서관). No row in na_members_12_22.csv.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Appointed in the 6·25 개각 of 1992: announced on the afternoon of 1992-06-25 and 임명장 on the morning of 1992-06-26 (경인일보, 경기일보 1992-06-26, 문화일보 1992-06-27, 매일경제 1992-06-26 photo). Start follows the 임명장 day, as the environment, general_affairs and unification ext88 files do for the same reshuffle, hence medium. ko.wikipedia starts him on 1992-06-25. Earlier 총무처장관 1990-03-19..1991-12-20 (general_affairs lineage). 노태우's term ended at midnight on 1993-02-24, but ministers had no fixed term and stayed until the new President appointed successors (매일경제 1993-02-24 p.2, 세계일보 1993-02-25). He was therefore in office under 김영삼 on 1993-02-25 and until 이인제 was appointed on 1993-02-26. No report of his own 이임식 was found, so the end is the successor's appointment day. ko.wikipedia ends him on 1993-02-25. Profile age in 조선일보 1992-06-26 ('56세') agrees with the birth year below. birth_date from ko.wikipedia '이연택' https://ko.wikipedia.org/w/index.php?oldid=41473291 (tier 4, secondary, accessed 2026-09-26T09:27:40-0400; snapshot roster/sources/labor/ext88/bios/wiki_이연택.json). VERIFIER: end disputed, value kept at 1993-02-26. 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) reports that the outgoing cabinet's resignations were submitted and all accepted on 1993-02-25, which would end the spell on 1993-02-25. Against it, 조선일보 1993-02-24 p.3 reports the government view that the 6공 ministers serve until successors are formally appointed, and 동아일보 1993-02-26 p.3 and 서울신문 1993-02-27 report outgoing ministers of other ministries holding their 이임식 on the morning of 1993-02-26. No labor-specific exit report was found (News Library and BigKinds searches for 이연택 1993-02-20..03-02). No tier-1 record settles the date. The education, energy and general_affairs verifiers marked the same 1993 question disputed."
+  },
+  {
+   "name": "이인제",
+   "name_hanja": "李仁濟",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1948-12-11",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '노동부장관에 李仁濟民自黨의원' ... '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01601101.19930226014940103.json)",
+    "부산일보 1993-02-27 \"[기자실] 金 대통령 內閣임명장 수여도 「破格」\" (BigKinds news_id 01500701.20160409010500850, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409010500850&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 26일 오후 24개 부처 장관과 안기부장 등 이 날 임명된 27명에게 임명장을 수여하면서도', accessed 2026-09-26T09:31:58-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01500701.20160409010500850.json)",
+    "매일경제 1993-02-27 p.18 \"\"勞動法(노동법)개정 곧 마무리\"\" (Naver News Library article 1993022700099218001, OCR text: '李仁濟 신임 노동부장관은 26일 취임 후 가진 기자간담회에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700099218001&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00009&pageNo=18&printNo=8346&publishType=00020, accessed 2026-09-26T12:57:26-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993022700099218001.json)",
+    "국사편찬위원회 대한민국사연표 1993-02-26 entry tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' https://db.history.go.kr/id/tcct_1993_02_26_0010 (tier 2, day list accessed 2026-09-26T09:05:03-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1993-02-26.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '10 대 이인제(李仁濟) 1993 ~ 1993년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제10대 이인제 1993년 2월 26일 ~ 1993년 12월 21일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 경향신문 1993-02-27 p.1 \"부총리 李經植(이경식)(기획원)韓完相(한완상)(통일원)\" (Naver News Library article 1993022700329101001, OCR text: '노동부장관에李仁濟民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329101001&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=1&printNo=14685&publishType=00010, accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022700329101001.json)",
+    "[verifier] 한겨레 1993-02-27 p.1 \"부총리 이경식(기획원장 관)한완상(통일원장 관)\" (Naver News Library article 1993022700289101001, OCR text: '김 대통령은 이날 오후 24개 부처장관과 안기부장 등 27명에게임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010, accessed 2026-09-26T09:12:18-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022700289101001.json)",
+    "[verifier] 한겨레 1993-02-27 p.5 \"환영...갸우뚱...엇갈린 표정 뚜렷 새 내각 발표 각 부처 반응\" (Naver News Library article 1993022700289105001, OCR text: '이인제(45) 장관을 맞이하게 된 노동부는', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289105001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=5&printNo=1487&publishType=00010, accessed 2026-09-26T13:58:31-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993022700289105001.json)",
+    "[verifier] 중앙일보 1993-02-27 \"개혁돌풍... “자칫하면 다친다”/바짝 긴장한 공직사회\" (BigKinds news_id 01100901.19930227152647001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930227152647001&returnCnt=1&sectionDiv=1000, quote: '이인제노동부장관은 취임식후 청사 근처 식당에서', accessed 2026-09-26T14:06:26-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19930227152647001.json) [취임식 on 1993-02-26]"
+   ],
+   "end": "1993-12-22",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1993-12-22 p.1 \"14部處(부처)장관 경질 부총리 丁渽錫(정재석)(기획원)李榮德(이영덕)(통일원)씨\" (Naver News Library article 1993122200209101001, OCR text: '노동부장관에는南載熙전民自黨의원' ... '金대통령은 22일 오전9시 새국무위원에게 임명장을 수여한다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209101001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=1&printNo=22379&publishType=00010, accessed 2026-09-26T09:32:41-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122200209101001.json)",
+    "경인일보 1993-12-22 \"[퇴임하는 지역출신 長官 인터뷰] “원진레이온 문제해결 보람”\" (BigKinds news_id 01200201.19931222150517118, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19931222150517118&returnCnt=1&sectionDiv=1000, quote: '이인제 전노동장관은 21일 무거운 짐을 벗었다는 홀가분한 표정과 함께', accessed 2026-09-26T12:57:38-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200201.19931222150517118.json)",
+    "동아일보 1993-12-22 p.5 \"\"감사원 인정받았다\"잇단入閣(입각) 환성\" (Naver News Library article 1993122200209105001, OCR text: '노동부직원들은 노동계의 신뢰를 받았던 李仁濟전장관의 퇴임으로', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209105001&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=5&printNo=22379&publishType=00010, accessed 2026-09-26T09:37:11-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122200209105001.json)",
+    "한겨레 1993-12-23 p.1 \"새 국무위원 임명장 김대통령\" (Naver News Library article 1993122300289101010, OCR text: '김 대통령은 이날 아침 정재석경제 부총리 등 신임 국무위원들에게 임명장을 주는', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289101010&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=1&printNo=1768&publishType=00010, accessed 2026-09-26T09:34:05-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122300289101010.json)",
+    "국사편찬위원회 대한민국사연표 1993-12-21 entry tcct_1993_12_21_0010 '김영삼 대통령, 14개 부처 장관 경질' https://db.history.go.kr/id/tcct_1993_12_21_0010 (tier 2, day list accessed 2026-09-26T09:05:05-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1993-12-21.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제10대 이인제 1993년 2월 26일 ~ 1993년 12월 21일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 서울신문 1993-12-22 \"부총리 정재석(경제) 이영덕씨(통일)/14개부처장관 경질\" (BigKinds news_id 01100611.20160422071242556, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071242556&returnCnt=1&sectionDiv=1000, quote: '김대통령은 22일 청와대에서 신임 각료들에게 임명장을 수여한다', accessed 2026-09-26T09:50:40-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422071242556.json) [announced 1993-12-21, 노동부장관 남재희]",
+    "[verifier] 서울신문 1993-12-23 \"이회창새내각 출범 첫날 이모저모\" (BigKinds news_id 01100611.20160422071507158, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071507158&returnCnt=1&sectionDiv=1000, quote: '22일 신임각료들은 김영삼대통령으로부터 임명장을 받은뒤 부처별로 장관 이취임식을 갖고', accessed 2026-09-26T09:27:38-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422071507158.json)",
+    "[verifier] 조선일보 1993-12-23 p.3 \"◇2期(기)내각 출범\" (Naver News Library article 1993122300239103005, OCR text: '金泳三대통령이 22일 신임각료들에게 임명장을 수여한뒤 기념촬영을 하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239103005&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=3&printNo=22554&publishType=00010, accessed 2026-09-26T13:32:18-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993122300239103005.json)",
+    "[verifier] 경향신문 1993-12-23 \"남재희 노동(신임장관에게 듣는다)\" (BigKinds news_id 01100101.19931223000000405, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000405&returnCnt=1&sectionDiv=1000, quote: '이인제전장관의 노동정책을 어떻게 평가하는가', accessed 2026-09-26T13:59:19-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100101.19931223000000405.json) [successor's interview after his 취임식 on 1993-12-22]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting member of the 14th Assembly (민주자유당, 경기 안양시갑) at appointment and for the whole spell, seat 1992-05-30..1995-06-07 (resigned to run for 경기도지사). Also 13th and 16th to 19th Assembly. na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 이인제 李仁濟 are term 13 통일민주당 경기 안양시갑 seat 1988-05-30..1992-05-29, and term 14 민주자유당 경기 안양시갑 seat 1992-05-30..1995-06-07, and term 16 새천년민주당 충남 논산,금산군 seat 2000-05-30..2004-05-29, and term 17 자유민주연합 충남 논산시,계룡시,금산군 seat 2004-05-30..2008-05-29, and term 18 무소속 충남 논산시계룡시금산군 seat 2008-05-30..2012-05-29, and term 19 자유선진당 충남 논산시계룡시금산군 seat 2012-05-30..2016-05-29. 동아일보 1993-02-26 names him '李仁濟民自黨의원'.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "First 김영삼 cabinet, announced on the morning of 1993-02-26 with 임명장 that afternoon. Replaced in the 12·21 개각 of 1993, announced on the afternoon of 1993-12-21 with 임명장 for the new ministers on the morning of 1993-12-22. The press treated him as 전 장관 from the announcement (경인일보 1993-12-22 '21일 무거운 짐을 벗었다'), but no 이임식 report was found, so the end is the successor's 임명장 day (same-day handover). ko.wikipedia ends him on 1993-12-21. The NA member file stores his hanja with the compatibility character U+F9E1 for 李. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 13 row)."
+  },
+  {
+   "name": "남재희",
+   "name_hanja": "南載熙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1934-01-18",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1993-12-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "한겨레 1993-12-23 p.1 \"새 국무위원 임명장 김대통령\" (Naver News Library article 1993122300289101010, OCR text: '김 대통령은 이날 아침 정재석경제 부총리 등 신임 국무위원들에게 임명장을 주는' ... '김 대통령은 남재희 신임 노동부장관에게', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289101010&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=1&printNo=1768&publishType=00010, accessed 2026-09-26T09:34:05-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122300289101010.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000104&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는', accessed 2026-09-26T09:33:33-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19931223000000104.json)",
+    "매일경제 1993-12-23 p.31 \"\"신바람나는 社會(사회)조성 앞장\"\" (Naver News Library article 1993122300099131001, OCR text: '南載熙 노동부장관은취임식이 끝난 후 가진 기자들과의 간담회에서' ... '이날 오전 金泳三대통령이임명장을 주는 자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099131001&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00009&pageNo=31&printNo=8625&publishType=00010, accessed 2026-09-26T12:57:07-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122300099131001.json)",
+    "경향신문 1993-12-22 p.1 \"14부처장관 경질\" (Naver News Library article 1993122200329101001, OCR text: '金泳三대통령은 21일 오후 부총리겸 경제기획원장관에 丁渽錫교통부장관' ... '노동부장관에 南載熙前民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329101001&editNo=15&printCount=1&publishDate=1993-12-22&officeId=00032&pageNo=1&printNo=14952&publishType=00010, accessed 2026-09-26T09:48:12-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122200329101001.json) [announced on the afternoon of 1993-12-21]",
+    "국사편찬위원회 대한민국사연표 1993-12-21 entry tcct_1993_12_21_0010 '김영삼 대통령, 14개 부처 장관 경질' https://db.history.go.kr/id/tcct_1993_12_21_0010 (tier 2, day list accessed 2026-09-26T09:05:05-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1993-12-21.html) [announcement day]",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993) 1993-12-16 '*12.21 부총리를 포함한 14개 부처 개각 단행' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼&year=1993, tier 2, accessed 2026-09-26T08:49:55-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_김영삼_1993_p1.html)",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '11 대 남재희(南載熙) 1993 ~ 1994년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제11대 남재희 1993년 12월 22일 ~ 1994년 12월 23일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 서울신문 1993-12-22 \"부총리 정재석(경제) 이영덕씨(통일)/14개부처장관 경질\" (BigKinds news_id 01100611.20160422071242556, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071242556&returnCnt=1&sectionDiv=1000, quote: '노동부장관 남재희전민자당의원', accessed 2026-09-26T09:50:40-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422071242556.json)",
+    "[verifier] 한국일보 1993-12-22 \"부총리 정재석(경제)·이영덕씨(통일)/14개부처장관 경질\" (BigKinds news_id 01101101.19931222000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19931222000000101&returnCnt=1&sectionDiv=1000, quote: '노동부장관에 남재희전민자당의원', accessed 2026-09-26T13:58:53-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01101101.19931222000000101.json)",
+    "[verifier] 서울신문 1993-12-23 \"이회창새내각 출범 첫날 이모저모\" (BigKinds news_id 01100611.20160422071507158, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422071507158&returnCnt=1&sectionDiv=1000, quote: '22일 신임각료들은 김영삼대통령으로부터 임명장을 받은뒤 부처별로 장관 이취임식을 갖고', accessed 2026-09-26T09:27:38-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422071507158.json)",
+    "[verifier] 경향신문 1993-12-23 \"남재희 노동(신임장관에게 듣는다)\" (BigKinds news_id 01100101.19931223000000405, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000405&returnCnt=1&sectionDiv=1000, quote: '남재희노동부장관은 22일 취임식을 마치고서도', accessed 2026-09-26T13:59:19-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100101.19931223000000405.json)",
+    "[verifier] 동아일보 1993-12-22 p.6 \"총무처는 金泳三(김영삼)대통령이 22일 14개부처 신임...\" (Naver News Library article 1993122200209106002, OCR text: '총무처는 金泳三대통령이 22일 14개부처 신임장관들에게 줄 임명장을 21일 개각발표직후부터 만들기 시작했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209106002&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=6&printNo=22379&publishType=00010, accessed 2026-09-26T09:37:10-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1993122200209106002.json)"
+   ],
+   "end": "1994-12-24",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article 1994122400209101001, OCR text: '노동李炯九산은총재' ... '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122400209101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122500099102002.json)",
+    "한국일보 1994-12-25 \"“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조\" (BigKinds news_id 01101101.19941225000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000102&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 청와대에서 홍재형 경제부총리를 비롯한 신임각료와 청와대수석진에게 임명장을 수여한 뒤 국무회의를 주재', accessed 2026-09-26T09:34:35-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19941225000000102.json)",
+    "매일경제 1994-12-23 p.3 \"\"長官(장관)누구냐\"보다「자신의 운명」걱정\" (Naver News Library article 1994122300099103001, OCR text: '노동부는 南載熙장관본인이 퇴임을 공언하고있어', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122300099103001&editNo=15&printCount=1&publishDate=1994-12-23&officeId=00009&pageNo=3&printNo=8964&publishType=00010, accessed 2026-09-26T13:03:56-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122300099103001.json) [before the reshuffle]",
+    "국사편찬위원회 대한민국사연표 1994-12-23 entry tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' https://db.history.go.kr/id/tcct_1994_12_23_0010 (tier 2, day list accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1994-12-23.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제11대 남재희 1993년 12월 22일 ~ 1994년 12월 23일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 서울신문 1994-12-24 \"부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편\" (BigKinds news_id 01100611.20160422183118192, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183118192&returnCnt=1&sectionDiv=1000, quote: '김대통령은 24일 상오 청와대에서 신임 장관들에게 임명장을 수여하고', accessed 2026-09-26T09:34:57-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422183118192.json) [announced 1994-12-23 with 노동부장관 이형구]",
+    "[verifier] 중앙일보 1994-12-24 \"부총리 洪在馨.金悳 임명-전면 개각단행\" (BigKinds news_id 01100901.19941224155530002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941224155530002&returnCnt=1&sectionDiv=1000, quote: '金대통령은 이날 오전 청와대에서 홍재형(洪在馨)부총리겸 재정경제원장관등 신임 국무위원들에게 임명장을 준 뒤', accessed 2026-09-26T09:40:32-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19941224155530002.json) [1994-12-24]",
+    "[verifier] 국제신문 1994-12-24 \"世界化·지방화 본격추진 金대통령 새閣僚임명 南北화해 협력·經濟안정 당부\" (BigKinds news_id 01500401.19941224121037104, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19941224121037104&returnCnt=1&sectionDiv=1000, quote: '金대통령은 이날 오전 청와대에서 洪在馨재경부총리 金悳통일부총리를 비롯한신임각료와 청와대수석비서관들에게 임명장을 수여한뒤', accessed 2026-09-26T13:14:51-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01500401.19941224121037104.json) [1994-12-24]",
+    "[verifier] 한겨레 1994-12-26 p.3 \"사진은 24일 청와대에서 열린 임명장 수여 장면\" (Naver News Library article 1994122600289103003, OCR text: '사진은 24일 청와대에서 열린 임명장 수여 장면', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122600289103003&editNo=5&printCount=1&publishDate=1994-12-26&officeId=00028&pageNo=3&printNo=2105&publishType=00010, accessed 2026-09-26T09:28:10-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1994122600289103003.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Former member of the 10th to 13th Assembly, not sitting at appointment (13th seat ended 1992-05-29). na_members/na_members_12_22.csv (NA-API 의원이력 and ALLNAMEMBER, project input read-only), rows for 남재희 南載熙 are term 12 민주정의당 서울 강서구 seat 1985-04-11..1988-05-29, and term 13 민주정의당 서울 강서구을 seat 1988-05-30..1992-05-29. 경향신문 1993-12-22 names him '南載熙前民自黨의원'.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Appointed in the 12·21 개각 of 1993: announced on the afternoon of 1993-12-21 and 임명장 on the morning of 1993-12-22, with his 취임식 the same day. Start follows the 임명장 day, as the agriculture, defense, education, environment, epb, general_affairs, interior and unification ext88 files do for this reshuffle. ko.wikipedia gives 1993-12-22. Replaced in the 12·23 개각 of 1994 (announced 1994-12-23, 임명장 1994-12-24 morning). He had said publicly that he would leave (매일경제 1994-12-23). No 이임식 report was found, so the end is the successor's 임명장 day. ko.wikipedia ends him on 1994-12-23. birth_date and gender from na_members/na_members_12_22.csv (NA-API, term 12 row)."
+  },
+  {
+   "name": "이형구",
+   "name_hanja": "李炯九",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1994-12-24",
+   "start_confidence": "medium",
+   "start_sources": [
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article 1994122400209101001, OCR text: '노동李炯九산은총재' ... '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122400209101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122500099102002.json)",
+    "한국일보 1994-12-25 \"“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조\" (BigKinds news_id 01101101.19941225000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000102&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 청와대에서 홍재형 경제부총리를 비롯한 신임각료와 청와대수석진에게 임명장을 수여한 뒤 국무회의를 주재', accessed 2026-09-26T09:34:35-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19941225000000102.json)",
+    "경향신문 1994-12-25 p.5 \"취임 첫날 部處(부처) 표정「1部(부)2차관·2과장」진풍경 財經院(재경원)\" (Naver News Library article 1994122500329105002, OCR text: '신임 李炯九장관을맞은 노동부 직원들은', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500329105002&editNo=20&printCount=1&publishDate=1994-12-25&officeId=00032&pageNo=5&printNo=15293&publishType=00010, accessed 2026-09-26T09:28:19-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122500329105002.json)",
+    "경향신문 1994-12-24 \"19개부처장관 경질/부총리 홍재형(재경원)·김덕(통일원)씨\" (BigKinds news_id 01100101.19941224000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19941224000000101&returnCnt=1&sectionDiv=1000, quote: '김영삼대통령은 23일 오후 부총리겸 재정경제원장관에 홍재형경제부총리를' ... '김대통령은 노동부장관에 이형구 산은총재', accessed 2026-09-26T10:09:27-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19941224000000101.json) [announced on the afternoon of 1994-12-23]",
+    "국사편찬위원회 대한민국사연표 1994-12-23 entry tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' https://db.history.go.kr/id/tcct_1994_12_23_0010 (tier 2, day list accessed 2026-09-26T09:05:22-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1994-12-23.html) [announcement day]",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '12 대 이형구(李炯九) 1994 ~ 1995년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제12대 이형구 1994년 12월 24일 ~ 1995년 5월 24일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 서울신문 1994-12-24 \"부총리 홍재형(재경원)·김덕씨(통일원)/내각·청와대비서진 전면개편\" (BigKinds news_id 01100611.20160422183118192, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160422183118192&returnCnt=1&sectionDiv=1000, quote: '노동부장관에 이형구산업은행총재', accessed 2026-09-26T09:34:57-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160422183118192.json) [announced on the afternoon of 1994-12-23, 임명장 1994-12-24 in the same story]",
+    "[verifier] 중앙일보 1994-12-24 \"부총리 洪在馨.金悳 임명-전면 개각단행\" (BigKinds news_id 01100901.19941224155530002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941224155530002&returnCnt=1&sectionDiv=1000, quote: '金대통령은 이날 오전 청와대에서 홍재형(洪在馨)부총리겸 재정경제원장관등 신임 국무위원들에게 임명장을 준 뒤', accessed 2026-09-26T09:40:32-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19941224155530002.json) [1994-12-24]",
+    "[verifier] 조선일보 1994-12-25 p.4 \"개각후 첫각의\"최대권한-무한책임\"강조 金(김)대통령\" (Naver News Library article 1994122500239104001, OCR text: '이날 국무회의에 앞선임명장 수여식에는 미처귀국하지 못한 孔魯明외무장관,韓昇洙비서실장,柳宗夏외교안보수석 등이 불참해', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239104001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=4&printNo=22896&publishType=00010, accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1994122500239104001.json) [only the named appointees abroad missed the 1994-12-24 ceremony]",
+    "[verifier] 한겨레 1994-12-26 p.3 \"사진은 24일 청와대에서 열린 임명장 수여 장면\" (Naver News Library article 1994122600289103003, OCR text: '사진은 24일 청와대에서 열린 임명장 수여 장면', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122600289103003&editNo=5&printCount=1&publishDate=1994-12-26&officeId=00028&pageNo=3&printNo=2105&publishType=00010, accessed 2026-09-26T09:28:10-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1994122600289103003.json)"
+   ],
+   "end": "1995-05-23",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 1995-05-24 p.1 \"李(이) 노동장관 사표수리\" (Naver News Library article 1995052400209101003, OCR text: '金泳三대통령은 23일 오후 뇌물수수혐의로 검찰의수사를 받고 있는 李炯九노동부장관의 사표를 수리했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052400209101003&editNo=45&printCount=1&publishDate=1995-05-24&officeId=00020&pageNo=1&printNo=22862&publishType=00010, accessed 2026-09-26T10:05:02-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052400209101003.json)",
+    "한겨레 1995-05-24 p.1 \"억대 수뢰혐의 이형구노동 경질\" (Naver News Library article 1995052400289101001, OCR text: '김영삼 대통령은 23일 산업은행 총재 재직 당시의 뇌물수수 혐의로 수사를 받고 있는 이형구 노동부장관(사진)의 사표를 수리했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052400289101001&editNo=5&printCount=1&publishDate=1995-05-24&officeId=00028&pageNo=1&printNo=2239&publishType=00010, accessed 2026-09-26T10:05:17-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052400289101001.json)",
+    "세계일보 1995-05-24 \"이 노동 오늘 소환/수억수뢰… 금명 영장 청구/오늘 후임 임명\" (BigKinds news_id 01100701.19950524000000102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19950524000000102&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 23일 산업은행 총재재직시 수뢰혐의로 검찰의 내사를 받아 사의를 표명한 이형구노동부장관의 사표를 수리하고 24일 오전 후임장관을 임명한다', accessed 2026-09-26T10:10:11-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100701.19950524000000102.json)",
+    "국사편찬위원회 대한민국사연표 1995-05-23 entry tcct_1995_05_23_0010 '이형구 노동부장관, 산업은행 총재 재임시 뇌물수수 혐의로 사표' https://db.history.go.kr/id/tcct_1995_05_23_0010 (tier 2, day list accessed 2026-09-26T09:55:20-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1995-05-23.html)",
+    "동아일보 1995-05-25 p.5 \"노동부직원들\"침통한 이임식\"\" (Naver News Library article 1995052500209105008, OCR text: '노동부는 24일 오전8시50분 과천 정부종합청사 노동부대회의실에서 崔勝夫차관등 직원 2백50여명이 참석한 가운데 침통한 분위기속에 李전장관이임식을 거행', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052500209105008&editNo=45&printCount=1&publishDate=1995-05-25&officeId=00020&pageNo=5&printNo=22863&publishType=00010, accessed 2026-09-26T13:03:23-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052500209105008.json) [farewell ceremony held the morning after the resignation was accepted, as former minister]",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제12대 이형구 1994년 12월 24일 ~ 1995년 5월 24일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 조선일보 1995-05-24 p.1 \"李(이)노동 빠르면 오늘소환\" (Naver News Library article 1995052400239101011, OCR text: '金泳三대통령은 23일,산업은행 총재 시절의 수회혐의로 검찰의 내사를받고 있는 李炯九노동부장관의 사표를 수리하고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052400239101011&editNo=1&printCount=1&publishDate=1995-05-24&officeId=00023&pageNo=1&printNo=23036&publishType=00010, accessed 2026-09-26T13:59:31-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1995052400239101011.json)",
+    "[verifier] 한국일보 1995-05-24 \"이 전노동 곧 구속/검찰,오늘 소환/산은총재때 수뢰혐의\" (BigKinds news_id 01101101.19950524000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950524000000101&returnCnt=1&sectionDiv=1000, quote: '이날 사표를 수리하고 24일 상오 후임 노동부장관을 임명할 예정이다', accessed 2026-09-26T14:00:13-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01101101.19950524000000101.json) [1995-05-23]",
+    "[verifier] 서울신문 1995-05-24 \"이 전노동 곧 구속/검찰,오늘 소환\" (BigKinds news_id 01100611.20160423032455627, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423032455627&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 23일 수뢰혐의를 받고 있는 이형구 전 노동부장관의 사표를 수리했다', accessed 2026-09-26T14:00:37-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100611.20160423032455627.json)",
+    "[verifier] 매일경제 1995-05-24 p.1 \"李(이) 노동 곧 사법처리\" (Naver News Library article 1995052400099101001, OCR text: '金泳三대통령은 李노동장관의 검찰조사경위를 보고받은 뒤 곧바로 이날 사표를 수리하고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052400099101001&editNo=15&printCount=1&publishDate=1995-05-24&officeId=00009&pageNo=1&printNo=9106&publishType=00010, accessed 2026-09-26T14:01:19-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1995052400099101001.json) [1995-05-23]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an Assembly member at appointment (한국산업은행 총재). No row in na_members_12_22.csv.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Appointed in the 12·23 개각 of 1994 (announced on the afternoon of 1994-12-23, 임명장 on the morning of 1994-12-24). Start follows the 임명장 day, as the culture, general_affairs, interior, justice, science and other ext88 files do for this reshuffle. Some 1995 reports give 1994-12-23 as the day he was 발탁 or 취임 (중앙일보 and 세계일보 1995-05-24), which is the announcement day. Resigned under investigation for bribes taken as 산업은행 총재. He handed his resignation to the PM on the morning of 1995-05-23 and the President accepted it that afternoon, so the last day in office is 1995-05-23. He held a farewell ceremony at the ministry at 08:50 on 1995-05-24 as 전 장관 (동아일보 1995-05-25). ko.wikipedia ends him on 1995-05-24. No ko.wikipedia article exists for him, so no birth date was found. no birth date found (no NA member row, no ko.wikipedia article)."
+  },
+  {
+   "name": "진념",
+   "name_hanja": "陳稔",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1940-12-02",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1995-05-25",
+   "start_confidence": "medium",
+   "start_sources": [
+    "매일경제 1995-05-26 p.2 \"불법勞使(노사)분규 용납 안돼 金(김)대통령,陳(진)노동임명장\" (Naver News Library article 1995052600099102005, OCR text: '金泳三대통령은 25일 오전 청와대에서 陳稔 신임노동부장관에게 임명장을수여하고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052600099102005&editNo=15&printCount=1&publishDate=1995-05-26&officeId=00009&pageNo=2&printNo=9108&publishType=00010, accessed 2026-09-26T10:05:42-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052600099102005.json)",
+    "서울신문 1995-05-26 \"“불법 노사분규 불용”/김 대통령/진념 노동에 임명장\" (BigKinds news_id 01100611.20160423032923579, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423032923579&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 상오 청와대에서 신임 진념 노동부장관에게 임명장', accessed 2026-09-26T10:10:57-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.20160423032923579.json)",
+    "한국일보 1995-05-26 \"김 대통령 “불법노동행위 엄단”/진념장관에 임명장\" (BigKinds news_id 01101101.19950526000000104, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950526000000104&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 상오 청와대에서 진념 신임노동부장관에게 임명장을 주는 자리에서', accessed 2026-09-26T10:11:16-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19950526000000104.json)",
+    "경향신문 1995-05-26 p.3 \"\"산업현장 不法(불법) 엄중대처\"\" (Naver News Library article 1995052600329103008, OCR text: '陳稔 신임 노동부장관은25일 오전 기자간담회에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052600329103008&editNo=20&printCount=1&publishDate=1995-05-26&officeId=00032&pageNo=3&printNo=15435&publishType=00010, accessed 2026-09-26T13:03:44-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052600329103008.json)",
+    "조선일보 1995-05-25 p.1 \"새노동장관 陳稔(진념)씨\" (Naver News Library article 1995052500239101014, OCR text: '金泳三(김영삼)대통령은 24일 새노동장관에 陳稔(진념)(진념)전동자부장관(현 보건사회연구원 이사장)을 임명했다' ... '金대통령은 25일오전9시 청와대에서임명장을 줄예정이다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052500239101014&editNo=1&printCount=1&publishDate=1995-05-25&officeId=00023&pageNo=1&printNo=23037&publishType=00010, accessed 2026-09-26T10:05:26-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052500239101014.json) [named 1995-05-24]",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1995) 1995-05-24 '신임 진념 노동부장관 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼&year=1995, tier 2, accessed 2026-09-26T09:04:49-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_김영삼_1995_p1.html) [named that day]",
+    "국사편찬위원회 대한민국사연표 1995-05-24 entry tcct_1995_05_24_0010 '김영삼 대통령, 신임 진념 노동부장관 임명' https://db.history.go.kr/id/tcct_1995_05_24_0010 (tier 2, day list accessed 2026-09-26T09:55:22-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1995-05-24.html) [named that day]",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (tier 2, years only, accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/ext88/moel/hist_list_p3.html): '13 대 진 념(陳 稔) 1995 ~ 1997년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제13대 진념 1995년 5월 24일 ~ 1997년 8월 5일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 조선일보 1995-05-26 p.2 \"\"勞使(노사)막론 불법행위 不容(불용)\"\" (Naver News Library article 1995052600239102007, OCR text: '金泳三 대통령은 25일오전 신임 陳稔(진념)노동부장관에게 임명장을 주면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052600239102007&editNo=1&printCount=1&publishDate=1995-05-26&officeId=00023&pageNo=2&printNo=23038&publishType=00010, accessed 2026-09-26T14:03:36-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1995052600239102007.json) [임명장 on the morning of 1995-05-25]",
+    "[verifier] 중앙일보 1995-05-26 \"노사분규로 國力낭비 곤란 불법행위 不容-金대통령 강조\" (BigKinds news_id 01100901.19950526193751002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950526193751002&returnCnt=1&sectionDiv=1000, quote: '金대통령은 이날 오전 청와대에서 진념(陳稔)신임 노동장관에게 임명장을 주면서', accessed 2026-09-26T14:04:12-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19950526193751002.json) [1995-05-25]",
+    "[verifier] 동아일보 1995-05-26 p.2 \"\"不法(불법)쟁의 공권력투입\"\" (Naver News Library article 1995052600209102007, OCR text: '陳장관은 이날 오전과천종합청사에서 노동부및 산하단체장등 2백50여명이 참석한 가운데 취임식을 가진뒤', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052600209102007&editNo=45&printCount=1&publishDate=1995-05-26&officeId=00020&pageNo=2&printNo=22864&publishType=00010, accessed 2026-09-26T14:04:00-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1995052600209102007.json) [취임식 on 1995-05-25]",
+    "[verifier] 경향신문 1995-05-25 p.1 \"새 노동장관 陳稔(진념)씨\" (Naver News Library article 1995052500329101004, OCR text: '金泳三대통령은 24일 수뢰혐의로 물의를 일으켜 사퇴한 李炯九(이형구)前노동부장관 후임에 陳稔(진념)前동력자원부장관을 임명했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052500329101004&editNo=20&printCount=1&publishDate=1995-05-25&officeId=00032&pageNo=1&printNo=15434&publishType=00010, accessed 2026-09-26T14:02:07-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1995052500329101004.json) [named and reported as 임명 on 1995-05-24, the same story adds '金대통령은 25일 오전陳장관에게 임명장을 줄 예정이다']",
+    "[verifier] 중앙일보 1995-05-25 \"陳稔 노동부장관 임명 배경-지방선거겨냥 全北출신 발탁\" (BigKinds news_id 01100901.19950525193602002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950525193602002&returnCnt=1&sectionDiv=1000, quote: '김영삼(金泳三)대통령은 24일오전 대만을 방문중인 진념(陳稔)前동자부장관에게 전화를 걸어 새로 노동부장관에 임명됐음을 통보했다', accessed 2026-09-26T14:03:20-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19950525193602002.json) [told of the appointment by telephone on 1995-05-24 while in Taiwan]"
+   ],
+   "end": "1997-08-06",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, OCR text: '陳稔(진념)(진념)노동장관도 교체,후임에 각각李明賢(이명현)(이명현)서울대교수와 李起浩(이기호)(이기호)총리행정조정실장을 임명했다' ... '金 대통령은 6일오전 신임 각료들에게 임명장을 수여하며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010, accessed 2026-09-26T09:28:31-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1997080600239101004.json)",
+    "서울신문 1997-08-07 \"신임 각료에 임명장\" (BigKinds news_id 01100611.20160421115451026, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421115451026&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다', accessed 2026-09-26T09:36:57-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.20160421115451026.json)",
+    "한국일보 1997-08-06 \"11부처 장관 경질/고 총리·경제·안보팀 유임/김 대통령\" (BigKinds news_id 01101101.19970806000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19970806000000101&returnCnt=1&sectionDiv=1000, quote: '김대통령은 6일 상오 신임 장관들에 대한 임명장을 수여한다', accessed 2026-09-26T09:38:26-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19970806000000101.json)",
+    "조선일보 1997-08-06 p.4 \"법무-교육-복지-노동부“뜻밖”\" (Naver News Library article 1997080600239104001, OCR text: '노동부 직원들은 陳稔(진념)장관 경질에 대해다소 뜻밖이라는 반응을보이며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239104001&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=4&printNo=23788&publishType=00010, accessed 2026-09-26T09:28:32-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1997080600239104001.json)",
+    "국사편찬위원회 대한민국사연표 1997-08-05 entry tcct_1997_08_05_0010 '김영삼 대통령, 11개 부처 개각' https://db.history.go.kr/id/tcct_1997_08_05_0010 (tier 2, day list accessed 2026-09-26T09:08:43-0400; snapshot roster/sources/labor/ext88/pa_chron/chron_1997-08-05.html)",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776, row '제13대 진념 1995년 5월 24일 ~ 1997년 8월 5일' (tier 4, secondary, accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/ext88/wiki_대한민국_고용노동부_장관.json)",
+    "[verifier] 경향신문 1997-08-06 p.1 \"11개부처 장관 경질\" (Naver News Library article 1997080600329101004, OCR text: '6일 오전 신임 각료들에게 임명장을 수여할 예정이다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600329101004&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00032&pageNo=1&printNo=16180&publishType=00010, accessed 2026-09-26T10:17:05-0400; snapshot roster/sources/labor/ext88_verify/articles/nl_1997080600329101004.json) [8·5 개각 announced on the afternoon of 1997-08-05]",
+    "[verifier] 문화일보 1997-08-06 \"KAL기 추락참사­정부부처 스케치\" (BigKinds news_id 01100501.19970806000000501, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19970806000000501&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 오전 9시30분 신임 장관들에 대한 임명장을 수여한 직후', accessed 2026-09-26T13:54:46-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100501.19970806000000501.json) [successor's 임명장 at 09:30 on 1997-08-06]",
+    "[verifier] 한국일보 1997-08-07 \"새벽 비보에 긴박한 대책회의/KAL기 추락참사­정부 움직임\" (BigKinds news_id 01101101.19970807000001001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19970807000001001&returnCnt=1&sectionDiv=1000, quote: '상오 9시 30분 신임각료들에게 임명장을 수여한뒤', accessed 2026-09-26T14:04:46-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01101101.19970807000001001.json) [1997-08-06]",
+    "[verifier] KBS 1997-08-05 \"김영삼 대통령, 11개 부처 장관 인사 단행\" (BigKinds news_id 08100101.19970805162439001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=08100101.19970805162439001&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 내일 오전 신임 장관들에게 임명장을 수여하고', accessed 2026-09-26T14:05:12-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_08100101.19970805162439001.json) [KBS news of 1997-08-05]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an Assembly member at appointment (전 동력자원부장관, 한국보건사회연구원 이사장). No row in na_members_12_22.csv.",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell predates the transcript coverage (2000-06 to 2025-01), so no check applies.",
+   "notes": "Named on the morning of 1995-05-24 to fill the post left vacant by 이형구's resignation. He was in Taiwan, flew back that afternoon and received his 임명장 at 09:00 on 1995-05-25 (조선일보 1995-05-25, 매일경제 1995-05-26). Start follows the 임명장 day, which leaves 1995-05-24 as a one-day vacancy (see acting and issues). The 대통령기록관 schedule, the 대한민국사연표 and ko.wikipedia date the appointment 1995-05-24, the day he was named. Earlier 동력자원부장관 (energy lineage). Replaced in the 8·5 개각 of 1997 (announced on the afternoon of 1997-08-05, 임명장 for 이기호 on the morning of 1997-08-06). No 이임식 report was found, so the end is the successor's 임명장 day, matching the main file's start for 이기호. ko.wikipedia ends him on 1997-08-05. Gender from 한국일보 1995-05-25 \"노동장관 진념씨\" (BigKinds news_id 01101101.19950525000000103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950525000000103&returnCnt=1&sectionDiv=1000, quote: '부인 서인정(성신여대 작곡과교수)씨와 2남', accessed 2026-09-26T10:13:46-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19950525000000103.json). ko.wikipedia titles the article '진념' but spells the name 진염 in its lead. birth_date from ko.wikipedia '진념' https://ko.wikipedia.org/w/index.php?oldid=42413309 (tier 4, secondary, accessed 2026-09-24T22:43:38-0400; snapshot roster/sources/labor/ext88/bios/wiki_진념.json). VERIFIER: start disputed, value kept at 1995-05-25 (the 임명장 day). Stories the builder did not cite confirm both events. 경향신문 1995-05-25 p.1, 세계일보 1995-05-25 and 서울신문 1995-05-25 report that the President appointed (임명했다) him on the morning of 1995-05-24 on the PM's recommendation, and 중앙일보 1995-05-25 that he was told by telephone in Taiwan that morning. 조선일보 1995-05-26 p.2 and 중앙일보 1995-05-26 put the 임명장 on the morning of 1995-05-25, and 동아일보 1995-05-26 p.2 his 취임식 the same morning. With the 대통령기록관 schedule and the 대한민국사연표 (1995-05-24), the legal date may be 1995-05-24. Without a 관보 record the builder's convention is kept, so the one-day vacancy of 1995-05-24 and the inferred acting record stay. If the start moves to 1995-05-24, drop both. The 1986 reshuffle points the other way. The press reported the ministers as 임명 on 1986-08-26 (매일경제 1986-08-26 p.1), while the 국가기록원 기관장 list (제4대 이헌기 from 1986.08.27) and the 외교부 역대 장관 page (https://www.mofa.go.kr/minister/wpge/m_20036/contents.do, 최광수 from 1986.08.27, snapshot roster/sources/labor/ext88_verify/web/mofa_minister_list.html) give the day of the 임명장 ceremony, although 최광수 was still abroad and due back on the 31st (조선일보 1986-08-28 p.1). VERIFIER: end also disputed, value kept at 1997-08-06. The 국가기록원 기관장 list (tier 2) prints '제13대 진념 ( 1995.05.01 ~ 1997.08.05 )' and '제14대 이기호 ( 1997.08.05 ~ 1999.05.01 )', the announcement day of the 8·5 개각 (경향신문 1997-08-06 p.1, '5일 오후 ... 임명하는등'). 문화일보 1997-08-06 and 한국일보 1997-08-07 put the successor's 임명장 at 09:30 on 1997-08-06, the start of the from_main record 이기호, which is not changed."
+  },
+  {
+   "name": "이기호",
+   "name_hanja": "李起浩",
+   "name_en": "Lee Gi-ho",
+   "name_en_source": "English Wikipedia interlanguage title 'Lee Gi-ho' via ko.wikipedia langlinks https://ko.wikipedia.org/w/api.php?action=query&prop=langlinks&lllang=en&titles=%EC%9D%B4%EA%B8%B0%ED%98%B8+%281945%EB%85%84%29&format=json&redirects=1 (accessed 2026-09-25T13:55:41-0400), secondary only",
+   "birth_date": "1945-10-01",
+   "gender": "M",
+   "ministry": "노동부",
+   "office_title": "노동부장관",
+   "deputy_pm": false,
+   "start": "1997-08-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds metadata 한국일보 1997-08-06 '11부처 장관 경질/고 총리·경제·안보팀 유임/김 대통령' news_id 01101101.19970806000000101 (search '8·5 개각 임명장' 1997-08-05..1997-08-07, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:51:33-0400; snapshot roster/sources/labor/bigkinds/bigkinds_bde5e38d6f.json): '김영삼 대통령은 5일 ... 11개 부처 장관을 경질하는 개각을 단행', list '노동 이기호'",
+    "BigKinds metadata 서울신문 1997-08-07 '신임 각료에 임명장' news_id 01100611.20160421115451026 (search '8·5 개각 임명장' 1997-08-05..1997-08-07, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:51:33-0400; snapshot roster/sources/labor/bigkinds/bigkinds_bde5e38d6f.json): '김영삼 대통령은 6일 상오 청와대에서 ... 8·5 개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다'",
+    "고용노동부 열린장관실 역대장관소개 https://www.moel.go.kr/cyber/intro/hist/list.do?pageIndex=3 (accessed 2026-09-25T13:33:11-0400; snapshot roster/sources/labor/moel/hist_list_p3.html): 14대 이기호(李起浩) 재임기간 '1997 ~ 1999년'",
+    "ko.wikipedia '대한민국 고용노동부 장관' https://ko.wikipedia.org/w/index.php?oldid=42117776 (accessed 2026-09-25T13:19:43-0400; snapshot roster/sources/labor/wiki_대한민국_고용노동부_장관.json), secondary: 제14대 이기호 1997년 8월 6일 ~ 1999년 5월 25일",
+    "[verifier] BigKinds metadata 경향신문 1997-08-06 '11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임' news_id 01100101.19970806000000101 (search '임명장 수여 신임 각료' 1997-08-06..1997-08-07, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:18:29-0400; snapshot roster/sources/labor/verify/bigkinds/bigkinds_r2_s00_leegiho_appt.json): '김영삼 대통령은 5일 오후 내무부장관에 조해녕 전 총무처 장관, 법무부장관에 김종구 서울고검장을 임명하는 등 11개 부처 장관을'",
+    "[verifier] BigKinds metadata 매일신문 1997-08-06 '사태수습 만전지시' news_id 01500601.19970806004701001 (search '임명장 수여 신임 각료' 1997-08-06..1997-08-07, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:18:29-0400; snapshot roster/sources/labor/verify/bigkinds/bigkinds_r2_s00_leegiho_appt.json): '김대통령은 이날 오전 9시30분 청와대 조해녕내무, 김종구법무장관을 비롯한 신임각료에게 임명장을'",
+    "[verifier, tier 4] Namu Wiki '고용노동부장관' https://namu.wiki/w/%EA%B3%A0%EC%9A%A9%EB%85%B8%EB%8F%99%EB%B6%80%EC%9E%A5%EA%B4%80 (accessed 2026-09-25T22:09:48-0400; snapshot roster/sources/labor/verify/namu_고용노동부장관.html, text roster/sources/labor/verify/namu_고용노동부장관.txt): '이기호(李起浩) 1997년 8월 6일 ~ 1999년 5월 25일'"
+   ],
+   "end": "1999-05-24",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 1999-05-24 16:14:00 '<인터뷰> 이상룡 신임 노동부장관' https://n.news.naver.com/mnews/article/001/0004512648 (accessed 2026-09-24T22:48:53-0400; snapshot roster/sources/labor/news/naver_001_0004512648.html): '이상룡(李相龍) 신임 노동부장관은 24일 과천 노동부청사에서 취임식을 마친뒤'",
+    "연합뉴스 1999-05-25 16:35:00 '국정원장 천용택, 검찰총장 박순용씨(종합)' https://n.news.naver.com/mnews/article/001/0004506212 (accessed 2026-09-24T22:48:12-0400; snapshot roster/sources/labor/news/naver_001_0004506212.html): 1999-05-25 '청와대 경제수석에 이기호(李起浩) 전 노동장관' (5.24개각 후속인사)",
+    "BigKinds metadata 문화일보 1999-05-24 '<5.24개각 각 부·처반응>국방·産資·노동부직원들 \"의외\"' news_id 01100501.19990524000000401 (search '노동부장관 이상룡' 1999-05-23..1999-05-26, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:29:30-0400; snapshot roster/sources/labor/bigkinds/bigkinds_746a047358.json): 5.24개각 부처 반응, 노동부 직원들 '의외'",
+    "[verifier] BigKinds metadata 중부매일 1999-05-25 '국민정부 2기내각 출범' news_id 01400401.19990525150517007 (search '이상룡 노동부장관' 1999-05-24..1999-05-26, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:15:32-0400; snapshot roster/sources/labor/verify/bigkinds/bigkinds_s01_leesangryong_start.json): '김대중 대통령은 24일 현 17개부처 중 11개부처의 각료를 교체하고 신설된 3개부처장을 임명하는 등 대폭적인 개각을 단행'",
+    "[verifier] BigKinds metadata 서울경제 1999-05-27 '[행시7회 경제수석] 이기호-이석채-한이헌 '인생유전'' news_id 02100311.20160316021136179 (search '이기호 경제수석' 1999-05-24..1999-05-27, https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:15:30-0400; snapshot roster/sources/labor/verify/bigkinds/bigkinds_e00_leegiho_end.json): '5·24개각으로 이기호(李起浩) 전 노동부장관이 청와대 경제수석이 되면서'",
+    "[verifier, tier 4] Namu Wiki '고용노동부장관' https://namu.wiki/w/%EA%B3%A0%EC%9A%A9%EB%85%B8%EB%8F%99%EB%B6%80%EC%9E%A5%EA%B4%80 (accessed 2026-09-25T22:09:48-0400; snapshot roster/sources/labor/verify/namu_고용노동부장관.html, text roster/sources/labor/verify/namu_고용노동부장관.txt): '이기호(李起浩) 1997년 8월 6일 ~ 1999년 5월 25일'"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "notes": "김영삼-era minister (8·5 개각, announced 1997-08-05, 임명장 1997-08-06) in office on 1998-02-25. He was then formally retained in 김대중's first cabinet. On 1998-03-03 김대중 named the 17 ministers of the new government, with '노동 이기호' among them, and handed 임명장 to the new ministers that afternoon (연합뉴스 1998-03-03 15:08 '金대통령 신임각료 임명장 수여' https://n.news.naver.com/mnews/article/001/0004368061, snapshot roster/sources/labor/news/naver_001_0004368061.html, and SBS 1998-03-03 BigKinds 08100301.19980303153834001 '17개부처 장관명단을 발표하고 임명식'). 중앙일보 1998-03-04 (BigKinds 01100901.19980304230255005) says he was the only member of the old cabinet retained (구 내각 각료중 유일하게 유임), and 매일경제 1998-03-04 (02100101.20160113223822448) and 한국일보 1998-03-04 (01101101.19980304000003101, '정권교체 불구 이 노동 유임 첫 사례') say the same. Kept as ONE spell because tenure and ministry name are continuous (노동부 was continued, not renamed, by 법률 제5529호 on 1998-02-28), but see issues. From 1998-03-03 he served on a 김대중 appointment. Moved to 청와대 경제수석 on 1999-05-25. Birth date from ko.wikipedia (secondary) ko.wikipedia '이기호 (1945년)' https://ko.wikipedia.org/w/index.php?oldid=41098487 (accessed 2026-09-25T13:55:40-0400; snapshot roster/sources/labor/bios/wiki_이기호.json), secondary: 출생 1945년 10월 1일. Not in na_members_15_22.csv. VERIFIER: dates confirmed. The 1998-03-03 act was a formal appointment by 김대중 (17 ministers 임명, 임명장 the same afternoon, 세계일보/경향신문/중부매일/매일신문 1998-03-04). See verification.open_questions on splitting this spell.",
+   "transcript_notes": "inputs/minister_role_meetings.csv has no row for 이기호 as minister of 노동부 in 1997-08-06..1999-05-24. Transcript coverage runs 2000-06..2025-01.",
+   "verification_status": "confirmed",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named and reported as 임명(발령) on 1986-08-26, 임명장 on 1986-08-27 (outcome_date). Appointed by 전두환.",
+   "nominee": "이헌기",
+   "nomination_date": "1986-08-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1986-08-27",
+   "sources": [
+    "동아일보 1986-08-26 p.1 \"대폭改閣(개각) 10개部處長官(부처장관) 경질\" (Naver News Library article 1986082600209201004, OCR text: '全斗煥대통령은 26일 오전10개부처에 대한 대폭적인개각을 단행했다' ... '노동부장관에 李憲琦전보사부차관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600209201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00020&pageNo=1&printNo=19970&publishType=00020, accessed 2026-09-26T09:09:34-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1986082600209201004.json) [announcement and 발령 on 1986-08-26]",
+    "경향신문 1986-08-27 p.1 \"全(전)대통령,신임長官(장관)에 임명장\" (Naver News Library article 1986082700329201008, OCR text: '全斗煥 대통령은 27일 상오 청와대에서 金宗鎬내무등 신임 9개부처장관과 李相薰 비상기획위원장에게 임명장을 주었다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329201008&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=1&printNo=12591&publishType=00020, accessed 2026-09-26T09:35:10-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1986082700329201008.json)",
+    "한국일보 1986-08-28 \"新任장관에 임명장\" (BigKinds news_id 01101101.19860828183351105, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19860828183351105&returnCnt=1&sectionDiv=1000, quote: '全斗煥대통령은 27일 상오 靑瓦臺에서 金宗鎬내무장관 등 신임 9개부처장관과 李相薰비상기획위원장에게 임명장을 수여했다', accessed 2026-09-26T09:29:28-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19860828183351105.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named by 대통령당선인 노태우 on 1988-02-19 with the whole first cabinet, appointed on inauguration day.",
+   "nominee": "최명헌",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府(정부) 組閣(조각) 발표\" (Naver News Library article 1988021900209201003, OCR text: '노동 崔明憲民正黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988021900209201003.json) [named by 대통령당선인 on 1988-02-19]",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000, quote: '▲노동=최명헌 의원(민정)', accessed 2026-09-26T09:04:24-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19880219004312001.json) [named 1988-02-19]",
+    "조선일보 1988-02-26 p.1 \"새閣僚(각료)에 임명장\" (Naver News Library article 1988022600239101004, OCR text: '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988022600239101004.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named and appointed the same day (12·5 개각).",
+   "nominee": "장영철",
+   "nomination_date": "1988-12-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1988-12-05",
+   "sources": [
+    "동아일보 1988-12-05 p.1 \"총리에 姜英勲(강영훈)씨\" (Naver News Library article 1988120500209201003, OCR text: '노동부장관張永喆民正의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201003.json)",
+    "동아일보 1988-12-05 p.1 \"新任(신임)장관에 임명장 盧大統領(노대통령)\" (Naver News Library article 1988120500209201032, OCR text: '盧대통령은 이날낮 신임姜총리서리에게 임명장을 준데이어 오후에는 신임국무위원들에게 임명장을 수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201032&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:21:56-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1988120500209201032.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named and appointed the same day (7·19 개각), moving from 체신부장관.",
+   "nominee": "최영철",
+   "nomination_date": "1989-07-19",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1989-07-19",
+   "sources": [
+    "조선일보 1989-07-20 p.1 \"安企部長(안기부장)-6部(부)장관 경질\" (Naver News Library article 1989072000239101009, OCR text: '노동부장관에 崔永喆 체신부장관' ... '盧대통령은 이날 오전11시청와대에서 徐안기부장과 새로 임명된 6부장관들에게임명장을 수여했으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000239101009&editNo=1&printCount=1&publishDate=1989-07-20&officeId=00023&pageNo=1&printNo=21014&publishType=00010, accessed 2026-09-26T10:03:02-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1989072000239101009.json)",
+    "한국일보 1989-07-20 \"전격 改閣… 6部장관 경질\" (BigKinds news_id 01101101.19890720113914101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19890720113914101&returnCnt=1&sectionDiv=1000, quote: '노동부장관에 崔永喆체신부 장관' ... '盧대통령은 이날 상오11시청와대에서 신임 徐안기부장과 6개부처장관에게 임명장을 수여하고', accessed 2026-09-26T10:07:05-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01101101.19890720113914101.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named in the morning and appointed in the afternoon of the same day (12·27 개각), moving from 공보처장관.",
+   "nominee": "최병렬",
+   "nomination_date": "1990-12-27",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1990-12-27",
+   "sources": [
+    "동아일보 1990-12-27 p.1 \"총리에 盧在鳳(노재봉)씨\" (Naver News Library article 1990122700209201001, OCR text: '盧泰愚대통령은 27일 오전국무총리서리에盧在鳳대통령비서실장을 임명하고' ... '노동부장관에 崔秉烈공보처장관을', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209201001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=1&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122700209201001.json)",
+    "조선일보 1990-12-28 p.3 \"◇임명장 수여\" (Naver News Library article 1990122800239103005, OCR text: '盧泰愚대통령이 27일 오후 청와대에서 盧在鳳 총리서리와신임 각료들에게 임명장을 주고있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103005&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=3&printNo=21500&publishType=00010, accessed 2026-09-26T10:03:42-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1990122800239103005.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the afternoon of 1992-06-25, 임명장 on the morning of 1992-06-26 (outcome_date).",
+   "nominee": "이연택",
+   "nomination_date": "1992-06-25",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1992-06-26",
+   "sources": [
+    "동아일보 1992-06-26 p.1 \"5部處長官(부처장관) 경질\" (Naver News Library article 1992062600209201004, OCR text: '노동부장관에 李衍澤전총무처장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209201004&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=1&printNo=21865&publishType=00020, accessed 2026-09-26T09:34:59-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1992062600209201004.json) [announced on the afternoon of 1992-06-25]",
+    "경인일보 1992-06-26 \"新任각료 임명장\" (BigKinds news_id 01200201.19920626150517257, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517257&returnCnt=1&sectionDiv=1000, quote: '노태우 대통령은 26일 오전 청와대에서 최수철 총리 겸 통일원장관, 이연택 노동부 장관', accessed 2026-09-26T09:35:47-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200201.19920626150517257.json)",
+    "경기일보 1992-06-26 \"신임각료에 임명장\" (BigKinds news_id 01200101.19920626183350102, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920626183350102&returnCnt=1&sectionDiv=1000, quote: '盧泰愚대통령은 26일 오전 청와대에서 崔永喆부총리겸 통일원장관,李衍澤노동부장관', accessed 2026-09-26T10:08:35-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01200101.19920626183350102.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the morning and appointed on the afternoon of 1993-02-26 (first 김영삼 cabinet).",
+   "nominee": "이인제",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "동아일보 1993-02-26 p.1 \"새政府(정부) 組閣(조각)발표 부총리 李經植(이경식)씨(기획원) 韓完相(한완상)씨(통일원)\" (Naver News Library article 1993022600209201001, OCR text: '노동부장관에 李仁濟民自黨의원' ... '金대통령은 이날오후 새로 기용한 국무위원등에대해 임명장을 주었으며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209201001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=1&printNo=22097&publishType=00020, accessed 2026-09-26T09:12:13-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993022600209201001.json)",
+    "전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과', accessed 2026-09-26T09:31:22-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01601101.19930226014940103.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the afternoon of 1993-12-21, 임명장 on the morning of 1993-12-22 (outcome_date).",
+   "nominee": "남재희",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "경향신문 1993-12-22 p.1 \"14부처장관 경질\" (Naver News Library article 1993122200329101001, OCR text: '金泳三대통령은 21일 오후 부총리겸 경제기획원장관에 丁渽錫교통부장관' ... '노동부장관에 南載熙前民自黨의원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200329101001&editNo=15&printCount=1&publishDate=1993-12-22&officeId=00032&pageNo=1&printNo=14952&publishType=00010, accessed 2026-09-26T09:48:12-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122200329101001.json) [announced on the afternoon of 1993-12-21]",
+    "한겨레 1993-12-23 p.1 \"새 국무위원 임명장 김대통령\" (Naver News Library article 1993122300289101010, OCR text: '김 대통령은 이날 아침 정재석경제 부총리 등 신임 국무위원들에게 임명장을 주는' ... '김 대통령은 남재희 신임 노동부장관에게', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289101010&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=1&printNo=1768&publishType=00010, accessed 2026-09-26T09:34:05-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1993122300289101010.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19931223000000104&returnCnt=1&sectionDiv=1000, quote: '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는', accessed 2026-09-26T09:33:33-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19931223000000104.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the afternoon of 1994-12-23, 임명장 on the morning of 1994-12-24 (outcome_date).",
+   "nominee": "이형구",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "경향신문 1994-12-24 \"19개부처장관 경질/부총리 홍재형(재경원)·김덕(통일원)씨\" (BigKinds news_id 01100101.19941224000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19941224000000101&returnCnt=1&sectionDiv=1000, quote: '김영삼대통령은 23일 오후 부총리겸 재정경제원장관에 홍재형경제부총리를' ... '김대통령은 노동부장관에 이형구 산은총재', accessed 2026-09-26T10:09:27-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19941224000000101.json) [announced on the afternoon of 1994-12-23]",
+    "동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article 1994122400209101001, OCR text: '노동李炯九산은총재' ... '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122400209101001.json)",
+    "매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1994122500099102002.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Recommended by the PM and named on the morning of 1995-05-24, 임명장 at 09:00 on 1995-05-25 (outcome_date).",
+   "nominee": "진념",
+   "nomination_date": "1995-05-24",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1995-05-25",
+   "sources": [
+    "조선일보 1995-05-25 p.1 \"새노동장관 陳稔(진념)씨\" (Naver News Library article 1995052500239101014, OCR text: '金泳三(김영삼)대통령은 24일 새노동장관에 陳稔(진념)(진념)전동자부장관(현 보건사회연구원 이사장)을 임명했다' ... '金대통령은 25일오전9시 청와대에서임명장을 줄예정이다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052500239101014&editNo=1&printCount=1&publishDate=1995-05-25&officeId=00023&pageNo=1&printNo=23037&publishType=00010, accessed 2026-09-26T10:05:26-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052500239101014.json) [named 1995-05-24]",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1995) 1995-05-24 '신임 진념 노동부장관 임명' https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do (POST selPresident=김영삼&year=1995, tier 2, accessed 2026-09-26T09:04:49-0400; snapshot roster/sources/labor/ext88/pa_chron/pa_김영삼_1995_p1.html) [named that day]",
+    "매일경제 1995-05-26 p.2 \"불법勞使(노사)분규 용납 안돼 金(김)대통령,陳(진)노동임명장\" (Naver News Library article 1995052600099102005, OCR text: '金泳三대통령은 25일 오전 청와대에서 陳稔 신임노동부장관에게 임명장을수여하고', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052600099102005&editNo=15&printCount=1&publishDate=1995-05-26&officeId=00009&pageNo=2&printNo=9108&publishType=00010, accessed 2026-09-26T10:05:42-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052600099102005.json)",
+    "중앙일보 1995-05-25 \"새 노동장관에 陳稔씨-金대통령 임명\" (BigKinds news_id 01100901.19950525193557001, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950525193557001&returnCnt=1&sectionDiv=1000, quote: '金대통령은 이날 오전 청와대에서 이홍구(李洪九)총리로부터 제청받아', accessed 2026-09-26T10:11:30-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100901.19950525193557001.json)"
+   ]
+  },
+  {
+   "office_title": "노동부장관",
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "notes": "Before 2005 국무위원 had no confirmation hearing and no Assembly consent vote. Named on the afternoon of 1997-08-05 (8·5 개각), 임명장 on the morning of 1997-08-06, which is the start in the main file. His reappointment by 김대중 on 1998-03-03 is recorded in roster/labor.verified.json.",
+   "nominee": "이기호",
+   "nomination_date": "1997-08-05",
+   "request_date": null,
+   "outcome": "appointed",
+   "outcome_date": "1997-08-06",
+   "sources": [
+    "동아일보 1997-08-06 p.1 \"11部處(부처) 장관 경질\" (Naver News Library article 1997080600209101001, OCR text: '노동부장관 李起浩(이기호)(이기호)총리행정조정실장', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209101001&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00020&pageNo=1&printNo=23614&publishType=00010, accessed 2026-09-26T09:34:18-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1997080600209101001.json)",
+    "경향신문 1997-08-06 \"11개 부처 장관 경질/중폭개각…고 총리·경제팀·외교팀 유임\" (BigKinds news_id 01100101.19970806000000101, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19970806000000101&returnCnt=1&sectionDiv=1000, quote: '노동부장관에는 이기호 총리실행정조정실장', accessed 2026-09-26T09:37:26-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100101.19970806000000101.json)",
+    "서울신문 1997-08-07 \"신임 각료에 임명장\" (BigKinds news_id 01100611.20160421115451026, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421115451026&returnCnt=1&sectionDiv=1000, quote: '김영삼 대통령은 6일 상오 청와대에서 조해령 내무·김종구 법무 등 ‘8·5’개각에서 새로 임명된 11명의 각료들에게 임명장을 주었다', accessed 2026-09-26T09:36:57-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.20160421115451026.json)"
+   ]
+  }
+ ],
+ "acting": [
+  {
+   "name": "최승부",
+   "name_hanja": "崔勝夫",
+   "role": "노동부 차관, the sitting 차관 on the one vacant day between 이형구 (resignation accepted on the afternoon of 1995-05-23) and 진념 (임명장 1995-05-25). 정부조직법 법률 제4831호 (1994-12-23) 제6조② provides that the 차관 acts for the head of the agency when the head has a 사고. No source naming him 장관 직무대행 was found, so the record is inferred.",
+   "from": "1995-05-24",
+   "to": "1995-05-24",
+   "inferred": true,
+   "sources": [
+    "동아일보 1995-05-25 p.5 \"노동부직원들\"침통한 이임식\"\" (Naver News Library article 1995052500209105008, OCR text: '노동부는 24일 오전8시50분 과천 정부종합청사 노동부대회의실에서 崔勝夫차관등 직원 2백50여명이 참석한 가운데 침통한 분위기속에 李전장관이임식을 거행', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995052500209105008&editNo=45&printCount=1&publishDate=1995-05-25&officeId=00020&pageNo=5&printNo=22863&publishType=00010, accessed 2026-09-26T13:03:23-0400; snapshot roster/sources/labor/ext88/news/nl/nl_1995052500209105008.json) [farewell ceremony held the morning after the resignation was accepted, as former minister]",
+    "세계일보 1995-05-24 \"분규정국에 악영향 우려/장관 사표제출 노동부 표정\" (BigKinds news_id 01100701.19950524000003003, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19950524000003003&returnCnt=1&sectionDiv=1000, quote: '국무회의에는 최차관을 대신 참석토록 하고', accessed 2026-09-26T12:57:52-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100701.19950524000003003.json) [1995-05-23, the day of the resignation]",
+    "서울신문 1995-05-31 \"공공부문 노사교섭지침 마련/지원협가동… 분규 적극 대처\" (BigKinds news_id 01100611.20160423033856976, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423033856976&returnCnt=1&sectionDiv=1000, quote: '(위원장 최승부 노동부차관)', accessed 2026-09-26T12:58:14-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100611.20160423033856976.json) [still 차관 on 1995-05-31]",
+    "국민일보 1995-05-24 \"새 노동장관에 진념씨/“노사안정 위해 중량급 발탁”\" (BigKinds news_id 01100201.19950524000000103, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19950524000000103&returnCnt=1&sectionDiv=1000, quote: '이 총리에게 노동행정의 공백이 없도록 하라고 지시했다', accessed 2026-09-26T10:10:29-0400; snapshot roster/sources/labor/ext88/news/bk/bk_01100201.19950524000000103.json)",
+    "정부조직법 법률 제4831호 (1994-12-23 공포·시행) 제6조② '차관 또는 차장은 그 기관의 장을 보좌하여 소관사무를 처리하고 소속공무원을 지휘ㆍ감독하며, 그 기관의 장이 사고가 있을 때에는 그 직무를 대행한다.' https://www.law.go.kr/DRF/lawService.do?OC=test&target=eflaw&type=JSON&MST=5923&efYd=19941223 (accessed 2026-09-24T22:44:17-0400; snapshot inventory_sources/1988/law_go_kr/govorg/text_19941223_5923.json, text copy text_19941223_5923.txt line 31)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Vacancy on 1995-05-24 depends on the start-date convention. 이형구's resignation was accepted on the afternoon of 1995-05-23. 진념 was named on the morning of 1995-05-24 and got his 임명장 at 09:00 on 1995-05-25. This file starts 진념 on the 임명장 day, as every ext88 lineage does, which leaves 1995-05-24 vacant with 차관 최승부 as inferred acting head. The 대통령기록관 schedule ('신임 진념 노동부장관 임명', 1995-05-24), the 대한민국사연표 (tcct_1995_05_24_0010), ko.wikipedia and the day-after press ('24일 ... 임명했다') date the appointment 1995-05-24. If a 관보 or other record shows 1995-05-24 as the legal appointment date, 진념's start moves to 1995-05-24, the vacancy disappears and the acting record should be dropped."
+  },
+  {
+   "severity": "medium",
+   "desc": "Announcement day against 임명장 day. In five labor appointments the appointment was announced on one day and the 임명장 given on the next. The cases are 이헌기 (1986-08-26/27), 이연택 (1992-06-25/26), 남재희 (1993-12-21/22), 이형구 (1994-12-23/24) and 진념 (1995-05-24/25), plus the main file's 이기호 (1997-08-05/06). Starts follow the 임명장 day and are marked medium. The outgoing ministers' ends follow the same day (최병렬, 이인제, 남재희, 진념 are inferred_from_successor because no 이임식 report was found). nomination_date is the announcement day and outcome_date the 임명장 day. No 관보 file exists before 2001, and the 고용노동부 list prints years only, so no tier 1 date is available."
+  },
+  {
+   "severity": "low",
+   "desc": "Transitions of 1988-02-25 and 1993-02-25. 이헌기 (appointed by 전두환) held office on 1988-02-25 until the 5공 cabinet's blanket resignation was accepted that morning, the same morning 최명헌 was appointed, so he has one day in the window and ends 1988-02-25, like the other ext88 holdovers. 이연택 (appointed by 노태우) stayed in office under 김영삼 on 1993-02-25 and until 이인제 was appointed on 1993-02-26 (ministers had no fixed term, 매일경제 1993-02-24 and 세계일보 1993-02-25). Three other ext88 lineages (education, foreign, general_affairs) end some 노태우-era ministers on 1993-02-25 instead of 1993-02-26. The builder should use one convention."
+  },
+  {
+   "severity": "low",
+   "desc": "Member-ministers. 최명헌 sat in the 12th Assembly until 1988-05-29 while minister, 장영철 in the 13th and 이인제 in the 14th for their whole spells, and 최병렬 in the 14th from 1992-05-30 until he was replaced on 1992-06-26. Seat dates are from na_members/na_members_12_22.csv. The dual-office review for 1988-1998 should pick these up."
+  },
+  {
+   "severity": "low",
+   "desc": "ko.wikipedia '대한민국 고용노동부 장관' (oldid 42117776) was used only as a secondary check. It differs from this file on 이헌기 end (1988-02-24), 최병렬 end and 이연택 start (1992-06-25), 이연택 end (1993-02-25), 이인제 end (1993-12-21), 남재희 end (1994-12-23), 이형구 end (1995-05-24), 진념 start (1995-05-24) and end (1997-08-05), and 이기호 end (1999-05-25). In each case the page uses the announcement day or the day before the successor's start."
+  },
+  {
+   "severity": "low",
+   "desc": "from_main spell 이기호 (start 1997-08-06, roster/labor.verified.json) is consistent with the evidence gathered here (임명장 on the morning of 1997-08-06, 서울신문 1997-08-07 and 조선일보 1997-08-06). It is copied unchanged. His 1997-08-05 nomination is added in this file. Unlike justice (김종구 1997-08-05 in the main file), no conflict arises."
+  }
+ ],
+ "continuity": {
+  "window": [
+   "1988-02-25",
+   "1998-02-24"
+  ],
+  "holder_order": [
+   "이헌기 1986-08-27..1988-02-25",
+   "최명헌 1988-02-25..1988-12-05",
+   "장영철 1988-12-05..1989-07-19",
+   "최영철 1989-07-19..1990-12-27",
+   "최병렬 1990-12-27..1992-06-26",
+   "이연택 1992-06-26..1993-02-26",
+   "이인제 1993-02-26..1993-12-22",
+   "남재희 1993-12-22..1994-12-24",
+   "이형구 1994-12-24..1995-05-23",
+   "진념 1995-05-25..1997-08-06",
+   "이기호 1997-08-06..1999-05-24 (from_main)"
+  ],
+  "window_ends_covered": true,
+  "vacancies": [
+   {
+    "after": "이형구",
+    "before": "진념",
+    "vacant_from": "1995-05-24",
+    "vacant_to": "1995-05-24",
+    "days": 1,
+    "acting": [
+     "최승부 1995-05-24..1995-05-24 (inferred)"
+    ],
+    "days_without_acting_record": 0
+   }
+  ],
+  "same_day_handovers": [
+   {
+    "a": "이헌기",
+    "b": "최명헌",
+    "a_end": "1988-02-25",
+    "b_start": "1988-02-25"
+   },
+   {
+    "a": "최명헌",
+    "b": "장영철",
+    "a_end": "1988-12-05",
+    "b_start": "1988-12-05"
+   },
+   {
+    "a": "장영철",
+    "b": "최영철",
+    "a_end": "1989-07-19",
+    "b_start": "1989-07-19"
+   },
+   {
+    "a": "최영철",
+    "b": "최병렬",
+    "a_end": "1990-12-27",
+    "b_start": "1990-12-27"
+   },
+   {
+    "a": "최병렬",
+    "b": "이연택",
+    "a_end": "1992-06-26",
+    "b_start": "1992-06-26"
+   },
+   {
+    "a": "이연택",
+    "b": "이인제",
+    "a_end": "1993-02-26",
+    "b_start": "1993-02-26"
+   },
+   {
+    "a": "이인제",
+    "b": "남재희",
+    "a_end": "1993-12-22",
+    "b_start": "1993-12-22"
+   },
+   {
+    "a": "남재희",
+    "b": "이형구",
+    "a_end": "1994-12-24",
+    "b_start": "1994-12-24"
+   },
+   {
+    "a": "진념",
+    "b": "이기호",
+    "a_end": "1997-08-06",
+    "b_start": "1997-08-06"
+   }
+  ],
+  "next_day_handovers": [],
+  "overlaps": [],
+  "note": "The holder list is complete and in order. The 고용노동부 list numbers the ministers 4대 (이헌기) to 14대 (이기호) with no gap, and ko.wikipedia (제4대 to 제14대) agrees. All handovers are same-day (the outgoing minister's last day is the successor's appointment day) except 이형구 to 진념, where the resignation was accepted on 1995-05-23 and the successor received his 임명장 on 1995-05-25, leaving 1995-05-24 vacant with the 차관 as inferred acting head."
+ },
+ "build": {
+  "scripts": [
+   "roster/scripts/labor_ext88_01_lists.py",
+   "roster/scripts/labor_ext88_02_schedule_chron.py",
+   "roster/scripts/labor_ext88_03_news_search.py",
+   "roster/scripts/labor_ext88_04_read_articles.py",
+   "roster/scripts/labor_ext88_05_crossministry.py",
+   "roster/scripts/labor_ext88_06_news_search2.py",
+   "roster/scripts/labor_ext88_07_exit_acting.py",
+   "roster/scripts/labor_ext88_08_bios.py",
+   "roster/scripts/labor_ext88_09_build.py"
+  ],
+  "snapshots": "roster/sources/labor/ext88/",
+  "summary": "There are 11 spells for 11 persons. Ten are built here for 1986-08-27..1997-08-06, and the 1998 holdover 이기호 is copied from the main file. There are 11 nominations and 1 inferred acting record, for the one-day vacancy of 1995-05-24. The holder list from the 고용노동부 역대장관소개 page (tier 2, years only), checked against ko.wikipedia (tier 4). Dates from the 대통령기록관 schedule and the 대한민국사연표 (tier 2) and day-of stories in the Naver News Library and BigKinds (tier 3, with at least two different newspapers per date). Birth dates from the NA member file (NA-API) or ko.wikipedia (secondary). Each quoted passage was matched in the saved text by the build script. Runs of whitespace are shown as one space, hanja compatibility characters are shown in their unified (NFKC) form, and News Library quotes are shown as printed (hanja without the site's hangul readings) where they match that form.",
+  "quote_check_failures": [],
+  "articles_cited": {
+   "newslib": 47,
+   "bigkinds": 37
+  }
+ },
+ "verification": {
+  "verified_at": "2026-09-26T21:28:34-0400",
+  "verifier": "adversarial verifier 1988-1998 (ext88), lineage labor",
+  "input_file": "roster/labor.ext88.json",
+  "input_built_at": "2026-09-26T13:10:12-0400",
+  "scripts": [
+   "roster/scripts/labor_ext88_verify_01_monthly_tally.py",
+   "roster/scripts/labor_ext88_verify_02_event_search.py",
+   "roster/scripts/labor_ext88_verify_02b_extra_search.py",
+   "roster/scripts/labor_ext88_verify_03_read_articles.py",
+   "roster/scripts/labor_ext88_verify_04_tally_summary.py",
+   "roster/scripts/labor_ext88_verify_05_build.py",
+   "roster/scripts/labor_ext88_verify_06_archives.py",
+   "roster/scripts/labor_ext88_verify_07_extra.py",
+   "roster/scripts/labor_ext88_verify_08_mofa_snap.py"
+  ],
+  "snapshots": "roster/sources/labor/ext88_verify/ (tally_nl, tally_bk, event_search, articles, web)",
+  "summary": "11 spells for 11 persons checked (10 built, 1 from_main). 8 confirmed, 3 disputed, 0 corrected, 0 added. The holder list is complete by three sources the builder did not rely on (monthly news tallies 1988-01..1998-03, the 국가기록원 기관장 list, Namu). Every start and end was rechecked against stories the builder neither cited nor read, and for each of the 20 dates of the 10 built spells at least one of them comes from a newspaper the builder did not cite for that date. No start or end value was changed. Disputed are 이연택's end (1993-02-25 or 26), 진념's start (1995-05-24 or 25) and the 1997-08-05/06 handover from 진념 to the from_main 이기호.",
+  "status_counts": {
+   "confirmed": 8,
+   "corrected": 0,
+   "disputed": 3,
+   "added": 0
+  },
+  "per_spell": [
+   {
+    "index": 0,
+    "name": "이헌기",
+    "start": "1986-08-27",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1986-08-27 confirmed (pre-window): 조선일보 1986-08-28 p.1 (News Library 1986082800239101018) and 동아일보 1986-08-27 p.1 (News Library 1986082700209201006) put the 임명장 of the 8·26 개각 on the morning of 1986-08-27, and 국가기록원 '제4대 이헌기 ( 1986.08.27 ~ 1988.02.01 )' gives the same day (tier 2, day precision in this row). 매일경제 1986-08-26 p.1 (News Library 1986082600099201003) reports the 개각 and '임명' on 1986-08-26, the announcement day, which the builder records as nomination_date.",
+     "end 1988-02-25 confirmed: 동아일보 1988-02-24 p.1 (News Library 1988022400209201005) (blanket resignation after the last 5공 국무회의 on 1988-02-24), 경향신문 1988-02-25 p.1 (News Library 1988022500329201003) and 한국경제 1988-02-26 (BigKinds 02100601.19880226193114109) (successors' 임명장 on 1988-02-25).",
+     "holder check: tallies see him next to 노동(부)장관 in 2 of 2 months (1988-01..1988-02, 45 mentions). 국가기록원 '제4대 이헌기 ( 1986.08.27 ~ 1988.02.01 )'. Namu: 1986년 8월 27일 ~ 1988년 2월 24일."
+    ]
+   },
+   {
+    "index": 1,
+    "name": "최명헌",
+    "start": "1988-02-25",
+    "end": "1988-12-05",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1988-02-25 confirmed: 경향신문 1988-02-25 p.1 (News Library 1988022500329201003), 동아일보 1988-02-25 p.1 (News Library 1988022500209201007) and 한국일보 1988-02-26 (BigKinds 01101101.19880226092506104) (임명장 on the morning of 1988-02-25), 조선일보 1988-02-28 p.10 (News Library 1988022800239110006) (취임식 on 1988-02-26). Named on 1988-02-19: 매일경제 1988-02-19 p.1 (News Library 1988021900099201001).",
+     "end 1988-12-05 confirmed: 경향신문 1988-12-05 p.1 (News Library 1988120500329201003) (blanket resignation and new 임명장 the same day) and 한겨레 1988-12-06 p.1 (News Library 1988120600289101001).",
+     "holder check: tallies see him next to 노동(부)장관 in 11 of 11 months (1988-02..1988-12, 189 mentions). 국가기록원 '제5대 최명헌 ( 1988.02.01 ~ 1988.12.01 )'. Namu: 1988년 2월 25일 ~ 1988년 12월 5일."
+    ]
+   },
+   {
+    "index": 2,
+    "name": "장영철",
+    "start": "1988-12-05",
+    "end": "1989-07-19",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1988-12-05 confirmed: 경향신문 1988-12-05 p.1 (News Library 1988120500329201003) (12·5 개각 list with '노동 張永喆') and 한겨레 1988-12-06 p.1 (News Library 1988120600289101001).",
+     "end 1989-07-19 confirmed: 한겨레 1989-07-20 p.1 (News Library 1989072000289101002), 경향신문 1989-07-19 p.2 (News Library 1989071900329202005) and 한국경제 1989-07-20 (BigKinds 02100601.19890720220558102) (successor's 임명장 at 11:00 on 1989-07-19).",
+     "holder check: tallies see him next to 노동(부)장관 in 8 of 8 months (1988-12..1989-07, 221 mentions). 국가기록원 '제6대 장영철 ( 1988.12.01 ~ 1989.07.01 )'. Namu: 1988년 12월 5일 ~ 1989년 7월 19일."
+    ]
+   },
+   {
+    "index": 3,
+    "name": "최영철",
+    "start": "1989-07-19",
+    "end": "1990-12-27",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1989-07-19 confirmed: 한겨레 1989-07-20 p.1 (News Library 1989072000289101002), 한국경제 1989-07-20 (BigKinds 02100601.19890720220558102) and 경향신문 1989-07-21 p.10 (News Library 1989072100329210007) (취임사 on 19일). Matches the end of his 체신부 spell in ict.ext88.json (1989-07-19).",
+     "end 1990-12-27 confirmed: 한겨레 1990-12-28 p.1 (News Library 1990122800289101001) (moved to 정치특보), 조선일보 1990-12-28 p.1 (News Library 1990122800239101002) and 경기일보 1990-12-27 (BigKinds 01200101.19901227163601103) (successor's 임명장 on the afternoon of 1990-12-27).",
+     "holder check: tallies see him next to 노동(부)장관 in 18 of 18 months (1989-07..1990-12, 430 mentions). 국가기록원 '제7대 최영철 ( 1989.07.01 ~ 1990.12.01 )'. Namu: 1989년 7월 19일 ~ 1990년 12월 27일."
+    ]
+   },
+   {
+    "index": 4,
+    "name": "최병렬",
+    "start": "1990-12-27",
+    "end": "1992-06-26",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1990-12-27 confirmed: 한겨레 1990-12-28 p.1 (News Library 1990122800289101001), 조선일보 1990-12-28 p.1 (News Library 1990122800239101002), 경기일보 1990-12-27 (BigKinds 01200101.19901227163601103) and 서울신문 1990-12-28 (BigKinds 01100611.20160421001333355). Matches the end of his 공보처 spell in public_info.ext88.json (1990-12-27).",
+     "end 1992-06-26 confirmed: 국민일보 1992-06-26 (BigKinds 01100201.19920626000000102) (replaced on taking up his 14th Assembly seat), 한겨레 1992-06-27 p.5 (News Library 1992062700289105005) and 경향신문 1992-06-27 p.4 (News Library 1992062700329104009) (successor's 임명장 on the morning of 1992-06-26). ko.wikipedia's 1992-06-25 is the announcement day.",
+     "holder check: tallies see him next to 노동(부)장관 in 19 of 19 months (1990-12..1992-06, 694 mentions). 국가기록원 '제8대 최병렬 ( 1990.12.01 ~ 1992.06.01 )'. Namu: 1990년 12월 27일 ~ 1992년 6월 25일."
+    ]
+   },
+   {
+    "index": 5,
+    "name": "이연택",
+    "start": "1992-06-26",
+    "end": "1993-02-26",
+    "status": "disputed",
+    "from_main": false,
+    "checks": [
+     "start 1992-06-26 confirmed: 세계일보 1992-06-26 (BigKinds 01100701.19920626000000101) (named on the afternoon of 25일), 국민일보 1992-06-26 (BigKinds 01100201.19920626000000102), 경향신문 1992-06-27 p.4 (News Library 1992062700329104009) and 한겨레 1992-06-27 p.5 (News Library 1992062700289105005) (임명장 on the morning of 1992-06-26).",
+     "end 1993-02-26 disputed, value kept: 중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002) says the outgoing cabinet's resignations were submitted and all accepted on 1993-02-25. Against it, 조선일보 1993-02-24 p.3 (News Library 1993022400239103001) (6공 ministers serve until successors are formally appointed), 동아일보 1993-02-26 p.3 (News Library 1993022600209203001) and 서울신문 1993-02-27 (BigKinds 01100611.20160421220544125) (outgoing ministers of other ministries held their 이임식 or 퇴임 on 1993-02-26). No labor-specific exit report was found. The education, energy and general_affairs verifiers marked the same question disputed, and every other ext88 lineage except foreign ends its 노태우-era minister on 1993-02-26.",
+     "holder check: tallies see him next to 노동(부)장관 in 9 of 9 months (1992-06..1993-02, 149 mentions). 국가기록원 '제9대 이연택 ( 1992.06.01 ~ 1993.02.01 )'. Namu: 1992년 6월 26일 ~ 1993년 2월 25일."
+    ]
+   },
+   {
+    "index": 6,
+    "name": "이인제",
+    "start": "1993-02-26",
+    "end": "1993-12-22",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1993-02-26 confirmed: 경향신문 1993-02-27 p.1 (News Library 1993022700329101001), 한겨레 1993-02-27 p.1 (News Library 1993022700289101001) (임명장 on the afternoon of 1993-02-26), 중앙일보 1993-02-27 (BigKinds 01100901.19930227152647001) (취임식 on 26일).",
+     "end 1993-12-22 confirmed: 서울신문 1993-12-22 (BigKinds 01100611.20160422071242556), 서울신문 1993-12-23 (BigKinds 01100611.20160422071507158), 조선일보 1993-12-23 p.3 (News Library 1993122300239103005) (successor's 임명장 on 1993-12-22).",
+     "holder check: tallies see him next to 노동(부)장관 in 11 of 11 months (1993-02..1993-12, 690 mentions). 국가기록원 '제10대 이인제 ( 1993.02.01 ~ 1993.12.01 )'. Namu: 1993년 2월 26일 ~ 1993년 12월 21일."
+    ]
+   },
+   {
+    "index": 7,
+    "name": "남재희",
+    "start": "1993-12-22",
+    "end": "1994-12-24",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1993-12-22 confirmed: 서울신문 1993-12-22 (BigKinds 01100611.20160422071242556) and 한국일보 1993-12-22 (BigKinds 01101101.19931222000000101) (named 21일), 서울신문 1993-12-23 (BigKinds 01100611.20160422071507158) and 경향신문 1993-12-23 (BigKinds 01100101.19931223000000405) (임명장 and 취임식 on 22일).",
+     "end 1994-12-24 confirmed: 서울신문 1994-12-24 (BigKinds 01100611.20160422183118192), 중앙일보 1994-12-24 (BigKinds 01100901.19941224155530002), 국제신문 1994-12-24 (BigKinds 01500401.19941224121037104) (successor's 임명장 on the morning of 1994-12-24).",
+     "holder check: tallies see him next to 노동(부)장관 in 13 of 13 months (1993-12..1994-12, 439 mentions). 국가기록원 '제11대 남재희 ( 1993.12.01 ~ 1994.12.01 )'. Namu: 1993년 12월 22일 ~ 1994년 12월 23일."
+    ]
+   },
+   {
+    "index": 8,
+    "name": "이형구",
+    "start": "1994-12-24",
+    "end": "1995-05-23",
+    "status": "confirmed",
+    "from_main": false,
+    "checks": [
+     "start 1994-12-24 confirmed: 서울신문 1994-12-24 (BigKinds 01100611.20160422183118192) (named on the afternoon of 23일, 임명장 24일), 중앙일보 1994-12-24 (BigKinds 01100901.19941224155530002), 조선일보 1994-12-25 p.4 (News Library 1994122500239104001).",
+     "end 1995-05-23 confirmed: 조선일보 1995-05-24 p.1 (News Library 1995052400239101011), 한국일보 1995-05-24 (BigKinds 01101101.19950524000000101), 서울신문 1995-05-24 (BigKinds 01100611.20160423032455627) and 매일경제 1995-05-24 p.1 (News Library 1995052400099101001) (resignation accepted on 1995-05-23).",
+     "holder check: tallies see him next to 노동(부)장관 in 6 of 6 months (1994-12..1995-05, 362 mentions). 국가기록원 '제12대 이형구 ( 1994.12.01 ~ 1995.05.01 )'. Namu: 1994년 12월 24일 ~ 1995년 5월 24일."
+    ]
+   },
+   {
+    "index": 9,
+    "name": "진념",
+    "start": "1995-05-25",
+    "end": "1997-08-06",
+    "status": "disputed",
+    "from_main": false,
+    "checks": [
+     "start 1995-05-25 disputed, value kept: 경향신문 1995-05-25 p.1 (News Library 1995052500329101004), 세계일보 1995-05-25 (BigKinds 01100701.19950525000000106) and 서울신문 1995-05-25 (BigKinds 01100611.20160423032705189) report that the President appointed (임명했다) him on the morning of 1995-05-24 on the PM's recommendation, and 중앙일보 1995-05-25 (BigKinds 01100901.19950525193602002) that he was told by telephone in Taiwan that morning. The 대통령기록관 schedule and the 대한민국사연표 (builder's tier 2 sources) date the appointment 1995-05-24. 조선일보 1995-05-26 p.2 (News Library 1995052600239102007) and 중앙일보 1995-05-26 (BigKinds 01100901.19950526193751002) put the 임명장 on the morning of 1995-05-25, and 동아일보 1995-05-26 p.2 (News Library 1995052600209102007) his 취임식 the same morning. The 1986 case points the other way (press '임명' on 1986-08-26, while 국가기록원 '제4대 이헌기 ( 1986.08.27 ~ 1988.02.01 )' and the 외교부 역대 장관 page give 1986-08-27 for that reshuffle), so the 임명장-day convention is kept.",
+     "end 1997-08-06 disputed, value kept: 국가기록원 '제13대 진념 ( 1995.05.01 ~ 1997.08.05 )' (tier 2) ends him on 1997-08-05, the day the 8·5 개각 was announced (경향신문 1997-08-06 p.1 (News Library 1997080600329101004), '5일 오후 ... 임명하는등'). 문화일보 1997-08-06 (BigKinds 01100501.19970806000000501) and 한국일보 1997-08-07 (BigKinds 01101101.19970807000001001) put the successor's 임명장 at 09:30 on 1997-08-06, the start of the from_main record 이기호.",
+     "holder check: tallies see him next to 노동(부)장관 in 29 of 29 months (1995-04..1997-08, 1195 mentions). 국가기록원 '제13대 진념 ( 1995.05.01 ~ 1997.08.05 )'. Namu: 1995년 5월 24일 ~ 1997년 8월 5일."
+    ]
+   },
+   {
+    "index": 10,
+    "name": "이기호",
+    "start": "1997-08-06",
+    "end": "1999-05-24",
+    "status": "disputed",
+    "from_main": true,
+    "checks": [
+     "from_main record, copied unchanged from roster/labor.verified.json (only the from_main flag is added). Start 1997-08-06 is supported by 한겨레 1997-08-06 p.1 (News Library 1997080600289101002) (named 5일), 한겨레 1997-08-07 p.7 (News Library 1997080700289107001) and 한국일보 1997-08-07 (BigKinds 01101101.19970807000001001) (임명장 at 09:30 on 6일). 국가기록원 '제14대 이기호 ( 1997.08.05 ~ 1999.05.01 )' gives 1997-08-05, so the start is disputed here in the same way as 진념's end. The record is not changed. The main-file verifier kept 1997-08-06 for all 8·5 개각 ministers.",
+     "end 1999-05-24 is outside the ext88 window and was not rechecked.",
+     "holder check: tallies see him next to 노동(부)장관 in 8 of 8 months (1997-08..1998-03, 441 mentions). 국가기록원 '제14대 이기호 ( 1997.08.05 ~ 1999.05.01 )'. Namu: 1997년 8월 6일 ~ 1999년 5월 25일."
+    ]
+   }
+  ],
+  "per_nomination": [
+   {
+    "nominee": "이헌기",
+    "nomination_date": "1986-08-26",
+    "outcome_date": "1986-08-27",
+    "status": "confirmed",
+    "check": "nomination_date 1986-08-26 from 매일경제 1986-08-26 p.1 (News Library 1986082600099201003). outcome_date 1986-08-27 (equals the spell start) from 조선일보 1986-08-28 p.1 (News Library 1986082800239101018). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "최명헌",
+    "nomination_date": "1988-02-19",
+    "outcome_date": "1988-02-25",
+    "status": "confirmed",
+    "check": "nomination_date 1988-02-19 from 매일경제 1988-02-19 p.1 (News Library 1988021900099201001). outcome_date 1988-02-25 (equals the spell start) from 한국일보 1988-02-26 (BigKinds 01101101.19880226092506104). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "장영철",
+    "nomination_date": "1988-12-05",
+    "outcome_date": "1988-12-05",
+    "status": "confirmed",
+    "check": "nomination_date 1988-12-05 from 경향신문 1988-12-05 p.1 (News Library 1988120500329201003). outcome_date 1988-12-05 (equals the spell start) from 경향신문 1988-12-05 p.1 (News Library 1988120500329201003). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "최영철",
+    "nomination_date": "1989-07-19",
+    "outcome_date": "1989-07-19",
+    "status": "confirmed",
+    "check": "nomination_date 1989-07-19 from 한겨레 1989-07-20 p.1 (News Library 1989072000289101002). outcome_date 1989-07-19 (equals the spell start) from 한국경제 1989-07-20 (BigKinds 02100601.19890720220558102). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "최병렬",
+    "nomination_date": "1990-12-27",
+    "outcome_date": "1990-12-27",
+    "status": "confirmed",
+    "check": "nomination_date 1990-12-27 from 한겨레 1990-12-28 p.1 (News Library 1990122800289101001). outcome_date 1990-12-27 (equals the spell start) from 경기일보 1990-12-27 (BigKinds 01200101.19901227163601103). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "이연택",
+    "nomination_date": "1992-06-25",
+    "outcome_date": "1992-06-26",
+    "status": "confirmed",
+    "check": "nomination_date 1992-06-25 from 세계일보 1992-06-26 (BigKinds 01100701.19920626000000101). outcome_date 1992-06-26 (equals the spell start) from 경향신문 1992-06-27 p.4 (News Library 1992062700329104009). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "이인제",
+    "nomination_date": "1993-02-26",
+    "outcome_date": "1993-02-26",
+    "status": "confirmed",
+    "check": "nomination_date 1993-02-26 from 경향신문 1993-02-27 p.1 (News Library 1993022700329101001). outcome_date 1993-02-26 (equals the spell start) from 한겨레 1993-02-27 p.1 (News Library 1993022700289101001). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "남재희",
+    "nomination_date": "1993-12-21",
+    "outcome_date": "1993-12-22",
+    "status": "confirmed",
+    "check": "nomination_date 1993-12-21 from 서울신문 1993-12-22 (BigKinds 01100611.20160422071242556). outcome_date 1993-12-22 (equals the spell start) from 서울신문 1993-12-23 (BigKinds 01100611.20160422071507158). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "이형구",
+    "nomination_date": "1994-12-23",
+    "outcome_date": "1994-12-24",
+    "status": "confirmed",
+    "check": "nomination_date 1994-12-23 from 서울신문 1994-12-24 (BigKinds 01100611.20160422183118192). outcome_date 1994-12-24 (equals the spell start) from 중앙일보 1994-12-24 (BigKinds 01100901.19941224155530002). hearing and consent vote not applicable before 2005."
+   },
+   {
+    "nominee": "진념",
+    "nomination_date": "1995-05-24",
+    "outcome_date": "1995-05-25",
+    "status": "disputed",
+    "check": "nomination_date 1995-05-24 from 경향신문 1995-05-25 p.1 (News Library 1995052500329101004). outcome_date 1995-05-25 (equals the spell start) from 중앙일보 1995-05-26 (BigKinds 01100901.19950526193751002). hearing and consent vote not applicable before 2005. outcome_date carries the same dispute as the spell start (1995-05-24 against 1995-05-25)."
+   },
+   {
+    "nominee": "이기호",
+    "nomination_date": "1997-08-05",
+    "outcome_date": "1997-08-06",
+    "status": "disputed",
+    "check": "nomination_date 1997-08-05 from 경향신문 1997-08-06 p.1 (News Library 1997080600329101004). outcome_date 1997-08-06 (equals the spell start) from 문화일보 1997-08-06 (BigKinds 01100501.19970806000000501). hearing and consent vote not applicable before 2005. outcome_date carries the same dispute as the from_main start (1997-08-05 in the 국가기록원 list)."
+   }
+  ],
+  "acting": [
+   {
+    "name": "최승부",
+    "from": "1995-05-24",
+    "to": "1995-05-24",
+    "status": "confirmed as inferred",
+    "check": "Kept. He was 차관 on 1995-05-23 and 1995-05-24 (한국일보 1995-05-24 (BigKinds 01101101.19950524000000101) names him as a candidate while 차관, and 매일경제 1995-05-24 p.1 (News Library 1995052400099101001) prints 崔勝夫노동부차관). No source calls him 직무대행, so the record stays inferred. It exists only under the 임명장-day start of 진념 and must be dropped if that start moves to 1995-05-24."
+   }
+  ],
+  "completeness": [
+   "Independent holder list 1 (verifier's own, news). Monthly tallies of the person names printed next to 노동(부)장관 in the Naver News Library (84 windows, one month to 1991-09, two months from 1991-10) and BigKinds (123 months), 1988-01 to 1998-03 (labor_ext88_verify_01_monthly_tally.py, summary in roster/sources/labor/ext88_verify/tally_summary.json). Every holder is seen in every month of his spell (이헌기 2/2, 최명헌 11/11, 장영철 8/8, 최영철 18/18, 최병렬 19/19, 이연택 9/9, 이인제 11/11, 남재희 13/13, 이형구 6/6, 진념 29/29, 이기호 8/8). Months where an expected holder was not seen: none. The other known names printed next to the title are former ministers referred to as 전 장관 (for example 진념 as 기아그룹 회장 in 1997-10 and 1997-11), and no unknown person is printed as 노동부장관 in any month. The frequent other names (정한주, 권중동 as former ministers, 이동찬, 박인상, 강진구 as employer or union leaders) are not holders.",
+   "Independent holder list 2 (tier 2, not used by the builder for holders or dates). 국가기록원 기록물 생산기관 변천정보, 노동부 (OG0005032) 기관장 list, https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0005032&isProvince=&mapInfo=mapno1 (tier 2, accessed 2026-09-26T21:20:32-0400; snapshot roster/sources/labor/ext88_verify/web/archives_viewDetailInfo_OG0005032.html). It prints 제4대 to 제14대 as 이헌기, 최명헌, 장영철, 최영철, 최병렬, 이연택, 이인제, 남재희, 이형구, 진념, 이기호, the same persons in the same order as the builder (이헌기, 최명헌, 장영철, 최영철, 최병렬, 이연택, 이인제, 남재희, 이형구, 진념, 이기호). Dates are month-only for 1988-1995 (a day of 01 is a placeholder), with day values only for 조철권/이헌기 1986.08.27 and 진념/이기호 1997.08.05.",
+   "Independent holder list 3 (tier 4). Namu Wiki '고용노동부장관' https://namu.wiki/w/%EA%B3%A0%EC%9A%A9%EB%85%B8%EB%8F%99%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, accessed 2026-09-25T22:09:48-0400 by the main-file verifier; snapshot roster/sources/labor/verify/namu_고용노동부장관.html, text namu_고용노동부장관.txt) lists 4대 이헌기 to 14대 이기호 with the same persons and order. The ext88 builder did not use it (its only Namu citation is inside the from_main record 이기호).",
+   "Short tenures. None found. The shortest spell is 이형구 (1994-12-24 to 1995-05-23). No month in the tallies shows a name between two holders, and the 국가기록원 and Namu lists have no extra ordinal.",
+   "1988 transition. 이헌기 (appointed by 전두환 in the 8·26 개각 of 1986) was in office on 1988-02-25. The 5공 cabinet resigned after the last 국무회의 on 1988-02-24 (동아일보 1988-02-24 p.1 (News Library 1988022400209201005)) and the successors received their 임명장 on the morning of 1988-02-25 (경향신문 1988-02-25 p.1 (News Library 1988022500329201003), 한국일보 1988-02-26 (BigKinds 01101101.19880226092506104)). Same-day handover, no gap.",
+   "1993 transition. 이연택 stayed in office after 노태우's term ended at midnight on 1993-02-24 until the first 김영삼 cabinet was appointed on the afternoon of 1993-02-26 (조선일보 1993-02-24 p.3 (News Library 1993022400239103001) on the government view, 한겨레 1993-02-27 p.1 (News Library 1993022700289101001) on the 임명장). One report says the outgoing cabinet's resignations were accepted on 1993-02-25 (중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002)), so the end is disputed (see disputes). No acting head and no vacancy arise under either date, because 이인제 started on 1993-02-26.",
+   "General elections of 1988-04-26, 1992-03-24 and 1996-04-11, and local elections of 1995-06-27. No labor minister left office to run. The sitting minister is printed as 노동부장관 in the tallies around each election (최명헌 1988-03 and 1988-04, 최병렬 1992-02 to 1992-04, 진념 1995-05 and 1995-06, 진념 1996-03 and 1996-04). 최병렬 was elected on the 민자당 national list in 1992 while minister and was replaced only on 1992-06-26 (국민일보 1992-06-26 (BigKinds 01100201.19920626000000102)). 이형구 resigned on 1995-05-23 over a bribery investigation, not to run (조선일보 1995-05-24 p.1 (News Library 1995052400239101011)). 이인제 left the Assembly in 1995 to run for 경기도지사 (builder's mp_hint from na_members_12_22.csv), long after leaving the ministry on 1993-12-22.",
+   "Renamed or merged offices. None within the window. 노동부 existed from 1981-04-08 to 2010-07-05 under one name (국가기록원 existence field '1981.04.08 ~ 2010.07.05 (폐지)'), and offices_1988.json OFA35 records one office 노동부 from 1988-02-25 to 1998-02-27 across the law versions it checked (법률 제3854호 to 제5153호). The 1998-02-28 change is handled in the main file.",
+   "Acting heads (직무대행) and 서리. The News Library searches for 노동부장관 직무대행 and 노동부장관서리 over 1988-01..1998-03 (event_search.json jobs A01, A03) and the BigKinds search (A02) found no labor 직무대행 or 서리. The only vacancy is 1995-05-24 (see acting)."
+  ],
+  "continuity": [
+   {
+    "from": "이헌기 end 1988-02-25",
+    "to": "최명헌 start 1988-02-25",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "최명헌 end 1988-12-05",
+    "to": "장영철 start 1988-12-05",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "장영철 end 1989-07-19",
+    "to": "최영철 start 1989-07-19",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "최영철 end 1990-12-27",
+    "to": "최병렬 start 1990-12-27",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "최병렬 end 1992-06-26",
+    "to": "이연택 start 1992-06-26",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "이연택 end 1993-02-26",
+    "to": "이인제 start 1993-02-26",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "이인제 end 1993-12-22",
+    "to": "남재희 start 1993-12-22",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "남재희 end 1994-12-24",
+    "to": "이형구 start 1994-12-24",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   },
+   {
+    "from": "이형구 end 1995-05-23",
+    "to": "진념 start 1995-05-25",
+    "gap_days": 1,
+    "overlap_days": 0,
+    "explained": "vacancy of 1995-05-24 after the resignation of 이형구 was accepted on 1995-05-23, acting head 차관 최승부 (inferred record). It exists only under the 임명장-day start of 진념, which is disputed."
+   },
+   {
+    "from": "진념 end 1997-08-06",
+    "to": "이기호 start 1997-08-06",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover (the outgoing minister's last day is the successor's appointment day)"
+   }
+  ],
+  "pm_checks": "Not applicable. The labor lineage has no 국무총리 or 서리 record, and 국무위원 had no Assembly consent vote before 2005.",
+  "field_hygiene": [
+   "appointing_president follows the start date and the President in office that day (전두환 to 1988-02-24, 노태우 1988-02-25 to 1993-02-24, 김영삼 1993-02-25 to 1998-02-24). 이헌기 전두환, 최명헌 to 이연택 노태우, 이인제 to 이기호 김영삼. All correct.",
+   "appointed_by_acting_president is false for every spell, and each appointment story cited in per_spell names the sitting President (전두환, 노태우 or 김영삼) as the appointing authority.",
+   "deputy_pm is false for every spell. offices_1988.json OFA35 노동부 has deputy_pm_title [] and deputy_pm_designations mentions 노동: False.",
+   "reorg_continuation false and reappointed_on_reorg null for every spell, which fits a single 노동부 with no renaming inside the window. ministry 노동부 and office_title 노동부장관 throughout. pm_status and pm_acting_until null, suspensions empty.",
+   "from_main records untouched: 이기호: fields differing from roster/labor.verified.json = ['from_main']. The only difference is the builder's from_main flag.",
+   "end_reason. 이헌기 (1988 holdover) and 이연택 (1993) are 'replaced', 이형구 'resigned', the rest 'replaced'. Across the ext88 builder files the 1988 holdovers are coded 'replaced' 13 times, 'resigned' 8 times and 'other' once, so the coding of holdovers is a project-level choice. Not changed here.",
+   "build.summary of the builder says '11 spells for 10 persons', but the 11 spells belong to 11 different persons. Corrected in changes.",
+   "Problems found: none."
+  ],
+  "builder_issues_reviewed": [
+   "Issue 1 (1995-05-24 vacancy). Agreed. Recorded as dispute 2.",
+   "Issue 2 (announcement day against 임명장 day). Agreed. The verifier's own sources confirm both days for each of the five appointments. Only 진념 (tier 2 sources naming 1995-05-24 as the appointment) and the 8·5 개각 (국가기록원 1997-08-05) have tier-2 support for the announcement day, so only those are disputed.",
+   "Issue 3 (1988 and 1993 transitions). Agreed on 1988. On 1993 the cross-lineage point is now mostly settled. education.ext88.verified.json moved 조완규 to 1993-02-26, general_affairs ends 이문석 on 1993-02-26, and only foreign.ext88.json (이상옥 1993-02-25, not yet verified) differs among 국무위원. The PM lineage ends 현승종 on 1993-02-25 because 황인성 was appointed that day, which does not conflict.",
+   "Issue 4 (member-ministers). Seat dates not rechecked beyond the tallies. 최병렬 remained minister after his 1992 election (국민일보 1992-06-26 (BigKinds 01100201.19920626000000102)).",
+   "Issue 5 (ko.wikipedia differences). Confirmed that each ko.wikipedia difference is the announcement day or the day before the successor's start. Namu (tier 4) shows the same pattern.",
+   "Issue 6 (from_main 이기호). Record identical to roster/labor.verified.json apart from the from_main flag."
+  ],
+  "disputes": [
+   {
+    "spell": "이연택",
+    "field": "end",
+    "kept": "1993-02-26",
+    "alternative": "1993-02-25",
+    "for_kept": [
+     "조선일보 1993-02-24 p.3 (News Library 1993022400239103001)",
+     "동아일보 1993-02-26 p.3 (News Library 1993022600209203001)",
+     "서울신문 1993-02-27 (BigKinds 01100611.20160421220544125)",
+     "한겨레 1993-02-27 p.1 (News Library 1993022700289101001)"
+    ],
+    "for_alternative": [
+     "중앙일보 1993-02-25 (BigKinds 01100901.19930225151908002)"
+    ],
+    "note": "Outgoing cabinet's resignations reported as accepted on 1993-02-25 against reports that 6공 ministers served until their successors were appointed on 1993-02-26. No tier-1 record exists."
+   },
+   {
+    "spell": "진념",
+    "field": "start",
+    "kept": "1995-05-25",
+    "alternative": "1995-05-24",
+    "for_kept": [
+     "조선일보 1995-05-26 p.2 (News Library 1995052600239102007)",
+     "중앙일보 1995-05-26 (BigKinds 01100901.19950526193751002)",
+     "동아일보 1995-05-26 p.2 (News Library 1995052600209102007)"
+    ],
+    "for_alternative": [
+     "경향신문 1995-05-25 p.1 (News Library 1995052500329101004)",
+     "세계일보 1995-05-25 (BigKinds 01100701.19950525000000106)",
+     "서울신문 1995-05-25 (BigKinds 01100611.20160423032705189)",
+     "중앙일보 1995-05-25 (BigKinds 01100901.19950525193602002)",
+     "대통령기록관 연도별 대통령 일정 1995-05-24 '신임 진념 노동부장관 임명' (builder's source)",
+     "대한민국사연표 tcct_1995_05_24_0010 (builder's source)"
+    ],
+    "note": "If the start moves to 1995-05-24, the one-day vacancy and the inferred acting record of 최승부 must be dropped."
+   },
+   {
+    "spell": "진념 / 이기호 (from_main)",
+    "field": "end / start",
+    "kept": "1997-08-06",
+    "alternative": "1997-08-05",
+    "for_kept": [
+     "문화일보 1997-08-06 (BigKinds 01100501.19970806000000501)",
+     "한국일보 1997-08-07 (BigKinds 01101101.19970807000001001)",
+     "한겨레 1997-08-07 p.7 (News Library 1997080700289107001)"
+    ],
+    "for_alternative": [
+     "국가기록원 '제13대 진념 ( 1995.05.01 ~ 1997.08.05 )', 국가기록원 '제14대 이기호 ( 1997.08.05 ~ 1999.05.01 )' (국가기록원 기록물 생산기관 변천정보, 노동부 (OG0005032) 기관장 list, https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0005032&isProvince=&mapInfo=mapno1 (tier 2, accessed 2026-09-26T21:20:32-0400; snapshot roster/sources/labor/ext88_verify/web/archives_viewDetailInfo_OG0005032.html))",
+     "경향신문 1997-08-06 p.1 (News Library 1997080600329101004)"
+    ],
+    "note": "The 국가기록원 list uses 1997-08-05, the announcement day of the 8·5 개각. The from_main record is not changed."
+   }
+  ],
+  "changes": [
+   {
+    "target": "spells[0] 이헌기",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources neither cited nor read by the builder: 매일경제 1986-08-26 p.1 (1986082600099201003); 조선일보 1986-08-27 p.11 (1986082700239111001); 조선일보 1986-08-28 p.1 (1986082800239101018); 동아일보 1986-08-27 p.1 (1986082700209201006)"
+   },
+   {
+    "target": "spells[0] 이헌기",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources neither cited nor read by the builder: 동아일보 1988-02-24 p.1 (1988022400209201005); 경향신문 1988-02-25 p.1 (1988022500329201003); 조선일보 1988-02-26 p.3 (1988022600239103011); 한국경제 1988-02-26 (BigKinds 02100601.19880226193114109)"
+   },
+   {
+    "target": "spells[1] 최명헌",
+    "field": "start_sources (append)",
+    "old": "9 sources",
+    "new": "14 sources",
+    "evidence": "Sources neither cited nor read by the builder: 경향신문 1988-02-25 p.1 (1988022500329201003); 동아일보 1988-02-25 p.1 (1988022500209201007); 조선일보 1988-02-26 p.3 (1988022600239103011); 조선일보 1988-02-28 p.10 (1988022800239110006); 한국일보 1988-02-26 (BigKinds 01101101.19880226092506104)"
+   },
+   {
+    "target": "spells[1] 최명헌",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "9 sources",
+    "evidence": "Sources neither cited nor read by the builder: 경향신문 1988-12-05 p.1 (1988120500329201003); 한겨레 1988-12-06 p.1 (1988120600289101001)"
+   },
+   {
+    "target": "spells[2] 장영철",
+    "field": "start_sources (append)",
+    "old": "9 sources",
+    "new": "11 sources",
+    "evidence": "Sources neither cited nor read by the builder: 경향신문 1988-12-05 p.1 (1988120500329201003); 한겨레 1988-12-06 p.1 (1988120600289101001)"
+   },
+   {
+    "target": "spells[2] 장영철",
+    "field": "end_sources (append)",
+    "old": "7 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 한겨레 1989-07-20 p.1 (1989072000289101002); 경향신문 1989-07-19 p.2 (1989071900329202005); 한국경제 1989-07-20 (BigKinds 02100601.19890720220558102)"
+   },
+   {
+    "target": "spells[3] 최영철",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "12 sources",
+    "evidence": "Sources neither cited nor read by the builder: 한겨레 1989-07-20 p.1 (1989072000289101002); 한국경제 1989-07-20 (BigKinds 02100601.19890720220558102); 경향신문 1989-07-19 p.2 (1989071900329202005); 경향신문 1989-07-21 p.10 (1989072100329210007)"
+   },
+   {
+    "target": "spells[3] 최영철",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "9 sources",
+    "evidence": "Sources neither cited nor read by the builder: 한겨레 1990-12-28 p.1 (1990122800289101001); 조선일보 1990-12-28 p.1 (1990122800239101002); 경기일보 1990-12-27 (BigKinds 01200101.19901227163601103)"
+   },
+   {
+    "target": "spells[4] 최병렬",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "12 sources",
+    "evidence": "Sources neither cited nor read by the builder: 한겨레 1990-12-28 p.1 (1990122800289101001); 조선일보 1990-12-28 p.1 (1990122800239101002); 경기일보 1990-12-27 (BigKinds 01200101.19901227163601103); 서울신문 1990-12-28 (BigKinds 01100611.20160421001333355)"
+   },
+   {
+    "target": "spells[4] 최병렬",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "9 sources",
+    "evidence": "Sources neither cited nor read by the builder: 국민일보 1992-06-26 (BigKinds 01100201.19920626000000102); 한겨레 1992-06-27 p.5 (1992062700289105005); 경향신문 1992-06-27 p.4 (1992062700329104009)"
+   },
+   {
+    "target": "spells[5] 이연택",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "12 sources",
+    "evidence": "Sources neither cited nor read by the builder: 세계일보 1992-06-26 (BigKinds 01100701.19920626000000101); 국민일보 1992-06-26 (BigKinds 01100201.19920626000000102); 경향신문 1992-06-27 p.4 (1992062700329104009); 한겨레 1992-06-27 p.5 (1992062700289105005)"
+   },
+   {
+    "target": "spells[5] 이연택",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 조선일보 1993-02-24 p.3 (1993022400239103001); 한겨레 1993-02-27 p.1 (1993022700289101001); 동아일보 1993-02-26 p.3 (1993022600209203001); 서울신문 1993-02-27 (BigKinds 01100611.20160421220544125)"
+   },
+   {
+    "target": "spells[6] 이인제",
+    "field": "start_sources (append)",
+    "old": "7 sources",
+    "new": "11 sources",
+    "evidence": "Sources neither cited nor read by the builder: 경향신문 1993-02-27 p.1 (1993022700329101001); 한겨레 1993-02-27 p.1 (1993022700289101001); 한겨레 1993-02-27 p.5 (1993022700289105001); 중앙일보 1993-02-27 (BigKinds 01100901.19930227152647001)"
+   },
+   {
+    "target": "spells[6] 이인제",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 서울신문 1993-12-22 (BigKinds 01100611.20160422071242556); 서울신문 1993-12-23 (BigKinds 01100611.20160422071507158); 조선일보 1993-12-23 p.3 (1993122300239103005); 경향신문 1993-12-23 (BigKinds 01100101.19931223000000405)"
+   },
+   {
+    "target": "spells[7] 남재희",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "13 sources",
+    "evidence": "Sources neither cited nor read by the builder: 서울신문 1993-12-22 (BigKinds 01100611.20160422071242556); 한국일보 1993-12-22 (BigKinds 01101101.19931222000000101); 서울신문 1993-12-23 (BigKinds 01100611.20160422071507158); 경향신문 1993-12-23 (BigKinds 01100101.19931223000000405); 동아일보 1993-12-22 p.6 (1993122200209106002)"
+   },
+   {
+    "target": "spells[7] 남재희",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 서울신문 1994-12-24 (BigKinds 01100611.20160422183118192); 중앙일보 1994-12-24 (BigKinds 01100901.19941224155530002); 국제신문 1994-12-24 (BigKinds 01500401.19941224121037104); 한겨레 1994-12-26 p.3 (1994122600289103003)"
+   },
+   {
+    "target": "spells[8] 이형구",
+    "field": "start_sources (append)",
+    "old": "8 sources",
+    "new": "12 sources",
+    "evidence": "Sources neither cited nor read by the builder: 서울신문 1994-12-24 (BigKinds 01100611.20160422183118192); 중앙일보 1994-12-24 (BigKinds 01100901.19941224155530002); 조선일보 1994-12-25 p.4 (1994122500239104001); 한겨레 1994-12-26 p.3 (1994122600289103003)"
+   },
+   {
+    "target": "spells[8] 이형구",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 조선일보 1995-05-24 p.1 (1995052400239101011); 한국일보 1995-05-24 (BigKinds 01101101.19950524000000101); 서울신문 1995-05-24 (BigKinds 01100611.20160423032455627); 매일경제 1995-05-24 p.1 (1995052400099101001)"
+   },
+   {
+    "target": "spells[9] 진념",
+    "field": "start_sources (append)",
+    "old": "9 sources",
+    "new": "14 sources",
+    "evidence": "Sources neither cited nor read by the builder: 조선일보 1995-05-26 p.2 (1995052600239102007); 중앙일보 1995-05-26 (BigKinds 01100901.19950526193751002); 동아일보 1995-05-26 p.2 (1995052600209102007); 경향신문 1995-05-25 p.1 (1995052500329101004); 중앙일보 1995-05-25 (BigKinds 01100901.19950525193602002)"
+   },
+   {
+    "target": "spells[9] 진념",
+    "field": "end_sources (append)",
+    "old": "6 sources",
+    "new": "10 sources",
+    "evidence": "Sources neither cited nor read by the builder: 경향신문 1997-08-06 p.1 (1997080600329101004); 문화일보 1997-08-06 (BigKinds 01100501.19970806000000501); 한국일보 1997-08-07 (BigKinds 01101101.19970807000001001); KBS 1997-08-05 (BigKinds 08100101.19970805162439001)"
+   },
+   {
+    "target": "spells[0] 이헌기",
+    "field": "start_sources (append)",
+    "old": "11 sources",
+    "new": "12 sources",
+    "evidence": "[verifier, tier 2] 국가기록원 기록물 생산기관 변천정보, 노동부 (OG0005032) 기관장 list https://theme.archives.go.kr/next/organ/viewDetailInfo.do?code=OG0005032&isProvince=&mapInfo=mapno1 (accessed 2026-09-26T21:20:32-0400; snapshot roster/sources/labor/ext88_verify/web/archives_viewDetailInfo_OG0005032.html): '제4대 이헌기 ( 1986.08.27 ~ 1988.02.01 )' [day precision in this row. Most rows for 1988-1995 end in .01, a month-only placeholder. 참고정보원 on the page include the 고용노동부 site and 안전행정부 『정부조직변천연혁』 (2013)]"
+   },
+   {
+    "target": "build.summary",
+    "field": "summary",
+    "old": "There are 11 spells for 10 persons.",
+    "new": "There are 11 spells for 11 persons.",
+    "evidence": "The 11 spells have 11 distinct names: 이헌기, 최명헌, 장영철, 최영철, 최병렬, 이연택, 이인제, 남재희, 이형구, 진념, 이기호"
+   },
+   {
+    "target": "spells[5] 이연택",
+    "field": "notes",
+    "old": "(builder notes)",
+    "new": "(builder notes) + VERIFIER sentence on the disputed end",
+    "evidence": "중앙일보 1993-02-25 \"내일 조각발표\" (BigKinds news_id 01100901.19930225151908002, full text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19930225151908002&returnCnt=1&sectionDiv=1000, quote: '현승종국무총리 등 이임정부의 각료들은 25일 일괄사표를 제출,전원 수리됐다', accessed 2026-09-26T09:12:16-0400; snapshot roster/sources/labor/ext88_verify/articles/bk_01100901.19930225151908002.json)"
+   },
+   {
+    "target": "spells[9] 진념",
+    "field": "notes",
+    "old": "(builder notes)",
+    "new": "(builder notes) + VERIFIER sentences on the disputed start and the disputed end",
+    "evidence": "경향신문 1995-05-25 p.1 (1995052500329101004); 세계일보 1995-05-25 (BigKinds 01100701.19950525000000106); 서울신문 1995-05-25 (BigKinds 01100611.20160423032705189); 중앙일보 1995-05-25 (BigKinds 01100901.19950525193602002); 조선일보 1995-05-26 p.2 (1995052600239102007); 중앙일보 1995-05-26 (BigKinds 01100901.19950526193751002); 동아일보 1995-05-26 p.2 (1995052600209102007); 경향신문 1997-08-06 p.1 (1997080600329101004); 문화일보 1997-08-06 (BigKinds 01100501.19970806000000501); 한국일보 1997-08-07 (BigKinds 01101101.19970807000001001); 국가기록원 기관장 list OG0005032 (roster/sources/labor/ext88_verify/web/archives_viewDetailInfo_OG0005032.html); 외교부 역대 장관 page (roster/sources/labor/ext88_verify/web/mofa_minister_list.html)"
+   }
+  ],
+  "quote_check_failures": [],
+  "quote_check_note": "Every quote added by the verifier was matched in the saved article text after NFKC normalisation, with runs of whitespace shown as one space. News Library quotes were checked against the OCR text, not against the page images."
+ }
+}

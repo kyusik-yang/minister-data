@@ -1,0 +1,2038 @@
+{
+ "lineage": "culture",
+ "built_at": "2026-09-25T21:31:54-0400",
+ "ministry_names": [
+  {
+   "ministry": "공보처",
+   "from": "1998-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5153호 제26조의2 (공보처, 장관은 국무위원으로 보한다) (in force at window start (version effective 1996-08-08)); 정부조직법 법률 제5529호 (전부개정) 제22조, 제35조, 부칙 제3조 (abolishes (공보처를 폐지))",
+   "source": "offices.json OF006 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228) | 공보처 has no lineage key in offices.json (missing_from_plan). Folded into culture by task instruction."
+  },
+  {
+   "ministry": "문화체육부",
+   "from": "1998-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5153호 제29조①② (in force at window start (version effective 1996-08-08)); 정부조직법 법률 제5529호 (전부개정) 제35조, 부칙 제3조제1항 표 (renames (문화관광부))",
+   "source": "offices.json OF011 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228)"
+  },
+  {
+   "ministry": "문화관광부",
+   "from": "1998-02-28",
+   "to": "2008-02-28",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5529호 (전부개정) 제26조①②, 제35조 (establishes (renamed from 문화체육부)); 정부조직법 법률 제8852호 (전부개정) 제30조, 부칙 제2조 표 (renames (문화체육관광부))",
+   "source": "offices.json OF028 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=58504&efYd=19980228, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83239&efYd=20080229)"
+  },
+  {
+   "ministry": "문화체육관광부",
+   "from": "2008-02-29",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제8852호 (전부개정) 제22조, 제30조, 부칙 제2조 표 (establishes); 정부조직법 법률 제11690호 (전부개정) 제26조, 제35조 (establishes or continues); 정부조직법 법률 제21065호 (version effective 2026-01-02) 제29조①② (still listed in the version in force at the cutoff)",
+   "source": "offices.json OF037 (https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=83239&efYd=20080229, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=136556&efYd=20130323, https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=276049&efYd=20260102)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "오인환",
+   "name_hanja": "吳隣煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "공보처",
+   "office_title": "공보처장관",
+   "deputy_pm": false,
+   "start": "1993-02-26",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds metadata record: 부산일보 1993-02-26 '부총리 李經植(경제)·韓完相씨(통일)' (search '오인환 공보처장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:41-0400; snapshot roster/sources/culture/bigkinds_오인환_공보처장관_1993-02-25_1993-02-28.json) [summary: cabinet list of 26 Feb 1993 includes '공보처 오인환']",
+    "BigKinds metadata record: 국민일보 1993-02-26 '부총리 이경식(경제)·한완상(통일)씨/김 대통령 조각발표' (search '오인환 공보처장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:41-0400; snapshot roster/sources/culture/bigkinds_오인환_공보처장관_1993-02-25_1993-02-28.json) [summary: list includes '공보처 오인환']",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 lists '제5대 오인환 1993년 2월 26일 ~ 1998년 2월 24일' (accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext)",
+    "BigKinds metadata record: 서울신문 1993-02-27 '부총리 이경식(기획원) 한완상(통일원)씨' news_id 01100611.20160421220436146 (search '오인환 공보처' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:04:14-0400; snapshot roster/sources/culture/verify/bk/s00_start_오인환_공보처_1993_02_25_1993_02_28.json) [verifier] [summary: 김영삼대통령은 26일 ... 공보처 오인환]"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1998-02-27 16:44 '高총리 등 일부 국무위원 3월봉급 반납키로' https://n.news.naver.com/mnews/article/001/0004290714 (accessed 2026-09-24T22:45:21-0400; snapshot roster/sources/culture/naver_yna_19980227_salary_return.html) [summary: 27 Feb 1998: 吳隣煥공보처장관 among the sitting 각료 deciding to return March pay]",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effective.html) [summary: new 정부조직법 promulgated and effective 28 Feb 1998, abolishing 공보처]",
+    "offices.json OF006 (공보처 abolished by 법률 제5529호 effective 1998-02-28)",
+    "BigKinds metadata record: 한국일보 1998-02-28 '“하루만 근무해도 한달봉급”/구 내각 장관들 반납 결의' news_id 01101101.19980228000000505 (search '오인환 공보처장관' 1998-02-23..03-03, accessed 2026-09-25T14:04:00-0400; snapshot roster/sources/culture/verify/bk/s00_end_오인환_공보처장관_1998_02_23_1998_03_03.json) [summary: 고건 총리와 몇몇 장관들은 27일 오찬을 함께 하면서 ... 오인환 공보처장관 및 송종의 법제처장관 등이 뜻을 같이했고]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "YS-era holdover in the window 1998-02-25..02-27. 공보처 has no lineage key in offices.json and is folded into culture by instruction (문화관광부 took 방송행정·출판·간행물·해외홍보, 법률 제5529호 부칙 제3조). The office was abolished on 1998-02-28 and he was not carried over (부칙 제3조② excludes 정무직). ko.wikipedia gives 퇴임 1998-02-24, the day of his farewell press meeting (연합뉴스 1998-02-24 https://n.news.naver.com/mnews/article/001/0004296439, snapshot naver_yna_19980224_oh_farewell.html), but 연합뉴스 still names him as sitting 공보처장관 on 02-27 and on 03-02 (standing by at home, 'naver_yna_19980302_paralysis.html'). End set to the last day before abolition. Birth date and gender were not confirmed in a saved source."
+  },
+  {
+   "name": "송태호",
+   "name_hanja": "宋泰鎬",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "문화체육부",
+   "office_title": "문화체육부장관",
+   "deputy_pm": false,
+   "start": "1997-03-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=03, lists '제34대 송태호 재임기간: 1997.03.06.~1998.03.02.' (accessed 2026-09-25T07:04:57-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm03.html)",
+    "BigKinds metadata record: 서울신문 1997-03-07 '7개부처 장관 등에 임명장' (search '임명장 신임 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:00:21-0400; snapshot roster/sources/culture/bigkinds_임명장_신임_장관_1997-03-05_1997-03-07.json) [summary: 김영삼 대통령 6일 상오 신임 장관급 10명에 임명장]",
+    "BigKinds metadata record: 매일신문 1997-03-06 '장관급 10명 경질' (search '송태호 문화체육부장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T12:59:57-0400; snapshot roster/sources/culture/bigkinds_송태호_문화체육부장관_1997-03-05_1997-03-08.json) [summary: 3·5 개각 list includes 문체 宋泰鎬]",
+    "ko.wikipedia '대한민국 문화체육관광부 장관' https://ko.wikipedia.org/w/index.php?oldid=41095050 lists '제34대 송태호 1997년 3월 6일 ~ 1998년 3월 2일' (accessed 2026-09-24T22:43:41-0400; snapshot roster/sources/culture/wiki_대한민국_문화체육관광부_장관.wikitext)",
+    "BigKinds metadata record: 경향신문 1997-03-07 '“「세계화」로 가는 징검다리 되겠다”/송태호 문체부 장관' news_id 01100101.19970307000000602 (search '송태호 문화체육부' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:04:32-0400; snapshot roster/sources/culture/verify/bk/s01_start_송태호_문화체육부_1997_03_04_1997_03_08.json) [verifier] [summary: 송태호 신임 문체부 장관(52)은 6일 오전 취임식을 갖고]"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 강원도민일보 1998-02-28 '[월드컵스키대회 스케치]내외빈 50여명 참석' (search '송태호' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:24-0400; snapshot roster/sources/culture/bigkinds_송태호_1998-02-25_1998-03-03.json) [summary: 송태호문체부장관 at a dinner on 27 Feb 1998 19:00]",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effective.html) [summary: 문화관광부 is one of 7 ministries whose heads are vacant from 28 Feb 1998]",
+    "연합뉴스 1998-02-28 15:30 '<새 정부조직법 발효와 공직사회 파장>-1' https://n.news.naver.com/mnews/article/001/0004300892 (accessed 2026-09-24T22:44:48-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effect_civilservice.html) [summary: '부처'가 자동적으로 없어지면서 새 장관도 맞지 못하는 재경부 ... 문화관광부, 산업자원부 등 7개부처]",
+    "offices.json transitional_staff_clauses: 법률 제5529호 부칙 제3조② excludes 정무직",
+    "BigKinds metadata record: 한국경제 1998-03-02 '정부조직법 발효 .. 김대통령, 53개 법령 서명' news_id 02100601.20160116161620774 (search '공보처 폐지' 1998-02-26..03-02, accessed 2026-09-25T14:03:46-0400; snapshot roster/sources/culture/verify/bk/s00_end_공보처_폐지_1998_02_26_1998_03_02.json) [summary: 명칭이 바뀌는 7개 부의 장관이 궐위]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "The 3·5 개각 was announced on 1997-03-05 and 임명장 were given on 03-06 (start uses 03-06, the date the MCST list and the 임명장 reports share). 문화체육부 was renamed 문화관광부 by 법률 제5529호 effective 1998-02-28. 연합뉴스 (1998-02-28) counts 문화관광부 among the seven new ministries whose heads were vacant and says the vice ministers were told to carry on. He was therefore not treated as 문화관광부장관. MCST and ko.wikipedia list his tenure to 1998-03-02, the day before 신낙균 took office. His farewell ceremony planned for 02-26 was cancelled (연합뉴스 1998-02-26, snapshot naver_yna_19980226_mcst_farewell_cancelled.html). Gender from the 중앙일보 1997-03-06 profile (BigKinds, bigkinds_송태호_문화체육부장관_1997-03-05_1997-03-08.json), which names his wife. Birth date not found."
+  },
+  {
+   "name": "신낙균",
+   "name_hanja": "申樂均",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1941-02-01",
+   "gender": "F",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1998-03-03 12:39 '金대통령 조각발표...재경부장관에 李揆成씨(종합)' https://n.news.naver.com/mnews/article/001/0004372354 (accessed 2026-09-24T22:44:26-0400; snapshot roster/sources/culture/naver_yna_19980303_cabinet.html) [summary: 3 Mar 1998: 조각 발표, 문화관광부장관에 申樂均의원, 임명장 수여 that afternoon]",
+    "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎' https://n.news.naver.com/mnews/article/001/0004368749 (accessed 2026-09-24T22:44:23-0400; snapshot roster/sources/culture/naver_yna_19980303_appointment_ceremony.html) [summary: 임명장 수여 3 Mar 1998]",
+    "BigKinds metadata record: 서울신문 1998-03-04 '새 정부 첫 내각 출범/총리서리 김종필씨 임명' (search '신낙균' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:18-0400; snapshot roster/sources/culture/bigkinds_신낙균_1998-03-03_1998-03-04.json) [summary: 김대중 대통령은 3일 ... 문화 신낙균]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제35대 신낙균 재임기간: 1998.03.03.~1999.05.23.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 전자신문 1998-03-04 '\"국민의 정부\" 초대 내각 발표' news_id 07100501.19980304052608002 (search '신낙균 문화관광부' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:05:26-0400; snapshot roster/sources/culture/verify/bk/s02_start_신낙균_문화관광부_1998_03_02_1998_03_06.json) [verifier] [summary: 문화관광부 장관에 신낙균 국민회의 부총재를 각각 임명]"
+   ],
+   "end": "1999-05-24",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1999-05-24 14:25 '미련 남기고 떠난 신낙균 전장관' https://n.news.naver.com/mnews/article/001/0004515256 (accessed 2026-09-24T22:48:21-0400; snapshot roster/sources/culture/naver_001_0004515256.html) [summary: 이임식 24 May 1999 11:00 at 문화부 after the 5·24 개각 announcement]",
+    "연합뉴스 1999-05-24 09:50 '<5.24 개각 부처 표정>-문화관광부' https://n.news.naver.com/mnews/article/001/0004508335 (accessed 2026-09-24T22:47:40-0400; snapshot roster/sources/culture/naver_001_0004508335.html) [summary: 5·24 개각: 박지원 announced as successor]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제35대 신낙균 재임기간: 1998.03.03.~1999.05.23.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "연합뉴스 1999-05-24 17:12 '김 대통령 \"2기내각 개혁 마무리해야\"' https://n.news.naver.com/mnews/article/001/0004505541 (accessed 2026-09-24T22:47:28-0400; snapshot roster/sources/culture/verify/news/naver_001_0004505541.html) [verifier] [summary: 김대중(金大中) 대통령은 24일 강봉균(康奉均) 재정경제장관 등 신임 각료와 신설 중앙기관장들에 임명장을 주고]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 15th NA member (새정치국민회의, 전국구) at appointment (_rebuild/na_members/na_members_15_22.csv, mona_cd 21U3017N). Later 18th NA member (통합민주당, 비례대표)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell lies outside transcript coverage (2000-06..2025-01).",
+   "notes": "Appointed while 김종필 was 국무총리서리 (고건 as outgoing PM gave the 제청, 연합뉴스 1998-03-03). MCST and ko.wikipedia list 1999-05-23 as the last day, but the 5·24 개각 was announced on the morning of 1999-05-24 and she held her farewell ceremony that day. Same-day handover to 박지원. Birth date from ko.wikipedia person page (revid 42435466) and the NA member file."
+  },
+  {
+   "name": "박지원",
+   "name_hanja": "朴智元",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1942-06-05",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "1999-05-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1999-05-24 11:33 '박지원 문화관광장관 일문일답' https://n.news.naver.com/mnews/article/001/0004507055 (accessed 2026-09-24T22:47:42-0400; snapshot roster/sources/culture/naver_001_0004507055.html) [summary: 박지원 문화관광장관 일문일답, 24 May 1999]",
+    "연합뉴스 1999-05-24 11:06 '언론개혁 선봉장된 박지원 문화관광장관' https://n.news.naver.com/mnews/article/001/0004517387 (accessed 2026-09-24T22:47:38-0400; snapshot roster/sources/culture/naver_001_0004517387.html) [summary: 언론개혁 선봉장된 박지원 문화관광장관, 24 May 1999]",
+    "연합뉴스 1999-05-25 16:38 '새 각료들, 첫 국무회의서 포부 밝혀' https://n.news.naver.com/mnews/article/001/0004505650 (accessed 2026-09-24T22:47:52-0400; snapshot roster/sources/culture/naver_001_0004505650.html) [summary: 25 May 1999 국무회의: 박지원 문화관광부장관 speaks as new minister]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제36대 박지원 재임기간: 1999.05.23.~2000.09.19.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "연합뉴스 1999-05-24 17:12 '김 대통령 \"2기내각 개혁 마무리해야\"' https://n.news.naver.com/mnews/article/001/0004505541 (accessed 2026-09-24T22:47:28-0400; snapshot roster/sources/culture/verify/news/naver_001_0004505541.html) [summary: 김대중(金大中) 대통령은 24일 강봉균(康奉均) 재정경제장관 등 신임 각료와 신설 중앙기관장들에 임명장을 주고]",
+    "BigKinds metadata record: 중앙일보 1999-05-25 '[5.24 개각] 정치권.부처 표정' news_id 01100901.19990525074357001 (search '신낙균 장관' 1999-05-23..05-26 via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:15:08-0400; snapshot roster/sources/culture/verify/bk/s02_end_신낙균_장관_1999_05_23_1999_05_26.json) [summary: 김대중 대통령은 이날 오후 청와대에서 신임장관들에게 임명장을 주면서]"
+   ],
+   "end": "2000-09-20",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2000-09-20 14:57 '문화관광부장관에 김한길씨(종합)' https://n.news.naver.com/mnews/article/001/0000027235 (accessed 2026-09-24T22:48:38-0400; snapshot roster/sources/culture/naver_001_0000027235.html) [summary: 20 Sep 2000: 김대중 대통령 accepted 박지원's resignation immediately and appointed 김한길]",
+    "국민일보 2000-09-20 17:45 '박지원 장관 사퇴…새 문화장관 김한길씨' https://n.news.naver.com/mnews/article/005/0000022054 (accessed 2026-09-24T22:48:41-0400; snapshot roster/sources/culture/naver_005_0000022054.html) [summary: same facts]",
+    "동아일보 2000-09-20 18:42 '박지원장관 전격 사퇴…\"한빛銀의혹 검찰수사 협력\"' https://n.news.naver.com/mnews/article/020/0000027085 (accessed 2026-09-24T22:49:14-0400; snapshot roster/sources/culture/naver_020_0000027085.html) [summary: 박지원장관 전격 사퇴 20 Sep 2000]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제36대 박지원 재임기간: 1999.05.23.~2000.09.19.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 세계일보 2000-09-21 '朴智元 문화부장관 사퇴' news_id 01100701.20000921000000101 (search '박지원 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:05:57-0400; snapshot roster/sources/culture/verify/bk/s03_end_박지원_사표_2000_09_19_2000_09_22.json) [verifier] [summary: 김대중 대통령은 20일 ... 사표를 수리하고 후임에 민주당 김한길 의원을 임명]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "3 valid-type minister rows (3 meetings) from 2000-06-21 to 2000-07-21, all inside the spell.",
+   "notes": "Resigned over the 한빛은행 대출 의혹. The 5·24 개각 was announced on 1999-05-24 and new ministers attended the 국무회의 of 05-25. 김대중 gave the 임명장 to the 5·24 개각 ministers on 05-24 (연합뉴스 1999-05-24 17:12, naver_001_0004505541.html, and 중앙일보 1999-05-25 via BigKinds), so the legal date is 05-24. The 연합뉴스 schedule item for 05-26 (naver_001_0004517985.html) concerns an 임명장 ceremony for newly appointed ministers and vice ministers and does not show that the ministers were appointed on 05-26. The 1999-10-04 해임건의안 against him (likms 152142) was rejected on 1999-10-22. MCST and ko.wikipedia give 1999-05-23, which no contemporaneous report supports. Not an NA member in 1999 (later 18th-20th and 22nd NA member, mona_cd 8BF5855P, born 1942-06-05 in the NA file)."
+  },
+  {
+   "name": "김한길",
+   "name_hanja": "金한길",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1953-09-17",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2000-09-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 2000-09-20 14:57 '문화관광부장관에 김한길씨(종합)' https://n.news.naver.com/mnews/article/001/0000027235 (accessed 2026-09-24T22:48:38-0400; snapshot roster/sources/culture/naver_001_0000027235.html) [summary: 문화관광부장관에 김한길씨(종합), 20 Sep 2000]",
+    "매일경제 2000-09-20 15:22 '박지원 문화관광부 장관 사퇴...후임에 김한길의원 임명' https://n.news.naver.com/mnews/article/009/0000049715 (accessed 2026-09-24T22:48:48-0400; snapshot roster/sources/culture/naver_009_0000049715.html) [summary: 매일경제 20 Sep 2000]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제37대 김한길 재임기간: 2000.09.20.~2001.09.18.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 인천일보 2000-09-21 '문광부 장관에 김한길의원' news_id 01200401.20000921002950002 (search '박지원 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:05:57-0400; snapshot roster/sources/culture/verify/bk/s03_end_박지원_사표_2000_09_19_2000_09_22.json) [verifier] [summary: 김대중 대통령은 20일 ... 후임에 민주당 김한길 의원을 임명]"
+   ],
+   "end": "2001-09-19",
+   "end_confidence": "high",
+   "end_sources": [
+    "매일경제 2001-09-19 15:46 '신임 문화관광부 장관에 남궁진씨 임명' https://n.news.naver.com/mnews/article/009/0000150634 (accessed 2026-09-24T22:55:09-0400; snapshot roster/sources/culture/naver_009_0000150634.html) [summary: 19 Sep 2001: 김한길 사표 수리, 남궁진 appointed]",
+    "연합뉴스 2001-09-19 14:09 '새 문화장관 남궁진씨-1' https://n.news.naver.com/mnews/article/001/0000100963 (accessed 2026-09-24T22:55:24-0400; snapshot roster/sources/culture/naver_001_0000100963.html) [summary: 새 문화장관 남궁진씨, 19 Sep 2001]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제37대 김한길 재임기간: 2000.09.20.~2001.09.18.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 세계일보 2001-09-20 '새 문화부장관 남궁진씨 임명' news_id 01100701.20010920000000101 (search '김한길 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:06:57-0400; snapshot roster/sources/culture/verify/bk/s04_end_김한길_사표_2001_09_15_2001_09_21.json) [verifier] [summary: 김대중 대통령은 19일 ... 김한길 문화관광부장관 후임에 남궁진 ... 을 임명]"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 16th NA member (새천년민주당, 비례대표) at appointment. He resigned the seat on appointment (seat_end 2000-10-09, _rebuild/na_members/na_members_15_22.csv, mona_cd 1ZF7922T)",
+   "transcript_check": "ok",
+   "transcript_notes": "17 valid-type minister rows (17 meetings) from 2000-10-16 to 2001-09-10, all inside the spell.",
+   "notes": "Resigned to run in the 2001-10-25 서울 구로을 재선거 (연합뉴스 and 매일경제 2001-09-19, and 동아일보 2001-09-18 naver_020_0000085972.html). Same-day handover. The hanja name is recorded as 金한길 in the NA file."
+  },
+  {
+   "name": "남궁진",
+   "name_hanja": "南宮鎭",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1942-08-11",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2001-09-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제14910호 (published 2001-09-24), 인사 notice for 남궁진(南宮鎭) '◉2001년 9 월19일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319017589141000&tocId=00000000000000001319017599702000&isTocOrder=N (accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/culture/gazette/gazette_14910_00000000000000001319017599702000.pdf; harvest text harvest/gazette_text/20010924_14910_00000000000000001319017599702000.txt)",
+    "매일경제 2001-09-19 15:46 '신임 문화관광부 장관에 남궁진씨 임명' https://n.news.naver.com/mnews/article/009/0000150634 (accessed 2026-09-24T22:55:09-0400; snapshot roster/sources/culture/naver_009_0000150634.html) [summary: 신임 문화관광부 장관에 남궁진씨 임명, 19 Sep 2001]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제38대 남궁진 재임기간: 2001.09.19.~2002.07.10.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2002-07-08",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 서울신문 2002-07-09 '개각 주말쯤 단행, 남궁진 문화 사표 수리' (search '남궁진 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:03:11-0400; snapshot roster/sources/culture/bigkinds_남궁진_사표_2002-06-01_2002-07-12.json) [summary: 남궁 장관의 사표는 이날(8일) 오후 수리됐으나 후임은 정해지지 않았다]",
+    "BigKinds metadata record: 인천일보 2002-07-09 '남궁진 문광 사표 수리' (search '남궁진 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:03:11-0400; snapshot roster/sources/culture/bigkinds_남궁진_사표_2002-06-01_2002-07-12.json) [summary: 8·8 재·보선 광명 출마를 위해 8일 사의, 김대중 대통령 8일 오후 사표 수리]",
+    "동아일보 2002-07-12 18:44 '문화부 윤형규차관 사의 어수선 \"또 낙하산이냐\"' https://n.news.naver.com/mnews/article/020/0000140494 (accessed 2026-09-25T12:59:56-0400; snapshot roster/sources/culture/naver_020_0000140494.html) [summary: 동아일보 2002-07-12: 남궁진 전 장관이 후임자도 정해지지 않은 상태에서 사표를 낸]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제38대 남궁진 재임기간: 2001.09.19.~2002.07.10.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 한국일보 2002-07-09 '개각 하마평 / 새총리 이세중·고건씨 거명' news_id 01101101.20020709000000303 (search '남궁진 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:07:11-0400; snapshot roster/sources/culture/verify/bk/s05_end_남궁진_사표_2002_07_07_2002_07_11.json) [verifier] [summary: 김대중(金大中) 대통령이 8일 오후 남궁진(南宮鎭) 문화관광부 장관의 사표를 수리함으로써]"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 14th-15th NA member (15th term 새정치국민회의, 경기 광명시갑, _rebuild/na_members/na_members_15_22.csv, mona_cd VZ17900R), not sitting at appointment",
+   "transcript_check": "ok",
+   "transcript_notes": "9 valid-type minister rows (9 meetings) from 2001-11-02 to 2002-04-25, all inside the spell.",
+   "notes": "Resigned on 2002-07-08 to run in the 8·8 재보선 (경기 광명). MCST and ko.wikipedia give 2002-07-10, the day before 김성재 took office, but three contemporaneous reports say the resignation was accepted on the afternoon of 07-08 with no successor named. Vacancy 2002-07-09..07-10."
+  },
+  {
+   "name": "김성재",
+   "name_hanja": "金聖在",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": null,
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2002-07-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15150호 (published 2002-07-16), 인사 notice for 김성재(金聖在) '◉2002년 7 월11일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023015056000&tocId=00000000000000001319023033715000&isTocOrder=N (accessed 2026-09-24T22:45:48-0400; snapshot roster/sources/culture/gazette/gazette_15150_00000000000000001319023033715000.pdf; harvest text harvest/gazette_text/20020716_15150_00000000000000001319023033715000.txt)",
+    "한국경제 2002-07-11 09:43 '총리서리에 장상 前이대총장(대체)' https://n.news.naver.com/mnews/article/015/0000527776 (accessed 2026-09-25T12:59:52-0400; snapshot roster/sources/culture/naver_015_0000527776.html) [summary: 11 Jul 2002 개각: 문화관광부 장관에 김성재씨 임명]",
+    "오마이뉴스 2002-07-11 09:37 '새 총리에 장상 이화여대 총장' https://n.news.naver.com/mnews/article/047/0000008662 (accessed 2026-09-25T13:00:07-0400; snapshot roster/sources/culture/naver_047_0000008662.html) [summary: 오마이뉴스 11 Jul 2002, same]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제39대 김성재 재임기간: 2002.07.11.~2003.02.26.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15338호 (published 2003-03-05), 인사 notice for 이창동(李滄東) '◉2003년 2 월27일자 국무위원에 임함 문화관광부장관에 보함 (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400; snapshot roster/sources/culture/gazette/gazette_15338_00000000000000001319026541100000.pdf; harvest text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt)",
+    "BigKinds metadata record: 동아일보 2003-02-26 '김성재 장관-박문석 차관 나란히 대학강단에 서' (search '김성재' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:46-0400; snapshot roster/sources/culture/bigkinds_김성재_2003-02-26_2003-02-28.json) [summary: 새 정부 출범으로 물러나는 문화관광부 김성재 장관]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제39대 김성재 재임기간: 2002.07.11.~2003.02.26.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "동아일보 2003-02-28 00:31 '이창동문화부장관, 싼타페 몰고 청사로…넥타이 풀고 회견' https://n.news.naver.com/mnews/article/020/0000178432 (accessed 2026-09-25T21:51:47-0400; snapshot roster/sources/culture/verify/news/naver_020_0000178432.html) [verifier] [summary: 이창동 문화관광부 장관이 27일 취임 첫날부터 ... 대통령으로부터 임명장을 받아] (successor in office on 02-27)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "9 valid-type minister rows (9 meetings) from 2002-07-26 to 2003-02-24, all inside the spell.",
+   "notes": "Held over into the 노무현 presidency (2003-02-25..) until the first 노무현 cabinet was appointed on 2003-02-27. No report of the day his resignation was accepted was found. MCST lists 2003-02-26 (its usual day-before-successor convention). Birth date and gender were not confirmed in a saved source (동아일보 2003-02-26 gives his age as 55). No ko.wikipedia article exists for him."
+  },
+  {
+   "name": "이창동",
+   "name_hanja": "李滄東",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1954-04-01",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (published 2003-03-05), 인사 notice for 이창동(李滄東) '◉2003년 2 월27일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400; snapshot roster/sources/culture/gazette/gazette_15338_00000000000000001319026541100000.pdf; harvest text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt)",
+    "연합뉴스 2003-02-27 14:40 '<조각발표 부처표정>-문화관광부' https://n.news.naver.com/mnews/article/001/0000326672 (accessed 2026-09-25T13:00:39-0400; snapshot roster/sources/culture/naver_001_0000326672.html) [summary: <조각발표 부처표정>-문화관광부, 27 Feb 2003]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제40대 이창동 재임기간: 2003.02.27.~2004.06.30.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2004-06-30",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 동아일보 2004-07-01 '[기자의 눈]허문명/인간 이창동 vs 장관 이창동' (search '이창동' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:07:20-0400; snapshot roster/sources/culture/bigkinds_이창동_2004-06-29_2004-07-02.json) [summary: 지난달 30일 퇴임할 때도 자신의 차 싼타페를 직접 몰고 퇴근했다]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제40대 이창동 재임기간: 2003.02.27.~2004.06.30.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "국민일보 2004-07-02 18:00 '[문광부 온종일 어수선] 환영식은 고사하고…' https://n.news.naver.com/mnews/article/005/0000168193 (accessed 2026-09-25T13:01:17-0400; snapshot roster/sources/culture/naver_005_0000168193.html) [summary: 국민일보 2004-07-02: 이창동 장관이 물러나고 정동채 장관이 취임하는 와중]",
+    "BigKinds metadata record: 국민일보 2004-07-01 '싼타페 몰고 다시 영화감독으로' news_id 01100201.20040701000000404 (search '이창동 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:15:22-0400; snapshot roster/sources/culture/verify/bk/s07_end_이창동_장관_2004_06_29_2004_07_02.json) [verifier] [summary: 1년4개월간의 업무를 끝내고 30일 영화감독으로 되돌아갔다]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "17 valid-type minister rows (17 meetings) from 2003-04-15 to 2004-02-26, all inside the spell.",
+   "notes": "6·30 개각. Successor appointed as of 2004-07-01 (관보 제15737호). Birth date from ko.wikipedia (revid 42549736)."
+  },
+  {
+   "name": "정동채",
+   "name_hanja": "鄭東采",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1950-07-03",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2004-07-01",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15737호 (published 2004-07-06), 인사 notice for 정동채(鄭東采) '⊙2004년 7 월 1 일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N (accessed 2026-09-24T22:46:50-0400; snapshot roster/sources/culture/gazette/gazette_15737_00000000000000001319031615639000.pdf; harvest text harvest/gazette_text/20040706_15737_00000000000000001319031615639000.txt)",
+    "YTN 2004-07-01 11:50 '정동채 장관 인사청탁 여부 조사' https://n.news.naver.com/mnews/article/052/0000042349 (accessed 2026-09-25T13:01:54-0400; snapshot roster/sources/culture/naver_052_0000042349.html) [summary: YTN 2004-07-01: 정동채 신임 문화관광부 장관]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제41대 정동채 재임기간: 2004.07.01.~2006.03.06.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2006-03-24",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 전자신문 2006-03-25 '정동채 문화장관 `문화산업 강국 토대 세웠다`' (search '정동채' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:32-0400; snapshot roster/sources/culture/bigkinds_정동채_2006-03-10_2006-03-28.json) [summary: 24일 정동채 문화관광부 장관이 18개월간의 공직생활을 마감하고 친정인 열린우리당으로 복귀했다 ... 후임 장관이 정식 임명될 때까지 장관직을 수행]",
+    "BigKinds metadata record: 중앙일보 2006-03-24 '먼 나라로 가자, 한류 친구 찾아' (search '정동채' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:32-0400; snapshot roster/sources/culture/bigkinds_정동채_2006-03-10_2006-03-28.json) [summary: 정동채 문화관광부 장관이 이번 주말 장관직을 떠난다 ... 후임 김명곤 장관후보자는 27일 취임할 예정]",
+    "BigKinds metadata record: 내일신문 2006-03-21 '국제방송교류재단 사장에 장명호씨' (search '정동채' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:32-0400; snapshot roster/sources/culture/bigkinds_정동채_2006-03-10_2006-03-28.json) [summary: 정동채 문화관광부 장관은 20일 ... 사장에 장명호 ... 임명했다 (still acting as minister on 03-20)]",
+    "연합뉴스 2006-03-24 17:01 '<정치권으로 돌아간 정동채 문화장관>' https://n.news.naver.com/mnews/article/001/0001253616 (accessed 2026-09-25T21:49:01-0400; snapshot roster/sources/culture/verify/news/naver_001_0001253616.html) [summary: 21개월의 장관직 업무를 마치고 24일 국회로 돌아갔다]",
+    "전자신문 2006-03-24 16:44 \"정동채 문화장관 '문화산업 강국 토대 세웠다'\" (full text) https://n.news.naver.com/mnews/article/030/0000137443 (accessed 2026-09-25T21:49:05-0400; snapshot roster/sources/culture/verify/news/naver_030_0000137443.html) [verifier] [summary: 후임 장관이 정식 임명될 때까지 장관직을 수행하겠다는 본인의 의지에 따라 24일 사퇴한 것이다]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 17th NA member (열린우리당, 광주 서구을) at appointment (_rebuild/na_members/na_members_15_22.csv, mona_cd VTN3694W)",
+   "transcript_check": "ok",
+   "transcript_notes": "28 valid-type minister rows (28 meetings) from 2004-07-06 to 2006-02-23, all inside the spell.",
+   "notes": "MCST and ko.wikipedia list 2006-03-06 as his last day, but contemporaneous reports show him acting as minister on 03-09 (훈장 수여), 03-15 (신문유통원 개원식), 03-16 (WIPO 협정) and 03-20 (appointment of the 국제방송교류재단 사장), and 전자신문 reports that he left office on 03-24 after choosing to serve until his successor was appointed. The exact date his resignation was formally accepted was not found. Replacement announced in the 3·2 개각 (2006-03-02). Vacancy 2006-03-25..03-26 (weekend) before 김명곤 took office on 03-27."
+  },
+  {
+   "name": "김명곤",
+   "name_hanja": "金明坤",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1952-12-03",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2006-03-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16224호 (published 2006-03-31), 인사 notice for 김명곤(金明坤) '⊙2006년 3 월27일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600889216000&tocId=00000000000000001319600911791000&isTocOrder=N (accessed 2026-09-24T22:50:27-0400; snapshot roster/sources/culture/gazette/gazette_16224_00000000000000001319600911791000.pdf; harvest text harvest/gazette_text/20060331_16224_00000000000000001319600911791000.txt)",
+    "부산일보 2006-03-27 12:12 '[뉴스브리핑] 이용섭 행자부장관 등 3명 임명장' https://n.news.naver.com/mnews/article/082/0000086084 (accessed 2026-09-25T13:03:51-0400; snapshot roster/sources/culture/naver_082_0000086084.html) [summary: 부산일보 2006-03-27: 노무현 대통령 27일 오전 김명곤 문화관광부 장관 등 3명에 임명장]",
+    "연합뉴스 2006-03-27 18:08 '김명곤 문화 \"현장중심 문화행정\" 강조' https://n.news.naver.com/mnews/article/001/0001255251 (accessed 2026-09-25T13:03:27-0400; snapshot roster/sources/culture/naver_001_0001255251.html) [summary: 연합뉴스 2006-03-27: 청와대에서 임명장을 받은 뒤 취임식]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제42대 김명곤 재임기간: 2006.03.27.~2007.05.07.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2007-05-07",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 서울신문 2007-05-08 '“답설야중 14개월 마치고 예술황야로 돌아갑니다”' (search '김명곤' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:48-0400; snapshot roster/sources/culture/bigkinds_김명곤_2007-05-04_2007-05-09.json) [summary: 김명곤 문화관광부 장관은 7일 오후 광화문 청사 대회의실에서 이임식]",
+    "BigKinds metadata record: 내일신문 2007-05-08 '“유목민으로 돌아간다”' (search '김명곤' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:48-0400; snapshot roster/sources/culture/bigkinds_김명곤_2007-05-04_2007-05-09.json) [summary: 김명곤 장관이 7일 퇴임했다]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제42대 김명곤 재임기간: 2006.03.27.~2007.05.07.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "BigKinds metadata record: 디지털타임스 2007-05-08 '김명곤 문화장관 퇴임' news_id 07101201.20070508163512001 (search '김명곤 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:15:44-0400; snapshot roster/sources/culture/verify/bk/s09_end_김명곤_장관_2007_05_06_2007_05_09.json) [verifier] [summary: 7일 오후 문화관광부 청사에서 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "22 valid-type minister rows (21 meetings) from 2006-04-03 to 2007-04-12, all inside the spell.",
+   "notes": "Successor 김종민 named on 2007-04-19 and appointed on 2007-05-08."
+  },
+  {
+   "name": "김종민",
+   "name_hanja": "金鍾民",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1949-02-15",
+   "gender": "M",
+   "ministry": "문화관광부",
+   "office_title": "문화관광부장관",
+   "deputy_pm": false,
+   "start": "2007-05-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16504호 (published 2007-05-14), 인사 notice for 김종민(金鍾民) '⊙2007년 5 월 8 일자 국무위원에 임함 문화관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319077150868000&tocId=00000000000000001319077166146000&isTocOrder=N (accessed 2026-09-24T22:53:18-0400; snapshot roster/sources/culture/gazette/gazette_16504_00000000000000001319077166146000.pdf; harvest text harvest/gazette_text/20070514_16504_00000000000000001319077166146000.txt)",
+    "연합뉴스 2007-05-08 15:22 '노대통령 신임  김종민 문화관광부장관 임명장' https://n.news.naver.com/mnews/article/001/0001630078 (accessed 2026-09-25T13:04:14-0400; snapshot roster/sources/culture/naver_001_0001630078.html) [summary: 연합뉴스 2007-05-08: 노무현 대통령이 8일 김종민 신임 문화관광부장관에게 임명장]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제43대 김종민 재임기간: 2007.05.08.~2008.02.28.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)"
+   ],
+   "end": "2008-02-28",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices.json OF028: 문화관광부 to 2008-02-28, replaced by 문화체육관광부 under 법률 제8852호 effective 2008-02-29 (부칙 제2조② excludes 정무직)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp?pOrgNm=02, lists '제43대 김종민 재임기간: 2007.05.08.~2008.02.28.' (accessed 2026-09-25T07:04:56-0400; snapshot roster/sources/culture/mcst/mcst_minHistory_pOrgNm02.html)",
+    "연합뉴스 2008-02-29 18:34 '김종민 \"정책 성패 국민신뢰에 달려\"' https://n.news.naver.com/mnews/article/001/0001981956 (accessed 2026-09-25T13:05:22-0400; snapshot roster/sources/culture/naver_001_0001981956.html) [summary: 연합뉴스 2008-02-29: 이임식 held on the afternoon of 29 Feb 2008]",
+    "노컷뉴스 2008-02-29 17:40 '떠나는 김종민 문화 \"성을 부수고 길을 만들어 달라\"' https://n.news.naver.com/mnews/article/079/0001945397 (accessed 2026-09-25T13:05:34-0400; snapshot roster/sources/culture/naver_079_0001945397.html) [summary: 노컷뉴스 2008-02-29: 이임식 29 Feb 15:00]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "12 valid-type minister rows (12 meetings) from 2007-06-14 to 2008-02-11, all inside the spell.",
+   "notes": "Held over into the 이명박 presidency (2008-02-25..). The office 문화관광부 ceased on 2008-02-29 when 법률 제8852호 was promulgated and took effect. He held his farewell ceremony on the afternoon of 02-29, the same day 유인촌 received his 임명장 as 문화체육관광부장관. End is set to 02-28, the last full day under the old ministry name (consistent with the 1998 transition). Not the same person as NA member 김종민 (金鍾民, born 1964, mona_cd M2Q9024I). He was 문화체육부 차관 in February 1998. Birth date from ko.wikipedia (revid 41200821)."
+  },
+  {
+   "name": "유인촌",
+   "name_hanja": "柳仁村",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1951-03-20",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2008-02-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16703호 (published 2008-03-06), 인사 notice for 유인촌(柳仁村) '⊙2008년 2월 29일자 국무위원에 임함 문화체육관광부장관에 보함', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400; snapshot roster/sources/culture/gazette/gazette_16703_00000000000000001319081960066000.pdf; harvest text harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt)",
+    "연합뉴스 2008-02-29 17:40 '임명장받는 유인촌 문화체육관광부 장관' https://n.news.naver.com/mnews/article/001/0001981823 (accessed 2026-09-25T13:05:47-0400; snapshot roster/sources/culture/naver_001_0001981823.html) [summary: 연합뉴스 2008-02-29: 이명박 대통령이 29일 유인촌 문화체육관광부 장관에게 임명장]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제44대 유인촌 재임기간: 2008.02.29.~2011.01.26.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2011-01-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제17439호 (published 2011-02-01), 인사 notice for 정병국(鄭柄國) '정병국(鄭柄國) 국무위원에 임함 문화체육관광부장관에 보함 2011. 1. 27. (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319088332162000&tocId=00000000000000001319088353024000&isTocOrder=N (accessed 2026-09-24T22:56:12-0400; snapshot roster/sources/culture/gazette/gazette_17439_00000000000000001319088353024000.pdf; harvest text harvest/gazette_text/20110201_17439_00000000000000001319088353024000.txt)",
+    "연합뉴스 2011-01-27 10:29 '임명장 받는 정병국 문화체육관광부장관' https://n.news.naver.com/mnews/article/001/0004887107 (accessed 2026-09-25T13:07:40-0400; snapshot roster/sources/culture/naver_001_0004887107.html) [summary: 연합뉴스 2011-01-27: 정병국 문화체육관광부장관 임명장 27일 오전]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제44대 유인촌 재임기간: 2008.02.29.~2011.01.26.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 파이낸셜뉴스 2011-01-27 '靑, 특별보좌관 확대...문화특보에 유인촌 검토' news_id 02100501.20160208153418629 (search '유인촌 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:15:58-0400; snapshot roster/sources/culture/verify/bk/s11_end_유인촌_장관_2011_01_26_2011_01_28.json) [verifier] [summary: 유인촌 전 문화체육관광부 장관의 임명을 검토 중인 것으로 27일 알려졌다] (called 전 장관 on 01-27, the day 정병국 was appointed)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "52 valid-type minister rows (52 meetings) from 2008-04-29 to 2010-11-29, all inside the spell.",
+   "notes": "Nominated in 2008 by 대통령당선인 이명박 for 문화관광부장관 (ZZ1902) and appointed to the renamed 문화체육관광부 on 2008-02-29. He was never 문화관광부장관, so this is not a reorg continuation. His intended successor 신재민 (nominated 2010-08-08) withdrew on 2010-08-29, so he stayed until 정병국's appointment. MCST lists 2011-01-26, the day before 정병국."
+  },
+  {
+   "name": "정병국",
+   "name_hanja": "鄭柄國",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1958-02-10",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2011-01-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17439호 (published 2011-02-01), 인사 notice for 정병국(鄭柄國) '정병국(鄭柄國) 국무위원에 임함 문화체육관광부장관에 보함 2011. 1. 27.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319088332162000&tocId=00000000000000001319088353024000&isTocOrder=N (accessed 2026-09-24T22:56:12-0400; snapshot roster/sources/culture/gazette/gazette_17439_00000000000000001319088353024000.pdf; harvest text harvest/gazette_text/20110201_17439_00000000000000001319088353024000.txt)",
+    "연합뉴스 2011-01-27 10:29 '임명장 받는 정병국 문화체육관광부장관' https://n.news.naver.com/mnews/article/001/0004887107 (accessed 2026-09-25T13:07:40-0400; snapshot roster/sources/culture/naver_001_0004887107.html) [summary: 연합뉴스 2011-01-27: 임명장 받는 정병국 문화체육관광부장관]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제45대 정병국 재임기간: 2011.01.27.~2011.09.16.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2011-09-16",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2011-09-16 19:06 '직원들과 작별인사하는 정병국 장관' https://n.news.naver.com/mnews/article/001/0005268405 (accessed 2026-09-25T13:09:38-0400; snapshot roster/sources/culture/naver_001_0005268405.html) [summary: 연합뉴스 2011-09-16: 정병국 장관 이임식 16일 와룡동 문화부 청사]",
+    "연합뉴스 2011-09-16 22:33 '정병국 \"일 잘해도 소통 못하면 실패한 정책\"' https://n.news.naver.com/mnews/article/001/0005268540 (accessed 2026-09-25T13:09:52-0400; snapshot roster/sources/culture/naver_001_0005268540.html) [summary: 연합뉴스 2011-09-16 22:33: 이임식, 청사를 떠나면서]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제45대 정병국 재임기간: 2011.01.27.~2011.09.16.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "연합뉴스 2011-09-20 10:58 '이재오ㆍ정병국ㆍ진수희, 국감 통해 국회 복귀' https://n.news.naver.com/mnews/article/001/0005273003 (accessed 2026-09-25T13:07:29-0400; snapshot roster/sources/culture/naver_001_0005273003.html) [summary: 연합뉴스 2011-09-20: returned to the Assembly, 환노위 국감 from 09-19]",
+    "뉴시스 2011-09-16 19:17 '직원들과 인사 나누는 정병국 장관' https://n.news.naver.com/mnews/article/003/0004082692 (accessed 2026-09-25T21:50:13-0400; snapshot roster/sources/culture/verify/news/naver_003_0004082692.html) [verifier] [summary: 16일 ... 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 18th NA member (한나라당, 경기 양평군가평군) at appointment (_rebuild/na_members/na_members_15_22.csv, mona_cd P303213F)",
+   "transcript_check": "ok",
+   "transcript_notes": "14 valid-type minister rows (14 meetings) from 2011-03-04 to 2011-08-23, all inside the spell.",
+   "notes": "ko.wikipedia gives 2011-09-19 as the last day, which conflicts with the 09-16 farewell and the 관보 date of the successor (09-17)."
+  },
+  {
+   "name": "최광식",
+   "name_hanja": "崔光植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1953-05-05",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2011-09-17",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17596호 (published 2011-09-21), 인사 notice for 최광식(崔光植) '최광식(崔光植) 국무위원에 임함 문화체육관광부장관에 보함 2011. 9. 17.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001320220862521000&tocId=00000000000000001320220991219001&isTocOrder=N (accessed 2026-09-24T22:57:27-0400; snapshot roster/sources/culture/gazette/gazette_17596_00000000000000001320220991219001.pdf; harvest text harvest/gazette_text/20110921_17596_00000000000000001320220991219001.txt)",
+    "연합뉴스 2011-09-19 11:34 '<국감현장> 문화부 국감 시작부터 '파행'' https://n.news.naver.com/mnews/article/001/0005271013 (accessed 2026-09-25T13:09:29-0400; snapshot roster/sources/culture/naver_001_0005271013.html) [summary: 연합뉴스 2011-09-19 국감: 야당 '임명 이틀 된 최 장관 상대로 국감 못해']",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제46대 최광식 재임기간: 2011.09.17.~2013.03.10.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2013-03-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2013-03-11 10:00 '대학 강단으로 돌아가는 최광식 문화장관' https://n.news.naver.com/mnews/article/001/0006138096 (accessed 2026-09-25T13:11:44-0400; snapshot roster/sources/culture/naver_001_0006138096.html) [summary: 연합뉴스 2013-03-11 10:00: 11일 오전 이임식]",
+    "뉴스1 2013-03-11 14:57 '최광식 문화체육관광부 장관 이임식' https://n.news.naver.com/mnews/article/421/0000201020 (accessed 2026-09-25T13:10:25-0400; snapshot roster/sources/culture/naver_421_0000201020.html) [summary: 뉴스1 2013-03-11: 최광식 장관 이임식]",
+    "관보 제17971호 (published 2013-03-14), 인사 notice for 유진룡(劉震龍) '유진룡(劉震龍) 국무위원에 임함 문화체육관광부장관에 보함 2013. 3. 11. (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:51-0400; snapshot roster/sources/culture/gazette/gazette_17971_00000000000000001363076221739000.pdf; harvest text harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제46대 최광식 재임기간: 2011.09.17.~2013.03.10.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 머니투데이 2013-03-11 '퇴임 최광식 문화장관 \"1인2기·1박2일 지속해야\"' news_id 02100201.20130311152429002 (search '최광식 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:16:10-0400; snapshot roster/sources/culture/verify/bk/s13_end_최광식_장관_2013_03_10_2013_03_12.json) [verifier] [summary: 이날 오전 문화부 청사 1층 대강당에서 퇴임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "23 valid-type minister rows (23 meetings) from 2011-09-19 to 2013-02-12, all inside the spell.",
+   "notes": "The 임명장 was handed over on 2011-09-19 at 08:00 (한겨레 2011-09-19, naver_028_0002110668.html, and 연합뉴스 naver_001_0005270550.html) and ko.wikipedia gives 2011-09-20 (the 취임식 day), but the 관보 prints 2011-09-17. Held over into the 박근혜 presidency (2013-02-25..) until 유진룡's appointment on 2013-03-11, delayed by the 2013 정부조직법 dispute. Same-day handover."
+  },
+  {
+   "name": "유진룡",
+   "name_hanja": "劉震龍",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1956-09-02",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2013-03-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17971호 (published 2013-03-14), 인사 notice for 유진룡(劉震龍) '유진룡(劉震龍) 국무위원에 임함 문화체육관광부장관에 보함 2013. 3. 11.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:51-0400; snapshot roster/sources/culture/gazette/gazette_17971_00000000000000001363076221739000.pdf; harvest text harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt)",
+    "연합뉴스 2013-03-11 12:46 '임명장 받는 유진룡 문화체육관광부 장관' https://n.news.naver.com/mnews/article/001/0006138641 (accessed 2026-09-25T13:10:42-0400; snapshot roster/sources/culture/naver_001_0006138641.html) [summary: 연합뉴스 2013-03-11: 박근혜 대통령이 11일 오전 유진룡 신임 문화체육관광부 장관에게 임명장]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제47대 유진룡 재임기간: 2013.03.11.~2014.07.16.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2014-07-17",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2014-07-17 09:01 '朴대통령, 서남수 교육·유진룡 문화에 면직 통보' https://n.news.naver.com/mnews/article/001/0007018127 (accessed 2026-09-25T13:11:29-0400; snapshot roster/sources/culture/naver_001_0007018127.html) [summary: 연합뉴스 2014-07-17 09:01: 박근혜 대통령이 17일 유진룡 장관에게 면직을 통보, 장관자리는 공석, 차관 대행 체제]",
+    "뉴시스 2014-07-17 09:27 '朴대통령, 서남수·유진룡 장관에 면직 통보' https://n.news.naver.com/mnews/article/003/0005965347 (accessed 2026-09-25T13:11:45-0400; snapshot roster/sources/culture/naver_003_0005965347.html) [summary: 뉴시스 2014-07-17: 17일 오전 면직 통보]",
+    "BigKinds metadata record: 대구일보 2014-07-18 '서남수·유진룡 장관 면직 재가' (search '유진룡 면직' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:08:14-0400; snapshot roster/sources/culture/bigkinds_유진룡_면직_2014-07-15_2014-07-18.json) [summary: 박근혜 대통령이 17일 ... 유진룡 문화체육관광부 장관에 대한 면직을 재가]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제47대 유진룡 재임기간: 2013.03.11.~2014.07.16.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 경향신문 2014-07-18 '후임 없는데 전격 ‘면직’…유진룡 문화부 장관에 무슨일이' news_id 01100101.20140718100000056 (search '유진룡 면직' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:09:24-0400; snapshot roster/sources/culture/verify/bk/s14_end_유진룡_면직_2014_07_15_2014_07_19.json) [verifier] [summary: 17일 오전 청와대로부터 면직 통보]"
+   ],
+   "end_reason": "dismissed",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "24 valid-type minister rows (24 meetings) from 2013-04-09 to 2014-05-02, all inside the spell.",
+   "notes": "Nominated by 대통령당선인 박근혜 (ZZ19038). Dismissed without a successor after nominee 정성근 withdrew on 2014-07-16. MCST and ko.wikipedia give 2014-07-16. The reports say the 면직 was decided and notified on 07-17, and the exact effective date printed on the 면직 order was not found. Vacancy 2014-07-18..08-19. 경향신문 2014-07-18 (BigKinds 01100101.20140718100000072) reports that the 면직 took the form of the President accepting the resignation both ministers had submitted at the 6·13 개각, so 'resigned' is a possible alternative coding. 'dismissed' is kept because the removal was the President's initiative and preceded any successor."
+  },
+  {
+   "name": "김종덕",
+   "name_hanja": "金鍾德",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1957-03-28",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2014-08-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18335호 (published 2014-08-26), 인사 notice for 김종덕(金鍾德) '김종덕(金鍾德) 국무위원에 임함 문화체육관광부장관에 보함 2014. 8. 20.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001408932122784000&tocId=00000000000000001408932156531000&isTocOrder=N (accessed 2026-09-24T22:58:49-0400; snapshot roster/sources/culture/gazette/gazette_18335_00000000000000001408932156531000.pdf; harvest text harvest/gazette_text/20140826_18335_00000000000000001408932156531000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제48대 김종덕 재임기간: 2014.08.20.~2016.09.04.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2016-09-05",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 국민일보 2016-09-05 '김종덕 전 문체부 장관 이임 “일 폭탄에 화장실 갈 틈도 없었지만 문화융성 보람”' (search '김종덕 이임' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:07:30-0400; snapshot roster/sources/culture/bigkinds_김종덕_이임_2016-09-01_2016-09-06.json) [summary: 김종덕(57) 전 문화체육관광부 장관이 5일 정부세종청사 문체부 대강당에서 이임식을 가졌다]",
+    "관보 제18843호 (published 2016-09-12), 인사 notice for 조윤선(趙允旋) '조윤선(趙允旋) 국무위원에 임함 문화체육관광부장관에 보함 2016. 9. 5. (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001473384514531000&tocId=00000000000000001473384557408000&isTocOrder=N (accessed 2026-09-24T22:51:00-0400; snapshot roster/sources/culture/gazette/gazette_18843_00000000000000001473384557408000.pdf; harvest text harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제48대 김종덕 재임기간: 2014.08.20.~2016.09.04.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "뉴시스 2016-09-05 10:28 '이임식 하는 김종덕 문체부 장관' https://n.news.naver.com/mnews/article/003/0007450008 (accessed 2026-09-25T21:55:13-0400; snapshot roster/sources/culture/verify/news/naver_003_0007450008.html) [verifier] [summary: 5일 오전 ... 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type minister rows (29 meetings) from 2014-10-07 to 2016-08-16, all inside the spell.",
+   "notes": "ko.wikipedia gives 2014-08-21 as the start (the 취임 day). MCST lists 2016-09-04 as the last day (day before successor). Same-day handover on 2016-09-05, the day of his farewell."
+  },
+  {
+   "name": "조윤선",
+   "name_hanja": "趙允旋",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1966-07-22",
+   "gender": "F",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2016-09-05",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18843호 (published 2016-09-12), 인사 notice for 조윤선(趙允旋) '조윤선(趙允旋) 국무위원에 임함 문화체육관광부장관에 보함 2016. 9. 5.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001473384514531000&tocId=00000000000000001473384557408000&isTocOrder=N (accessed 2026-09-24T22:51:00-0400; snapshot roster/sources/culture/gazette/gazette_18843_00000000000000001473384557408000.pdf; harvest text harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제49대 조윤선 재임기간: 2016.09.05.~2017.01.20.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2017-01-21",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 경기일보 2017-01-22 ''朴 정부 최고 실세 장관' 조윤선, 현직 장관 첫 구속…장관직 사의 표명 직후 사표 수리' (search '조윤선' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:11:03-0400; snapshot roster/sources/culture/bigkinds_조윤선_2017-01-21_2017-01-22.json) [summary: 조윤선 문화체육관광부 장관이 지난 21일 구속, 그의 사표가 신속하게 수리됐다]",
+    "BigKinds metadata record: 경향신문 2017-01-22 '[박근혜·최순실 게이트]블랙리스트는 못 빠져나간 ‘법꾸라지’ 김기춘, 끝내 수감자로' (search '조윤선' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:11:03-0400; snapshot roster/sources/culture/bigkinds_조윤선_2017-01-21_2017-01-22.json) [summary: ‘현직 장관 첫 구속’ 조윤선 사표 수리]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제49대 조윤선 재임기간: 2016.09.05.~2017.01.20.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 한겨레 2017-01-22 '황 권한대행, 조윤선 장관 사표 수리' news_id 01101001.20170122160836001 (search '조윤선 사표 수리' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:16:16-0400; snapshot roster/sources/culture/verify/bk/s16_end_조윤선_사표_수리_2017_01_21_2017_01_22.json) [verifier] [summary: 황교안 대통령 권한대행 겸 총리는 21일 ... 사표를 수리]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 18th NA member (한나라당, 비례대표, _rebuild/na_members/na_members_15_22.csv, mona_cd D8O8176K), not sitting at appointment",
+   "transcript_check": "ok",
+   "transcript_notes": "6 valid-type minister rows (6 meetings) from 2016-09-27 to 2016-12-28, all inside the spell.",
+   "notes": "Resigned after her arrest in the early hours of 2017-01-21 (warrant issued 03:44). The resignation was accepted by 대통령 권한대행 황교안 the same day. MCST lists 2017-01-20. Birth date 1966-07-22 is from the NA member file. ko.wikipedia gives 1965-07-22. Vacancy 2017-01-22..06-15 with 제1차관 송수근 as 장관 직무대행."
+  },
+  {
+   "name": "도종환",
+   "name_hanja": "都鍾煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1955-09-27",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2017-06-16",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19036호 (published 2017-06-23), 인사 notice for 도종환(都鐘煥) '도종환(都鐘煥) 국무위원에 임함 문화체육관광부장관에 보함 2017.6.16.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N (accessed 2026-09-24T22:59:22-0400; snapshot roster/sources/culture/gazette/gazette_19036_00000000000000001498090378815000.pdf; harvest text harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제50대 도종환 재임기간: 2017.06.16.~2019.04.02.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2019-04-03",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 충청투데이 2019-04-04 '“남북교류협력 중단없는 노력을”' (search '도종환 이임' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:07:40-0400; snapshot roster/sources/culture/bigkinds_도종환_이임_2019-03-30_2019-04-04.json) [summary: 도 장관은 3일 세종시 문체부 청사에서 열린 퇴임식에서 이임사]",
+    "관보 제19482호 (published 2019-04-16), 인사 notice for 박양우(朴良雨) '박양우(朴良雨) 국무위원에 임함 문화체육관광부장관에 보함 2019.4.3. (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N (accessed 2026-09-24T22:59:37-0400; snapshot roster/sources/culture/gazette/gazette_19482_00000000000000001555373338024000.pdf; harvest text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제50대 도종환 재임기간: 2017.06.16.~2019.04.02.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "뉴스1 2019-04-03 13:21 '이임식 갖는 도종환 문체부 장관' https://n.news.naver.com/mnews/article/421/0003917126 (accessed 2026-09-25T21:54:12-0400; snapshot roster/sources/culture/verify/news/naver_421_0003917126.html) [verifier] [summary: 3일 정부세종청사 대강당에서 열린 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 20th NA member (더불어민주당, 충북 청주시흥덕구) at appointment (_rebuild/na_members/na_members_15_22.csv, mona_cd J2O8643H)",
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type minister rows (30 meetings) from 2017-08-21 to 2018-12-26, all inside the spell.",
+   "notes": "관보 prints the hanja as 都鐘煥, the NA file as 都鍾煥. Same-day handover on 2019-04-03 (MCST gives 04-02 as his last day)."
+  },
+  {
+   "name": "박양우",
+   "name_hanja": "朴良雨",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1958-11-20",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2019-04-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19482호 (published 2019-04-16), 인사 notice for 박양우(朴良雨) '박양우(朴良雨) 국무위원에 임함 문화체육관광부장관에 보함 2019.4.3.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N (accessed 2026-09-24T22:59:37-0400; snapshot roster/sources/culture/gazette/gazette_19482_00000000000000001555373338024000.pdf; harvest text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt)",
+    "BigKinds metadata record: 아시아경제 2019-04-03 '박양우 장관 \"우리 수출 20% 韓流 덕분..문화산업 계량화 필요\"' (search '도종환 이임' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:07:40-0400; snapshot roster/sources/culture/bigkinds_도종환_이임_2019-03-30_2019-04-04.json) [summary: 3일 세종시 문체부 청사에서 열린 취임식]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제51대 박양우 재임기간: 2019.04.03.~2021.02.10.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2021-02-10",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 서울신문 2021-02-10 '박양우 문체부 장관 “온전한 회복 못 보고 떠나 마음에 걸려”' (search '박양우' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:24-0400; snapshot roster/sources/culture/bigkinds_박양우_2021-02-09_2021-02-12.json) [summary: 박 장관은 10일 ... 황희 장관 후보자에 대한 인사청문경과보고서를 채택한 이후 세종청사에서 비대면으로 이임식]",
+    "BigKinds metadata record: 이데일리 2021-02-10 '[포토]이임식 마치고 떠나는 박양우 장관' (search '박양우' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:24-0400; snapshot roster/sources/culture/bigkinds_박양우_2021-02-09_2021-02-12.json) [summary: 10일 ... 이임식]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제51대 박양우 재임기간: 2019.04.03.~2021.02.10.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 전자신문 2021-02-10 '떠나는 박양우 장관' news_id 07100501.20210210161303001 (search '박양우 장관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:16:20-0400; snapshot roster/sources/culture/verify/bk/s18_end_박양우_장관_2021_02_09_2021_02_11.json) [verifier] [summary: 10일 ... 비대면 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type minister rows (30 meetings) from 2019-06-24 to 2020-12-23, all inside the spell.",
+   "notes": "Successor 황희 appointed 2021-02-11 (관보 제19943호)."
+  },
+  {
+   "name": "황희",
+   "name_hanja": "黃熙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1967-07-28",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2021-02-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19943호 (published 2021-02-19), 인사 notice for 황희(黃熙) '황희(黃熙) 국무위원에 임함 문화체육관광부장관에 보함 2021. 2. 11.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001613606346551000&tocId=00000000000000001613606350473000&isTocOrder=N (accessed 2026-09-24T22:59:59-0400; snapshot roster/sources/culture/gazette/gazette_19943_00000000000000001613606350473000.pdf; harvest text harvest/gazette_text/20210219_19943_00000000000000001613606350473000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제52대 황희 재임기간: 2021.02.11.~2022.05.12.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2022-05-13",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제20255호 (published 2022-05-23), 인사 notice for 박보균(朴普均) '박보균(朴普均) 국무위원에 임함 문화체육관광부장관에 보함 2022. 5. 13. (successor)', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/culture/gazette/gazette_20255_I0000000000000001652659816213000.pdf; harvest text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt)",
+    "아시아경제 2022-05-13 18:58 '尹 대통령, 권영세·박보균·원희룡 장관 임명' https://n.news.naver.com/mnews/article/277/0005088697 (accessed 2026-09-25T13:13:30-0400; snapshot roster/sources/culture/naver_277_0005088697.html) [summary: 아시아경제 2022-05-13: 윤석열 대통령이 13일 박보균 문화체육관광부 장관 임명]",
+    "BigKinds metadata record: 조선일보 2022-05-09 '문재인 대통령, 퇴임 앞두고 유은혜·박범계·이인영 사표 수리' (search '황희 사표' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:12:53-0400; snapshot roster/sources/culture/bigkinds_황희_사표_2022-05-08_2022-05-14.json) [summary: 문 대통령 accepted only 유은혜·박범계·이인영; 황희 was among the ministers whose resignations were not accepted]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제52대 황희 재임기간: 2021.02.11.~2022.05.12.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "헤럴드경제 2022-05-11 10:51 '전해철·이인영…여의도 돌아오는 친문·86그룹 핵심들' https://n.news.naver.com/mnews/article/016/0001989165 (accessed 2026-09-25T13:17:47-0400; snapshot roster/sources/culture/verify/news/naver_016_0001989165.html) [verifier] [summary: 전해철, 한정애(환경부), 황희, 권칠승, 장관 등 4명의 경우 아직 사표도 수리되지 않은 상태다]",
+    "이데일리 2022-05-12 18:19 '尹정부 국무회의에 文정권 장관 권덕철·노형욱만 온 이유는?' https://n.news.naver.com/mnews/article/018/0005214116 (accessed 2026-09-25T13:53:58-0400; snapshot roster/sources/culture/verify/news/naver_018_0005214116.html) [verifier] [summary: 전날 기준 ... 아직 직을 유지하고 있는 장관은 ... 황희 문화체육관광부 ... 장관이 있다]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (더불어민주당, 서울 양천구갑) at appointment (_rebuild/na_members/na_members_15_22.csv, mona_cd 0VU8517U)",
+   "transcript_check": "ok",
+   "transcript_notes": "28 valid-type minister rows (28 meetings) from 2021-02-24 to 2022-03-31, all inside the spell.",
+   "notes": "Held his farewell ceremony on 2022-05-09 (연합뉴스 naver_001_0013165658.html, 뉴시스 naver_003_0011172010.html), but 문재인 accepted only three resignations that day and 황희's was not among them (조선일보, 아주경제 2022-05-09 via BigKinds). He therefore remained minister into the 윤석열 presidency. The date his resignation was formally accepted was not found. MCST lists 2022-05-12, ko.wikipedia 2022-05-10. End set to the successor's appointment day."
+  },
+  {
+   "name": "박보균",
+   "name_hanja": "朴普均",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1954-01-24",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2022-05-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20255호 (published 2022-05-23), 인사 notice for 박보균(朴普均) '박보균(朴普均) 국무위원에 임함 문화체육관광부장관에 보함 2022. 5. 13.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/culture/gazette/gazette_20255_I0000000000000001652659816213000.pdf; harvest text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt)",
+    "아시아경제 2022-05-13 18:58 '尹 대통령, 권영세·박보균·원희룡 장관 임명' https://n.news.naver.com/mnews/article/277/0005088697 (accessed 2026-09-25T13:13:30-0400; snapshot roster/sources/culture/naver_277_0005088697.html) [summary: 아시아경제 2022-05-13: 尹 대통령, 권영세·박보균·원희룡 장관 임명]",
+    "이데일리 2022-05-13 19:18 '尹 대통령, 권영세·박보균·원희룡 장관 임명…14개 부처 완료' https://n.news.naver.com/mnews/article/018/0005215177 (accessed 2026-09-25T13:13:40-0400; snapshot roster/sources/culture/naver_018_0005215177.html) [summary: 이데일리 2022-05-13: same]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제53대 박보균 재임기간: 2022.05.13.~2023.10.06.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2023-10-06",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata record: 서울경제 2023-10-07 '박보균 “尹정부 ‘자유와 연대’를 문화 정책으로 표출에 최선”' (search '박보균' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:18-0400; snapshot roster/sources/culture/bigkinds_박보균_2023-10-05_2023-10-08.json) [summary: 박보균 문화체육관광부 장관이 6일 오후 5시 ... 이임식]",
+    "BigKinds metadata record: 머니투데이 2023-10-07 '박보균 전 장관 \"K-팝 슈퍼라이브, 세계잼버리 감동 드라마로 장식\"' (search '박보균' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:18-0400; snapshot roster/sources/culture/bigkinds_박보균_2023-10-05_2023-10-08.json) [summary: 6일 열린 이임식]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제53대 박보균 재임기간: 2022.05.13.~2023.10.06.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "연합뉴스 2023-10-06 19:31 '박보균 문체부 장관 이임식…' https://n.news.naver.com/mnews/article/001/0014245101 (accessed 2026-09-25T21:54:34-0400; snapshot roster/sources/culture/verify/news/naver_001_0014245101.html) [verifier] [summary: 6일 용산구 문체부 서울사무소에서 열린 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "21 valid-type minister rows (21 meetings) from 2022-05-17 to 2023-09-01, all inside the spell.",
+   "notes": "Nominated by 대통령당선인 윤석열 (ZZ21095). Appointed without an adopted hearing report. ko.wikipedia gives 2023-10-07 as his last day."
+  },
+  {
+   "name": "유인촌",
+   "name_hanja": "柳仁村",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1951-03-20",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2023-10-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20602호 (published 2023-10-13), 인사 notice for 유인촌(柳仁村) '유인촌(柳仁村) 국무위원에 임함 문화체육관광부장관에 보함 2023. 10. 7.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001697030397674000&tocId=I0000000000000001696843678833000&isTocOrder=N (accessed 2026-09-24T23:00:21-0400; snapshot roster/sources/culture/gazette/gazette_20602_I0000000000000001696843678833000.pdf; harvest text harvest/gazette_text/20231013_20602_I0000000000000001696843678833000.txt)",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제54대 유인촌 재임기간: 2023.10.07.~2025.07.28.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)"
+   ],
+   "end": "2025-07-30",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata record: 서울경제 2025-07-30 '유인촌 장관 퇴임…“치열하게 갈등하며 경쟁하고…안주하지 말자”<전문>' (search '유인촌' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:11:09-0400; snapshot roster/sources/culture/bigkinds_유인촌_2025-07-28_2025-07-31.json) [summary: 유인촌 문화체육관광부 장관이 ... 30일 퇴임했다]",
+    "BigKinds metadata record: 경향신문 2025-07-30 '유인촌 문체부 장관 퇴임…“두 번의 장관직, 영광”' (search '유인촌' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:11:09-0400; snapshot roster/sources/culture/bigkinds_유인촌_2025-07-28_2025-07-31.json) [summary: 30일 퇴임, 이임식]",
+    "문화체육관광부 열린장관실 역대장관 page, https://www.mcst.go.kr/usr/minister/intro/minHistory.jsp, lists '제54대 유인촌 재임기간: 2023.10.07.~2025.07.28.' (accessed 2026-09-25T07:04:44-0400; snapshot roster/sources/culture/mcst/mcst_minHistory.html)",
+    "BigKinds metadata record: 디지털타임스 2025-07-30 '‘장관만 두 번’ 유인촌 문체부 장관 퇴임' news_id 07101201.20250730162326001 (search '유인촌 퇴임' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:10:54-0400; snapshot roster/sources/culture/verify/bk/s21_end_유인촌_퇴임_2025_07_25_2025_07_31.json) [verifier] [summary: 30일 퇴임 ... 이임식]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "15 valid-type minister rows (15 meetings) from 2023-10-10 to 2024-12-24, all inside the spell.",
+   "notes": "Second, separate spell (first 2008-02-29..2011-01-27). Held over into the 이재명 presidency (2025-06-04..) until his successor was in place. Farewell ceremony and 퇴임 on the morning of 2025-07-30. Successor 최휘영 is dated 2025-07-31 in the 관보. MCST lists 2025-07-28 and ko.wikipedia 2025-07-29, both contradicted by the 07-30 reports calling him the sitting minister. The formal date his resignation was accepted was not found."
+  },
+  {
+   "name": "최휘영",
+   "name_hanja": "崔輝永",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1964-04-29",
+   "gender": "M",
+   "ministry": "문화체육관광부",
+   "office_title": "문화체육관광부장관",
+   "deputy_pm": false,
+   "start": "2025-07-31",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21057호 (published 2025-08-14), 인사 notice for 최휘영(崔輝永) '최휘영(崔輝永) 국무위원에 임함 문화체육관광부장관에 보함 2025. 7. 31.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001755046835835000&tocId=I0000000000000001754551533919000&isTocOrder=N (accessed 2026-09-24T22:59:57-0400; snapshot roster/sources/culture/gazette/gazette_21057_I0000000000000001754551533919000.pdf; harvest text harvest/gazette_text/20250814_21057_I0000000000000001754551533919000.txt)",
+    "BigKinds metadata record: 헤럴드경제 2025-07-31 '최휘영 문체부 장관 취임…“K-컬처 300조원·3000만 관광 시대 열겠다”' (search '최휘영' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:11:17-0400; snapshot roster/sources/culture/bigkinds_최휘영_2025-07-30_2025-08-01.json) [summary: 31일 정부세종청사 문체부 대강당에서 열린 취임식]"
+   ],
+   "end": null,
+   "end_confidence": null,
+   "end_sources": [
+    "연합뉴스 2026-09-25T15:00 '한국-멕시코, 문화협력 강화한다…최휘영 장관 \"뜻깊은 결실\"' https://www.yna.co.kr/view/AKR20260925029600005 (accessed 2026-09-25T13:01:45-0400; snapshot roster/sources/culture/yna_AKR20260925029600005.html) [summary: 최휘영 문화체육관광부 장관 in Mexico on 2026-09-24 local time]",
+    "연합뉴스 2026-09-20T18:27 '문체장관, 도쿄게임쇼 찾아…\"K게임 성장 돕겠다\"' https://www.yna.co.kr/view/AKR20260920045600017 (accessed 2026-09-24T22:49:38-0400; snapshot roster/sources/culture/yna_AKR20260920045600017.html) [summary: 문체장관 최휘영 at Tokyo Game Show, 2026-09-20]",
+    "연합뉴스 2026-08-30T16:23 '2기내각, 강경파·친문·범여권 전진배치…쇄신·진영통합 도모' https://www.yna.co.kr/view/AKR20260830037900001 (accessed 2026-09-24T22:48:56-0400; snapshot roster/sources/culture/yna_AKR20260830037900001.html) [summary: 8·30 개각 (2026-08-30) named six ministries, not 문화체육관광부]",
+    "뉴시스 2026-09-25 15:00 '최휘영·박진영, 멕시코 문화장관 만나…협력 확대 논의' https://n.news.naver.com/mnews/article/003/0014213446 (accessed 2026-09-25T21:55:39-0400; snapshot roster/sources/culture/verify/news/naver_003_0014213446.html) [verifier] [summary: 최휘영 문화체육관광부 장관이 멕시코 문화부 장관을 만나 양국 간 문화협력 확대 방안을 논의했다] (meeting on 24일 local time, in office at the cutoff)"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell starts after transcript coverage ends (2025-01).",
+   "notes": "ko.wikipedia gives 2025-07-30 as the 취임일. The 관보 prints 2025-07-31 and the 취임식 was held on 07-31. In office at the cutoff 2026-09-24. Not an NA member."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "신낙균",
+   "office_title": "문화관광부장관",
+   "nomination_date": "1998-03-03",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-03-03",
+   "sources": [
+    "연합뉴스 1998-03-03 12:39 '金대통령 조각발표...재경부장관에 李揆成씨(종합)' https://n.news.naver.com/mnews/article/001/0004372354 (accessed 2026-09-24T22:44:26-0400; snapshot roster/sources/culture/naver_yna_19980303_cabinet.html)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise."
+  },
+  {
+   "nominee": "박지원",
+   "office_title": "문화관광부장관",
+   "nomination_date": "1999-05-24",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1999-05-24",
+   "sources": [
+    "연합뉴스 1999-05-24 09:50 '<5.24 개각 부처 표정>-문화관광부' https://n.news.naver.com/mnews/article/001/0004508335 (accessed 2026-09-24T22:47:40-0400; snapshot roster/sources/culture/naver_001_0004508335.html)",
+    "연합뉴스 1999-05-24 11:33 '박지원 문화관광장관 일문일답' https://n.news.naver.com/mnews/article/001/0004507055 (accessed 2026-09-24T22:47:42-0400; snapshot roster/sources/culture/naver_001_0004507055.html)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise. He was told of the appointment on 1999-05-21 (일문일답)."
+  },
+  {
+   "nominee": "김한길",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2000-09-20",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-09-20",
+   "sources": [
+    "연합뉴스 2000-09-20 14:57 '문화관광부장관에 김한길씨(종합)' https://n.news.naver.com/mnews/article/001/0000027235 (accessed 2026-09-24T22:48:38-0400; snapshot roster/sources/culture/naver_001_0000027235.html)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise."
+  },
+  {
+   "nominee": "남궁진",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2001-09-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-09-19",
+   "sources": [
+    "매일경제 2001-09-19 15:46 '신임 문화관광부 장관에 남궁진씨 임명' https://n.news.naver.com/mnews/article/009/0000150634 (accessed 2026-09-24T22:55:09-0400; snapshot roster/sources/culture/naver_009_0000150634.html)",
+    "연합뉴스 2001-09-19 11:26 '문광장관 남궁진씨 내정' https://n.news.naver.com/mnews/article/001/0000100936 (accessed 2026-09-24T22:55:39-0400; snapshot roster/sources/culture/naver_001_0000100936.html) [summary: 내정 reported 19 Sep 11:26]"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise."
+  },
+  {
+   "nominee": "김성재",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2002-07-11",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-07-11",
+   "sources": [
+    "한국경제 2002-07-11 09:43 '총리서리에 장상 前이대총장(대체)' https://n.news.naver.com/mnews/article/015/0000527776 (accessed 2026-09-25T12:59:52-0400; snapshot roster/sources/culture/naver_015_0000527776.html)",
+    "오마이뉴스 2002-07-11 09:37 '새 총리에 장상 이화여대 총장' https://n.news.naver.com/mnews/article/047/0000008662 (accessed 2026-09-25T13:00:07-0400; snapshot roster/sources/culture/naver_047_0000008662.html)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise."
+  },
+  {
+   "nominee": "이창동",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "연합뉴스 2003-02-27 14:40 '<조각발표 부처표정>-문화관광부' https://n.news.naver.com/mnews/article/001/0000326672 (accessed 2026-09-25T13:00:39-0400; snapshot roster/sources/culture/naver_001_0000326672.html)",
+    "관보 제15338호 (published 2003-03-05), 인사 notice for 이창동(李滄東) '2003-02-27자', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400; snapshot roster/sources/culture/gazette/gazette_15338_00000000000000001319026541100000.pdf; harvest text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise."
+  },
+  {
+   "nominee": "정동채",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2004-06-30",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2004-07-01",
+   "sources": [
+    "관보 제15737호 (published 2004-07-06), 인사 notice for 정동채(鄭東采) '2004-07-01자', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N (accessed 2026-09-24T22:46:50-0400; snapshot roster/sources/culture/gazette/gazette_15737_00000000000000001319031615639000.pdf; harvest text harvest/gazette_text/20040706_15737_00000000000000001319031615639000.txt)",
+    "BigKinds metadata record: 세계일보 2004-07-01 '6.30 개각/3부 표정·프로필' (search '이창동' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:07:20-0400; snapshot roster/sources/culture/bigkinds_이창동_2004-06-29_2004-07-02.json)"
+   ],
+   "notes": "No NA hearing (국무위원 hearings start 2005-07-28, offices.json hearing_law_timeline). Nomination and appointment were announced the same day unless the note says otherwise. Announced in the 6·30 개각 (2004-06-30), appointed as of 2004-07-01. outcome_date is the appointment date."
+  },
+  {
+   "nominee": "김명곤",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2006-03-02",
+   "request_date": "2006-03-10",
+   "likms_bill_id": "034311 (ZZ1789)",
+   "hearing_dates": [
+    "2006-03-23"
+   ],
+   "hearing_committee": "문화관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-03-27",
+   "sources": [
+    "의안정보시스템 ZZ1789 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=034311 (제안 2006-03-10, 경과보고서채택 2006-03-24, 송부 2006-03-24; accessed 2026-09-24T22:50:38-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ1789.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 김명곤, 인사청문회, 문화관광위원회, meeting_id 34296, 2006-03-23; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "파이낸셜뉴스 2006-03-03 01:30 '4개부처 장관 교체…행자 이용섭，정통 노준형，해양 김성진，문화 김명곤' https://n.news.naver.com/mnews/article/014/0000214981 (accessed 2026-09-25T13:06:21-0400; snapshot roster/sources/culture/naver_014_0000214981.html) [summary: 3·2 개각, 2006-03-02]",
+    "관보 제16224호 (published 2006-03-31), 인사 notice for 김명곤(金明坤) '2006-03-27자', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600889216000&tocId=00000000000000001319600911791000&isTocOrder=N (accessed 2026-09-24T22:50:27-0400; snapshot roster/sources/culture/gazette/gazette_16224_00000000000000001319600911791000.pdf; harvest text harvest/gazette_text/20060331_16224_00000000000000001319600911791000.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "김종민",
+   "office_title": "문화관광부장관",
+   "nomination_date": "2007-04-19",
+   "request_date": "2007-04-27",
+   "likms_bill_id": "PRC_Q0R7X0R4Z2C7T1H4J1T0W1M6H6C2W3 (ZZ1854)",
+   "hearing_dates": [
+    "2007-05-04"
+   ],
+   "hearing_committee": "문화관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2007-05-08",
+   "sources": [
+    "의안정보시스템 ZZ1854 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q0R7X0R4Z2C7T1H4J1T0W1M6H6C2W3 (제안 2007-04-27, 제8차 전체회의 2007-05-04, 경과보고서채택 2007-05-07, 송부 2007-05-08; accessed 2026-09-24T22:50:54-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ1854.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 김종민, 인사청문회, 문화관광위원회, meeting_id 35809, 2007-05-04; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "노컷뉴스 2007-04-19 17:12 '신임 문광부 장관에 '김종민', 해수부 장관은 '강무현'' https://n.news.naver.com/mnews/article/079/0000153055 (accessed 2026-09-25T13:07:25-0400; snapshot roster/sources/culture/naver_079_0000153055.html) [summary: 내정 2007-04-19]",
+    "관보 제16504호 (published 2007-05-14), 인사 notice for 김종민(金鍾民) '2007-05-08자', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319077150868000&tocId=00000000000000001319077166146000&isTocOrder=N (accessed 2026-09-24T22:53:18-0400; snapshot roster/sources/culture/gazette/gazette_16504_00000000000000001319077166146000.pdf; harvest text harvest/gazette_text/20070514_16504_00000000000000001319077166146000.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "유인촌",
+   "office_title": "문화관광부장관 (appointed as 문화체육관광부장관)",
+   "nomination_date": "2008-02-18",
+   "request_date": "2008-02-19",
+   "likms_bill_id": "PRC_I0N8H0S2K1S9H2S3H5T5Y5F3A5E4K6 (ZZ1902)",
+   "hearing_dates": [
+    "2008-02-27"
+   ],
+   "hearing_committee": "문화관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2008-02-29",
+   "sources": [
+    "의안정보시스템 ZZ1902 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_I0N8H0S2K1S9H2S3H5T5Y5F3A5E4K6 (request by 대통령당선인, 제안 2008-02-19, 경과보고서채택 2008-02-29; accessed 2026-09-24T22:51:07-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ1902.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 유인촌, 인사청문회, 문화관광위원회, meeting_id 36856, 2008-02-27; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "연합뉴스 2008-02-18 21:11 '인수위 나서는 유인촌 문화부장관 내정자' https://n.news.naver.com/mnews/article/001/0001964819 (accessed 2026-09-25T13:07:51-0400; snapshot roster/sources/culture/naver_001_0001964819.html) [summary: 내정 2008-02-18]",
+    "관보 제16703호 (published 2008-03-06), 인사 notice for 유인촌(柳仁村) '2008-02-29자', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400; snapshot roster/sources/culture/gazette/gazette_16703_00000000000000001319081960066000.pdf; harvest text harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt)"
+   ],
+   "notes": "Nominated by 대통령당선인 이명박 under 인사청문회법 제11조의2. The request names 문화관광부장관, the post that became 문화체육관광부장관 on 2008-02-29."
+  },
+  {
+   "nominee": "신재민",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2010-08-08",
+   "request_date": "2010-08-12",
+   "likms_bill_id": "PRC_O1Q0C0Z8I1U2L1R6A3C7F2A9J4H6M9 (ZZ18102)",
+   "hearing_dates": [
+    "2010-08-24"
+   ],
+   "hearing_committee": "문화체육관광방송통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2010-08-29",
+   "sources": [
+    "의안정보시스템 ZZ18102 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O1Q0C0Z8I1U2L1R6A3C7F2A9J4H6M9 (제안 2010-08-12, 경과보고서채택 2010-08-27, 송부 2010-08-30; accessed 2026-09-24T22:51:20-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ18102.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 신재민, 인사청문회, 문화체육관광방송통신위원회, meeting_id 39682, 2010-08-24; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "연합뉴스 2010-08-08 18:15 '<인터뷰> 신재민 문화체육관광부 장관 내정자' https://n.news.naver.com/mnews/article/001/0004595634 (accessed 2026-09-25T13:08:59-0400; snapshot roster/sources/culture/naver_001_0004595634.html) [summary: 내정자 interview 2010-08-08]",
+    "연합뉴스 2010-08-29 11:34 '김태호.신재민.이재훈 후보자 전격 사퇴' https://n.news.naver.com/mnews/article/001/0004628200 (accessed 2026-09-25T13:16:32-0400; snapshot roster/sources/culture/naver_001_0004628200.html) [summary: 연합뉴스 2010-08-29: 김태호·신재민·이재훈 후보자 전격 사퇴, 대통령 수용]",
+    "YTN 2010-08-29 19:23 '김태호·신재민·이재훈 후보자 전격 사퇴' https://n.news.naver.com/mnews/article/052/0000313289 (accessed 2026-09-25T13:16:42-0400; snapshot roster/sources/culture/naver_052_0000313289.html) [summary: YTN 2010-08-29: same]"
+   ],
+   "notes": "8·8 개각 nominee. Withdrew on 2010-08-29 together with PM nominee 김태호, after the committee had adopted the report on 08-27. 유인촌 stayed in office."
+  },
+  {
+   "nominee": "정병국",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2010-12-31",
+   "request_date": "2011-01-05",
+   "likms_bill_id": "PRC_W1C1Z0V1M0P5E1W7M0E7B0W2S3B0E0 (ZZ18127)",
+   "hearing_dates": [
+    "2011-01-17"
+   ],
+   "hearing_committee": "문화체육관광방송통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2011-01-27",
+   "sources": [
+    "의안정보시스템 ZZ18127 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W1C1Z0V1M0P5E1W7M0E7B0W2S3B0E0 (접수 2011-01-05, 경과보고서채택 2011-01-19; accessed 2026-09-24T22:51:34-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ18127.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 정병국, 인사청문회, 문화체육관광방송통신위원회, meeting_id 40228, 2011-01-17; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "연합뉴스 2011-01-03 16:36 '연평도 방문한 정병국 의원' https://n.news.naver.com/mnews/article/001/0004850244 (accessed 2026-09-25T13:10:30-0400; snapshot roster/sources/culture/naver_001_0004850244.html) [summary: 연합뉴스 2011-01-03 already calls him 문화체육관광부 장관으로 내정된 정병국 의원]",
+    "뉴시스 2011-01-05 19:22 '정병국 장관 내정자, 가족 재산 10억대' https://n.news.naver.com/mnews/article/003/0003627009 (accessed 2026-09-25T13:10:12-0400; snapshot roster/sources/culture/naver_003_0003627009.html) [summary: 뉴시스 2011-01-05: 인사청문요청안 submitted 5 Jan]",
+    "관보 제17439호 (published 2011-02-01), 인사 notice for 정병국(鄭柄國) '2011. 1. 27.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319088332162000&tocId=00000000000000001319088353024000&isTocOrder=N (accessed 2026-09-24T22:56:12-0400; snapshot roster/sources/culture/gazette/gazette_17439_00000000000000001319088353024000.pdf; harvest text harvest/gazette_text/20110201_17439_00000000000000001319088353024000.txt)",
+    "BigKinds metadata record: 서울신문 2011-01-01 '감사원장 정동기·문화 정병국·지경 최중경' (search '정병국 임명' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:21:45-0400; snapshot roster/sources/culture/bigkinds_정병국_임명_2010-12-30_2011-01-01.json) [summary: 이명박 대통령은 31일 ... 문화체육관광부장관에 정병국 ... 내정]",
+    "BigKinds metadata record: 프레시안 2010-12-31 '靑 개각…감사원장에 정동기, 문화부 장관 정병국' (search '정병국 임명' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:21:45-0400; snapshot roster/sources/culture/bigkinds_정병국_임명_2010-12-30_2011-01-01.json) [summary: 31일 오전 ... 장관급 인사를 발표]"
+   ],
+   "notes": "12·31 개각 (2010-12-31)."
+  },
+  {
+   "nominee": "최광식",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2011-08-30",
+   "request_date": "2011-09-01",
+   "likms_bill_id": "PRC_D1D1K0Y9S0U1P1L9M3O3Z1F0M3A1P0 (ZZ18158)",
+   "hearing_dates": [
+    "2011-09-15"
+   ],
+   "hearing_committee": "문화체육관광방송통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2011-09-17",
+   "sources": [
+    "의안정보시스템 ZZ18158 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D1D1K0Y9S0U1P1L9M3O3Z1F0M3A1P0 (제안 2011-09-01, 경과보고서채택 2011-09-16; accessed 2026-09-24T22:51:48-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ18158.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 최광식, 인사청문회, 문화체육관광방송통신위원회, meeting_id 41001, 2011-09-15; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "연합뉴스 2011-08-30 20:04 '<프로필> 최광식 문화체육관광부 장관 내정자' https://n.news.naver.com/mnews/article/001/0005239283 (accessed 2026-09-25T13:11:36-0400; snapshot roster/sources/culture/naver_001_0005239283.html) [summary: 내정 2011-08-30]",
+    "관보 제17596호 (published 2011-09-21), 인사 notice for 최광식(崔光植) '2011. 9. 17.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001320220862521000&tocId=00000000000000001320220991219001&isTocOrder=N (accessed 2026-09-24T22:57:27-0400; snapshot roster/sources/culture/gazette/gazette_17596_00000000000000001320220991219001.pdf; harvest text harvest/gazette_text/20110921_17596_00000000000000001320220991219001.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "유진룡",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2013-02-13",
+   "request_date": "2013-02-15",
+   "likms_bill_id": "PRC_W1T3W0S2D1Y5O1L9V5B4S2E6T3W5A1 (ZZ19038)",
+   "hearing_dates": [
+    "2013-02-27"
+   ],
+   "hearing_committee": "문화체육관광방송통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2013-03-11",
+   "sources": [
+    "의안정보시스템 ZZ19038 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W1T3W0S2D1Y5O1L9V5B4S2E6T3W5A1 (request by 대통령당선인, 접수 2013-02-15, 처리 2013-02-28 '원안가결'; accessed 2026-09-24T22:52:01-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ19038.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 유진룡, 인사청문회, 문화체육관광방송통신위원회, meeting_id 42519, 2013-02-27; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "연합뉴스 2013-02-13 11:38 '새정부 교육장관 서남수ㆍ외교장관 윤병세 내정(종합)' https://n.news.naver.com/mnews/article/001/0006090997 (accessed 2026-09-25T13:13:07-0400; snapshot roster/sources/culture/naver_001_0006090997.html) [summary: 당선인 내정 2013-02-13]",
+    "관보 제17971호 (published 2013-03-14), 인사 notice for 유진룡(劉震龍) '2013. 3. 11.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:51-0400; snapshot roster/sources/culture/gazette/gazette_17971_00000000000000001363076221739000.pdf; harvest text harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt)",
+    "BigKinds metadata record: 서울신문 2013-03-01 '[장관 후보자 인사 청문회] 유진룡 문화장관 후보도 국회관문 통과' news_id 01100611.20160422095143575 and 중도일보 2013-03-01 '유진룡 청문보고서 채택' news_id 01400351.20130301203350002 (search '유진룡 청문보고서' 2013-02-27..03-02 via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:59:43-0400; snapshot roster/sources/culture/verify/bk/v2_n13_유진룡_청문보고서_2013_02_27_2013_03_02.json) [summary: 문화체육관광방송통신위원회는 28일 전체회의를 열고 유진룡 문화체육관광부 장관 후보자에 대한 인사청문경과보고서]"
+   ],
+   "notes": "likms records the committee result as '원안가결' on 2013-02-28, read here as adoption of the 경과보고서. Verifier: 서울신문 and 중도일보 (2013-03-01) confirm that the committee adopted the 경과보고서 on 2013-02-28."
+  },
+  {
+   "nominee": "정성근",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2014-06-13",
+   "request_date": "2014-06-24",
+   "likms_bill_id": "PRC_L1B4V0J6X2P4L1G3Y5B2Q2L2S7R8K9 (ZZ19118)",
+   "hearing_dates": [
+    "2014-07-10"
+   ],
+   "hearing_committee": "교육문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2014-07-16",
+   "sources": [
+    "의안정보시스템 ZZ19118 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L1B4V0J6X2P4L1G3Y5B2Q2L2S7R8K9 (접수 2014-06-24, no committee result recorded; accessed 2026-09-24T22:52:14-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ19118.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 정성근, 인사청문회, 교육문화체육관광위원회, meeting_id 44186, 2014-07-10; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "뉴시스 2014-06-13 10:28 '정성근 아리랑TV 사장, 문화체육관광부 장관 내정' https://n.news.naver.com/mnews/article/003/0005902455 (accessed 2026-09-25T13:13:45-0400; snapshot roster/sources/culture/naver_003_0005902455.html) [summary: 내정 2014-06-13]",
+    "연합뉴스 2014-07-16 10:44 '정성근 문체부 장관 후보자 자진 사퇴(종합)' https://n.news.naver.com/mnews/article/001/0007015993 (accessed 2026-09-25T13:15:33-0400; snapshot roster/sources/culture/naver_001_0007015993.html) [summary: 자진 사퇴 2014-07-16]",
+    "국민일보 2014-07-16 10:23 '정성근 문화체육관광부 장관 후보자 자진 사퇴' https://n.news.naver.com/mnews/article/005/0000675034 (accessed 2026-09-25T13:15:56-0400; snapshot roster/sources/culture/naver_005_0000675034.html) [summary: 국민일보 2014-07-16: 청문보고서 채택이 무산, president asked for 재송부 on 07-15]"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "김종덕",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2014-08-03",
+   "request_date": "2014-08-05",
+   "likms_bill_id": "PRC_Z1Z4S0B8K0S5Y2L1Q2T8P1X0I1A4K2 (ZZ19124)",
+   "hearing_dates": [
+    "2014-08-19"
+   ],
+   "hearing_committee": "교육문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2014-08-20",
+   "sources": [
+    "의안정보시스템 ZZ19124 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Z1Z4S0B8K0S5Y2L1Q2T8P1X0I1A4K2 (제안 2014-08-05, 회부 2014-08-06, 심사보고서 document listed, no 처리일 shown; accessed 2026-09-24T22:52:28-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ19124.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 김종덕, 인사청문회, 교육문화체육관광위원회, meeting_id 44292, 2014-08-19; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "BigKinds metadata record: 중도일보 2014-08-04 '문체부장관에 청주출신 김종덕 내정' (search '김종덕 내정' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:23:19-0400; snapshot roster/sources/culture/bigkinds_김종덕_내정_2014-07-28_2014-08-05.json) [summary: 박근혜 대통령은 3일 공석인 문화체육관광부 장관 후보자에 ... 김종덕 ... 내정]",
+    "BigKinds metadata record: 매일경제 2014-08-20 '김종덕 문체부장관 청문보고서 채택' (search '김종덕 청문보고서' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:22:41-0400; snapshot roster/sources/culture/bigkinds_김종덕_청문보고서_2014-08-19_2014-08-21.json) [summary: 교문위 20일 전체회의 ... 인사청문경과보고서를 채택]",
+    "관보 제18335호 (published 2014-08-26), 인사 notice for 김종덕(金鍾德) '2014. 8. 20.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001408932122784000&tocId=00000000000000001408932156531000&isTocOrder=N (accessed 2026-09-24T22:58:49-0400; snapshot roster/sources/culture/gazette/gazette_18335_00000000000000001408932156531000.pdf; harvest text harvest/gazette_text/20140826_18335_00000000000000001408932156531000.txt)"
+   ],
+   "notes": "Report adopted by agreement on 2014-08-20 and appointment dated the same day. likms leaves the committee result blank."
+  },
+  {
+   "nominee": "조윤선",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2016-08-16",
+   "request_date": "2016-08-19",
+   "likms_bill_id": "PRC_I1L6S0K8L1I9Q1L4S0R6K3Q4J3U1O5 (ZZ20015)",
+   "hearing_dates": [
+    "2016-08-31"
+   ],
+   "hearing_committee": "교육문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2016-09-05",
+   "sources": [
+    "의안정보시스템 ZZ20015 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_I1L6S0K8L1I9Q1L4S0R6K3Q4J3U1O5 (접수 2016-08-19, 제1차 전체회의 2016-09-02 '상정/의결(채택)'; accessed 2026-09-24T22:52:41-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ20015.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 조윤선, 인사청문회, 교육문화체육관광위원회, meeting_id 46358, 2016-08-31; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "뉴스1 2016-08-16 10:02 '문화체육관광부 장관에 조윤선 전 여성가족부 장관 내정' https://n.news.naver.com/mnews/article/421/0002225039 (accessed 2026-09-25T13:15:00-0400; snapshot roster/sources/culture/naver_421_0002225039.html) [summary: 뉴스1 2016-08-16: 개각, 조윤선 내정]",
+    "BigKinds metadata record: 매일경제 2016-09-04 '朴대통령, 전자결재로 조윤선·김재수·조경규 장관 임명' (search '조윤선 청문보고서' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:22:29-0400; snapshot roster/sources/culture/bigkinds_조윤선_청문보고서_2016-09-01_2016-09-05.json) [summary: 야당 ... ‘부적격’ 의견을 달아 인사청문 경과보고서를 단독 의결]",
+    "관보 제18843호 (published 2016-09-12), 인사 notice for 조윤선(趙允旋) '2016. 9. 5.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001473384514531000&tocId=00000000000000001473384557408000&isTocOrder=N (accessed 2026-09-24T22:51:00-0400; snapshot roster/sources/culture/gazette/gazette_18843_00000000000000001473384557408000.pdf; harvest text harvest/gazette_text/20160912_18843_00000000000000001473384557408000.txt)"
+   ],
+   "notes": "The report was adopted by the opposition alone with a '부적격' opinion. 박근혜 signed the appointment electronically from Hangzhou on 2016-09-04 (매일경제), and the 관보 dates the appointment 2016-09-05."
+  },
+  {
+   "nominee": "도종환",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2017-05-30",
+   "request_date": "2017-06-02",
+   "likms_bill_id": "PRC_G1F7X0A6E0R2Y1L6T2G6V4Z1M5K8J2 (ZZ20045)",
+   "hearing_dates": [
+    "2017-06-14"
+   ],
+   "hearing_committee": "교육문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2017-06-16",
+   "sources": [
+    "의안정보시스템 ZZ20045 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_G1F7X0A6E0R2Y1L6T2G6V4Z1M5K8J2 (접수 2017-06-02, 처리 2017-06-15 '채택'; accessed 2026-09-24T22:52:55-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ20045.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 도종환, 인사청문회, 교육문화체육관광위원회, meeting_id 47159, 2017-06-14; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "이데일리 2017-05-30 17:11 '[전문] 도종환 문체부 장관 후보자 지명소감' https://n.news.naver.com/mnews/article/018/0003838192 (accessed 2026-09-25T13:16:19-0400; snapshot roster/sources/culture/naver_018_0003838192.html) [summary: 이데일리 2017-05-30: 지명소감 전문]",
+    "뉴스1 2017-05-30 15:38 '도종환 문체부 장관 내정자 \"블랙리스트 재발 없게 하겠다\"' https://n.news.naver.com/mnews/article/421/0002760243 (accessed 2026-09-25T13:16:31-0400; snapshot roster/sources/culture/naver_421_0002760243.html) [summary: 뉴스1 2017-05-30]",
+    "BigKinds metadata record: 영남일보 2017-06-16 '김부겸·김영춘·도종환 후보자 청문보고서 채택' (search '도종환 청문보고서' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:23:29-0400; snapshot roster/sources/culture/bigkinds_도종환_청문보고서_2017-06-14_2017-06-16.json) [summary: 15일 채택]",
+    "관보 제19036호 (published 2017-06-23), 인사 notice for 도종환(都鐘煥) '2017.6.16.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N (accessed 2026-09-24T22:59:22-0400; snapshot roster/sources/culture/gazette/gazette_19036_00000000000000001498090378815000.pdf; harvest text harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt)",
+    "BigKinds metadata records: 무등일보 2017-05-31 news_id 01600501.20170531223031002, 대구일보 2017-05-31 news_id 01500501.20170531213831001, 경기일보 2017-05-31 news_id 01200101.20170531222322001 (search '도종환 문체부 장관 후보자' 2017-05-29..05-31 via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:01:59-0400; snapshot roster/sources/culture/verify/bk/v2_n17_도종환_문체부_장관_후보자_2017_05_29_2017_05_31.json) [summary: 문재인 대통령은 30일 ... 문화체육관광부 장관에 도종환 의원 ... 을 내정]"
+   ],
+   "notes": "연합뉴스 (2017-05-30 15:14, naver_001_0009302066.html) writes '29일' in the body, which conflicts with the other 05-30 reports. Verifier: 무등일보, 대구일보 and 경기일보 (2017-05-31, via BigKinds) all date the announcement 30일, so 2017-05-30 stands."
+  },
+  {
+   "nominee": "박양우",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2019-03-08",
+   "request_date": "2019-03-13",
+   "likms_bill_id": "PRC_N1Z9Z0V3W1D3L1P7A2X2L3J3R9Y1G1 (ZZ20255)",
+   "hearing_dates": [
+    "2019-03-26"
+   ],
+   "hearing_committee": "문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2019-04-03",
+   "sources": [
+    "의안정보시스템 ZZ20255 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_N1Z9Z0V3W1D3L1P7A2X2L3J3R9Y1G1 (접수 2019-03-13, 제2차 전체회의 2019-03-26 '상정/대체토론', 경과보고서채택 2019-04-01; accessed 2026-09-24T22:53:08-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ20255.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 박양우, 인사청문회, 문화체육관광위원회, meeting_id 49032, 2019-03-26; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "동아일보 2019-03-08 11:31 '文대통령, ‘행정안전부 진영’ ‘중소벤처기업부 박영선’ 7개 부처 장관 지명' https://n.news.naver.com/mnews/article/020/0003203180 (accessed 2026-09-25T13:17:24-0400; snapshot roster/sources/culture/naver_020_0003203180.html) [summary: 동아일보 2019-03-08: 7개 부처 장관 지명]",
+    "관보 제19482호 (published 2019-04-16), 인사 notice for 박양우(朴良雨) '2019.4.3.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001555309836251000&tocId=00000000000000001555373338024000&isTocOrder=N (accessed 2026-09-24T22:59:37-0400; snapshot roster/sources/culture/gazette/gazette_19482_00000000000000001555373338024000.pdf; harvest text harvest/gazette_text/20190416_19482_00000000000000001555373338024000.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "황희",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2021-01-20",
+   "request_date": "2021-01-22",
+   "likms_bill_id": "PRC_R2V1A0M1U2B2N1S7E0N3J0R1C9U8Q4 (ZZ21043)",
+   "hearing_dates": [
+    "2021-02-09"
+   ],
+   "hearing_committee": "문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2021-02-11",
+   "sources": [
+    "의안정보시스템 ZZ21043 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_R2V1A0M1U2B2N1S7E0N3J0R1C9U8Q4 (제안 2021-01-22, 회부 2021-01-25, 제2차 전체회의 2021-02-09 '상정/대체토론', 경과보고서채택 2021-02-10; accessed 2026-09-24T22:53:22-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ21043.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 황희, 인사청문회, 문화체육관광위원회, meeting_id 50761, 2021-02-09; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "한겨레 2021-01-22 20:25 '정의용, 한남동 빌라 등 21억…황희 ‘아파트 전세’ 등 6억대 신고' https://n.news.naver.com/mnews/article/028/0002529836 (accessed 2026-09-25T13:17:50-0400; snapshot roster/sources/culture/naver_028_0002529836.html) [summary: 한겨레 2021-01-22: 인사청문요청안 '지명된 지 이틀 만인 22일' 접수]",
+    "BigKinds metadata record: 서울신문 2021-02-10 '박양우 문체부 장관 “온전한 회복 못 보고 떠나 마음에 걸려”' (search '박양우' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:10:24-0400; snapshot roster/sources/culture/bigkinds_박양우_2021-02-09_2021-02-12.json) [summary: 10일 국회 문화체육관광위원회가 황희 장관 후보자에 대한 인사청문경과보고서를 채택]",
+    "관보 제19943호 (published 2021-02-19), 인사 notice for 황희(黃熙) '2021. 2. 11.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001613606346551000&tocId=00000000000000001613606350473000&isTocOrder=N (accessed 2026-09-24T22:59:59-0400; snapshot roster/sources/culture/gazette/gazette_19943_00000000000000001613606350473000.pdf; harvest text harvest/gazette_text/20210219_19943_00000000000000001613606350473000.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "박보균",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2022-04-10",
+   "request_date": "2022-04-14",
+   "likms_bill_id": "PRC_S2Q2F0Z4Y1F4K1P7Y0T3V1F8U4I4V7 (ZZ21095)",
+   "hearing_dates": [
+    "2022-05-02"
+   ],
+   "hearing_committee": "문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-13",
+   "sources": [
+    "의안정보시스템 ZZ21095 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S2Q2F0Z4Y1F4K1P7Y0T3V1F8U4I4V7 (request by 대통령당선인, 제안 2022-04-14, 제1차 전체회의 2022-05-02 '상정/대체토론', no committee result; accessed 2026-09-24T22:53:36-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ21095.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 박보균, 인사청문회, 문화체육관광위원회, meeting_id 51851, 2022-05-02; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "매일경제 2022-04-14 15:06 '尹 당선인, 노동 이정식·농림 정황근 장관 후보 지명[종합]' https://n.news.naver.com/mnews/article/009/0004949708 (accessed 2026-09-25T13:18:52-0400; snapshot roster/sources/culture/naver_009_0004949708.html) [summary: 매일경제 2022-04-14: 윤 당선인은 지난 10일 1차 내각 발표에서 문화체육관광부 장관에 박보균]",
+    "아시아경제 2022-05-13 18:58 '尹 대통령, 권영세·박보균·원희룡 장관 임명' https://n.news.naver.com/mnews/article/277/0005088697 (accessed 2026-09-25T13:13:30-0400; snapshot roster/sources/culture/naver_277_0005088697.html) [summary: 아시아경제 2022-05-13: 청문보고서가 채택되지 않은 박보균 ... 재송부 요청 후 임명]",
+    "관보 제20255호 (published 2022-05-23), 인사 notice for 박보균(朴普均) '2022. 5. 13.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/culture/gazette/gazette_20255_I0000000000000001652659816213000.pdf; harvest text harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt)"
+   ],
+   "notes": "Nominated by 대통령당선인 윤석열. Appointed after the President asked the Assembly to re-send the report (인사청문회법 제6조③) and none was sent."
+  },
+  {
+   "nominee": "유인촌",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2023-09-13",
+   "request_date": "2023-09-15",
+   "likms_bill_id": "PRC_X2J3B0V9W1G5Q1L6Z4H8F5A4A3O4Q9 (ZZ21166)",
+   "hearing_dates": [
+    "2023-10-05"
+   ],
+   "hearing_committee": "문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-10-07",
+   "sources": [
+    "의안정보시스템 ZZ21166 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_X2J3B0V9W1G5Q1L6Z4H8F5A4A3O4Q9 (제안 2023-09-15, 회부 2023-09-18, 제4차 전체회의 2023-10-05, 경과보고서채택 2023-10-06; accessed 2026-09-24T22:53:49-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ21166.html.txt)",
+    "kr-hearings-data v9 transcript row (nominee_hearing_meetings.csv: 유인촌, 인사청문회, 문화체육관광위원회, meeting_id 53280, 2023-10-05; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "한겨레 2023-09-13 15:17 '문체부 장관 후보에 유인촌…국방 신원식·여성가족 김행' https://n.news.naver.com/mnews/article/028/0002656402 (accessed 2026-09-25T13:21:42-0400; snapshot roster/sources/culture/naver_028_0002656402.html) [summary: 한겨레 2023-09-13: 문체부 장관 후보에 유인촌 지명]",
+    "BigKinds metadata record: 세계일보 2023-10-07 '신원식 국방장관 임명… 홍범도에 수여된 '육사 명예졸업장' 재검토하나' (search '유인촌 청문보고서' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:22:53-0400; snapshot roster/sources/culture/bigkinds_유인촌_청문보고서_2023-10-05_2023-10-07.json) [summary: 국회에서 여야 합의로 인사청문 경과보고서가 채택된 유 장관]",
+    "BigKinds metadata record: 데일리안 2023-10-07 '尹대통령, 신원식 국방·유인촌 문체부 장관 임명 재가' (search '유인촌 청문보고서' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:22:53-0400; snapshot roster/sources/culture/bigkinds_유인촌_청문보고서_2023-10-05_2023-10-07.json) [summary: 오늘(10월 7일) 자로 임명하는 안을 재가]",
+    "관보 제20602호 (published 2023-10-13), 인사 notice for 유인촌(柳仁村) '2023. 10. 7.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001697030397674000&tocId=I0000000000000001696843678833000&isTocOrder=N (accessed 2026-09-24T23:00:21-0400; snapshot roster/sources/culture/gazette/gazette_20602_I0000000000000001696843678833000.pdf; harvest text harvest/gazette_text/20231013_20602_I0000000000000001696843678833000.txt)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "최휘영",
+   "office_title": "문화체육관광부장관",
+   "nomination_date": "2025-07-11",
+   "request_date": "2025-07-16",
+   "likms_bill_id": "PRC_O2T5U0U7W1R6Q1A7E5V4D5V2R6I0E2 (ZZ22070)",
+   "hearing_dates": [
+    "2025-07-29"
+   ],
+   "hearing_committee": "문화체육관광위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-31",
+   "sources": [
+    "의안정보시스템 ZZ22070 https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O2T5U0U7W1R6Q1A7E5V4D5V2R6I0E2 (제안 2025-07-16, 회부 2025-07-17, 제2차 전체회의 2025-07-29, 경과보고서채택 2025-07-30; accessed 2026-09-24T22:54:03-0400; snapshot roster/sources/culture/likms/likms_detail_ZZ22070.html.txt)",
+    "지디넷코리아 2025-07-30 15:00 '국회, 최휘영 문체부 장관 후보자 청문보고서 여야 합의 채택' https://n.news.naver.com/mnews/article/092/0002384135 (accessed 2026-09-25T13:14:57-0400; snapshot roster/sources/culture/naver_092_0002384135.html) [summary: 지디넷코리아 2025-07-30: 29일 인사청문회, 30일 경과보고서 여야 합의 채택]",
+    "세계일보 2025-07-30 15:57 '국회, 김윤덕·최휘영 인사청문보고서 채택' https://n.news.naver.com/mnews/article/022/0004055992 (accessed 2026-09-25T13:14:28-0400; snapshot roster/sources/culture/naver_022_0004055992.html) [summary: 세계일보 2025-07-30: 보고서 채택]",
+    "BigKinds metadata record: 비즈워치 2025-07-16 '놀유니버스, 최휘영 빠지고 배보찬 단독대표로' (search '최휘영 지명' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:23:09-0400; snapshot roster/sources/culture/bigkinds_최휘영_지명_2025-07-10_2025-07-16.json) [summary: 지난 11일 문체부 장관 후보자로 지명]",
+    "관보 제21057호 (published 2025-08-14), 인사 notice for 최휘영(崔輝永) '2025. 7. 31.', https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001755046835835000&tocId=I0000000000000001754551533919000&isTocOrder=N (accessed 2026-09-24T22:59:57-0400; snapshot roster/sources/culture/gazette/gazette_21057_I0000000000000001754551533919000.pdf; harvest text harvest/gazette_text/20250814_21057_I0000000000000001754551533919000.txt)"
+   ],
+   "notes": "Hearing held 2025-07-29, after transcript coverage ends, so the hearing date rests on likms and news."
+  }
+ ],
+ "acting": [
+  {
+   "name": "김종민",
+   "role": "문화체육부 차관, ran 문화관광부 business while the minister's post was vacant (instructed to act in his vice-ministerial role, no 결재 authority, no formal 직무대행 designation found)",
+   "from": "1998-02-28",
+   "to": "1998-03-02",
+   "sources": [
+    "BigKinds metadata record: 매일신문 1998-02-24 '한국선수단 나가노 영관안고 개선' (search '문화체육부 차관' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:09:30-0400; snapshot roster/sources/culture/bigkinds_문화체육부_차관_1998-02-20_1998-03-05.json) [summary: 김종민 문화체육부 차관]",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effective.html) [summary: 청와대: 기관장이 자동면직되는 7개부 ... 현재의 차관이 행정편의상 차관역할]",
+    "연합뉴스 1998-02-28 15:30 '<새 정부조직법 발효와 공직사회 파장>-1' https://n.news.naver.com/mnews/article/001/0004300892 (accessed 2026-09-24T22:44:48-0400; snapshot roster/sources/culture/naver_yna_19980228_govorg_law_effect_civilservice.html) [summary: 차관들이 ... 부처를 관장하겠지만 ... 결재 도장은 찍지 못하기 때문]"
+   ],
+   "notes": "De facto caretaker, not a formal 직무대행. 경향신문 1998-03-02 (BigKinds 01100101.19980302000000210) reports that the seven renamed ministries, 문화관광부 among them, ran with neither 장관 nor 차관, since 법률 제5529호 부칙 제3조② also excluded the 정무직 vice ministers from the staff transfer. 연합뉴스 (1998-02-28) says the sitting vice ministers kept the ministries running without 결재 authority."
+  },
+  {
+   "name": "김종",
+   "role": "문화체육관광부 제2차관, 장관 직무대행",
+   "from": "2014-07-17",
+   "to": "2014-07-24",
+   "sources": [
+    "BigKinds metadata record: 아시아투데이 2014-07-24 '보다 정확한 공연예술 박스오피스 현황 발표된다' (search '김종 직무대행' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:25:09-0400; snapshot roster/sources/culture/bigkinds_김종_직무대행_2014-07-17_2014-07-26.json) [summary: 문화체육관광부(장관 직무대행 김종)]",
+    "BigKinds metadata record: 프레시안 2014-07-18 '새 문체부장관 지명 임박…김정기 한양대 교수 유력' (search '유진룡 면직' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:08:14-0400; snapshot roster/sources/culture/bigkinds_유진룡_면직_2014-07-15_2014-07-18.json) [summary: 조현채 1차관도 ... 사표를 제출해 문체부는 장관과 1차관이 공석 ... 김종 2차관이 장관..]",
+    "연합뉴스 2014-07-17 09:01 '朴대통령, 서남수 교육·유진룡 문화에 면직 통보' https://n.news.naver.com/mnews/article/001/0007018127 (accessed 2026-09-25T13:11:29-0400; snapshot roster/sources/culture/naver_001_0007018127.html) [summary: 연합뉴스 2014-07-17: 문체부 당분간 차관 대행 체제]"
+   ],
+   "notes": "End inferred from 김희범's appointment as 제1차관 (reported 2014-07-25)."
+  },
+  {
+   "name": "김희범",
+   "role": "문화체육관광부 제1차관, 장관 직무대행",
+   "from": "2014-07-25",
+   "to": "2014-08-19",
+   "sources": [
+    "노컷뉴스 2014-07-25 15:46 '김희범 문체부 제1차관 프로필' https://n.news.naver.com/mnews/article/079/0002621713 (accessed 2026-09-25T13:19:25-0400; snapshot roster/sources/culture/naver_079_0002621713.html) [summary: 노컷뉴스 2014-07-25: 김희범 제1차관 임명]",
+    "연합뉴스 2014-08-04 09:55 '문체부, 지역 현장서 R&D수요 의견 수렴' https://n.news.naver.com/mnews/article/001/0007049850 (accessed 2026-09-25T13:17:38-0400; snapshot roster/sources/culture/naver_001_0007049850.html) [summary: 연합뉴스 2014-08-04: 문화체육관광부(장관 직무대행 김희범)]",
+    "kr-hearings-data v9 transcript row (minister_role_meetings.csv: speaker '문화체육관광부장관직무대행 김희범', 교육문화체육관광위원회, 2014-08-08 and 2014-08-19; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "관보 제18318호 (published 2014-07-31), 인사발령(안전행정부) toc_seq 00000000000000001406680855407000, '김희 범(金熙範 ) 문화체 관광부 제1차관에 임함 육 2014. 7. 25.' (literal text layer of the item PDF, which scatters the characters of the printed line naming 김희범 (金熙範) as 문화체육관광부 제1차관 as of 2014. 7. 25.; text saved at roster/sources/culture/verify/gazette_18318_00000000000000001406680855407000.pdf.txt), https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001406680788265000&tocId=00000000000000001406680855407000&isTocOrder=N (accessed 2026-09-24T22:58:28-0400; snapshot roster/sources/culture/verify/gazette_18318_00000000000000001406680855407000.pdf)"
+   ],
+   "notes": "Start is the 관보 date of his appointment as 제1차관 (관보 제18318호, 2014-07-31: '김희 범(金熙範 ) 문화체 관광부 제1차관에 임함 육 2014. 7. 25.' (literal text layer of the item PDF, which scatters the characters of the printed line naming 김희범 (金熙範) as 문화체육관광부 제1차관 as of 2014. 7. 25.; text saved at roster/sources/culture/verify/gazette_18318_00000000000000001406680855407000.pdf.txt)), the same day it was reported. End is the day before the appointment of 김종덕 (2014-08-20)."
+  },
+  {
+   "name": "송수근",
+   "role": "문화체육관광부 제1차관, 장관 직무대행",
+   "from": "2017-01-21",
+   "to": "2017-06-06",
+   "sources": [
+    "뉴시스 2017-01-23 15:51 ''블랙리스트 총괄 의혹' 송수근 장관대행 \"총괄한 적 없어\"' https://n.news.naver.com/mnews/article/003/0007730784 (accessed 2026-09-25T13:19:45-0400; snapshot roster/sources/culture/naver_003_0007730784.html) [summary: 뉴시스 2017-01-23: 송수근 문화체육관광부 제1차관 겸 장관 직무대행]",
+    "JTBC 2017-01-23 08:03 ''블랙리스트 사과' 나선 문체부…장관 대행마저 논란' https://n.news.naver.com/mnews/article/437/0000145272 (accessed 2026-09-25T13:19:58-0400; snapshot roster/sources/culture/naver_437_0000145272.html) [summary: JTBC 2017-01-23: 현직 장관이 구속된 상황에서 장관 직무대행을 맡고 있는 송수근 차관]",
+    "BigKinds metadata record: 헤럴드경제 2017-06-05 '한콘진, K-스토리 통해 한·중 문화교류 해빙 나선다' (search '장관 직무대행 송수근' via https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:25:03-0400; snapshot roster/sources/culture/bigkinds_장관_직무대행_송수근_2017-05-10_2017-06-16.json) [summary: 문화체육관광부(장관 직무대행 송수근)]",
+    "kr-hearings-data v9 transcript row (minister_role_meetings.csv: speaker '문화체육관광부장관직무대행 송수근', 2017-02-14 .. 2017-03-23; file _rebuild/inputs/minister_role_meetings.csv or nominee_hearing_meetings.csv)",
+    "관보 제18923호 (published 2017-01-06), '송수근(宋秀根) 문화체육관광부 제1차관에 임함 2016.12.30.' (harvest/gazette_text/20170106_18923_00000000000000001483569749118000.txt)",
+    "관보 제19036호 (published 2017-06-23), '나종민(羅棕珉) 문화체육관광부 제1차관에 임함 2017.6.7.' (harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt, viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N, fetched 2026-09-24T22:59:22-0400) [successor as 제1차관, ends his acting period]"
+   ],
+   "notes": "Start is the day the resignation of 조윤선 was accepted. He had been 제1차관 since 2016-12-30 (관보 제18923호, '송수근(宋秀根) 문화체육관광부 제1차관에 임함 2016.12.30.'). Still acting on 2017-06-05 (헤럴드경제). End inferred from the appointment of 나종민 as 제1차관 as of 2017-06-07 (관보 제19036호), announced 2017-06-06."
+  },
+  {
+   "name": "나종민",
+   "role": "문화체육관광부 제1차관, 장관 직무대행",
+   "from": "2017-06-07",
+   "to": "2017-06-15",
+   "sources": [
+    "관보 제19036호 (published 2017-06-23), '나종민(羅棕珉) 문화체육관광부 제1차관에 임함 2017.6.7.' (harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt, viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N, fetched 2026-09-24T22:59:22-0400)",
+    "뉴시스 2017-06-12 11:43 '나종민 문체부차관 \"민간 위주 블랙리스트 조사위 구성\" 주문' https://n.news.naver.com/mnews/article/003/0008006236 (accessed 2026-09-25T21:57:46-0400; snapshot roster/sources/culture/verify/news/naver_003_0008006236.html) [summary: 나 차관은 현재 문화체육관광부 장관 직무대행도 맡고 있다]",
+    "정책브리핑 2017-06-15 08:55 '지역문화 자치를 실현할 차세대 문화활동가 양성' https://n.news.naver.com/mnews/article/298/0000221750 (accessed 2026-09-25T21:57:53-0400; snapshot roster/sources/culture/verify/news/naver_298_0000221750.html) [summary: 문화체육관광부(장관 직무대행 제1차관 나종민, 이하 문체부)는]",
+    "뉴스1 2017-06-16 09:23 https://n.news.naver.com/mnews/article/421/0002789420 (accessed 2026-09-25T21:57:49-0400; snapshot roster/sources/culture/verify/news/naver_421_0002789420.html) [summary: 문화체육관광부(장관 직무대행 제1차관 나종민)는 16일] (press release of the day 도종환 was appointed)"
+   ],
+   "notes": "Added by the verifier. Start is the 관보 date of his appointment as 제1차관 (announced 2017-06-06, first day at the ministry 06-08 per 국민일보 2017-06-08). End is the day before the appointment of 도종환 (2017-06-16). The acting period of 송수근 ends 2017-06-06."
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "1998 transition. 법률 제5529호 took effect on 1998-02-28 (promulgated that afternoon). 공보처 was abolished and 문화체육부 became 문화관광부. 연합뉴스 (1998-02-28) lists 문화관광부 among the seven ministries whose heads were vacant, and 부칙 제3조② excludes 정무직 from the staff transfer, so 송태호 and 오인환 end on 1998-02-27 with no reorg continuation. MCST and ko.wikipedia instead run 송태호 to 1998-03-02. If the researcher treats 송태호 as de facto 문화관광부장관 for 02-28..03-02, add a reorg_continuation spell."
+  },
+  {
+   "severity": "medium",
+   "desc": "MCST 역대장관 dates usually set the outgoing minister's last day to the day before the successor's start. Where contemporaneous news shows a same-day exit (이임식 or 사표 수리 on the successor's appointment day), the roster uses a same-day handover: 신낙균 1999-05-24, 박지원 2000-09-20, 김한길 2001-09-19, 최광식 2013-03-11, 김종덕 2016-09-05, 도종환 2019-04-03. 김성재 2003-02-27, 유인촌 2011-01-27 and 황희 2022-05-13 are inferred from the successor."
+  },
+  {
+   "severity": "medium",
+   "desc": "For 정동채, MCST and ko.wikipedia give 2006-03-06 as his last day, but news shows him acting as minister through 2006-03-20 and leaving office on 2006-03-24 (전자신문 2006-03-25, 중앙일보 2006-03-24 via BigKinds). End set to 03-24. The formal date his resignation was accepted was not found, so 03-25..03-26 (a weekend) show as a vacancy before 김명곤 (03-27)."
+  },
+  {
+   "severity": "medium",
+   "desc": "남궁진's resignation was accepted on the afternoon of 2002-07-08 to run in the 8·8 재보선 (서울신문, 인천일보 2002-07-09 via BigKinds). MCST and ko.wikipedia give 2002-07-10. Vacancy 2002-07-09..07-10. No 장관 직무대행 designation was found for these two days (차관 윤형규 was in office)."
+  },
+  {
+   "severity": "medium",
+   "desc": "박지원 start 1999-05-24: the 5·24 개각 was announced that morning, the new ministers received their 임명장 that afternoon (연합뉴스 1999-05-24 17:12, 중앙일보 1999-05-25) and 신낙균 held her farewell that day. MCST and ko.wikipedia list 1999-05-23, which no contemporaneous report supports. No 관보 file exists for 1999. start_confidence raised to high by the verifier (the builder's reading of a 05-26 임명장 ceremony was not supported)."
+  },
+  {
+   "severity": "medium",
+   "desc": "유진룡 end 2014-07-17: 연합뉴스, 뉴시스 and 대구일보 report that the President decided and notified the 면직 on 07-17. MCST and ko.wikipedia list 2014-07-16. The effective date on the 면직 order itself was not found."
+  },
+  {
+   "severity": "medium",
+   "desc": "황희 held his farewell on 2022-05-09, but 문재인 accepted only three ministers' resignations that day and not his, so he remained minister after 윤석열 took office. The date his resignation was accepted was not found. End set to 2022-05-13 (inferred from 박보균). MCST lists 05-12 and ko.wikipedia 05-10. The same question affects other 문재인 ministers who were not released on 05-09."
+  },
+  {
+   "severity": "medium",
+   "desc": "유인촌 (second spell) end 2025-07-30: 퇴임 and 이임식 on the morning of 07-30 per more than ten outlets (BigKinds). MCST lists 2025-07-28 and ko.wikipedia 2025-07-29. Successor 최휘영 is dated 2025-07-31 in 관보 제21057호, while ko.wikipedia gives 07-30 as his 취임일."
+  },
+  {
+   "severity": "low",
+   "desc": "김종민 end 2008-02-28: 법률 제8852호 took effect on 2008-02-29 and 부칙 제2조② excludes 정무직, so the office 문화관광부 ended then. He held his farewell on the afternoon of 02-29, the day 유인촌 was appointed to the new 문화체육관광부. The end follows the ministry-name boundary. 유인촌 was nominated for 문화관광부장관 (ZZ1902) but appointed only to 문화체육관광부, so no spell carries reorg_continuation=true. The 2013 정부조직법 (법률 제11690호, effective 2013-03-23) kept the name 문화체육관광부. It took effect during 유진룡's spell (from 2013-03-11) and does not split it."
+  },
+  {
+   "severity": "low",
+   "desc": "Start dates that differ from secondary lists because the roster uses the 관보 date: 최광식 2011-09-17 (임명장 09-19, ko.wikipedia 09-20), 김종덕 2014-08-20 (ko.wikipedia 08-21), 조윤선 2016-09-05 (전자결재 reported 09-04), 최휘영 2025-07-31 (ko.wikipedia 07-30). 송태호's 1997 start uses the 임명장 day 1997-03-06 (개각 announced 03-05)."
+  },
+  {
+   "severity": "low",
+   "desc": "공보처 has lineage_key null in offices.json (missing_from_plan). It is folded into culture here as instructed. Its only in-window holder is the YS holdover 오인환 (1998-02-25..02-27). The later 공보실 (1998) and 국정홍보처 (1999-2008) heads were not 국무위원 and are excluded."
+  },
+  {
+   "severity": "low",
+   "desc": "Birth dates not found in tier 1-3 sources for 오인환, 송태호 and 김성재 (no ko.wikipedia articles). 조윤선's birth date is 1966-07-22 in the NA member file and 1965-07-22 on ko.wikipedia. Other birth dates come from ko.wikipedia person pages (snapshots in sources/culture/wiki_people/) and agree with the NA file where the person was an NA member. name_en was not filled for anyone."
+  },
+  {
+   "severity": "low",
+   "desc": "정병국's nomination was announced 2010-12-31, before the 2011-01-05 request. The 1998-2004 appointments needed no hearing and are listed as nominations with hearing_required=false. 신재민 (2010) and 정성근 (2014) withdrew after their hearings."
+  },
+  {
+   "severity": "low",
+   "desc": "Transcript cross-check used only 상임위원회, 국정감사 and 인사청문특별위원회 rows (390 minister rows for this lineage after dropping 후보자/직무대행/차관 speakers). No row falls outside a spell. 26 rows of type 국회본회의, 예산결산특별위원회 or 국정조사 were ignored. They include the misattached dates listed in audit/coverage_gaps.csv for 정동채 (2000), 김명곤 (2001), 김종민 (2003), 도종환 (2011-2013), 조윤선 (2012), 박양우 (2014-2015), 유인촌 (2014, 2018), 황희 (2016) and 박보균 (2016-2017). The coverage-gap leads 박지원, 김한길, 남궁진 and 김성재 (absent from the old panel) are now spells, and the old panel's early end dates for 정동채, 김명곤, 유인촌 and 김종덕 are corrected. 박량우 (관광국장) and the 국무총리실 정책관 rows are not ministers."
+  },
+  {
+   "severity": "low",
+   "desc": "The 2025-2026 check found no culture nominee after 최휘영 in the 연합뉴스 search (last 12 months). The 8·30 개각 of 2026-08-30 named six ministries and not 문화체육관광부, and 최휘영 was acting as minister on 2026-09-20 and 2026-09-24 (local time in Mexico)."
+  },
+  {
+   "severity": "low",
+   "desc": "Late in the session Naver News searches began returning zero results for queries that should match (possible rate limiting). Those questions were answered from BigKinds metadata instead. BigKinds records are metadata snippets, not full articles."
+  },
+  {
+   "severity": "low",
+   "desc": "Day-level continuity for 문화체육부 → 문화관광부 → 문화체육관광부 from 1998-02-25 to 2026-09-24 shows no overlaps and 9 same-day handovers. The vacancies are as follows: 1998-02-28..1998-03-02 (3 days between 송태호 and 신낙균), 2002-07-09..2002-07-10 (2 days between 남궁진 and 김성재), 2006-03-25..2006-03-26 (2 days between 정동채 and 김명곤), 2014-07-18..2014-08-19 (33 days between 유진룡 and 김종덕), 2017-01-22..2017-06-15 (145 days between 조윤선 and 도종환). Acting heads for the vacancies are in 'acting' where a source names them. Verifier: the 2017 vacancy had two acting heads. 송수근 (제1차관) acted from 2017-01-21 to 2017-06-06, and 나종민 acted from his appointment as 제1차관 on 2017-06-07 (관보 제19036호) to 2017-06-15. In 2014 the 제1차관 appointment of 김희범 is dated 2014-07-25 in 관보 제18318호."
+  },
+  {
+   "severity": "medium",
+   "desc": "Verifier: the acting list ran 송수근 to 2017-06-15, but 나종민 was appointed 제1차관 as of 2017-06-07 (관보 제19036호) and was 장관 직무대행 until 도종환 took office (뉴시스 2017-06-12, 정책브리핑 2017-06-15). 송수근 now ends 2017-06-06 (inferred) and 나종민 is added."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier: the builder's note that the 5·24 개각 ministers received their 임명장 on 1999-05-26 is contradicted by 연합뉴스 1999-05-24 17:12 and 중앙일보 1999-05-25, which report the 임명장 on 05-24. 박지원 start stays 1999-05-24 with high confidence."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier: some harvested gazette texts are scrambled by the PDF layout (관보 제18318호, 2014-07-31, where the name 김희범 does not appear contiguously). A text grep of the harvest can therefore miss a notice. The gazette keyword index found this one. No culture 장관 appointment notice is affected, since all 18 read cleanly."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier: the end dates of 김성재 (2003-02-27), 유인촌 (2011-01-27) and 황희 (2022-05-13) remain inferred from the successor's appointment. For 황희, 헤럴드경제 2022-05-11 and 이데일리 2022-05-12 confirm his resignation had not been accepted as of 05-11. For 정동채 (2006-03-24) the day he left is reported but the acceptance date is not, so end_confidence stays medium."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T22:10:49-0400",
+  "verifier": "adversarial verifier, lineage culture (second pass)",
+  "state": "complete",
+  "input_file": "roster/culture.json",
+  "input_built_at": "2026-09-25T21:31:54-0400",
+  "steps_done": [
+   "Resumed from culture.verified.partial.json (14:03, built against culture.json of 13:31). Spells and nominations are identical to the current culture.json (21:31). Only the text of issue 8 changed.",
+   "Step 1 gazette: grep of all 2,709 harvested 인사 texts (harvest complete, GAZETTE_DONE 2026-09-25T13:06) for 문화관광부장관, 문화체육관광부장관, 문화체육부장관 and 공보처장관 (letter-space tolerant) and for any '국무위원에 임함' followed by a culture-related post. 18 appointment notices found (2001-09-19 .. 2025-07-31), each maps to one spell. All 18 notices were re-read in the text, including the section headers of 제15338호 (◉2003년 2 월27일자) and 제16703호 (⊙2008년 2월 29일자). The parser CSV gives the same 18 records.",
+   "Step 1 independent list: Namu Wiki 문화체육관광부장관 (not cited by the builder) lists the same 21 문화관광부/문화체육관광부 holders plus the YS holders 오인환 (공보처) and 송태호 (문화체육부). Its dates copy the MCST list and were not used to decide any date.",
+   "Step 3 transcripts: own script culture_verify2_transcripts.py. 390 valid-type minister rows (상임위원회, 국정감사, 인사청문특별위원회), none outside the named person's spell, no unnamed row in a vacancy, no ministry-name mismatch, 26 invalid-type rows ignored. Acting rows (김희범 2014-08-08 and 08-19, 송수근 2017-02-14 .. 03-23) lie in the two long vacancies. The 15 nominee hearing rows match the builder's hearing_dates.",
+   "Step 5 likms: harvest has 16 인사청문요청안 for these offices. An independent likms title search (문화체육관광부장관, 문화관광부장관, terms 15-22) returns the same 16 plus the 박지원 해임건의안 (152142, 부결 1999-10-22). All 16 are in the builder's nominations with matching request dates, hearing dates and committee results.",
+   "Step 1 completeness: holdovers at every transition were checked (1998 오인환 and 송태호 to 02-27, 2003 김성재 to 02-27, 2008 김종민 to 02-28, 2013 최광식 to 03-11, 2017 none because the post was vacant, 2022 황희 to 05-13, 2025 유인촌 to 07-30). Election exits: 김한길 (2001-10-25 재선거) and 남궁진 (2002 8·8 재보선) are coded resigned_to_run. No culture minister left to run in the 2000-2024 general elections, the 2002-2026 local elections or the 2026-06-03 by-elections (최휘영 in office on 2026-09-24). No ministry rename splits a tenure (1998 and 2008 renames coincide with vacancies or new appointments, and the 2013 act kept 문화체육관광부). No holder is missing and none should be removed.",
+   "Step 2 dates: every end date (22 spells with an end) and the five pre-2001 starts were re-checked with sources the builder did not cite (other outlets via BigKinds and Naver, successor gazette notices, law-effective reports). All 18 gazette-backed starts were re-read in the gazette text. No start or end date changed. 박지원 start_confidence was raised to high because the 임명장 were given on 1999-05-24, not 05-26 as the builder's note said.",
+   "Step 4 continuity (culture_verify2_continuity.py): no overlaps, 9 same-day handovers, 5 gaps, all explained. 1998-02-28..03-02 (renamed ministry vacant by law until the first 김대중 cabinet), 2002-07-09..07-10 (남궁진 resigned before a successor was named), 2006-03-25..03-26 (weekend after 정동채 left on 03-24), 2014-07-18..08-19 (유진룡 removed, 김종 then 김희범 acting), 2017-01-22..06-15 (조윤선 resigned, 송수근 then 나종민 acting).",
+   "Step 6 field hygiene: appointing_president matches the start date for all 23 spells, and no culture minister was appointed by an acting president (the only acting-president act was 황교안 accepting 조윤선's resignation). deputy_pm false for all (offices.json lists no deputy PM title for these offices). reorg_continuation false and reappointed_on_reorg null for all, which is consistent with 부칙 제3조② (1998) and 부칙 제2조② (2008) excluding 정무직. No suspensions. All four offices are in scope, and 국정홍보처 and 공보실 (non-국무위원) are correctly excluded. mp_hint agrees with na_members_15_22.csv for all spells, including the homonym NA member 김종민 (born 1964), who is correctly not linked. transcript_check for 최휘영 recoded to not_applicable. end_reason values fit the schema. 유진룡 'dismissed' is kept with a note.",
+   "Acting heads: 송수근 end corrected from 2017-06-15 to 2017-06-06 and 나종민 (2017-06-07..06-15) added, both from 관보 제19036호 and news. The 2014 김희범 start is now backed by 관보 제18318호. The 1998 김종민 entry is annotated as a de facto caretaker.",
+   "Quote check: culture_verify_quotes.py (builder's checker) and culture_verify2_quotecheck.py (all quotes in the verifier record) find every quoted fragment in the cited snapshot."
+  ],
+  "summary": {
+   "n_spells": 23,
+   "confirmed": 21,
+   "corrected": 2,
+   "disputed": 0,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 23,
+   "acting_entries": 5,
+   "acting_corrected": 1,
+   "acting_added": 1
+  },
+  "per_spell": {
+   "0": {
+    "name": "오인환",
+    "ministry": "공보처",
+    "start": "1993-02-26",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26: 서울신문 1993-02-27 '부총리 이경식(기획원) 한완상(통일원)씨' (BigKinds 01100611.20160421220436146, '김영삼대통령은 26일 ... 공보처 오인환'), and 경향신문 1993-02-27 '부총리 이경식(기획원) 한완상(통일원)/새정부 조각발표' (01100101.19930227000000101). BigKinds query '오인환 공보처' 1993-02-25..02-28, accessed 2026-09-25T14:04:14-0400, (snapshot roster/sources/culture/verify/bk/s00_start_오인환_공보처_1993_02_25_1993_02_28.json). Neither article is cited by the builder.",
+     "end 1998-02-27: 한국일보 1998-02-28 '“하루만 근무해도 한달봉급”/구 내각 장관들 반납 결의' (01101101.19980228000000505): 고건 총리 and ministers including '오인환 공보처장관' agreed at lunch on 02-27 to return their March pay. 경향신문 1998-02-27 (01100101.19980227000000403) reports the '완전폐지' 공보처장관 working by phone on 02-26. 한국경제 1998-03-02 (02100601.20160116161620774) reports that the new 정부조직법 was promulgated and took effect on the afternoon of 02-28. Snapshots roster/sources/culture/verify/bk/s00_end_오인환_공보처장관_1998_02_23_1998_03_03.json and s00_end_공보처_폐지_1998_02_26_1998_03_02.json (accessed 2026-09-25T14:03:46..14:04:00-0400). End = last day before abolition, consistent with the builder's rule."
+    ]
+   },
+   "1": {
+    "name": "송태호",
+    "ministry": "문화체육부",
+    "start": "1997-03-06",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "start 1997-03-06: 경향신문 1997-03-07 '“「세계화」로 가는 징검다리 되겠다”/송태호 문체부 장관' (01100101.19970307000000602, '송태호 신임 문체부 장관(52)은 6일 오전 취임식'). The 3·5 개각 was announced on 03-05 (한겨레 1997-03-06, 01101001.19970306000000101). The 국토교통부 역대장관 page (land lineage) dates 이환균 of the same 개각 1997-03-06 and KBS 1997-03-06 reports the 임명장 that day, so 03-06 is used consistently across lineages. Snapshot roster/sources/culture/verify/bk/s01_start_송태호_문화체육부_1997_03_04_1997_03_08.json (accessed 2026-09-25T14:04:32-0400).",
+     "end 1998-02-27: 한국경제 1998-03-02 '정부조직법 발효 .. 김대통령, 53개 법령 서명' (02100601.20160116161620774: '명칭이 바뀌는 7개 부의 장관이 궐위'), 경향신문 1998-03-02 '총리인준 못해 장·차관 공석' (01100101.19980302000000210: 문화관광부 among the 7 ministries run with no 장관 or 차관), 전남일보 1998-03-02 '새 정부조직범 발효…7개부 장관 공석' (01600801.19980302101554106). Snapshots roster/sources/culture/verify/bk/s01_end_문화관광부_차관_1998_02_27_1998_03_03.json and s00_end_공보처_폐지_1998_02_26_1998_03_02.json. MCST, Namu and ko.wikipedia give 1998-03-02, which these reports contradict. No report calls him 문화관광부장관."
+    ]
+   },
+   "2": {
+    "name": "신낙균",
+    "ministry": "문화관광부",
+    "start": "1998-03-03",
+    "end": "1999-05-24",
+    "status": "confirmed",
+    "checks": [
+     "start 1998-03-03: 전자신문 1998-03-04 '\"국민의 정부\" 초대 내각 발표' (07100501.19980304052608002, '문화관광부 장관에 신낙균 국민회의 부총재를 각각 임명'). Snapshot roster/sources/culture/verify/bk/s02_start_신낙균_문화관광부_1998_03_02_1998_03_06.json (accessed 2026-09-25T14:05:26-0400).",
+     "end 1999-05-24: 연합뉴스 1999-05-24 17:12 '김 대통령 \"2기내각 개혁 마무리해야\"' https://n.news.naver.com/mnews/article/001/0004505541 ('김대중(金大中) 대통령은 24일 강봉균(康奉均) 재정경제장관 등 신임 각료와 신설 중앙기관장들에 임명장을 주고'), snapshot roster/sources/culture/verify/news/naver_001_0004505541.html (accessed 2026-09-24T22:47:28-0400), and 중앙일보 1999-05-25 '[5.24 개각] 정치권.부처 표정' (BigKinds 01100901.19990525074357001, '김대중 대통령은 이날 오후 청와대에서 신임장관들에게 임명장을 주면서'). The successor was in office on 05-24, so the same-day handover holds. Snapshot roster/sources/culture/verify/bk/s02_end_신낙균_장관_1999_05_23_1999_05_26.json (accessed 2026-09-25T14:15:08-0400)."
+    ]
+   },
+   "3": {
+    "name": "박지원",
+    "ministry": "문화관광부",
+    "start": "1999-05-24",
+    "end": "2000-09-20",
+    "status": "corrected",
+    "checks": [
+     "start 1999-05-24 kept, confidence raised to high. 연합뉴스 1999-05-24 17:12 https://n.news.naver.com/mnews/article/001/0004505541 ((snapshot roster/sources/culture/verify/news/naver_001_0004505541.html), accessed 2026-09-24T22:47:28-0400) and 중앙일보 1999-05-25 (BigKinds 01100901.19990525074357001) both report the 임명장 for the 5·24 개각 ministers on 05-24. The note by the builder that the 임명장 were handed over on 05-26 rests on a 연합뉴스 schedule item for 05-26 (roster/sources/culture/naver_001_0004517985.html) about an 임명장 ceremony for newly appointed ministers and vice ministers, which does not show that the ministers waited until 05-26. Ministry pages of peers in the same 개각 give 1999-05-24 (통일부 임동원, 법무부 김태정, 산업부 정덕구 in the unification, justice and industry rosters). MCST and Namu 1999-05-23 are unsupported.",
+     "end 2000-09-20: 인천일보 2000-09-21 '문광부 장관에 김한길의원' (01200401.20000921002950002), 세계일보 2000-09-21 '朴智元 문화부장관 사퇴' (01100701.20000921000000101), 중앙일보 2000-09-21 (01100901.20000921165741001): '김대중 대통령은 20일 ... 사표를 즉각 수리하고 후임에 ... 김한길 의원을 임명'. Snapshot roster/sources/culture/verify/bk/s03_end_박지원_사표_2000_09_19_2000_09_22.json (accessed 2026-09-25T14:05:57-0400).",
+     "likms 152142 국무위원(문화관광부장관 박지원)해임건의안, proposed 1999-10-04, 부결 at the 1999-10-22 plenary (가 129, 부 153). Snapshot roster/sources/culture/verify/likms_detail_152142.txt (accessed 2026-09-25T21:45:42-0400). Does not affect the spell."
+    ]
+   },
+   "4": {
+    "name": "김한길",
+    "ministry": "문화관광부",
+    "start": "2000-09-20",
+    "end": "2001-09-19",
+    "status": "confirmed",
+    "checks": [
+     "start 2000-09-20: 세계일보, 경향신문, 인천일보, 중앙일보 2000-09-21 (BigKinds, see spell 3). 중도일보 2000-09-21 (01400351.20000921091143004) adds that he resigned his 전국구 seat the same day.",
+     "end 2001-09-19: 인천일보 2001-09-20 '새 문화장관에 남궁진씨' (01200401.20010920002413001), 세계일보 2001-09-20 (01100701.20010920000000101), 영남일보 2001-09-20 (01500801.20010920143430005): '김대중 대통령은 19일 김한길 문화관광부 장관의 사표를 수리하고 후임에 남궁진 ... 을 임명'. Successor dated 2001-09-19 in 관보 제14910호 (tier 1). Snapshot roster/sources/culture/verify/bk/s04_end_김한길_사표_2001_09_15_2001_09_21.json (accessed 2026-09-25T14:06:57-0400)."
+    ]
+   },
+   "5": {
+    "name": "남궁진",
+    "ministry": "문화관광부",
+    "start": "2001-09-19",
+    "end": "2002-07-08",
+    "status": "confirmed",
+    "checks": [
+     "start 2001-09-19: 관보 제14910호 text re-read (harvest/gazette_text/20010924_14910_*.txt, '◉2001년 9 월19일자 남 궁 진(南 宮 鎭) 국무위원에 임함 문화관광부장관에 보함').",
+     "end 2002-07-08: 한국일보 2002-07-09 '개각 하마평' (01101101.20020709000000303, '김대중(金大中) 대통령이 8일 오후 남궁진(南宮鎭) 문화관광부 장관의 사표를 수리'), 한겨레 2002-07-09 (01101001.20020709000000101), 디지털타임스 2002-07-09 '남궁진 문화관광부장관 이임식' (07101201.20020709163704009, 이임식 8일 오후). One outlier (광주일보 2002-07-09 '9일 오후 수리') conflicts with its own publication date and with the other reports. Snapshot roster/sources/culture/verify/bk/s05_end_남궁진_사표_2002_07_07_2002_07_11.json (accessed 2026-09-25T14:07:11-0400)."
+    ]
+   },
+   "6": {
+    "name": "김성재",
+    "ministry": "문화관광부",
+    "start": "2002-07-11",
+    "end": "2003-02-27",
+    "status": "confirmed",
+    "checks": [
+     "start 2002-07-11: 관보 제15150호 text re-read ('◉2002년 7 월11일자 ... 김 성 재(金 聖 在) 국무위원에 임함 문화관광부장관에 보함').",
+     "end 2003-02-27 (inferred_from_successor): 동아일보 2003-02-28 '이창동문화부장관, 싼타페 몰고 청사로…' https://n.news.naver.com/mnews/article/020/0000178432 ('27일 취임 첫날 ... 대통령으로부터 임명장을 받아'), snapshot roster/sources/culture/verify/news/naver_020_0000178432.html (accessed 2026-09-25T21:51:47-0400), with the date of the successor in 관보 제15338호. No report of the date his resignation was accepted was found (a Naver query 김성재 장관 이임 for 2003-02-25..03-01 returned nothing and the BigKinds query 김성재 이임 had 0 hits, snapshot roster/sources/culture/verify/bk/s06_end_김성재_이임_2003_02_25_2003_03_01.json)."
+    ]
+   },
+   "7": {
+    "name": "이창동",
+    "ministry": "문화관광부",
+    "start": "2003-02-27",
+    "end": "2004-06-30",
+    "status": "confirmed",
+    "checks": [
+     "start 2003-02-27: 관보 제15338호 text re-read, section header '◉2003년 2 월27일자' precedes '이 창 동(李 滄 東) 국무위원에 임함 문화관광부장관에 보함'.",
+     "end 2004-06-30: 국민일보 2004-07-01 '싼타페 몰고 다시 영화감독으로' (BigKinds 01100201.20040701000000404, '1년4개월간의 업무를 끝내고 30일 영화감독으로 되돌아갔다'). Successor dated 2004-07-01 in 관보 제15737호. A citizen petition printed by 동아일보 2004-07-01 says 정동채 was appointed on 06-30, which the gazette contradicts. Snapshot roster/sources/culture/verify/bk/s07_end_이창동_장관_2004_06_29_2004_07_02.json (accessed 2026-09-25T14:15:22-0400)."
+    ]
+   },
+   "8": {
+    "name": "정동채",
+    "ministry": "문화관광부",
+    "start": "2004-07-01",
+    "end": "2006-03-24",
+    "status": "confirmed",
+    "checks": [
+     "start 2004-07-01: 관보 제15737호 text re-read ('⊙2004년 7 월 1 일자 ... 정 동 채(鄭 東 采) 국무위원에 임함 문화관광부장관에 보함').",
+     "end 2006-03-24: 연합뉴스 2006-03-24 17:01 '<정치권으로 돌아간 정동채 문화장관>' https://n.news.naver.com/mnews/article/001/0001253616 ('21개월의 장관직 업무를 마치고 24일 국회로 돌아갔다 ... 별도의 이임식을 갖지 않고'), snapshot roster/sources/culture/verify/news/naver_001_0001253616.html (accessed 2026-09-25T21:49:01-0400). Full text of 전자신문 2006-03-24 https://n.news.naver.com/mnews/article/030/0000137443 ('24일 사퇴한 것이다'; the ministers running in the local elections resigned on 03-21), (snapshot roster/sources/culture/verify/news/naver_030_0000137443.html). MCST and ko.wikipedia 2006-03-06 are contradicted. The date the resignation was formally accepted remains unknown, so end_confidence stays medium."
+    ]
+   },
+   "9": {
+    "name": "김명곤",
+    "ministry": "문화관광부",
+    "start": "2006-03-27",
+    "end": "2007-05-07",
+    "status": "confirmed",
+    "checks": [
+     "start 2006-03-27: 관보 제16224호 text re-read ('⊙2006년 3 월27일자 ... 김 명 곤(金 明 坤) 국무위원에 임함 문화관광부장관에 보함').",
+     "end 2007-05-07: 전북도민일보 2007-05-08 (BigKinds 01601001.20070508234859002, '7일 오후 5시 ... 이임식') and 디지털타임스 2007-05-08 '김명곤 문화장관 퇴임' (07101201.20070508163512001). Successor dated 2007-05-08 in 관보 제16504호. Snapshot roster/sources/culture/verify/bk/s09_end_김명곤_장관_2007_05_06_2007_05_09.json (accessed 2026-09-25T14:15:44-0400)."
+    ]
+   },
+   "10": {
+    "name": "김종민",
+    "ministry": "문화관광부",
+    "start": "2007-05-08",
+    "end": "2008-02-28",
+    "status": "confirmed",
+    "checks": [
+     "start 2007-05-08: 관보 제16504호 text re-read ('⊙2007년 5 월 8 일자 김 종 민(金 鍾 民) 국무위원에 임함 문화관광부장관에 보함').",
+     "end 2008-02-28: 관보 제16703호 (tier 1, re-read, header '⊙2008년 2월 29일자') appoints 유인촌 to the new 문화체육관광부 on 02-29, the effective date of 법률 제8852호 (offices.json GOA_8852). 무등일보 2008-02-28 (BigKinds 01600501.20080228122044001) shows him acting as 문광부 장관 on 02-27. End follows the ministry-name boundary as in 1998."
+    ]
+   },
+   "11": {
+    "name": "유인촌",
+    "ministry": "문화체육관광부",
+    "start": "2008-02-29",
+    "end": "2011-01-27",
+    "status": "confirmed",
+    "checks": [
+     "start 2008-02-29: 관보 제16703호 text re-read.",
+     "end 2011-01-27 (inferred_from_successor): 광주매일신문 2011-01-26 (BigKinds 01600201.20110126101027002, '문화체육관광부(장관 유인촌)는 25일') and 파이낸셜뉴스 2011-01-27 (02100501.20160208153418629, '유인촌 전 문화체육관광부 장관') bracket the handover. No farewell or acceptance date was found (BigKinds queries 유인촌 이임식 and 유인촌 퇴임 for 2011-01-20..01-31, snapshots roster/sources/culture/verify/bk/v2_s11_*.json, accessed 2026-09-25T21:49:47-0400). Successor dated 2011-01-27 in 관보 제17439호."
+    ]
+   },
+   "12": {
+    "name": "정병국",
+    "ministry": "문화체육관광부",
+    "start": "2011-01-27",
+    "end": "2011-09-16",
+    "status": "confirmed",
+    "checks": [
+     "start 2011-01-27: 관보 제17439호 text re-read ('정병국(鄭柄國) 국무위원에 임함 문화체육관광부장관에 보함 2011. 1. 27.').",
+     "end 2011-09-16: 뉴시스 2011-09-16 19:17 '직원들과 인사 나누는 정병국 장관' https://n.news.naver.com/mnews/article/003/0004082692 ('16일 ... 이임식'), snapshot roster/sources/culture/verify/news/naver_003_0004082692.html (accessed 2026-09-25T21:50:13-0400). Successor dated 2011-09-17 in 관보 제17596호."
+    ]
+   },
+   "13": {
+    "name": "최광식",
+    "ministry": "문화체육관광부",
+    "start": "2011-09-17",
+    "end": "2013-03-11",
+    "status": "confirmed",
+    "checks": [
+     "start 2011-09-17: 관보 제17596호 text re-read ('최광식(崔光植) 국무위원에 임함 문화체육관광부장관에 보함 2011. 9. 17.').",
+     "end 2013-03-11: 머니투데이 2013-03-11 '퇴임 최광식 문화장관' (BigKinds 02100201.20130311152429002, '이날 오전 ... 퇴임식'), 아주경제 2013-03-12 (02100851.20130312161135004, '11일 오전 ... 이임식'), 서울경제 2013-03-11 (02100311.20160317125128718). Successor dated 2013-03-11 in 관보 제17971호. Snapshot roster/sources/culture/verify/bk/s13_end_최광식_장관_2013_03_10_2013_03_12.json (accessed 2026-09-25T14:16:10-0400)."
+    ]
+   },
+   "14": {
+    "name": "유진룡",
+    "ministry": "문화체육관광부",
+    "start": "2013-03-11",
+    "end": "2014-07-17",
+    "status": "confirmed",
+    "checks": [
+     "start 2013-03-11: 관보 제17971호 text re-read ('유진룡(劉震龍) 국무위원에 임함 문화체육관광부장관에 보함 2013. 3. 11.').",
+     "end 2014-07-17: 경향신문 2014-07-18 '후임 없는데 전격 ‘면직’…유진룡 문화부 장관에 무슨일이' (BigKinds 01100101.20140718100000056, '17일 오전 청와대로부터 면직 통보'), 경향신문 2014-07-18 '기습 면직, 2기 내각 출발 강조 의도' (01100101.20140718100000072: the President accepted on 07-17 the resignation taken at the 6·13 개각), 동아일보 2014-07-18 (01100401.20140718151533002), 중도일보 2014-07-18 (01400351.20140718180334001, '이날 면직'). Snapshot roster/sources/culture/verify/bk/s14_end_유진룡_면직_2014_07_15_2014_07_19.json (accessed 2026-09-25T14:09:24-0400). end_reason 'dismissed' kept, since the President removed him before any successor was named, but the act took the form of accepting a resignation submitted in June (see notes)."
+    ]
+   },
+   "15": {
+    "name": "김종덕",
+    "ministry": "문화체육관광부",
+    "start": "2014-08-20",
+    "end": "2016-09-05",
+    "status": "confirmed",
+    "checks": [
+     "start 2014-08-20: 관보 제18335호 text re-read ('김종덕(金鍾德) 국무위원에 임함 문화체육관광부장관에 보함 2014. 8. 20.').",
+     "end 2016-09-05: 뉴시스 2016-09-05 10:28 '이임식 하는 김종덕 문체부 장관' https://n.news.naver.com/mnews/article/003/0007450008 ('5일 오전 ... 이임식'), snapshot roster/sources/culture/verify/news/naver_003_0007450008.html (accessed 2026-09-25T21:55:13-0400), and 뉴스1 2016-09-05 https://n.news.naver.com/mnews/article/421/0002262072. Successor dated 2016-09-05 in 관보 제18843호."
+    ]
+   },
+   "16": {
+    "name": "조윤선",
+    "ministry": "문화체육관광부",
+    "start": "2016-09-05",
+    "end": "2017-01-21",
+    "status": "confirmed",
+    "checks": [
+     "start 2016-09-05: 관보 제18843호 text re-read ('조윤선(趙允旋) 국무위원에 임함 문화체육관광부장관에 보함 2016. 9. 5.').",
+     "end 2017-01-21: 한겨레 2017-01-22 '황 권한대행, 조윤선 장관 사표 수리' (BigKinds 01101001.20170122160836001, '21일 ... 사표를 수리'), 파이낸셜뉴스 2017-01-22 (02100501.20170122122637002), 전자신문 2017-01-22 (07100501.20170122092710001, 국무총리실 announced on 21일). One 경향신문 column (2017-01-23, 01100101.20170123060137001) says 22일, against the 국무총리실 statement. Snapshot roster/sources/culture/verify/bk/s16_end_조윤선_사표_수리_2017_01_21_2017_01_22.json (accessed 2026-09-25T14:16:16-0400)."
+    ]
+   },
+   "17": {
+    "name": "도종환",
+    "ministry": "문화체육관광부",
+    "start": "2017-06-16",
+    "end": "2019-04-03",
+    "status": "confirmed",
+    "checks": [
+     "start 2017-06-16: 관보 제19036호 text re-read ('도종환(都鐘煥) 국무위원에 임함 문화체육관광부장관에 보함 2017.6.16.').",
+     "end 2019-04-03: 뉴스1 2019-04-03 13:21 '이임식 갖는 도종환 문체부 장관' https://n.news.naver.com/mnews/article/421/0003917126 ((snapshot roster/sources/culture/verify/news/naver_421_0003917126.html), accessed 2026-09-25T21:54:12-0400) and 뉴시스 2019-04-03 11:45 https://n.news.naver.com/mnews/article/003/0009150609 ('3일 오전 ... 이임식'). Successor dated 2019-04-03 in 관보 제19482호."
+    ]
+   },
+   "18": {
+    "name": "박양우",
+    "ministry": "문화체육관광부",
+    "start": "2019-04-03",
+    "end": "2021-02-10",
+    "status": "confirmed",
+    "checks": [
+     "start 2019-04-03: 관보 제19482호 text re-read ('박양우(朴良雨) 국무위원에 임함 문화체육관광부장관에 보함 2019.4.3.').",
+     "end 2021-02-10: 전자신문 2021-02-10 '떠나는 박양우 장관' (BigKinds 07100501.20210210161303001, '10일 ... 비대면 이임식'), 이데일리 2021-02-10 (04101008.20210210160123002). Successor dated 2021-02-11 in 관보 제19943호. Snapshot roster/sources/culture/verify/bk/s18_end_박양우_장관_2021_02_09_2021_02_11.json (accessed 2026-09-25T14:16:20-0400)."
+    ]
+   },
+   "19": {
+    "name": "황희",
+    "ministry": "문화체육관광부",
+    "start": "2021-02-11",
+    "end": "2022-05-13",
+    "status": "confirmed",
+    "checks": [
+     "start 2021-02-11: 관보 제19943호 text re-read ('황희(黃熙) 국무위원에 임함 문화체육관광부장관에 보함 2021. 2. 11.').",
+     "end 2022-05-13 (inferred_from_successor): 헤럴드경제 2022-05-11 10:51 https://n.news.naver.com/mnews/article/016/0001989165 ('전해철, 한정애(환경부), 황희, 권칠승, 장관 등 4명의 경우 아직 사표도 수리되지 않은 상태'), snapshot roster/sources/culture/verify/news/naver_016_0001989165.html (accessed 2026-09-25T13:17:47-0400). 이데일리 2022-05-12 18:19 https://n.news.naver.com/mnews/article/018/0005214116 ('전날 기준 문재인 정부에서 임명돼 아직 직을 유지하고 있는 장관은 ... 황희 문화체육관광부 ... 장관이 있다'), snapshot roster/sources/culture/verify/news/naver_018_0005214116.html (accessed 2026-09-25T13:53:58-0400). 연합뉴스 2022-05-12 17:49 (naver_001_0013175270.html) says he had submitted his resignation and left by 05-12, without an acceptance date. No acceptance date was found (Naver query 황희 사표 수리 and BigKinds query 황희 사표 for 2022-05-12..05-17, snapshots roster/sources/culture/verify/bk/v2_s19_*.json). Successor dated 2022-05-13 in 관보 제20255호."
+    ]
+   },
+   "20": {
+    "name": "박보균",
+    "ministry": "문화체육관광부",
+    "start": "2022-05-13",
+    "end": "2023-10-06",
+    "status": "confirmed",
+    "checks": [
+     "start 2022-05-13: 관보 제20255호 text re-read ('박보균(朴普均) 국무위원에 임함 문화체육관광부장관에 보함 2022. 5. 13.').",
+     "end 2023-10-06: 연합뉴스 2023-10-06 19:31 '박보균 문체부 장관 이임식…' https://n.news.naver.com/mnews/article/001/0014245101 ('6일 ... 이임식'), snapshot roster/sources/culture/verify/news/naver_001_0014245101.html (accessed 2026-09-25T21:54:34-0400), 뉴시스 2023-10-06 https://n.news.naver.com/mnews/article/003/0012132688. Successor dated 2023-10-07 in 관보 제20602호."
+    ]
+   },
+   "21": {
+    "name": "유인촌",
+    "ministry": "문화체육관광부",
+    "start": "2023-10-07",
+    "end": "2025-07-30",
+    "status": "confirmed",
+    "checks": [
+     "start 2023-10-07: 관보 제20602호 text re-read ('유인촌(柳仁村) 국무위원에 임함 문화체육관광부장관에 보함 2023. 10. 7.').",
+     "end 2025-07-30: 디지털타임스 2025-07-30 (BigKinds 07101201.20250730162326001, '30일 퇴임'), 전자신문 2025-07-30 (07100501.20250730150521001), 아주경제 2025-07-30 (02100851.20250730141543001), 뉴스핌 2025-07-30 (04100078.20250730122833001, 이임식 30일 오전). Snapshot roster/sources/culture/verify/bk/s21_end_유인촌_퇴임_2025_07_25_2025_07_31.json (accessed 2026-09-25T14:10:54-0400). Successor dated 2025-07-31 in 관보 제21057호."
+    ]
+   },
+   "22": {
+    "name": "최휘영",
+    "ministry": "문화체육관광부",
+    "start": "2025-07-31",
+    "end": null,
+    "status": "corrected",
+    "checks": [
+     "start 2025-07-31: 관보 제21057호 text re-read ('최휘영(崔輝永) 국무위원에 임함 문화체육관광부장관에 보함 2025. 7. 31.'). 세계일보 and 서울경제 2025-07-30 report the report adoption on 07-30 with the President's approval to follow, consistent with 07-31.",
+     "in office at the cutoff: 뉴시스 2026-09-25 15:00 https://n.news.naver.com/mnews/article/003/0014213446 and 뉴스1 2026-09-25 15:00 https://n.news.naver.com/mnews/article/421/0009191494 report him as 문화체육관광부 장관 meeting Mexico's culture minister on 2026-09-24 local time. Snapshot roster/sources/culture/verify/news/naver_003_0014213446.html (accessed 2026-09-25T21:55:39-0400). No culture nominee after ZZ22070 in likms (title search run 2026-09-25) and no later appointment notice in the gazette corpus (last file 2026-09-18).",
+     "field hygiene: transcript_check changed from 'no_transcript_data' to 'not_applicable'. The spell starts after the transcript window (2000-06..2025-01) ends, and the builder uses 'not_applicable' for the spells that lie wholly before the window."
+    ]
+   }
+  },
+  "nomination_checks": [
+   "All 16 인사청문요청안 for 문화관광부/문화체육관광부 in the likms harvest (terms 17-22) are in the builder's nominations. An independent likms title search returned no others. No PM consent motions belong to this lineage.",
+   "request_date equals the likms propose date for all 16. hearing_dates match the nominee rows of the transcripts for the 15 hearings before 2025 (culture_verify2_transcripts.py) and likms/news for 최휘영 (2025-07-29).",
+   "report_adopted matches the likms committee result (경과보고서채택/채택/원안가결) for the 13 requests that have one. For the 3 with a blank result: 김종덕 adopted 2014-08-20 (매일경제, builder source), 정성근 not adopted (재송부 requested, withdrew 2014-07-16), 박보균 not adopted (appointed after 재송부). 유진룡's '원안가결' is confirmed as report adoption by 서울신문 and 중도일보 2013-03-01.",
+   "Withdrawn nominees 신재민 (2010-08-29) and 정성근 (2014-07-16) are recorded as nominee_withdrew. No culture nominee was rejected by the Assembly.",
+   "Nomination date spot check: 도종환 2017-05-30 confirmed by three further outlets."
+  ],
+  "changes": [
+   {
+    "section": "spells",
+    "index": 3,
+    "name": "박지원",
+    "field": "start_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "연합뉴스 1999-05-24 17:12 https://n.news.naver.com/mnews/article/001/0004505541 ('김대중(金大中) 대통령은 24일 강봉균(康奉均) 재정경제장관 등 신임 각료와 신설 중앙기관장들에 임명장을 주고') and 중앙일보 1999-05-25 (BigKinds 01100901.19990525074357001, '이날 오후 청와대에서 신임장관들에게 임명장을 주면서') show the 임명장 were given on 05-24, not 05-26."
+   },
+   {
+    "section": "spells",
+    "index": 22,
+    "name": "최휘영",
+    "field": "transcript_check",
+    "old": "no_transcript_data",
+    "new": "not_applicable",
+    "evidence": "Spell starts 2025-07-31, after the transcript window (2000-06..2025-01). The builder codes spells wholly outside the window (오인환, 송태호, 신낙균) as 'not_applicable', so this aligns the coding. No transcript rows exist for him (culture_verify2_transcripts.py)."
+   },
+   {
+    "section": "spells",
+    "index": 3,
+    "name": "박지원",
+    "field": "notes",
+    "old": "Resigned over the 한빛은행 대출 의혹. The 5·24 개각 was announced on 1999-05-24 and new ministers attended the 국무회의 of 05-25. 임명장 for the 5·24 개각 ministers were handed over on 1999-05-26 (연합뉴스 1999-05-25 19:30, naver_001_0004517985.html), so the legal date is the 05-24 announcement day. MCST and ko.wikipedia give 1999-05-23, which no contemporaneous report supports. Not an NA member in 1999 (later 18th-20th and 22nd NA member, mona_cd 8BF5855P, born 1942-06-05 in the NA file).",
+    "new": "Resigned over the 한빛은행 대출 의혹. The 5·24 개각 was announced on 1999-05-24 and new ministers attended the 국무회의 of 05-25. 김대중 gave the 임명장 to the 5·24 개각 ministers on 05-24 (연합뉴스 1999-05-24 17:12, naver_001_0004505541.html, and 중앙일보 1999-05-25 via BigKinds), so the legal date is 05-24. The 연합뉴스 schedule item for 05-26 (naver_001_0004517985.html) concerns an 임명장 ceremony for newly appointed ministers and vice ministers and does not show that the ministers were appointed on 05-26. The 1999-10-04 해임건의안 against him (likms 152142) was rejected on 1999-10-22. MCST and ko.wikipedia give 1999-05-23, which no contemporaneous report supports. Not an NA member in 1999 (later 18th-20th and 22nd NA member, mona_cd 8BF5855P, born 1942-06-05 in the NA file).",
+    "evidence": "연합뉴스 1999-05-24 17:12 https://n.news.naver.com/mnews/article/001/0004505541 ('김대중(金大中) 대통령은 24일 강봉균(康奉均) 재정경제장관 등 신임 각료와 신설 중앙기관장들에 임명장을 주고'); 중앙일보 1999-05-25 BigKinds 01100901.19990525074357001; likms 152142 detail (roster/sources/culture/verify/likms_detail_152142.txt)."
+   },
+   {
+    "section": "spells",
+    "index": 14,
+    "name": "유진룡",
+    "field": "notes",
+    "old": "Nominated by 대통령당선인 박근혜 (ZZ19038). Dismissed without a successor after nominee 정성근 withdrew on 2014-07-16. MCST and ko.wikipedia give 2014-07-16. The reports say the 면직 was decided and notified on 07-17, and the exact effective date printed on the 면직 order was not found. Vacancy 2014-07-18..08-19.",
+    "new": "Nominated by 대통령당선인 박근혜 (ZZ19038). Dismissed without a successor after nominee 정성근 withdrew on 2014-07-16. MCST and ko.wikipedia give 2014-07-16. The reports say the 면직 was decided and notified on 07-17, and the exact effective date printed on the 면직 order was not found. Vacancy 2014-07-18..08-19. 경향신문 2014-07-18 (BigKinds 01100101.20140718100000072) reports that the 면직 took the form of the President accepting the resignation both ministers had submitted at the 6·13 개각, so 'resigned' is a possible alternative coding. 'dismissed' is kept because the removal was the President's initiative and preceded any successor.",
+    "evidence": "경향신문 2014-07-18 '기습 면직, 2기 내각 출발 강조 의도' BigKinds 01100101.20140718100000072 ((snapshot roster/sources/culture/verify/bk/s14_end_유진룡_면직_2014_07_15_2014_07_19.json), accessed 2026-09-25T14:09:24-0400)."
+   },
+   {
+    "section": "nominations",
+    "index": 17,
+    "name": "도종환",
+    "field": "notes",
+    "old": "연합뉴스 (2017-05-30 15:14, naver_001_0009302066.html) writes '29일' in the body, which conflicts with the other 05-30 reports.",
+    "new": "연합뉴스 (2017-05-30 15:14, naver_001_0009302066.html) writes '29일' in the body, which conflicts with the other 05-30 reports. Verifier: 무등일보, 대구일보 and 경기일보 (2017-05-31, via BigKinds) all date the announcement 30일, so 2017-05-30 stands.",
+    "evidence": "BigKinds snapshot roster/sources/culture/verify/bk/v2_n17_도종환_문체부_장관_후보자_2017_05_29_2017_05_31.json (accessed 2026-09-25T22:01:59-0400)."
+   },
+   {
+    "section": "nominations",
+    "index": 13,
+    "name": "유진룡",
+    "field": "notes",
+    "old": "likms records the committee result as '원안가결' on 2013-02-28, read here as adoption of the 경과보고서.",
+    "new": "likms records the committee result as '원안가결' on 2013-02-28, read here as adoption of the 경과보고서. Verifier: 서울신문 and 중도일보 (2013-03-01) confirm that the committee adopted the 경과보고서 on 2013-02-28.",
+    "evidence": "BigKinds snapshot roster/sources/culture/verify/bk/v2_n13_유진룡_청문보고서_2013_02_27_2013_03_02.json (accessed 2026-09-25T21:59:43-0400)."
+   },
+   {
+    "section": "acting",
+    "index": 3,
+    "name": "송수근",
+    "field": "to",
+    "old": "2017-06-15",
+    "new": "2017-06-06",
+    "evidence": "관보 제19036호 (published 2017-06-23, harvest/gazette_text/20170623_19036_*.txt): '나종민(羅棕珉) 문화체육관광부 제1차관에 임함 2017.6.7.'. From 06-07 송수근 was no longer 제1차관. 뉴시스 2017-06-12 https://n.news.naver.com/mnews/article/003/0008006236 ('나 차관은 현재 문화체육관광부 장관 직무대행도 맡고 있다'). The latest source in culture.json for 송수근 as 직무대행 is 헤럴드경제 2017-06-05."
+   },
+   {
+    "section": "acting",
+    "index": 3,
+    "name": "송수근",
+    "field": "notes",
+    "old": "Start is the day 조윤선's resignation was accepted. End is the day before 도종환's appointment (2017-06-16). Still acting on 2017-06-05.",
+    "new": "Start is the day the resignation of 조윤선 was accepted. He had been 제1차관 since 2016-12-30 (관보 제18923호, '송수근(宋秀根) 문화체육관광부 제1차관에 임함 2016.12.30.'). Still acting on 2017-06-05 (헤럴드경제). End inferred from the appointment of 나종민 as 제1차관 as of 2017-06-07 (관보 제19036호), announced 2017-06-06.",
+    "evidence": "관보 제18923호 and 제19036호 (harvest texts), BigKinds query 나종민 차관 for 2017-06-06..06-09 ((snapshot roster/sources/culture/verify/bk/v2_acting_나종민_차관_2017_06_06_2017_06_09.json), accessed 2026-09-25T22:01:07-0400)."
+   },
+   {
+    "section": "acting",
+    "index": 2,
+    "name": "김희범",
+    "field": "notes",
+    "old": "Start is the day his appointment as 제1차관 was reported. End is the day before 김종덕's appointment (2014-08-20).",
+    "new": "Start is the 관보 date of his appointment as 제1차관 (관보 제18318호, 2014-07-31: '김희 범(金熙範 ) 문화체 관광부 제1차관에 임함 육 2014. 7. 25.' (literal text layer of the item PDF, which scatters the characters of the printed line naming 김희범 (金熙範) as 문화체육관광부 제1차관 as of 2014. 7. 25.; text saved at roster/sources/culture/verify/gazette_18318_00000000000000001406680855407000.pdf.txt)), the same day it was reported. End is the day before the appointment of 김종덕 (2014-08-20).",
+    "evidence": "관보 제18318호 item PDF, snapshot roster/sources/culture/verify/gazette_18318_00000000000000001406680855407000.pdf (accessed 2026-09-24T22:58:28-0400); gazette keyword search '김희범' 2014-07-20..08-31, (snapshot roster/sources/culture/verify/gazette_search_김희범_2014-07-20_2014-08-31.json). The harvested text of this item is garbled, which is why a text grep missed the name."
+   },
+   {
+    "section": "acting",
+    "index": 0,
+    "name": "김종민",
+    "field": "notes",
+    "old": null,
+    "new": "De facto caretaker, not a formal 직무대행. 경향신문 1998-03-02 (BigKinds 01100101.19980302000000210) reports that the seven renamed ministries, 문화관광부 among them, ran with neither 장관 nor 차관, since 법률 제5529호 부칙 제3조② also excluded the 정무직 vice ministers from the staff transfer. 연합뉴스 (1998-02-28) says the sitting vice ministers kept the ministries running without 결재 authority.",
+    "evidence": "경향신문 1998-03-02 '총리인준 못해 장·차관 공석' BigKinds 01100101.19980302000000210 ((snapshot roster/sources/culture/verify/bk/s01_end_문화관광부_차관_1998_02_27_1998_03_03.json), accessed 2026-09-25T14:05:08-0400)."
+   },
+   {
+    "section": "issues",
+    "index": 4,
+    "name": "issue",
+    "field": "desc",
+    "old": "박지원 start 1999-05-24: the 5·24 개각 was announced that morning and 신낙균 held her farewell that day, but 임명장 were handed over on 1999-05-26 and MCST and ko.wikipedia list 1999-05-23. No 관보 file exists for 1999. start_confidence medium.",
+    "new": "박지원 start 1999-05-24: the 5·24 개각 was announced that morning, the new ministers received their 임명장 that afternoon (연합뉴스 1999-05-24 17:12, 중앙일보 1999-05-25) and 신낙균 held her farewell that day. MCST and ko.wikipedia list 1999-05-23, which no contemporaneous report supports. No 관보 file exists for 1999. start_confidence raised to high by the verifier (the builder's reading of a 05-26 임명장 ceremony was not supported).",
+    "evidence": "연합뉴스 1999-05-24 17:12 https://n.news.naver.com/mnews/article/001/0004505541; 중앙일보 1999-05-25 BigKinds 01100901.19990525074357001."
+   },
+   {
+    "section": "issues",
+    "index": 16,
+    "name": "issue",
+    "field": "desc",
+    "old": "Day-level continuity for 문화체육부 → 문화관광부 → 문화체육관광부 from 1998-02-25 to 2026-09-24 shows no overlaps and 9 same-day handovers. The vacancies are as follows: 1998-02-28..1998-03-02 (3 days between 송태호 and 신낙균), 2002-07-09..2002-07-10 (2 days between 남궁진 and 김성재), 2006-03-25..2006-03-26 (2 days between 정동채 and 김명곤), 2014-07-18..2014-08-19 (33 days between 유진룡 and 김종덕), 2017-01-22..2017-06-15 (145 days between 조윤선 and 도종환). Acting heads for the vacancies are in 'acting' where a source names them.",
+    "new": "Day-level continuity for 문화체육부 → 문화관광부 → 문화체육관광부 from 1998-02-25 to 2026-09-24 shows no overlaps and 9 same-day handovers. The vacancies are as follows: 1998-02-28..1998-03-02 (3 days between 송태호 and 신낙균), 2002-07-09..2002-07-10 (2 days between 남궁진 and 김성재), 2006-03-25..2006-03-26 (2 days between 정동채 and 김명곤), 2014-07-18..2014-08-19 (33 days between 유진룡 and 김종덕), 2017-01-22..2017-06-15 (145 days between 조윤선 and 도종환). Acting heads for the vacancies are in 'acting' where a source names them. Verifier: the 2017 vacancy had two acting heads. 송수근 (제1차관) acted from 2017-01-21 to 2017-06-06, and 나종민 acted from his appointment as 제1차관 on 2017-06-07 (관보 제19036호) to 2017-06-15. In 2014 the 제1차관 appointment of 김희범 is dated 2014-07-25 in 관보 제18318호.",
+    "evidence": "관보 제19036호, 제18923호, 제18318호; 뉴시스 2017-06-12; 정책브리핑 2017-06-15."
+   },
+   {
+    "section": "acting",
+    "index": 4,
+    "name": "나종민",
+    "field": "(added)",
+    "old": null,
+    "new": {
+     "name": "나종민",
+     "role": "문화체육관광부 제1차관, 장관 직무대행",
+     "from": "2017-06-07",
+     "to": "2017-06-15",
+     "sources": [
+      "관보 제19036호 (published 2017-06-23), '나종민(羅棕珉) 문화체육관광부 제1차관에 임함 2017.6.7.' (harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt, viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N, fetched 2026-09-24T22:59:22-0400)",
+      "뉴시스 2017-06-12 11:43 '나종민 문체부차관 \"민간 위주 블랙리스트 조사위 구성\" 주문' https://n.news.naver.com/mnews/article/003/0008006236 (accessed 2026-09-25T21:57:46-0400; snapshot roster/sources/culture/verify/news/naver_003_0008006236.html) [summary: 나 차관은 현재 문화체육관광부 장관 직무대행도 맡고 있다]",
+      "정책브리핑 2017-06-15 08:55 '지역문화 자치를 실현할 차세대 문화활동가 양성' https://n.news.naver.com/mnews/article/298/0000221750 (accessed 2026-09-25T21:57:53-0400; snapshot roster/sources/culture/verify/news/naver_298_0000221750.html) [summary: 문화체육관광부(장관 직무대행 제1차관 나종민, 이하 문체부)는]",
+      "뉴스1 2017-06-16 09:23 https://n.news.naver.com/mnews/article/421/0002789420 (accessed 2026-09-25T21:57:49-0400; snapshot roster/sources/culture/verify/news/naver_421_0002789420.html) [summary: 문화체육관광부(장관 직무대행 제1차관 나종민)는 16일] (press release of the day 도종환 was appointed)"
+     ],
+     "notes": "Added by the verifier. Start is the 관보 date of his appointment as 제1차관 (announced 2017-06-06, first day at the ministry 06-08 per 국민일보 2017-06-08). End is the day before the appointment of 도종환 (2017-06-16). The acting period of 송수근 ends 2017-06-06."
+    },
+    "evidence": "Added by the verifier. Start is the 관보 date of his appointment as 제1차관 (announced 2017-06-06, first day at the ministry 06-08 per 국민일보 2017-06-08). End is the day before the appointment of 도종환 (2017-06-16). The acting period of 송수근 ends 2017-06-06."
+   }
+  ],
+  "scripts": [
+   "roster/scripts/culture_verify_01_gazette.py (re-run)",
+   "roster/scripts/culture_verify_03_likms.py (re-run)",
+   "roster/scripts/culture_verify2_transcripts.py",
+   "roster/scripts/culture_verify2_bkview.py",
+   "roster/scripts/culture_verify2_news.py",
+   "roster/scripts/culture_verify2_build.py"
+  ]
+ }
+}

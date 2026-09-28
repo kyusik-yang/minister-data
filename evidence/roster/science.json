@@ -1,0 +1,1647 @@
+{
+  "lineage": "science",
+  "built_at": "2026-09-25T13:27:30-0400",
+  "ministry_names": [
+    {
+      "ministry": "과학기술처",
+      "from": "1998-02-25",
+      "to": "1998-02-27",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제5153호 제25조 (장관은 국무위원으로 보한다). Abolished by 법률 제5529호 (effective 1998-02-28, 부칙 제3조제1항 표, 과학기술처를 과학기술부로 개편)",
+      "source": "offices.json OF005"
+    },
+    {
+      "ministry": "과학기술부",
+      "from": "1998-02-28",
+      "to": "2008-02-28",
+      "in_scope": true,
+      "deputy_pm_title": "부총리 겸 과학기술부장관, 2004-10-18 to 2008-02-28 (정부조직법 제19조의2 as amended by 법률 제7217호, effective the day 대통령령 제18561호 took effect)",
+      "legal_basis": "정부조직법 법률 제5529호 제26조, 제34조 (establishes). Abolished by 법률 제8852호 (effective 2008-02-29)",
+      "source": "offices.json OF027"
+    },
+    {
+      "ministry": "교육과학기술부",
+      "from": "2008-02-29",
+      "to": "2013-03-22",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제8852호 제22조, 제24조. The science function sat in this ministry. Its heads are compiled under the education lineage (offices.json OF035, primary key education) and are not repeated here",
+      "source": "offices.json OF035, lineage_overlaps and lineage_gaps"
+    },
+    {
+      "ministry": "미래창조과학부",
+      "from": "2013-03-23",
+      "to": "2017-07-25",
+      "in_scope": true,
+      "deputy_pm_title": null,
+      "legal_basis": "정부조직법 법률 제11690호 제26조, 제28조 (establishes). Renamed by 법률 제14839호 (effective 2017-07-26)",
+      "source": "offices.json OF047"
+    },
+    {
+      "ministry": "과학기술정보통신부",
+      "from": "2017-07-26",
+      "to": null,
+      "in_scope": true,
+      "deputy_pm_title": "부총리 겸 과학기술정보통신부장관, 2025-10-01 to cutoff (정부조직법 제19조③⑤ as amended by 법률 제21065호, effective on promulgation 2025-10-01)",
+      "legal_basis": "정부조직법 법률 제14839호 제26조, 제29조 (renamed from 미래창조과학부). Still listed in the version of 법률 제21065호 in force at the cutoff",
+      "source": "offices.json OF058"
+    }
+  ],
+  "spells": [
+    {
+      "name": "권숙일",
+      "name_hanja": "權肅一",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": null,
+      "gender": "M",
+      "ministry": "과학기술처",
+      "office_title": "과학기술처장관",
+      "deputy_pm": false,
+      "start": "1997-03-06",
+      "start_confidence": "medium",
+      "start_sources": [
+        "[연합뉴스] 1997-03-05 17:13:00 \"<聯合인터뷰> 權肅一 신임 과기처장관\" https://n.news.naver.com/mnews/article/001/0004238841 (accessed 2026-09-25T13:00:04-0400; snapshot roster/sources/science/news/naver_001_0004238841.html) (\"신임 과학기술처 장관으로 임명된 ... 5일\")",
+        "[연합뉴스] 1997-03-05 16:35:00 \"<프로필> 權肅一 신임 과학기술처장관\" https://n.news.naver.com/mnews/article/001/0004238404 (accessed 2026-09-25T13:00:10-0400; snapshot roster/sources/science/news/naver_001_0004238404.html)",
+        "BigKinds metadata: 동아일보 1997-03-06 \"장관급 10명 경질\" (query '권숙일 장관', accessed 2026-09-24T22:46:13-0400; snapshot roster/sources/science/news/bigkinds_권숙일_장관_1997-03-01_1997-03-12.json) (5일 개각)",
+        "BigKinds metadata: KBS 1997-03-06 \"김영삼 대통령, 신임 각료들에 임명장 수여-투명행정 국민신뢰 획득 당부\" (query '임명장 수여 강경식', accessed 2026-09-24T22:46:31-0400; snapshot roster/sources/science/news/bigkinds_임명장_수여_강경식_1997-03-05_1997-03-08.json) (임명장 on 6 March)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '권숙일 1997. 3. 6. ~ 1998. 2. 28.' (과학기술처/부 table). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 서울신문 1997-03-07 '7개부처 장관 등에 임명장': 김영삼 대통령은 6일 상오 청와대에서 ... 신임 장관급 인사 10명에게 임명장을 주었다 (accessed 2026-09-25T13:57:38-0400; snapshot roster/sources/science/verify/news/bigkinds_임명장_신임_장관_1997-03-05_1997-03-08.json)",
+        "[verifier] BigKinds metadata: 중부매일 1997-03-07 '＂투명 행정으로 국민신뢰를＂': 金 대통령 6일 오전 ... 신임 부처장 10명에게 임명장을 수여 (accessed 2026-09-25T13:57:38-0400; snapshot roster/sources/science/verify/news/bigkinds_임명장_신임_장관_1997-03-05_1997-03-08.json)",
+        "[verifier] BigKinds metadata: 문화일보 1997-03-06 '7개부처 포함 장관급 10명 경질': 5일 고건 신임총리에게 임명장을 수여한 뒤 고총리의 제청을 받아 ... 개각을 단행 (announcement on the 5th, alternative value) (accessed 2026-09-25T13:57:18-0400; snapshot roster/sources/science/verify/news/bigkinds_권숙일_임명장_1997-03-05_1997-03-08.json)"
+      ],
+      "end": "1998-02-27",
+      "end_confidence": "medium",
+      "end_sources": [
+        "offices.json OF005 (과학기술처 to 1998-02-27, abolished by 정부조직법 법률 제5529호 effective 1998-02-28) built from law.go.kr, see _rebuild/offices.json sources",
+        "[연합뉴스] 1998-02-28 15:27:00 \"새 정부조직법 발효(종합)\" https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400; snapshot roster/sources/science/news/naver_001_0004298139.html) (says 과학기술부 and six other new ministries have no minister or vice minister for the time being)",
+        "BigKinds metadata: 한겨레 1998-02-27 \"국정 사실상 마비/각 정부부처 표정\" (query '정부조직법 장관 직무', accessed 2026-09-24T22:46:55-0400; snapshot roster/sources/science/news/bigkinds_정부조직법_장관_직무_1998-02-26_1998-03-03.json) (법제처 view that sitting ministers stay until new ministers are appointed)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '권숙일 1997. 3. 6. ~ 1998. 2. 28.' (the page records 1998-02-28, not the day before the successor's 1998-03-03 start). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 세계일보 1998-02-27 '“새 정부 조각까지 현 내각 존속”/심우영 총무처 일문일답': 현 내각이 새정부 조각까지 당분간 일을 하기로 결정 ... 정부조직법이 공포되면 ... 과학기술부 ... 7개 부처 장관을 발령해야 한다 (holdover under 김대중 until the law took effect) (accessed 2026-09-25T14:00:11-0400; snapshot roster/sources/science/verify/news/bigkinds_과학기술부_장관_공석_1998-02-27_1998-03-03.json)",
+        "[verifier] BigKinds metadata: 한국경제 1998-03-02 '정부조직법 발효': 새 정부조직법이 28일 오후 공포 발효 ... 과학기술부 ... 등 명칭이 바뀌는 7개 부의 장관이 궐위 (accessed 2026-09-25T14:00:11-0400; snapshot roster/sources/science/verify/news/bigkinds_과학기술부_장관_공석_1998-02-27_1998-03-03.json)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "김영삼",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+      "notes": "Kim Young-sam holdover in office on 1998-02-25. Named in the 1997-03-05 reshuffle (연합 1997-03-05) and given the 임명장 on 1997-03-06 (KBS), Wikipedia gives 1997-03-06 as 취임일. No digital gazette before 2001. Age 62 in March 1997 per 연합 profile (born c. 1934-35), no exact birth date found. He did not continue as 과학기술부장관 because 연합 1998-02-28 reports the new ministry headless. The new law took effect on the afternoon of 1998-02-28, so the end follows the offices.json convention (last full day under the old name). [verifier] Start corrected from 1997-03-05 to 1997-03-06. The reshuffle was announced on 1997-03-05 after the new PM 고건 was appointed and made the 제청 that day, and the 임명장 were given on the morning of 1997-03-06 (서울신문, 중부매일 1997-03-07). The official MSIT list gives 1997. 3. 6., and the culture lineage uses 1997-03-06 for 송태호 from the same reshuffle (MCST list). In the gazette era the section date matched the 임명장 day rather than the announcement (오명: announced 2003-12-28, gazette and 임명장 2003-12-29). End kept at 1998-02-27 by the offices.json convention, although the law took effect on the afternoon of 1998-02-28 and MSIT prints 1998. 2. 28. as his last day."
+    },
+    {
+      "name": "강창희",
+      "name_hanja": "姜昌熙",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1946-08-03",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "1998-03-03",
+      "start_confidence": "high",
+      "start_sources": [
+        "[연합뉴스] 1998-03-03 12:39:00 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" https://n.news.naver.com/mnews/article/001/0004372354 (accessed 2026-09-24T22:44:26-0400; snapshot roster/sources/science/news/naver_001_0004372354.html) (\"金大中대통령은 3일 ... 17개 부의 조각을 완료\")",
+        "[연합뉴스] 1998-03-03 12:04:00 \"<조각 발표 官街표정> ...과기부\" https://n.news.naver.com/mnews/article/001/0004376876 (accessed 2026-09-25T12:59:27-0400; snapshot roster/sources/science/news/naver_001_0004376876.html)",
+        "BigKinds metadata: 전자신문 1998-03-04 \"\"국민의 정부\" 초대 내각 발표\" (query '강창희 과학기술부', accessed 2026-09-24T22:47:23-0400; snapshot roster/sources/science/news/bigkinds_강창희_과학기술부_1998-03-02_1998-03-05.json) (3일 초대 과학기술부 장관에 강창희 임명)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '강창희 1998. 3. 3. ~ 1999. 3. 22.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 한겨레 1998-03-04 'DJ “고 총리 헌신 기억할 것”/첫 조각 안팎': 김대중 대통령은 3일 오후 2시 신임 각료 17명에 대한 임명장을 수여 (accessed 2026-09-25T13:59:31-0400; snapshot roster/sources/science/verify/news/bigkinds_임명장_수여_조각_1998-03-03_1998-03-05.json)",
+        "[verifier] BigKinds metadata: 세계일보 1998-03-04 '김종필 총리서리 임명/김 대통령,17부장관 조각' (과기 강창희, 3일 조각 완료) (accessed 2026-09-25T13:59:11-0400; snapshot roster/sources/science/verify/news/bigkinds_과기_강창희_1998-03-03_1998-03-04.json)"
+      ],
+      "end": "1999-03-23",
+      "end_confidence": "high",
+      "end_sources": [
+        "BigKinds metadata: 서울신문 1999-03-24 \"科技장관 서정욱씨-해양장관 정상천씨\" (query '서정욱 과학기술부장관', accessed 2026-09-24T22:47:27-0400; snapshot roster/sources/science/news/bigkinds_서정욱_과학기술부장관_1999-03-20_1999-03-26.json) (23일 강창희 사표 수리, 후임 서정욱 임명)",
+        "BigKinds metadata: 중앙일보 1999-03-24 \"해양수산장관에 정상천,과학기술장관 서정욱씨 임명\" (query '서정욱 과학기술부장관', accessed 2026-09-24T22:47:27-0400; snapshot roster/sources/science/news/bigkinds_서정욱_과학기술부장관_1999-03-20_1999-03-26.json)",
+        "[연합뉴스] 1999-03-23 18:15:00 \"김대통령 신임 장관들에 임명장(종합)\" https://n.news.naver.com/mnews/article/001/0004519966 (accessed 2026-09-25T13:01:08-0400; snapshot roster/sources/science/news/naver_001_0004519966.html) (successor given 임명장 on 23 March)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '강창희 1998. 3. 3. ~ 1999. 3. 22.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 동아일보 1999-03-24 '과기 徐廷旭씨 해양 鄭相千씨': 김대통령은 또 당 복귀를 이유로 사의를 표명한 강창희 과학기술부장관의 사표를 수리하고 후임에 서정욱 ... (23일) (accessed 2026-09-25T13:58:21-0400; snapshot roster/sources/science/verify/news/bigkinds_강창희_사표_1999-03-15_1999-03-24.json)",
+        "[verifier] BigKinds metadata: 경향신문 1999-03-24 '과기 서정욱씨 해양 정상천씨 임명': 23일 ... 당으로 복귀하겠다며 사의를 표명한 강창희 과학기술부 장관의 사표를 수리 (accessed 2026-09-25T13:58:21-0400; snapshot roster/sources/science/verify/news/bigkinds_강창희_사표_1999-03-15_1999-03-24.json)"
+      ],
+      "end_reason": "resigned",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 15th NA member (자유민주연합, 대전 중구, seat 1996-05-30..2000-05-29, mona_cd PAQ11014) from _rebuild/na_members/na_members_15_22.csv",
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+      "notes": "Resigned to return to 자유민주연합 party work (내각제 push). Resignation accepted and successor appointed the same day. Birth date from na_members (NA-API)."
+    },
+    {
+      "name": "서정욱",
+      "name_hanja": "徐廷旭",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1934-11-19",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "1999-03-23",
+      "start_confidence": "high",
+      "start_sources": [
+        "[연합뉴스] 1999-03-23 18:15:00 \"김대통령 신임 장관들에 임명장(종합)\" https://n.news.naver.com/mnews/article/001/0004519966 (accessed 2026-09-25T13:01:08-0400; snapshot roster/sources/science/news/naver_001_0004519966.html) (임명장 on 23 March)",
+        "[연합뉴스] 1999-03-23 16:39:00 \"<연합인터뷰> 서정욱 신임 과학기술부장관\" https://n.news.naver.com/mnews/article/001/0004528566 (accessed 2026-09-25T13:01:24-0400; snapshot roster/sources/science/news/naver_001_0004528566.html)",
+        "BigKinds metadata: 서울신문 1999-03-24 \"科技장관 서정욱씨-해양장관 정상천씨\" (query '서정욱 과학기술부장관', accessed 2026-09-24T22:47:27-0400; snapshot roster/sources/science/news/bigkinds_서정욱_과학기술부장관_1999-03-20_1999-03-26.json)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '서정욱 1999. 3. 23. ~ 2001. 3. 25.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 전북도민일보 1999-03-24 '해양 장관 정상천 과기 장관 서정욱': 23일 ... 서정욱 전 SK텔레콤 사장을 새 장관으로 임명하고 이날 오후 각각 임명장을 수여 (accessed 2026-09-25T13:58:21-0400; snapshot roster/sources/science/verify/news/bigkinds_강창희_사표_1999-03-15_1999-03-24.json)"
+      ],
+      "end": "2001-03-26",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제14764호 (published 2001-03-30) 인사: ◉2001년 3월26일자 김영환(金榮煥) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)",
+        "BigKinds metadata: 서울신문 2001-03-27 \"국정원장 신건·통일 임동원\" (query '김영환 과학기술부장관', accessed 2026-09-24T22:47:53-0400; snapshot roster/sources/science/news/bigkinds_김영환_과학기술부장관_2001-03-26_2001-03-27.json) (26일 장관급 12명 교체)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '서정욱 1999. 3. 23. ~ 2001. 3. 25.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] 관보 제14764호 (published 2001-03-30) re-read in harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt: ◉2001년 3 월26일자 ... 김 영 환(金 榮 煥) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows (상임위원회, 국정감사) 2000-06-22 to 2001-02-27, all inside the spell. Absent from the old panel (audit coverage_gaps lead), now covered.",
+      "notes": "Birth date from ko.wikipedia 서정욱 (공학자) https://ko.wikipedia.org/w/index.php?oldid=41612725 (accessed 2026-09-25T13:19:51-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "김영환",
+      "name_hanja": "金榮煥",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-05-27",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "2001-03-26",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제14764호 (published 2001-03-30) 인사: ◉2001년 3월26일자 김영환(金榮煥) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)",
+        "BigKinds metadata: 디지털타임스 2001-03-27 \"김대중 대통령, 장관급 12명 교체 등 대폭 개각 단행\" (query '김영환 과학기술부장관', accessed 2026-09-24T22:47:53-0400; snapshot roster/sources/science/news/bigkinds_김영환_과학기술부장관_2001-03-26_2001-03-27.json)",
+        "BigKinds metadata: 경인일보 2001-03-27 \"＂경기남부권 정보통신 메카 육성＂\" (query '김영환 과학기술부장관', accessed 2026-09-24T22:47:53-0400; snapshot roster/sources/science/news/bigkinds_김영환_과학기술부장관_2001-03-26_2001-03-27.json) (appointment notified the night before)",
+        "[verifier] 관보 제14764호 (published 2001-03-30) re-read in harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt: section ◉2001년 3 월26일자, 김 영 환(金 榮 煥) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '김영환 2001. 3. 26. ~ 2002. 1. 28.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2002-01-29",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제15018호 (published 2002-02-02) 인사: ◉2002년 1월29일자 채영복(蔡永福) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N (accessed 2026-09-24T22:44:15-0400)",
+        "BigKinds metadata: 인천일보 2002-01-30 \"장관 9명·수석 6명 교체\" (query '채영복 과학기술부장관', accessed 2026-09-24T22:47:59-0400; snapshot roster/sources/science/news/bigkinds_채영복_과학기술부장관_2002-01-29_2002-01-30.json) (29일 개각)",
+        "[verifier] 관보 제15018호 (published 2002-02-02) re-read in harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt: ◉2002년 1 월29일자 ... 채 영 복(蔡 永 福) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '김영환 2001. 3. 26. ~ 2002. 1. 28.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": "sitting 16th NA member (새천년민주당, 경기 안산시갑, seat 2000-05-30..2004-05-29, mona_cd 1C04271Z) from _rebuild/na_members/na_members_15_22.csv",
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2001-04-17 to 2001-12-06, inside the spell. Absent from the old panel (coverage_gaps lead), now covered.",
+      "notes": "Birth date from na_members (NA-API). Not the same person as 김영환 (金永煥, b. 1971), 22nd NA member."
+    },
+    {
+      "name": "채영복",
+      "name_hanja": "蔡永福",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1937-05-25",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "2002-01-29",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15018호 (published 2002-02-02) 인사: ◉2002년 1월29일자 채영복(蔡永福) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N (accessed 2026-09-24T22:44:15-0400)",
+        "BigKinds metadata: 중도일보 2002-01-30 \"[세풍 핵심인물 이석희 전 국세청차장 체포] '세풍' 불살려라\" (query '채영복 과학기술부장관', accessed 2026-09-24T22:47:59-0400; snapshot roster/sources/science/news/bigkinds_채영복_과학기술부장관_2002-01-29_2002-01-30.json) (채영복 29일 신임 과학기술부장관으로 임명)",
+        "BigKinds metadata: 경인일보 2002-01-30 \"정밀화학공업 분야 개척 '원로'\" (query '채영복 과학기술부장관', accessed 2026-09-24T22:47:59-0400; snapshot roster/sources/science/news/bigkinds_채영복_과학기술부장관_2002-01-29_2002-01-30.json)",
+        "[verifier] 관보 제15018호 (published 2002-02-02) re-read in harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt: ◉2002년 1 월29일자 ... 채 영 복(蔡 永 福) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '채영복 2002. 1. 29. ~ 2003. 2. 26.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2003-02-27",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제15338호 (published 2003-03-05) 인사: ◉2003년 2월27일자 박호군(朴虎君) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+        "BigKinds metadata: 인천일보 2003-02-28 \"참여정부 첫 내각 발표(스트레이트)\" (query '박호군 과학기술부장관', accessed 2026-09-24T22:48:03-0400; snapshot roster/sources/science/news/bigkinds_박호군_과학기술부장관_2003-02-26_2003-02-28.json) (27일 첫 내각)",
+        "[verifier] 관보 제15338호 (published 2003-03-05) re-read in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt: ◉2003년 2 월27일자 ... 박 호 군(朴 虎 君) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '채영복 2002. 1. 29. ~ 2003. 2. 26.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "김대중",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2002-02-06 to 2002-11-07, inside the spell. Absent from the old panel (coverage_gaps lead), now covered.",
+      "notes": "Held over under 노무현 from 2003-02-25 until the first 노무현 cabinet on 2003-02-27. Birth date from ko.wikipedia 채영복 https://ko.wikipedia.org/w/index.php?oldid=42552010 (accessed 2026-09-25T13:19:53-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "박호군",
+      "name_hanja": "朴虎君",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1947-12-01",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "2003-02-27",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15338호 (published 2003-03-05) 인사: ◉2003년 2월27일자 박호군(朴虎君) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+        "BigKinds metadata: 인천일보 2003-02-28 \"참여정부 첫 내각 발표(스트레이트)\" (query '박호군 과학기술부장관', accessed 2026-09-24T22:48:03-0400; snapshot roster/sources/science/news/bigkinds_박호군_과학기술부장관_2003-02-26_2003-02-28.json) (27일 18개 부처 장관 임명)",
+        "BigKinds metadata: 국제신문 2003-02-28 \"김진표 부총리 등 19개부처 장관 발표\" (query '박호군 과학기술부장관', accessed 2026-09-24T22:48:03-0400; snapshot roster/sources/science/news/bigkinds_박호군_과학기술부장관_2003-02-26_2003-02-28.json)",
+        "[verifier] 관보 제15338호 (published 2003-03-05) re-read in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt: ◉2003년 2 월27일자 ... 박 호 군(朴 虎 君) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '박호군 2003. 2. 27. ~ 2003. 12. 27.' (MSIT dates the successor from the 12-28 announcement). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2003-12-29",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제15587호 (published 2004-01-03) 인사: ⊙2003년12월29일자 오명(吳明) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20040103_15587_00000000000000001319029706941000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029696574000&tocId=00000000000000001319029706941000&isTocOrder=N (accessed 2026-09-24T22:47:50-0400)",
+        "BigKinds metadata: 인천일보 2003-12-29 \"노, 부분 개각 단행\" (query '오명 과학기술부 장관 임명', accessed 2026-09-24T22:48:11-0400; snapshot roster/sources/science/news/bigkinds_오명_과학기술부_장관_임명_2003-12-24_2003-12-29.json) (28일 박호군 장관 자리에 오명 임명)",
+        "[verifier] 관보 제15587호 (published 2004-01-03) re-read in harvest/gazette_text/20040103_15587_00000000000000001319029706941000.txt: ⊙2003년12월29일자 오 명(吳 明) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '박호군 2003. 2. 27. ~ 2003. 12. 27.' (MSIT dates the successor from the 12-28 announcement) (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 국제신문 2003-12-29 '12·28 개각 의미': 노무현 대통령이 28일 ... 박호군 과학기술부 장관 등을 경질 (announcement 28 December, a Sunday) (accessed 2026-09-25T14:05:02-0400; snapshot roster/sources/science/verify/news/bigkinds_박호군_2003-12-27_2003-12-31.json)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2003-04-14 to 2003-12-08, inside the spell.",
+      "notes": "The reshuffle was announced on Sunday 2003-12-28 and the successor's gazette date is 2003-12-29. Birth date from ko.wikipedia 박호군 https://ko.wikipedia.org/w/index.php?oldid=40016425 (accessed 2026-09-25T13:19:53-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "오명",
+      "name_hanja": "吳明",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1940-03-21",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "과학기술부장관",
+      "deputy_pm": false,
+      "start": "2003-12-29",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15587호 (published 2004-01-03) 인사: ⊙2003년12월29일자 오명(吳明) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20040103_15587_00000000000000001319029706941000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029696574000&tocId=00000000000000001319029706941000&isTocOrder=N (accessed 2026-09-24T22:47:50-0400)",
+        "BigKinds metadata: 국제신문 2003-12-30 \"[뉴스 다이제스트] 盧 대통령, 신임장관 임명장 수여\" (query '오명 임명장', accessed 2026-09-24T22:54:36-0400; snapshot roster/sources/science/news/bigkinds_오명_임명장_2003-12-29_2003-12-31.json) (29일 임명장 수여식)",
+        "BigKinds metadata: 머니투데이 2003-12-29 \"盧 \"과학기술혁신,경쟁력 강화 위한 핵심전략\"\" (query '오명 임명장', accessed 2026-09-24T22:54:36-0400; snapshot roster/sources/science/news/bigkinds_오명_임명장_2003-12-29_2003-12-31.json)",
+        "[verifier] 관보 제15587호 (published 2004-01-03) re-read in harvest/gazette_text/20040103_15587_00000000000000001319029706941000.txt: ⊙2003년12월29일자 오 명(吳 明) 국무위원에 임함 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '오명 2003. 12. 28. ~ 2006. 2. 9.' (conflicts by one day with the gazette, gazette kept). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2004-10-17",
+      "end_confidence": "high",
+      "end_sources": [
+        "관보 제15826호 (published 2004-10-22) 인사: ⊙2004년10월18일자 과학기술부장관 국무위원 오명(吳明) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; text harvest/gazette_text/20041022_15826_00000000000000001319032585637000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319032573914000&tocId=00000000000000001319032585637000&isTocOrder=N (accessed 2026-09-24T22:52:59-0400)",
+        "BigKinds metadata: 광주매일신문 2004-10-19 \"오명 과기부장관, 과기부총리로 승진\" (query '오명 부총리 과학기술부', accessed 2026-09-24T22:48:15-0400; snapshot roster/sources/science/news/bigkinds_오명_부총리_과학기술부_2004-10-15_2004-10-20.json) (18일 부총리 임명장)",
+        "offices.json OF027 (부총리 겸 과학기술부장관 from 2004-10-18) built from law.go.kr, see _rebuild/offices.json sources",
+        "[verifier] 관보 제15826호 (published 2004-10-22) re-read in harvest/gazette_text/20041022_15826_00000000000000001319032585637000.txt: ⊙2004년10월18일자 과학기술부장관 국무위원 오 명(吳 明) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] BigKinds metadata: 동아일보 2004-10-19 '吳부총리 “밀반입 우라늄은 그냥 천연우라늄일 뿐”' (오명 부총리 겸 과학기술부 장관은 19일) and 전자신문 2004-10-20 '오명 과기부총리, 첫 국무회의' (19일 부총리 자격으로 처음 국무회의 참석) (accessed 2026-09-25T14:13:55-0400; snapshot roster/sources/science/verify/news/bigkinds_오명_부총리_2004-10-18_2004-10-20.json)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2004-02-11 to 2004-10-04 (affiliation 과학기술부), inside the spell. The old panel start was later than 2004-02-11 (coverage_gaps partially_outside lead), fixed here.",
+      "notes": "Wikipedia gives 2003-12-28, the day the appointment was announced (a Sunday). The gazette section date is 2003-12-29, the day of the 임명장. The ministry name did not change on 2004-10-18. The spell is split because the office became 부총리 겸 과학기술부장관 with a new appointment notice. end_reason ministry_reorganized here means that title change. Birth date from ko.wikipedia 오명 (정치인) https://ko.wikipedia.org/w/index.php?oldid=41920780 (accessed 2026-09-25T13:19:54-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "오명",
+      "name_hanja": "吳明",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1940-03-21",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "부총리 겸 과학기술부장관",
+      "deputy_pm": true,
+      "start": "2004-10-18",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제15826호 (published 2004-10-22) 인사: ⊙2004년10월18일자 과학기술부장관 국무위원 오명(吳明) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; text harvest/gazette_text/20041022_15826_00000000000000001319032585637000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319032573914000&tocId=00000000000000001319032585637000&isTocOrder=N (accessed 2026-09-24T22:52:59-0400)",
+        "BigKinds metadata: 한겨레 2004-10-20 \"부총리 승격 과기부 혁신본부 닻 올렸다\" (query '오명 부총리 과학기술부', accessed 2026-09-24T22:48:15-0400; snapshot roster/sources/science/news/bigkinds_오명_부총리_과학기술부_2004-10-15_2004-10-20.json) (18일 부총리 겸 과기부 장관 임명장)",
+        "BigKinds metadata: 중도일보 2004-10-19 \"과기부 부총리 부처 공식출범\" (query '오명 부총리 과학기술부', accessed 2026-09-24T22:48:15-0400; snapshot roster/sources/science/news/bigkinds_오명_부총리_과학기술부_2004-10-15_2004-10-20.json)",
+        "[verifier] 관보 제15826호 (published 2004-10-22) re-read in harvest/gazette_text/20041022_15826_00000000000000001319032585637000.txt: ⊙2004년10월18일자 ... 오 명(吳 明) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] BigKinds metadata: 동아일보 2004-10-19 (오명 부총리 겸 과학기술부 장관은 19일) and 전자신문 2004-10-20 '오명 과기부총리, 첫 국무회의' (accessed 2026-09-25T14:13:55-0400; snapshot roster/sources/science/verify/news/bigkinds_오명_부총리_2004-10-18_2004-10-20.json)"
+      ],
+      "end": "2006-02-10",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제16195호 (published 2006-02-17) 인사: ⊙2006년 2월10일자 김우식(金雨植) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; text harvest/gazette_text/20060217_16195_00000000000000001319600226028000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600208544000&tocId=00000000000000001319600226028000&isTocOrder=N (accessed 2026-09-24T22:49:51-0400)",
+        "BigKinds metadata: 전자신문 2006-02-11 \"오명 1대 과기부총리 10일 이임…미국행\" (query '오명 부총리 이임', accessed 2026-09-24T22:48:55-0400; snapshot roster/sources/science/news/bigkinds_오명_부총리_이임_2006-02-08_2006-02-12.json) (10일 이임식)",
+        "[verifier] 관보 제16195호 (published 2006-02-17) re-read in harvest/gazette_text/20060217_16195_00000000000000001319600226028000.txt: ⊙2006년 2 월10일자 김 우 식(金 雨 植) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '오명 2003. 12. 28. ~ 2006. 2. 9.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": true,
+      "reappointed_on_reorg": true,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2004-10-20 to 2005-12-07 (affiliation 부총리겸과학기술부), inside the spell. One 국회본회의 row dated 2000-07-13 with this title is a misattached row (invalid hearing type).",
+      "notes": "New appointment notice 국무위원에 임함 부총리 겸 과학기술부장관에 보함 dated 2004-10-18 (관보 제15826호). First 과학기술부총리."
+    },
+    {
+      "name": "김우식",
+      "name_hanja": "金雨植",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1940-01-26",
+      "gender": "M",
+      "ministry": "과학기술부",
+      "office_title": "부총리 겸 과학기술부장관",
+      "deputy_pm": true,
+      "start": "2006-02-10",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제16195호 (published 2006-02-17) 인사: ⊙2006년 2월10일자 김우식(金雨植) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; text harvest/gazette_text/20060217_16195_00000000000000001319600226028000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600208544000&tocId=00000000000000001319600226028000&isTocOrder=N (accessed 2026-09-24T22:49:51-0400)",
+        "BigKinds metadata: 서울신문 2006-02-11 \"靑 “중대결함 없다” 5부 장관 임명\" (query '김우식 임명장', accessed 2026-09-24T22:48:51-0400; snapshot roster/sources/science/news/bigkinds_김우식_임명장_2006-02-09_2006-02-12.json) (10일 오전 임명장)",
+        "BigKinds metadata: 세계일보 2006-02-11 \"노대통령 \"청문회 정쟁으로 왜곡”\" (query '김우식 임명장', accessed 2026-09-24T22:48:51-0400; snapshot roster/sources/science/news/bigkinds_김우식_임명장_2006-02-09_2006-02-12.json)",
+        "[verifier] 관보 제16195호 (published 2006-02-17) re-read in harvest/gazette_text/20060217_16195_00000000000000001319600226028000.txt: ⊙2006년 2 월10일자 김 우 식(金 雨 植) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '김우식 2006. 2. 10. ~ 2008. 2. 28.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2008-02-28",
+      "end_confidence": "medium",
+      "end_sources": [
+        "offices.json OF027 (과학기술부 to 2008-02-28, abolished by 정부조직법 법률 제8852호 effective 2008-02-29) built from law.go.kr, see _rebuild/offices.json sources",
+        "BigKinds metadata: 파이낸셜뉴스 2008-02-29 \"[장·차관 이임사] 김우식 과기부장관 “변화 두려워해선 안돼”\" (query '김우식 부총리 이임식', accessed 2026-09-24T22:48:41-0400; snapshot roster/sources/science/news/bigkinds_김우식_부총리_이임식_2008-02-25_2008-03-03.json) (29일 이임식, 과학기술부 역사 마감)",
+        "관보 제16703호 (published 2008-03-06) 인사: ⊙2008년 2월 29일자 김도연(金道然) 국무위원에 임함 교육과학기술부장관에 보함; text harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '김우식 2006. 2. 10. ~ 2008. 2. 28.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "노무현",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2006-02-07 row is his confirmation hearing as 후보자 (meeting 34088). Later valid-type rows run to 2008-02-04, inside the spell. Rows dated 2002-04-19..2003-12-09 are of invalid types (국회본회의, 국정조사, 예산결산특별위원회), misattached.",
+      "notes": "Held over under 이명박 from 2008-02-25 until 과학기술부 was abolished. His 이임식 was on 2008-02-29, the day 법률 제8852호 took effect and 교육과학기술부장관 김도연 was appointed. Birth date from ko.wikipedia 김우식 (1940년) https://ko.wikipedia.org/w/index.php?oldid=40898869 (accessed 2026-09-25T13:19:54-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "최문기",
+      "name_hanja": "崔文基",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1951-04-07",
+      "gender": "M",
+      "ministry": "미래창조과학부",
+      "office_title": "미래창조과학부장관",
+      "deputy_pm": false,
+      "start": "2013-04-17",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제18001호 (published 2013-04-23) 인사: 최문기(崔文基) 국무위원에 임함 미래창조과학부장관에 보함 2013. 4. 17.; text harvest/gazette_text/20130423_18001_00000000000000001366592331021000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001366592300927000&tocId=00000000000000001366592331021000&isTocOrder=N (accessed 2026-09-24T22:57:24-0400)",
+        "BigKinds metadata: 전자신문 2013-04-17 \"최문기 미래부 장관 취임…창조경제 '시동'\" (query '최문기 청문보고서 채택', accessed 2026-09-24T22:55:07-0400; snapshot roster/sources/science/news/bigkinds_최문기_청문보고서_채택_2013-04-01_2013-04-17.json) (17일 임명)",
+        "BigKinds metadata: 동아일보 2013-04-18 \"朴대통령, 윤진숙 임명 강행… 취임 52일만에 초대내각 완료\" (query '최문기 임명장', accessed 2026-09-24T22:55:11-0400; snapshot roster/sources/science/news/bigkinds_최문기_임명장_2013-04-16_2013-04-18.json)",
+        "[verifier] 관보 제18001호 (published 2013-04-23) re-read in harvest/gazette_text/20130423_18001_00000000000000001366592331021000.txt: 최문기(崔文基) 국무위원에 임함 미래창조과학부장관에 보함 2013. 4. 17.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최문기 2013. 4. 17. ~ 2014. 7. 15.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2014-07-16",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제18312호 (published 2014-07-23) 인사: 최양희(崔陽熙) 국무위원에 임함 미래창조과학부장관에 보함 2014. 7. 16.; text harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001405928075418000&tocId=00000000000000001405928108802000&isTocOrder=N (accessed 2026-09-24T22:58:20-0400)",
+        "BigKinds metadata: 이데일리 2014-07-16 \"[포토]초대 미래창조과학부 최문기 장관 이임식 개최\" (query '최문기 이임식', accessed 2026-09-24T22:55:32-0400; snapshot roster/sources/science/news/bigkinds_최문기_이임식_2014-07-14_2014-07-17.json) (15일 오후 이임식)",
+        "[verifier] 관보 제18312호 (published 2014-07-23) re-read in harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt: 최양희(崔陽熙) 국무위원에 임함 미래창조과학부장관에 보함 2014. 7. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최문기 2013. 4. 17. ~ 2014. 7. 15.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2013-04-01 row is his confirmation hearing (meeting 42596). Official rows 2013-04-22 to 2014-07-08 are inside the spell.",
+      "notes": "이임식 held 2014-07-15. The legal end is set to the successor's appointment date 2014-07-16. Birth date from ko.wikipedia 최문기 https://ko.wikipedia.org/w/index.php?oldid=40469159 (accessed 2026-09-25T13:19:55-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "최양희",
+      "name_hanja": "崔陽熙",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-07-27",
+      "gender": "M",
+      "ministry": "미래창조과학부",
+      "office_title": "미래창조과학부장관",
+      "deputy_pm": false,
+      "start": "2014-07-16",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제18312호 (published 2014-07-23) 인사: 최양희(崔陽熙) 국무위원에 임함 미래창조과학부장관에 보함 2014. 7. 16.; text harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001405928075418000&tocId=00000000000000001405928108802000&isTocOrder=N (accessed 2026-09-24T22:58:20-0400)",
+        "BigKinds metadata: 머니투데이 2014-07-16 \"[현장+]'가는 자와 오는 자' 그래도 미래부 시계는 돈다\" (query '최문기 이임식', accessed 2026-09-24T22:55:32-0400; snapshot roster/sources/science/news/bigkinds_최문기_이임식_2014-07-14_2014-07-17.json) (15일 이임식, 16일 신임 장관 취임식)",
+        "BigKinds metadata: 머니투데이 2014-07-17 \"내일 최경환 부총리 등 2기 내각 장관 임명장 수여\" (query '최양희 임명장', accessed 2026-09-24T22:55:28-0400; snapshot roster/sources/science/news/bigkinds_최양희_임명장_2014-07-14_2014-07-17.json) (임명장 on 18 July)",
+        "[verifier] 관보 제18312호 (published 2014-07-23) re-read in harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt: 최양희(崔陽熙) 국무위원에 임함 미래창조과학부장관에 보함 2014. 7. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최양희 2014. 7. 16. ~ 2017. 7. 10.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2017-07-11",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제19052호 (published 2017-07-17) 인사: 유영민(兪英民) 국무위원에 임함 미래창조과학부장관에 보함 2017.7.11. (name printed in the facing column, order 김은경 7.4, 정현백 7.7, 유영민 7.11); text harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N (accessed 2026-09-24T22:51:32-0400)",
+        "[연합뉴스] 2017-07-11 10:06:06 \"최양희 미래부장관 퇴임…\"미래부 할 일 더욱 커질 것\"\" https://n.news.naver.com/mnews/article/001/0009397927 (accessed 2026-09-25T13:02:42-0400; snapshot roster/sources/science/news/naver_001_0009397927.html) (이임식 11 July)",
+        "[뉴스1] 2017-07-11 11:27:18 \"최양희 \"정부 21세기형으로 바뀌어야…'플랫폼 부처' 필요\"(종합)\" https://n.news.naver.com/mnews/article/421/0002832650 (accessed 2026-09-25T13:02:32-0400; snapshot roster/sources/science/news/naver_421_0002832650.html)",
+        "[verifier] 관보 제19052호 (published 2017-07-17) re-read in harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt: 국무위원에 임함 미래창조과학부장관에 보함 2017.7.11. (name 유영민(兪英民) printed in the facing column, third after 김은경 and 정현백); item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최양희 2014. 7. 16. ~ 2017. 7. 10.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "박근혜",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2014-07-07 row is his confirmation hearing (meeting 44162). Official rows to 2017-02-23 are inside the spell. A 2012-09-06 국회본회의 row is misattached.",
+      "notes": "The gazette date 2014-07-16 precedes the 임명장 ceremony on 2014-07-18. Held over under acting president 황교안 and under 문재인 (from 2017-05-10) until 2017-07-11. Birth date from ko.wikipedia 최양희 https://ko.wikipedia.org/w/index.php?oldid=41386029 (accessed 2026-09-25T13:19:55-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "유영민",
+      "name_hanja": "兪英民",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1951-08-27",
+      "gender": "M",
+      "ministry": "미래창조과학부",
+      "office_title": "미래창조과학부장관",
+      "deputy_pm": false,
+      "start": "2017-07-11",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19052호 (published 2017-07-17) 인사: 유영민(兪英民) 국무위원에 임함 미래창조과학부장관에 보함 2017.7.11. (name printed in the facing column, order 김은경 7.4, 정현백 7.7, 유영민 7.11); text harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N (accessed 2026-09-24T22:51:32-0400)",
+        "[연합뉴스] 2017-07-11 09:57:27 \"文대통령, 전자결재로 유영민·정현백 장관 임명\" https://n.news.naver.com/mnews/article/001/0009397883 (accessed 2026-09-25T13:01:58-0400; snapshot roster/sources/science/news/naver_001_0009397883.html) (청와대: approved by electronic signature on the evening of 10 July)",
+        "[뉴스1] 2017-07-11 09:10:17 \"文대통령, 여가부 정현백·미래부 유영민 장관 전자결재 임명(상보)\" https://n.news.naver.com/mnews/article/421/0002832167 (accessed 2026-09-25T13:02:19-0400; snapshot roster/sources/science/news/naver_421_0002832167.html)",
+        "[verifier] 관보 제19052호 (published 2017-07-17) re-read in harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt: 국무위원에 임함 미래창조과학부장관에 보함 2017.7.11. (유영민(兪英民), facing column); item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유영민 2017. 7. 11. ~ 2017. 7. 25.' (미래창조과학부 table). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2017-07-25",
+      "end_confidence": "high",
+      "end_sources": [
+        "offices.json OF047 (미래창조과학부 to 2017-07-25, renamed 과학기술정보통신부 by 법률 제14839호 effective 2017-07-26) built from law.go.kr, see _rebuild/offices.json sources",
+        "관보 제19067호 (published 2017-08-07) 인사: 유영민(兪英民) 국무위원에 임함 과학기술정보통신부장관에 보함 2017.7.26.; text harvest/gazette_text/20170807_19067_00000000000000001501739464273000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001501739398395000&tocId=00000000000000001501739464273000&isTocOrder=N (accessed 2026-09-24T22:58:43-0400)",
+        "[verifier] 관보 제19067호 (published 2017-08-07) re-read in harvest/gazette_text/20170807_19067_00000000000000001501739464273000.txt: 유 영 민(兪英民) 국무위원에 임함 과 학 기 술 정보통신부장관에 보함 2017.7.26.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유영민 2017. 7. 11. ~ 2017. 7. 25.' (미래창조과학부 table) (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2017-07-04 row is his confirmation hearing as 미래창조과학부장관후보자 (meeting 47206).",
+      "notes": "The president signed electronically on 2017-07-10 evening (청와대 via 연합), the gazette prints 2017.7.11. Birth date from ko.wikipedia 유영민 (1951년) https://ko.wikipedia.org/w/index.php?oldid=42234537 (accessed 2026-09-25T13:19:56-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "유영민",
+      "name_hanja": "兪英民",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1951-08-27",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2017-07-26",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19067호 (published 2017-08-07) 인사: 유영민(兪英民) 국무위원에 임함 과학기술정보통신부장관에 보함 2017.7.26.; text harvest/gazette_text/20170807_19067_00000000000000001501739464273000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001501739398395000&tocId=00000000000000001501739464273000&isTocOrder=N (accessed 2026-09-24T22:58:43-0400)",
+        "[연합뉴스] 2017-07-26 16:53:07 \"과학기술정보통신부 출범\" https://n.news.naver.com/mnews/article/001/0009435592 (accessed 2026-09-25T13:04:08-0400; snapshot roster/sources/science/news/naver_001_0009435592.html) (현판 제막 with 유영민 장관 on 26 July)",
+        "[이데일리] 2017-07-26 16:30:28 \"노무현 정부시절 과학기술부+정보통신부=‘과기정통부’ 출범한 사연\" https://n.news.naver.com/mnews/article/018/0003883714 (accessed 2026-09-25T13:04:18-0400; snapshot roster/sources/science/news/naver_018_0003883714.html)",
+        "[verifier] 관보 제19067호 (published 2017-08-07) re-read in harvest/gazette_text/20170807_19067_00000000000000001501739464273000.txt: 유 영 민(兪英民) 국무위원에 임함 과 학 기 술 정보통신부장관에 보함 2017.7.26.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유영민 2017. 7. 26. ~ 2019. 9. 8.' (과기정통부 table). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2019-09-09",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제19589호 (published 2019-09-19) 인사: 최기영(崔起榮) 국무위원에 임함 과학기술정보통신부장관에 보함 2019.9.9.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001568766603093000&tocId=00000000000000001568766613365000&isTocOrder=N (accessed 2026-09-24T22:35:16-0400; snapshot roster/sources/science/gazette/gazette_19589_766613365000.pdf)",
+        "[뉴시스] 2019-09-09 16:24:29 \"이임식 갖는 유영민 과기부 장관\" https://n.news.naver.com/mnews/article/003/0009446778 (accessed 2026-09-25T13:03:32-0400; snapshot roster/sources/science/news/naver_003_0009446778.html) (이임식 9 September)",
+        "[verifier] 관보 제19589호 (published 2019-09-19) re-read in harvest/gazette_text/20190919_19589_00000000000000001568766613365000.txt: 최기영(崔起榮) 국무위원에 임함 과학기술정보통신부장관에 보함 2019.9.9.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유영민 2017. 7. 26. ~ 2019. 9. 8.' (과기정통부 table) (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": true,
+      "reappointed_on_reorg": true,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "Valid-type rows 2017-09-21 to 2019-07-15, inside the spell. A 2014-02-04 국회본회의 row with this title is misattached.",
+      "notes": "A new appointment notice (국무위원에 임함 과학기술정보통신부장관에 보함 2017.7.26.) was issued on the renaming."
+    },
+    {
+      "name": "최기영",
+      "name_hanja": "崔起榮",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1955-08-30",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2019-09-09",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제19589호 (published 2019-09-19) 인사: 최기영(崔起榮) 국무위원에 임함 과학기술정보통신부장관에 보함 2019.9.9.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001568766603093000&tocId=00000000000000001568766613365000&isTocOrder=N (accessed 2026-09-24T22:35:16-0400; snapshot roster/sources/science/gazette/gazette_19589_766613365000.pdf)",
+        "[MBC] 2019-09-09 11:32:30 \"문 대통령, 조국 법무부 장관 후보자 등 임명 재가\" https://n.news.naver.com/mnews/article/214/0000978148 (accessed 2026-09-25T13:03:03-0400; snapshot roster/sources/science/news/naver_214_0000978148.html) (임기 개시 9일 0시)",
+        "[뉴시스] 2019-09-09 11:30:43 \"文대통령, 조국 법무부 장관 임명 재가…정면돌파 의지(1보)\" https://n.news.naver.com/mnews/article/003/0009445645 (accessed 2026-09-25T13:03:10-0400; snapshot roster/sources/science/news/naver_003_0009445645.html)",
+        "[verifier] 관보 제19589호 (published 2019-09-19) re-read in harvest/gazette_text/20190919_19589_00000000000000001568766613365000.txt: 최기영(崔起榮) 국무위원에 임함 과학기술정보통신부장관에 보함 2019.9.9.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최기영 2019. 9. 9. ~ 2021. 5. 13.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2021-05-14",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제20006호 (published 2021-05-24) 인사: 임혜숙(林惠淑) 국무위원에 임함 과학기술정보통신부장관에 보함 2021. 5. 14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001621476581297000&tocId=I0000000000000001621212324307000&isTocOrder=N (accessed 2026-09-24T22:59:14-0400; snapshot roster/sources/science/gazette/gazette_20006_212324307000.pdf)",
+        "[이데일리] 2021-05-14 18:08:02 \"\"코로나19 논문 보며 공부해 직원들 애먹었죠\"···최기영 이임식\" https://n.news.naver.com/mnews/article/018/0004930025 (accessed 2026-09-25T13:05:00-0400; snapshot roster/sources/science/news/naver_018_0004930025.html) (이임식 14 May)",
+        "[뉴시스] 2021-05-14 15:40:00 \"디지털 뉴딜·AI 강국 도약 정책 설계 최기영 과기장관 임기 마침표\" https://n.news.naver.com/mnews/article/003/0010499135 (accessed 2026-09-25T13:05:12-0400; snapshot roster/sources/science/news/naver_003_0010499135.html)",
+        "[verifier] 관보 제20006호 (published 2021-05-24) re-read in harvest/gazette_text/20210524_20006_I0000000000000001621212324307000.txt: 임혜숙(林惠淑) 국무위원에 임함 과학기술정보통신부장관에 보함 2021. 5. 14.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '최기영 2019. 9. 9. ~ 2021. 5. 13.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2019-09-02 row is his confirmation hearing (meeting 49358). Official rows to 2021-04-22 are inside the spell. 국회본회의/국정조사 rows dated 2014-2015 are misattached.",
+      "notes": "Birth date from ko.wikipedia 최기영 (공학자) https://ko.wikipedia.org/w/index.php?oldid=41939288 (accessed 2026-09-25T13:19:56-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "임혜숙",
+      "name_hanja": "林惠淑",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1963",
+      "gender": "F",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2021-05-14",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제20006호 (published 2021-05-24) 인사: 임혜숙(林惠淑) 국무위원에 임함 과학기술정보통신부장관에 보함 2021. 5. 14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001621476581297000&tocId=I0000000000000001621212324307000&isTocOrder=N (accessed 2026-09-24T22:59:14-0400; snapshot roster/sources/science/gazette/gazette_20006_212324307000.pdf)",
+        "[연합뉴스] 2021-05-14 18:09:41 \"황보승희 \"임혜숙 임명 강행 뒤에 김정숙 여사 說\"(종합)\" https://n.news.naver.com/mnews/article/001/0012395284 (accessed 2026-09-25T13:04:36-0400; snapshot roster/sources/science/news/naver_001_0012395284.html)",
+        "[뉴시스] 2021-05-14 18:39:24 \"野 황보승희 \"임혜숙 임명 배후에 김정숙 있다는 얘기도\"\" https://n.news.naver.com/mnews/article/003/0010499542 (accessed 2026-09-25T13:04:48-0400; snapshot roster/sources/science/news/naver_003_0010499542.html)",
+        "[verifier] 관보 제20006호 (published 2021-05-24) re-read in harvest/gazette_text/20210524_20006_I0000000000000001621212324307000.txt: 임혜숙(林惠淑) 국무위원에 임함 과학기술정보통신부장관에 보함 2021. 5. 14.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '임혜숙 2021. 5. 14. ~ 2022. 5. 9.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2022-05-10",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제20255호 (published 2022-05-23) 인사: 이종호(李宗昊) 국무위원에 임함 과학기술정보통신부장관에 보함 2022. 5. 10.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/science/gazette/gazette_20255_659816213000.pdf)",
+        "[이데일리] 2022-05-09 17:07:01 \"\"과기정통부는 미래 이끌 부처\"…첫 여성장관 마지막 한마디\" https://n.news.naver.com/mnews/article/018/0005211109 (accessed 2026-09-25T13:06:08-0400; snapshot roster/sources/science/news/naver_018_0005211109.html) (이임식 9 May)",
+        "[뉴시스] 2022-05-09 17:04:25 \"임혜숙 과기정통부 장관 이임식\" https://n.news.naver.com/mnews/article/003/0011172508 (accessed 2026-09-25T13:05:54-0400; snapshot roster/sources/science/news/naver_003_0011172508.html)",
+        "[verifier] 관보 제20255호 (published 2022-05-23) re-read in harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt: 이종호(李宗昊) 국무위원에 임함 과학기술정보통신부장관에 보함 2022. 5. 10.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '임혜숙 2021. 5. 14. ~ 2022. 5. 9.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] [연합뉴스] 2022-05-09 18:09:11 \"[2보] 문대통령, 유은혜·박범계·이인영 사표 수리\" https://n.news.naver.com/mnews/article/001/0013166143 (accessed 2026-09-25T13:03:07-0400; snapshot roster/sources/science/verify/news/naver_001_0013166143.html) (only three ministers' resignations accepted on 9 May, 청와대 held back the rest to keep a 국무회의 quorum, so her resignation was not accepted before the successor's appointment)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "문재인",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2021-05-04 row is her confirmation hearing (meeting 51013). Official rows to 2022-04-26 are inside the spell. A 2016-08-30 국정조사 row is misattached.",
+      "notes": "이임식 held 2022-05-09, the last day of the 문재인 term. No record of an earlier acceptance of resignation was found, so the end is the successor's appointment date. Birth year from ko.wikipedia 임혜숙 https://ko.wikipedia.org/w/index.php?oldid=42391989 (accessed 2026-09-25T13:19:57-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "이종호",
+      "name_hanja": "李宗昊",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1966-04-12",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2022-05-10",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제20255호 (published 2022-05-23) 인사: 이종호(李宗昊) 국무위원에 임함 과학기술정보통신부장관에 보함 2022. 5. 10.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/science/gazette/gazette_20255_659816213000.pdf)",
+        "[지디넷코리아] 2022-05-10 15:14:01 \"尹, 이종호 과기정통부 포함 7개 부처 장관 임명\" https://n.news.naver.com/mnews/article/092/0002256310 (accessed 2026-09-25T13:05:24-0400; snapshot roster/sources/science/news/naver_092_0002256310.html)",
+        "[아시아경제] 2022-05-10 18:02:40 \"'과학 기술 홀대론?' 이종호 장관 \"컨트롤타워 기능 강화는 필요\"\" https://n.news.naver.com/mnews/article/277/0005086908 (accessed 2026-09-25T13:05:37-0400; snapshot roster/sources/science/news/naver_277_0005086908.html)",
+        "[verifier] 관보 제20255호 (published 2022-05-23) re-read in harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt: 이종호(李宗昊) 국무위원에 임함 과학기술정보통신부장관에 보함 2022. 5. 10.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '이종호 2022. 5. 10. ~ 2024. 8. 15.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2024-08-16",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제20821호 (published 2024-08-26) 인사: 유상임(劉相任) 국무위원에 임함 과학기술정보통신부장관에 보함 2024. 8. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001724309651854000&tocId=I0000000000000001723783734327000&isTocOrder=N (accessed 2026-09-24T22:59:32-0400; snapshot roster/sources/science/gazette/gazette_20821_783734327000.pdf)",
+        "[연합뉴스] 2024-08-16 20:25:35 \"이종호 과학기술정보통신부 장관 이임식\" https://n.news.naver.com/mnews/article/001/0014878703 (accessed 2026-09-25T13:07:00-0400; snapshot roster/sources/science/news/naver_001_0014878703.html) (이임식 16 August)",
+        "[뉴시스] 2024-08-16 22:07:46 \"이종호 과학기술정보통신부 장관 이임식\" https://n.news.naver.com/mnews/article/003/0012732591 (accessed 2026-09-25T13:07:13-0400; snapshot roster/sources/science/news/naver_003_0012732591.html)",
+        "[verifier] 관보 제20821호 (published 2024-08-26) re-read in harvest/gazette_text/20240826_20821_I0000000000000001723783734327000.txt: 유상임(劉相任) 국무위원에 임함 과학기술정보통신부장관에 보함 2024. 8. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '이종호 2022. 5. 10. ~ 2024. 8. 15.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "윤석열",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2022-05-03 row is his confirmation hearing (meeting 51863). Official rows to 2024-07-16 are inside the spell. 2014-2017 국회본회의/국정조사 rows are misattached.",
+      "notes": "Birth date from ko.wikipedia 이종호 (공학자) https://ko.wikipedia.org/w/index.php?oldid=41173281 (accessed 2026-09-25T13:19:57-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "유상임",
+      "name_hanja": "劉相任",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1959-10-10",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2024-08-16",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제20821호 (published 2024-08-26) 인사: 유상임(劉相任) 국무위원에 임함 과학기술정보통신부장관에 보함 2024. 8. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001724309651854000&tocId=I0000000000000001723783734327000&isTocOrder=N (accessed 2026-09-24T22:59:32-0400; snapshot roster/sources/science/gazette/gazette_20821_783734327000.pdf)",
+        "[아이뉴스24] 2024-08-16 14:15:07 \"윤 대통령, 유상임 과기정통부 장관 임명 재가\" https://n.news.naver.com/mnews/article/031/0000862422 (accessed 2026-09-25T13:06:31-0400; snapshot roster/sources/science/news/naver_031_0000862422.html) (대통령실: appointed 16일 자)",
+        "[TV조선] 2024-08-16 14:52:35 \"尹대통령, 유상임 과기정통부 장관 임명안 재가\" https://n.news.naver.com/mnews/article/448/0000472176 (accessed 2026-09-25T13:06:42-0400; snapshot roster/sources/science/news/naver_448_0000472176.html)",
+        "[verifier] 관보 제20821호 (published 2024-08-26) re-read in harvest/gazette_text/20240826_20821_I0000000000000001723783734327000.txt: 유상임(劉相任) 국무위원에 임함 과학기술정보통신부장관에 보함 2024. 8. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유상임 2024. 8. 16. ~ 2025. 7. 15.'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2025-07-16",
+      "end_confidence": "inferred_from_successor",
+      "end_sources": [
+        "관보 제21043호 (published 2025-07-25) 인사: 배경훈(裵慶勳) 국무위원에 임함 과학기술정보통신부장관에 보함 2025. 7. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400; snapshot roster/sources/science/gazette/gazette_21043_058642620000.pdf)",
+        "[오마이뉴스] 2025-07-16 14:49:11 \"윤 정부 마지막 임명 장관이 떠나며 건넨 말은?\" https://n.news.naver.com/mnews/article/047/0002481145 (accessed 2026-09-25T13:07:57-0400; snapshot roster/sources/science/news/naver_047_0002481145.html) (이임식 16 July)",
+        "[강원도민일보] 2025-07-17 00:09:50 \"강원도 출신 유상임·김완섭 장관 임기 마무리\" https://n.news.naver.com/mnews/article/654/0000131902 (accessed 2026-09-25T13:08:11-0400; snapshot roster/sources/science/news/naver_654_0000131902.html)",
+        "[verifier] 관보 제21043호 (published 2025-07-25) re-read in harvest/gazette_text/20250725_21043_I0000000000000001753058642620000.txt: 배경훈(裵慶勳) 국무위원에 임함 과학기술정보통신부장관에 보함 2025. 7. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '유상임 2024. 8. 16. ~ 2025. 7. 15.' (day-before convention). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] BigKinds metadata: 매일경제 2025-06-05 '“웃으면서 합시다”...': 장관들 전원 사의 표명했지만 법무장관 제외하곤 일단 반려; 아주경제 2025-06-05 lists 유상임 과학기술정보통신부 장관 at the first 이재명 국무회의 (accessed 2026-09-25T14:01:49-0400; snapshot roster/sources/science/verify/news/bigkinds_유상임_사표_2025-06-03_2025-06-12.json)"
+      ],
+      "end_reason": "replaced",
+      "appointing_president": "윤석열",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "ok",
+      "transcript_notes": "The 2024-08-08 row is his confirmation hearing (meeting 53961). Official rows to 2024-12-27 are inside the spell. 2022-12/2023-01 국정조사/국회본회의 rows are misattached.",
+      "notes": "Held over through the acting presidencies (한덕수, 최상목, 한덕수, 이주호) and under 이재명 from 2025-06-04 until 2025-07-16. Birth date from ko.wikipedia 유상임 https://ko.wikipedia.org/w/index.php?oldid=42519359 (accessed 2026-09-25T13:19:58-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "배경훈",
+      "name_hanja": "裵慶勳",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1976-05-10",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "과학기술정보통신부장관",
+      "deputy_pm": false,
+      "start": "2025-07-16",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제21043호 (published 2025-07-25) 인사: 배경훈(裵慶勳) 국무위원에 임함 과학기술정보통신부장관에 보함 2025. 7. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400; snapshot roster/sources/science/gazette/gazette_21043_058642620000.pdf)",
+        "[서울경제] 2025-07-16 14:56:16 \"李대통령, 배경훈 과기정통부 장관 임명 재가…첫 장관 임명\" https://n.news.naver.com/mnews/article/011/0004509805 (accessed 2026-09-25T13:07:39-0400; snapshot roster/sources/science/news/naver_011_0004509805.html)",
+        "[강원도민일보] 2025-07-16 15:52:10 \"이 대통령, 배경훈 과기정통부 장관 임명 재가…새 정부 첫 임명\" https://n.news.naver.com/mnews/article/654/0000131747 (accessed 2026-09-25T13:07:27-0400; snapshot roster/sources/science/news/naver_654_0000131747.html)",
+        "[verifier] 관보 제21043호 (published 2025-07-25) re-read in harvest/gazette_text/20250725_21043_I0000000000000001753058642620000.txt: 배경훈(裵慶勳) 국무위원에 임함 과학기술정보통신부장관에 보함 2025. 7. 16.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '배경훈 2025. 7. 16. ~ 현재'. The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day."
+      ],
+      "end": "2025-09-30",
+      "end_confidence": "high",
+      "end_sources": [
+        "offices.json OF058 (부총리 겸 과학기술정보통신부장관 from 2025-10-01, 법률 제21065호 effective on promulgation) built from law.go.kr, see _rebuild/offices.json sources",
+        "관보 제21118호 (published 2025-11-17) 인사발령(인사혁신처): 배경훈(裴慶勲) 국무위원에 임함 부총리 겸 과학기술정보통신부장관에 보함 2025. 10. 1.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001763017931636000&tocId=I0000000000000001762749369638000&isTocOrder=N (search accessed 2026-09-25T13:19:29-0400, item PDF accessed 2026-09-25T12:59:27-0400; snapshot roster/sources/science/gazette/gazette_21118_749369638000.pdf)",
+        "BigKinds metadata: 조선일보 2025-09-30 \"과기부총리 체제 출범...17년 만의 부활\" (query '과학기술부총리 17년', accessed 2026-09-24T22:53:52-0400; snapshot roster/sources/science/news/bigkinds_과학기술부총리_17년_2025-09-25_2025-10-02.json) (부총리급 부처 from 10월 1일)",
+        "[verifier] 관보 제21118호 (published 2025-11-17) re-read in harvest/gazette_text/20251117_21118_I0000000000000001762749369638000.txt: 배경훈(裴慶勲) 국무위원에 임함 부총리 겸 과학기술정보통신부장관에 보함 2025. 10. 1.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] BigKinds metadata: 이데일리 2025-10-02 '배경훈 부총리, 추석명절 사회복지시설 위문' and 경향신문 2025-10-02 '김민석 총리, 부총리들과 ‘3+ ’ 첫 회의' (배경훈 부총리 겸 과학기술정보통신부 장관 from 1 October) (accessed 2026-09-25T14:06:37-0400; snapshot roster/sources/science/verify/news/bigkinds_배경훈_부총리_2025-10-01_2025-10-02.json)"
+      ],
+      "end_reason": "ministry_reorganized",
+      "appointing_president": "이재명",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": false,
+      "reappointed_on_reorg": null,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "Spell starts after transcript coverage ends (2025-01).",
+      "notes": "The ministry name did not change on 2025-10-01. The spell is split because the office became 부총리 겸 과학기술정보통신부장관 with a new appointment notice. Birth date from ko.wikipedia 배경훈 (1976년) https://ko.wikipedia.org/w/index.php?oldid=42217397 (accessed 2026-09-25T13:19:58-0400; snapshot roster/sources/science/kowiki_bio/)."
+    },
+    {
+      "name": "배경훈",
+      "name_hanja": "裵慶勳",
+      "name_en": null,
+      "name_en_source": null,
+      "birth_date": "1976-05-10",
+      "gender": "M",
+      "ministry": "과학기술정보통신부",
+      "office_title": "부총리 겸 과학기술정보통신부장관",
+      "deputy_pm": true,
+      "start": "2025-10-01",
+      "start_confidence": "high",
+      "start_sources": [
+        "관보 제21118호 (published 2025-11-17) 인사발령(인사혁신처): 배경훈(裴慶勲) 국무위원에 임함 부총리 겸 과학기술정보통신부장관에 보함 2025. 10. 1.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001763017931636000&tocId=I0000000000000001762749369638000&isTocOrder=N (search accessed 2026-09-25T13:19:29-0400, item PDF accessed 2026-09-25T12:59:27-0400; snapshot roster/sources/science/gazette/gazette_21118_749369638000.pdf)",
+        "[뉴스1] 2025-10-02 08:14:08 \"김 총리, 구윤철·배경훈 부총리와 첫 3+α 회의…내각 통할 논의\" https://n.news.naver.com/mnews/article/421/0008522580 (accessed 2026-09-24T22:53:31-0400; snapshot roster/sources/science/news/naver_421_0008522580.html) (2 October, 배경훈 부총리 겸 과학기술정보통신부 장관)",
+        "BigKinds metadata: 문화일보 2025-10-01 \"17년만에 과학기술부총리 부활한다…AI정책 총괄\" (query '과학기술부총리 17년', accessed 2026-09-24T22:53:52-0400; snapshot roster/sources/science/news/bigkinds_과학기술부총리_17년_2025-09-25_2025-10-02.json)",
+        "[verifier] 관보 제21118호 (published 2025-11-17) re-read in harvest/gazette_text/20251117_21118_I0000000000000001762749369638000.txt: 배경훈(裴慶勲) 국무위원에 임함 부총리 겸 과학기술정보통신부장관에 보함 2025. 10. 1.; item PDF snapshot roster/sources/science/verify/gazette/",
+        "[verifier] BigKinds metadata: 이데일리 2025-10-02 '배경훈 부총리, 추석명절 사회복지시설 위문' and 경향신문 2025-10-02 '김민석 총리, 부총리들과 ‘3+ ’ 첫 회의' (배경훈 부총리 겸 과학기술정보통신부 장관) (accessed 2026-09-25T14:06:37-0400; snapshot roster/sources/science/verify/news/bigkinds_배경훈_부총리_2025-10-01_2025-10-02.json)"
+      ],
+      "end": null,
+      "end_confidence": "high",
+      "end_sources": [
+        "[연합뉴스] 2026-09-22 14:30:06 \"[동정] 배경훈 부총리, 피지컬AI 지역거점 발전 포럼 참석\" https://n.news.naver.com/mnews/article/001/0016329793 (accessed 2026-09-25T13:08:33-0400; snapshot roster/sources/science/news/naver_001_0016329793.html) (in office as 부총리 겸 과학기술정보통신부 장관 on 2026-09-22)",
+        "[뉴스1] 2026-09-22 14:30:00 \"배경훈 부총리 \"피지컬 AI 위해 지자체·금융·산업계 협력해야\"\" https://n.news.naver.com/mnews/article/421/0009186397 (accessed 2026-09-25T13:08:47-0400; snapshot roster/sources/science/news/naver_421_0009186397.html)",
+        "[verifier] 과학기술정보통신부 역대장관 소개 page (tier 2, official) https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400; snapshot roster/sources/science/verify/msit_past_ministers.html, text roster/sources/science/verify/msit_past_ministers.txt) row: '2025. 7. 16 ~ 현재 배 경 훈 부총리 겸 장관' (in office at access, 2026-09-25). The page gives each end as the day before the successor's start, so its end dates are a convention, not a record of the last day.",
+        "[verifier] likms search 인사청문요청안 (22대, refreshed 2026-09-25T13:55:00-0400; snapshot roster/sources/science/verify/likms_22_insa_refresh.json): the 2026-09-03 requests (ZZ22131..ZZ22136) cover 재정경제부, 법무부, 국방부, 성평등가족부, 국토교통부, 중소벤처기업부, none for 과학기술정보통신부"
+      ],
+      "end_reason": "in_office",
+      "appointing_president": "이재명",
+      "appointed_by_acting_president": false,
+      "reorg_continuation": true,
+      "reappointed_on_reorg": true,
+      "pm_status": null,
+      "pm_acting_until": null,
+      "suspensions": [],
+      "mp_hint": null,
+      "transcript_check": "no_transcript_data",
+      "transcript_notes": "Spell starts after transcript coverage ends (2025-01).",
+      "notes": "New appointment notice 국무위원에 임함 부총리 겸 과학기술정보통신부장관에 보함 2025. 10. 1. (관보 제21118호, published 2025-11-17). That notice prints the hanja as 裴慶勲, the 2025-07 notice as 裵慶勳 (variant forms). No news of a resignation or replacement up to 2026-09-24 was found. He also took over the 국가AI전략위원회 standing vice-chair duties from 2026-05-14 (연합 2026-05-14), which does not affect this spell."
+    }
+  ],
+  "nominations": [
+    {
+      "nominee": "강창희",
+      "office_title": "과학기술부장관",
+      "nomination_date": "1998-03-03",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "1998-03-03",
+      "sources": [
+        "[연합뉴스] 1998-03-03 12:39:00 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" https://n.news.naver.com/mnews/article/001/0004372354 (accessed 2026-09-24T22:44:26-0400; snapshot roster/sources/science/news/naver_001_0004372354.html) (\"金大中대통령은 3일 ... 17개 부의 조각을 완료\")",
+        "[연합뉴스] 1998-03-03 12:04:00 \"<조각 발표 官街표정> ...과기부\" https://n.news.naver.com/mnews/article/001/0004376876 (accessed 2026-09-25T12:59:27-0400; snapshot roster/sources/science/news/naver_001_0004376876.html)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing."
+    },
+    {
+      "nominee": "서정욱",
+      "office_title": "과학기술부장관",
+      "nomination_date": "1999-03-23",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "1999-03-23",
+      "sources": [
+        "[연합뉴스] 1999-03-23 18:15:00 \"김대통령 신임 장관들에 임명장(종합)\" https://n.news.naver.com/mnews/article/001/0004519966 (accessed 2026-09-25T13:01:08-0400; snapshot roster/sources/science/news/naver_001_0004519966.html) (임명장 on 23 March)",
+        "[연합뉴스] 1999-03-23 16:39:00 \"<연합인터뷰> 서정욱 신임 과학기술부장관\" https://n.news.naver.com/mnews/article/001/0004528566 (accessed 2026-09-25T13:01:24-0400; snapshot roster/sources/science/news/naver_001_0004528566.html)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing."
+    },
+    {
+      "nominee": "김영환",
+      "office_title": "과학기술부장관",
+      "nomination_date": "2001-03-26",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2001-03-26",
+      "sources": [
+        "관보 제14764호 (published 2001-03-30) 인사: ◉2001년 3월26일자 김영환(金榮煥) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)",
+        "BigKinds metadata: 디지털타임스 2001-03-27 \"김대중 대통령, 장관급 12명 교체 등 대폭 개각 단행\" (query '김영환 과학기술부장관', accessed 2026-09-24T22:47:53-0400; snapshot roster/sources/science/news/bigkinds_김영환_과학기술부장관_2001-03-26_2001-03-27.json)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing."
+    },
+    {
+      "nominee": "채영복",
+      "office_title": "과학기술부장관",
+      "nomination_date": "2002-01-29",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2002-01-29",
+      "sources": [
+        "관보 제15018호 (published 2002-02-02) 인사: ◉2002년 1월29일자 채영복(蔡永福) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N (accessed 2026-09-24T22:44:15-0400)",
+        "BigKinds metadata: 중도일보 2002-01-30 \"[세풍 핵심인물 이석희 전 국세청차장 체포] '세풍' 불살려라\" (query '채영복 과학기술부장관', accessed 2026-09-24T22:47:59-0400; snapshot roster/sources/science/news/bigkinds_채영복_과학기술부장관_2002-01-29_2002-01-30.json) (채영복 29일 신임 과학기술부장관으로 임명)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing."
+    },
+    {
+      "nominee": "박호군",
+      "office_title": "과학기술부장관",
+      "nomination_date": "2003-02-27",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2003-02-27",
+      "sources": [
+        "관보 제15338호 (published 2003-03-05) 인사: ◉2003년 2월27일자 박호군(朴虎君) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+        "BigKinds metadata: 인천일보 2003-02-28 \"참여정부 첫 내각 발표(스트레이트)\" (query '박호군 과학기술부장관', accessed 2026-09-24T22:48:03-0400; snapshot roster/sources/science/news/bigkinds_박호군_과학기술부장관_2003-02-26_2003-02-28.json) (27일 18개 부처 장관 임명)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing."
+    },
+    {
+      "nominee": "오명",
+      "office_title": "과학기술부장관",
+      "nomination_date": "2003-12-28",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": false,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2003-12-29",
+      "sources": [
+        "BigKinds metadata: 무등일보 2003-12-29 \"과기 오명 건교 강동석 기획예산 김병일 3개 부처 개각…\" (query '오명 과학기술부 장관 임명', accessed 2026-09-24T22:48:11-0400; snapshot roster/sources/science/news/bigkinds_오명_과학기술부_장관_임명_2003-12-24_2003-12-29.json) (announced 28일)",
+        "관보 제15587호 (published 2004-01-03) 인사: ⊙2003년12월29일자 오명(吳明) 국무위원에 임함 과학기술부장관에 보함; text harvest/gazette_text/20040103_15587_00000000000000001319029706941000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029696574000&tocId=00000000000000001319029706941000&isTocOrder=N (accessed 2026-09-24T22:47:50-0400)"
+      ],
+      "notes": "Before 2005-07-28 국무위원 needed no Assembly hearing. Announced on 2003-12-28, appointment date in the gazette 2003-12-29. The 2004-10-18 re-appointment as 부총리 겸 과학기술부장관 followed a change of law, not a nomination, and is recorded on the spell."
+    },
+    {
+      "nominee": "김우식",
+      "office_title": "부총리 겸 과학기술부장관",
+      "nomination_date": "2006-01-02",
+      "request_date": "2006-01-11",
+      "likms_bill_id": "033528",
+      "hearing_dates": [
+        "2006-02-07"
+      ],
+      "hearing_committee": "과학기술정보통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2006-02-10",
+      "sources": [
+        "[연합뉴스] 2006-01-02 14:12:00 \"김우식 부총리겸 과학기술부장관 내정자\" https://n.news.naver.com/mnews/article/001/0001187569 (accessed 2026-09-25T13:14:08-0400; snapshot roster/sources/science/news/naver_001_0001187569.html) (내정 2 January)",
+        "likms ZZ1772 (bill_id 033528) https://likms.assembly.go.kr/bill/billDetail.do?billId=033528 (accessed 2026-09-24T22:49:28-0400; text harvest/likms/033528.txt; snapshot roster/sources/science/likms/likms_ZZ1772.html)",
+        "kr-hearings-data v9 transcript meeting 34088 (2006-02-07, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "관보 제16195호 (published 2006-02-17) 인사: ⊙2006년 2월10일자 김우식(金雨植) 국무위원에 임함 부총리 겸 과학기술부장관에 보함; text harvest/gazette_text/20060217_16195_00000000000000001319600226028000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319600208544000&tocId=00000000000000001319600226028000&isTocOrder=N (accessed 2026-09-24T22:49:51-0400)",
+        "[verifier] BigKinds metadata: 노컷뉴스 2006-01-02 '靑, 외교안보 안정적 국정운영 고려 개각': 과학기술부총리에 김우식 전 청와대 비서실장 ... 내정 ... 2일 오후 (accessed 2026-09-25T14:02:42-0400; snapshot roster/sources/science/verify/news/bigkinds_김우식_과학기술부총리_내정_2006-01-01_2006-01-03.json)"
+      ],
+      "notes": "likms: 경과보고서채택 2006-02-08, sent 2006-02-09. The president had asked on 2006-01-31 for the report by 2006-02-09. Among the first 국무위원 hearings under the 2005 amendment."
+    },
+    {
+      "nominee": "김종훈",
+      "office_title": "미래창조과학부장관",
+      "nomination_date": "2013-02-17",
+      "request_date": null,
+      "likms_bill_id": null,
+      "hearing_dates": [],
+      "hearing_committee": null,
+      "hearing_required": true,
+      "report_adopted": "not_applicable",
+      "na_consent_vote": "not_applicable",
+      "outcome": "nominee_withdrew",
+      "outcome_date": "2013-03-04",
+      "sources": [
+        "BigKinds metadata: 동아일보 2013-02-18 \"경제부총리 ‘돌아온 관료’ 복지부장관 ‘공약 지휘자’\" (query '김종훈 미래창조과학부 장관 내정', accessed 2026-09-24T22:54:50-0400; snapshot roster/sources/science/news/bigkinds_김종훈_미래창조과학부_장관_내정_2013-02-17_2013-02-18.json) (당선인 17일 발표)",
+        "BigKinds metadata: 내일신문 2013-03-05 \"[내일의 눈] 정영태 사무총장이 그리운 이유\" (query '김종훈 사퇴', accessed 2026-09-24T22:54:54-0400; snapshot roster/sources/science/news/bigkinds_김종훈_사퇴_2013-03-04_2013-03-05.json) (김종훈 내정자 어제 사퇴)",
+        "BigKinds metadata: EBN 2013-03-05 \"안철수·김종훈 테마주 이틀째 희비교차\" (query '김종훈 사퇴', accessed 2026-09-24T22:54:54-0400; snapshot roster/sources/science/news/bigkinds_김종훈_사퇴_2013-03-04_2013-03-05.json) (전격 사퇴 선언)",
+        "[verifier] BigKinds metadata: 동아일보 2013-02-18 '경제부총리 ‘돌아온 관료’...': 박근혜 대통령 당선인이 17일 ... 미래창조과학부 장관에 김종훈 (accessed 2026-09-25T14:02:56-0400; snapshot roster/sources/science/verify/news/bigkinds_김종훈_미래창조과학부_장관_2013-02-17_2013-02-18.json)",
+        "[verifier] BigKinds metadata: 동아일보 2013-03-05 '김종훈 “조국 위해 헌신하려던 마음 접는다”': 김종훈 미래창조과학부 장관 후보자가 4일 자진 사퇴 ... 지난달 17일 지명된 지 보름 만에 (accessed 2026-09-25T14:03:10-0400; snapshot roster/sources/science/verify/news/bigkinds_김종훈_사퇴_2013-03-04_2013-03-05.json)"
+      ],
+      "notes": "Named by 대통령당선인 박근혜 (Jeong H. Kim, Bell Labs). No 인사청문요청안 for him is in likms (searched terms 19 by name and by 미래창조과학부장관). The ministry did not yet exist in law (법률 제11690호 took effect 2013-03-23). Not the same person as NA member 김종훈 (金宗壎)."
+    },
+    {
+      "nominee": "최문기",
+      "office_title": "미래창조과학부장관",
+      "nomination_date": "2013-03-14",
+      "request_date": "2013-03-25",
+      "likms_bill_id": "PRC_E1R3T0W3N2J5J1Z0T1C5R4L0S2A1R8",
+      "hearing_dates": [
+        "2013-04-01"
+      ],
+      "hearing_committee": "미래창조과학방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2013-04-17",
+      "sources": [
+        "BigKinds metadata: 동아일보 2013-03-15 \"기업 감시할 공정위원장에 기업 변론 로펌 출신 한만수\" (query '최문기 미래창조과학부 장관 내정', accessed 2026-09-24T22:55:02-0400; snapshot roster/sources/science/news/bigkinds_최문기_미래창조과학부_장관_내정_2013-03-12_2013-03-15.json) (14일 지명)",
+        "likms ZZ19060 (bill_id PRC_E1R3T0W3N2J5J1Z0T1C5R4L0S2A1R8) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_E1R3T0W3N2J5J1Z0T1C5R4L0S2A1R8 (accessed 2026-09-24T22:50:22-0400; text harvest/likms/PRC_E1R3T0W3N2J5J1Z0T1C5R4L0S2A1R8.txt; snapshot roster/sources/science/likms/likms_ZZ19060.html)",
+        "kr-hearings-data v9 transcript meeting 42596 (2013-04-01, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "BigKinds metadata: 프레시안 2013-04-17 \"청와대 밥값은 비쌌다…'문제아 3인방' 일괄 임명\" (query '최문기 청문보고서 채택', accessed 2026-09-24T22:55:07-0400; snapshot roster/sources/science/news/bigkinds_최문기_청문보고서_채택_2013-04-01_2013-04-17.json) (청문보고서 채택이 불발된 3명, incl. 최문기)",
+        "관보 제18001호 (published 2013-04-23) 인사: 최문기(崔文基) 국무위원에 임함 미래창조과학부장관에 보함 2013. 4. 17.; text harvest/gazette_text/20130423_18001_00000000000000001366592331021000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001366592300927000&tocId=00000000000000001366592331021000&isTocOrder=N (accessed 2026-09-24T22:57:24-0400)",
+        "[verifier] BigKinds metadata: 세계일보 2013-03-15 '미래부장관에 최문기·공정위원장에 한만수': 박근혜 대통령은 14일 ... 미래창조과학부 장관에 최문기 ... 내정 (accessed 2026-09-25T14:02:26-0400; snapshot roster/sources/science/verify/news/bigkinds_최문기_미래부_장관_내정_2013-03-13_2013-03-15.json)",
+        "[verifier] BigKinds metadata: 경향신문 2013-04-18 사설: 윤 장관과 최문기 미래창조과학부 장관, 이경재 방송통신위원장 등 3명은 국회 인사청문회를 거쳤지만 청문보고서 채택이 무산된 후보자들; 경인일보 2013-04-18: 17일 오전 11시20분 임명장 (accessed 2026-09-25T14:02:13-0400; snapshot roster/sources/science/verify/news/bigkinds_최문기_청문보고서_2013-04-02_2013-04-18.json)"
+      ],
+      "notes": "likms shows only the 2013-03-25 committee meeting (plan adopted) and no 처리결과 for the report."
+    },
+    {
+      "nominee": "최양희",
+      "office_title": "미래창조과학부장관",
+      "nomination_date": "2014-06-13",
+      "request_date": "2014-06-24",
+      "likms_bill_id": "PRC_N1N4A0P6J2V4K1S3O5G2X4O9N6N1G3",
+      "hearing_dates": [
+        "2014-07-07"
+      ],
+      "hearing_committee": "미래창조과학방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2014-07-16",
+      "sources": [
+        "BigKinds metadata: 서울신문 2014-06-14 \"[뉴스 분석] 내각도 친박…당·정·청 3각 친정체제로\" (query '최양희 미래창조과학부 장관 내정', accessed 2026-09-24T22:55:24-0400; snapshot roster/sources/science/news/bigkinds_최양희_미래창조과학부_장관_내정_2014-06-13_2014-06-14.json) (13일 개각)",
+        "likms ZZ19116 (bill_id PRC_N1N4A0P6J2V4K1S3O5G2X4O9N6N1G3) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1N4A0P6J2V4K1S3O5G2X4O9N6N1G3 (accessed 2026-09-24T22:50:36-0400; text harvest/likms/PRC_N1N4A0P6J2V4K1S3O5G2X4O9N6N1G3.txt; snapshot roster/sources/science/likms/likms_ZZ19116.html)",
+        "kr-hearings-data v9 transcript meeting 44162 (2014-07-07, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "관보 제18312호 (published 2014-07-23) 인사: 최양희(崔陽熙) 국무위원에 임함 미래창조과학부장관에 보함 2014. 7. 16.; text harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001405928075418000&tocId=00000000000000001405928108802000&isTocOrder=N (accessed 2026-09-24T22:58:20-0400)"
+      ],
+      "notes": "likms: 제326회 제3차 전체회의 2014-07-10 상정/의결(경과보고서채택)."
+    },
+    {
+      "nominee": "유영민",
+      "office_title": "미래창조과학부장관",
+      "nomination_date": "2017-06-13",
+      "request_date": "2017-06-15",
+      "likms_bill_id": "PRC_N1K7J0C6E1A5A1N9Z3O1K2T0A2D3P5",
+      "hearing_dates": [
+        "2017-07-04"
+      ],
+      "hearing_committee": "미래창조과학방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2017-07-11",
+      "sources": [
+        "[조선비즈] 2017-06-13 15:04:32 \"[단독] 유영민 미래부 장관 후보자 \"일자리와 먹거리 중심의 4차 산업혁명 하겠다\"\" https://n.news.naver.com/mnews/article/366/0000372653 (accessed 2026-09-25T13:14:33-0400; snapshot roster/sources/science/news/naver_366_0000372653.html) (지명 13 June)",
+        "likms ZZ20055 (bill_id PRC_N1K7J0C6E1A5A1N9Z3O1K2T0A2D3P5) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_N1K7J0C6E1A5A1N9Z3O1K2T0A2D3P5 (accessed 2026-09-24T22:50:49-0400; text harvest/likms/PRC_N1K7J0C6E1A5A1N9Z3O1K2T0A2D3P5.txt; snapshot roster/sources/science/likms/likms_ZZ20055.html)",
+        "kr-hearings-data v9 transcript meeting 47206 (2017-07-04, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "관보 제19052호 (published 2017-07-17) 인사: 유영민(兪英民) 국무위원에 임함 미래창조과학부장관에 보함 2017.7.11. (name printed in the facing column, order 김은경 7.4, 정현백 7.7, 유영민 7.11); text harvest/gazette_text/20170717_19052_00000000000000001499993578089000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001499993538648000&tocId=00000000000000001499993578089000&isTocOrder=N (accessed 2026-09-24T22:51:32-0400)"
+      ],
+      "notes": "likms: 경과보고서채택 2017-07-10. The 2017-07-26 re-appointment as 과학기술정보통신부장관 followed the renaming (법률 제14839호) and is recorded on the spell, not as a nomination."
+    },
+    {
+      "nominee": "조동호",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2019-03-08",
+      "request_date": "2019-03-13",
+      "likms_bill_id": "PRC_P1Z9M0P3I1O3B1B7I2E6B4V6E4A3W7",
+      "hearing_dates": [
+        "2019-03-27"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "withdrawn",
+      "outcome_date": "2019-03-31",
+      "sources": [
+        "[연합뉴스] 2019-03-08 11:31:02 \"조동호 과기정통부 장관 후보자\" https://n.news.naver.com/mnews/article/001/0010681629 (accessed 2026-09-25T13:14:56-0400; snapshot roster/sources/science/news/naver_001_0010681629.html) (내정 8 March)",
+        "likms ZZ20259 (bill_id PRC_P1Z9M0P3I1O3B1B7I2E6B4V6E4A3W7) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_P1Z9M0P3I1O3B1B7I2E6B4V6E4A3W7 (accessed 2026-09-24T22:51:03-0400; text harvest/likms/PRC_P1Z9M0P3I1O3B1B7I2E6B4V6E4A3W7.txt; snapshot roster/sources/science/likms/likms_ZZ20259.html)",
+        "kr-hearings-data v9 transcript meeting 49040 (2019-03-27, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "[조선일보] 2019-03-31 11:01:01 \"[속보]靑, 조동호 과기 지명철회...최정호 국토 자진사퇴\" https://n.news.naver.com/mnews/article/023/0003436322 (accessed 2026-09-25T13:15:24-0400; snapshot roster/sources/science/news/naver_023_0003436322.html) (지명 철회 31 March)",
+        "[파이낸셜뉴스] 2019-03-31 11:05:01 \"文대통령, 조동호 과기부 장관 후보자 '지명 철회'\" https://n.news.naver.com/mnews/article/014/0004202589 (accessed 2026-09-25T13:15:35-0400; snapshot roster/sources/science/news/naver_014_0004202589.html)"
+      ],
+      "notes": "Nomination withdrawn by the president (지명철회). likms shows referral only, no report. 유영민 stayed in office."
+    },
+    {
+      "nominee": "최기영",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2019-08-09",
+      "request_date": "2019-08-14",
+      "likms_bill_id": "PRC_Q1A9G0D8I1I4Y1I3A3E8L1T5F2N9O6",
+      "hearing_dates": [
+        "2019-09-02"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2019-09-09",
+      "sources": [
+        "[아시아경제] 2019-08-09 11:03:17 \"최기영 과기정통부 장관 후보자, 과제는 '원천기술 독립'(종합)\" https://n.news.naver.com/mnews/article/277/0004516161 (accessed 2026-09-25T13:16:07-0400; snapshot roster/sources/science/news/naver_277_0004516161.html) (지명 9 August)",
+        "likms ZZ20279 (bill_id PRC_Q1A9G0D8I1I4Y1I3A3E8L1T5F2N9O6) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Q1A9G0D8I1I4Y1I3A3E8L1T5F2N9O6 (accessed 2026-09-24T22:51:16-0400; text harvest/likms/PRC_Q1A9G0D8I1I4Y1I3A3E8L1T5F2N9O6.txt; snapshot roster/sources/science/likms/likms_ZZ20279.html)",
+        "kr-hearings-data v9 transcript meeting 49358 (2019-09-02, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "[매일경제] 2019-09-09 17:56:04 \"청문보고서 없이 임명 22명 `최다`…최기영 장관 등 5명도 임명장\" https://n.news.naver.com/mnews/article/009/0004425047 (accessed 2026-09-25T13:16:22-0400; snapshot roster/sources/science/news/naver_009_0004425047.html) (appointed without an adopted report)",
+        "[조선일보] 2019-09-09 12:31:08 \"文대통령, 청문보고서 없이 22명 임명 강행…朴·MB·盧 넘어\" https://n.news.naver.com/mnews/article/023/0003472705 (accessed 2026-09-25T13:16:34-0400; snapshot roster/sources/science/news/naver_023_0003472705.html)",
+        "관보 제19589호 (published 2019-09-19) 인사: 최기영(崔起榮) 국무위원에 임함 과학기술정보통신부장관에 보함 2019.9.9.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001568766603093000&tocId=00000000000000001568766613365000&isTocOrder=N (accessed 2026-09-24T22:35:16-0400; snapshot roster/sources/science/gazette/gazette_19589_766613365000.pdf)"
+      ],
+      "notes": ""
+    },
+    {
+      "nominee": "임혜숙",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2021-04-16",
+      "request_date": "2021-04-21",
+      "likms_bill_id": "PRC_S2H1U0U4J2V1N1I8P2E0E4P7B8W8T2",
+      "hearing_dates": [
+        "2021-05-04"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2021-05-14",
+      "sources": [
+        "[지디넷코리아] 2021-04-16 17:40:24 \"임혜숙 과기정통 후보 \"디지털뉴딜 완수·코로나 극복 주력\"\" https://n.news.naver.com/mnews/article/092/0002219450 (accessed 2026-09-25T13:17:04-0400; snapshot roster/sources/science/news/naver_092_0002219450.html) (지명 16 April)",
+        "likms ZZ21054 (bill_id PRC_S2H1U0U4J2V1N1I8P2E0E4P7B8W8T2) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_S2H1U0U4J2V1N1I8P2E0E4P7B8W8T2 (accessed 2026-09-24T22:51:30-0400; text harvest/likms/PRC_S2H1U0U4J2V1N1I8P2E0E4P7B8W8T2.txt; snapshot roster/sources/science/likms/likms_ZZ21054.html)",
+        "kr-hearings-data v9 transcript meeting 51013 (2021-05-04, 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "관보 제20006호 (published 2021-05-24) 인사: 임혜숙(林惠淑) 국무위원에 임함 과학기술정보통신부장관에 보함 2021. 5. 14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001621476581297000&tocId=I0000000000000001621212324307000&isTocOrder=N (accessed 2026-09-24T22:59:14-0400; snapshot roster/sources/science/gazette/gazette_20006_212324307000.pdf)"
+      ],
+      "notes": "likms and the NA open API table: 경과보고서채택 2021-05-13."
+    },
+    {
+      "nominee": "이종호",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2022-04-10",
+      "request_date": "2022-04-14",
+      "likms_bill_id": "PRC_Z2D2U0T4R1H4G1O7P0A7W3Y7Z3H2Q6",
+      "hearing_dates": [
+        "2022-05-03"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2022-05-10",
+      "sources": [
+        "[연합뉴스] 2022-04-10 18:18:09 \"이종호 과기장관 후보자 \"정책 입안과정에 민간참여 확대할 것\"(종합)\" https://n.news.naver.com/mnews/article/001/0013104454 (accessed 2026-09-25T13:17:22-0400; snapshot roster/sources/science/news/naver_001_0013104454.html) (지명 10 April by the president-elect)",
+        "likms ZZ21100 (bill_id PRC_Z2D2U0T4R1H4G1O7P0A7W3Y7Z3H2Q6) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_Z2D2U0T4R1H4G1O7P0A7W3Y7Z3H2Q6 (accessed 2026-09-24T22:51:43-0400; text harvest/likms/PRC_Z2D2U0T4R1H4G1O7P0A7W3Y7Z3H2Q6.txt; snapshot roster/sources/science/likms/likms_ZZ21100.html)",
+        "kr-hearings-data v9 transcript meeting 51863 (2022-05-03, 인사청문요청안 and 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "관보 제20255호 (published 2022-05-23) 인사: 이종호(李宗昊) 국무위원에 임함 과학기술정보통신부장관에 보함 2022. 5. 10.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400; snapshot roster/sources/science/gazette/gazette_20255_659816213000.pdf)"
+      ],
+      "notes": "Requested by the 대통령당선인. likms: 처리결과 채택 2022-05-03."
+    },
+    {
+      "nominee": "유상임",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2024-07-18",
+      "request_date": "2024-07-24",
+      "likms_bill_id": "PRC_R2K4L0P7X2P4S1X8G3W9H4K3C9F1F6",
+      "hearing_dates": [
+        "2024-08-08"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "no",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2024-08-16",
+      "sources": [
+        "[디지털데일리] 2024-07-18 10:29:10 \"尹, 과기정통부 장관 후보자에 유상임 교수 지명\" https://n.news.naver.com/mnews/article/138/0002177890 (accessed 2026-09-25T13:17:58-0400; snapshot roster/sources/science/news/naver_138_0002177890.html) (지명 18 July)",
+        "likms ZZ22021 (bill_id PRC_R2K4L0P7X2P4S1X8G3W9H4K3C9F1F6) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_R2K4L0P7X2P4S1X8G3W9H4K3C9F1F6 (accessed 2026-09-24T22:51:57-0400; text harvest/likms/PRC_R2K4L0P7X2P4S1X8G3W9H4K3C9F1F6.txt; snapshot roster/sources/science/likms/likms_ZZ22021.html)",
+        "kr-hearings-data v9 transcript meeting 53961 (2024-08-08, 인사청문요청안 and 인사청문회), _rebuild/inputs/nominee_hearing_meetings.csv",
+        "[아이뉴스24] 2024-08-16 14:15:07 \"윤 대통령, 유상임 과기정통부 장관 임명 재가\" https://n.news.naver.com/mnews/article/031/0000862422 (accessed 2026-09-25T13:06:31-0400; snapshot roster/sources/science/news/naver_031_0000862422.html) (report not sent by the deadline, re-request, appointment 16일 자)",
+        "관보 제20821호 (published 2024-08-26) 인사: 유상임(劉相任) 국무위원에 임함 과학기술정보통신부장관에 보함 2024. 8. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001724309651854000&tocId=I0000000000000001723783734327000&isTocOrder=N (accessed 2026-09-24T22:59:32-0400; snapshot roster/sources/science/gazette/gazette_20821_783734327000.pdf)"
+      ],
+      "notes": "The president asked on 2024-08-13 for the report by 2024-08-15 and appointed him without it."
+    },
+    {
+      "nominee": "배경훈",
+      "office_title": "과학기술정보통신부장관",
+      "nomination_date": "2025-06-23",
+      "request_date": "2025-06-27",
+      "likms_bill_id": "PRC_V2K5M0G6B2L7C1U7D5M0K3L5B9S7J0",
+      "hearing_dates": [
+        "2025-07-14"
+      ],
+      "hearing_committee": "과학기술정보방송통신위원회",
+      "hearing_required": true,
+      "report_adopted": "yes",
+      "na_consent_vote": "not_applicable",
+      "outcome": "appointed",
+      "outcome_date": "2025-07-16",
+      "sources": [
+        "[마이데일리] 2025-06-23 14:37:09 \"이재명 대통령, 11개 부처 첫 장관 인사 단행…과기정통 배경훈·중기 한성숙\" https://n.news.naver.com/mnews/article/117/0003956739 (accessed 2026-09-25T13:18:57-0400; snapshot roster/sources/science/news/naver_117_0003956739.html) (23일 인선 발표)",
+        "[지디넷코리아] 2025-06-24 10:12:10 \"배경훈 장관 후보자 \"AI 3대 강국, 차질 없이 이행\"\" https://n.news.naver.com/mnews/article/092/0002379353 (accessed 2026-09-25T13:18:24-0400; snapshot roster/sources/science/news/naver_092_0002379353.html) (24 June: 전날 지명)",
+        "likms ZZ22052 (bill_id PRC_V2K5M0G6B2L7C1U7D5M0K3L5B9S7J0) https://likms.assembly.go.kr/bill/billDetail.do?billId=PRC_V2K5M0G6B2L7C1U7D5M0K3L5B9S7J0 (accessed 2026-09-24T22:52:11-0400; text harvest/likms/PRC_V2K5M0G6B2L7C1U7D5M0K3L5B9S7J0.txt; snapshot roster/sources/science/likms/likms_ZZ22052.html)",
+        "[서울경제] 2025-07-16 14:56:16 \"李대통령, 배경훈 과기정통부 장관 임명 재가…첫 장관 임명\" https://n.news.naver.com/mnews/article/011/0004509805 (accessed 2026-09-25T13:07:39-0400; snapshot roster/sources/science/news/naver_011_0004509805.html) (report adopted 15 July by agreement, appointment 16 July)",
+        "관보 제21043호 (published 2025-07-25) 인사: 배경훈(裵慶勳) 국무위원에 임함 과학기술정보통신부장관에 보함 2025. 7. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400; snapshot roster/sources/science/gazette/gazette_21043_058642620000.pdf)",
+        "[verifier] BigKinds metadata: 한겨레 2025-06-23 '엑사원 개발자·네이버 전 대표…': 이재명 대통령이 23일 초대 과학기술정보통신부 ... 장관 후보자에 ... 배경훈; 파이낸셜뉴스 2025-06-23 '李대통령, 11개부처 후보 지명' (accessed 2026-09-25T14:04:44-0400; snapshot roster/sources/science/verify/news/bigkinds_배경훈_과기정통부_장관_후보자_2025-06-22_2025-06-23.json)"
+      ],
+      "notes": "likms 비고: 07.07 인사청문회계획서채택, 07.14 인사청문회실시, 경과보고서채택 2025-07-15. 강원도민일보 2025-07-16 says nominated on the 22nd, but two reports from 23-24 June put the announcement on 23 June. The 2025-10-01 re-appointment as 부총리 겸 과학기술정보통신부장관 followed 법률 제21065호 and is recorded on the spell, not as a nomination."
+    }
+  ],
+  "acting": [
+    {
+      "name": "이상목",
+      "role": "미래창조과학부 제1차관, highest official while no minister was appointed (de facto 장관 직무대행)",
+      "from": "2013-03-24",
+      "to": "2013-04-16",
+      "sources": [
+        "관보 제17983호 (published 2013-03-28) 인사: 이상목(李相睦) 미래창조과학부 제1차관에 임함 2013. 3. 24.; text harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)",
+        "BigKinds metadata: 대전일보 2013-04-16 \"미래부 차관, 과학벨트 땅값 떠넘기려 왔었나\" (query '이상목 1차관 장관', accessed 2026-09-25T13:13:11-0400; snapshot roster/sources/science/news/bigkinds_이상목_1차관_장관_2013-03-25_2013-04-16.json) (최문기 후보자 not yet in office, 이상목 is the ministry's 최고위 공직자)",
+        "[디지털타임스] 2013-04-08 19:51:09 \"미래부 \"장관명의 인사 절차 문제없다\"\" https://n.news.naver.com/mnews/article/029/0002159525 (accessed 2026-09-25T13:11:53-0400; snapshot roster/sources/science/news/naver_029_0002159525.html) (장관 공백, 직무대리규정 lets the 부기관장 act)"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "severity": "medium",
+      "desc": "과학기술부 had no minister and no vice minister from 1998-02-28 (new 정부조직법 in force) to 1998-03-02. 연합 1998-02-28 reports the seven new ministries, 과학기술부 among them, headless. No acting head was identified. 강창희 was appointed on 1998-03-03."
+    },
+    {
+      "severity": "medium",
+      "desc": "미래창조과학부 had no minister from its creation on 2013-03-23 to 2013-04-16 after nominee 김종훈 withdrew on 2013-03-04. The vice ministers were appointed on 2013-03-24, so 2013-03-23 had no official head at all. 제1차관 이상목 was the highest official (listed under acting). No formal 직무대행 order was found."
+    },
+    {
+      "severity": "medium",
+      "desc": "오명 start: the gazette section date is 2003-12-29 (관보 제15587호) while ko.wikipedia and the old panel use 2003-12-28, the announcement day. The gazette date is used. 박호군's end is set to 2003-12-29 accordingly."
+    },
+    {
+      "severity": "medium",
+      "desc": "권숙일 start (verifier): corrected to 1997-03-06, the 임명장 day (서울신문, 중부매일 1997-03-07) and the date on the official MSIT list, consistent with culture.json 송태호 from the same reshuffle. The builder's 1997-03-05 is the announcement day. No gazette file exists for 1997. Outside the window, tenure length only."
+    },
+    {
+      "severity": "low",
+      "desc": "The deputy PM title changes (2004-10-18 오명, 2025-10-01 배경훈) do not rename the ministry. Each person has two spells split on that date because a new appointment notice was issued and deputy_pm changes. Both second spells carry reorg_continuation=true and reappointed_on_reorg=true, and the first spells carry end_reason ministry_reorganized. Merge them downstream if one spell per ministry name is wanted."
+    },
+    {
+      "severity": "low",
+      "desc": "For replaced ministers the end is the successor's appointment date (end_confidence inferred_from_successor, same-day handover). 이임식 dates that differ are noted: 최문기 2014-07-15, 임혜숙 2022-05-09. The gazette does not print exits."
+    },
+    {
+      "severity": "low",
+      "desc": "Appointment dates versus ceremonies: 최양희 gazette 2014-07-16 but 임명장 on 2014-07-18. 유영민 approved by electronic signature on 2017-07-10 evening, gazette 2017-07-11. Gazette dates are used."
+    },
+    {
+      "severity": "low",
+      "desc": "권숙일 and 김우식 ends follow the offices.json convention (last full day under the old law, 1998-02-27 and 2008-02-28). The 1998 law took effect in the afternoon of 1998-02-28 and 김우식 held his 이임식 on 2008-02-29."
+    },
+    {
+      "severity": "low",
+      "desc": "The science function between 2008-02-29 and 2013-03-22 sat in 교육과학기술부. Its ministers (김도연, 안병만, 이주호, 서남수) belong to the education lineage and are not repeated here. Transcript rows for them (affiliation 교육과학기술부) were seen and match that lineage."
+    },
+    {
+      "severity": "low",
+      "desc": "name_en is null for everyone. No official romanization list (ministry English pages or NA records) was reached in this pass. birth_date for 권숙일 is unknown (age 62 in March 1997 per 연합). Birth dates come from na_members (NA-API) for 강창희 and 김영환 and from ko.wikipedia person pages (tier 4) for the others."
+    },
+    {
+      "severity": "low",
+      "desc": "Gazette coverage: the harvested corpus (GAZETTE_DONE, 2001-01 to 2026-09) was grepped for every 과학기술부장관, 미래창조과학부장관 and 과학기술정보통신부장관 appointment line, allowing letter-spacing. It holds exactly the notices used here (관보 제14764, 15018, 15338, 15587, 15826, 16195, 18001, 18312, 19052, 19067, 19589, 20006, 20255, 20821, 21043 and 21118호) and no other holder. Absence from the gazette is not proof, but the transcript bounds and ko.wikipedia list agree."
+    },
+    {
+      "severity": "low",
+      "desc": "likms: harvest/likms_cabinet_bills.csv (291 bills, terms 15-22) and a direct likms search by office title (terms 16-22) give the same 10 science hearing requests (ZZ1772 to ZZ22052). None exists for 김종훈 (2013). The NA open API table (terms 20-22) agrees for 2021-2025."
+    },
+    {
+      "severity": "low",
+      "desc": "Lead for the PM lineage, unverified: the ko.wikipedia article on 김우식 (oldid 40898869) calls him a one-time 임시 국무총리 권한대행. Not checked here because it is outside this lineage."
+    },
+    {
+      "severity": "low",
+      "desc": "No science nomination, resignation (including for the 2026-06-03 local elections and by-elections) or reshuffle affecting 과학기술정보통신부 was found for 2025-10 to 2026-09-24. 배경훈 appears as 부총리 겸 과학기술정보통신부 장관 in 연합 and 뉴스1 on 2026-09-22. The 2026-09 hearings in the news concern other ministries (법무부, 국방부, 중기부, 성평등가족부)."
+    },
+    {
+      "severity": "low",
+      "desc": "Transcript cross-check: all valid-type rows (상임위원회, 국정감사, 인사청문특별위원회) for science-ministry ministers fall inside the spells. The pre-appointment rows are confirmation hearings where the speaker is labelled 후보자. Rows outside the spells come only from 국회본회의, 국정조사 and 예산결산특별위원회 meetings, which the audit marks as misattached. coverage_gaps leads 서정욱, 김영환, 채영복 (absent from the old panel) are covered, as are the 오명 and 최문기 partial-outside leads. 조동호 appears only as 후보자 at his 2019-03-27 hearing (nomination withdrawn). 김대정 and 진성오 (2022-10-04 국정감사) are 장관정책보좌관, not ministers."
+    },
+    {
+      "severity": "medium",
+      "desc": "(verifier) Reorganization-day convention. 권숙일's end is 1998-02-27 by the offices.json convention, but the law took effect on the afternoon of 1998-02-28, he was 자동면직 then (연합 1998-02-28, 한국경제 1998-03-02) and the MSIT list prints 1998. 2. 28. as his last day. The same question applies to 김우식 (law effective 2008-02-29, 이임식 that day). Culture and other lineages use the same convention, so any change should be made panel-wide, not in one lineage."
+    },
+    {
+      "severity": "low",
+      "desc": "(verifier) The official MSIT 역대장관 page (tier 2, not used by the builder) lists exactly the same persons and order for 과학기술처/부, 미래창조과학부 and 과학기술정보통신부 from 1997 to the cutoff. Its end dates are the day before the successor's start, so they differ by one day from the same-day handovers used here, and it dates 오명 from the 2003-12-28 announcement where the gazette prints 2003-12-29."
+    },
+    {
+      "severity": "low",
+      "desc": "(verifier) The 1998-02-28..03-02 gap has no acting minister. 연합 1998-02-28 quotes 청와대 that the existing vice ministers were told to act as vice ministers of the seven renamed ministries, which is not an acting-minister order, so nothing is added to acting."
+    }
+  ],
+  "verification": {
+    "verifier": "adversarial verifier, lineage science",
+    "verified_at": "2026-09-25T14:15:18-0400",
+    "input": "roster/science.json (built_at 2026-09-25T13:27:30-0400)",
+    "mode": "final",
+    "independent_holder_list": "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (tier 2, accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/science/verify/msit_past_ministers.html). Same 16 persons in the window as the builder, no omission.",
+    "gazette_reread": "All 16 gazette-backed start dates (plus 관보 17983 for the acting 제1차관) were re-read in harvest/gazette_text and item PDFs snapshotted to roster/sources/science/verify/gazette/. A fresh grep of the full corpus 2001-01..2026-09 (GAZETTE_DONE, no missing months) for every science-office appointment line, letter-spacing allowed, found no notice outside the builder's list (script roster/scripts/science_verify_02_gazette_grep.py, output roster/sources/science/verify/gazette_grep.txt).",
+    "transcript_check": "Re-run independently (roster/scripts/science_verify_03_transcripts.py, output roster/sources/science/verify/transcript_check.txt). 268 valid-type rows (상임위원회, 국정감사, 인사청문특별위원회) carry a science-office label once 교육과학기술부 rows (education lineage) are excluded. All 257 minister rows of the 13 ministers who appear fall inside that person's spells. The rest are the 9 confirmation hearings labelled 후보자 (8 later appointed, plus 조동호) and two 장관정책보좌관 rows (김대정, 진성오, 2022-10-04), which are not ministers. Per-person bounds are in the output file.",
+    "continuity": "Same-day handovers at every replacement. Contiguous splits at 2004-10-18 (오명 부총리), 2017-07-26 (유영민 renaming) and 2025-10-01 (배경훈 부총리). Gaps are 1998-02-28..03-02 (seven renamed ministries headless, 한국경제 and 경향 1998-03-02), 2008-02-29..2013-03-22 (science inside 교육과학기술부, education lineage) and 2013-03-23..04-16 (no minister after 김종훈 withdrew, 제1차관 이상목 from 03-24 listed under acting). No overlaps (script roster/scripts/science_verify_06_continuity.py).",
+    "nominations_check": "likms title searches for 과학기술부장관 (17-18대), 미래창조과학부장관 (19-20대), 과학기술정보통신부장관 (20-22대) and a refreshed 22대 인사청문요청안 search (to 2026-09-04) return exactly the 10 science requests in the file (snapshot roster/sources/science/verify/likms_title_searches.json, likms_22_insa_refresh.json). No 2026 request for this office.",
+    "nomination_status": [
+      {
+        "nominee": "강창희",
+        "status": "confirmed",
+        "checks": "appointment day 1998-03-03 confirmed (한겨레 1998-03-04). No hearing law for 국무위원 then."
+      },
+      {
+        "nominee": "서정욱",
+        "status": "confirmed",
+        "checks": "announcement and 임명장 1999-03-23 confirmed (전북도민일보, 동아)."
+      },
+      {
+        "nominee": "김영환",
+        "status": "confirmed",
+        "checks": "gazette 14764 re-read."
+      },
+      {
+        "nominee": "채영복",
+        "status": "confirmed",
+        "checks": "gazette 15018 re-read."
+      },
+      {
+        "nominee": "박호군",
+        "status": "confirmed",
+        "checks": "gazette 15338 re-read."
+      },
+      {
+        "nominee": "오명",
+        "status": "confirmed",
+        "checks": "announcement 2003-12-28 (국제신문, 인천일보 2003-12-29), gazette 12-29 re-read."
+      },
+      {
+        "nominee": "김우식",
+        "status": "confirmed",
+        "checks": "내정 2006-01-02 (노컷뉴스). likms ZZ1772 re-read: 제안 2006-01-11, 경과보고서채택 2006-02-08. Hearing 2006-02-07 matches transcript meeting 34088."
+      },
+      {
+        "nominee": "김종훈",
+        "status": "confirmed",
+        "checks": "named 2013-02-17 and withdrew 2013-03-04 (동아). No likms bill (office not yet in law), confirmed by title search of the 19th term."
+      },
+      {
+        "nominee": "최문기",
+        "status": "confirmed",
+        "checks": "지명 2013-03-14 (세계일보, 동아). likms ZZ19060 re-read, 제안 2013-03-25, no 처리결과. Report not adopted confirmed by 경향 사설 2013-04-18. Hearing 2013-04-01 (meeting 42596)."
+      },
+      {
+        "nominee": "최양희",
+        "status": "confirmed",
+        "checks": "likms ZZ19116 re-read: 제안 2014-06-24, 2014-07-10 상정/의결(경과보고서채택). Hearing 2014-07-07 (meeting 44162)."
+      },
+      {
+        "nominee": "유영민",
+        "status": "confirmed",
+        "checks": "likms ZZ20055 re-read: 제안 2017-06-15, 경과보고서채택 2017-07-10. Hearing 2017-07-04 (meeting 47206 and likms meeting list)."
+      },
+      {
+        "nominee": "조동호",
+        "status": "confirmed",
+        "checks": "likms ZZ20259 re-read: 제안 2019-03-13, 회부 only. Hearing 2019-03-27 (meeting 49040). 지명철회 2019-03-31 (builder's 조선, 파이낸셜뉴스)."
+      },
+      {
+        "nominee": "최기영",
+        "status": "confirmed",
+        "checks": "likms ZZ20279 re-read: 제안 2019-08-14, 2019-09-02 상정, no 처리결과. Hearing 2019-09-02 (meeting 49358)."
+      },
+      {
+        "nominee": "임혜숙",
+        "status": "confirmed",
+        "checks": "likms ZZ21054 re-read: 제안 2021-04-21, 경과보고서채택 2021-05-13. Hearing 2021-05-04 (meeting 051013)."
+      },
+      {
+        "nominee": "이종호",
+        "status": "confirmed",
+        "checks": "likms ZZ21100 re-read: 제안 2022-04-14 (대통령당선인), 처리결과 채택 2022-05-03. Hearing 2022-05-03 (meeting 051863)."
+      },
+      {
+        "nominee": "유상임",
+        "status": "confirmed",
+        "checks": "likms ZZ22021 re-read: 제안 2024-07-24, 2024-08-02 and 08-08 상정, no 처리결과. Hearing 2024-08-08 (meeting 053961)."
+      },
+      {
+        "nominee": "배경훈",
+        "status": "confirmed",
+        "checks": "지명 2025-06-23 confirmed by 한겨레, 파이낸셜뉴스, 대전일보 (23일 강훈식 비서실장 브리핑). likms ZZ22052 re-read: 제안 2025-06-27, 07-14 인사청문회실시, 경과보고서채택 2025-07-15."
+      }
+    ],
+    "field_hygiene": "appointing_president matches the start date for all spells (no acting-president appointments in this lineage). deputy_pm true exactly on 2004-10-18..2008-02-28 and from 2025-10-01 (offices.json OF027, OF058). reorg_continuation/reappointed_on_reorg true on the three split spells, each backed by a new gazette notice. mp_hint for 강창희 (PAQ11014) and 김영환 (1C04271Z) matches na_members, no other holder is in na_members. No suspensions. All offices in scope. No spell is duplicated in ict.json (정보통신부 only) or education.json (교육과학기술부 2008-02-29..2013-03-22).",
+    "spell_status": [
+      {
+        "index": 0,
+        "name": "권숙일",
+        "ministry": "과학기술처",
+        "start": "1997-03-06",
+        "end": "1998-02-27",
+        "status": "corrected",
+        "checks": "start corrected (tier 2 plus tier 3). End kept by convention and flagged. Holdover on 1998-02-25..27 confirmed (세계일보 1998-02-27)."
+      },
+      {
+        "index": 1,
+        "name": "강창희",
+        "ministry": "과학기술부",
+        "start": "1998-03-03",
+        "end": "1999-03-23",
+        "status": "confirmed",
+        "checks": "start 1998-03-03 (한겨레, 세계일보, MSIT), end 1999-03-23 사표 수리 and successor same day (동아, 경향, MSIT). end_reason resigned (party return, no election) confirmed. mp_hint matches na_members (PAQ11014)."
+      },
+      {
+        "index": 2,
+        "name": "서정욱",
+        "ministry": "과학기술부",
+        "start": "1999-03-23",
+        "end": "2001-03-26",
+        "status": "confirmed",
+        "checks": "start confirmed (전북도민일보, MSIT). End = successor's gazette date, gazette re-read. Valid transcript rows 2000-06-22..2001-02-27 inside."
+      },
+      {
+        "index": 3,
+        "name": "김영환",
+        "ministry": "과학기술부",
+        "start": "2001-03-26",
+        "end": "2002-01-29",
+        "status": "confirmed",
+        "checks": "start gazette section date re-read; end = successor gazette date re-read; MSIT agrees (day-before convention)."
+      },
+      {
+        "index": 4,
+        "name": "채영복",
+        "ministry": "과학기술부",
+        "start": "2002-01-29",
+        "end": "2003-02-27",
+        "status": "confirmed",
+        "checks": "start gazette section date re-read; end = successor gazette date re-read; MSIT agrees (day-before convention)."
+      },
+      {
+        "index": 5,
+        "name": "박호군",
+        "ministry": "과학기술부",
+        "start": "2003-02-27",
+        "end": "2003-12-29",
+        "status": "confirmed",
+        "checks": "start gazette section date re-read; end = successor gazette date re-read; MSIT agrees (day-before convention). Replacement announced Sunday 2003-12-28 (국제신문, 인천일보), successor's gazette and 임명장 date 2003-12-29, so the builder's same-day end is kept."
+      },
+      {
+        "index": 6,
+        "name": "오명",
+        "ministry": "과학기술부",
+        "start": "2003-12-29",
+        "end": "2004-10-17",
+        "status": "confirmed",
+        "checks": "start gazette 2003-12-29 re-read (tier 1) over MSIT 2003-12-28 (announcement day). Split at 2004-10-18 re-read in gazette 15826, consistent with offices.json deputy PM period."
+      },
+      {
+        "index": 7,
+        "name": "오명",
+        "ministry": "과학기술부",
+        "start": "2004-10-18",
+        "end": "2006-02-10",
+        "status": "confirmed",
+        "checks": "deputy_pm true within 2004-10-18..2008-02-28 (offices.json OF027). End = successor gazette date re-read, 이임식 10 Feb (builder's 전자신문), MSIT agrees."
+      },
+      {
+        "index": 8,
+        "name": "김우식",
+        "ministry": "과학기술부",
+        "start": "2006-02-10",
+        "end": "2008-02-28",
+        "status": "confirmed",
+        "checks": "start gazette re-read, MSIT agrees on start and on the 2008-02-28 end. Holdover 2008-02-25..28 under 이명박. Transcript rows 2006-02-13..2008-02-04 inside."
+      },
+      {
+        "index": 9,
+        "name": "최문기",
+        "ministry": "미래창조과학부",
+        "start": "2013-04-17",
+        "end": "2014-07-16",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read."
+      },
+      {
+        "index": 10,
+        "name": "최양희",
+        "ministry": "미래창조과학부",
+        "start": "2014-07-16",
+        "end": "2017-07-11",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read. Holdover through the 황교안 acting presidency and under 문재인 until 2017-07-11 (이임식 that day)."
+      },
+      {
+        "index": 11,
+        "name": "유영민",
+        "ministry": "미래창조과학부",
+        "start": "2017-07-11",
+        "end": "2017-07-25",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read. Transcript file has no row for him as 미래창조과학부장관 inside this 15-day spell (only the 2017-07-04 nominee hearing), so transcript_check 'ok' means no contradiction."
+      },
+      {
+        "index": 12,
+        "name": "유영민",
+        "ministry": "과학기술정보통신부",
+        "start": "2017-07-26",
+        "end": "2019-09-09",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read."
+      },
+      {
+        "index": 13,
+        "name": "최기영",
+        "ministry": "과학기술정보통신부",
+        "start": "2019-09-09",
+        "end": "2021-05-14",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read."
+      },
+      {
+        "index": 14,
+        "name": "임혜숙",
+        "ministry": "과학기술정보통신부",
+        "start": "2021-05-14",
+        "end": "2022-05-10",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read. Moon accepted only 유은혜, 박범계, 이인영 on 2022-05-09 (연합, 한국경제, 매일경제), so the same-day handover on 2022-05-10 stands despite the 5-9 이임식."
+      },
+      {
+        "index": 15,
+        "name": "이종호",
+        "ministry": "과학기술정보통신부",
+        "start": "2022-05-10",
+        "end": "2024-08-16",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read."
+      },
+      {
+        "index": 16,
+        "name": "유상임",
+        "ministry": "과학기술정보통신부",
+        "start": "2024-08-16",
+        "end": "2025-07-16",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read. Resignation offered in 2025-06 was rejected (매일경제 2025-06-05), holdover under 이재명 until 2025-07-16 confirmed."
+      },
+      {
+        "index": 17,
+        "name": "배경훈",
+        "ministry": "과학기술정보통신부",
+        "start": "2025-07-16",
+        "end": "2025-09-30",
+        "status": "confirmed",
+        "checks": "start per-person gazette date re-read, MSIT agrees; end = successor or re-appointment notice re-read. End 2025-09-30 is the day before the 부총리 notice (법률 제21065호 effective 2025-10-01)."
+      },
+      {
+        "index": 18,
+        "name": "배경훈",
+        "ministry": "과학기술정보통신부",
+        "start": "2025-10-01",
+        "end": null,
+        "status": "confirmed",
+        "checks": "start gazette 21118 re-read; in office at cutoff per MSIT page (accessed 2026-09-25) and builder's 2026-09-22 news; no 2026 hearing request for the office in likms."
+      }
+    ],
+    "counts": {
+      "confirmed": 18,
+      "corrected": 1,
+      "disputed": 0,
+      "added": 0
+    },
+    "changes": [
+      {
+        "target": "spell 권숙일 (과학기술처)",
+        "field": "start",
+        "old": "1997-03-05",
+        "new": "1997-03-06",
+        "evidence": "MSIT 역대장관 page (tier 2) '권숙일 1997. 3. 6. ~ 1998. 2. 28.'; 서울신문 1997-03-07 and 중부매일 1997-03-07 (BigKinds) report the 임명장 for the new ministers on 6 March; the 5 March date in the builder's 연합 sources is the announcement. Consistent with culture.json 송태호 1997-03-06 (MCST list). Outside the window, affects tenure length only."
+      },
+      {
+        "target": "issues",
+        "field": "desc of the 권숙일 start issue",
+        "old": "builder text (1997-03-05 used with medium confidence)",
+        "new": "rewritten to record the correction to 1997-03-06",
+        "evidence": "as for the start change"
+      },
+      {
+        "target": "issues",
+        "field": "appended",
+        "old": "14 issues",
+        "new": "17 issues",
+        "evidence": "three verifier issues: reorganization-day convention, MSIT list comparison, 1998 gap has no acting minister"
+      },
+      {
+        "target": "spells and nominations",
+        "field": "start_sources, end_sources, sources",
+        "old": "builder sources",
+        "new": "builder sources plus entries prefixed [verifier]",
+        "evidence": "MSIT page for every spell, gazette re-reads, and BigKinds/Naver items listed in each entry; no other value changed"
+      }
+    ],
+    "flags": [
+      {
+        "target": "spell 권숙일 (과학기술처)",
+        "field": "end",
+        "value": "1998-02-27 (unchanged)",
+        "evidence": "Kept by the offices.json convention (last full day under the old name). MSIT prints 1998. 2. 28. and 연합 1998-02-28 plus 한국경제 1998-03-02 say the law took effect on the afternoon of the 28th and the 7 renamed ministries' heads were 궐위 (자동면직) from then. Panel-level decision, see issues."
+      },
+      {
+        "target": "spell 오명 (과학기술부, from 2003-12-29)",
+        "field": "start",
+        "value": "2003-12-29 (unchanged)",
+        "evidence": "관보 제15587호 section ⊙2003년12월29일자 (tier 1, re-read) and the 29 December 임명장 (builder's 국제신문) outweigh the MSIT list's 2003. 12. 28., which is the Sunday announcement (인천일보, 국제신문 2003-12-29). The land lineage uses 2003-12-29 for 강동석 from the same reshuffle."
+      },
+      {
+        "target": "spell 김우식 (과학기술부)",
+        "field": "end",
+        "value": "2008-02-28 (unchanged)",
+        "evidence": "Same reorganization-day convention as 권숙일. MSIT also prints 2008. 2. 28. 법률 제8852호 took effect on 2008-02-29, the day of his 이임식 and of 김도연's appointment (관보 제16703호)."
+      }
+    ],
+    "scripts": [
+      "roster/scripts/science_verify_01_msit.py",
+      "roster/scripts/science_verify_02_gazette_grep.py",
+      "roster/scripts/science_verify_03_transcripts.py",
+      "roster/scripts/science_verify_04_likms.py",
+      "roster/scripts/science_verify_05_news.py",
+      "roster/scripts/science_verify_06_continuity.py",
+      "roster/scripts/science_verify_07_gazette_snap.py",
+      "roster/scripts/science_verify_08_build.py",
+      "roster/scripts/science_verify_09_resume_check.py"
+    ],
+    "resume_pass": {
+      "run_at": "2026-09-25T21:37:18-0400",
+      "reason": "Workflow restarted after the final file had been written. The existing verified file was re-audited instead of rebuilt.",
+      "checks": [
+        "Gazette re-read (second pass) of the 16 science-office appointment notices 2001-2025 in harvest/gazette_text (관보 14764, 15018, 15338, 15587, 15826, 16195, 18001, 18312, 19052, 19067, 19589, 20006, 20255, 20821, 21043, 21118). Every printed date matches the spell start. No 2026 notice for this office in the corpus (309 months, GAZETTE_DONE present).",
+        "Transcript bounds re-run with a separate script (roster/scripts/science_verify_09_resume_check.py, output roster/sources/science/verify/transcript_check_resume.txt). Same result as the first pass, 257 minister rows inside spells, 9 후보자 rows at the hearings, 2 장관정책보좌관 rows (김대정, 진성오).",
+        "likms_cabinet_bills.csv lists exactly the 10 science 인사청문요청안 already in nominations (ZZ1772, ZZ19060, ZZ19116, ZZ20055, ZZ20259, ZZ20279, ZZ21054, ZZ21100, ZZ22021, ZZ22052).",
+        "Deputy PM split convention (end_reason ministry_reorganized, next spell reorg_continuation true) matches education.json and finance.json.",
+        "All snapshot and gazette paths cited in the file exist on disk."
+      ],
+      "changes": "none"
+    }
+  }
+}

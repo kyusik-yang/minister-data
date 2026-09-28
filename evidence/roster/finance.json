@@ -1,0 +1,1910 @@
+{
+ "lineage": "finance",
+ "built_at": "2026-09-25T14:00:43-0400",
+ "ministry_names": [
+  {
+   "ministry": "재정경제원",
+   "from": "1998-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 재정경제원장관 1998-02-25..1998-02-27 (정부조직법 제17조③ (법률 제5153호 version))",
+   "legal_basis": "정부조직법 법률 제5153호 (제17조 (부총리), 제23조 (재정경제원, 장관은 국무위원으로 보한다), in force at window start (version effective 1996-08-08)); 정부조직법 법률 제5529호 (전부개정) (제27조, 부칙 제3조제1항 표, abolishes (부총리제 폐지, 재정경제원을 재정경제부로 개편))",
+   "source": "offices.json OF002"
+  },
+  {
+   "ministry": "재정경제부",
+   "from": "1998-02-28",
+   "to": "2008-02-28",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 재정경제부장관 2001-01-29..2008-02-28 (정부조직법 제19조의2 (법률 제6400호) until its deletion by 법률 제8852호 (부총리제 폐지))",
+   "legal_basis": "정부조직법 법률 제5529호 (전부개정) (제26조①②, 제27조, establishes); 정부조직법 법률 제6400호 (제19조의2, adds 부총리 겸임); 정부조직법 법률 제8852호 (전부개정) (제23조, 부칙 제2조 표, abolishes (기획예산처와 재정경제부를 통합하여 기획재정부 신설))",
+   "source": "offices.json OF023"
+  },
+  {
+   "ministry": "기획재정부",
+   "from": "2008-02-29",
+   "to": "2026-01-01",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 기획재정부장관 2013-03-23..2026-01-01 (정부조직법 제19조 (법률 제11690호), continued by 법률 제12844호 and 법률 제21065호 (2025-10-01 version))",
+   "legal_basis": "정부조직법 법률 제8852호 (전부개정) (제22조, 제23조, 부칙 제2조 표, establishes); 정부조직법 법률 제11690호 (전부개정) (제19조, 제26조, 제27조, adds 부총리 겸임); 정부조직법 법률 제21065호 (제23조, 제29조①1., 제30조, 부칙 제2조제1항 표, abolishes (기획예산처와 재정경제부로 분리))",
+   "source": "offices.json OF034"
+  },
+  {
+   "ministry": "재정경제부",
+   "from": "2026-01-02",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 재정경제부장관 2026-01-02..2026-09-24 (정부조직법 제19조③④ (법률 제21065호, 재정경제부 part effective 2026-01-02 under 부칙 제1조제1호))",
+   "legal_basis": "정부조직법 법률 제21065호 (제19조③④, 제29조①1., 제30조, 부칙 제2조제1항 표, establishes)",
+   "source": "offices.json OF064"
+  }
+ ],
+ "spells": [
+  {
+   "name": "임창열",
+   "name_hanja": "林昌烈",
+   "name_en": "Lim Chang-yeol",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12613978 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1944-05-27",
+   "gender": "M",
+   "ministry": "재정경제원",
+   "office_title": "부총리 겸 재정경제원장관",
+   "deputy_pm": true,
+   "start": "1997-11-19",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds: 중앙일보 1997-11-20 \"김영삼대통령,경제팀 경질…후임에 임창열 통신장관\" (news_id 01100901.19971120205153001), result snapshot sources/finance/news/bigkinds_1997-11-19_1997-11-20_e35d0bdb.json, accessed 2026-09-25T07:06:05-0400",
+    "BigKinds: 세계일보 1997-11-20 \"경제부총리 임창열씨/통산장관­정해주/경제수석­김영섭씨\" (news_id 01100701.19971120000000102), result snapshot sources/finance/news/bigkinds_1997-11-19_1997-11-20_e35d0bdb.json, accessed 2026-09-25T07:06:05-0400",
+    "BigKinds: 한국경제 1997-11-20 \"새 경제부총리 임창열씨/김 대통령,경제팀 경질\" (news_id 02100601.20160116134720578), result snapshot sources/finance/news/bigkinds_1997-11-19_1997-11-20_e35d0bdb.json, accessed 2026-09-25T07:06:05-0400",
+    "[verifier] BigKinds: 한국경제 1997-11-21 \"금융안정대책의 실천과제(사설)\" (news_id 02100601.20160116134917235), result snapshot roster/sources/finance/verify/bigkinds_임창열_1997.json, accessed 2026-09-25T21:57:01-0400: \"임창열 신임 부총리겸 재정경제원장관이 취임 당일인 지난 19일 서둘러 발표한 금융시장 안정대책은 외환시장안정 부실채권정리 금융산업구조조정 등 그동안 얘기돼온 거의 모든 조치를 망라한 내용으로서 우리 경제를 덮친 금융위기의 심각성과 함께 어떻게든 이를 극복하겠다는 정부의 단호한 의지를 읽을수 있다.결론부터 말하면 이번 금융안정대책의 방향은 대체로 옳으나 ..\"",
+    "[verifier] Naver News: 연합뉴스 1997-11-20 11:01:00 \"林부총리, 금융위기 극복에 분주\" https://n.news.naver.com/mnews/article/001/0004253444 (snapshot roster/sources/finance/verify/naver_001_0004253444.html, accessed 2026-09-25T21:54:03-0400): \"식후 곧바로 금융시장 안정 종합대책을 발표함으로써 저돌적인 추진력을 과시한 林昌烈부총리 겸 재정경제원장관은 취임 이튿날인 20일도 금융위기 극복을 위한 발빠른 행보를 지속. 林부총리는 이날 오전 세종로 정부1청사에서 열린 총리주재 국무위원 간담회에 참석, 금융시장 안정대책의 내용을 설명하고 적극적인 협조를 당부. 이어 오후 3시에는 프레스센터에서 외신기자들을 상대로 기자회견을 갖고 금융위기 \"",
+    "[verifier] 재정경제부 역대장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL mofe.go.kr, snapshot roster/sources/finance/verify/mofe_history.html + .txt, accessed 2026-09-25T13:48:59-0400): \"재정경제원 5대 임창열 부총리 재임기간 1997.11. ~ 1998.2.\""
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices.json OF002 재정경제원 1998-02-25..1998-02-27 (정부조직법 법률 제5529호 effective 1998-02-28 abolished 재정경제원)",
+    "BigKinds: 세계일보 1998-03-02 \"정부에 유령부처까지…/재경부등 7곳 장관없어 대혼란/조직법 공포\" (news_id 01100701.19980302000000105), result snapshot sources/finance/news/bigkinds_1998-02-27_1998-03-02_b0a79311.json, accessed 2026-09-25T12:58:10-0400",
+    "BigKinds: 부산일보 1998-03-02 \"7개부 장.차관 첫 공석사태\" (news_id 01500701.20160409233813544), result snapshot sources/finance/news/bigkinds_1998-02-27_1998-03-02_b0a79311.json, accessed 2026-09-25T12:58:10-0400",
+    "BigKinds: 서울신문 1998-03-03 \"임창열 전 부총리 “서울은 인사” 해명\" (news_id 01100611.20160421192154601), result snapshot sources/finance/news/bigkinds_1998-02-27_1998-03-04_446cf49f.json, accessed 2026-09-25T12:58:06-0400",
+    "[verifier] Naver News: 연합뉴스 1998-02-28 14:10:00 \"행정마비 불가피한 재경부 표정\" https://n.news.naver.com/mnews/article/001/0004295452 (snapshot roster/sources/finance/verify/naver_001_0004295452.html, accessed 2026-09-24T22:45:18-0400): \"林昌烈부총리 겸 재정경제원장관은 이날 오전 정상 집무를 마친 뒤 부인 朱惠蘭씨와 제주도 주말여행을 떠난나며 김포공항으로 출발했으며 姜萬洙재정경제원차관은 비록 공식적으로는 차관직을 상실했지만 위기관리자로 새 장.차관이 임명될 때까지 재경부를 지킬 방침.\"",
+    "[verifier] Naver News: 연합뉴스 1998-02-28 13:29:00 \"새 정부조직법 발효-1\" https://n.news.naver.com/mnews/article/001/0004297292 (snapshot roster/sources/finance/verify/naver_001_0004297292.html, accessed 2026-09-24T22:45:05-0400): \"(서울=연합) 새 정부조직법이 28일 오후 공포돼 즉시 발효된다.\""
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "Kim Young-sam-era holdover. Appointed 1997-11-19 (news of 1997-11-20 report the appointment on the 19th, no gazette file exists before 2001). The new 정부조직법 (법률 제5529호) was promulgated and took effect on the afternoon of 1998-02-28 and abolished 재정경제원. News of 1998-03-02 says the new 재정경제부 and six other ministries had neither minister nor vice minister, and 서울신문 of 1998-03-03 calls him \"전 부총리 겸 재정경제원장관\". He did not continue as 재정경제부장관. The end date follows offices.json (재정경제원 last day 1998-02-27), although he was legally in office until the promulgation on the afternoon of 1998-02-28. Birth date from ko.wikipedia \"임창열\" https://ko.wikipedia.org/w/index.php?oldid=42324233 (snapshot sources/finance/wiki/wiki_임창열_42324233.json, accessed 2026-09-24T22:43:33-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] Start confirmed by sources outside the builder's set. The end follows the offices.json convention (재정경제원 last day 1998-02-27). 연합뉴스 1998-02-28 shows he worked the morning of 02-28 before the law was promulgated that afternoon, so the last day in office in the literal sense is 1998-02-28."
+  },
+  {
+   "name": "이규성",
+   "name_hanja": "李揆成",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-01-11",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "재정경제부장관",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds: 매일신문 1998-03-04 \"신임각료에 임명장 수여\" (news_id 01500601.19980304111720002), result snapshot sources/finance/news/bigkinds_1998-03-03_1998-03-05_abe3e547.json, accessed 2026-09-25T12:59:53-0400",
+    "BigKinds: 한겨레 1998-03-04 \"DJ “고 총리 헌신 기억할 것”/첫 조각 안팎\" (news_id 01101001.19980304000000503), result snapshot sources/finance/news/bigkinds_1998-03-03_1998-03-05_abe3e547.json, accessed 2026-09-25T12:59:53-0400",
+    "BigKinds: 문화일보 1998-03-03 \"“국회중시” 일부 의원 막판탈락/새 장관 임명식 부부동반 참석\" (news_id 01100501.19980303000000304), result snapshot sources/finance/news/bigkinds_1998-03-03_1998-03-05_abe3e547.json, accessed 2026-09-25T12:59:53-0400",
+    "BigKinds: 세계일보 1998-03-04 \"김종필 총리서리 임명/김 대통령,17부장관 조각\" (news_id 01100701.19980304000000101), result snapshot sources/finance/news/bigkinds_1998-02-28_1998-03-06_a9d6a383.json, accessed 2026-09-25T12:57:44-0400",
+    "[verifier] Naver News: 연합뉴스 1998-03-03 12:39:00 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" https://n.news.naver.com/mnews/article/001/0004372354 (snapshot roster/sources/finance/verify/naver_001_0004372354.html, accessed 2026-09-24T22:44:26-0400): \"(서울=연합) 金大中대통령은 3일 재경부장관에 李揆成전재무장관을 임명하는 등 새정부 17개 부(部)의 조각을 완료했다.\"",
+    "[verifier] 재정경제부 역대장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL mofe.go.kr, snapshot roster/sources/finance/verify/mofe_history.html + .txt, accessed 2026-09-25T13:48:59-0400): \"재정경제부 1대 이규성 장관 재임기간 1998.3. ~ 1999.5.\""
+   ],
+   "end": "1999-05-24",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 경향신문 1999-05-25 \"물러나는 이규성 前 재경장관-\"직원들 고생만시켜...\" 눈시울\" (news_id 01100101.19990525000001104), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-26_b899dca9.json, accessed 2026-09-25T13:00:07-0400",
+    "BigKinds: 문화일보 1999-05-25 \"<사설>새경제팀에 바란다\" (news_id 01100501.19990525000000602), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-25_7589e473.json, accessed 2026-09-25T12:59:03-0400",
+    "[verifier] Naver News: 연합뉴스 1999-05-24 13:44:00 \"<회전목마> 이규성 전 장관의 눈물\" https://n.news.naver.com/mnews/article/001/0004517661 (snapshot roster/sources/finance/verify/naver_001_0004517661.html, accessed 2026-09-25T21:40:53-0400): \"(서울=연합뉴스) 윤근영 기자= 이규성(李揆成) 전 재경부장관은 24일 오전 기자실에 이임인사를 하기 위해 들렀다가 직원들의 노고를 치하는 대목에서 울먹여 주변 분위기를 숙연케 했다.\"",
+    "[verifier] Naver News: 연합뉴스 1999-05-24 13:25:00 \"강봉균 재경장관 일문일답\" https://n.news.naver.com/mnews/article/001/0004505097 (snapshot roster/sources/finance/verify/naver_001_0004505097.html, accessed 2026-09-24T22:47:03-0400): \"(서울=연합뉴스) 염주인기자 = 신임 강봉균(康奉均) 재경부 장관은 24일 \"4대 부문의 경제구조개혁을 착실히 추진하고, 특히 재벌개혁이 차질없이 진행되도록 하는 데 경제정책의 초점을 맞추겠다\"고 경제각료의 팀장으로서의 정책추진 방향을 밝혔다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "First 재정경제부장관. Announced and given the 임명장 on 1998-03-03 (14:00), on the recommendation of outgoing PM 고건 because the 김종필 consent vote had failed. ko.wikipedia lists 1998-03-05, which the news of the day contradicts. Replaced in the 1999-05-24 reshuffle. Birth date from ko.wikipedia \"이규성 (정치인)\" https://ko.wikipedia.org/w/index.php?oldid=41920794 (snapshot sources/finance/wiki/wiki_이규성_정치인__41920794.json, accessed 2026-09-25T13:38:56-0400). Gender from the ko.wikipedia infobox 성별 = 남 (ko.wikipedia \"이규성 (정치인)\" https://ko.wikipedia.org/w/index.php?oldid=41920794 (snapshot sources/finance/wiki/wiki_이규성_정치인__41920794.json, accessed 2026-09-25T13:38:56-0400))."
+  },
+  {
+   "name": "강봉균",
+   "name_hanja": "康奉均",
+   "name_en": "Kang Bong-kyun",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16080006 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1943-08-13",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "재정경제부장관",
+   "deputy_pm": false,
+   "start": "1999-05-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds: 문화일보 1999-05-25 \"<사설>새경제팀에 바란다\" (news_id 01100501.19990525000000602), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-25_7589e473.json, accessed 2026-09-25T12:59:03-0400",
+    "BigKinds: 동아일보 1999-05-25 \"\"현행 한자릿수 저금리체제 지속 금융종합과세 조기 부활 어려워\" 康奉均 재경부장관 인터뷰\" (news_id 01100401.19990525101721005), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-25_7589e473.json, accessed 2026-09-25T12:59:03-0400",
+    "BigKinds: 중앙일보 1999-05-25 \"[인터뷰] 강봉균 신임 재경부장관\" (news_id 01100901.19990525074400003), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-25_7589e473.json, accessed 2026-09-25T12:59:03-0400",
+    "[verifier] Naver News: 연합뉴스 1999-05-24 13:25:00 \"강봉균 재경장관 일문일답\" https://n.news.naver.com/mnews/article/001/0004505097 (snapshot roster/sources/finance/verify/naver_001_0004505097.html, accessed 2026-09-24T22:47:03-0400): \"(서울=연합뉴스) 염주인기자 = 신임 강봉균(康奉均) 재경부 장관은 24일 \"4대 부문의 경제구조개혁을 착실히 추진하고, 특히 재벌개혁이 차질없이 진행되도록 하는 데 경제정책의 초점을 맞추겠다\"고 경제각료의 팀장으로서의 정책추진 방향을 밝혔다.\"",
+    "[verifier] Naver News: 연합뉴스 1999-05-24 17:47:00 \"강봉균 신임 재경부장관 일문일답\" https://n.news.naver.com/mnews/article/001/0004513413 (snapshot roster/sources/finance/verify/naver_001_0004513413.html, accessed 2026-09-25T21:40:47-0400): \"(서울=연합뉴스) 윤근영 기자= 강봉균(康奉均) 신임 재경부장관은 24일 오후 기자간담회를 갖고 재벌구조개혁은 연말까지 완료되며 금융소득종합과세는 경제의 모든 분야가 정상화 될때 까지 유보한다고 밝혔다.\""
+   ],
+   "end": "2000-01-14",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 문화일보 2000-01-15 \"康奉均씨 31년 공직 마감\" (news_id 01100501.20000115000001003), result snapshot sources/finance/news/bigkinds_2000-01-12_2000-01-15_99caea52.json, accessed 2026-09-25T13:00:17-0400",
+    "BigKinds: 헤럴드경제 2000-01-14 \"김대통령, 장관급 9명 인사 단행\" (news_id 02100701.20160113051547733), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400",
+    "BigKinds: 한국경제 2000-04-14 \"[4.13 총선] 재경부 과장은 당선/장관은 낙선..선거결과 이모저모\" (news_id 02100601.20160117144427225), result snapshot sources/finance/news/bigkinds_2000-01-10_2000-04-14_4b95c6a3.json, accessed 2026-09-25T13:41:39-0400",
+    "[verifier] BigKinds: 매일경제 2000-01-15 \"[부처별 이.취임식 표정]김영호산자 국가적 차원 기술혁신추진\" (news_id 02100101.20160115095603434), result snapshot roster/sources/finance/verify/bigkinds_강봉균_2000.json, accessed 2026-09-25T21:56:47-0400: \"위원회는 퇴임장관 보내기와 신임장관 맞이하기로 분주한 모습을 보였다.●재정경제부·금감위 재정경제부는 14일 강봉균 전 장관을 보내고 이헌재 장관을 맞이했 다. 이헌재 위원장은 이날 앞두고 \"전경련은 장기적으로 없어져야 할 조직\"이라며 재벌개혁을 화두로 꺼내 재벌들을 긴장시켰다. 퇴임하는 강봉균 전 재정경제부 장관도 ..\"",
+    "[verifier] BigKinds: 전북일보 2000-01-14 \"군산·과천의왕 득실 ‘저울질’\" (news_id 01601101.20000114053424103), result snapshot roster/sources/finance/verify/bigkinds_강봉균_2000.json, accessed 2026-09-25T21:56:47-0400: \"강현욱의원 거취도 변수 1.13개각 결과 진념기획예산처장관 (부안)은 유임됐고 강봉균재정경제부장관(군산)은 출마로 확정됐다.강장관의 출마가 확정된 만큼 이제 강장관이 어디로 출마할 것인지데 정치권의 관심이 쏠리고 있다. 현재까지 관측되는 바로는 강장관의 경우 ..\""
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during the spell. Lost the 2000 general election in 경기 분당갑 (한국경제 2000-04-14, bigkinds_2000-01-10_2000-04-14_4b95c6a3.json), entered the 16th NA in the 2002-08-08 by-election, mona_cd 7PU7009N (na_members_15_22.csv)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "Replaced in the 2000-01-13 reshuffle, which was shaped by which ministers would run in the 2000-04-13 general election (매일신문 2000-01-14). 문화일보 2000-01-15 says his 31 years in office ended on the 14th (the day his successor received the 임명장) and that he would use his pension for election funds. He ran in 분당갑 (경기) and lost (한국경제 2000-04-14). Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남)."
+  },
+  {
+   "name": "이헌재",
+   "name_hanja": "李憲宰",
+   "name_en": "Lee Hun-jai",
+   "name_en_source": "https://www.wikidata.org/wiki/Q3565102 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1944-04-17",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "재정경제부장관",
+   "deputy_pm": false,
+   "start": "2000-01-14",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds: 헤럴드경제 2000-01-14 \"김대통령, 장관급 9명 인사 단행\" (news_id 02100701.20160113051547733), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400",
+    "BigKinds: 한겨레 2000-01-15 \"협조 화답속 재경부 강화뜻 / 이헌재장관 첫일정 진념장관과 만나\" (news_id 01101001.20000115000000910), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400",
+    "BigKinds: 동아일보 2000-01-13 \"[박태준내각 출범]金대통령 7개부처 장관 경질\" (news_id 01100401.20000113015630070), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400",
+    "[verifier] BigKinds: 경향신문 2000-01-14 \"7개부-장관급 2명 교체 - 金대통령 개각단행...\" (news_id 01100101.20000114000000107), result snapshot roster/sources/finance/verify/bigkinds_이헌재_2000.json, accessed 2026-09-25T21:56:23-0400: \"김대중(金大中)대통령은 13일 재경부 장관에 이헌재(李憲宰) 금융감독위원장을 임명하는 등 7개 부처 장관과 국무조정실장 등 2개 장관급에 대한 개각을 단행했다./관련기사 3.4면 김대통령은 외교통상부 장관에 이정빈(李廷彬) 국제교류재단 이사장, 행정자치부 장관에 최인기(崔仁基) 여수대 총장, 교육부 장관에 문용린(文龍鱗) 서울대 교수를 각각 기용했다. ..\"",
+    "[verifier] BigKinds: 매일경제 2000-01-15 \"[부처별 이.취임식 표정]김영호산자 국가적 차원 기술혁신추진\" (news_id 02100101.20160115095603434), result snapshot roster/sources/finance/verify/bigkinds_강봉균_2000.json, accessed 2026-09-25T21:56:47-0400: \"위원회는 퇴임장관 보내기와 신임장관 맞이하기로 분주한 모습을 보였다.●재정경제부·금감위 재정경제부는 14일 강봉균 전 장관을 보내고 이헌재 장관을 맞이했 다. 이헌재 위원장은 이날 앞두고 \"전경련은 장기적으로 없어져야 할 조직\"이라며 재벌개혁을 화두로 꺼내 재벌들을 긴장시켰다. 퇴임하는 강봉균 전 재정경제부 장관도 ..\""
+   ],
+   "end": "2000-08-07",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 국민일보 2000-08-08 \"재경 진념·교육 송자…개각 단행, 8개부처 경질\" (news_id 01100201.20000808000000101), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_c03262fc.json, accessed 2026-09-25T13:00:37-0400",
+    "BigKinds: 헤럴드경제 2000-08-08 \"경제사의 뒷편으로 떠나는 이헌재 장관\" (news_id 02100701.20160113100348183), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_6e9842de.json, accessed 2026-09-25T13:01:07-0400",
+    "[verifier] Naver News: 머니투데이 2000-08-07 13:45:00 \"[일반] 이헌재장관의 병중 이임사\" https://n.news.naver.com/mnews/article/008/0000011078 (snapshot roster/sources/finance/verify/naver_008_0000011078.html, accessed 2026-09-25T21:41:13-0400): \"급성 맹장수술을 받고 영동세브란스 병원에 입원 중인 이헌재 재정경제부 장관은 7일 이임식에 참석하지 못한 채 병상에서 작성한 이임사를 직원들에게 배포하는 것으로 이임식을 대신했다.\"",
+    "[verifier] Naver News: 매일경제 2000-08-07 16:10:00 \"떠나는 이헌재, \"구조조정은 냉엄한 진검승부\"\" https://n.news.naver.com/mnews/article/009/0000037290 (snapshot roster/sources/finance/verify/naver_009_0000037290.html, accessed 2026-09-25T21:41:14-0400): \"`잡초같은 승부사' 이헌재 전 재경부 장관이 7일 개각으로 6개월간의짧은 재경부장관 임기를 마쳤다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "5 valid-type meetings with a finance title inside the spell, 2000-06-20..2000-07-24.",
+   "notes": "Appointment announced 2000-01-13 after the 박태준 consent vote. The 임명장 was given on the morning of 2000-01-14 (헤럴드경제, 한겨레). No gazette file exists for 2000. The start is the 임명장 date, which matches the practice seen in the gazette from 2001 (for example 이헌재 2004: announced 02-10, 임명장 and gazette date 02-11). Replaced in the 2000-08-07 reshuffle. Also 국무총리 직무대행 2000-05-19..05-22 (see acting). Birth date from ko.wikipedia \"이헌재\" https://ko.wikipedia.org/w/index.php?oldid=41473469 (snapshot sources/finance/wiki/wiki_이헌재_41473469.json, accessed 2026-09-24T22:43:37-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] 경향신문 2000-01-14 reports the appointment as made on 01-13 (the announcement), and the 임명장 and the handover took place on 01-14. The builder's choice of the 임명장 day matches the gazette practice of 2001-2005 (appointment date printed = 임명장 day), so 01-14 is kept with start_confidence medium."
+  },
+  {
+   "name": "진념",
+   "name_hanja": "陳稔",
+   "name_en": "Jin Nyum",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12618182 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1940-12-02",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "재정경제부장관",
+   "deputy_pm": false,
+   "start": "2000-08-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds: 전북도민일보 2000-08-08 \"[사진]임명장 수여\" (news_id 01601001.20000808150517015), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_77ca48b5.json, accessed 2026-09-25T13:00:49-0400",
+    "BigKinds: 경남도민일보 2000-08-08 \"신임 내각 임명장 수여\" (news_id 01500151.20000808180540107), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_77ca48b5.json, accessed 2026-09-25T13:00:49-0400",
+    "BigKinds: 동아일보 2000-08-07 \"8개부처 장관 교체…청와대 수석-차관급 주내 인사\" (news_id 01100401.20000807021430026), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_c03262fc.json, accessed 2026-09-25T13:00:37-0400",
+    "[verifier] Naver News: 머니투데이 2000-08-07 11:19:00 \"[일반] 진념장관 2시30분께 기자회견\" https://n.news.naver.com/mnews/article/008/0000011032 (snapshot roster/sources/finance/verify/naver_008_0000011032.html, accessed 2026-09-25T21:41:18-0400): \"진 장관은 오후 4시 김대중 대통령으로부터 임명장을 받은후 영동세브란스 병원에 입원해있는 이헌재 전 재경부장관을 만날 예정이다.\"",
+    "[verifier] Naver News: 연합뉴스 2000-08-07 18:34:00 \"<진념 신임 재경부장관 일문일답>\" https://n.news.naver.com/mnews/article/001/0000019515 (snapshot roster/sources/finance/verify/naver_001_0000019515.html, accessed 2026-09-25T21:41:06-0400): \"(서울=연합뉴스) 김문성기자= 진념(陳稔) 신임 재정경제부 장관은 7일 오후 취임 기자간담회를 갖고 구조개혁을 비롯해 금융지주회사와 예금부분보장제도, 공적자금 추가조성 문제 등에 관해 입장을 밝혔다.\""
+   ],
+   "end": "2001-01-28",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices.json OF023 재정경제부 1998-02-28..2008-02-28 (부총리 겸임 added by 정부조직법 법률 제6400호, effective 2001-01-29)",
+    "BigKinds: 세계일보 2001-01-30 \"경제부총리 陳念씨, 교육부총리 韓完相씨\" (news_id 01100701.20010130000000102), result snapshot sources/finance/news/bigkinds_2001-01-28_2001-01-31_ea8c420d.json, accessed 2026-09-25T13:01:27-0400",
+    "[verifier] Naver News: 국민일보 2001-01-29 11:28:00 \"교육부총리 한완상·경제부총리 진념 임명\" https://n.news.naver.com/mnews/article/005/0000041284 (snapshot roster/sources/finance/verify/naver_005_0000041284.html, accessed 2026-09-25T21:41:24-0400): \"김대중(金大中)대통령은 29일 개정된 정부조직법이 발효됨에 따라 부총리 겸 재정경제부 장관에 진념(陳稔)재경부 장관을 승진임명하고 부총리 겸 교육인적자원부 장관에 한완상(韓完相) 상지대 총장을 기용했다.\""
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "15 valid-type meetings with a finance title inside the spell, 2000-10-09..2000-12-19.",
+   "notes": "Moved from 기획예산처장관. The office became 부총리 겸 재정경제부장관 on 2001-01-29 (법률 제6400호) and he was newly appointed to it that day, so the tenure is split there although the ministry name did not change. Birth date from ko.wikipedia \"진념\" https://ko.wikipedia.org/w/index.php?oldid=42413309 (snapshot sources/finance/wiki/wiki_진념_42413309.json, accessed 2026-09-24T22:43:38-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "진념",
+   "name_hanja": "陳稔",
+   "name_en": "Jin Nyum",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12618182 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1940-12-02",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2001-01-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds: 세계일보 2001-01-30 \"경제부총리 陳念씨, 교육부총리 韓完相씨\" (news_id 01100701.20010130000000102), result snapshot sources/finance/news/bigkinds_2001-01-28_2001-01-31_ea8c420d.json, accessed 2026-09-25T13:01:27-0400",
+    "BigKinds: 서울신문 2001-01-30 \"경제총리 진념·교육총리 한완상\" (news_id 01100611.20160420215108990), result snapshot sources/finance/news/bigkinds_2001-01-28_2001-01-31_ea8c420d.json, accessed 2026-09-25T13:01:27-0400",
+    "BigKinds: 전남일보 2001-01-30 \"■ 세 장관에 DJ 주문\" (news_id 01600801.20010130174004018), result snapshot sources/finance/news/bigkinds_2001-01-28_2001-01-31_ea8c420d.json, accessed 2026-09-25T13:01:27-0400",
+    "[verifier] Naver News: 국민일보 2001-01-29 11:28:00 \"교육부총리 한완상·경제부총리 진념 임명\" https://n.news.naver.com/mnews/article/005/0000041284 (snapshot roster/sources/finance/verify/naver_005_0000041284.html, accessed 2026-09-25T21:41:24-0400): \"김대중(金大中)대통령은 29일 개정된 정부조직법이 발효됨에 따라 부총리 겸 재정경제부 장관에 진념(陳稔)재경부 장관을 승진임명하고 부총리 겸 교육인적자원부 장관에 한완상(韓完相) 상지대 총장을 기용했다.\""
+   ],
+   "end": "2002-04-14",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 중앙일보 2002-04-15 \"경제부총리 오늘 임명 전윤철·이기호씨 압축\" (news_id 01100901.20020415024704001), result snapshot sources/finance/news/bigkinds_2002-04-14_2002-04-16_c66287a1.json, accessed 2026-09-25T13:01:53-0400",
+    "BigKinds: 한겨레 2002-04-15 \"경제부총리 전윤철씨 유력 / 이기호씨도 거론...박지원 비서실장 가능성\" (news_id 01101001.20020415000000204), result snapshot sources/finance/news/bigkinds_2002-04-14_2002-04-16_c66287a1.json, accessed 2026-09-25T13:01:53-0400",
+    "BigKinds: 국제신문 2002-04-15 \"오늘 경제부총리 후임인사 단행\" (news_id 01500401.20020415222500002), result snapshot sources/finance/news/bigkinds_2002-04-14_2002-04-16_c66287a1.json, accessed 2026-09-25T13:01:53-0400",
+    "[verifier] Naver News: 한국경제 2002-04-15 06:47:00 \"이르면 15일 개각 .. 陳부총리 출마위해 사표\" https://n.news.naver.com/mnews/article/015/0000496818 (snapshot roster/sources/finance/verify/naver_015_0000496818.html, accessed 2026-09-25T21:41:38-0400): \"박선숙 청와대 대변인은 14일 \"김 대통령은 진념 전 부총리가 제출한 사표를수리했다\"면서 \"업무에 차질이 없도록 조속한 시일내에 후임 인사를 단행할 것\"이라고 말했다.\"",
+    "[verifier] Naver News: 국민일보 2002-04-13 11:29:00 \"진념 부총리 사표 제출\" https://n.news.naver.com/mnews/article/005/0000101078 (snapshot roster/sources/finance/verify/naver_005_0000101078.html, accessed 2026-09-25T21:41:43-0400): \"진념 경제부총리가 13일 민주당 경기지사 후보 경선에 출마하기 위해 김대중(金大中)대통령에게 사표를 제출했다． 김대통령은 이에 따라 금명간 후임 경제부총리를 임명하는 보각을 단행할 예정이다．후임에는 전윤철 청와대 비서실장과 이기호 전 청와대경제수석이 거론되고 있다．\""
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "31 valid-type meetings with a finance title inside the spell, 2001-02-08..2002-02-27.",
+   "notes": "New appointment as 부총리 겸 재정경제부장관 on 2001-01-29 with a 임명장 that afternoon (news of 2001-01-30). This reshuffle is missing from the gazette index. Resigned to run for 경기도지사 in the 2002 local elections. 청와대 대변인 said on 2002-04-14 that the resignation had been accepted. Birth date from ko.wikipedia \"진념\" https://ko.wikipedia.org/w/index.php?oldid=42413309 (snapshot sources/finance/wiki/wiki_진념_42413309.json, accessed 2026-09-24T22:43:38-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "전윤철",
+   "name_hanja": "田允喆",
+   "name_en": "Jeon Yun-churl",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16091546 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1939-06-15",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2002-04-15",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15080호 (published 2002-04-22) 인사발령, snapshot sources/finance/gazette/gz_20020422_15080_00000000000000001319021449624000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319021435743000&tocId=00000000000000001319021449624000&isTocOrder=N, accessed 2026-09-24T22:46:51-0400",
+    "BigKinds: 부산일보 2002-04-15 \"경제부총리 전윤철, 비서실장 박지원씨\" (news_id 01500701.20160410115512233), result snapshot sources/finance/news/bigkinds_2002-04-14_2002-04-16_c66287a1.json, accessed 2026-09-25T13:01:53-0400",
+    "[verifier] 관보 제15080호 (published 2002-04-22) re-read in harvest/gazette_text/20020422_15080_00000000000000001319021449624000.txt (fetched 2026-09-24T22:46:51-0400), section header and notice: \"◉2002년4월15일자대통령비서실장전윤철(田允喆)국무위원에임함부총리겸재정경제부장관에보함\"",
+    "[verifier] Naver News: 동아일보 2002-04-15 18:09:00 \"경제부총리 전윤철…비서실장 박지원\" https://n.news.naver.com/mnews/article/020/0000124285 (snapshot roster/sources/finance/verify/naver_020_0000124285.html, accessed 2026-09-25T21:41:50-0400): \"김대중(金大中) 대통령은 15일 경기도 지사 출마를 위해 사퇴한 진념(陳稔) 경제부총리의 후임에 전윤철(田允喆) 대통령비서실장을 임명하고, 전 비서실장 후임에 박지원(朴智元) 대통령정책특보를 기용했다.\""
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 파이낸셜뉴스 2003-02-27 \"“조흥銀 매각번복 안돼”…떠나는 전윤철 전부총리 ‘충고’\" (news_id 02100501.20160205135529212), result snapshot sources/finance/news/bigkinds_2003-02-25_2003-02-28_30385aea.json, accessed 2026-09-25T13:02:19-0400",
+    "관보 제15338호 (published 2003-03-05) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20030305_15338_00000000000000001319026541100000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N, accessed 2026-09-24T22:44:28-0400",
+    "[verifier] Naver News: YTN 2003-02-27 23:34:00 \"전윤철 부총리 이임\" https://n.news.naver.com/mnews/article/052/0000000029 (snapshot roster/sources/finance/verify/naver_052_0000000029.html, accessed 2026-09-25T21:41:55-0400): \"전윤철 부총리겸 재정경제부 장관이 오늘 오후 이임 식을 갖고 37년 공직 생활을 마감 했습니다.\"",
+    "[verifier] Naver News: 이데일리 2003-02-27 14:18:00 \"경제부총리 김진표 씨 등 첫 내각 확정(상보)\" https://n.news.naver.com/mnews/article/018/0000010719 (snapshot roster/sources/finance/verify/naver_018_0000010719.html, accessed 2026-09-25T21:41:59-0400): \"[edaily 김진석기자] 노무현 대통령은 27일 고건 국무총리의 제청을 받아부총리 겸 재정경제부 장관에 김진표 국무조정실장을 임명하는 등참여정부의 초대 내각을 출범시켰다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "18 valid-type meetings with a finance title inside the spell, 2002-04-18..2003-02-13.",
+   "notes": "Moved from 대통령비서실장. Stayed into the 노무현 presidency (from 2003-02-25) until 김진표 took over on 2003-02-27. Birth date from ko.wikipedia \"전윤철\" https://ko.wikipedia.org/w/index.php?oldid=42434340 (snapshot sources/finance/wiki/wiki_전윤철_42434340.json, accessed 2026-09-24T22:43:38-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "김진표",
+   "name_hanja": "金振杓",
+   "name_en": "Kim Jin-pyo",
+   "name_en_source": "https://www.wikidata.org/wiki/Q10855898 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1947-05-04",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (published 2003-03-05) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20030305_15338_00000000000000001319026541100000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N, accessed 2026-09-24T22:44:28-0400",
+    "BigKinds: 문화일보 2003-02-28 \"참여정부 새 내각 / 金부총리-조흥銀 ‘매각 갈등’가능성\" (news_id 01100501.20030228000001301), result snapshot sources/finance/news/bigkinds_2003-02-27_2003-02-28_b2c3eb59.json, accessed 2026-09-25T13:02:39-0400",
+    "BigKinds: 중앙일보 2003-02-27 \"파격 인선… 19개부 장관 임명\" (news_id 01100901.20030227135441001), result snapshot sources/finance/news/bigkinds_2003-02-27_2003-02-28_b2c3eb59.json, accessed 2026-09-25T13:02:39-0400",
+    "[verifier] 관보 제15338호 (published 2003-03-05) re-read in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (fetched 2026-09-24T22:44:28-0400), section header and notice: \"◉2003년2월27일자고건(高建)국무총리에임함김진표(金振杓)국무위원에임함부총리겸재정경제부장관에보함\"",
+    "[verifier] Naver News: 이데일리 2003-02-27 14:18:00 \"경제부총리 김진표 씨 등 첫 내각 확정(상보)\" https://n.news.naver.com/mnews/article/018/0000010719 (snapshot roster/sources/finance/verify/naver_018_0000010719.html, accessed 2026-09-25T21:41:59-0400): \"[edaily 김진석기자] 노무현 대통령은 27일 고건 국무총리의 제청을 받아부총리 겸 재정경제부 장관에 김진표 국무조정실장을 임명하는 등참여정부의 초대 내각을 출범시켰다.\""
+   ],
+   "end": "2004-02-11",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds: 국민일보 2004-02-12 \"경제부총리 튀는 이·취임사\" (news_id 01100201.20040212000002607), result snapshot sources/finance/news/bigkinds_2004-02-09_2004-02-12_3c42aac5.json, accessed 2026-09-25T13:03:05-0400",
+    "BigKinds: 국민일보 2004-02-11 \"새 경제부총리 이헌재씨 임명\" (news_id 01100201.20040211000000101), result snapshot sources/finance/news/bigkinds_2004-02-09_2004-02-12_3c42aac5.json, accessed 2026-09-25T13:03:05-0400",
+    "관보 제15621호 (published 2004-02-16) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20040216_15621_00000000000000001319030141293000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319030127818000&tocId=00000000000000001319030141293000&isTocOrder=N, accessed 2026-09-24T22:50:39-0400",
+    "[verifier] Naver News: 국민일보 2004-02-11 17:45:00 \"경제부총리 튀는 이·취임사\" https://n.news.naver.com/mnews/article/005/0000148615 (snapshot roster/sources/finance/verify/naver_005_0000148615.html, accessed 2026-09-25T21:48:42-0400): \"재경부는 이날 오전 10시 김진표 전 부총리의 이임식을 가졌으며 오후 4시30분쯤 이 부총리의 취임식을 가질 예정이었다.재경부 관계자는 “지금까지 이임식을 생략하는 경우는 몇차례 있었지만 장관이 취임식을 갖지 않는 경우는 처음”이라고 설명했다.\"",
+    "[verifier] Naver News: 파이낸셜뉴스 2004-02-11 18:21:00 \"김진표 前 부총리, “정치가 경제발전 걸림돌”\" https://n.news.naver.com/mnews/article/014/0000108687 (snapshot roster/sources/finance/verify/naver_014_0000108687.html, accessed 2026-09-25T21:48:31-0400): \"총선출마를 위해 30년 공직자 생활을 마감한 김진표 전 부총리 겸 재정경제부장관은 11일 경기도 과천청사에서 가진 이임식에서 “정치권이 요구해온 균형재정이란 도그마에 빠져 적극적인 재정정책을 펴지 못했다”며 정치권을 강하게 비판했다.\""
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during the spell. Elected to the 17th NA after resigning (열린우리당, 경기 수원시영통구, seat from 2004-05-30), mona_cd Q9H5708M (na_members_15_22.csv)",
+   "transcript_check": "outside_bounds",
+   "transcript_notes": "28 valid-type meetings with a finance title inside the spell, 2003-04-18..2004-02-09. Rows outside all of this person's finance spells are 2005-08-17 meeting 33492 교육위원회 (상임위원회) speaker '부총리겸재정경제부장관 김진표' agenda '3. 2004회계연도 세입세출결산\n가. 교육인적자원부 소관\n4. 2004회계연도 예비비지출 승인의 건\n가. '. The explanation is that on 2005-08-17 김진표 was 부총리 겸 교육인적자원부장관 (the audit coverage_gaps shows his 교육인적자원부 rows from 2005-02 to 2006-06), so the finance title on that row is a speaker-label error in the transcript, not a finance spell.",
+   "notes": "Resigned to run in the 2004-04-15 general election (수원 영통). His 이임식 was on the morning of 2004-02-11, the day his successor received the 임명장. The date the resignation was accepted was not found. Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남). [verifier] Resignation submitted on 2004-02-10 (국민일보 2004-02-10). The date it was accepted was not found, so the end remains the day of his 이임식 and of the successor's 임명장 (2004-02-11)."
+  },
+  {
+   "name": "이헌재",
+   "name_hanja": "李憲宰",
+   "name_en": "Lee Hun-jai",
+   "name_en_source": "https://www.wikidata.org/wiki/Q3565102 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1944-04-17",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2004-02-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15621호 (published 2004-02-16) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20040216_15621_00000000000000001319030141293000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319030127818000&tocId=00000000000000001319030141293000&isTocOrder=N, accessed 2026-09-24T22:50:39-0400",
+    "BigKinds: 이데일리 2004-02-11 \"盧, \"부총리 어려울때 중책 맡아줘 고맙다\"\" (news_id 04101008.20160310192147307), result snapshot sources/finance/news/bigkinds_2004-02-09_2004-02-12_3c42aac5.json, accessed 2026-09-25T13:03:05-0400",
+    "BigKinds: 머니투데이 2004-02-11 \"盧 \"경제부총리,어려울때 맡아줘 감사\"\" (news_id 02100201.20160223225709749), result snapshot sources/finance/news/bigkinds_2004-02-09_2004-02-12_3c42aac5.json, accessed 2026-09-25T13:03:05-0400",
+    "[verifier] 관보 제15621호 (published 2004-02-16) re-read in harvest/gazette_text/20040216_15621_00000000000000001319030141293000.txt (fetched 2026-09-24T22:50:39-0400), section header and notice: \"⊙2004년2월11일자이헌재(李憲宰)국무위원에임함부총리겸재정경제부장관에보함\"",
+    "[verifier] Naver News: 머니투데이 2004-02-11 15:46:39 \"盧 \"경제부총리,어려울때 맡아줘 감사\"\" https://n.news.naver.com/mnews/article/008/0000373593 (snapshot roster/sources/finance/verify/naver_008_0000373593.html, accessed 2026-09-25T21:42:10-0400): \"[머니투데이 박승윤기자]노무현 대통령은 11일 청와대에서 이헌재 신임 부총리 겸 재정경제부 장관에게 임명장을 수여하면서 \"어려울때 어려운 일을 수락해줘 감사하다\"고 말했다.\""
+   ],
+   "end": "2005-03-07",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 인천일보 2005-03-08 \"노대통령, 이부총리 사표 수리\" (news_id 01200401.20050308003222003), result snapshot sources/finance/news/bigkinds_2005-03-07_2005-03-08_992f4f0d.json, accessed 2026-09-25T13:05:38-0400",
+    "BigKinds: 매일경제 2005-03-08 \"이헌재부총리 결국 낙마\" (news_id 02100101.20160118161254926), result snapshot sources/finance/news/bigkinds_2005-03-07_2005-03-08_992f4f0d.json, accessed 2026-09-25T13:05:38-0400",
+    "BigKinds: 광주매일신문 2005-03-08 \"이헌재 부총리 불명예 퇴진\" (news_id 01600201.20050308191641001), result snapshot sources/finance/news/bigkinds_2005-03-07_2005-03-08_992f4f0d.json, accessed 2026-09-25T13:05:38-0400",
+    "BigKinds: 이데일리 2005-03-09 \"\"李부총리, 지금도 업무챙겨..금융지표 우려\"(7보)\" (news_id 04101008.20160311091956499), result snapshot sources/finance/news/bigkinds_2005-03-06_2005-03-09_2ae6654a.json, accessed 2026-09-25T13:04:01-0400",
+    "[verifier] Naver News: SBS 2005-03-07 18:21:26 \"이헌재 경제부총리 사표 수리\" https://n.news.naver.com/mnews/article/055/0000040026 (snapshot roster/sources/finance/verify/naver_055_0000040026.html, accessed 2026-09-25T21:48:55-0400): \"<기자>노무현 대통령은 오늘(7일) 이헌재 부총리의 사표를 수리했습니다.\"",
+    "[verifier] Naver News: 국민일보 2005-03-07 21:00:00 \"“결국…” 이헌재 부총리 사퇴\" https://n.news.naver.com/mnews/article/005/0000197029 (snapshot roster/sources/finance/verify/naver_005_0000197029.html, accessed 2026-09-25T21:49:06-0400): \"노무현 대통령은 7일 부동산 투기 의혹과 관련,이헌재 부총리 겸 재정경제부 장관의 사표를 수리했다.\"",
+    "[verifier] Naver News: 세계일보 2005-03-07 18:33:00 \"이헌재 부총리 사퇴… 후임 곧 인선\" https://n.news.naver.com/mnews/article/022/0000084334 (snapshot roster/sources/finance/verify/naver_022_0000084334.html, accessed 2026-09-25T21:49:02-0400): \"부동산 투기의혹을 받아 온 이헌재 부총리 겸 재정경제부 장관이 7일 사의를 표명했고, 노무현 대통령은 이 부총리의 사표를 수리했다.\""
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type meetings with a finance title inside the spell, 2004-02-16..2005-02-28.",
+   "notes": "Second tenure. Announced 2004-02-10, 임명장 and gazette date 2004-02-11 (ko.wikipedia gives 02-10). Resigned over his wife's real-estate dealings. 청와대 announced on 2005-03-07 that the resignation was accepted, but 이데일리 of 2005-03-09 reports the administrative processing of the resignation still under way and 이헌재 still handling ministry matters, so the formal 면직 date may be later. Also 국무총리 직무대행 2004-05-25..06-29 (see acting). Birth date from ko.wikipedia \"이헌재\" https://ko.wikipedia.org/w/index.php?oldid=41473469 (snapshot sources/finance/wiki/wiki_이헌재_41473469.json, accessed 2026-09-24T22:43:37-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] The resignation was accepted on 2005-03-07 (SBS, 국민일보, 세계일보 of that day), so end_confidence is high."
+  },
+  {
+   "name": "한덕수",
+   "name_hanja": "韓悳洙",
+   "name_en": "Han Duck-soo",
+   "name_en_source": "https://www.wikidata.org/wiki/Q356666 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1949-06-18",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2005-03-15",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15947호 (published 2005-03-19) 인사발령(중앙인사위원회·부패방지위원회), snapshot sources/finance/gazette/gz_20050319_15947_00000000000000001319034162368000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319034152563000&tocId=00000000000000001319034162368000&isTocOrder=N, accessed 2026-09-24T22:56:18-0400",
+    "BigKinds: 파이낸셜뉴스 2005-03-15 \"[사진]노대통령 신임 한덕수 경제부총리 임명장\" (news_id 02100501.20160206072449160), result snapshot sources/finance/news/bigkinds_2005-03-14_2005-03-16_12b50545.json, accessed 2026-09-25T13:06:38-0400",
+    "BigKinds: 국제신문 2005-03-16 \"韓부총리 '힘실어주기'\" (news_id 01500401.20050316215335001), result snapshot sources/finance/news/bigkinds_2005-03-14_2005-03-16_12b50545.json, accessed 2026-09-25T13:06:38-0400",
+    "[verifier] 관보 제15947호 (published 2005-03-19) re-read in harvest/gazette_text/20050319_15947_00000000000000001319034162368000.txt (fetched 2026-09-24T22:56:18-0400), two-column page, 한덕수 in the left column under 3월15일자 (the right column is a 부패방지위원회 행정사무관 posting of 3월16일): \"⊙2005년3월15일자⊙2005년3월16일자한덕수(韓悳洙)이주영(李周泳)국무위원에임함행정사무관에임함부총리겸재정경제부장관에보함\"",
+    "[verifier] Naver News: 연합뉴스 2005-03-15 10:37:00 \"노대통령 신임 한덕수 경제부총리 임명장\" https://n.news.naver.com/mnews/article/001/0000941651 (snapshot roster/sources/finance/verify/naver_001_0000941651.html, accessed 2026-09-25T21:42:28-0400): \"노무현(盧武鉉) 대통령은 15일 오전 청와대에서 신임 한덕수(韓悳洙) 경제부총리에게 임명장을 수여했다./김동진/정치/ 2005.3.15 (서울=연합뉴스) kimd@yna.co.kr\""
+   ],
+   "end": "2006-07-18",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 파이낸셜뉴스 2006-07-18 \"성장률 2.7%→5.2%로 개방과 경쟁 소신지켜…한덕수 부총리 퇴임\" (news_id 02100501.20160206150248620), result snapshot sources/finance/news/bigkinds_2006-07-17_2006-07-19_d9f22de1.json, accessed 2026-09-25T13:08:30-0400",
+    "BigKinds: 서울신문 2006-07-17 \"권오규號 ‘가시밭길’\" (news_id 01100611.20160421164409160), result snapshot sources/finance/news/bigkinds_2006-07-17_2006-07-19_d9f22de1.json, accessed 2026-09-25T13:08:30-0400",
+    "관보 제16301호 (published 2006-07-24) 인사발령(중앙인사위원회), snapshot sources/finance/gazette/gz_20060724_16301_00000000000000001319073673886000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319073667203000&tocId=00000000000000001319073673886000&isTocOrder=N, accessed 2026-09-24T22:56:48-0400",
+    "[verifier] Naver News: 연합뉴스 2006-07-18 11:14:00 \"청사 떠나는 한덕수 전 부총리 겸 재정경제부 장관\" https://n.news.naver.com/mnews/article/001/0001359969 (snapshot roster/sources/finance/verify/naver_001_0001359969.html, accessed 2026-09-25T21:42:38-0400): \"18일 과천 정부종합청사에서 한덕수(오른쪽) 전 부총리 겸 재정경제부 장관이 이임식을 마친 후 청사를 떠나며 직원들과 인사를 나누고 있다./최재구/경제/2006.7.18 (과천=연합뉴스) jjaeck9@yna.co.kr\"",
+    "[verifier] Naver News: 부산일보 2006-07-18 12:12:00 \"권오규 부총리 등 임명장\" https://n.news.naver.com/mnews/article/082/0000100018 (snapshot roster/sources/finance/verify/naver_082_0000100018.html, accessed 2026-09-25T21:42:46-0400): \"노무현 대통령은 18일 오전 권오규 부총리 겸 재정경제부 장관과 전군표 국세청장에 대한 임명장을 수여했다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "27 valid-type meetings with a finance title inside the spell, 2005-04-18..2006-07-07.",
+   "notes": "Named 2005-03-14, 임명장 on the morning of 2005-03-15. The gazette notice (two-column page) prints him under \"⊙2005년 3월15일자\". ko.wikipedia gives 03-14, the announcement date. Also 국무총리 직무대행 2006-03 to 2006-04 (see acting). Birth date from ko.wikipedia \"한덕수\" https://ko.wikipedia.org/w/index.php?oldid=42498445 (snapshot sources/finance/wiki/wiki_한덕수_42498445.json, accessed 2026-09-24T22:43:41-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "권오규",
+   "name_hanja": "權五奎",
+   "name_en": "Kwon O-kyu",
+   "name_en_source": "https://www.wikidata.org/wiki/Q3200866 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1952-06-27",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2006-07-18",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16301호 (published 2006-07-24) 인사발령(중앙인사위원회), snapshot sources/finance/gazette/gz_20060724_16301_00000000000000001319073673886000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319073667203000&tocId=00000000000000001319073673886000&isTocOrder=N, accessed 2026-09-24T22:56:48-0400",
+    "BigKinds: 이데일리 2006-07-18 \"노대통령, 權부총리·全국세청장에 임명장\" (news_id 04101008.20160312043426833), result snapshot sources/finance/news/bigkinds_2006-07-17_2006-07-19_d9f22de1.json, accessed 2026-09-25T13:08:30-0400",
+    "BigKinds: 강원도민일보 2006-07-19 \"노 대통령과 신임 경제부총리·국세청장\" (news_id 01300101.20060719041350002), result snapshot sources/finance/news/bigkinds_2006-07-17_2006-07-19_d9f22de1.json, accessed 2026-09-25T13:08:30-0400",
+    "[verifier] 관보 제16301호 (published 2006-07-24) re-read in harvest/gazette_text/20060724_16301_00000000000000001319073673886000.txt (fetched 2026-09-24T22:56:48-0400), section header and notice: \"⊙2006년7월18일자권오규(權五奎)국무위원에임함부총리겸재정경제부장관에보함\"",
+    "[verifier] Naver News: 부산일보 2006-07-18 12:12:00 \"권오규 부총리 등 임명장\" https://n.news.naver.com/mnews/article/082/0000100018 (snapshot roster/sources/finance/verify/naver_082_0000100018.html, accessed 2026-09-25T21:42:46-0400): \"노무현 대통령은 18일 오전 권오규 부총리 겸 재정경제부 장관과 전군표 국세청장에 대한 임명장을 수여했다.\""
+   ],
+   "end": "2008-02-28",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices.json OF023 재정경제부 1998-02-28..2008-02-28 (법률 제8852호 effective 2008-02-29 merged 재정경제부 into 기획재정부)",
+    "BigKinds: 한겨레 2008-03-01 \"재경부 수장들 ‘엇갈린 이임사’\" (news_id 01101001.20080301100002120), result snapshot sources/finance/news/bigkinds_2008-02-25_2008-03-01_eae9c49c.json, accessed 2026-09-25T13:09:08-0400",
+    "BigKinds: 문화일보 2008-02-29 \"“재경부 이름 바뀌어도 역할 계속될 것”\" (news_id 01100501.20080229100002209), result snapshot sources/finance/news/bigkinds_2008-02-25_2008-03-01_eae9c49c.json, accessed 2026-09-25T13:09:08-0400",
+    "[verifier] Naver News: 연합뉴스 2008-02-29 10:36:37 \"<권오규 부총리 33년 공직생활 마감>\" https://n.news.naver.com/mnews/article/001/0001980803 (snapshot roster/sources/finance/verify/naver_001_0001980803.html, accessed 2026-09-25T21:42:51-0400): \"(서울=연합뉴스) 박대한 기자 = 권오규 경제부총리가 29일 이임식을 끝으로 1년 7개월 간의 경제부처 수장 자리에서 물러나 야인으로 돌아갔다.\"",
+    "[verifier] Naver News: 뉴시스 2008-02-29 18:21:00 \"이명박 대통령, 기획재정부 강만수 장관 임명\" https://n.news.naver.com/mnews/article/003/0001983738 (snapshot roster/sources/finance/verify/naver_003_0001983738.html, accessed 2026-09-25T21:43:06-0400): \"이명박 대통령이 29일 청와대에서 기획재정부 강만수 장관에게 임명장을 수여하고 있다.\""
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type meetings with a finance title inside the spell, 2006-08-22..2008-02-21.",
+   "notes": "Holdover into the 이명박 presidency (2008-02-25..28). 재정경제부 was abolished by 법률 제8852호, promulgated and effective 2008-02-29, the day 강만수 became 기획재정부장관. His 이임식 was on the morning of 2008-02-29. The end follows the offices.json convention (last day under the old law). He did not continue in 기획재정부. Also 국무총리 직무대행 2007-03-07..04-02 (see acting). Birth date from ko.wikipedia \"권오규 (1952년)\" https://ko.wikipedia.org/w/index.php?oldid=41085856 (snapshot sources/finance/wiki/wiki_권오규_1952년__41085856.json, accessed 2026-09-25T13:38:55-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] End follows the offices.json convention (재정경제부 last day 2008-02-28). His 이임식 was on the morning of 2008-02-29, the day 법률 제8852호 took effect."
+  },
+  {
+   "name": "강만수",
+   "name_hanja": "姜萬洙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1945-06-30",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "기획재정부장관",
+   "deputy_pm": false,
+   "start": "2008-02-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16703호 (published 2008-03-06) 인사발령(행정안전부), snapshot sources/finance/gazette/gz_20080306_16703_00000000000000001319081960066000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N, accessed 2026-09-24T22:54:23-0400",
+    "BigKinds: 서울신문 2008-03-01 \"韓총리내각 ‘부분’출범\" (news_id 01100611.20160423092935633), result snapshot sources/finance/news/bigkinds_2008-02-28_2008-03-01_e49a2ce9.json, accessed 2026-09-25T13:08:50-0400",
+    "BigKinds: 세계일보 2008-02-29 \"한승수 총리 인준안 국회통과\" (news_id 01100701.20080229184806001), result snapshot sources/finance/news/bigkinds_2008-02-28_2008-03-01_e49a2ce9.json, accessed 2026-09-25T13:08:50-0400",
+    "[verifier] 관보 제16703호 (published 2008-03-06) re-read in harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt (fetched 2026-09-24T22:54:23-0400), section header and notice: \"⊙2008년2월29일자한승수(韓昇洙)국무총리에임함강만수(姜萬洙)국무위원에임함기획재정부장관에보함\"",
+    "[verifier] Naver News: 연합뉴스 2008-02-29 17:31:08 \"임명장받는 강만수 기획재정부 장관\" https://n.news.naver.com/mnews/article/001/0001981800 (snapshot roster/sources/finance/verify/naver_001_0001981800.html, accessed 2026-09-25T21:43:04-0400): \"(서울=연합뉴스) 배재만 기자 = 이명박 대통령이 29일 청와대에서 강만수 기획재정부 장관에게 임명장을 수여하고 있다.\""
+   ],
+   "end": "2009-02-10",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 이데일리 2009-02-10 \"강만수 \"세기적인 힘의 이동이 태동\"\" (news_id 04101008.20160309030054903), result snapshot sources/finance/news/bigkinds_2009-02-09_2009-02-11_be79cf35.json, accessed 2026-09-25T13:10:16-0400",
+    "관보 제16938호 (published 2009-02-13) 인사발령(행정안전부), snapshot sources/finance/gazette/gz_20090213_16938_00000000000000001319106353210000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319106315609000&tocId=00000000000000001319106353210000&isTocOrder=N, accessed 2026-09-25T06:50:34-0400",
+    "[verifier] Naver News: 이데일리 2009-02-10 09:49:04 \"강만수 \"세기적인 힘의 이동이 태동\"\" https://n.news.naver.com/mnews/article/018/0002070155 (snapshot roster/sources/finance/verify/naver_018_0002070155.html, accessed 2026-09-25T21:43:07-0400): \"[이데일리 이숙현기자] 청와대 국가경쟁력위원장으로 자리를 옮기는 강만수 기획재정부 장관은 10일 이임식에서 \"지금과 같은 전대미문의 경제위기는 살아남는 자가 강자가 되는 생존게임\"이라고 평소의 지론을 다시 한번 강조하면서 내일을 위한 준비를 당부했다.\"",
+    "[verifier] 관보 제16938호 (published 2009-02-13) re-read in harvest/gazette_text/20090213_16938_00000000000000001319106353210000.txt (fetched 2026-09-25T06:50:34-0400), successor's notice: \"⊙2009년2월10일자윤증현(尹增\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "23 valid-type meetings with a finance title inside the spell, 2008-09-01..2009-01-12.",
+   "notes": "First 기획재정부장관, appointed the day the new 정부조직법 took effect, after the 한승수 consent vote. His hearing request was filed by the 대통령당선인 under the old title 부총리 겸 재정경제부장관 (see nominations). Left on 2009-02-10 (이임식 that day) to chair the 국가경쟁력강화위원회. Birth date from ko.wikipedia \"강만수\" https://ko.wikipedia.org/w/index.php?oldid=42520813 (snapshot sources/finance/wiki/wiki_강만수_42520813.json, accessed 2026-09-24T22:43:43-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "윤증현",
+   "name_hanja": "尹增鉉",
+   "name_en": "Yoon Jeung-hyun",
+   "name_en_source": "https://www.wikidata.org/wiki/Q498266 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1946-09-19",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "기획재정부장관",
+   "deputy_pm": false,
+   "start": "2009-02-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16938호 (published 2009-02-13) 인사발령(행정안전부), snapshot sources/finance/gazette/gz_20090213_16938_00000000000000001319106353210000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319106315609000&tocId=00000000000000001319106353210000&isTocOrder=N, accessed 2026-09-25T06:50:34-0400",
+    "BigKinds: 전자신문 2009-02-11 \"윤증현 기획재정부 장관 취임\" (news_id 07100501.20090211214440001), result snapshot sources/finance/news/bigkinds_2009-02-10_2009-02-11_3924ad81.json, accessed 2026-09-25T13:10:38-0400",
+    "BigKinds: 동아일보 2009-02-11 \"“올 성장률 ―2%, 일자리 20만개 감소 예상”\" (news_id 01100401.20090211064453015), result snapshot sources/finance/news/bigkinds_2009-02-10_2009-02-11_3924ad81.json, accessed 2026-09-25T13:10:38-0400",
+    "[verifier] 관보 제16938호 (published 2009-02-13) re-read in harvest/gazette_text/20090213_16938_00000000000000001319106353210000.txt (fetched 2026-09-25T06:50:34-0400), section header and notice (hanja truncated in the text layer): \"⊙2009년2월10일자윤증현(尹增국무위원에임함기획재정부장관에보함\"",
+    "[verifier] Naver News: 연합뉴스 2009-02-11 07:00:09 \"윤증현, 취임초부터 '강행군'\" https://n.news.naver.com/mnews/article/001/0002495698 (snapshot roster/sources/finance/verify/naver_001_0002495698.html, accessed 2026-09-25T21:43:13-0400): \"(서울=연합뉴스) 심재훈 기자 = 윤증현 기획재정부 장관이 취임하자마자 현장 방문 등 강행군으로 정책 집행에 드라이브를 걸었다.\""
+   ],
+   "end": "2011-06-02",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 동아일보 2011-06-02 \"과천 떠나는 윤증현 “무상의 주술에 맞서라”\" (news_id 01100401.20110602020420028), result snapshot sources/finance/news/bigkinds_2011-05-31_2011-06-03_05c46f99.json, accessed 2026-09-25T13:11:01-0400",
+    "BigKinds: 서울신문 2011-06-02 \"윤증현 재정 이임식… “연기금 주주권 제한적 사용 바람직”\" (news_id 01100611.20160420114514371), result snapshot sources/finance/news/bigkinds_2011-05-31_2011-06-03_05c46f99.json, accessed 2026-09-25T13:11:01-0400",
+    "관보 제17524호 (published 2011-06-08) 인사발령(행정안전부), snapshot sources/finance/gazette/gz_20110608_17524_00000000000000001319090318529000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319090303216000&tocId=00000000000000001319090318529000&isTocOrder=N, accessed 2026-09-25T06:56:39-0400",
+    "[verifier] Naver News: 연합뉴스 2011-06-01 20:53:34 \"<'갑옷 벗는' 윤증현 \"無償의 呪術에 맞서라\">\" https://n.news.naver.com/mnews/article/001/0005093201 (snapshot roster/sources/finance/verify/naver_001_0005093201.html, accessed 2026-09-25T21:43:25-0400): \"윤증현 장관은 이날 오후 기획재정부 대강당에서 열린 이임식에서 \"떠나가는 장관으로서 드리는 마지막 당부\"라며 \"우리는 재정의 마지막 방파제가 돼야 한다\"고 말했다.\"",
+    "[verifier] Naver News: 청와대 2011-06-02 17:20:53 \"국무위원 임명장 수여식 관련 브리핑\" https://n.news.naver.com/mnews/article/154/0000002529 (snapshot roster/sources/finance/verify/naver_154_0000002529.html, accessed 2026-09-25T21:43:38-0400): \"이명박 대통령은 2일 박재완 기획재정부장관 등 신임 국무위원 5명에게 임명장을 주고 환담했습니다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "50 valid-type meetings with a finance title inside the spell, 2009-02-19..2011-04-29.",
+   "notes": "Gazette date 2009-02-10, the day of his 취임식. 아주경제 of 2009-02-11 mentions a 임명장 ceremony planned for 02-12, which is a ceremony date and not the appointment date. His 이임식 was on the afternoon of 2011-06-01 and his successor was appointed on 2011-06-02. The end is set to the successor's appointment date. Also 국무총리 직무대행 2010-08-11..09-30 (see acting). Birth date from ko.wikipedia \"윤증현\" https://ko.wikipedia.org/w/index.php?oldid=40453294 (snapshot sources/finance/wiki/wiki_윤증현_40453294.json, accessed 2026-09-24T22:43:44-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] His 이임식 was on the afternoon of 2011-06-01. The formal 면직 date was not found, so the end stays at the successor's appointment date (inferred_from_successor)."
+  },
+  {
+   "name": "박재완",
+   "name_hanja": "朴宰完",
+   "name_en": "Jaewan Bakh",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12597033 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1955-01-24",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "기획재정부장관",
+   "deputy_pm": false,
+   "start": "2011-06-02",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17524호 (published 2011-06-08) 인사발령(행정안전부), snapshot sources/finance/gazette/gz_20110608_17524_00000000000000001319090318529000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319090303216000&tocId=00000000000000001319090318529000&isTocOrder=N, accessed 2026-09-25T06:56:39-0400",
+    "BigKinds: 동아일보 2011-06-03 \"李대통령 “신임 장관들 국회 답변 당당하게 임하라”\" (news_id 01100401.20110603020422075), result snapshot sources/finance/news/bigkinds_2011-06-01_2011-06-03_0ec255c2.json, accessed 2026-09-25T13:11:13-0400",
+    "BigKinds: 프레시안 2011-06-02 \"MB \"장관들은 국회 답변에서 당당하게 임하라\"\" (news_id 04104008.20110602010220002), result snapshot sources/finance/news/bigkinds_2011-06-01_2011-06-03_0ec255c2.json, accessed 2026-09-25T13:11:13-0400",
+    "[verifier] 관보 제17524호 (published 2011-06-08) re-read in harvest/gazette_text/20110608_17524_00000000000000001319090318529000.txt (fetched 2026-09-25T06:56:39-0400), per-person date line: \"박재완(朴宰完)국무위원에임함기획재정부장관에보함2011.6.2.\"",
+    "[verifier] Naver News: 청와대 2011-06-02 17:20:53 \"국무위원 임명장 수여식 관련 브리핑\" https://n.news.naver.com/mnews/article/154/0000002529 (snapshot roster/sources/finance/verify/naver_154_0000002529.html, accessed 2026-09-25T21:43:38-0400): \"이명박 대통령은 2일 박재완 기획재정부장관 등 신임 국무위원 5명에게 임명장을 주고 환담했습니다.\""
+   ],
+   "end": "2013-03-22",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 머니투데이 2013-03-22 \"떠나는 박재완 \"무명용사 허슬플레이에 경의를\"\" (news_id 02100201.20130322161317001), result snapshot sources/finance/news/bigkinds_2013-03-20_2013-03-24_94af6c87.json, accessed 2026-09-25T13:11:39-0400",
+    "BigKinds: 뉴스핌 2013-03-22 \"박재완 재정부 장관, 새정부 취임 4주만에 이임식\" (news_id 04100078.20160225190346558), result snapshot sources/finance/news/bigkinds_2013-03-20_2013-03-24_94af6c87.json, accessed 2026-09-25T13:11:39-0400",
+    "관보 제17982호 (published 2013-03-27) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20130327_17982_00000000000000001364342853058000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364342815386000&tocId=00000000000000001364342853058000&isTocOrder=N, accessed 2026-09-24T22:56:22-0400",
+    "[verifier] Naver News: 연합뉴스 2013-03-22 18:42:28 \"박재완 기획재정부 장관 이임식\" https://n.news.naver.com/mnews/article/001/0006161981 (snapshot roster/sources/finance/verify/naver_001_0006161981.html, accessed 2026-09-25T21:43:51-0400): \"(세종=연합뉴스) 박재완 기획재정부 장관이 22일 오후 정부세종청사에서 열린 이임식에서 직원대표의 감사패를 받고 있다.\"",
+    "[verifier] Naver News: 한국경제 2013-03-22 17:41:02 \"朴 대통령, 현오석ㆍ남재준ㆍ신제윤 임명장 수여\" https://n.news.naver.com/mnews/article/015/0002852200 (snapshot roster/sources/finance/verify/naver_015_0002852200.html, accessed 2026-09-25T21:44:15-0400): \"박근혜 대통령은 22일 오후 청와대에서 현오석 경제부총리 겸 기획재정부장관과 남재준 국가정보원장, 신제윤 금융위원장에게 임명장을 수여했다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "former 17th NA member (한나라당 비례대표, seat 2004-05-30..2008-03-01), not sitting during the spell, mona_cd JPE16970 (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "35 valid-type meetings with a finance title inside the spell, 2011-06-13..2013-02-20.",
+   "notes": "Holdover into the 박근혜 presidency for 26 days (2013-02-25..03-22) because of the delayed 정부조직법 and hearings. 이임식 on the afternoon of 2013-03-22, the day 현오석 received the 임명장. Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남)."
+  },
+  {
+   "name": "현오석",
+   "name_hanja": "玄旿錫",
+   "name_en": "Hyun Oh-seok",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16092536 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1950-05-05",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "기획재정부장관",
+   "deputy_pm": false,
+   "start": "2013-03-22",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17982호 (published 2013-03-27) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20130327_17982_00000000000000001364342853058000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364342815386000&tocId=00000000000000001364342853058000&isTocOrder=N, accessed 2026-09-24T22:56:22-0400",
+    "BigKinds: 세계일보 2013-03-23 \"朴대통령과 신임 장관들\" (news_id 01100701.20130323100000096), result snapshot sources/finance/news/bigkinds_2013-03-21_2013-03-25_6d33feb8.json, accessed 2026-09-25T13:11:47-0400",
+    "BigKinds: 충청투데이 2013-03-25 \"충북 청주출신 현오석 기재부장관, 임명장 받아\" (news_id 01400701.20130325154948001), result snapshot sources/finance/news/bigkinds_2013-03-21_2013-03-25_6d33feb8.json, accessed 2026-09-25T13:11:47-0400",
+    "[verifier] 관보 제17982호 (published 2013-03-27) re-read in harvest/gazette_text/20130327_17982_00000000000000001364342853058000.txt (fetched 2026-09-24T22:56:22-0400), per-person date line: \"현오석(玄旿錫)국무위원에임함기획재정부장관에보함2013.3.22.\"",
+    "[verifier] Naver News: 한국경제 2013-03-22 17:41:02 \"朴 대통령, 현오석ㆍ남재준ㆍ신제윤 임명장 수여\" https://n.news.naver.com/mnews/article/015/0002852200 (snapshot roster/sources/finance/verify/naver_015_0002852200.html, accessed 2026-09-25T21:44:15-0400): \"박근혜 대통령은 22일 오후 청와대에서 현오석 경제부총리 겸 기획재정부장관과 남재준 국가정보원장, 신제윤 금융위원장에게 임명장을 수여했다.\""
+   ],
+   "end": "2013-03-22",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices.json OF034 기획재정부 2008-02-29..2026-01-01 (부총리 겸임 from 2013-03-23 under 법률 제11690호)",
+    "관보 제17983호 (published 2013-03-28) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20130328_17983_00000000000000001364357833254000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N, accessed 2026-09-24T22:56:28-0400",
+    "[verifier] 관보 제17983호 (published 2013-03-28) re-read in harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt (fetched 2026-09-24T22:56:28-0400), new notice under the 부총리 title: \"현오석(玄旿錫)국무위원에임함부총리겸기획재정부장관에보함2013.3.23.\""
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No valid-type (상임위원회/국정감사/인사청문특별위원회) meeting with a finance title inside the spell.",
+   "notes": "One-day spell. The gazette prints two notices, 기획재정부장관 dated 2013. 3. 22. (관보 제17982호) and 부총리 겸 기획재정부장관 dated 2013. 3. 23. (관보 제17983호), the effective date of 법률 제11690호. Split at the title change for the same reason as 진념 in 2001. Birth date from ko.wikipedia \"현오석\" https://ko.wikipedia.org/w/index.php?oldid=40969986 (snapshot sources/finance/wiki/wiki_현오석_40969986.json, accessed 2026-09-24T22:43:46-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "현오석",
+   "name_hanja": "玄旿錫",
+   "name_en": "Hyun Oh-seok",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16092536 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1950-05-05",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2013-03-23",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17983호 (published 2013-03-28) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20130328_17983_00000000000000001364357833254000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N, accessed 2026-09-24T22:56:28-0400",
+    "BigKinds: 머니투데이 2013-03-25 \"세종 첫 출근 현오석 \"몸이 굽었는데 그림자가…\"\" (news_id 02100201.20130325161928002), result snapshot sources/finance/news/bigkinds_2013-03-21_2013-03-25_6d33feb8.json, accessed 2026-09-25T13:11:47-0400",
+    "[verifier] 관보 제17983호 (published 2013-03-28) re-read in harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt (fetched 2026-09-24T22:56:28-0400), per-person date line: \"현오석(玄旿錫)국무위원에임함부총리겸기획재정부장관에보함2013.3.23.\""
+   ],
+   "end": "2014-07-16",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제18312호 (published 2014-07-23) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20140723_18312_00000000000000001405928108802000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001405928075418000&tocId=00000000000000001405928108802000&isTocOrder=N, accessed 2026-09-24T22:58:20-0400",
+    "BigKinds: 매일신문 2014-07-16 \"떠나는 경제부총리도… 새로운 부총리도… \"한국 경제 위기 상황\"\" (news_id 01500601.20140716073654001), result snapshot sources/finance/news/bigkinds_2014-07-14_2014-07-17_556ba4f1.json, accessed 2026-09-25T13:11:59-0400",
+    "[verifier] Naver News: 연합뉴스 2014-07-15 18:27:47 \"현오석 \"경제회복 불씨 살렸지만 국민체감 부족해 죄송\"\" https://n.news.naver.com/mnews/article/001/0007015109 (snapshot roster/sources/finance/verify/naver_001_0007015109.html, accessed 2026-09-25T21:49:26-0400): \"(세종=연합뉴스) 차지연 기자 = 현오석 부총리 겸 기획재정부 장관이 15일 마지막 근무를 마치며 \"경제 회복의 불씨를 살렸지만 체감을 못 하게 한 것이 정책하는 입장에서 국민들에게 미안하다\"는 말을 남겼다.\"",
+    "[verifier] Naver News: KBS 2014-07-16 07:53:02 \"박 대통령, 최경환 부총리 등 장관 5명 임명\" https://n.news.naver.com/mnews/article/056/0010049661 (snapshot roster/sources/finance/verify/naver_056_0010049661.html, accessed 2026-09-25T21:44:30-0400): \"이로써 최경환 부총리 겸 기획재정부 장관, 최양희 미래창조과학부 장관, 이기권 고용노동부 장관, 김희정 여성가족부 장관, 이병기 국가정보원장은 오늘부터 공식 업무에 들어갔습니다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "22 valid-type meetings with a finance title inside the spell, 2013-04-15..2014-05-19.",
+   "notes": "New gazette notice as 부총리 겸 기획재정부장관 dated 2013-03-23 (머니투데이 2013-03-25 also says he received a 임명장 on the 23rd). Replaced by 최경환, whose appointment took effect 2014-07-16. The date of his own 면직 was not found. Birth date from ko.wikipedia \"현오석\" https://ko.wikipedia.org/w/index.php?oldid=40969986 (snapshot sources/finance/wiki/wiki_현오석_40969986.json, accessed 2026-09-24T22:43:46-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] His last working day was 2014-07-15 (연합뉴스). The successor's appointment took effect 2014-07-16 (gazette), so the end stays at 07-16 with end_confidence inferred_from_successor."
+  },
+  {
+   "name": "최경환",
+   "name_hanja": "崔炅煥",
+   "name_en": "Choi Kyoung-hwan",
+   "name_en_source": "https://www.wikidata.org/wiki/Q5103931 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1955-02-27",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2014-07-16",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18312호 (published 2014-07-23) 인사발령(안전행정부), snapshot sources/finance/gazette/gz_20140723_18312_00000000000000001405928108802000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001405928075418000&tocId=00000000000000001405928108802000&isTocOrder=N, accessed 2026-09-24T22:58:20-0400",
+    "BigKinds: 머니투데이 2014-07-16 \"최경환 부총리, 오늘 취임…정책 방향 설명\" (news_id 02100201.20140716193441001), result snapshot sources/finance/news/bigkinds_2014-07-15_2014-07-17_52bbecae.json, accessed 2026-09-25T13:12:05-0400",
+    "BigKinds: 이데일리 2014-07-16 \"朴대통령, 최경환 등 5명 어제 임명..정성근·정종섭 조만간 결정\" (news_id 04101008.20160313063246588), result snapshot sources/finance/news/bigkinds_2014-07-08_2014-07-16_b6902424.json, accessed 2026-09-25T13:17:42-0400",
+    "[verifier] 관보 제18312호 (published 2014-07-23) re-read in harvest/gazette_text/20140723_18312_00000000000000001405928108802000.txt (fetched 2026-09-24T22:58:20-0400), per-person date line: \"최경환(崔炅煥)국무위원에임함부총리겸기획재정부장관에보함2014.7.16.\"",
+    "[verifier] Naver News: KBS 2014-07-16 07:53:02 \"박 대통령, 최경환 부총리 등 장관 5명 임명\" https://n.news.naver.com/mnews/article/056/0010049661 (snapshot roster/sources/finance/verify/naver_056_0010049661.html, accessed 2026-09-25T21:44:30-0400): \"이로써 최경환 부총리 겸 기획재정부 장관, 최양희 미래창조과학부 장관, 이기권 고용노동부 장관, 김희정 여성가족부 장관, 이병기 국가정보원장은 오늘부터 공식 업무에 들어갔습니다.\""
+   ],
+   "end": "2016-01-13",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 동아일보 2016-01-13 \"최경환 “경제 바꾸러 정치판 복귀”\" (news_id 01100401.20160113123955007), result snapshot sources/finance/news/bigkinds_2016-01-12_2016-01-14_5e937af8.json, accessed 2026-09-25T13:12:09-0400",
+    "BigKinds: 경향신문 2016-01-13 \"국회로 돌아온 ‘친박 핵심’ 최경환 의원 “난 평의원, 정치적 의미 부여 말라”\" (news_id 01100101.20160113224942826), result snapshot sources/finance/news/bigkinds_2016-01-12_2016-01-14_5e937af8.json, accessed 2026-09-25T13:12:09-0400",
+    "관보 제18683호 (published 2016-01-20) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20160120_18683_00000000000000001453167582361000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001453167544633000&tocId=00000000000000001453167582361000&isTocOrder=N, accessed 2026-09-24T22:59:25-0400",
+    "[verifier] Naver News: 연합뉴스 2016-01-12 13:47:45 \"최경환 \"경제 바꾸러 다시 정치판으로 돌아간다\"\" https://n.news.naver.com/mnews/article/001/0008111756 (snapshot roster/sources/finance/verify/naver_001_0008111756.html, accessed 2026-09-25T21:44:40-0400): \"(세종=연합뉴스) 배재만 기자 = 최경환 부총리 겸 기획재정부 장관이 12일 오후 정부세종청사 대강당에서 열린 이임식에서 이임사를 하고 있다.\"",
+    "[verifier] Naver News: 조선비즈 2015-12-21 16:09:07 \"경제부총리에 정치인 유일호 발탁…박 대통령 시선 내년으로(종합2보)\" https://n.news.naver.com/mnews/article/366/0000307970 (snapshot roster/sources/finance/verify/naver_366_0000307970.html, accessed 2026-09-25T21:48:05-0400): \"최경환 경제부총리나 황우여 사회부총리, 정종섭 행자부·윤상직 산업부·김희정 여가부 장관 등 이번에 교체된 대상들은 모두 내년 총선 출마를 계획하고 있다.\"",
+    "[verifier] Naver News: 뉴시스 2015-12-21 18:04:19 \"朴대통령, '총선 개각' 마쳐…임기 후반 안정적 국정운영 방점\" https://n.news.naver.com/mnews/article/003/0006942269 (snapshot roster/sources/finance/verify/naver_003_0006942269.html, accessed 2026-09-25T21:48:03-0400): \", 김희정 여가부 장관, 정종섭 행자부 장관, 윤상직 산업부 장관 등 이번 개각으로 후임자가 정해진 각료들은 내년 1월14일 전까지만 사퇴하면 20대 총선에 출마할 수 있다.\""
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 19th NA member (새누리당, 경북 경산시청도군), seat 2012-05-30..2016-05-29, mona_cd FJ03481D (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type meetings with a finance title inside the spell, 2014-07-17..2015-12-07.",
+   "notes": "The President approved the appointment on the afternoon of 2014-07-15 (청와대 대변인, 이데일리 2014-07-16) and the gazette dates it 2014-07-16, the day of his 취임식. A separate 임명장 ceremony was scheduled for 2014-07-18. Sitting NA member throughout. 이임식 on 2016-01-12, then returned to the 새누리당 ahead of the 2016 election. His successor was appointed on 2016-01-13. Also 국무총리 직무대행 2015-04-27..06-17 (see acting). Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남). Birth date from na_members (NA API). Wikidata gives 1955-06-22 for this item. [verifier] end_reason changed to resigned_to_run. He left in the reshuffle made so that politician ministers could run in the 2016 general election (조선비즈, 뉴시스 2015-12-21) and was re-elected (seat from 2016-05-30)."
+  },
+  {
+   "name": "유일호",
+   "name_hanja": "柳一鎬",
+   "name_en": "Yoo Il-ho",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16090573 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1955-03-30",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2016-01-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18683호 (published 2016-01-20) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20160120_18683_00000000000000001453167582361000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001453167544633000&tocId=00000000000000001453167582361000&isTocOrder=N, accessed 2026-09-24T22:59:25-0400",
+    "BigKinds: 세계일보 2016-01-13 \"[현장메모] 유일호 부총리와 연대보증의 덫\" (news_id 01100701.20160113195101485), result snapshot sources/finance/news/bigkinds_2016-01-12_2016-01-14_9ef56205.json, accessed 2026-09-25T13:12:13-0400",
+    "BigKinds: YTN 2016-01-13 \"박근혜 대통령, 신임 장·차관 9명 임명장 수여\" (news_id 08100401.20160113192732018), result snapshot sources/finance/news/bigkinds_2016-01-12_2016-01-14_9ef56205.json, accessed 2026-09-25T13:12:13-0400",
+    "[verifier] 관보 제18683호 (published 2016-01-20) re-read in harvest/gazette_text/20160120_18683_00000000000000001453167582361000.txt (fetched 2026-09-24T22:59:25-0400), notice. The name block (김석진, 유일호, 이준식, 홍윤식) is printed after the four notices in the same order: \"국무위원에임함부총리겸기획재정부장관에보함2016.1.13.\"",
+    "[verifier] Naver News: 연합뉴스 2016-01-13 14:47:36 \"임명장 받는 유일호 경제부총리\" https://n.news.naver.com/mnews/article/001/0008114845 (snapshot roster/sources/finance/verify/naver_001_0008114845.html, accessed 2026-09-25T21:45:02-0400): \"(서울=연합뉴스) 백승렬 기자 = 박근혜 대통령이 13일 청와대에서 유일호 경제부총리에게 임명장을 수여하고 있다.\""
+   ],
+   "end": "2017-06-09",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제19036호 (published 2017-06-23) 인사별령(인사혁신처), snapshot sources/finance/gazette/gz_20170623_19036_00000000000000001498090378815000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N, accessed 2026-09-24T22:59:22-0400",
+    "BigKinds: 이데일리 2017-06-10 \"기획재정부 주간계획(6.12~18일)\" (news_id 04101008.20170610090159001), result snapshot sources/finance/news/bigkinds_2017-06-08_2017-06-10_2e6477a4.json, accessed 2026-09-25T13:23:55-0400",
+    "[verifier] Naver News: 동아일보 2017-06-10 03:02:11 \"유일호 前부총리 “소신 비친 김동연 부총리, 靑과 잘 조율해 나갈 것”\" https://n.news.naver.com/mnews/article/020/0003071341 (snapshot roster/sources/finance/verify/naver_020_0003071341.html, accessed 2026-09-25T21:50:10-0400): \"김동연 경제부총리 겸 기획재정부 장관이 9일 임명되면서 바통을 넘겨주게 된 유일호 전 부총리(사진)는 새로 취임하는 김 부총리에 대해 기대감을 표시했다.\"",
+    "[verifier] Naver News: 연합뉴스 2017-06-12 11:40:03 \"유일호 \"몸은 떠나지만 마음은 곁에서 한국경제 응원하겠다\"\" https://n.news.naver.com/mnews/article/001/0009329784 (snapshot roster/sources/finance/verify/naver_001_0009329784.html, accessed 2026-09-25T21:45:15-0400): \"유일호 부총리 겸 기획재정부 장관은 12일 정부세종청사에서 열린 이임식에서 \"이제 대한민국 경제팀을 이끄는 막중한 짐을 내려놓는다\"며 1년 5개월간의 재임 동안의 소회를 밝혔다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 19th NA member (새누리당, 서울 송파구을) until 2016-05-29 (term end), mona_cd DMR40160; not a member of the 20th NA (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "23 valid-type meetings with a finance title inside the spell, 2016-01-29..2017-03-30.",
+   "notes": "The gazette name block for this page is printed out of column order (names listed after the four notices). The 2016-01-13 notice is matched to 유일호 by the order of names and by news of 2016-01-13. Served under acting president 황교안 (2016-12-09..2017-05-10) and under 문재인 until 김동연 took office on 2017-06-09. His 이임식 was scheduled for 2017-06-12, after the successor's appointment. Also 국무총리 직무대행 2017-05-11..05-30 (see acting). Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남)."
+  },
+  {
+   "name": "김동연",
+   "name_hanja": "金東兗",
+   "name_en": "Kim Dong-yeon",
+   "name_en_source": "https://www.wikidata.org/wiki/Q16080198 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1957-01-28",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2017-06-09",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19036호 (published 2017-06-23) 인사별령(인사혁신처), snapshot sources/finance/gazette/gz_20170623_19036_00000000000000001498090378815000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001498090307130000&tocId=00000000000000001498090378815000&isTocOrder=N, accessed 2026-09-24T22:59:22-0400",
+    "BigKinds: 매일신문 2017-06-09 \"文 대통령, 김동연 경제부총리 임명장 수여\" (news_id 01500601.20170609024241004), result snapshot sources/finance/news/bigkinds_2017-06-07_2017-06-09_04993cd5.json, accessed 2026-09-25T13:18:13-0400",
+    "BigKinds: 브릿지경제 2017-06-09 \"김동연 청문보고서 채택 … 경제팀 구성 속도낼까\" (news_id 02100861.20170609003812002), result snapshot sources/finance/news/bigkinds_2017-06-07_2017-06-09_04993cd5.json, accessed 2026-09-25T13:18:13-0400",
+    "[verifier] 관보 제19036호 (published 2017-06-23) re-read in harvest/gazette_text/20170623_19036_00000000000000001498090378815000.txt (fetched 2026-09-24T22:59:22-0400), per-person date line: \"김동연(金東兗)국무위원에임함부총리겸기획재정부장관에보함2017.6.9.\"",
+    "[verifier] Naver News: 연합뉴스 2017-06-09 17:30:00 \"文대통령, 김동연 경제부총리에 임명장 수여\" https://n.news.naver.com/mnews/article/001/0009326079 (snapshot roster/sources/finance/verify/naver_001_0009326079.html, accessed 2026-09-25T21:45:17-0400): \"문 대통령, 김동연 경제부총리 임명장 수여(서울=연합뉴스) 배재만 기자 = 문재인 대통령이 9일 오후 청와대에서 김동연 부총리 겸 기획재정부 장관에게 임명장을 수여하고 있다.\""
+   ],
+   "end": "2018-12-10",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 한국경제 2018-12-10 \"김동연 \"경제상황 녹록지 않아…정치적 의사결정 위기 극복해야\"\" (news_id 02100601.20181210174546002), result snapshot sources/finance/news/bigkinds_2018-12-09_2018-12-11_b938e034.json, accessed 2026-09-25T13:22:57-0400",
+    "관보 제19402호 (published 2018-12-18) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20181218_19402_00000000000000001545092821525000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001545092803480000&tocId=00000000000000001545092821525000&isTocOrder=N, accessed 2026-09-25T12:57:16-0400",
+    "[verifier] Naver News: 한국경제 2018-12-10 17:44:22 \"김동연 \"경제상황 녹록지 않아…정치적 의사결정 위기 극복해야\"\" https://n.news.naver.com/mnews/article/015/0004059630 (snapshot roster/sources/finance/verify/naver_015_0004059630.html, accessed 2026-09-25T21:45:29-0400): \"/연합뉴스 김동연 전 부총리 겸 기획재정부 장관은 10일 퇴임하며 “경제의 지속가능한 성장은 정치적 의사결정의 위기를 극복해야 가능하다”고 말했다.\"",
+    "[verifier] 정책브리핑 korea.kr (tier 2): \"홍남기 부총리 겸 기획재정부장관 임명장 수여식 관련 서면브리핑\" https://www.korea.kr/briefing/presidentView.do?newsId=148856246 published 2018-12-10T10:15:00+09:00 (snapshot roster/sources/finance/verify/korea_148856246.html, accessed 2026-09-25T21:42:26-0400): \"문재인 대통령은 오늘 오후 4시 본관 충무실에서 홍남기 신임 부총리 겸 기획재정부장관에게 임명장을 수여했습니다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "30 valid-type meetings with a finance title inside the spell, 2017-07-18..2018-12-08.",
+   "notes": "Left office on 2018-12-10 (퇴임, no 이임식), the day 홍남기 was appointed. Birth date from ko.wikipedia \"김동연\" https://ko.wikipedia.org/w/index.php?oldid=42478891 (snapshot sources/finance/wiki/wiki_김동연_42478891.json, accessed 2026-09-24T22:43:47-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male."
+  },
+  {
+   "name": "홍남기",
+   "name_hanja": "洪楠基",
+   "name_en": "Hong Nam-ki",
+   "name_en_source": "https://www.wikidata.org/wiki/Q31180640 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1960-07-29",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2018-12-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19402호 (published 2018-12-18) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20181218_19402_00000000000000001545092821525000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001545092803480000&tocId=00000000000000001545092821525000&isTocOrder=N, accessed 2026-09-25T12:57:16-0400",
+    "BigKinds: 한국일보 2018-12-11 \"홍남기 부총리 또 치켜세운 문 대통령\" (news_id 01101101.20181211051939001), result snapshot sources/finance/news/bigkinds_2018-12-10_2018-12-11_380ad5c7.json, accessed 2026-09-25T13:44:04-0400",
+    "[verifier] 관보 제19402호 (published 2018-12-18) re-read in harvest/gazette_text/20181218_19402_00000000000000001545092821525000.txt (fetched 2026-09-25T12:57:16-0400), per-person date line: \"홍남기(洪楠基)국무위원에임함부총리겸기획재정부장관에보함2018.12.10.\"",
+    "[verifier] 정책브리핑 korea.kr (tier 2): \"홍남기 부총리 겸 기획재정부장관 임명장 수여식 관련 서면브리핑\" https://www.korea.kr/briefing/presidentView.do?newsId=148856246 published 2018-12-10T10:15:00+09:00 (snapshot roster/sources/finance/verify/korea_148856246.html, accessed 2026-09-25T21:42:26-0400): \"문재인 대통령은 오늘 오후 4시 본관 충무실에서 홍남기 신임 부총리 겸 기획재정부장관에게 임명장을 수여했습니다.\""
+   ],
+   "end": "2022-05-10",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 서울신문 2022-05-10 \"‘1247일 최장수 부총리’ 홍남기 공직생활 “안녕”\" (news_id 01100611.20220510051505001), result snapshot sources/finance/news/bigkinds_2022-05-08_2022-05-11_4fc2d1e9.json, accessed 2026-09-25T13:23:21-0400",
+    "관보 제20255호 (published 2022-05-23) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20220523_20255_I0000000000000001652659816213000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N, accessed 2026-09-24T22:33:40-0400",
+    "[verifier] Naver News: MBC 2022-05-09 17:53:46 \"문 대통령, 교육·법무·통일장관 사표 수리‥김 총리는 12일 퇴임\" https://n.news.naver.com/mnews/article/214/0001195306 (snapshot roster/sources/finance/verify/naver_214_0001195306.html, accessed 2026-09-25T21:49:16-0400): \"다만 이들과 함께 사의를 표명한 홍남기 경제부총리와 정의용 외교부장관, 또 민주당 출신 장관들의 사표는 국무회의 구성을 감안해 일단 받아들이지 않았습니다.\"",
+    "[verifier] Naver News: 연합뉴스 2022-05-09 18:09:11 \"[2보] 문대통령, 유은혜·박범계·이인영 사표 수리\" https://n.news.naver.com/mnews/article/001/0013166143 (snapshot roster/sources/finance/verify/naver_001_0013166143.html, accessed 2026-09-25T13:03:07-0400): \"(서울=연합뉴스) 임형섭 박경준 기자 = 문재인 대통령은 9일 유은혜 교육부총리 겸 교육부 장관과 박범계 법무부 장관, 이인영 통일부 장관의 사표를 수리했다.\"",
+    "[verifier] Naver News: 연합뉴스 2022-05-10 14:59:14 \"尹대통령, 韓임명동의안 1호 결재…추경호 등 7개부처 장관 임명\" https://n.news.naver.com/mnews/article/001/0013168698 (snapshot roster/sources/finance/verify/naver_001_0013168698.html, accessed 2026-09-25T21:45:56-0400): \"(서울=연합뉴스) 한지훈 한혜원 기자 = 윤석열 대통령은 새 정부 출범일인 10일 추경호 경제부총리 겸 기획재정부 장관을 비롯한 7명의 장관을 임명했다.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "52 valid-type meetings with a finance title inside the spell, 2019-03-26..2022-02-04.",
+   "notes": "이임식 on 2022-05-09, the last day of the 문재인 presidency. No report of his resignation being accepted was found (BigKinds query '홍남기 사표 수리' 2022-05-06..11 returned nothing). The end is set to his successor's appointment date, 2022-05-10. Also 국무총리 직무대행 2021-04-17..05-13 (see acting). Birth date from ko.wikipedia \"홍남기\" https://ko.wikipedia.org/w/index.php?oldid=41727974 (snapshot sources/finance/wiki/wiki_홍남기_41727974.json, accessed 2026-09-24T22:43:48-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. [verifier] 문재인 accepted only three resignations on 2022-05-09 (유은혜, 박범계, 이인영). MBC of 2022-05-09 says the resignation of 홍남기 was not accepted then, so he remained in office until 추경호 was appointed on 2022-05-10. The one-day 윤석열-era slice (2022-05-10) is therefore real, not an artefact. [verifier] MBC 2022-05-09 reports that his resignation was not accepted on 2022-05-09 (only 유은혜, 박범계 and 이인영 were), so the one-day 윤석열-era slice on 2022-05-10 is real."
+  },
+  {
+   "name": "추경호",
+   "name_hanja": "秋慶鎬",
+   "name_en": "Choo Kyung-ho",
+   "name_en_source": "https://www.wikidata.org/wiki/Q12619978 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1960-07-29",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2022-05-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20255호 (published 2022-05-23) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20220523_20255_I0000000000000001652659816213000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N, accessed 2026-09-24T22:33:40-0400",
+    "BigKinds: 대구신문 2022-05-11 \"[사설] 민주당은 새 정부 발목잡기 그만하라\" (news_id 01501001.20220511212335002), result snapshot sources/finance/news/bigkinds_2022-05-10_2022-05-11_09b0b503.json, accessed 2026-09-25T13:47:39-0400",
+    "BigKinds: KBS 2022-05-11 \"추경호 경제부총리 취임…“물가 등 민생 안정 최우선”\" (news_id 08100101.20220511193111001), result snapshot sources/finance/news/bigkinds_2022-05-10_2022-05-11_09b0b503.json, accessed 2026-09-25T13:47:39-0400",
+    "[verifier] 관보 제20255호 (published 2022-05-23) re-read in harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt (fetched 2026-09-24T22:33:40-0400), per-person date line: \"추경호(秋慶鎬)국무위원에임함부총리겸기획재정부장관에보함2022.5.10.\"",
+    "[verifier] Naver News: 연합뉴스 2022-05-10 14:59:14 \"尹대통령, 韓임명동의안 1호 결재…추경호 등 7개부처 장관 임명\" https://n.news.naver.com/mnews/article/001/0013168698 (snapshot roster/sources/finance/verify/naver_001_0013168698.html, accessed 2026-09-25T21:45:56-0400): \"(서울=연합뉴스) 한지훈 한혜원 기자 = 윤석열 대통령은 새 정부 출범일인 10일 추경호 경제부총리 겸 기획재정부 장관을 비롯한 7명의 장관을 임명했다.\""
+   ],
+   "end": "2023-12-29",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 헤럴드경제 2023-12-28 \"‘尹정부 1기 경제팀 수장’ 추경호 “친정서 일해 행복했다” 큰절 인사\" (news_id 02100701.20231228180601001), result snapshot sources/finance/news/bigkinds_2023-12-27_2023-12-30_7815fcf9.json, accessed 2026-09-25T13:23:43-0400",
+    "관보 제20661호 (published 2024-01-05) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20240105_20661_I0000000000000001703827582647000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001704262361700000&tocId=I0000000000000001703827582647000&isTocOrder=N, accessed 2026-09-24T22:54:47-0400",
+    "[verifier] Naver News: 연합뉴스 2023-12-28 16:07:44 \"기재부 떠난 추경호…\"친정서 일해 행복했다\" 큰절 인사\" https://n.news.naver.com/mnews/article/001/0014414969 (snapshot roster/sources/finance/verify/naver_001_0014414969.html, accessed 2026-09-25T21:45:58-0400): \"(세종=연합뉴스) 민경락 박재현 기자 = 추경호 부총리 겸 기획재정부 장관이 28일 이임식을 끝으로 1년 8개월간의 부총리 일정을 마무리했다.\"",
+    "[verifier] Naver News: 뉴스1 2023-12-29 09:50:41 \"윤 대통령, 최상목·송미령·강도형·오영주·김홍일 임명 재가(종합)\" https://n.news.naver.com/mnews/article/421/0007260478 (snapshot roster/sources/finance/verify/naver_421_0007260478.html, accessed 2026-09-25T13:23:15-0400): \"29일자 임명…최상목 경제부총리, 윤석열 정부 2기 경제팀 지휘\"",
+    "[verifier] Naver News: 한국경제 2023-12-28 16:43:10 \"큰절하고 떠난 추경호…'3선 도전' 응원한 기재부 '논란' [관가 포커스]\" https://n.news.naver.com/mnews/article/015/0004930501 (snapshot roster/sources/finance/verify/naver_015_0004930501.html, accessed 2026-09-25T21:45:58-0400): \"추 부총리도 이날 3선 도전을 공식화했다.\"",
+    "[verifier] Naver News: 뉴시스 2023-12-04 17:10:06 \"민주, 6개 부처 개각에 \"총선 출마자 자리 채우는 '도주 개각'\"\" https://n.news.naver.com/mnews/article/003/0012247702 (snapshot roster/sources/finance/verify/naver_003_0012247702.html, accessed 2026-09-25T21:58:12-0400): \" 장관 등 국정 실패의 책임자들에게 면죄부를 쥐어준 개각이라는 점\"이라며 \"국정 실패의 책임을 물어 경질했어야 마땅한 사람들을 자신의 친위대로 총선에 내보내겠다고 판을 깔아준 꼴 아니냐\"고 질타했다.\""
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (국민의힘, 대구 달성군) for the whole spell, mona_cd G152611B (na_members_15_22.csv)",
+   "transcript_check": "ok",
+   "transcript_notes": "26 valid-type meetings with a finance title inside the spell, 2022-05-17..2023-11-13.",
+   "notes": "Appointed on the first day of the 윤석열 presidency on the recommendation of PM 김부겸 (대구신문 2022-05-11). 취임식 on 2022-05-11. Sitting NA member throughout. 이임식 on 2023-12-28, successor appointed 2023-12-29. Also 국무총리 직무대행 2022-05-12..05-20 (see acting). Birth date from na_members_15_22.csv (_rebuild/na_members). Gender from na_members_15_22.csv (_rebuild/na_members) (성별 남). [verifier] end_reason changed to resigned_to_run. He announced his run for a third term on the day of his 이임식 (한국경제 2023-12-28) and was re-elected in the 2024 general election (seat from 2024-05-30)."
+  },
+  {
+   "name": "최상목",
+   "name_hanja": "崔相穆",
+   "name_en": "Choi Sang-mok",
+   "name_en_source": "https://www.wikidata.org/wiki/Q31178879 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1963-06-07",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2023-12-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20661호 (published 2024-01-05) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20240105_20661_I0000000000000001703827582647000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001704262361700000&tocId=I0000000000000001703827582647000&isTocOrder=N, accessed 2026-09-24T22:54:47-0400",
+    "BigKinds: YTN 2023-12-29 \"尹, 최상목·송미령·강도형·오영주·김홍일 임명\" (news_id 08100401.20231229220003001), result snapshot sources/finance/news/bigkinds_2023-12-28_2023-12-30_a41cfb1d.json, accessed 2026-09-25T13:45:19-0400",
+    "BigKinds: 한겨레 2023-12-29 \"윤 대통령, 24번째 국회패싱 임명…‘검사 선배’ 김홍일 방통위원장\" (news_id 01101001.20231229200010002), result snapshot sources/finance/news/bigkinds_2023-12-28_2023-12-30_a41cfb1d.json, accessed 2026-09-25T13:45:19-0400",
+    "[verifier] 관보 제20661호 (published 2024-01-05) re-read in harvest/gazette_text/20240105_20661_I0000000000000001703827582647000.txt (fetched 2026-09-24T22:54:47-0400), per-person date line: \"최상목(崔相穆)국무위원에임함부총리겸기획재정부장관에보함2023.12.29.\"",
+    "[verifier] Naver News: 뉴스1 2023-12-29 09:50:41 \"윤 대통령, 최상목·송미령·강도형·오영주·김홍일 임명 재가(종합)\" https://n.news.naver.com/mnews/article/421/0007260478 (snapshot roster/sources/finance/verify/naver_421_0007260478.html, accessed 2026-09-25T13:23:15-0400): \"29일자 임명…최상목 경제부총리, 윤석열 정부 2기 경제팀 지휘\""
+   ],
+   "end": "2025-05-01",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 세계일보 2025-05-02 \"‘화풀이’ 탄핵 밀어붙인 민주당, 국정 공백은 안중에 없나 [논설실의 관점]\" (news_id 01100701.20250502210218001), result snapshot sources/finance/news/bigkinds_2025-05-01_2025-05-02_b73c3a13.json, accessed 2026-09-25T13:15:50-0400",
+    "BigKinds: 주간한국 2025-05-02 \"한덕수, 대선 출마 선언…초유의 '대통령 권한대행의 대행의 대행 체제'\" (news_id 06101202.20250502171624001), result snapshot sources/finance/news/bigkinds_2025-05-01_2025-05-02_b73c3a13.json, accessed 2026-09-25T13:15:50-0400",
+    "offices.json presidential_transitions.acting_presidents (한덕수 2025-03-24..05-01: \"The same night he accepted 최상목's resignation\", sources KHAN_20250501, FN_20250501)",
+    "[verifier] Naver News: MBC 2025-05-01 22:41:48 \"최상목 부총리 사표 수리‥\"국민께 죄송\"\" https://n.news.naver.com/mnews/article/214/0001421852 (snapshot roster/sources/finance/verify/naver_214_0001421852.html, accessed 2026-09-25T21:46:16-0400): \"최상목 부총리 겸 기획재정부 장관의 사표가 오늘 수리됐습니다.\"",
+    "[verifier] Naver News: JTBC 2025-05-02 07:42:18 \"최상목 사퇴에 헌정 초유 '대대대행' 체제…이주호로 공 넘어가\" https://n.news.naver.com/mnews/article/437/0000439375 (snapshot roster/sources/finance/verify/naver_437_0000439375.html, accessed 2026-09-25T21:46:25-0400): \"[우원식/국회의장 : 기획재정부 장관 최상목 면직이 통지되었습니다.\""
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "13 valid-type meetings with a finance title inside the spell, 2024-01-08..2024-12-17.",
+   "notes": "대통령 권한대행 and 국무총리 직무대행 from 2024-12-27 17:19 to 2025-03-24 while remaining minister (offices.json). Resigned on the night of 2025-05-01 during the plenary vote on his impeachment motion. Acting president 한덕수 accepted the resignation that evening, so the vote was not completed and no suspension occurred. Birth date from ko.wikipedia \"최상목\" https://ko.wikipedia.org/w/index.php?oldid=42339097 (snapshot sources/finance/wiki/wiki_최상목_42339097.json, accessed 2026-09-24T22:43:31-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. Birth date from ko.wikipedia. Wikidata gives 1960-03-13, which conflicts with news describing him as 60 in December 2023 (\"최상목(60)\", 2023-12-05 BigKinds snapshot bigkinds_2023-12-04_2023-12-05_dbd79632.json)."
+  },
+  {
+   "name": "구윤철",
+   "name_hanja": "具潤哲",
+   "name_en": "Koo Yun-cheol",
+   "name_en_source": "https://www.wikidata.org/wiki/Q106301454 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1965-06-01",
+   "gender": "M",
+   "ministry": "기획재정부",
+   "office_title": "부총리 겸 기획재정부장관",
+   "deputy_pm": true,
+   "start": "2025-07-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21043호 (published 2025-07-25) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20250725_21043_I0000000000000001753058642620000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N, accessed 2026-09-24T22:59:51-0400",
+    "BigKinds: 노컷뉴스 2025-07-19 \"신임 경제부총리 \"내년 예산 재해예방 최대 확대\" 주문\" (news_id 04100058.20250719200259001), result snapshot sources/finance/news/bigkinds_2025-07-18_2025-07-19_301cce6a.json, accessed 2026-09-25T13:13:55-0400",
+    "BigKinds: 이데일리 2025-07-18 \"李대통령, 정성호·구윤철·조현·김정관 장관 임명 재가(상보)\" (news_id 04101008.20250718203844001), result snapshot sources/finance/news/bigkinds_2025-07-15_2025-07-18_88471ec2.json, accessed 2026-09-25T13:19:05-0400",
+    "[verifier] 관보 제21043호 (published 2025-07-25) re-read in harvest/gazette_text/20250725_21043_I0000000000000001753058642620000.txt (fetched 2026-09-24T22:59:51-0400), per-person date line: \"구윤철(具潤哲)국무위원에임함부총리겸기획재정부장관에보함2025.7.19.\"",
+    "[verifier] Naver News: 이데일리 2025-07-18 20:38:11 \"李대통령, 정성호·구윤철·조현·김정관 장관 임명 재가(상보)\" https://n.news.naver.com/mnews/article/018/0006068836 (snapshot roster/sources/finance/verify/naver_018_0006068836.html, accessed 2026-09-25T13:45:39-0400): \"강선우·이진숙 후보자 임명은 아직…의혹 논란 여전히 부담 [이데일리 황병서 기자] 이재명 대통령은 18일 정성호 법무부 장관, 구윤철 기획재정부 장관, 조현 외교부 장관, 김정관 산업통상자원부 장관에 대한 임명안을 재가했다.\""
+   ],
+   "end": "2026-01-01",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices.json OF034 기획재정부 2008-02-29..2026-01-01 (기획재정부 abolished by 법률 제21065호, 재정경제부 part effective 2026-01-02)",
+    "offices.json OF064 재정경제부 2026-01-02..2026-09-24",
+    "관보 제21200호 (published 2026-03-19) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20260319_21200_I0000000000000001773621122411000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001773744076284000&tocId=I0000000000000001773621122411000&isTocOrder=N, accessed 2026-09-25T07:06:37-0400",
+    "[verifier] Naver News: TV조선 2026-01-02 11:17:10 \"재정경제부, 18년 만에 공식 출범…구윤철 \"부처균형 장점\"\" https://n.news.naver.com/mnews/article/448/0000580903 (snapshot roster/sources/finance/verify/naver_448_0000580903.html, accessed 2026-09-25T21:46:53-0400): \"구윤철 부총리 겸 재정경제부 장관은 출범사에서 조직 분리에 따른 우려에 대해 '견제와 균형(Check & Balance)'을 강조했다.\"",
+    "[verifier] 관보 제21200호 (published 2026-03-19) re-read in harvest/gazette_text/20260319_21200_I0000000000000001773621122411000.txt (fetched 2026-09-25T07:06:37-0400), new notice for the 재정경제부 post: \"구윤철(具潤哲)국무위원에임함부총리겸재정경제부장관에보함2026.1.2.\""
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "The President approved the appointment on the evening of 2025-07-18 (대통령실 공지, 이데일리/디지털타임스 2025-07-18) and ko.wikipedia gives 07-18, but the gazette notice is dated 2025. 7. 19., as are those of 조현 and 김정관 in the same item. He held his first 1급 meeting as minister on 07-19. The gazette date is used. Birth date from ko.wikipedia \"구윤철\" https://ko.wikipedia.org/w/index.php?oldid=42534063 (snapshot sources/finance/wiki/wiki_구윤철_42534063.json, accessed 2026-09-24T22:43:27-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. Birth date from ko.wikipedia. Wikidata gives 1965-01-01 (a year-only placeholder). [verifier] start_confidence raised to high (gazette per-person date line re-read)."
+  },
+  {
+   "name": "구윤철",
+   "name_hanja": "具潤哲",
+   "name_en": "Koo Yun-cheol",
+   "name_en_source": "https://www.wikidata.org/wiki/Q106301454 (English label; Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400))",
+   "birth_date": "1965-06-01",
+   "gender": "M",
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2026-01-02",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21200호 (published 2026-03-19) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20260319_21200_I0000000000000001773621122411000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001773744076284000&tocId=I0000000000000001773621122411000&isTocOrder=N, accessed 2026-09-25T07:06:37-0400",
+    "BigKinds: 브릿지경제 2026-01-03 \"구윤철 부총리 “2026년은 본격적인 성장을 견인하는 특별한 한 해로 만들어야”\" (news_id 02100861.20260103134603001), result snapshot sources/finance/news/bigkinds_2026-01-01_2026-01-03_11da50eb.json, accessed 2026-09-25T13:46:01-0400",
+    "BigKinds: KBS 2026-01-03 \"재경부·기획처 출범…기재부 18년 만에 역사 속으로\" (news_id 08100101.20260103072312001), result snapshot sources/finance/news/bigkinds_2026-01-01_2026-01-03_11da50eb.json, accessed 2026-09-25T13:46:01-0400",
+    "[verifier] 관보 제21200호 (published 2026-03-19) re-read in harvest/gazette_text/20260319_21200_I0000000000000001773621122411000.txt (fetched 2026-09-25T07:06:37-0400), per-person date line: \"구윤철(具潤哲)국무위원에임함부총리겸재정경제부장관에보함2026.1.2.\"",
+    "[verifier] Naver News: 뉴시스 2026-01-02 14:17:20 \"구윤철 \"경제 대도약 원년…재경부, 정책성과로 재조명돼야\"(종합)\" https://n.news.naver.com/mnews/article/003/0013689175 (snapshot roster/sources/finance/verify/naver_003_0013689175.html, accessed 2026-09-25T21:46:56-0400): \"구윤철 부총리는 이날 오전 정부세종청사 중앙동에서 출범식을 개최하고 이같이 말했다.\""
+   ],
+   "end": "2026-09-22",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "BigKinds: 머니투데이 2026-09-22 \"'마지막 인사' 남긴 구윤철 \"매 순간 치열하게 고민했던 시간\"\" (news_id 02100201.20260922142549001), result snapshot sources/finance/news/bigkinds_2026-09-01_2026-09-24_4484c9c8.json, accessed 2026-09-25T13:14:10-0400",
+    "BigKinds: 조선일보 2026-09-23 \"李, 순방 중에 ‘특공 신공’ 강신철 임명안 재가\" (news_id 01100801.20260923005111001), result snapshot sources/finance/news/bigkinds_2026-09-17_2026-09-24_6dfcd32b.json, accessed 2026-09-25T13:15:18-0400",
+    "[verifier] Naver News: 뉴시스 2026-09-22 14:04:58 \"이형일, 취임 후 첫 일성…\"잠재성장률 제고·성장 온기 확산·물가 안정\"\" https://n.news.naver.com/mnews/article/003/0014207940 (snapshot roster/sources/finance/verify/naver_003_0014207940.html, accessed 2026-09-25T21:48:59-0400): \"이에 따라 전임자인 구윤철 전 경제부총리 겸 재경부 장관은 이날 자리에서 물러났다.\"",
+    "[verifier] Naver News: 뉴스1 2026-09-22 14:12:53 \"구윤철 전 부총리 \"韓 경제 위해 최선…성장동력 되살리기 위해 달려\"\" https://n.news.naver.com/mnews/article/421/0009186276 (snapshot roster/sources/finance/verify/naver_421_0009186276.html, accessed 2026-09-25T21:49:10-0400): \"구윤철 전 부총리 겸 재정경제부 장관은 22일 \"대한민국 경제를 위해 매 순간 치열하게 고민하며 최선을 다한 시간은 평생 잊지 못할 것\"이라며 퇴임 소회 밝혔다.\"",
+    "[verifier] 재정경제부 역대장관 page (tier 2) https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800 (final URL mofe.go.kr, snapshot roster/sources/finance/verify/mofe_history.html + .txt, accessed 2026-09-25T13:48:59-0400): \"재정경제부 1대 구윤철 부총리 재임기간 2026.1. ~ 2026.9.\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "Re-created 재정경제부 from 2026-01-02 (법률 제21065호). The gazette (관보 제21200호, published 2026-03-19) prints a new appointment \"국무위원에 임함 / 부총리 겸 재정경제부장관에 보함 / 2026. 1. 2.\". Replaced in the reshuffle announced 2026-08-30. His successor's appointment was approved on 2026-09-22 (KST). Birth date from ko.wikipedia \"구윤철\" https://ko.wikipedia.org/w/index.php?oldid=42534063 (snapshot sources/finance/wiki/wiki_구윤철_42534063.json, accessed 2026-09-24T22:43:27-0400). Gender from Wikidata SPARQL (sources/finance/wiki/wikidata_finance_people.json, accessed 2026-09-25T13:39:21-0400) P21 = male. Birth date from ko.wikipedia. Wikidata gives 1965-01-01 (a year-only placeholder). [verifier] His farewell town-hall (이임식 겸) was held on 2026-09-18, before the successor's appointment (뉴스1). The end stays at the successor's appointment date."
+  },
+  {
+   "name": "이형일",
+   "name_hanja": "李炯日",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1971",
+   "gender": null,
+   "ministry": "재정경제부",
+   "office_title": "부총리 겸 재정경제부장관",
+   "deputy_pm": true,
+   "start": "2026-09-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds: 조선일보 2026-09-23 \"李, 순방 중에 ‘특공 신공’ 강신철 임명안 재가\" (news_id 01100801.20260923005111001), result snapshot sources/finance/news/bigkinds_2026-09-17_2026-09-24_6dfcd32b.json, accessed 2026-09-25T13:15:18-0400",
+    "BigKinds: 동아일보 2026-09-23 \"李, 순방중 이형일-강신철-홍지선-이소영 장관 임명 재가\" (news_id 01100401.20260923043718001), result snapshot sources/finance/news/bigkinds_2026-09-17_2026-09-24_6dfcd32b.json, accessed 2026-09-25T13:15:18-0400",
+    "BigKinds: 경북일보 2026-09-23 \"이 대통령, 이형일·강신철·홍지선 장관 임명 재가\" (news_id 01500201.20260923180924002), result snapshot sources/finance/news/bigkinds_2026-09-17_2026-09-24_6dfcd32b.json, accessed 2026-09-25T13:15:18-0400",
+    "BigKinds: 매일경제 2026-09-22 \"이형일 부총리, 임명 직후 첫 간부회의…“경제 리스크 원점 재점검”\" (news_id 02100101.20260922155859001), result snapshot sources/finance/news/bigkinds_2026-09-01_2026-09-24_4484c9c8.json, accessed 2026-09-25T13:14:10-0400",
+    "[verifier] Naver News: 연합뉴스 2026-09-22 08:46:25 \"李대통령, 이형일·강신철·홍지선 장관 임명안 재가\" https://n.news.naver.com/mnews/article/001/0016328327 (snapshot roster/sources/finance/verify/naver_001_0016328327.html, accessed 2026-09-25T13:51:42-0400): \"(뉴욕=연합뉴스) 임형섭 설승은 기자 = 유엔총회 참석을 위해 미국 뉴욕을 방문한 이재명 대통령은 22일(현지시간 21일) 이형일 경제부총리 겸 재정경제부 장관, 강신철 국방부 장관, 홍지선 국토교통부 장관에 대한 임명안을 재가했다.\"",
+    "[verifier] Naver News: 매경이코노미 2026-09-22 08:51:11 \"李대통령, 이형일·강신철·홍지선 장관 임명안 재가\" https://n.news.naver.com/mnews/article/024/0000108393 (snapshot roster/sources/finance/verify/naver_024_0000108393.html, accessed 2026-09-25T21:47:29-0400): \" “이재명 대통령은 인사청문경과보고서가 채택된 이형일 부총리 겸 재정경제부 장관, 강신철 국방부 장관, 홍지선 국토교통부 장관에 대한 임명안을 한국 시간 오늘(22일) 재가했다”고 밝혔다.\"",
+    "[verifier] Naver News: 뉴시스 2026-09-23 20:30:22 \"이형일 \"OECD, 올해 韓 성장률 3.7% 전망…성장 온기 사회 곳곳에\"\" https://n.news.naver.com/mnews/article/003/0014211700 (snapshot roster/sources/finance/verify/naver_003_0014211700.html, accessed 2026-09-25T21:48:26-0400): \"[서울=뉴시스] 이형일 경제부총리 겸 재정경제부 장관이 22일 서울 종로구 정부서울청사에서 재정경제부 주요간부회의를 주재하고 있다.\""
+   ],
+   "end": null,
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds: 파이낸셜뉴스 2026-09-23 \"소공연, 이형일 경제팀에 간이과세 기준 상향 요구\" (news_id 02100501.20260923230410001), result snapshot sources/finance/news/bigkinds_2026-01-01_2026-09-24_e0e615fd.json, accessed 2026-09-25T13:14:18-0400",
+    "BigKinds: 머니투데이 2026-09-23 \"소상공인연합회 \"이형일 신임 경제부총리, 대한민국 위기 극복 적임자\"\" (news_id 02100201.20260923104859001), result snapshot sources/finance/news/bigkinds_2026-01-01_2026-09-24_e0e615fd.json, accessed 2026-09-25T13:14:18-0400",
+    "[verifier] Naver News: 뉴시스 2026-09-25 14:25:34 \"이형일 \"해외 투자자들, 韓경제 긍정 평가…신뢰 높일 것\"\" https://n.news.naver.com/mnews/article/003/0014213423 (snapshot roster/sources/finance/verify/naver_003_0014213423.html, accessed 2026-09-25T21:48:10-0400): \"[세종=뉴시스] 안호균 기자 = 이형일 경제부총리 겸 재정경제부 장관은 25일 \"우리 경제에 대한 해외 투자자들의 신뢰를 높이고 투자 확대로 이어질 수 있도록 귀국하는 대로 필요한 과제들을 하나씩 챙기겠다\"고 밝혔다.\""
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage window (2000-06..2025-01).",
+   "notes": "재정경제부 제1차관 (from 2026-01-02, and 기획재정부 제1차관 from 2025-06-11) promoted in the 2026-08-30 reshuffle. The President approved the appointment while in New York on 2026-09-22 KST (21 September local time). No gazette notice was found up to the end of the harvest (2026-09 month file, harvested 2026-09-25), so the start rests on news only. He was in office at the cutoff. News of 2026-09-23 still refers to him as the new minister and no later change was found up to 2026-09-24. Birth date from ko.wikipedia \"이형일\" https://ko.wikipedia.org/w/index.php?oldid=42534034 (snapshot sources/finance/wiki/wiki_이형일_42534034.json, accessed 2026-09-24T22:43:29-0400). Gender is not stated in any source consulted. Birth year only (동아일보 2026-08-31 \"1971년생인 이형일\", BigKinds snapshot bigkinds_2026-08-29_2026-09-01_4cca86ed.json). ko.wikipedia also gives 1971. [verifier] Live gazette query on 2026-09-25 (sources/finance/verify/gazette_search_2026-09-15_25.json) still shows no 인사 item after 2026-09-18, so the start rests on news. In office through the cutoff (news of 2026-09-25)."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "이규성",
+   "office_title": "재정경제부장관",
+   "nomination_date": "1998-03-03",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-03-03",
+   "sources": [
+    "BigKinds: 한국경제 1998-03-04 \"[1면톱] 김종필 총리서리 임명..김대통령, 17개부 조각 발표\" (news_id 02100601.20160116161959688), result snapshot sources/finance/news/bigkinds_1998-02-28_1998-03-06_a9d6a383.json, accessed 2026-09-25T12:57:44-0400"
+   ],
+   "notes": "No hearing requirement for 국무위원 before 2005-07-28. Announced and appointed the same day."
+  },
+  {
+   "nominee": "강봉균",
+   "office_title": "재정경제부장관",
+   "nomination_date": "1999-05-24",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1999-05-24",
+   "sources": [
+    "BigKinds: 문화일보 1999-05-25 \"<사설>새경제팀에 바란다\" (news_id 01100501.19990525000000602), result snapshot sources/finance/news/bigkinds_1999-05-24_1999-05-25_7589e473.json, accessed 2026-09-25T12:59:03-0400"
+   ],
+   "notes": "No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "이헌재",
+   "office_title": "재정경제부장관",
+   "nomination_date": "2000-01-13",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-01-14",
+   "sources": [
+    "BigKinds: 동아일보 2000-01-13 \"[박태준내각 출범]金대통령 7개부처 장관 경질\" (news_id 01100401.20000113015630070), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400",
+    "BigKinds: 헤럴드경제 2000-01-14 \"김대통령, 장관급 9명 인사 단행\" (news_id 02100701.20160113051547733), result snapshot sources/finance/news/bigkinds_2000-01-13_2000-01-15_4995777a.json, accessed 2026-09-25T12:59:25-0400"
+   ],
+   "notes": "Announced 2000-01-13, 임명장 2000-01-14. No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "진념",
+   "office_title": "재정경제부장관",
+   "nomination_date": "2000-08-07",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-08-07",
+   "sources": [
+    "BigKinds: 동아일보 2000-08-07 \"8개부처 장관 교체…청와대 수석-차관급 주내 인사\" (news_id 01100401.20000807021430026), result snapshot sources/finance/news/bigkinds_2000-08-07_2000-08-09_c03262fc.json, accessed 2026-09-25T13:00:37-0400"
+   ],
+   "notes": "No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "진념",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2001-01-29",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-01-29",
+   "sources": [
+    "BigKinds: 경향신문 2001-01-30 \"경제부총리 진념, 교육 부총리 한완상\" (news_id 01100101.20010130000000101), result snapshot sources/finance/news/bigkinds_2001-01-28_2001-01-31_ea8c420d.json, accessed 2026-09-25T13:01:27-0400"
+   ],
+   "notes": "Promotion of the sitting 재정경제부장관 when the office gained 부총리 status. No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "전윤철",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2002-04-15",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-04-15",
+   "sources": [
+    "BigKinds: 부산일보 2002-04-15 \"경제부총리 전윤철, 비서실장 박지원씨\" (news_id 01500701.20160410115512233), result snapshot sources/finance/news/bigkinds_2002-04-14_2002-04-16_c66287a1.json, accessed 2026-09-25T13:01:53-0400",
+    "관보 제15080호 (published 2002-04-22) 인사발령, snapshot sources/finance/gazette/gz_20020422_15080_00000000000000001319021449624000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319021435743000&tocId=00000000000000001319021449624000&isTocOrder=N, accessed 2026-09-24T22:46:51-0400"
+   ],
+   "notes": "No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "김진표",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "BigKinds: 중앙일보 2003-02-27 \"파격 인선… 19개부 장관 임명\" (news_id 01100901.20030227135441001), result snapshot sources/finance/news/bigkinds_2003-02-27_2003-02-28_b2c3eb59.json, accessed 2026-09-25T13:02:39-0400",
+    "관보 제15338호 (published 2003-03-05) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20030305_15338_00000000000000001319026541100000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N, accessed 2026-09-24T22:44:28-0400"
+   ],
+   "notes": "No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "이헌재",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2004-02-10",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2004-02-11",
+   "sources": [
+    "BigKinds: 국민일보 2004-02-11 \"새 경제부총리 이헌재씨 임명\" (news_id 01100201.20040211000000101), result snapshot sources/finance/news/bigkinds_2004-02-09_2004-02-12_3c42aac5.json, accessed 2026-09-25T13:03:05-0400",
+    "관보 제15621호 (published 2004-02-16) 인사발령(행정자치부), snapshot sources/finance/gazette/gz_20040216_15621_00000000000000001319030141293000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319030127818000&tocId=00000000000000001319030141293000&isTocOrder=N, accessed 2026-09-24T22:50:39-0400"
+   ],
+   "notes": "Announced 2004-02-10, appointed 2004-02-11. No hearing requirement before 2005-07-28."
+  },
+  {
+   "nominee": "한덕수",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2005-03-14",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2005-03-15",
+   "sources": [
+    "BigKinds: 파이낸셜뉴스 2005-03-14 \"“경제정책기조 안바꾼다”…한덕수 새 경제부총리 밝혀\" (news_id 02100501.20160206072300167), result snapshot sources/finance/news/bigkinds_2005-03-14_2005-03-16_12b50545.json, accessed 2026-09-25T13:06:38-0400",
+    "관보 제15947호 (published 2005-03-19) 인사발령(중앙인사위원회·부패방지위원회), snapshot sources/finance/gazette/gz_20050319_15947_00000000000000001319034162368000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319034152563000&tocId=00000000000000001319034162368000&isTocOrder=N, accessed 2026-09-24T22:56:18-0400"
+   ],
+   "notes": "Announced by the 청와대 인사수석 on 2005-03-14, appointed 2005-03-15. No hearing requirement (국무위원 hearings began 2005-07-28)."
+  },
+  {
+   "nominee": "권오규",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2006-07-03",
+   "request_date": "2006-07-06",
+   "likms_bill_id": "ZZ1802",
+   "hearing_dates": [
+    "2006-07-12"
+   ],
+   "hearing_committee": "재정경제위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-07-18",
+   "sources": [
+    "의안정보시스템 ZZ1802 국무위원후보자(부총리겸재정경제부장관 권오규) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=035804 (rendered text sources/finance/likms/035804.txt, accessed 2026-09-25T06:35:55-0400)",
+    "BigKinds: 세계일보 2006-07-05 \"\"7.3 개각은 민심에 역행\" 정운찬 서울대 총장 쓴소리\" (news_id 01100701.20060705100002254), result snapshot sources/finance/news/bigkinds_2006-06-28_2006-07-06_c1558d29.json, accessed 2026-09-25T13:19:35-0400",
+    "nominee_hearing_meetings.csv meeting 34608 (2006-07-12, 재정경제위원회, 국무위원후보자(부총리겸재정경제부장관 권오규) 인사청문회)",
+    "[verifier] likms ZZ1802 소관위 row '재정경제위원회 2006-07-06 2006-07-07 2006-07-14 경과보고서채택' (harvest/likms/035804.txt). Hearing 2006-07-12 matches nominee_hearing_meetings.csv meeting 34608."
+   ],
+   "notes": "Report adopted 2006-07-14 (likms 처리일, 경과보고서 송부일 2006-07-14). Nominated in the 7·3 개각. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "강만수",
+   "office_title": "부총리 겸 재정경제부장관 (appointed as 기획재정부장관)",
+   "nomination_date": "2008-02-18",
+   "request_date": "2008-02-19",
+   "likms_bill_id": "ZZ1903",
+   "hearing_dates": [
+    "2008-02-27"
+   ],
+   "hearing_committee": "재정경제위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2008-02-29",
+   "sources": [
+    "의안정보시스템 ZZ1903 국무위원후보자(부총리 겸 재정경제부장관 강만수) 인사청문요청안(대통령당선인), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_B0A8V0W2T2T0B0D0H0R7I1G6D0E7R2 (rendered text sources/finance/likms/PRC_B0A8V0W2T2T0B0D0H0R7I1G6D0E7R2.txt, accessed 2026-09-25T06:38:50-0400)",
+    "BigKinds: 이데일리 2008-02-18 \"李당선자 조각 강행..강만수 등 '13+2' 발표\" (news_id 04101008.20080218121350001), result snapshot sources/finance/news/bigkinds_2008-02-10_2008-02-19_1b70f832.json, accessed 2026-09-25T13:19:39-0400",
+    "nominee_hearing_meetings.csv meeting 36857 (2008-02-27, 재정경제위원회)",
+    "[verifier] likms ZZ1903 소관위 row '재정경제위원회 2008-02-22 2008-02-21 2008-02-27 경과보고서채택' (harvest/likms/PRC_B0A8V0W2T2T0B0D0H0R7I1G6D0E7R2.txt). Hearing 2008-02-27 matches meeting 36857."
+   ],
+   "notes": "Named by 대통령당선인 이명박 on 2008-02-18, under the 정부조직법 then in force, so the request (proposer 대통령당선인) names 부총리 겸 재정경제부장관. Report adopted 2008-02-27, sent 2008-02-28. Appointed 기획재정부장관 on 2008-02-29 under the new law, whose 부칙 제5조 deems hearings requested by the 당선인 for the old title to count for the new one (offices.json). [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "윤증현",
+   "office_title": "기획재정부장관",
+   "nomination_date": "2009-01-19",
+   "request_date": "2009-01-23",
+   "likms_bill_id": "ZZ18038",
+   "hearing_dates": [
+    "2009-02-06"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2009-02-10",
+   "sources": [
+    "의안정보시스템 ZZ18038 국무위원후보자(기획재정부장관 윤증현) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_U0C9I0P1B2U3O1N7H3O7M0Q5N3K3E3 (rendered text sources/finance/likms/PRC_U0C9I0P1B2U3O1N7H3O7M0Q5N3K3E3.txt, accessed 2026-09-25T06:42:14-0400)",
+    "BigKinds: 동아일보 2009-01-20 \"[사설]새 경제팀, 現場서 통하는 정책으로 신뢰 회복을\" (news_id 01100401.20090120064417032), result snapshot sources/finance/news/bigkinds_2009-01-19_2009-01-20_88f7391e.json, accessed 2026-09-25T13:58:17-0400",
+    "BigKinds: 노컷뉴스 2009-01-20 \"李대통령 1.19 개각 장차관급 인사에 임명장\" (news_id 04100058.20090120104309003), result snapshot sources/finance/news/bigkinds_2009-01-19_2009-01-20_88f7391e.json, accessed 2026-09-25T13:58:17-0400",
+    "nominee_hearing_meetings.csv meeting 37955 (2009-02-06, 기획재정위원회)",
+    "[verifier] likms ZZ18038 소관위 row '기획재정위원회 2009-01-23 2009-01-29 2009-02-06 경과보고서채택'. Hearing 2009-02-06 matches meeting 37955."
+   ],
+   "notes": "Nominated in the 1·19 개각. Report adopted 2009-02-06 (likms), sent 2009-02-09. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "박재완",
+   "office_title": "기획재정부장관",
+   "nomination_date": "2011-05-06",
+   "request_date": "2011-05-12",
+   "likms_bill_id": "ZZ18140",
+   "hearing_dates": [
+    "2011-05-25"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2011-06-02",
+   "sources": [
+    "의안정보시스템 ZZ18140 국무위원후보자(기획재정부장관 박재완) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S1K1V0X5T1B2P1W6R0M9S2S6R4F1D0 (rendered text sources/finance/likms/PRC_S1K1V0X5T1B2P1W6R0M9S2S6R4F1D0.txt, accessed 2026-09-25T06:45:44-0400)",
+    "BigKinds: 중부일보 2011-06-01 \"박재완 내정자 인사청문 보고서 채택\" (news_id 01400501.20110601174305001), result snapshot sources/finance/news/bigkinds_2011-05-25_2011-06-01_0d9e0748.json, accessed 2026-09-25T13:17:16-0400",
+    "BigKinds: 프레시안 2011-06-02 \"MB \"장관들은 국회 답변에서 당당하게 임하라\"\" (news_id 04104008.20110602010220002), result snapshot sources/finance/news/bigkinds_2011-06-01_2011-06-03_0ec255c2.json, accessed 2026-09-25T13:11:13-0400",
+    "nominee_hearing_meetings.csv meeting 40637 (2011-05-25, 기획재정위원회)",
+    "[verifier] Naver News: 연합뉴스 2011-05-31 11:55:47 \"박재완 내정자 인사청문 보고서 채택\" https://n.news.naver.com/mnews/article/001/0005089531 (snapshot roster/sources/finance/verify/naver_001_0005089531.html, accessed 2026-09-25T21:51:14-0400): \"(서울=연합뉴스) 김호준 기자 = 국회 기획재정위원회는 31일 오전 전체회의를 열고 박재완 기획재정부 장관 내정자에 대한 인사청문 경과보고서를 채택했다.\"",
+    "[verifier] hearing 2011-05-25 matches nominee_hearing_meetings.csv meeting 40637."
+   ],
+   "notes": "Nominated in the 5·6 개각 (충북일보 2011-06-03 \"5·6 개각에서 임명한 장관 5명\"). The likms record shows no processing date. The 기획재정위원회 adopted the report on the morning of 2011-05-31 (중부일보, 서울신문 2011-06-01). [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "현오석",
+   "office_title": "기획재정부장관 (부총리 겸 기획재정부장관 from 2013-03-23)",
+   "nomination_date": "2013-02-17",
+   "request_date": "2013-02-20",
+   "likms_bill_id": "ZZ19050",
+   "hearing_dates": [
+    "2013-03-13",
+    "2013-03-14"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2013-03-22",
+   "sources": [
+    "의안정보시스템 ZZ19050 국무위원후보자(기획재정부장관 현오석) 인사청문요청안(대통령당선인), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_C1I3M0Y2M2B0X1Q7V4P6C4J8A0O6F4 (rendered text sources/finance/likms/PRC_C1I3M0Y2M2B0X1Q7V4P6C4J8A0O6F4.txt, accessed 2026-09-25T06:48:08-0400)",
+    "BigKinds: 동아일보 2013-02-18 \"경제부총리 ‘돌아온 관료’ 복지부장관 ‘공약 지휘자’\" (news_id 01100401.20130218053435021), result snapshot sources/finance/news/bigkinds_2013-02-17_2013-02-18_13e952d4.json, accessed 2026-09-25T13:20:47-0400",
+    "BigKinds: 문화일보 2013-03-22 \"朴, 김관진 국방장관 유임...현오석 임명 강행\" (news_id 01100501.2013032210010615695), result snapshot sources/finance/news/bigkinds_2013-03-14_2013-03-23_35cb281e.json, accessed 2026-09-25T13:42:46-0400",
+    "nominee_hearing_meetings.csv meetings 42566 (2013-03-13) and 42569 (2013-03-14, 계속), 기획재정위원회",
+    "[verifier] Naver News: YTN 2013-03-22 14:59:56 \"김관진 국방장관 유임...현오석 기재장관 임명\" https://n.news.naver.com/mnews/article/052/0000449749 (snapshot roster/sources/finance/verify/naver_052_0000449749.html, accessed 2026-09-25T21:50:56-0400): \"현오석 장관은 국회 인사청문회를 마쳤지만 야당이 부적격론을 제기하면서 청문보고서 채택이 무산됐습니다.\"",
+    "[verifier] hearings 2013-03-13 and 03-14 match meetings 42566 and 42569."
+   ],
+   "notes": "Named by 대통령당선인 박근혜 on 2013-02-17 as 경제부총리 겸 기획재정부장관, request filed by the 당선인 under the title 기획재정부장관. The report was not adopted because of opposition refusal and the President appointed him anyway. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "최경환",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2014-06-13",
+   "request_date": "2014-06-24",
+   "likms_bill_id": "ZZ19114",
+   "hearing_dates": [
+    "2014-07-08"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2014-07-16",
+   "sources": [
+    "의안정보시스템 ZZ19114 국무위원후보자(부총리 겸 기획재정부장관 최경환) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q1B4S0M6U2M4B1A3C5U0A1X6D5N4U7 (rendered text sources/finance/likms/PRC_Q1B4S0M6U2M4B1A3C5U0A1X6D5N4U7.txt, accessed 2026-09-25T06:50:52-0400)",
+    "BigKinds: 서울신문 2014-06-16 \"“경제주체 기운 나게 바꿀 건 확 바꿔야”\" (news_id 01100611.20160421011659332), result snapshot sources/finance/news/bigkinds_2014-06-10_2014-06-16_0437de35.json, accessed 2026-09-25T13:20:05-0400",
+    "BigKinds: YTN 2014-07-10 \"국회 기재위, 최경환 인사청문 보고서 채택\" (news_id 08100401.20140710172631001), result snapshot sources/finance/news/bigkinds_2014-07-08_2014-07-12_d83dab2b.json, accessed 2026-09-25T13:18:51-0400",
+    "nominee_hearing_meetings.csv meeting 44169 (2014-07-08, 기획재정위원회)",
+    "[verifier] Naver News: 연합뉴스 2014-07-10 17:47:44 \"국회, 최경환 후보자 인사청문보고서 채택(종합)\" https://n.news.naver.com/mnews/article/001/0007007568 (snapshot roster/sources/finance/verify/naver_001_0007007568.html, accessed 2026-09-25T21:51:30-0400): \"(서울=연합뉴스) 이귀원 류미나 기자 = 국회 기획재정위는 10일 최경환 경제부총리 겸 기획재정부 장관 후보자에 대한 인사청문 경과보고서를 채택했다.\"",
+    "[verifier] hearing 2014-07-08 matches meeting 44169."
+   ],
+   "notes": "Report adopted 2014-07-10 with both 적격 and 부적격 opinions. The likms record shows no processing date. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "유일호",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2015-12-21",
+   "request_date": "2015-12-23",
+   "likms_bill_id": "ZZ19186",
+   "hearing_dates": [
+    "2016-01-11"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2016-01-13",
+   "sources": [
+    "의안정보시스템 ZZ19186 국무위원후보자(부총리 겸 기획재정부장관 유일호) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_T1O5C1X2G2R3U1T8J1W5S5V9C3X0A6 (rendered text sources/finance/likms/PRC_T1O5C1X2G2R3U1T8J1W5S5V9C3X0A6.txt, accessed 2026-09-25T06:52:57-0400)",
+    "BigKinds: EBN 2015-12-22 \"朴정부 3기 경제팀 ‘경기회복·구조개혁’ 마침표 찍는다\" (news_id 04100958.20151222155108001), result snapshot sources/finance/news/bigkinds_2015-12-18_2015-12-23_c94881f1.json, accessed 2026-09-25T13:20:17-0400",
+    "BigKinds: 경향신문 2016-01-11 \"“탈루 세금 낼 기회 있었는데 왜 안 냈나” 취득세 지적에 “다운계약서는 관행” 강조\" (news_id 01100101.20160111224426136), result snapshot sources/finance/news/bigkinds_2016-01-11_2016-01-13_c1f692ca.json, accessed 2026-09-25T13:17:57-0400",
+    "nominee_hearing_meetings.csv meeting 46031 (2016-01-11, 기획재정위원회)",
+    "[verifier] Naver News: 연합뉴스 2016-01-11 22:38:57 \"국회, 유일호 경제부총리 후보자 인사청문보고서 채택\" https://n.news.naver.com/mnews/article/001/0008110238 (snapshot roster/sources/finance/verify/naver_001_0008110238.html, accessed 2026-09-25T21:51:48-0400): \"(서울=연합뉴스) 홍정규 기자 = 국회 기획재정위원회는 11일 유일호 경제부총리 겸 기획재정부 장관 후보자에 대한 인사청문회를 마치고 인사청문보고서를 채택했다.\"",
+    "[verifier] hearing 2016-01-11 matches meeting 46031."
+   ],
+   "notes": "경향신문 of 2016-01-11 reports the committee adopting the report the same day (single source). The likms record shows no processing date. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "김동연",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2017-05-21",
+   "request_date": "2017-05-23",
+   "likms_bill_id": "ZZ20038",
+   "hearing_dates": [
+    "2017-06-07"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2017-06-09",
+   "sources": [
+    "의안정보시스템 ZZ20038 국무위원후보자(부총리 겸 기획재정부장관 김동연) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_J1O7L0K5D2J3R1C9V3J7V1U4Q2Y7W7 (rendered text sources/finance/likms/PRC_J1O7L0K5D2J3R1C9V3J7V1U4Q2Y7W7.txt, accessed 2026-09-25T06:53:51-0400)",
+    "BigKinds: 브릿지경제 2017-05-22 \"문 대통령, 초대 ‘경제·외교’라인 인사 단행\" (news_id 02100861.20170522003752001), result snapshot sources/finance/news/bigkinds_2017-05-21_2017-05-22_c891e747.json, accessed 2026-09-25T13:21:03-0400",
+    "BigKinds: 브릿지경제 2017-06-09 \"기재위, 김동연 인사청문보고서 채택··· \"전문성·추진력 갖췄다\"\" (news_id 02100861.20170609003723001), result snapshot sources/finance/news/bigkinds_2017-06-07_2017-06-09_04993cd5.json, accessed 2026-09-25T13:18:13-0400",
+    "nominee_hearing_meetings.csv meeting 47147 (2017-06-07, 기획재정위원회)",
+    "[verifier] Naver News: KBS 2017-06-09 13:13:27 \"국회, 김동연 청문 보고서 채택…김이수는 불발\" https://n.news.naver.com/mnews/article/056/0010466126 (snapshot roster/sources/finance/verify/naver_056_0010466126.html, accessed 2026-09-25T21:52:25-0400): \"국회 기획재정위원회는 오늘 오전 전체회의를 열어 김동연 경제부총리 겸 기획재정부 장관 후보자에 대한 인사청문보고서를 채택했습니다.\"",
+    "[verifier] hearing 2017-06-07 matches meeting 47147."
+   ],
+   "notes": "Nominated while the PM post was vacant and 유일호 was 국무총리 직무대행. Report adopted by agreement on the morning of 2017-06-09 (likms 처리일 2017-06-09, recorded as 원안가결). Appointed the same day. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "홍남기",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2018-11-09",
+   "request_date": "2018-11-16",
+   "likms_bill_id": "ZZ20245",
+   "hearing_dates": [
+    "2018-12-04"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2018-12-10",
+   "sources": [
+    "의안정보시스템 ZZ20245 국무위원후보자(부총리 겸 기획재정부장관 홍남기) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q1C8B1L1S1U6P1C1C0I2T0E9Q1O7R4 (rendered text sources/finance/likms/PRC_Q1C8B1L1S1U6P1C1C0I2T0E9Q1O7R4.txt, accessed 2026-09-25T06:58:15-0400)",
+    "BigKinds: 노컷뉴스 2018-11-10 \"홍남기 \"민생회복과 구조개혁 역점…경제활력 찾겠다\"\" (news_id 04100058.20181110120018001), result snapshot sources/finance/news/bigkinds_2018-11-09_2018-11-10_00d0cffd.json, accessed 2026-09-25T13:21:15-0400",
+    "nominee_hearing_meetings.csv meeting 48735 (2018-12-04, 기획재정위원회)",
+    "[verifier] likms ZZ20245 소관위 row '기획재정위원회 2018-11-20 2018-11-27 2018-12-07 경과보고서채택'. Hearing 2018-12-04 matches meeting 48735."
+   ],
+   "notes": "Report adopted 2018-12-07 (likms). [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "추경호",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2022-04-10",
+   "request_date": "2022-04-14",
+   "likms_bill_id": "ZZ21093",
+   "hearing_dates": [
+    "2022-05-02"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-10",
+   "sources": [
+    "의안정보시스템 ZZ21093 국무위원후보자(부총리 겸 기획재정부장관 추경호) 인사청문요청안(대통령당선인), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_C2V2E0K4T1K4T1T7F0D1Z1B8C4G2Y0 (rendered text sources/finance/likms/PRC_C2V2E0K4T1K4T1T7F0D1Z1B8C4G2Y0.txt, accessed 2026-09-25T07:03:03-0400)",
+    "BigKinds: 경북매일신문 2022-04-11 \"추경호 경제사령탑 지명, TK 기대가 크다\" (news_id 01501201.20220411210724002), result snapshot sources/finance/news/bigkinds_2022-04-10_2022-04-11_4efcd339.json, accessed 2026-09-25T13:21:33-0400",
+    "nominee_hearing_meetings.csv meeting 51855 (2022-05-02, 기획재정위원회)",
+    "[verifier] likms ZZ21093 meeting list '제397회 국회(임시회) 제1차 전체회의 2022-05-03 상정/의결(경과보고서채택)'. Hearing 2022-05-02 matches meeting 051855."
+   ],
+   "notes": "Named by 대통령당선인 윤석열 on 2022-04-10, request filed by the 당선인. Report adopted 2022-05-03 (likms). [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "최상목",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2023-12-04",
+   "request_date": "2023-12-07",
+   "likms_bill_id": "ZZ21177",
+   "hearing_dates": [
+    "2023-12-19"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2023-12-29",
+   "sources": [
+    "의안정보시스템 ZZ21177 국무위원후보자(부총리 겸 기획재정부장관 최상목) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_K2I3V1A2R0H7X1K8G5T7R2T6V1F8Q4 (rendered text sources/finance/likms/PRC_K2I3V1A2R0H7X1K8G5T7R2T6V1F8Q4.txt, accessed 2026-09-25T07:07:23-0400)",
+    "BigKinds: 뉴스핌 2023-12-05 \"최상목 경제부총리 지명으로 주목 받는 '서울법대 출신' 경제관료\" (news_id 04100078.20231205164845001), result snapshot sources/finance/news/bigkinds_2023-12-04_2023-12-05_dbd79632.json, accessed 2026-09-25T13:21:51-0400",
+    "nominee_hearing_meetings.csv meeting 53684 (2023-12-19, 기획재정위원회)",
+    "[verifier] Naver News: MBN 2023-12-29 10:57:15 \"윤 대통령, 최상목·송미령·강도형·오영주·김홍일 임명\" https://n.news.naver.com/mnews/article/057/0001789824 (snapshot roster/sources/finance/verify/naver_057_0001789824.html, accessed 2026-09-25T13:23:17-0400): \"최상목 부총리 제외 다른 후보자, 인사청문보고서 채택 안 돼\"",
+    "[verifier] likms ZZ21177 소관위 처리일 2023-12-28 경과보고서채택. Hearing 2023-12-19 matches meeting 053684."
+   ],
+   "notes": "Report adopted 2023-12-28 (likms). 한겨레 of 2023-12-29 counts 김홍일 among appointees without a report, not 최상목. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "구윤철",
+   "office_title": "부총리 겸 기획재정부장관",
+   "nomination_date": "2025-06-29",
+   "request_date": "2025-07-03",
+   "likms_bill_id": "ZZ22063",
+   "hearing_dates": [
+    "2025-07-17"
+   ],
+   "hearing_committee": "기획재정위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-19",
+   "sources": [
+    "의안정보시스템 ZZ22063 국무위원후보자(부총리 겸 기획재정부장관 구윤철) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_D2Z5H0F7R0S3G1L7V5M6M2S1Q8N7Q5 (rendered text sources/finance/likms/PRC_D2Z5H0F7R0S3G1L7V5M6M2S1Q8N7Q5.txt, accessed 2026-09-25T12:56:25-0400)",
+    "BigKinds: 이데일리 2025-07-02 \"마무리 단계 접어든 李정부 첫 조각…금융당국 수장 누가 올까\" (news_id 04101008.20250702102401001), result snapshot sources/finance/news/bigkinds_2025-06-24_2025-07-02_15d47e8c.json, accessed 2026-09-25T13:22:33-0400",
+    "BigKinds: 데일리안 2025-07-17 \"[인사청문회] 구윤철 후보자 “법인세 종합 검토…기재부 AI국 신설”\" (news_id 04100158.20250717142047001), result snapshot sources/finance/news/bigkinds_2025-07-16_2025-07-17_31172ceb.json, accessed 2026-09-25T13:19:21-0400",
+    "BigKinds: 이데일리 2025-07-18 \"李대통령, 정성호·구윤철·조현·김정관 장관 임명 재가(상보)\" (news_id 04101008.20250718203844001), result snapshot sources/finance/news/bigkinds_2025-07-15_2025-07-18_88471ec2.json, accessed 2026-09-25T13:19:05-0400",
+    "[verifier] Naver News: 연합뉴스 2025-06-29 16:20:44 \"[프로필] 李정부 초대 경제사령탑 구윤철…확장재정 이끌 '예산통'\" https://n.news.naver.com/mnews/article/001/0015476789 (snapshot roster/sources/finance/verify/naver_001_0015476789.html, accessed 2026-09-25T21:46:43-0400): \"(서울=연합뉴스) 대통령실은 29일 이재명 대통령이 신임 기획재정부 장관 후보자에 구윤철 전 국무조정실장을 지명했다고 강훈식 대통령비서실장의 인사브리핑을 통해 발표했다.\"",
+    "[verifier] Naver News: 아시아경제 2025-07-18 20:47:23 \"李대통령, 정성호·구윤철·조현·김정관 장관 임명안 재가(종합)\" https://n.news.naver.com/mnews/article/277/0005624837 (snapshot roster/sources/finance/verify/naver_277_0005624837.html, accessed 2026-09-25T13:45:36-0400): \"아울러 국회 기획재정위원회·외교통일위원회·산업통상자원중소벤처기업위원회는 이날 오전 전체 회의를 열고 구윤철 경제부총리 겸 기재부 장관, 조현 외교부 장관, 김정관 산업부 장관 후보자에 대한 청문 보고서를 채택했다.\"",
+    "[verifier] likms ZZ22063 meeting list includes 제427회 국회(임시회) 제3차 전체회의 2025-07-17 (hearing day) and 처리일 2025-07-18 경과보고서채택."
+   ],
+   "notes": "Report adopted 2025-07-18 (likms). The President approved the appointment on the evening of 2025-07-18 and the gazette dates the appointment 2025-07-19 (outcome_date follows the gazette). nominee_hearing_meetings.csv ends in 2025-01, so the hearing date comes from news of 2025-07-17 and the likms meeting list (전체회의 2025-07-17). [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  },
+  {
+   "nominee": "이형일",
+   "office_title": "부총리 겸 재정경제부장관",
+   "nomination_date": "2026-08-30",
+   "request_date": "2026-09-03",
+   "likms_bill_id": "ZZ22131",
+   "hearing_dates": [
+    "2026-09-15"
+   ],
+   "hearing_committee": "재정경제기획위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2026-09-22",
+   "sources": [
+    "의안정보시스템 ZZ22131 국무위원후보자(부총리 겸 재정경제부장관 이형일) 인사청문요청안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V2H6J0L9Y0Q3Y1Y8B3U2F4T9P4B9N4 (rendered text sources/finance/likms/PRC_V2H6J0L9Y0Q3Y1Y8B3U2F4T9P4B9N4.txt, accessed 2026-09-25T12:58:27-0400)",
+    "BigKinds: 매일경제 2026-09-07 \"이형일 부총리 후보자 “이번주에 ‘추석 민생안정대책’ 보완해 발표”\" (news_id 02100101.20260907141826001), result snapshot sources/finance/news/bigkinds_2026-08-01_2026-09-10_3f7a1b56.json, accessed 2026-09-25T13:14:44-0400",
+    "BigKinds: 머니투데이 2026-09-08 \"여야, 이형일·홍지선 인사청문계획서 채택…15일부터 양일간 검증\" (news_id 02100201.20260908155143001), result snapshot sources/finance/news/bigkinds_2026-08-01_2026-09-10_3f7a1b56.json, accessed 2026-09-25T13:14:44-0400",
+    "BigKinds: 조선일보 2026-09-23 \"李, 순방 중에 ‘특공 신공’ 강신철 임명안 재가\" (news_id 01100801.20260923005111001), result snapshot sources/finance/news/bigkinds_2026-09-17_2026-09-24_6dfcd32b.json, accessed 2026-09-25T13:15:18-0400",
+    "[verifier] 정책브리핑 korea.kr (tier 2): \"인사 발표 관련 강훈식 비서실장 브리핑\" https://www.korea.kr/briefing/presidentView.do?newsId=148970851 published 2026-08-30T13:04:23+09:00 (snapshot roster/sources/finance/verify/korea_148970851.html, accessed 2026-09-25T13:10:43-0400): \"경제부총리 겸 재정경제부 장관 후보자는 이형일 현 재정경제부 1차관입니다.\"",
+    "[verifier] Naver News: 연합뉴스 2026-08-30 13:04:18 \"신임 법무장관 후보에 김승원 지명…재경 이형일·국방 강신철(종합)\" https://n.news.naver.com/mnews/article/001/0016278735 (snapshot roster/sources/finance/verify/naver_001_0016278735.html, accessed 2026-09-25T21:47:37-0400): \"부총리 겸 재정경제부 장관 후보자로는 이형일 현 재정경제부 1차관이 지명됐다.\"",
+    "[verifier] Naver News: 뉴스1 2026-09-17 09:50:36 \"여야, 이형일 재경부 장관 후보자 청문보고서 합의 채택\" https://n.news.naver.com/mnews/article/421/0009175697 (snapshot roster/sources/finance/verify/naver_421_0009175697.html, accessed 2026-09-25T21:48:04-0400): \"이형일 부총리 겸 재정경제부 장관 후보자가 지난 15일 서울 여의도 국회 재정경제기획위원회 인사청문회에 출석해 의원 질의에 답하고 있다.\"",
+    "[verifier] Naver News: 뉴스1 2026-09-17 14:42:29 \"김승원·이형일·강신철 보고서 채택…국토 홍지선·중기 이소영 보류(종합)\" https://n.news.naver.com/mnews/article/421/0009176940 (snapshot roster/sources/finance/verify/naver_421_0009176940.html, accessed 2026-09-25T21:47:54-0400): \"다만 재정경제기획위원회는 이날 오전 여야 합의로 이형일 후보자의 인사청문경과보고서를 채택했다.\""
+   ],
+   "notes": "Nominated in the 2026-08-30 reshuffle (매일경제 2026-09-07 \"지난달 30일 ... 지명된\"). likms lists the 재정경제기획위원회 meetings of 2026-09-08 (plan), 2026-09-15 (hearing) and 2026-09-17 (report, 처리결과 채택). News of 2026-09-08 says the 이형일 and 홍지선 hearings were scheduled over two days from 09-15. Appointment approved 2026-09-22 KST. [verifier] request date, hearing date(s), report status and outcome re-checked, no change."
+  }
+ ],
+ "acting": [
+  {
+   "name": "이헌재",
+   "role": "재정경제부장관, 국무총리 직무대행 (정부조직법 제22조)",
+   "from": "2000-05-19",
+   "to": "2000-05-22",
+   "sources": [
+    "BigKinds: 매일경제 2000-05-20 \"박태준총리 사퇴, 후임 내주 임명...이재경장관 직무대행\" (news_id 02100101.20160115162603747), result snapshot sources/finance/news/bigkinds_2000-05-17_2000-05-25_437fc129.json, accessed 2026-09-25T13:37:00-0400",
+    "BigKinds: 문화일보 2000-05-20 \"李憲宰 장관-총리대행 '1인2역'\" (news_id 01100501.20000520000000304), result snapshot sources/finance/news/bigkinds_2000-05-17_2000-05-25_437fc129.json, accessed 2026-09-25T13:37:00-0400",
+    "BigKinds: 인천일보 2000-05-24 \"공동정부 공조 원칙 거듭 강조\" (news_id 01200401.20000524003348006), result snapshot sources/finance/news/bigkinds_2000-05-22_2000-05-24_3ca980d4.json, accessed 2026-09-25T13:38:20-0400"
+   ],
+   "notes": "박태준's resignation was accepted on 2000-05-19 and the acting arrangement started formally on 05-20 (문화일보). Ends with the appointment of 국무총리서리 이한동 (PM lineage has the exact date)."
+  },
+  {
+   "name": "이헌재",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2004-05-25",
+   "to": "2004-06-29",
+   "sources": [
+    "BigKinds: 세계일보 2004-05-26 \"총리 직대만 2번째 이헌재부총리 기연..DJ정부서 나흘간 맡아\" (news_id 01100701.20040526000000501), result snapshot sources/finance/news/bigkinds_2004-05-24_2004-05-27_d4173d86.json, accessed 2026-09-25T13:27:20-0400",
+    "BigKinds: 중도일보 2004-07-01 \"‘한국정치는 50대 전성시대’\" (news_id 01400351.20040701090203016), result snapshot sources/finance/news/bigkinds_2004-06-29_2004-07-01_e9da6165.json, accessed 2026-09-25T13:27:32-0400"
+   ],
+   "notes": "From the acceptance of 고건's resignation to the day before 이해찬 received the 임명장 (2004-06-30)."
+  },
+  {
+   "name": "김광림",
+   "role": "재정경제부차관, de facto head during the vacancy (no formal 직무대행 designation found)",
+   "from": "2005-03-08",
+   "to": "2005-03-14",
+   "sources": [
+    "BigKinds: 국제신문 2005-03-10 \"＂벤처활성화 대책 계속 추진＂\" (news_id 01500401.20050310212936001), result snapshot sources/finance/news/bigkinds_2005-03-08_2005-03-14_810a94a0.json, accessed 2026-09-25T13:07:50-0400",
+    "BigKinds: 전북일보 2005-03-10 \"코스닥시장 가격변동폭 28일부터 15%로 확대\" (news_id 01601101.20050310055112101), result snapshot sources/finance/news/bigkinds_2005-03-08_2005-03-14_810a94a0.json, accessed 2026-09-25T13:07:50-0400",
+    "BigKinds: 이데일리 2005-03-09 \"\"李부총리, 지금도 업무챙겨..금융지표 우려\"(7보)\" (news_id 04101008.20160311091956499), result snapshot sources/finance/news/bigkinds_2005-03-06_2005-03-09_2ae6654a.json, accessed 2026-09-25T13:04:01-0400"
+   ],
+   "notes": "After 이헌재's resignation was accepted (2005-03-07) 김광림 chaired the 간부회의 and briefed on policy continuity on 2005-03-09. 이데일리 of 03-09 also reports 이헌재 still handling matters while the resignation was processed."
+  },
+  {
+   "name": "한덕수",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2006-03-16",
+   "to": "2006-04-19",
+   "sources": [
+    "BigKinds: 세계일보 2006-03-16 \"한덕수 직대체제 어떻게\" (news_id 01100701.20060316100002029), result snapshot sources/finance/news/bigkinds_2006-03-15_2006-03-16_dd3f17ec.json, accessed 2026-09-25T13:29:28-0400",
+    "BigKinds: 서울경제 2006-04-19 \"한덕수 부총리, 다시 경제에 전념\" (news_id 02100311.20160317233646911), result snapshot sources/finance/news/bigkinds_2006-03-14_2006-04-20_0c980ad7.json, accessed 2026-09-25T13:26:03-0400",
+    "BigKinds: 국제신문 2006-04-21 \"한 총리 ＂지친이들 감싸는 민생총리 되겠다＂\" (news_id 01500401.20060421141303001), result snapshot sources/finance/news/bigkinds_2006-04-19_2006-04-21_585b3509.json, accessed 2026-09-25T13:28:33-0400",
+    "[verifier] Naver News: 연합뉴스 2006-03-16 16:15:00 \"<한 총리대행 \"국정 차질없도록 할 것\">\" https://n.news.naver.com/mnews/article/001/0001246918 (snapshot roster/sources/finance/verify/naver_001_0001246918.html, accessed 2026-09-25T21:50:35-0400): \"부 중앙청사로 출근, 기자들의 각오를 묻는 질문에 이 같이 답하고, 총리 집무실이 아닌 평소 중앙청사 회의때 사용해왔던 부총리 별도 집무실에서 직무대행으로서 첫날 업무를 시작했다.\""
+   ],
+   "notes": "이해찬's resignation was accepted on 2006-03-15. A 2006-04-19 report says the acting period ran 'from the 16th of last month', so the start may be 2006-03-16 (the PM lineage uses 03-16). 한명숙 received the 임명장 on 2006-04-20. [verifier] from corrected to 2006-03-16 (first day of acting duty per 연합뉴스 2006-03-16)."
+  },
+  {
+   "name": "권오규",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2007-03-07",
+   "to": "2007-04-02",
+   "sources": [
+    "BigKinds: 매일경제 2007-03-07 \"정부, 권오규 총리직대 체제 가동\" (news_id 02100101.20160119152908879), result snapshot sources/finance/news/bigkinds_2007-03-01_2007-04-10_ba7da735.json, accessed 2026-09-25T13:32:28-0400",
+    "BigKinds: 강원도민일보 2007-03-08 \"권오규 부총리 총리직무 대행\" (news_id 01300101.20070308141849002), result snapshot sources/finance/news/bigkinds_2007-03-01_2007-04-10_ba7da735.json, accessed 2026-09-25T13:32:28-0400",
+    "BigKinds: 중부매일 2007-04-04 \"5-설2\" (news_id 01400401.20070404151023001), result snapshot sources/finance/news/bigkinds_2007-04-01_2007-04-04_b5770df5.json, accessed 2026-09-25T13:28:51-0400"
+   ],
+   "notes": "한명숙 formally resigned on 2007-03-07. 한덕수 received the PM 임명장 on the morning of 2007-04-03."
+  },
+  {
+   "name": "윤증현",
+   "role": "기획재정부장관, 국무총리 직무대행 (first in the 국무위원 order, no 부총리 existed)",
+   "from": "2010-08-11",
+   "to": "2010-09-30",
+   "sources": [
+    "BigKinds: 서울경제 2010-08-09 \"尹재정, 11일부터 총리 직무대행\" (news_id 02100311.20160316105308661), result snapshot sources/finance/news/bigkinds_2010-07-25_2010-10-05_6b61a2e4.json, accessed 2026-09-25T13:32:36-0400",
+    "BigKinds: 뉴스핌 2010-08-10 \"윤증현 장관, 내일부터 총리직무 대행 - 재정부\" (news_id 04100078.20160223201250136), result snapshot sources/finance/news/bigkinds_2010-07-25_2010-10-05_6b61a2e4.json, accessed 2026-09-25T13:32:36-0400",
+    "BigKinds: 동아일보 2010-10-02 \"김황식 총리 인준안 통과\" (news_id 01100401.20101002033255074), result snapshot sources/finance/news/bigkinds_2010-09-30_2010-10-02_4c918f22.json, accessed 2026-09-25T13:31:52-0400"
+   ],
+   "notes": "From 정운찬's 이임식 (2010-08-11) until 김황식 received the 임명장 on 2010-10-01, including the period after 김태호's nomination collapsed."
+  },
+  {
+   "name": "최경환",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2015-04-27",
+   "to": "2015-06-17",
+   "sources": [
+    "BigKinds: YTN 2015-04-28 \"'총리 대행' 최경환 부총리, 공직기강 강조\" (news_id 08100401.20150428113537001), result snapshot sources/finance/news/bigkinds_2015-04-26_2015-04-29_f7c48508.json, accessed 2026-09-25T13:34:13-0400",
+    "BigKinds: 노컷뉴스 2015-06-18 \"황 총리, 취임도 전에 '메르스' 행보…무기한 비상근무\" (news_id 04100058.20150618164811013), result snapshot sources/finance/news/bigkinds_2015-04-20_2015-06-20_f5b818e9.json, accessed 2026-09-25T13:32:48-0400",
+    "의안정보시스템 1915276 국무총리(황교안) 임명동의안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Z1G5G0E5B2J6R1H7Y5M4Z0D0W3R9R8 (rendered text sources/finance/likms/PRC_Z1G5G0E5B2J6R1H7Y5M4Z0D0W3R9R8.txt, accessed 2026-09-24T22:50:46-0400)"
+   ],
+   "notes": "Reports of 2015-04-26/27 expected 이완구's resignation to be accepted on the 27th or 28th and YTN of 2015-04-28 already calls 최경환 '총리 대행'. The exact acceptance date was not confirmed here (the PM lineage uses 2015-04-27). 황교안's consent passed 2015-06-18 and he took office that day."
+  },
+  {
+   "name": "유일호",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2017-05-11",
+   "to": "2017-05-30",
+   "sources": [
+    "BigKinds: 중부일보 2017-05-12 \"문재인 대통령, 황교안·박승춘 사표 수리… 김수남 총장도 사의\" (news_id 01400501.20170512184420001), result snapshot sources/finance/news/bigkinds_2017-05-10_2017-06-10_54d2eea8.json, accessed 2026-09-25T13:24:41-0400",
+    "BigKinds: 이데일리 2017-05-11 \"黃총리 오늘 이임식..당분간 유일호 부총리가 직무대행(상보)\" (news_id 04101008.20170511130657001), result snapshot sources/finance/news/bigkinds_2017-05-10_2017-06-02_b5b5fa03.json, accessed 2026-09-25T13:33:00-0400",
+    "의안정보시스템 2006874 국무총리(이낙연) 임명동의안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L1T7G0Q5W1E2J1L7N2L7F0G0P8T2X1 (rendered text sources/finance/likms/PRC_L1T7G0Q5W1E2J1L7N2L7F0G0P8T2X1.txt, accessed 2026-09-24T22:50:59-0400)"
+   ],
+   "notes": "황교안's resignation was accepted 2017-05-11. The 이낙연 consent motion passed the plenary on 2017-05-31 (likms). 청와대 asked him, as acting PM, to exercise the PM's power to recommend 국무위원 for the new cabinet (매일경제 2017-05-17, same snapshot)."
+  },
+  {
+   "name": "홍남기",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2021-04-17",
+   "to": "2021-05-13",
+   "sources": [
+    "BigKinds: 강원도민일보 2021-04-16 \"홍남기(춘천) 경제부총리 17일부터 총리 직무대행\" (news_id 01300101.20210416163951001), result snapshot sources/finance/news/bigkinds_2021-04-15_2021-04-18_935d99ea.json, accessed 2026-09-25T13:49:34-0400",
+    "BigKinds: SBS 2021-05-15 \"김부겸 총리 업무 시작…\"부동산 정책, 더 실망 않도록\"\" (news_id 08100301.20210515073036001), result snapshot sources/finance/news/bigkinds_2021-05-13_2021-05-15_4f755f0d.json, accessed 2026-09-25T13:50:24-0400",
+    "[verifier] Naver News: 이데일리 2021-04-16 16:19:40 \"文대통령, 정세균·변창흠 사표 수리…홍남기·윤성원 대행\" https://n.news.naver.com/mnews/article/018/0004903835 (snapshot roster/sources/finance/verify/naver_018_0004903835.html, accessed 2026-09-25T21:49:54-0400): \"발령일자는 내일인데, 아마 내일부터 직무대행체제로 들어간다”고 설명했다.\""
+   ],
+   "notes": "강원도민일보 of 2021-04-16 says the acting role starts on the 17th, after 정세균's resignation. 김부겸 received the 임명장 on 2021-05-14. The PM lineage partial gives 2021-04-16 as the start. [verifier] 이데일리 2021-04-16 quotes the government saying the 발령일자 is the next day and the acting arrangement starts then, which supports 04-17. The PM lineage ends 정세균 on 2021-04-16 and starts the acting period on 04-16, a cross-lineage difference of one day left for the PM lineage to resolve."
+  },
+  {
+   "name": "추경호",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2022-05-12",
+   "to": "2022-05-20",
+   "sources": [
+    "BigKinds: 경향신문 2022-05-12 \"김부겸 국무총리 오늘 퇴임, 추경호 부총리가 직무대행···‘장관 임명’ 강행하나?\" (news_id 01100101.20220512074952001), result snapshot sources/finance/news/bigkinds_2022-05-10_2022-05-23_7d916cf8.json, accessed 2026-09-25T13:33:49-0400",
+    "BigKinds: 아시아투데이 2022-05-20 \"[포토] 답변하는 추경호 총리 직무대행\" (news_id 01100751.20220520104933003), result snapshot sources/finance/news/bigkinds_2022-05-10_2022-05-23_7d916cf8.json, accessed 2026-09-25T13:33:49-0400",
+    "의안정보시스템 2115540 국무총리(한덕수) 임명동의안(대통령), https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_U2Y2R0R5F1T0F1A9B0P9Y1L9A6L4C2 (rendered text sources/finance/likms/PRC_U2Y2R0R5F1T0F1A9B0P9Y1L9A6L4C2.txt, accessed 2026-09-24T22:51:40-0400)"
+   ],
+   "notes": "김부겸 left on 2022-05-12. The 한덕수 consent motion passed on 2022-05-20 (likms). The PM appointment date belongs to the PM lineage."
+  },
+  {
+   "name": "최상목",
+   "role": "부총리 겸 기획재정부장관, 대통령 권한대행 and 국무총리 직무대행 (while remaining minister)",
+   "from": "2024-12-27",
+   "to": "2025-03-24",
+   "sources": [
+    "offices.json presidential_transitions.acting_presidents (최상목 2024-12-27 17:19 .. 2025-03-24, sources YNA_20241227, MBC_20241227, CC_2024HN9, KHAN_20250324)"
+   ],
+   "notes": "Began when the impeachment resolution against acting president 한덕수 was delivered (2024-12-27 17:19). Ended when the 헌법재판소 dismissed the PM impeachment (2024헌나9) on 2025-03-24."
+  },
+  {
+   "name": "김범석",
+   "role": "기획재정부 제1차관, 장관 직무대행",
+   "from": "2025-05-02",
+   "to": "2025-06-10",
+   "sources": [
+    "BigKinds: 환경일보 2025-06-02 \"기재부-GGGI, 글로벌 자발적 탄소시장 구축 협력\" (news_id 07100502.20250602120908004), result snapshot sources/finance/news/bigkinds_2025-05-02_2025-07-19_db10de8e.json, accessed 2026-09-25T13:16:06-0400",
+    "BigKinds: 이투데이 2025-06-11 \"[단독] 李대통령 \"대·중소 상생협력 살펴보라\"…기재부, 상생기금·기업 기술탈취 대책 검토\" (news_id 02100351.20250611144030001), result snapshot sources/finance/news/bigkinds_2025-05-02_2025-07-19_db10de8e.json, accessed 2026-09-25T13:16:06-0400",
+    "BigKinds: 뉴스핌 2025-06-13 \"[세종25시] '고별의 시간' 맞이한 기재부 전 차관들의 작별 인사\" (news_id 04100078.20250613150448001), result snapshot sources/finance/news/bigkinds_2025-06-01_2025-06-15_2e6e7257.json, accessed 2026-09-25T13:16:36-0400",
+    "관보 제21014호 (published 2025-06-16) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20250616_21014_I0000000000000001749596840710000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001749722862893000&tocId=I0000000000000001749596840710000&isTocOrder=N, accessed 2026-09-25T13:06:29-0400"
+   ],
+   "notes": "From 최상목's resignation until his successor as 1차관 (이형일) was appointed on 2025-06-11 (gazette). The day 김범석 left was not found, so 'to' is the day before 이형일's appointment."
+  },
+  {
+   "name": "이형일",
+   "role": "기획재정부 제1차관, 장관 직무대행",
+   "from": "2025-06-11",
+   "to": "2025-07-18",
+   "sources": [
+    "관보 제21014호 (published 2025-06-16) 인사발령(인사혁신처), snapshot sources/finance/gazette/gz_20250616_21014_I0000000000000001749596840710000.pdf (+.txt), viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001749722862893000&tocId=I0000000000000001749596840710000&isTocOrder=N, accessed 2026-09-25T13:06:29-0400",
+    "BigKinds: 뉴스핌 2025-07-15 \"이형일 기획재정부 장관 직무대행, 'MSCI 선진국 지수 편입추진 전담반 회의' 주재\" (news_id 04100078.20250715170908001), result snapshot sources/finance/news/bigkinds_2025-06-01_2025-07-19_d9381db5.json, accessed 2026-09-25T13:16:22-0400",
+    "BigKinds: 세계일보 2025-07-18 \"기재1차관 “새로운 통상전략을 마련해 적극 추진할 것”\" (news_id 01100701.20250718163824001), result snapshot sources/finance/news/bigkinds_2025-06-01_2025-07-19_d9381db5.json, accessed 2026-09-25T13:16:22-0400"
+   ],
+   "notes": "1차관 from 2025-06-11 (관보 제21014호). Described as 장관 직무대행 through 2025-07-18. The gazette dates 구윤철's appointment 2025-07-19."
+  }
+ ],
+ "issues": [
+  {
+   "severity": "low",
+   "desc": "Vacancy 1998-02-28..1998-03-02 between 임창열 (부총리 겸 재정경제원장관, end 1998-02-27) and 이규성 (start 1998-03-03). There was no acting head. The new 재정경제부 had neither minister nor vice minister until the 1998-03-03 cabinet (BigKinds: 세계일보 1998-03-02 \"정부에 유령부처까지…/재경부등 7곳 장관없어 대혼란/조직법 공포\" (news_id 01100701.19980302000000105), result snapshot sources/finance/news/bigkinds_1998-02-27_1998-03-02_b0a79311.json, accessed 2026-09-25T12:58:10-0400, and BigKinds: 서울신문 1998-03-02 \"7부처 장관 공석 국정 혼란/새 정부조직법 공포\" (news_id 01100611.20160421191937667), result snapshot sources/finance/news/bigkinds_1998-02-27_1998-03-02_b0a79311.json, accessed 2026-09-25T12:58:10-0400)."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancy 2005-03-08..2005-03-14 between 이헌재 (부총리 겸 재정경제부장관, end 2005-03-07) and 한덕수 (start 2005-03-15). Acting heads were 김광림 (재정경제부차관, de facto head during the vacancy (no formal 직무대행 designation found))."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancy 2025-05-02..2025-07-18 between 최상목 (부총리 겸 기획재정부장관, end 2025-05-01) and 구윤철 (start 2025-07-19). Acting heads were 김범석 (기획재정부 제1차관, 장관 직무대행), 이형일 (기획재정부 제1차관, 장관 직무대행)."
+  },
+  {
+   "severity": "low",
+   "desc": "Apart from the vacancies above, every handover is contiguous (next start = previous end, or the next day). The same-day handovers are 전윤철/김진표 2003-02-27, 김진표/이헌재 2004-02-11, 한덕수/권오규 2006-07-18, 강만수/윤증현 2009-02-10, 윤증현/박재완 2011-06-02, 박재완/현오석 2013-03-22, 현오석/최경환 2014-07-16, 최경환/유일호 2016-01-13, 유일호/김동연 2017-06-09, 김동연/홍남기 2018-12-10, 홍남기/추경호 2022-05-10, 추경호/최상목 2023-12-29, 구윤철/이형일 2026-09-22, plus 강봉균/이헌재 2000-01-14 and 이헌재/진념 2000-08-07."
+  },
+  {
+   "severity": "medium",
+   "desc": "Spells are split at the two title changes that did not rename the ministry. These are 진념 on 2001-01-29 (재정경제부장관 → 부총리 겸 재정경제부장관, 법률 제6400호) and 현오석 on 2013-03-23 (기획재정부장관 → 부총리 겸 기획재정부장관, 법률 제11690호). In both cases a new appointment was made (news of 2001-01-30, 관보 제17983호), so the second spell has reorg_continuation=true and reappointed_on_reorg=true. This follows the convention used by the education lineage for 황우여 in 2014. Merge them if spells must change only with the ministry name."
+  },
+  {
+   "severity": "medium",
+   "desc": "For the start of 구윤철, the President approved the appointment on the evening of 2025-07-18 and ko.wikipedia gives 07-18, but the gazette notice (관보 제21043호) is dated 2025-07-19, like those of 조현 and 김정관 in the same item. The gazette date is used with start_confidence medium. 최경환 in 2014 shows the same pattern (approval 07-15, gazette 07-16)."
+  },
+  {
+   "severity": "medium",
+   "desc": "이형일 (appointed 2026-09-22) has no gazette notice yet. The harvest ended 2026-09-25 with a single 2026-09 인사 item. Re-check the gazette after publication. His gender is not stated in any source consulted and is left null."
+  },
+  {
+   "severity": "medium",
+   "desc": "Pre-2001 dates rest on news only (no digital gazette). 이헌재 2000 start is the 임명장 date 2000-01-14, while the appointment was announced 2000-01-13. 임창열 start 1997-11-19 is before the window and comes from news of 1997-11-20."
+  },
+  {
+   "severity": "medium",
+   "desc": "1998-02-28..1998-03-02: 재정경제부 had no minister or vice minister after the new 정부조직법 took effect (news of 1998-03-02). 임창열 did not carry over. The spell of 임창열 ends 1998-02-27 per offices.json, although the law was promulgated in the afternoon of 1998-02-28."
+  },
+  {
+   "severity": "medium",
+   "desc": "For the 2005 end of 이헌재, 청와대 announced acceptance of the resignation on 2005-03-07, but 이데일리 of 2005-03-09 says the administrative processing was still under way. The formal 면직 date was not found."
+  },
+  {
+   "severity": "medium",
+   "desc": "권오규 end is set to 2008-02-28 (last day of 재정경제부 per offices.json). His 이임식 took place on the morning of 2008-02-29, the day 법률 제8852호 took effect and 강만수 was appointed."
+  },
+  {
+   "severity": "low",
+   "desc": "Ends set to the successor's start (end_confidence inferred_from_successor) where the 이임식 fell a day earlier or no exit date was found. This applies to 윤증현 (이임식 2011-06-01), 현오석, 최경환 (이임식 2016-01-12), 유일호 (이임식 2017-06-12, after the successor), 홍남기 (이임식 2022-05-09, last day of the 문재인 presidency), 추경호 (이임식 2023-12-28), 구윤철 2026, 이헌재 2000. When presidential transitions are applied in code, 홍남기 will get a one-day 윤석열-era slice (2022-05-10) that may be an artefact."
+  },
+  {
+   "severity": "low",
+   "desc": "Corrections to secondary sources and the old panel follow. ko.wikipedia gives 이규성 1998-03-05 (news shows 03-03), 한덕수 2005-03-14 (gazette shows 03-15), 이헌재 2004-02-10 (gazette shows 02-11) and 구윤철 2025-07-18 (gazette shows 07-19). The old panel (spells as quoted in audit/coverage_gaps.csv) has 김진표 2003-02-27..2004-01-09, 이헌재 2004-01-09..2004-07-01, 한덕수 2004-07-01..2006-07-03, 권오규 2006-07-03..2008-02-24, 유일호 2016-01-13..2017-03-10, 김동연 2017-06-09..2018-12-07, 홍남기 2018-12-07..2022-05-09 and 최상목 from 2023-12-28, and lacks the 김대중-era spells of 진념 and 전윤철. All are superseded here."
+  },
+  {
+   "severity": "low",
+   "desc": "Birth dates are secondary (ko.wikipedia or the NA member file). Wikidata disagrees for 최상목 (1960-03-13 vs 1963-06-07), 구윤철 (1965-01-01 placeholder) and 최경환 (1955-06-22 vs 1955-02-27). English names are Wikidata labels, not official romanizations."
+  },
+  {
+   "severity": "low",
+   "desc": "The 강만수 hearing request (ZZ1903) names 부총리 겸 재정경제부장관 because the 당선인 filed it before the 2008 reorganization. He was appointed 기획재정부장관. The 현오석 request (ZZ19050) names 기획재정부장관 though he was named as 경제부총리."
+  },
+  {
+   "severity": "low",
+   "desc": "No withdrawn or failed nomination for this lineage was found in the likms harvest (13 finance hearing requests, all ending in appointment) or in news for 2025-2026."
+  },
+  {
+   "severity": "low",
+   "desc": "In the transcript cross-check, every person who speaks with a 재정경제부/기획재정부 minister title in valid-type meetings (상임위원회, 국정감사, 인사청문특별위원회) is in the roster. The only row outside that person's finance spells is 김진표 on 2005-08-17 (a speaker-label error, see his transcript_notes). audit/coverage_gaps.csv leads for this lineage (진념 2000-2002, 전윤철, 이헌재 2000, off-spell rows of 김진표, 한덕수, 유일호, 김동연) are all covered by the spells above."
+  },
+  {
+   "severity": "low",
+   "desc": "For 2026, 김민석 left the PM post on 2026-07-01 and 한성숙 took office the same day, so no finance minister acted as PM in 2026. No finance-lineage resignation to run in the 2026-06-03 local elections was found."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Resolved. The formal acceptance of 이헌재's 2005 resignation is 2005-03-07 (SBS, 국민일보, 세계일보 of that day). end_confidence raised to high."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Resolved. The one-day 윤석열-era slice of 홍남기 (2022-05-10) is real. MBC 2022-05-09 reports that 문재인 did not accept his resignation on 05-09."
+  },
+  {
+   "severity": "medium",
+   "desc": "[verifier] end_reason changed to resigned_to_run for 최경환 (2016) and 추경호 (2023), sitting NA members who left in reshuffles designed for the next general election and were re-elected. This aligns the finance lineage with 황우여, 정종섭, 윤상직, 박진 and 이영 in other lineages. The oceans lineage still codes 조승환 (2023-12) as replaced, so the convention is not yet uniform across lineages."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Acting-PM periods of this lineage agree with pm.json except 홍남기 2021 (finance 04-17, pm 04-16). 한덕수 2006 was corrected to 03-16 to match pm.json and 연합뉴스 2006-03-16."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] 이형일 (appointed 2026-09-22) still has no gazette notice. A live gazette query on 2026-09-25 found no 인사 item published after 2026-09-18."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Nominations exist for every appointment except the two reorganisation re-appointments without a separate announcement (현오석 2013-03-23, 구윤철 2026-01-02). The builder does list 진념 2001-01-29 as a nomination because that promotion was announced as a new appointment. This is a convention difference, not an omission."
+  }
+ ],
+ "built_at_original": "2026-09-25T14:00:43-0400",
+ "verification": {
+  "verified_at": "2026-09-25T22:07:15-0400",
+  "verifier": "adversarial verifier, lineage finance",
+  "per_spell": {
+   "임창열|1997-11-19": "confirmed",
+   "이규성|1998-03-03": "confirmed",
+   "강봉균|1999-05-24": "confirmed",
+   "이헌재|2000-01-14": "confirmed",
+   "진념|2000-08-07": "confirmed",
+   "진념|2001-01-29": "confirmed",
+   "전윤철|2002-04-15": "confirmed",
+   "김진표|2003-02-27": "confirmed",
+   "이헌재|2004-02-11": "corrected",
+   "한덕수|2005-03-15": "confirmed",
+   "권오규|2006-07-18": "confirmed",
+   "강만수|2008-02-29": "confirmed",
+   "윤증현|2009-02-10": "confirmed",
+   "박재완|2011-06-02": "confirmed",
+   "현오석|2013-03-22": "confirmed",
+   "현오석|2013-03-23": "confirmed",
+   "최경환|2014-07-16": "corrected",
+   "유일호|2016-01-13": "confirmed",
+   "김동연|2017-06-09": "confirmed",
+   "홍남기|2018-12-10": "confirmed",
+   "추경호|2022-05-10": "corrected",
+   "최상목|2023-12-29": "confirmed",
+   "구윤철|2025-07-19": "corrected",
+   "구윤철|2026-01-02": "confirmed",
+   "이형일|2026-09-22": "confirmed"
+  },
+  "changes": [
+   {
+    "spell": "이헌재|2004-02-11",
+    "name": "이헌재",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "SBS 2005-03-07 ('노무현 대통령은 오늘(7일) 이헌재 부총리의 사표를 수리했습니다'), 국민일보 2005-03-07 and 세계일보 2005-03-07 all report the acceptance of the resignation on 03-07 (verifier sources on this spell). The builder's reason for medium (이데일리 2005-03-09 on administrative processing) does not move the acceptance date."
+   },
+   {
+    "spell": "구윤철|2025-07-19",
+    "name": "구윤철",
+    "field": "start_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "관보 제21043호 prints '2025.7.19.' on his own per-person line (re-read). The approval on the evening of 07-18 took effect on 07-19, the same pattern as 최경환 in 2014 (approval 07-15, gazette 07-16). The foreign, industry and justice lineages rate 조현, 김정관 and 정성호 of the same gazette item 'high'."
+   },
+   {
+    "spell": "최경환|2014-07-16",
+    "name": "최경환",
+    "field": "end_reason",
+    "old": "replaced",
+    "new": "resigned_to_run",
+    "evidence": "조선비즈 2015-12-21 '이번에 교체된 대상들은 모두 내년 총선 출마를 계획하고 있다', 뉴시스 2015-12-21 on the 2016-01-14 resignation deadline for the 20대 총선, 연합뉴스 2016-01-12 '경제를 바꾸러 다시 정치판으로 돌아간다'. He was re-elected in the 2016 general election (na_members_15_22.csv term 20, seat from 2016-05-30). 황우여, 정종섭 and 윤상직, replaced in the same reshuffle, are coded resigned_to_run in their lineages."
+   },
+   {
+    "spell": "추경호|2022-05-10",
+    "name": "추경호",
+    "field": "end_reason",
+    "old": "replaced",
+    "new": "resigned_to_run",
+    "evidence": "한국경제 2023-12-28 '추 부총리도 이날 3선 도전을 공식화했다' (farewell day), 연합뉴스 2023-12-28 on the '3선' farewell, 뉴시스 2023-12-04 on the reshuffle as clearing ministers for the 2024 총선. He was re-elected in the 2024 general election (na_members_15_22.csv term 22, seat from 2024-05-30). 박진 and 이영, sitting members who left in the same season, are coded resigned_to_run in their lineages."
+   },
+   {
+    "spell": "acting 한덕수 부총리 겸 재정경제부장관, 국무총리 직무대행",
+    "name": "한덕수",
+    "field": "acting.from",
+    "old": "2006-03-15",
+    "new": "2006-03-16",
+    "evidence": "연합뉴스 2006-03-16 '직무대행으로서 첫날 업무를 시작했다' (16일). The PM lineage ends 이해찬 on 2006-03-15 and starts this acting period on 2006-03-16, and the builder's own note cites a report of acting 'from the 16th'."
+   }
+  ],
+  "completeness": [
+   "The 재정경제부 역대장관 page (mofe.go.kr, tier 2, not used by the builder) is an independent holder list. For the window it lists 임창열 (1997.11.-1998.2.), 이규성, 강봉균, 이헌재, 진념 (장관 2000.8.-2001.1., then 부총리 2001.1.-2002.4.), 전윤철, 김진표, 이헌재, 한덕수, 권오규, 강만수, 윤증현, 박재완, 현오석 (장관 2013.3.-2013.3., then 부총리), 최경환, 유일호, 김동연, 홍남기, 추경호, 최상목, 구윤철 (기획재정부 2025.7.-2026.1., 재정경제부 2026.1.-2026.9.). Every entry maps to a roster spell with matching months. The page does not yet list 이형일.",
+   "The gazette corpus (harvest/gazette_text, 2,709 인사 items 2001-01..2026-09, GAZETTE_DONE present) was grepped whitespace-insensitively for 재정경제원/재정경제부/기획재정부 장관 appointment notices. It has 18 such notices, all mapped to spells (script finance_verify_01_gazette_grep.py, hits in sources/finance/verify/gazette_hits.json). No notice without a spell. Spells without a notice are the pre-2001 ones, 진념 2001-01-29 (reshuffle missing from the gazette index) and 이형일 2026-09-22 (not yet published, live query 2026-09-25).",
+   "Transition holdovers are 임창열 (to 1998-02-27, then a vacancy to 03-02 confirmed by 연합뉴스 1998-02-28), 2003 전윤철 (to 02-27), 2008 권오규 (to 02-28), 2013 박재완 (to 03-22), 2017 유일호 (to 06-09), 2022 홍남기 (to 05-10), 2025 vacancy from 05-02 with 1차관 acting until 구윤철 (07-19). All present.",
+   "Resignations to run are 강봉균 (2000 general), 진념 (2002 local), 김진표 (2004 general), 최경환 (2016 general, corrected) and 추경호 (2024 general, corrected). No finance minister left for the 2006, 2010, 2014, 2018, 2022 or 2026 local elections, the 2008, 2012 or 2020 general elections, or the 2026-06-03 by-elections (구윤철 in office from 2026-01-02 to 2026-09-22).",
+   "An independent likms name search (terms 16-22, four bill-name strings) returns exactly the 13 finance 인사청문요청안 in the harvest, all in nominations with matching request dates. BigKinds searches for withdrawn or failed finance nominations (지명 철회, 자진사퇴, 내정 철회, 1998-2026) found none. Hearing dates for 2006-2023 match nominee_hearing_meetings.csv, and 2025-2026 match likms meeting lists and news.",
+   "The 현오석 one-day 기획재정부장관 spell (2013-03-22) and the 2001, 2013 and 2026 title or name changes are split with reorg_continuation and reappointed_on_reorg set, each backed by a new gazette notice or, for 2001, 국민일보 2001-01-29 ('개정된 정부조직법이 발효됨에 따라 ... 진념 재경부 장관을 승진임명')."
+  ],
+  "transcript_check": "roster/scripts/finance_verify_03_transcripts.py, output sources/finance/verify/transcript_check.json. 502 valid-type rows (상임위원회, 국정감사, 인사청문특별위원회) with a finance minister label. No unknown person. The only rows outside a spell are the 12 nominee hearings (speaker label 후보자, before the start as expected) and 김진표 2005-08-17 (meeting 33492, 교육위원회, when he was 교육부총리, a speaker-label error).",
+  "continuity": "roster/scripts/finance_verify_07_continuity.py. Gaps are 1998-02-28..03-02 (no minister or vice minister after the 1998 law, 연합뉴스 1998-02-28), 2005-03-08..03-14 (after 이헌재's resignation, 차관 김광림 de facto), 2025-05-02..07-18 (after 최상목's resignation, 1차관 김범석 then 이형일 acting). All other handovers are same-day or next-day (next-day only at the law-driven title changes of 2001, 2008, 2013, 2026 and at 진념/전윤철 2002, where the resignation was accepted on 04-14 and the successor appointed on 04-15). No overlaps.",
+  "field_hygiene": "appointing_president matches the start date and the transition table for all 25 spells, and no spell starts inside an acting-president window, so appointed_by_acting_president is false throughout. deputy_pm matches offices.json periods (재정경제원 to 1998-02-27, 재정경제부 2001-01-29..2008-02-28, 기획재정부 2013-03-23..2026-01-01, 재정경제부 from 2026-01-02). The 임창열 flag is correct though his spell starts before the window. No suspensions (최상목's impeachment motion of 2025-05-01 was never voted because the resignation was accepted first). All offices in scope. end_reason corrected for 최경환 and 추경호, otherwise consistent with the sources.",
+  "gazette_reread": "All 18 gazette-backed starts were re-read in the harvested text (listed as [verifier] sources on each spell), including the two-column 2005-03-15 page for 한덕수 and the out-of-order name block of 2016-01-13 for 유일호.",
+  "acting_check": "Acting entries were compared with pm.json. 한덕수 2006 corrected to start 2006-03-16. 홍남기 2021 kept at 04-17 with a new source, one day later than pm.json. The rest agree with the PM lineage dates.",
+  "scripts": [
+   "roster/scripts/finance_verify_00_init.py",
+   "roster/scripts/finance_verify_01_gazette_grep.py",
+   "roster/scripts/finance_verify_02_gazette_live.py",
+   "roster/scripts/finance_verify_03_transcripts.py",
+   "roster/scripts/finance_verify_04_likms.py",
+   "roster/scripts/finance_verify_05_likms_compare.py",
+   "roster/scripts/finance_verify_06_naver.py",
+   "roster/scripts/finance_verify_07_continuity.py",
+   "roster/scripts/finance_verify_08_korea.py",
+   "roster/scripts/finance_verify_09_pre2001.py",
+   "roster/scripts/finance_verify_10_withdrawn.py",
+   "roster/scripts/finance_verify_11_build.py",
+   "roster/scripts/finance_verify_show.py"
+  ],
+  "snapshots": "roster/sources/finance/verify/",
+  "n_confirmed": 21,
+  "n_corrected": 4,
+  "n_disputed": 0,
+  "n_added": 0
+ }
+}

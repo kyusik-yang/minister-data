@@ -1,0 +1,407 @@
+{
+ "lineage": "oceans",
+ "built_at": "2026-09-26T10:23:06-0400",
+ "window": [
+  "1988-02-25",
+  "1998-02-24"
+ ],
+ "ministry_names": [
+  {
+   "ministry": "해양수산부",
+   "from": "1996-08-08",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 일부개정 법률 제5153호 (1996-08-08 공포) 제29조② (장관은 국무위원으로 보하고) and 제41조 (해양수산부), effective under 부칙 제1조 on the date the 해양수산부 직제 took effect, 1996-08-08 (해양수산부와그소속기관직제 대통령령 제15135호, 공포·시행 1996-08-08). No 국무위원 predecessor (수산청, 해운항만청, 수로국 and parts of eight ministries, 부칙 제2조①). Continues after the window (main roster from 1998-02-25, 법률 제5529호 kept the name).",
+   "source": "offices_1988.json OFA39 (GOA_5153, DEC_15135, ARCH_OG0005958); offices.json OF022 from 1998-02-25"
+  }
+ ],
+ "spells": [
+  {
+   "name": "신상우",
+   "name_hanja": "辛相佑",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1937-05-20",
+   "gender": "M",
+   "ministry": "해양수산부",
+   "office_title": "해양수산부장관",
+   "deputy_pm": false,
+   "start": "1996-08-09",
+   "start_confidence": "medium",
+   "start_sources": [
+    "서울경제 1996-08-10 \"金대통령 \"일관·청렴·최선\" 강조\" (BigKinds news_id 02100311.19960810160234001, full text https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19960810160234001&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_02100311.19960810160234001.json, accessed 2026-09-26T10:09:57-0400). Quote: '金泳三대통령은 9일 상오 청와대에서 韓昇洙부총리겸 재정경제원 장관을 비롯한 6개부처 신임 각료와 李源宗정무, 李錫采경제수석에게 임명장을 수여하면서'",
+    "한겨레 1996-08-10 p.4 \"YS임명장 수여·수석회의 안팎\" (Naver News Library article 1996081000289104002, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996081000289104002&editNo=5&printCount=1&publishDate=1996-08-10&officeId=00028&pageNo=4&printNo=2641&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996081000289104002.json, accessed 2026-09-26T10:15:20-0400). Quote (OCR text as served, hanja readings added by the archive): '김영삼 대통령은 9일 오전 청와대에서‘8.8개각’으로 새로 기용되거나승진한 각료와 수석비서관들에게 임명장을 준 데 이어'",
+    "한겨레 1996-08-10 p.4 \"YS임명장 수여·수석회의 안팎\" (Naver News Library article 1996081000289104002, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996081000289104002&editNo=5&printCount=1&publishDate=1996-08-10&officeId=00028&pageNo=4&printNo=2641&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996081000289104002.json, accessed 2026-09-26T10:15:20-0400). Quote (OCR text as served, hanja readings added by the archive): '김 대통령은 신상우 해양수산부장관에게는“여러 부처의 기능을통합해 출범하는 만큼 초대 장관으로서 부처업무의 기초를 잘 닦아야 한다”고 주문했으며, 이에 신 장관은 차관을 가급적 빨리 임명해 줄 것을 건의했다.' (he was among those given the 임명장 on the morning of 1996-08-09)",
+    "경인일보 1996-08-09 \"6개부처 長官경질\" (BigKinds news_id 01200201.19960809142508102, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19960809142508102&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01200201.19960809142508102.json, accessed 2026-09-26T10:11:05-0400). Quote: '김대통령은 9일 오전 청와대에서 한부총리겸 재경원장관을 비롯, 6개부처 신임장관과 장관급으로 격상된 이정무수석 및 이경제수석에게 임명장을 수여했다.'",
+    "전남일보 1996-08-09 \"金대통령, 신임 각료에 임명장\" (BigKinds news_id 01600801.19960809100519106, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01600801.19960809100519106&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01600801.19960809100519106.json, accessed 2026-09-26T10:10:13-0400). Quote: '金泳三대통령은 9일 오전 청와대에서 韓昇洙부총리 겸 재경원장관을 비롯, 6개 부처 신임장관과 장관급으로 격상된 李源宗청와대정무수석 및 李錫采경제수석에게 임명장을 수여했다.' (story credited [聯合])",
+    "매일경제 1996-08-09 p.1 \"곧 차관급인사\" (Naver News Library article 1996080900099101013, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900099101013&editNo=15&printCount=1&publishDate=1996-08-09&officeId=00009&pageNo=1&printNo=9520&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080900099101013.json, accessed 2026-09-26T09:46:15-0400). Quote (OCR text as served, hanja readings added by the archive): '金泳三(김영삼)대통령은 9일 오전 청와대에서 韓昇洙(한승수) 부총리겸 재정경제원장관을비롯 6개 부처 신임장관과 장관급으로 격상된 李源宗(이원종) 청와대 정무수석 및李錫采(이석채) 경제수석에게 임명장을 수여한다.' (advance notice printed on the morning of 1996-08-09)",
+    "매일경제 1996-08-10 p.3 \"신임장관 취임사\" (Naver News Library article 1996081000099103005, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996081000099103005&editNo=15&printCount=1&publishDate=1996-08-10&officeId=00009&pageNo=3&printNo=9521&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996081000099103005.json, accessed 2026-09-26T09:50:29-0400). Quote (OCR text as served, hanja readings added by the archive): '辛相佑(신상우) 해양수산부장관은 9일 서울 종로구인의동 前(전) 해항청사에서해항청 수산청 해양경찰청직원 2백여명이 참석한가운데 취임식을 갖고 공식 업무에 들어갔다.'",
+    "한겨레 1996-08-10 p.9 \"신상우 초대 해양수산부 장관이 9일 오후 전...\" (Naver News Library article 1996081000289109004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996081000289109004&editNo=5&printCount=1&publishDate=1996-08-10&officeId=00028&pageNo=9&printNo=2641&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996081000289109004.json, accessed 2026-09-26T10:15:42-0400). Quote (OCR text as served, hanja readings added by the archive): '신상우 초대 해양수산부 장관이 9일 오후 전 해운항만청 청사 2층 강당에서 취임식을 갖고 직원들과 악수를 하고 있다.'",
+    "부산일보 1996-08-10 \"\"해양수산 정책 공개행정 추진\"\" (BigKinds news_id 01500701.20160409164928093, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409164928093&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01500701.20160409164928093.json, accessed 2026-09-26T10:11:58-0400). Quote: '신상우 신임 해양수산부 장관은 9일 오후 옛 해운항만청사에서 취임 기자간담회를 갖고'",
+    "동아일보 1996-08-09 p.1 \"경제부총리 韓昇洙(한승수)씨\" (Naver News Library article 1996080900209101001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900209101001&editNo=45&printCount=1&publishDate=1996-08-09&officeId=00020&pageNo=1&printNo=23277&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080900209101001.json, accessed 2026-09-26T10:14:59-0400). Quote (OCR text as served, hanja readings added by the archive): '金泳三(김영삼)대통령은 8일 오후 부총리겸 재정경제원장관에 신한국당 韓昇洙(한승수)의원을 임명하는 등 부분개각을 단행했다.' (announcement day)",
+    "동아일보 1996-08-09 p.1 \"경제부총리 韓昇洙(한승수)씨\" (Naver News Library article 1996080900209101001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900209101001&editNo=45&printCount=1&publishDate=1996-08-09&officeId=00020&pageNo=1&printNo=23277&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080900209101001.json, accessed 2026-09-26T10:14:59-0400). Quote (OCR text as served, hanja readings added by the archive): '金(김)대통령은 이날 신설되는 초대 해양수산부장관에신한국당 辛相佑(신상우)의원을,'",
+    "경인일보 1996-08-09 \"6개부처 長官경질\" (BigKinds news_id 01200201.19960809142508102, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19960809142508102&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01200201.19960809142508102.json, accessed 2026-09-26T10:11:05-0400). Quote: '金泳三 대통령은 8일 오후 부분 개각을 단행, 부총리겸 재정경제원 장관에 韓昇洙 신한국당의원을 임명했다. 김대통령은 또 신설된 해양수산부 초대 장관에 辛相佑의원,' (announcement day)",
+    "매일경제 1996-08-09 p.5 \"부처반응\" (Naver News Library article 1996080900099105010, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900099105010&editNo=15&printCount=1&publishDate=1996-08-09&officeId=00009&pageNo=5&printNo=9520&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080900099105010.json, accessed 2026-09-26T09:58:44-0400). Quote (OCR text as served, hanja readings added by the archive): '辛相佑(신상우) 신한국당 의원(59)이 해양수산부 초대장관으로내정됐다는 청와대 발표가 있은 8일 오후해운항만청은 전혀 예견치못한 의외의 인사라는 분위기.' (the announcement came on the afternoon of 1996-08-08)",
+    "동아일보 1996-08-08 p.2 \"해양장관 오늘임명\" (Naver News Library article 1996080800209102013, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080800209102013&editNo=45&printCount=1&publishDate=1996-08-08&officeId=00020&pageNo=2&printNo=23276&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080800209102013.json, accessed 2026-09-26T10:14:39-0400). Quote (OCR text as served, hanja readings added by the archive): '해양수산부는 직제안이관보에 게재돼 법적 효력을 발휘하는 8일부터공식발족되며 金泳三(김영삼)대통령도 이날짜로 초대장관을 임명할 것으로 보인다.' (the ministry came into legal existence on 1996-08-08)",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1996 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1996; tier 2; snapshot roster/sources/oceans/ext88/events/pa_schedule_kys_1996_p1.html, accessed 2026-09-26T09:05:02-0400) row '1996-08-08 초대 해양수산부 장관 임명 | 신설되는 해양수산부 초대 장관에 신상우 의원 임명'",
+    "국사편찬위원회 대한민국사연표 https://db.history.go.kr/id/tcct_1996_08_08_0010 (tier 2; snapshot roster/sources/oceans/ext88/events/chron_entry_tcct_1996_08_08_0010.html, accessed 2026-09-26T09:30:10-0400) entry '김영삼 대통령, 6개 부처 개각' dated 1996-08-08 (title only, no body)",
+    "해양수산부 역대장관 page https://www.mof.go.kr/index.do?menuSeq=418 (tier 2, ministry list; snapshot roster/sources/oceans/ext88/lists/mof_past_ministers.html, text roster/sources/oceans/ext88/lists/mof_past_ministers.txt, accessed 2026-09-25T13:38:10-0400, cache of the main-roster fetch re-read 2026-09-26) lists '제 1 대 신상우 장관 1996. 8. 8 ~ 1997. 8. 6' and '제 2 대 조정제 장관 1997. 8. 7 ~ 1998. 3. 2'",
+    "ko.wikipedia \"대한민국 해양수산부 장관\" https://ko.wikipedia.org/w/index.php?oldid=41715935 (secondary; snapshot roster/sources/oceans/ext88/lists/wiki_해양수산부_장관.json, accessed 2026-09-25T13:28:38-0400) lists '제1대 신상우 1996년 8월 8일 1997년 8월 6일' under 역대 해양수산부 장관(1996~2008)",
+    "정부조직법 일부개정 법률 제5153호 (1996-08-08 공포). 부칙 제1조 reads '이 법은 공포후 30일이내에 제41조의 개정규정에 의한 해양수산부와 해양경찰청의 조직에 관한 대통령령의 시행일부터 시행한다.' and 해양수산부와그소속기관직제 대통령령 제15135호 부칙 제1조 reads '이 영은 공포한 날부터 시행한다.' (공포 1996-08-08). law.go.kr https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=5926&efYd=19960808 and https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=33434&efYd=19960808 (tier 1; snapshots inventory_sources/1988/law_go_kr/govorg/text_19960808_5926.json accessed 2026-09-25T06:47:06-0400 and inventory_sources/1988/law_go_kr/decrees/text_19960808_33434.json accessed 2026-09-26T08:37:34-0400, via offices_1988.json OFA39). 국가기록원 생산기관 변천정보 OG0005958 gives 존립기간 1996.08.08 ~ 2008.02.28 https://theme.archives.go.kr/next/organ/organBasicInfo.do?code=OG0005958 (snapshot inventory_sources/1988/web/archives_organ/organ_OG0005958.html, accessed 2026-09-26T08:53:07-0400)",
+    "세계일보 1996-08-10 \"신임각료 임명장 수여­수석회의 이모저모\" (BigKinds news_id 01100701.19960810000000204, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960810000000204&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100701.19960810000000204.json, accessed 2026-09-26T10:10:47-0400). Quote: '김영삼 대통령은 8일 오전 청와대에서 새로 임명된 한승수 경제부총리를 비롯한 신임장관 6명과 장관급으로 승진한 이원종 정무수석,이석채 신임경제수석에게 임명장을 수여한 뒤 수석회의를 주재했다.' (contrary report, not adopted. It dates the 임명장 to the morning of the 8th, which cannot be right because the reshuffle was announced on the afternoon of the 8th. Five other reports date the ceremony to the morning of the 9th)"
+   ],
+   "end": "1997-08-06",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "연합뉴스 1997-08-06 09:44:00 \"金대통령 靑瓦臺서 비상대책회의 주재(종합)\" https://n.news.naver.com/mnews/article/001/0004181698 (Naver-hosted article; snapshot roster/sources/oceans/ext88/articles/naver_001_0004181698.html, accessed 2026-09-25T13:01:46-0400). Quote: '이에 앞서 金대통령은 이날오전 9시30분 청와대에서 曺海寧내무, 金鍾求법무장관을 비롯한 신임각료 11명에게 임명장을 주었다.'",
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080600239101004.json, accessed 2026-09-26T09:28:31-0400). Quote (OCR text as served, hanja readings added by the archive): '辛相佑(신상우)(신상우)해양수산장관 후임에 趙正濟(조정제)(조정제)해양수산개발원장을 각각기용했다.'",
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080600239101004.json, accessed 2026-09-26T09:28:31-0400). Quote (OCR text as served, hanja readings added by the archive): '金(김) 대통령은 6일오전 신임 각료들에게 임명장을 수여하며'",
+    "중앙일보 1997-08-06 \"11개부처 개각단행\" (BigKinds news_id 01100901.19970806174806001, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970806174806001&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100901.19970806174806001.json, accessed 2026-09-26T09:39:28-0400). Quote: '정시채 (丁時采) 농림.강현욱 (姜賢旭) 환경.손학규 (孫鶴圭) 보건복지.신상우 (辛相佑) 해양.김한규 (金漢圭) 총무처.신경식 (辛卿植) 정무1.김윤덕 (金胤德) 정무2장관등은 신한국당 당적 각료의 교체 방침에 따라 물러났다.'",
+    "동아일보 1997-08-06 p.1 \"11部處(부처) 장관 경질\" (Naver News Library article 1997080600209101001, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209101001&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00020&pageNo=1&printNo=23614&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080600209101001.json, accessed 2026-09-26T09:34:18-0400). Quote (OCR text as served, hanja readings added by the archive): '金泳三(김영삼)(김영삼)대통령은5일 11개부처 장관을 교체하는 개각을 단행했다.'",
+    "조선일보 1997-08-07 p.10 \"내주 與(여) 당직개편 예고\" (Naver News Library article 1997080700239110004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080700239110004&editNo=1&printCount=1&publishDate=1997-08-07&officeId=00023&pageNo=10&printNo=23789&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080700239110004.json, accessed 2026-09-26T10:16:17-0400). Quote (OCR text as served, hanja readings added by the archive): '5일해양수산부장관에서 물러난 辛相佑(신상우)(신상우)의원등 민주계 핵심들을 요직에 배려하기 위해' (dates his departure to the announcement day, 1997-08-05. No 이임식 report was found)",
+    "해양수산부 역대장관 page https://www.mof.go.kr/index.do?menuSeq=418 (tier 2, ministry list; snapshot roster/sources/oceans/ext88/lists/mof_past_ministers.html, text roster/sources/oceans/ext88/lists/mof_past_ministers.txt, accessed 2026-09-25T13:38:10-0400, cache of the main-roster fetch re-read 2026-09-26) lists '제 1 대 신상우 장관 1996. 8. 8 ~ 1997. 8. 6' and '제 2 대 조정제 장관 1997. 8. 7 ~ 1998. 3. 2'",
+    "ko.wikipedia \"대한민국 해양수산부 장관\" https://ko.wikipedia.org/w/index.php?oldid=41715935 (secondary; snapshot roster/sources/oceans/ext88/lists/wiki_해양수산부_장관.json, accessed 2026-09-25T13:28:38-0400) lists '제1대 신상우 1996년 8월 8일 1997년 8월 6일' under 역대 해양수산부 장관(1996~2008)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting member throughout the spell, 15th NA (신한국당, 부산 사상구을) 1996-05-30..2000-05-29 per na_members/na_members_12_22.csv (mona_cd 5637263F). He kept the seat while minister (한겨레 1997-08-05 lists him among the '신한국당 의원 겸직 및 당적 보유장관')",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06), so no check applies.",
+   "notes": "First 해양수산부장관. The ministry came into legal existence on 1996-08-08 (법률 제5153호 부칙 제1조 with 대통령령 제15135호). He was named in the 8·8 개각 of 1996, announced on the afternoon of 1996-08-08, and given the 임명장 at 청와대 on the morning of 1996-08-09. His 취임식 was on 1996-08-09 at the former 해운항만청 building. The start is the 임명장 day, the rule used by finance.ext88 (한승수, same reshuffle), environment.ext88 and the main oceans roster (조정제 1997-08-06). The ministry list, ko.wikipedia and the 대통령기록관 schedule give 1996-08-08, hence start_confidence medium (see issues). Retained through the 12·20 개각 of 1996 and the 3·5 개각 of 1997 with no new 임명장 found (reports of him acting as minister on 1997-03-10, 03-17, 07-12 and 07-23 are in tenure_sources). Replaced in the 8·5 개각 of 1997 under the policy of removing ministers who held 신한국당 membership before the presidential election. No 이임식 report was found. The successor's 임명장 was given at 09:30 on 1997-08-06, the start the main roster uses for 조정제, so the end is 1997-08-06 by the successor rule. 조선일보 1997-08-07 says he left on the 5th, the announcement day.",
+   "tenure_sources": [
+    "한겨레 1996-12-21 p.2 \"12.20 부분개각 의미 취약지 배려·당 인사 전진배치\" (Naver News Library article 1996122100289102004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100289102004&editNo=6&printCount=1&publishDate=1996-12-21&officeId=00028&pageNo=2&printNo=2758&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996122100289102004.json, accessed 2026-09-26T10:15:52-0400). Quote (OCR text as served, hanja readings added by the archive): '현 내각의 신한국당 인사는 한승수 부총리, 김우석 내무, 신상우 해양수산, 손학규 보건복지, 김윤덕 정무제2 장관 등 모두 9명으로 늘어났다.' (after the 12·20 개각 1996)",
+    "부산일보 1997-03-10 \"신상우 해양수산부장관, 오염피해 보상요청\" (BigKinds news_id 01500701.20160409193149341, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409193149341&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01500701.20160409193149341.json, accessed 2026-09-26T10:17:45-0400). Quote: '신상우 해양수산부 장관은 10일 만스 야콥슨 IOPC(유류오염 손해보상 국제기금) 사무국장 일행의 예방을 받고' (1997-03-10, after the 3·5 개각 1997)",
+    "서울신문 1997-03-18 \"민주계 결속대책 부심/잇단 중진 모임 앞날 논의\" (BigKinds news_id 01100611.20160421074448897, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421074448897&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100611.20160421074448897.json, accessed 2026-09-26T10:18:27-0400). Quote: '김덕룡 서석재 김명윤 의원과 신상우 해양수산부장관 등 민주계 중진들은 17일 상오 김수한 국회의장실에서 회동,' (1997-03-17)",
+    "서울신문 1997-07-13 \"동해에 일 영해확대 격랑/통일안보정책회의 안팎\" (BigKinds news_id 01100611.20160421111305421, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421111305421&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100611.20160421111305421.json, accessed 2026-09-26T10:18:45-0400). Quote: '12일 열린 통일안보정책조정회의는 이례적으로 신상우 해양수산부장관이 참석해 한·일 어업문제를 집중적으로 논의함에따라' (1997-07-12)",
+    "중앙일보 1997-07-24 \"부산 해양.수산관련 전시관,바다공원등 들어서\" (BigKinds news_id 01100901.19970724173029003, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970724173029003&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100901.19970724173029003.json, accessed 2026-09-26T10:19:09-0400). Quote: '신상우 (辛相佑) 해양수산부장관은 23일 부산지방해양청에서 기자간담회를 갖고' (1997-07-23)",
+    "한겨레 1997-08-05 p.5 \"초읽기 들어간 개각'인물난'진통\" (Naver News Library article 1997080500289105004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080500289105004&editNo=6&printCount=1&publishDate=1997-08-05&officeId=00028&pageNo=5&printNo=2949&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080500289105004.json, accessed 2026-09-26T10:16:04-0400). Quote (OCR text as served, hanja readings added by the archive): '신한국당 의원 겸직 및 당적 보유장관인 정시채 농림, 강현욱 환경,손학규 보건복지, 신상우 해양수산,김한규 총무처, 신경식 정무1, 김윤덕 정무2장관은 대부분 교체될 것으로 보인다.' (1997-08-05, still in office and holding his seat)",
+    "중앙일보 1997-08-04 \"김대통령,이번주 중폭 개각할듯\" (BigKinds news_id 01100901.19970804174553001, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970804174553001&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100901.19970804174553001.json, accessed 2026-09-26T10:14:14-0400). Quote: '신한국당 소속인 정시채 (丁時采) 농림.강현욱 (姜賢旭) 환경.손학규 (孫鶴圭) 보건복지.신상우 (辛相佑) 해양수산.김한규 (金漢圭) 총무처.신경식 (辛卿植) 정무1.김윤덕 (金胤德) 정무2장관이 물러나는등'"
+   ],
+   "birth_sources": [
+    "na_members/na_members_12_22.csv term 15 신상우 辛相佑 mona_cd 5637263F (신한국당, 부산 사상구을, 1996-05-30..2000-05-29; birth 1937-05-20, gender 남; source NA-API 의원이력; NA-API ALLNAMEMBER; kowiki list oldid=41996917). Terms 13 and 14 (부산 북구을) carry the same birth date and mona_cd",
+    "ko.wikipedia person page \"신상우 (정치인)\" https://ko.wikipedia.org/w/index.php?oldid=41819708 lead ''''신상우'''(辛相佑, [[1937년]] [[5월 20일]]~[[2012년]] [[1월 26일]])는 [[대한민국]]의 [[정치인]]이다.' (secondary; snapshot roster/sources/oceans/ext88/people/wiki_신상우_정치인.json, accessed 2026-09-26T10:19:10-0400)"
+   ],
+   "gender_sources": [
+    "na_members/na_members_12_22.csv term 15 신상우 辛相佑 mona_cd 5637263F (신한국당, 부산 사상구을, 1996-05-30..2000-05-29; birth 1937-05-20, gender 남; source NA-API 의원이력; NA-API ALLNAMEMBER; kowiki list oldid=41996917). Terms 13 and 14 (부산 북구을) carry the same birth date and mona_cd"
+   ]
+  },
+  {
+   "name": "조정제",
+   "name_hanja": "趙正濟",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1936-02-28",
+   "gender": "M",
+   "ministry": "해양수산부",
+   "office_title": "해양수산부장관",
+   "deputy_pm": false,
+   "start": "1997-08-06",
+   "start_confidence": "medium",
+   "start_sources": [
+    "연합뉴스 1997-08-05 19:49:00 \"<오늘의 주요 정치뉴스>(6일)\" https://n.news.naver.com/mnews/article/001/0004190411 (snapshot roster/sources/oceans/news/naver_001_0004190411.html, accessed 2026-09-25T13:01:28-0400): schedule for 1997-08-06: 金泳三대통령은 오전 청와대에서 ... 신임 각료들에게 임명장을 수여한다",
+    "연합뉴스 1997-08-06 07:49:00 \"金대통령 靑瓦臺서 비상대책회의 주재\" https://n.news.naver.com/mnews/article/001/0004188815 (snapshot roster/sources/oceans/news/naver_001_0004188815.html, accessed 2026-09-25T13:01:20-0400): 金대통령은 이날오전 9시30분 청와대에서 ... 신임각료에게 임명장을 수여",
+    "KBS 1997-08-05 \"김영삼 대통령, 11개 부처 장관 인사 단행\" (BigKinds metadata, news_id 08100101.19970805162439001, query '조정제 해양수산부 장관 임명' 1997-08-04..1997-08-07, snapshot roster/sources/oceans/bigkinds/bk_6b53d74d08.json, accessed 2026-09-25T13:35:11-0400): 11-minister reshuffle announced on the afternoon of 1997-08-05",
+    "한국일보 1997-08-06 \"11부처 장관 경질/고 총리·경제·안보팀 유임/김 대통령\" (BigKinds metadata, news_id 01101101.19970806000000101, query '조정제 해양수산부 장관 임명' 1997-08-04..1997-08-07, snapshot roster/sources/oceans/bigkinds/bk_6b53d74d08.json, accessed 2026-09-25T13:35:11-0400): 8·5 개각 list includes '해양 조정제'",
+    "해양수산부 역대장관 page https://www.mof.go.kr/index.do?menuSeq=418 (tier 2, snapshot roster/sources/oceans/mof_past_ministers_requests.html, text roster/sources/oceans/mof_past_ministers.txt, accessed 2026-09-25T13:38:10-0400), row '제 2 대 조정제 장관 1997. 8. 7 ~ 1998. 3. 2'",
+    "ko.wikipedia \"대한민국 해양수산부 장관\" revid 41715935, https://ko.wikipedia.org/w/index.php?oldid=41715935 (tier 4, snapshot roster/sources/oceans/wiki_해양수산부_장관.json, accessed 2026-09-25T13:28:38-0400), row '제2대 조정제 1997년 8월 7일 ~ 1998년 3월 2일'",
+    "[verifier] 부산일보 1997-08-06 \"조정제 신임 해양부장관 취임, 부산 신항 건설 가속화될 듯\" (BigKinds metadata, news_id 01500701.20160409212350682, verifier query '해양부장관 조정제' 1997-08-05..1997-08-08, snapshot roster/sources/oceans/verify/bigkinds/B_jojj_s2.json, accessed 2026-09-25T22:22:19-0400), snippet '조정제 신임 해양부장관 취임, 부산 신항 건설 가속화될 듯 조정제 한국해양수산개발원 원장이 신임 해양수산부 장관으로 입각함에 따라 부산(가덕)신항 건설사업이 더욱 힘을 얻게 됐다. 조신임장관이 부산신항 개발구상의 주역중 한사람이기 때문이다. 조장관은 해양수산개발원 전신인 해운산업연구원 원장'",
+    "[verifier] 서울신문 1997-08-07 \"신임 농림·해양장관 기자간담\" (BigKinds metadata, news_id 01100611.20160421115528666, verifier query '해양부장관 조정제' 1997-08-05..1997-08-08, snapshot roster/sources/oceans/verify/bigkinds/B_jojj_s2.json, accessed 2026-09-25T22:22:19-0400), snippet '도 안줄이겠다”/식량무기화 대비 주곡지급에 역점 이효계 신임 농림부장관은 농지보전과 식량자급을 농정의 핵심과제로 삼아 강력히 추진해 나가겠다고 밝혔다. 이장관은 6일 취임식 후 가진 기자간담회에서 “식량무기화에 대비해 쌀 등 주곡자급에 농정의 역점을 두겠으며 이를 위해 농지가 불요불급한 용도로 전용되지 않도록 하겠다”고 ..'",
+    "[verifier] 동아일보 1997-08-06 \"11部處 장관 경질\" (BigKinds metadata, news_id 01100401.19970806091435009, verifier query '趙正濟' 1997-08-05..1997-08-08, snapshot roster/sources/oceans/verify/bigkinds/B_jojj_s.json, accessed 2026-09-25T22:22:11-0400), snippet '무 金鍾求 교 육 李明賢 농 림 李孝桂 환 경 尹汝雋 복지崔 洸 노 동 李起浩 해 양 趙正濟 총무처 沈宇永 정무1 洪思德 정무2 李嬿淑 金泳三(김영삼)대통령은5일 11개부처 장관을 교체하는 개각을 단행했다。이번 개각에서 高建(고건)국무총리와 權五琦(권오기)통일부총리、姜慶植(강경식)경제부총리는 유임됐다。 그러나 신한..'",
+    "[verifier] Namu Wiki \"해양수산부장관\" https://namu.wiki/w/%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, not used by the builder, page revision time 2026-09-21 20:58:32, snapshot roster/sources/oceans/verify/v_namu_해양수산부장관.html, text roster/sources/oceans/verify/v_namu_해양수산부장관.txt, accessed 2026-09-25T22:11:00-0400), row '2대 조정제(趙正濟) 1997년 8월 7일 ~ 1998년 3월 2일'"
+   ],
+   "end": "1998-03-03",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "연합뉴스 1998-03-03 12:39:00 \"金대통령 조각발표...재경부장관에 李揆成씨(종합)\" https://n.news.naver.com/mnews/article/001/0004372354 (snapshot roster/sources/oceans/news/naver_001_0004372354.html, accessed 2026-09-24T22:44:26-0400): (1998-03-03 조각) '해양수산부장관에는 金善吉의원(자민련)을 각각 기용했다'",
+    "매일경제 1998-03-04 \"[떠나는 YS정부 장관들의 거취] 임전부총리 경제특보등 기용설\" (BigKinds metadata, news_id 02100101.20160113223823257, query '조정제 장관 이임' 1998-02-25..1998-03-06, snapshot roster/sources/oceans/bigkinds/bk_1a33547025.json, accessed 2026-09-25T13:33:06-0400): '각료임명지연으로 비상대기상태에 놓여있던 전 장관들 도 3일 이임식을 마치고 관청을 떠났다' (the outgoing 김영삼 cabinet)",
+    "해양수산부 역대장관 page https://www.mof.go.kr/index.do?menuSeq=418 (tier 2, snapshot roster/sources/oceans/mof_past_ministers_requests.html, text roster/sources/oceans/mof_past_ministers.txt, accessed 2026-09-25T13:38:10-0400), row '제 2 대 조정제 장관 1997. 8. 7 ~ 1998. 3. 2'",
+    "ko.wikipedia \"대한민국 해양수산부 장관\" revid 41715935, https://ko.wikipedia.org/w/index.php?oldid=41715935 (tier 4, snapshot roster/sources/oceans/wiki_해양수산부_장관.json, accessed 2026-09-25T13:28:38-0400), row '제2대 조정제 ... 1998년 3월 2일'",
+    "[verifier] 연합뉴스 1998-03-03 16:00:00 \"高 建전총리 이임식\" https://n.news.naver.com/mnews/article/001/0004370157 (Naver full text, verifier query '이임식 장관' 1998-03-03..1998-03-04, snapshot roster/sources/oceans/verify/naver/art_001_0004370157.html, accessed 2026-09-25T22:19:54-0400), quote '高전총리는 이날 정부 세종로청사 19층 대회의실에서 林昌烈전경제부총리 등 국무위원들과 3급이상 고위공무원들이 참석한 가운데 이임식을 갖고 \"뜻하지 않은 정치적 상황으로 며칠 더 연장근무하게 돼 그동안 퍽 곤혹스러웠다\"며 이같이 밝혔다.'",
+    "[verifier] 연합뉴스 1998-03-03 18:44:00 \"金鍾泌총리서리 취임식 안팎\" https://n.news.naver.com/mnews/article/001/0004374671 (Naver full text, verifier query '이임식 장관' 1998-03-03..1998-03-04, snapshot roster/sources/oceans/verify/naver/art_001_0004374671.html, accessed 2026-09-24T22:45:11-0400), quote '高 建전총리가 오후 3시에 이임식을 가진데 이어 金鍾泌총리서리가 오후 5시에 취임식을 가졌고, 통일부도 權五琦전통일부총리와 康仁德신임통일장관이 서로 엇갈려 이.취임식을 가졌다.'",
+    "[verifier] 경기일보 1998-03-04 \"새정부 초대내각 출범\" (BigKinds metadata, news_id 01200101.19980304160027001, verifier query '金善吉' 1998-03-03..1998-03-05, snapshot roster/sources/oceans/verify/bigkinds/B_kimsg_s.json, accessed 2026-09-25T22:22:37-0400), snippet '申樂均 산업자원 朴泰榮 농림부 金成勳 정보통신 裵洵勳 보건복지 朱良子 환경부 崔在旭 노동부 李起浩 건설교통 李廷武 해양수산 金善吉 金大中대통령은 3일 \"과거와는 달리 청와대비서실이나 기타 특정..'",
+    "[verifier] 경기일보 1998-02-25 \"[사진] 수산물직거래 결의대회\" (BigKinds metadata, news_id 01200101.19980225155819001, verifier query '趙正濟' 1998-02-25..1998-03-05, snapshot roster/sources/oceans/verify/bigkinds/B_jojj_e.json, accessed 2026-09-25T22:22:25-0400), snippet '[사진] 수산물직거래 결의대회 24일 오전 서울 송파구 신천동 수협중앙회 대강당에서 趙正濟 해양수산부장관을 비롯해 전국 86명의 회원 조합장이 참석한 가운데 정기총회를 열고 수산물 직거래사업 활성화를 위한 결의대회를 했다.'",
+    "[verifier] Namu Wiki \"해양수산부장관\" https://namu.wiki/w/%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%EB%B6%80%EC%9E%A5%EA%B4%80 (tier 4, not used by the builder, page revision time 2026-09-21 20:58:32, snapshot roster/sources/oceans/verify/v_namu_해양수산부장관.html, text roster/sources/oceans/verify/v_namu_해양수산부장관.txt, accessed 2026-09-25T22:11:00-0400), row '2대 조정제(趙正濟) 1997년 8월 7일 ~ 1998년 3월 2일'"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell lies outside the transcript coverage (2000-06 to 2025-01).",
+   "notes": "Kim Young-sam appointee (8·5 개각 1997) who stayed as caretaker after the 1998-02-25 inauguration until the first 김대중 cabinet was appointed on 1998-03-03. The reshuffle was announced on 1997-08-05 and the 임명장 was given on the morning of 1997-08-06 (연합뉴스). The ministry page and ko.wikipedia give 1997-08-07, which no same-day report supports. No digital gazette exists before 2001. 법률 제5529호 (effective 1998-02-28) kept the name 해양수산부, so the spell is not split. End is the successor's appointment day, the day the outgoing ministers held their farewell ceremonies (매일경제 1998-03-04). The ministry page and ko.wikipedia use 1998-03-02, the day before. Birth date from ko.wikipedia \"조정제\" https://ko.wikipedia.org/w/index.php?oldid=40523616 (tier 4, snapshot roster/sources/oceans/bios/wiki_조정제.json, accessed 2026-09-25T13:43:25-0400).",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "신상우",
+   "office_title": "해양수산부장관",
+   "nomination_date": "1996-08-08",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1996-08-09",
+   "sources": [
+    "매일경제 1996-08-09 p.5 \"부처반응\" (Naver News Library article 1996080900099105010, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900099105010&editNo=15&printCount=1&publishDate=1996-08-09&officeId=00009&pageNo=5&printNo=9520&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1996080900099105010.json, accessed 2026-09-26T09:58:44-0400). Quote (OCR text as served, hanja readings added by the archive): '辛相佑(신상우) 신한국당 의원(59)이 해양수산부 초대장관으로내정됐다는 청와대 발표가 있은 8일 오후해운항만청은 전혀 예견치못한 의외의 인사라는 분위기.'",
+    "경인일보 1996-08-09 \"6개부처 長官경질\" (BigKinds news_id 01200201.19960809142508102, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19960809142508102&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01200201.19960809142508102.json, accessed 2026-09-26T10:11:05-0400). Quote: '金泳三 대통령은 8일 오후 부분 개각을 단행, 부총리겸 재정경제원 장관에 韓昇洙 신한국당의원을 임명했다. 김대통령은 또 신설된 해양수산부 초대 장관에 辛相佑의원,'",
+    "서울경제 1996-08-10 \"金대통령 \"일관·청렴·최선\" 강조\" (BigKinds news_id 02100311.19960810160234001, full text https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19960810160234001&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_02100311.19960810160234001.json, accessed 2026-09-26T10:09:57-0400). Quote: '金泳三대통령은 9일 상오 청와대에서 韓昇洙부총리겸 재정경제원 장관을 비롯한 6개부처 신임 각료와 李源宗정무, 李錫采경제수석에게 임명장을 수여하면서'",
+    "대통령기록관 연도별 대통령 일정, 김영삼 1996 (POST https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do selPresident=김영삼 year=1996; tier 2; snapshot roster/sources/oceans/ext88/events/pa_schedule_kys_1996_p1.html, accessed 2026-09-26T09:05:02-0400) row '1996-08-08 초대 해양수산부 장관 임명 | 신설되는 해양수산부 초대 장관에 신상우 의원 임명'"
+   ],
+   "notes": "Announced by 청와대 on the afternoon of 1996-08-08 (8·8 개각), 임명장 on the morning of 1996-08-09. 국무위원 appointments needed no confirmation hearing before 2005-07-28."
+  },
+  {
+   "nominee": "조정제",
+   "office_title": "해양수산부장관",
+   "nomination_date": "1997-08-05",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1997-08-06",
+   "sources": [
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080600239101004.json, accessed 2026-09-26T09:28:31-0400). Quote (OCR text as served, hanja readings added by the archive): '辛相佑(신상우)(신상우)해양수산장관 후임에 趙正濟(조정제)(조정제)해양수산개발원장을 각각기용했다.'",
+    "조선일보 1997-08-06 p.1 \"11개部處(부처) 장관 교체\" (Naver News Library article 1997080600239101004, page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239101004&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=1&printNo=23788&publishType=00010; full text POST https://newslibrary.naver.com/api/article/detail/json; snapshot roster/sources/oceans/ext88/articles/nl_1997080600239101004.json, accessed 2026-09-26T09:28:31-0400). Quote (OCR text as served, hanja readings added by the archive): '金(김) 대통령은 6일오전 신임 각료들에게 임명장을 수여하며'",
+    "중앙일보 1997-08-06 \"11개부처 개각단행\" (BigKinds news_id 01100901.19970806174806001, full text https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970806174806001&returnCnt=1&sectionDiv=1000; snapshot roster/sources/oceans/ext88/articles/bk_01100901.19970806174806001.json, accessed 2026-09-26T09:39:28-0400). Quote: '정시채 (丁時采) 농림.강현욱 (姜賢旭) 환경.손학규 (孫鶴圭) 보건복지.신상우 (辛相佑) 해양.김한규 (金漢圭) 총무처.신경식 (辛卿植) 정무1.김윤덕 (金胤德) 정무2장관등은 신한국당 당적 각료의 교체 방침에 따라 물러났다.'",
+    "연합뉴스 1997-08-06 09:44:00 \"金대통령 靑瓦臺서 비상대책회의 주재(종합)\" https://n.news.naver.com/mnews/article/001/0004181698 (Naver-hosted article; snapshot roster/sources/oceans/ext88/articles/naver_001_0004181698.html, accessed 2026-09-25T13:01:46-0400). Quote: '이에 앞서 金대통령은 이날오전 9시30분 청와대에서 曺海寧내무, 金鍾求법무장관을 비롯한 신임각료 11명에게 임명장을 주었다.'"
+   ],
+   "notes": "Announced on the afternoon of 1997-08-05 (8·5 개각), 임명장 at 09:30 on 1997-08-06. The appointment is the from_main spell. The main roster (oceans.verified.json) has no nomination row for it, so the row is added here. 국무위원 appointments needed no confirmation hearing before 2005-07-28."
+  }
+ ],
+ "acting": [],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Start-date convention for the 8·8 개각 of 1996. The reshuffle was announced on the afternoon of 1996-08-08 and the 임명장 given on the morning of 1996-08-09. This file starts 신상우 on 1996-08-09 (임명장 day), as finance.ext88.json does for 한승수 from the same reshuffle and as the main oceans roster does for 조정제 (1997-08-06, announced 08-05). The mof.go.kr list, ko.wikipedia and the 대통령기록관 schedule give 1996-08-08. science.ext88.json keeps 구본영 at 1996-08-08 for the same reshuffle and says the ict lineage does the same for 강봉균. The lineages should adopt one rule. Under the announcement rule 신상우 would start on 1996-08-08 and the one-day vacancy on that day would disappear."
+  },
+  {
+   "severity": "low",
+   "desc": "One-day vacancy on 1996-08-08. The ministry existed in law from that day (법률 제5153호 부칙 제1조 and 대통령령 제15135호 부칙 제1조, 국가기록원 OG0005958) but, under the 임명장 rule, had no minister until 1996-08-09. No 차관 had been appointed yet (reports of 1996-08-09 and 08-10 say the 차관 would follow in a later round), so acting[] is empty."
+  },
+  {
+   "severity": "low",
+   "desc": "세계일보 1996-08-10 (BigKinds 01100701.19960810000000204) dates the 8·8 임명장 ceremony to the morning of the 8th. The reshuffle was announced on the afternoon of the 8th (동아일보 1996-08-09, 경인일보 1996-08-09, 매일경제 1996-08-09), and 서울경제, 경인일보, 한겨레, 매일경제 and 연합 (via 전남일보) date the ceremony to the morning of the 9th. The 세계일보 date is treated as an error."
+  },
+  {
+   "severity": "low",
+   "desc": "신상우's end. No 이임식 report was found in BigKinds or the News Library for 1997-08-05..08-07. The end follows the successor rule (1997-08-06, the day 조정제 received the 임명장), which matches the mof.go.kr list and ko.wikipedia. 조선일보 1997-08-07 p.10 speaks of him as having left the post on the 5th (the announcement day). Among sibling files, environment.ext88 and agriculture.ext88 end their 8·5 개각 outgoing ministers on 1997-08-06, while justice.ext88 ends 최상엽 on 1997-08-05."
+  },
+  {
+   "severity": "low",
+   "desc": "from_main. 조정제 (1997-08-06..1998-03-03) is copied unchanged from roster/oceans.verified.json. The evidence read for this file (연합뉴스 1997-08-06, 조선일보 and 동아일보 1997-08-06) agrees with its start. Its nomination row is missing from the main nominations[] and is added here."
+  },
+  {
+   "severity": "low",
+   "desc": "Sources. No digital gazette exists before 2001. Every date rests on day-of news from two archives (News Library 동아, 조선, 매일경제, 한겨레 and BigKinds 서울경제, 경인일보, 중앙일보, 부산일보 and others), the ministry list (tier 2), the 대통령기록관 schedule and the 대한민국사연표 (tier 2). Outlets are counted as independent only when they differ. 전남일보 1996-08-09 is a 연합 story and is counted with 연합. name_en is null because no official romanization was collected."
+  }
+ ],
+ "continuity": {
+  "window": [
+   "1988-02-25",
+   "1998-02-24"
+  ],
+  "in_scope_from": "1996-08-08",
+  "structural_gap": {
+   "from": "1988-02-25",
+   "to": "1996-08-07",
+   "why": "No 국무위원 office in the lineage before 해양수산부 was created (offices_1988.json lineage_gaps). Its functions sat in 수산청, 해운항만청 and 수로국 (agencies, heads not 국무위원) and parts of eight ministries (법률 제5153호 부칙 제2조①). Those heads are out of scope."
+  },
+  "sequence": [
+   [
+    "신상우",
+    "해양수산부",
+    "1996-08-09",
+    "1997-08-06"
+   ],
+   [
+    "조정제",
+    "해양수산부",
+    "1997-08-06",
+    "1998-03-03"
+   ]
+  ],
+  "gaps": [
+   {
+    "from": "1996-08-08",
+    "to": "1996-08-08",
+    "why": "해양수산부 existed in law from 1996-08-08 and 신상우 was announced that afternoon, but under the 임명장 rule his spell starts on 1996-08-09. No 차관 was in post yet (on 1996-08-09 he asked the President to name one quickly, 한겨레 1996-08-10 p.4 and 부산일보 1996-08-10), so no acting head is recorded. The gap disappears if the announcement day is used as the start (see issues)."
+   }
+  ],
+  "overlaps": [],
+  "handover_rule": "Same-day handover on 1997-08-06. 신상우 ends on the day his successor received the 임명장 (no 이임식 report found).",
+  "retention_checks": [
+   "1996-12-20 (12·20 개각): 신상우 retained. 한겨레 1996-12-21 p.2 (News Library 1996122100289102004) counts him in the cabinet after the reshuffle.",
+   "1997-03-05 (3·5 개각, new PM 고건): 신상우 retained. BigKinds reports place him in office as 해양수산부장관 on 1997-03-10 (부산일보 01500701.20160409193149341, 한국경제 02100601.20160116085552107), 1997-03-17 (서울신문 01100611.20160421074448897), 1997-07-12 (서울신문 01100611.20160421111305421) and 1997-07-23 (중앙일보 01100901.19970724173029003). No report of a new 임명장 for him was found.",
+   "1997-08-05 (8·5 개각): replaced by 조정제. 동아일보, 조선일보 (News Library) and 중앙일보 (BigKinds) 1997-08-06."
+  ],
+  "holder_list_check": "The mof.go.kr 역대장관 list and the ko.wikipedia list name only 신상우 (1대) and 조정제 (2대) before 1998-02-25. Day-of reports of the three reshuffles in the window name no other 해양수산부장관."
+ },
+ "build": {
+  "builder": "roster builder 1988-1998, lineage oceans",
+  "scripts": [
+   "roster/scripts/oceans_ext88_01_lists.py",
+   "roster/scripts/oceans_ext88_02_events.py",
+   "roster/scripts/oceans_ext88_03_news_search.py",
+   "roster/scripts/oceans_ext88_04_more_search.py",
+   "roster/scripts/oceans_ext88_05_exit_search.py",
+   "roster/scripts/oceans_ext88_06_read.py",
+   "roster/scripts/oceans_ext88_07_extra.py",
+   "roster/scripts/oceans_ext88_08_build.py"
+  ],
+  "snapshots": "roster/sources/oceans/ext88/ (lists = ministry page and ko.wikipedia list, events = 대통령기록관 schedule and 대한민국사연표, search = BigKinds and News Library result lists, articles = full texts, people = ko.wikipedia person page)",
+  "rule_start": "Start is the 임명장 day. With no gazette file before 2001, the legal appointment date is read from the day the 임명장 was handed over, the practice the 관보 shows from 2001 when the announcement and the 임명장 fall on different days.",
+  "rule_end": "end = last day in office. A documented farewell day is used when found, otherwise the successor's start (inferred_from_successor).",
+  "from_main": "조정제 copied unchanged from roster/oceans.verified.json with from_main true.",
+  "independence": "News Library (동아, 경향, 매경, 조선, 한겨레) and BigKinds hits are counted as independent only when the outlets differ.",
+  "quote_check": "every quoted passage was checked as a verbatim substring of the saved article text by this script"
+ },
+ "verification": {
+  "verified_at": "2026-09-26T14:04:40-0400",
+  "verifier": "adversarial verifier, lineage oceans, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/oceans.ext88.json",
+  "input_built_at": "2026-09-26T10:23:06-0400",
+  "started_at": "2026-09-26T13:23:47-0400",
+  "steps_done": [
+   "step 0 (2026-09-26T13:23:47-0400): read builder file (2 spells, 2 nominations, 6 issues), offices_1988.json OFA39 and lineage_gaps, SOURCES_TOOLKIT.md, sibling verified format (culture.ext88.verified.json). from_main record 조정제 is identical to roster/oceans.verified.json apart from the from_main flag. Builder-cited article ids saved to roster/sources/oceans/ext88_verify/builder_cited_ids.json so that the verifier uses other articles.",
+   "step 1 (2026-09-26T13:40:56-0400): secondary lists not used by the builder fetched (Namu Wiki 해양수산부장관 via Playwright, 2026-09-26T13:25:34-0400, names 신상우 1996-08-08..1997-08-06 and 조정제 1997-08-07..1998-03-02 only. Wikidata Q12592560 has no pre-1998 holder). Monthly News Library and BigKinds tally 1996-05..1998-03 running (roster/scripts/oceans_ext88_verify_01_tally.py).",
+   "step 2 (2026-09-26T13:40:56-0400): targeted searches for every start and end event done (roster/scripts/oceans_ext88_verify_03_targeted.py, output ext88_verify/targeted.json). Exit hunt (04) and full-text fetch (05) running.",
+   "step 3: exit hunt (roster/scripts/oceans_ext88_verify_04_exit_hunt.py, 29 searches) and full text of 39 articles, all but one not cited by the builder (매일경제 1998-03-04 p.8, News Library 1998030400099108007, is the same article as the builder's BigKinds 매일경제 cite and is not counted as independent) (roster/scripts/oceans_ext88_verify_05_fulltext.py, ext88_verify/fulltext.json).",
+   "step 4: builder quote re-check (roster/scripts/oceans_ext88_verify_06_builder_quotes.py): 42 of 48 quoted passages match their snapshots after NFKC normalisation. The other 6 are table rows rendered by the builder (대통령기록관 schedule row, ko.wikipedia and Namu rows), which were checked by hand against the snapshots and are faithful.",
+   "step 5 (2026-09-26T14:04:40-0400): build with quote checks (roster/scripts/oceans_ext88_verify_07_build.py). Every verifier quote is an exact substring of the saved article text after NFKC normalisation. News Library quotes were checked against the OCR text, not the page images.",
+   "step 6 (2026-09-26T21:19:18-0400): rerun of the workflow resumed from oceans.ext88.verified.partial.json (state complete). Rechecked the output without new fetches. The JSON parses, both spell records and all other builder fields are byte-identical to roster/oceans.ext88.json, 조정제 matches roster/oceans.verified.json apart from from_main, and all 40 snapshot and script paths cited in the verification exist. The project-level dispute was refreshed against the current sibling files (science.ext88.verified.json had since moved 구본영 to 1996-08-09).",
+   "step 7 (2026-09-27T21:55:11-0400): second rerun, resumed from oceans.ext88.verified.partial.json (state complete). Inputs unchanged since the first run. Ran roster/scripts/oceans_ext88_verify_08_rerun.py (6 BigKinds and 4 News Library queries not run before, and the News Library headline index of five papers on 1997-08-06 and 1997-08-07) and fetched four full texts not read before (조선일보 1997-08-06 p.4, 서울신문 1997-08-07, 부산일보 1997-08-06 and 1997-08-07). 조정제's start gained one more same-day source. No farewell of 신상우 was found, so both 신상우 disputes stand and no value changed. The project-level dispute was rewritten from the sibling files as they stand now. Built by roster/scripts/oceans_ext88_verify_09_rerun_build.py."
+  ],
+  "summary": {
+   "n_spells": 2,
+   "confirmed": 1,
+   "corrected": 0,
+   "disputed": 1,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 2,
+   "acting_entries": 0,
+   "fields_changed": 0
+  },
+  "completeness": [
+   "Independent holder list: monthly tally of names printed next to 해양수산부장관, 해양부장관 and 해양수산장관 in the Naver News Library (동아, 경향, 매경, 조선, 한겨레, 69 monthly searches) and next to '해양수산부 장관' in BigKinds (23 monthly searches), 1996-05 to 1998-03 (roster/scripts/oceans_ext88_verify_01_tally.py, output roster/sources/oceans/ext88_verify/monthly_tally.json, search snapshots in ext88_verify/nl/tally_* and ext88_verify/bk/tally_*, first query 2026-09-26T13:27, last query 2026-09-26T13:58:26-0400). The only holders printed next to the title are 신상우 (first 1996-08-09, in every month to 1997-07, last 1997-08-01) and 조정제 (first 1997-08-06, last 1998-02-13), followed by 김선길 from 1998-03-04. Other captured words were checked in context and are not holders (1996-06..07 law drafting and appointment forecasts, 1998-02 cabinet speculation about 서석재 and 김정길, statutory phrases such as '해양수산부장관은 5년마다').",
+   "Secondary lists not used by the builder: Namu Wiki 해양수산부장관 (accessed 2026-09-26T13:25:34-0400) lists 신상우 and 조정제 only before 1998. Wikidata Q12592560 (accessed 2026-09-26T13:26:11-0400) has no holder before 2000.",
+   "Before 1996-08-08 the lineage has no 국무위원 office (offices_1988.json lineage_gaps, OFA39). The 1988 transition from 전두환, the 1993 transition, and the 1988, 1992 and 1996 general elections and the 1995 local elections all fall before the ministry existed, so no holdover, resignation or short tenure is possible there.",
+   "Within 1996-08-08..1998-02-24: no short tenure, no acting head (first 차관 named 1996-08-13), no rename or merger (법률 제5529호 of 1998-02-28 kept the name). Reshuffles that kept the minister: 1996-12-20 and 1997-03-05. 신상우 left in the 8·5 개각 of 1997 as a 신한국당 member (replaced, not a resignation to run). 조정제 stayed through the December 1997 election and the 1998-02-25 inauguration."
+  ],
+  "continuity_check": [
+   {
+    "from": "window start 1988-02-25",
+    "to": "해양수산부 created 1996-08-08",
+    "gap_days": null,
+    "overlap_days": 0,
+    "why": "structural, no in-scope office in the lineage (offices_1988.json lineage_gaps)"
+   },
+   {
+    "from": "해양수산부 created 1996-08-08",
+    "to": "신상우 start 1996-08-09",
+    "gap_days": 1,
+    "overlap_days": 0,
+    "why": "one-day vacancy under the 임명장 rule. No acting head (no 차관 until 1996-08-13). Disappears under the 8 Aug reading (see disputes)."
+   },
+   {
+    "from": "신상우 end 1997-08-06",
+    "to": "조정제 start 1997-08-06",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "why": "same-day handover by the successor rule. Under the 8·5 farewell reading 신상우 would end 1997-08-05 and the overlap would vanish."
+   },
+   {
+    "from": "조정제 end 1998-03-03 (after the window)",
+    "to": "김선길 start 1998-03-03 (main roster)",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "why": "from_main, same-day handover"
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage).",
+  "field_hygiene": [
+   "appointing_president 김영삼 for both spells (starts 1996-08-09 and 1997-08-06). appointed_by_acting_president false, correct.",
+   "deputy_pm false for both. offices_1988.json OFA39 gives deputy_pm_title [].",
+   "ministry and office_title match OFA39 (해양수산부, 1996-08-08..1998-02-27) and offices.json OF022 after it.",
+   "reorg fields: 신상우 reorg_continuation false, reappointed_on_reorg null (first minister, no predecessor office). 조정제 keeps the main roster's values.",
+   "from_main: only 조정제, identical to roster/oceans.verified.json apart from the flag.",
+   "nominations: 신상우: nomination_date 1996-08-08 (announcement) confirmed by 서울신문 and 헤럴드경제 1996-08-09 above, outcome_date 1996-08-09 equals the spell start. No hearing and no consent vote applied (국무위원 hearings began in 2005). 조정제: nomination_date 1997-08-05 confirmed by 국민일보 and 세계일보 1997-08-06 above, outcome_date 1997-08-06 equals the spell start.",
+   "quotes: the builder's News Library quotes use unified CJK code points where the saved OCR text has compatibility ideographs (for example U+F90A for 金). They match after NFKC normalisation, not byte for byte."
+  ],
+  "per_spell": {
+   "0": {
+    "name": "신상우",
+    "ministry": "해양수산부",
+    "start": "1996-08-09",
+    "end": "1997-08-06",
+    "status": "disputed",
+    "checks": [
+     "start 1996-08-09 as the 임명장 day re-verified with outlets the builder did not cite: 한국경제 1996-08-10 '정책일관성 당부/김 대통령,새 각료에 임명장' (BigKinds news_id 02100601.20160116045921896, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20160116045921896&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:49:56-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_02100601.20160116045921896.json) [quote: '김영삼 대통령은 9일 오전 청와대에서 한승수 신임 부총리겸 재정경제원장관을 비롯한 강봉균 정보통신, 이성호 보건복지, 신상우 해양수산,구본영 과기처, 김윤덕 정무제2장관에게 각각 임명장을 수여했다.'] [summary: 신상우 named among the ministers given the 임명장 on the morning of 9 Aug 1996] | 중부매일 1996-08-10 '신임각료에 임명장' (BigKinds news_id 01400401.19960810130645104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01400401.19960810130645104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:41:52-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01400401.19960810130645104.json) [quote: '金泳三대통령은 9일 오전 청와대에서 韓昇洙 신임 부총리 겸 재경원 장관을 비롯, 康奉均 정보통신, 李聖浩 보건복지, 辛相佑 해양수산,'] [summary: same list as 한국경제, probably the same wire copy, so counted with it as one line] | 서울신문 1996-08-10 '“정책 일관성 유지”/김 대통령 신임각료에 임명장' (BigKinds news_id 01100611.20160421011512425, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421011512425&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:50:10-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100611.20160421011512425.json) [quote: '이날 임명장을 받은 장관과 청와대수석은 강봉균 정보통신·이성호 보건복지·신상우 해양수산·구본영 과기처·김육덕 정무제2장관과 장관급으로 격상된 이원종 청와대정무수석,이석채 신임경제수석 등이다.'] [summary: the same article dates the ceremony '9일 상오'] | 매일신문 1996-08-10 '몸 아끼지 말고 열심히하라' (BigKinds news_id 01500601.19960810082437001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500601.19960810082437001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:42:24-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01500601.19960810082437001.json) [quote: '김대통령은 신상우(辛相佑)해양수산장관에게 『여러부처의 기능을 통합해 놓은 것인 만큼 초대장관으로서 부처업무의 기초를 잘 닦아야 하니 유념해서 잘하라』고 당부.'] [summary: remarks made at the 9 Aug morning 임명장 ceremony ('9일오전 청와대에서 ... 임명장을 수여한뒤')] | 세계일보 1996-08-10 '“업무­인력 통합에 최선”/신상우 해양수산장관 회견' (BigKinds news_id 01100701.19960810000000903, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960810000000903&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T10:12:18-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100701.19960810000000903.json) [quote: '신상우 초대 해양수산부장관은 9일 취임후 첫 기자회견을 갖고'] [summary: took office and met the press on 9 Aug 1996]. The 임명장 was given on the morning of 9 Aug 1996.",
+     "start disputed, value kept. Evidence for 1996-08-08 as the legal appointment date: 경향신문 1996-08-08 '해양부 장관 오늘 임명' (BigKinds news_id 01100101.19960808000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19960808000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:53:46-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100101.19960808000000104.json) [quote: '청와대의 한 고위관계자는 7일 『해양수산부직제안이 8일자 관보에 게재되는 것에 맞춰 장관이 임명될 것으로 안다』고 말했다.'] [summary: 청와대 said on 7 Aug that the minister would be appointed to coincide with the 8 Aug 관보 carrying the 직제 (same article in the News Library, 1996080800329101007)] | 매일경제 1996-08-08 p.2 '오늘 소폭 개각' (Naver News Library article 1996080800099102015, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996080800099102015), accessed 2026-09-26T13:54:12-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1996080800099102015.json) [quote: '해양수산부 직제안이 내일 관보에 게재되는 것과 맞춰 해양부장관이 임명될 것으로 안다'] [summary: same 청와대 statement in a second paper] | 서울신문 1996-08-09 '경제부총리 한승수씨/6개부처 개각' (BigKinds news_id 01100611.20160421011310504, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421011310504&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:43:18-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100611.20160421011310504.json) [quote: '김영삼 대통령은 8일 부총리겸 재정경제원장관을 경질,나웅배 경제부총리 후임에 신한국당 한승수 의원을 임명하는 등 6개 부처 장관을 교체 혹은 새로 임명하는 부분개각을 단행했다.'] [summary: the 8·8 개각 reported as appointments made on 8 Aug, with 신상우 as 초대 해양수산부장관] | 헤럴드경제 1996-08-09 '辛相佑 해양수산부장관' (BigKinds news_id 02100701.19960809013002101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100701.19960809013002101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:00:57-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_02100701.19960809013002101.json) [quote: '辛相佑 초대 해양수산부장관은 8일 『수산청·항만청 등 12개 정부부처에 분산돼 있던'] [summary: spoke as 초대 해양수산부장관 on 8 Aug, after the announcement]. The builder's own 동아일보 1996-08-08 p.2 says the same ('이날짜로 초대장관을 임명할 것으로 보인다'). Tier 2 lists give 8 Aug (mof.go.kr 역대장관 '1996. 8. 8', 대통령기록관 일정 row '1996-08-08 초대 해양수산부 장관 임명', both in the builder file), and so does Namu Wiki (tier 4, not used by the builder, https://namu.wiki/w/%ED%95%B4%EC%96%91%EC%88%98%EC%82%B0%EB%B6%80%EC%9E%A5%EA%B4%80, accessed 2026-09-26T13:25:34-0400, snapshot roster/sources/oceans/ext88_verify/lists/namu_해양수산부장관.html, row '1996년 8월 8일 ~ 1997년 8월 6일'). No 관보 file exists for 1996 (gazette_issues_on 1996-08-08..12 lists 제13382호 to 제13385호 with file_size 0, issue downloads return HTTP 500). The 8 Aug reading rests on a pre-event 청와대 statement and on lists that do not say which act they date, and the 9 Aug reading rests on day-of reports of the 임명장. Under the build rule (start = 임명장 day when no gazette exists) 1996-08-09 stands. Neither side is tier 1, so the value is not changed.",
+     "end 1997-08-06 re-verified as the successor's start with sources the builder did not cite: 경향신문 1997-08-06 p.1 '11개부처 장관 경질' (Naver News Library article 1997080600329101004, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600329101004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600329101004&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00032&pageNo=1&printNo=16180&publishType=00010, accessed 2026-09-26T10:17:05-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080600329101004.json) [quote: '6일 오전 신임 각료들에게 임명장을 수여할 예정이다.'] [summary: 8·5 개각 announced on the afternoon of 5 Aug, 임명장 scheduled for the morning of 6 Aug] | 한겨레 1997-08-07 p.7 '정부부처 대응 KAL기 참사 청와대\"개각하자마자 대참사\"침통' (Naver News Library article 1997080700289107001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080700289107001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080700289107001&editNo=6&printCount=1&publishDate=1997-08-07&officeId=00028&pageNo=7&printNo=2951&publishType=00010, accessed 2026-09-26T09:35:23-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080700289107001.json) [quote: '김 대통령은 이날 오전 9시30분11개 부처 신임각료에게 임명장을 수여한 뒤'] [summary: '이날' is 6 Aug 1997 (the article opens with '청와대는6일 새벽 3시께'), so the 11 new ministers took office at 09:30 on 6 Aug] | 세계일보 1997-08-06 '11개부처 개각단행/고건 총리 강­권 부총리 유임/김 대통령' (BigKinds news_id 01100701.19970806000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19970806000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:39:54-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100701.19970806000000101.json) [quote: '신한국당 당적을 보유한 8명의 각료중 강경식 경제부총리를 제외한 정시채 농림 강현욱 환경 손학규 보건복지 신상우 해양수산 김한규 총무처 신경식 정무1 김윤덕 정무2장관 등 7명은 전원 교체됐다.'] [summary: 신상우 replaced (not resigned) in the 8·5 개각].",
+     "end disputed, value kept. Evidence for 1997-08-05: the builder's 조선일보 1997-08-07 p.10 ('5일해양수산부장관에서 물러난 辛相佑') and 조선일보 1997-08-05 p.4 '\"총장등「큰떡」은 지주류에\"' (Naver News Library article 1997080500239104006, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080500239104006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080500239104006&editNo=1&printCount=1&publishDate=1997-08-05&officeId=00023&pageNo=4&printNo=23787&publishType=00010, accessed 2026-09-26T13:44:42-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080500239104006.json) [quote: '개각때 해양수산부장관직에서 물러날 辛相佑(신상우)(신상우)의원'] [summary: before the reshuffle, expected to leave the post at the 개각]. Other outgoing ministers of the same reshuffle left on the announcement day: 조선일보 1997-08-06 p.2 '◇“수고하셨습니다”' (Naver News Library article 1997080600239102012, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600239102012), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239102012&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=2&printNo=23788&publishType=00010, accessed 2026-09-26T13:44:57-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080600239102012.json) [quote: '姜雲太(강운태) 내무장관(오른쪽)이 5일 오후 이임식을 마치고 간부들과 악수하고 있다.'] [summary: an outgoing 8·5 minister (내무) held his farewell on the afternoon of 5 Aug, before the successors' 임명장] | 동아일보 1997-08-06 p.4 '떠나는 장관' (Naver News Library article 1997080600209104002, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600209104002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600209104002&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00020&pageNo=4&printNo=23614&publishType=00010, accessed 2026-09-26T09:45:37-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080600209104002.json) [quote: '5일 개각에서 경질된 姜雲太(강운태)(강운태·왼쪽)전내무장관과 安秉永(안병영)(안병영)전교육부장관이 이임식을 가진 뒤'] [summary: 내무 and 교육 farewells on the day of the announcement]. Against this, the outgoing 환경부장관 held a joint ceremony on the 6th: 전북도민일보 1997-08-07 '새萬金등 현안사업 예산반영 총력' (BigKinds news_id 01601001.19970807150517016, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601001.19970807150517016&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:24-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01601001.19970807150517016.json) [quote: '6일 강의원은 환경부장관 이?취임식을 마치자마자'] [summary: the outgoing 환경부장관 강현욱 held a joint 이·취임식 on 6 Aug, so practice differed by ministry]. No report of 신상우's own 이임식 was found (BigKinds 이임, 이임식, 이·취임식, 이취임식, 이임사, 떠나는 장관, 신상우 장관, 신상우 의원, 신상우 전장관, 해양수산부 신상우, 해양수산부 over 1997-08-05..09-30, and News Library 이임, 이임식, 이취임식, 辛相佑, 해양수산부 over 1997-08-05..08-20, run by roster/scripts/oceans_ext88_verify_03_targeted.py and _04_exit_hunt.py, outputs ext88_verify/targeted.json and exit_hunt.json). With no documented farewell, the builder's rule (successor's start) gives 1997-08-06. 부산일보 1997-08-20 '부산의원들 오늘 회동...경선 앙금풀고 대선역할 모색할 듯' (BigKinds news_id 01500701.20160409213401278, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409213401278&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:55:55-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01500701.20160409213401278.json) [quote: '신상우 전해양수산부장관'] [summary: back in the Assembly as a former minister by 20 Aug 1997].",
+     "no short tenure and no break. Retained through the 12·20 개각 of 1996 and the 3·5 개각 of 1997: 동아일보 1996-12-21 p.3 '大選(대선) 앞두고 지역안배 신경' (Naver News Library article 1996122100209103003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996122100209103003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100209103003&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00020&pageNo=3&printNo=23402&publishType=00010, accessed 2026-09-26T13:47:19-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1996122100209103003.json) [quote: '辛相佑(신상우)(신상우·부산)해양수산'] [summary: listed among the sitting 국무위원 after the 12·20 개각 of 1996] | 세계일보 1997-03-19 '독도행사 정부 첫 주관/「바다의 날」 맞춰 의원 방문 등 대규모' (BigKinds news_id 01100701.19970319000002109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19970319000002109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:59:47-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100701.19970319000002109.json) [quote: '신상우 해양수산부 장관은 18일 기자간담회를 갖고'] [summary: still minister on 18 Mar 1997, after the 3·5 개각] | 조선일보 1997-03-18 p.6 '“당무엔 협력…大權(대권)엔 중립”' (Naver News Library article 1997031800239106001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997031800239106001), accessed 2026-09-26T14:00:07-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997031800239106001.json) [quote: '모임에는 金(김)의장과 辛相佑(신상우)(신상우)해양수산부장관'] [summary: styled 해양수산부장관 after the 3·5 개각]. The tally below shows him as minister in every month from 1996-08 to 1997-07 and last on 1997-08-01.",
+     "vacancy on 1996-08-08 (under the 임명장 rule) has no acting head, correctly: 한국경제 1996-08-14 '차관급 등 9명 인사/과기자문위원장 한영성' (BigKinds news_id 02100601.20160116050250956, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20160116050250956&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:54:58-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_02100601.20160116050250956.json) [quote: '김영삼 대통령은 13일 국무총리행조실장에 김용진 은행감독원장을,해양수산부 차관에 임창렬 과기처 차관을 임명하는등'] [summary: the ministry's first 차관 (임창열) was appointed on 13 Aug 1996, so no 차관 existed on 8 Aug] | 경향신문 1996-08-14 p.4 '차관급 인사 배경' (Naver News Library article 1996081400329104001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1996081400329104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1996081400329104001&editNo=40&printCount=1&publishDate=1996-08-14&officeId=00032&pageNo=4&printNo=15852&publishType=00010, accessed 2026-09-26T13:54:31-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1996081400329104001.json) [quote: '林昌烈(임창열)해양수산부차관은 정치인출신인 辛相佑(신상우)장관의 행정경험부족을 보완하기 위해 이동된 경우라고 청와대 관계자는 밝혔다.'] [summary: first 차관 named on 13 Aug 1996].",
+     "end_reason 'replaced' confirmed (세계일보 1997-08-06 above). He did not resign to run in any election.",
+     "fields: appointing_president 김영삼 (start inside 1993-02-25..1998-02-24), appointed_by_acting_president false, deputy_pm false (offices_1988.json OFA39 deputy_pm_title []), ministry and office_title match OFA39 (해양수산부 from 1996-08-08), reorg_continuation false and reappointed_on_reorg null are right for the first minister of a new ministry with no 국무위원 predecessor. birth_date 1937-05-20 and gender were not re-sourced (the builder cites the NA member file and ko.wikipedia).",
+     "[step 7, 2026-09-27] end re-hunted with queries not run before. BigKinds 해양부장관, 조정제 장관, 해양수산부 취임식, 해양수산부 이임식, 신 장관 이임, 해양수산부장관 신상우 and News Library 해양부, 趙正濟, 해양수산부장관, 떠나는 over 1997-08-05..08-09, plus the News Library headline index of every page of 동아일보, 경향신문, 매일경제, 조선일보 and 한겨레 on 1997-08-06 and 1997-08-07 (4343 headlines, filtered for 해양, 신상우, 辛相佑, 조정제, 趙正濟, 이임, 떠나 and 취임) (roster/scripts/oceans_ext88_verify_08_rerun.py, output roster/sources/oceans/ext88_verify/rerun_2026-09-27.json, search snapshots with the rr_ prefix in ext88_verify/bk and ext88_verify/nl, run 2026-09-27T21:52..21:53-0400). No report of 신상우's own 이임식 was found. The only farewell photo remains the 내무 and 교육 one already cited. New full texts: 조선일보 1997-08-06 p.4 '법무-교육-복지-노동부“뜻밖”' (Naver News Library article 1997080600239104001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080600239104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600239104001&editNo=1&printCount=1&publishDate=1997-08-06&officeId=00023&pageNo=4&printNo=23788&publishType=00010, fetched 2026-09-26T09:28:32-0400 (shared HTTP cache, read again 2026-09-27), snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080600239104001.json) [quote: '〇…해양수산부 직원들은 하마평에 오르던 인사들중 해양수산 업무에 가장 밝은 趙正濟(조정제)(조정제)해양수산개발원장이 임명되자 안도하는 표정.'] [summary: the ministry-by-ministry report on 5 Aug has a 해양수산부 item but, unlike the 내무 and 교육 items, no farewell by the outgoing minister] | 부산일보 1997-08-06 '조정제 신임 해양부장관 취임, 부산 신항 건설 가속화될 듯' (BigKinds news_id 01500701.20160409212350682, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409212350682&returnCnt=1&sectionDiv=1000, fetched 2026-09-27T21:53:27-0400 (shared HTTP cache, read again 2026-09-27), snapshot roster/sources/oceans/ext88_verify/bk/bk_01500701.20160409212350682.json) [quote: '전임 신상우 장관과도 호흡이 잘 맞았던 점에 미뤄'] [summary: the 6 Aug issue, written after the 5 Aug announcement, already calls 신상우 the predecessor. This is press usage on announcement day and does not date his last day in office]. The end stays disputed and the value is kept."
+    ]
+   },
+   "1": {
+    "name": "조정제",
+    "ministry": "해양수산부",
+    "start": "1997-08-06",
+    "end": "1998-03-03",
+    "status": "confirmed",
+    "checks": [
+     "from_main record, left untouched. It is identical to roster/oceans.verified.json apart from the from_main flag (compared field by field).",
+     "start 1997-08-06 confirmed with sources the builder and the main-roster verifier did not cite: 한겨레 1997-08-07 p.7 '정부부처 대응 KAL기 참사 청와대\"개각하자마자 대참사\"침통' (Naver News Library article 1997080700289107001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1997080700289107001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1997080700289107001&editNo=6&printCount=1&publishDate=1997-08-07&officeId=00028&pageNo=7&printNo=2951&publishType=00010, accessed 2026-09-26T09:35:23-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1997080700289107001.json) [quote: '김 대통령은 이날 오전 9시30분11개 부처 신임각료에게 임명장을 수여한 뒤'] [summary: '이날' is 6 Aug 1997 (the article opens with '청와대는6일 새벽 3시께'), so the 11 new ministers took office at 09:30 on 6 Aug] | 부산일보 1997-08-07 '해양수산부, 새로운 해양관리방식 도입 검토' (BigKinds news_id 01500701.20160409212439873, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.20160409212439873&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:45:29-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01500701.20160409212439873.json) [quote: '조정제 신임 해양수산부장관은 6일 취임이후 첫 기자간담회를 갖고'] [summary: 조정제 took office on 6 Aug 1997 (the ministry page's 7 Aug is not supported)] | 한국경제 1997-08-08 '오늘 경제장관회의 개각이후 처음 열려' (BigKinds news_id 02100601.20160116114446410, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.20160116114446410&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:46:05-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_02100601.20160116114446410.json) [quote: '이날 회의에는 새로 입각한 이효계 농림, 윤여준 환경, 최광 보건복지,이기호 노동, 조정제 해양수산부장관 등이 처음으로 참석한다.'] [summary: the same article speaks of '지난 6일 개각이후'] | 국민일보 1997-08-06 '선거관리내각 구성/당적각료 모두 교체… 고총리 유임/김 대통령' (BigKinds news_id 01100201.19970806000000201, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19970806000000201&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:26:59-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100201.19970806000000201.json) [quote: '해양수산부장관에 조정제 해양수산개발원장'] [summary: 조정제 named on 5 Aug 1997 ('김영삼 대통령은 5일 개각을 단행,11개부처 장관을 경질했다')]. The mof.go.kr and Namu Wiki '1997년 8월 7일' start has no same-day support.",
+     "end 1998-03-03 confirmed: 한겨레 1998-03-04 p.1 '김종필 총리서리 임명' (Naver News Library article 1998030400289101001, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998030400289101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998030400289101001&editNo=5&printCount=1&publishDate=1998-03-04&officeId=00028&pageNo=1&printNo=3131&publishType=00010, accessed 2026-09-26T12:57:40-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1998030400289101001.json) [quote: '해양수산부 장관에는 김선길자민련 의원(충북 충주)이 임명됐다. 김대통령은이날 오후 신임 장관들에게 임명장을주고'] [summary: successor 김선길 appointed and given the 임명장 on the afternoon of 3 Mar 1998] | 경남신문 1998-03-04 '金鐘泌총리서리 취임식 이모저모' (BigKinds news_id 01500051.19980304153352107, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500051.19980304153352107&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:46:53-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01500051.19980304153352107.json) [quote: '정부 세종로 청사는 3일 단행된 金鍾泌총리서리 체제 내각 발표로 각 부처에서 이ㆍ취임식을 거행하는 등 종일 분주한 모습을 보였다.'] [summary: farewell and inaugural ceremonies in each ministry on 3 Mar 1998]. Still in office in February 1998: 서울신문 1998-02-04 '“일에 추가 강경조치 강구”/조정제 해양수산' (BigKinds news_id 01100611.20160421183416033, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421183416033&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T14:00:33-0400, snapshot roster/sources/oceans/ext88_verify/bk/bk_01100611.20160421183416033.json) [quote: '조정제 해양수산부 장관은 3일'] [summary: in office on 3 Feb 1998] | 조선일보 1998-02-25 p.4 '떠나는 閣僚(각료)들 한마디' (Naver News Library article 1998022500239104003, text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1998022500239104003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1998022500239104003&editNo=1&printCount=1&publishDate=1998-02-25&officeId=00023&pageNo=4&printNo=23978&publishType=00010, accessed 2026-09-26T13:47:07-0400, snapshot roster/sources/oceans/ext88_verify/nl/nl_1998022500239104003.json) [quote: '▲조정제(趙正濟(조정제))해양수산=부가 존속돼 다행이다.'] [summary: outgoing remarks at the change of government (he stayed as caretaker until 3 Mar)]. The mof.go.kr and Namu '1998. 3. 2' end is the day before the successor's appointment (their convention).",
+     "fields: appointing_president 김영삼, deputy_pm false, office_title 해양수산부장관 (법률 제5529호 of 1998-02-28 kept the name, so no split).",
+     "[step 7, 2026-09-27] start 1997-08-06 also confirmed by a report the earlier passes did not read: 서울신문 1997-08-07 '신임 농림·해양장관 기자간담' (BigKinds news_id 01100611.20160421115528666, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421115528666&returnCnt=1&sectionDiv=1000, fetched 2026-09-26T09:42:53-0400 (shared HTTP cache, read again 2026-09-27), snapshot roster/sources/oceans/ext88_verify/bk/bk_01100611.20160421115528666.json) [quote: '조정제 신임해양수산부장관은 6일 “한국이 동북아 물류 중심기지로 성장하기 위해서는 부산 가덕신항과 광양항의 조기 활성화가 꼭 필요하다”고 강조했다.'] [summary: 조정제 spoke as the new minister on 6 Aug 1997] | 서울신문 1997-08-07 '신임 농림·해양장관 기자간담' (BigKinds news_id 01100611.20160421115528666, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421115528666&returnCnt=1&sectionDiv=1000, fetched 2026-09-26T09:42:53-0400 (shared HTTP cache, read again 2026-09-27), snapshot roster/sources/oceans/ext88_verify/bk/bk_01100611.20160421115528666.json) [quote: '조장관은 이날 취임 인터뷰에서'] [summary: the interview was his 취임 interview on 6 Aug, and the same article says 이효계 held his 취임식 on the 6th ('이장관은 6일 취임식 후')]."
+    ]
+   }
+  },
+  "changes": [],
+  "disputes": [
+   "신상우 start: 1996-08-09 kept (임명장 day, 한국경제, 중부매일, 서울신문, 매일신문 and 세계일보 1996-08-10, plus the builder's 서울경제, 한겨레, 경인일보, 매일경제) against 1996-08-08 (청와대 statement of 7 Aug in 경향신문 and 매일경제 1996-08-08 that the minister would be appointed to coincide with the 8 Aug 관보 of the 직제, mof.go.kr list, 대통령기록관 일정, Namu Wiki). No 관보 for 1996 is available.",
+   "신상우 end: 1997-08-06 kept (successor's 임명장 at 09:30, 한겨레 1997-08-07) against 1997-08-05 (조선일보 1997-08-05 and 1997-08-07 on 신상우, and the 5 Aug afternoon farewells of 강운태 and 안병영 in 조선일보 and 동아일보 1997-08-06). No 해양수산부 farewell report was found.",
+   "Project-level, same reshuffles in other lineages (sibling files read 2026-09-27T21:55:11-0400). For the 8·8 개각 of 1996 the appointees given the 임명장 with 신상우 start on 1996-08-09 in finance 한승수, health 이성호, science 구본영, gender 김윤덕. ict 강봉균 (from_main, ict.ext88.verified.json) still starts on 1996-08-08, and the ICT verifier marked that record disputed with the same 9 Aug evidence. For the 8·5 개각 of 1997 the outgoing minister ends on 1997-08-05 in justice 최상엽 and education 안병영 and on 1997-08-06 in interior 강운태, agriculture 정시채, environment 강현욱, health 손학규, labor 진념, general_affairs 김한규, special 신경식, gender 김윤덕, although 강운태 (내무) has a documented 5 Aug farewell. On the incoming side justice starts 김종구 on 1997-08-05 (from_main record, the announcement day), while the eleven new ministers were given the 임명장 together at 09:30 on 1997-08-06 (한겨레 1997-08-07 p.7, cited above). Files without a verified version yet: health.ext88.json. One rule should be applied across lineages.",
+   "조정제 (from_main): the mof.go.kr and Namu dates 1997-08-07 and 1998-03-02 differ from the roster's 1997-08-06 and 1998-03-03. Day-of reports support the roster, so nothing is disputed in the record itself."
+  ],
+  "scripts": [
+   "roster/scripts/oceans_ext88_verify_01_tally.py",
+   "roster/scripts/oceans_ext88_verify_02_lists.py",
+   "roster/scripts/oceans_ext88_verify_03_targeted.py",
+   "roster/scripts/oceans_ext88_verify_04_exit_hunt.py",
+   "roster/scripts/oceans_ext88_verify_05_fulltext.py",
+   "roster/scripts/oceans_ext88_verify_06_builder_quotes.py",
+   "roster/scripts/oceans_ext88_verify_07_build.py",
+   "roster/scripts/oceans_ext88_verify_08_rerun.py",
+   "roster/scripts/oceans_ext88_verify_09_rerun_build.py"
+  ],
+  "snapshots": "roster/sources/oceans/ext88_verify/ (nl = News Library search and article JSON, bk = BigKinds search and article JSON, lists = Namu Wiki and Wikidata, fulltext.json, targeted.json, exit_hunt.json, monthly_tally.json, builder_quote_check.json, builder_cited_ids.json, rerun_2026-09-27.json and rr_* search snapshots from step 7)",
+  "rechecked_at": "2026-09-27T21:55:11-0400"
+ }
+}

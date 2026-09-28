@@ -1,0 +1,1329 @@
+{
+ "lineage": "ict",
+ "built_at": "2026-09-25T13:18:41-0400",
+ "ministry_names": [
+  {
+   "ministry": "정보통신부",
+   "from": "1994-12-23",
+   "to": "2008-02-28",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제4831호 (1994-12-23) 제29조 establishes 정보통신부 (renamed from 체신부). In force at window start: 법률 제5153호 (1996-08-08) 제29조. 법률 제5529호 전부개정 (1998-02-28) 제26조·제38조 continues it with the same name. 법률 제8852호 전부개정 (2008-02-29) 부칙 제2조 abolishes it. The minister was a 국무위원 throughout. No deputy PM title.",
+   "source": "offices.json OF017 (window from 1998-02-25), law snapshots roster/sources/ict/law/govorg_19941223_5923.json, govorg_text_19980228_58504.json, govorg_text_20080229_83239.json"
+  }
+ ],
+ "spells": [
+  {
+   "name": "강봉균",
+   "name_hanja": "康奉均",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1943-08-13",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "1996-08-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds metadata 세계일보 1996-08-09 news_id 01100701.19960809000000101: 김영삼 대통령은 8일 ... 6개부처 부분개각, 정보통신 강봉균 (snapshot roster/sources/ict/news/bk_68d8d835_1996-08-06_1996-08-10.json)",
+    "BigKinds metadata 한국일보 1996-08-09 news_id 01101101.19960809000000101: 김영삼 대통령은 8일 하오 ... 정보통신 강봉균 (snapshot roster/sources/ict/news/bk_68d8d835_1996-08-06_1996-08-10.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 강봉균 1996. 8. 8. ~ 1998. 3. 2.",
+    "연합뉴스 1996-08-08 15:57 '<인터뷰> 康奉均정보통신장관' https://n.news.naver.com/mnews/article/001/0004065446 (accessed 2026-09-25T13:54:19-0400, snapshot roster/sources/ict/verify/naver_001_0004065446.html) quote '康奉均 신임 정보통신장관은 8일 오후 개각이 발표된 직후 국무총리 행정조정실장 집무실에서 출입기자들과 만나' [verifier]",
+    "연합뉴스 1996-08-09 10:07 '金대통령 신임각료에 임명장(종합)' https://n.news.naver.com/mnews/article/001/0004065169 (accessed 2026-09-25T13:54:22-0400, snapshot roster/sources/ict/verify/naver_001_0004065169.html) quote '金泳三대통령은 9일오전 청와대에서 韓昇洙 신임 부총리겸 재경원장관을 비롯, 康奉均정보통신 ... 에게 각각 임명장을 수여했다' [verifier]",
+    "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050915170452/http://www.mic.go.kr:80/mic/intro_past_min_mic.jsp (capture 2005-09-15, accessed 2026-09-25T21:39:31-0400, snapshot roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.html, text roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.txt) quote '성 명 강봉균 재임기간 1996년 8월 8일 ~1998년 3월 2일' [verifier]"
+   ],
+   "end": "1998-02-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 1998-02-26 10:03 https://n.news.naver.com/mnews/article/001/0004299352: 25일 金대통령의 취임과 함께 康장관이 청와대 정책수석 임명장을 받았기 때문에 장관직을 사직한 상태, 朴成得차관이 장관 직무를 대행 (accessed 2026-09-25T07:05:39-0400, snapshot roster/sources/ict/news/naver_001_0004299352.html)",
+    "연합뉴스 1998-02-27 11:23 https://n.news.naver.com/mnews/article/001/0004300712: 康奉均 前장관이 청와대 정책수석으로 자리를 옮기면서 장관이 공석 (accessed 2026-09-25T07:05:40-0400, snapshot roster/sources/ict/news/naver_001_0004300712.html)",
+    "BigKinds metadata 한국일보 1998-02-26 news_id 01101101.19980226000000203: 김대중 대통령 25일 하오 부부동반 수석들에 임명장 수여 (snapshot roster/sources/ict/news/bk_9d4754e9_1998-02-25_1998-02-27.json)",
+    "BigKinds metadata 한국경제 1998-02-27 news_id 02100601.20160116161041240: 강봉균 정책기획수석 산하 비서관 업무분장 (he is 정책기획수석 by 1998-02-27) (snapshot roster/sources/ict/news/bk_7c7cff92_1998-02-10_1998-03-03.json)",
+    "연합뉴스 1998-02-25 10:37 '金대통령 청와대 첫 집무 안팎' https://n.news.naver.com/mnews/article/001/0004299293 (accessed 2026-09-25T13:47:26-0400, snapshot roster/sources/ict/verify/naver_001_0004299293.html) quote '청와대 본관앞에 도착, 康奉均청와대정책기획수석의 영접과 함께' [verifier]",
+    "BigKinds metadata 한겨레 1998-02-27 news_id 01101001.19980227000000405 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:50:02-0400, snapshot roster/sources/ict/verify/bk_04c271bd_1998-02-20_1998-02-27.json) quote '새 장관 임명 전까지는 현 장관의 임기가 계속된다는 법제처의 유권해석에 따라 정부 각 부처들은 26일 현 장관이 자리를 지켰지만' [verifier]",
+    "BigKinds metadata 중앙일보 1998-03-03 news_id 01100901.19980303230224002 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:53:59-0400, snapshot roster/sources/ict/verify/bk_8742dc95_1998-02-24_1998-03-04.json) quote '2일 개교, 입학식 ... 박성득 (朴成得) 정보통신부 차관 등 ... 참석 (the 차관, not a minister, represents the ministry on 1998-03-02)' [verifier]"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting member during the spell. Later 16th NA member (새천년민주당, 전북 군산시, by-election, seat 2002-08-08..2004-05-29), 17th (열린우리당, 2004-05-30..2008-05-29) and 18th (통합민주당, 2008-05-30..2012-05-29), mona_cd 7PU7009N",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06). No row in minister_role_meetings.csv.",
+   "notes": "Kim Young-sam holdover. Named 청와대 정책기획수석 designate on 1998-02-10 while sitting minister (BigKinds 중앙일보 1998-02-11 01100901.19980211224319002) and received the 수석 임명장 on inauguration day, so he left the ministry on 1998-02-25 (end_reason other = moved to 대통령비서실 정책기획수석). The MSIT page gives 1998-03-02, the day before his successor, which conflicts with the same-week Yonhap reports of a vacancy from 1998-02-26. Later 16th-18th NA member (전북 군산), not a sitting MP during the spell. Birth date from na_members_15_22.csv (NA API) and ko.wikipedia '강봉균 (정치인)' https://ko.wikipedia.org/w/index.php?oldid=41473480 (accessed 2026-09-25T13:12:45-0400, secondary)."
+  },
+  {
+   "name": "배순훈",
+   "name_hanja": "裵洵勳",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1943-04-30",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1998-03-03 12:39 https://n.news.naver.com/mnews/article/001/0004372354: 金대통령은 ... 정보통신부장관에 裵洵勳대우전자회장 ... 을 각각 임명했다 (accessed 2026-09-24T22:44:26-0400, snapshot roster/sources/ict/news/naver_001_0004372354.html)",
+    "BigKinds metadata 경향신문 1998-03-04 news_id 01100101.19980304000000101: 새 내각 출범 ... 정보통신 배순훈 (snapshot roster/sources/ict/news/bk_eba35350_1998-03-02_1998-03-05.json)",
+    "BigKinds metadata 중앙일보 1998-03-04 news_id 01100901.19980304230318002: 3일 임명된 김대중 정권의 초대 내각 장관 (snapshot roster/sources/ict/news/bk_eba35350_1998-03-02_1998-03-05.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 배순훈 1998. 3. 3. ~ 1998. 12. 20.",
+    "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎' https://n.news.naver.com/mnews/article/001/0004368749 (accessed 2026-09-24T22:44:23-0400, snapshot roster/sources/ict/verify/naver_001_0004368749.html) quote '金大中대통령은 3일오전 `국민의 정부' 초대 내각을 발표한 데 이어 오후 청와대 본관 세종실에서 신임 각료들에게 임명장을 수여했다. 金대통령은 현재 파리에서 귀국중인 裵洵勳정보통신부장관을 제외한 16개 부처 신임 장관들에게 임명장을' [verifier]",
+    "연합뉴스 1998-03-04 18:37 '金대통령 안기부장등 임명장 수여식 이모저모' https://n.news.naver.com/mnews/article/001/0004379076 (accessed 2026-09-24T22:37:16-0400, snapshot roster/sources/ict/verify/naver_001_0004379076.html) quote '金大中대통령은 4일 청와대에서 ... 李鍾贊안기부장과 陳稔 기획예산위원장, 裵洵勳정보통신부장관에게 임명장을 수여했다' [verifier]",
+    "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050915170452/http://www.mic.go.kr:80/mic/intro_past_min_mic.jsp (capture 2005-09-15, accessed 2026-09-25T21:39:31-0400, snapshot roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.html, text roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.txt) quote '성 명 배순훈 재임기간 1998년 3월 3일 ~1998년 12월 20일' [verifier]"
+   ],
+   "end": "1998-12-18",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata 동아일보 1998-12-19 news_id 01100401.19981219100327001: 裵洵勳정통장관 사표 전격수리 ... 사표가 18일 전격 수리됐다 (snapshot roster/sources/ict/news/bk_a0fa37a1_1998-12-17_1998-12-22.json)",
+    "BigKinds metadata 서울경제 1998-12-19 news_id 02100311.19981219161842001: 18일 김대중 대통령에게 사표를 제출 ... 박지원 대변인 '裵장관의 사표는 수리됐으며' (snapshot roster/sources/ict/news/bk_a0fa37a1_1998-12-17_1998-12-22.json)",
+    "BigKinds metadata 매일경제 1998-12-20 news_id 02100101.20160114162325467: 배순훈 정보통신부 장관이 18일 전격 경질됐다 (snapshot roster/sources/ict/news/bk_a0fa37a1_1998-12-17_1998-12-22.json)",
+    "연합뉴스 1998-12-18 21:27 '청와대, 裵장관 사표수리 배경' https://n.news.naver.com/mnews/article/001/0004351414 (accessed 2026-09-25T13:57:52-0400, snapshot roster/sources/ict/verify/naver_001_0004351414.html) quote '金大中대통령이 18일 裵洵勳전정통부장관의 사표를 수리한 것은 형식상으론 裵전장관의 사의에 따른 것이지만 실제로는 ... 경질이다' [verifier]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06).",
+   "notes": "Appointed on 1998-03-03 while in Paris. He missed that day's 임명장 ceremony and received the 임명장 on 1998-03-04 (BigKinds 세계일보 1998-03-06 01100701.19980306000000906, 연합뉴스 1998-03-03 https://n.news.naver.com/mnews/article/001/0004368061). Start kept at the announced appointment date 1998-03-03, which the MSIT page also uses. Resignation was a de facto dismissal over his remarks against the 삼성-대우 빅딜. MSIT page end 1998-12-20 is the day before the successor, news of the day give acceptance on 1998-12-18. Birth date from ko.wikipedia '배순훈' https://ko.wikipedia.org/w/index.php?oldid=41282490 (accessed 2026-09-25T13:12:46-0400, secondary)."
+  },
+  {
+   "name": "남궁석",
+   "name_hanja": "南宮晳",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-09-20",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "1998-12-21",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds metadata 동아일보 1998-12-22 news_id 01100401.19981222100354002: 김대중 대통령은 21일 ... 신임 정보통신부장관에 남궁석 삼성SDS사장을 임명 (snapshot roster/sources/ict/news/bk_917b583d_1998-12-18_1998-12-24.json)",
+    "BigKinds metadata 국민일보 1998-12-21 news_id 01100201.19981221000000102: 21일 ... 임명 ... 오전 11시20분 임명장을 수여 (snapshot roster/sources/ict/news/bk_917b583d_1998-12-18_1998-12-24.json)",
+    "BigKinds metadata KBS 1998-12-21 news_id 08100101.19981221180417002: 남궁 석 신임 정보통신부 장관에게 임명장 (snapshot roster/sources/ict/news/bk_917b583d_1998-12-18_1998-12-24.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 남궁석 1998. 12. 21. ~ 2000. 2. 11.",
+    "연합뉴스 1998-12-21 10:55 '金대통령 정통장관에 南宮 晳씨 임명(대체)' https://n.news.naver.com/mnews/article/001/0004353443 (accessed 2026-09-25T13:58:14-0400, snapshot roster/sources/ict/verify/naver_001_0004353443.html) quote '金大中대통령은 21일 신임 정보통신부장관에 南宮 晳삼성SDS사장을 임명했다 ... 金대통령은 이날 오전 11시 30분 南宮장관에게 임명장을 수여했다' [verifier]"
+   ],
+   "end": "2000-02-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "한국경제 2000-02-11 16:26 https://n.news.naver.com/mnews/article/015/0000226332: 남궁 석 정보통신장관과 이상용 노동장관이 ... 11일 장관직을 사퇴했다 (accessed 2026-09-25T07:07:29-0400, snapshot roster/sources/ict/news/naver_015_0000226332.html)",
+    "BigKinds metadata SBS 2000-02-11 news_id 08100301.20000211180104001: 16대 총선에 출마하기 위해서 오늘 장관직을 사퇴 (snapshot roster/sources/ict/news/bk_7ac1e15c_2000-01-01_2000-02-20.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists end 2000. 2. 11.",
+    "BigKinds metadata 동아일보 2000-02-11 news_id 01100401.20000211015728043 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:59:15-0400, snapshot roster/sources/ict/verify/bk_c8963572_2000-02-10_2000-02-15.json) quote '남궁석(南宮晳)정보통신부장관과 이상룡(李相龍)노동부장관이 11일 이번 총선출마를 위해 사퇴함에 따라' [verifier]",
+    "BigKinds metadata 중앙일보 2000-02-12 news_id 01100901.20000212104027002 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:59:15-0400, snapshot roster/sources/ict/verify/bk_c8963572_2000-02-10_2000-02-15.json) quote '두 사람은 11일 김대중(金大中)대통령에게 사표를 냈으며' [verifier]",
+    "BigKinds metadata KBS 2000-02-11 news_id 08100101.20000211171446001 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:59:15-0400, snapshot roster/sources/ict/verify/bk_c8963572_2000-02-10_2000-02-15.json) quote '남궁석 정보통신부 장관과 이상룡 노동부 장관이 오늘 총선에 출마하기 위해서 사표를 제출함에 따라서' [verifier]",
+    "BigKinds metadata 동아일보 2000-02-02 news_id 01100401.20000202015710056 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:40:24-0400, snapshot roster/sources/ict/verify/bk_225868be_2000-02-02_2000-02-10.json) quote '남궁석 정보통신부장관은 2일 오후 태릉선수촌을 방문, 훈련중인 국가대표선수들을 격려하고' [verifier]",
+    "BigKinds metadata 전자신문 2000-02-09 news_id 07100501.20000209102850001 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:40:24-0400, snapshot roster/sources/ict/verify/bk_225868be_2000-02-02_2000-02-10.json) quote '정보통신부는 9일 오전 남궁석 장관과 안상영 부산시장 등이 참석한 가운데 부산SW지원센터와 정보통신교육원 부산분원 개소식을 갖고' [verifier]",
+    "BigKinds metadata 경남도민일보 2000-02-10 news_id 01500151.20000210174056109 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:40:24-0400, snapshot roster/sources/ict/verify/bk_225868be_2000-02-02_2000-02-10.json) quote '남궁석 정보통신부장관은 9일 오후 4시 김해시청을 방문하여' [verifier]"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting member during the spell. Later 16th NA member (새천년민주당, 경기 용인시갑, seat 2000-05-30..2004-05-29), mona_cd T8T6598Q",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript coverage (2000-06).",
+   "notes": "Resigned on 2000-02-11 to run in the 16th NA election (2000-04-13, 경기 용인), two days before the public-official resignation deadline of 2000-02-13 (BigKinds 매일경제 2000-02-14 02100101.20160115110807862). The exact acceptance date of the resignation is not reported separately. Elected 16th NA member (새천년민주당, 경기 용인시갑, na_members_15_22.csv), not a sitting MP during the spell. Wikipedia gives 2000-02-01 as the end, which no other source supports."
+  },
+  {
+   "name": "안병엽",
+   "name_hanja": "安炳燁",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1945-02-17",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2000-02-14",
+   "start_confidence": "medium",
+   "start_sources": [
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 안병엽 2000. 2. 14. ~ 2001. 3. 25.",
+    "BigKinds metadata 매일신문 2000-02-14 news_id 01500601.20000214171352016: 김대중 대통령은 14일 오전 청와대에서 신임 안병엽 정보통신부장관 ... 임명장을 수여 (snapshot roster/sources/ict/news/bk_2cbc4405_2000-02-11_2000-02-16.json)",
+    "BigKinds metadata 서울신문 2000-02-15 news_id 01100611.20160422163320320: 14일 청와대에서 ... 안병엽 정보통신부 장관에게 임명장을 수여 (snapshot roster/sources/ict/news/bk_2cbc4405_2000-02-11_2000-02-16.json)",
+    "한국경제 2000-02-12 12:43 https://n.news.naver.com/mnews/article/015/0000226440: 정통부장관에는 안병엽 정통부 차관을 승진 임명 (Blue House announcement of 2000-02-12) (accessed 2026-09-25T07:07:29-0400, snapshot roster/sources/ict/news/naver_015_0000226440.html)",
+    "한국경제 2000-02-14 10:18 '김대통령, 장관.방송위원에 임명장' https://n.news.naver.com/mnews/article/015/0000226674 (accessed 2026-09-25T13:54:54-0400, snapshot roster/sources/ict/verify/naver_015_0000226674.html) quote '김대중 대통령은 14일 오전 청와대에서 새로 임명된 안병엽 정보통신, 최선정 노동부장관에게 임명장을 수여했다' [verifier]",
+    "한국경제 2000-02-13 17:57 '정통장관 안병엽. 노동장관 최선정씨 임명' https://n.news.naver.com/mnews/article/015/0000226613 (accessed 2026-09-25T07:07:25-0400, snapshot roster/sources/ict/verify/naver_015_0000226613.html) quote '김대중 대통령은 12일 정보통신부장관에 안병엽 정통부 차관을 승진 임명하고 (evidence for the alternative date 2000-02-12)' [verifier]",
+    "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050307112031/http://www.mic.go.kr:80/mic/intro_past_min_mic_02.jsp (capture 2005-03-07, accessed 2026-09-25T21:39:32-0400, snapshot roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.html, text roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.txt) quote '성 명 안병엽 재임기간 2000년 2월 14일 ~ 2001년 3월 25일' [verifier]"
+   ],
+   "end": "2001-03-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "연합뉴스 2001-03-26 11:37 https://n.news.naver.com/mnews/article/001/0000062088: 김대중 대통령은 26일 ... 장관(급) 12명을 교체 ... 정보통신부장관엔 양승택 (accessed 2026-09-25T12:59:46-0400, snapshot roster/sources/ict/news/naver_001_0000062088.html)",
+    "동아일보 2001-03-26 23:01 https://n.news.naver.com/mnews/article/020/0000055269: 안병엽(安炳燁) 전 정통부 장관 ... 장관 교체 (accessed 2026-09-25T12:59:22-0400, snapshot roster/sources/ict/news/naver_020_0000055269.html)",
+    "관보 제14764호 (2001-03-30) 인사, section header '◉2001년 3 월26일자', text harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20010330_14764_00000000000000001319596776654000.pdf (accessed 2026-09-24T22:33:36-0400) (successor 양승택)",
+    "BigKinds metadata 매일경제 2001-03-26 news_id 02100101.20160116181609123 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T14:00:13-0400, snapshot roster/sources/ict/verify/bk_e3c6d2ac_2001-03-25_2001-03-28.json) quote '안병엽 전 정통부 장관은 26일 이임에 앞서 기자실을 들러' [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting member during the spell. Later 17th NA member (열린우리당, 경기 화성시, seat 2004-05-30..2006-11-10, 당선무효), mona_cd MWY71007",
+   "transcript_check": "ok",
+   "transcript_notes": "18 valid-type minister rows (국정감사, 상임위원회) dated 2000-06-26..2001-02-20, inside the spell.",
+   "notes": "Start is ambiguous by two days. The Blue House announced on Saturday 2000-02-12 that 차관 안병엽 was '승진 임명' (한국경제 2000-02-12 and 2000-02-13, BigKinds 경향신문 2000-02-13 01100101.20000213000000101), and the President handed over the 임명장 on Monday 2000-02-14, which the MSIT list uses as the start. No gazette exists for 2000. End set to the successor's appointment date (same-day handover). The MSIT page gives 2001-03-25, the day before. Later 17th NA member (경기 화성), not a sitting MP during the spell. Birth date from na_members_15_22.csv and ko.wikipedia '안병엽' https://ko.wikipedia.org/w/index.php?oldid=42545622 (accessed 2026-09-25T13:12:47-0400, secondary). VERIFIER (disputed start). Two dates are supported. 2000-02-14 is the date on both official lists (current MSIT page and the archived 정보통신부 page of 2005) and the 임명장 and 취임식 day (한국경제 2000-02-14 10:18, 매일신문 2000-02-14, 서울신문 2000-02-15). 2000-02-12 is the day news report as the appointment (한국경제 2000-02-13 17:57 '김대중 대통령은 12일 ... 승진 임명', 경향신문 2000-02-13 BigKinds 01100101.20000213000000101). Gazette practice from 2001-2002 points both ways. 임인택 (관보 제14920호) is dated 2001-09-29, the day his predecessor's 사표 was accepted, although the appointment was reported on 09-30 and his 임명장 came on 2001-10-04. 심상명 (관보 제15249호) is dated 2002-11-09, the 임명장 day, although Yonhap already called him the new minister on the evening of 2002-11-08. labor.partial.json dates 최선정, named in the same 2000-02-12 announcement, at 2000-02-14 as well. Kept 2000-02-14 as better supported (two tier-2 lists plus the 임명장 day and cross-lineage consistency with labor). If 2000-02-12 is adopted, the 2000-02-12..13 vacancy disappears."
+  },
+  {
+   "name": "양승택",
+   "name_hanja": "梁承澤",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-10-24",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2001-03-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제14764호 (2001-03-30) 인사, section header '◉2001년 3 월26일자', text harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20010330_14764_00000000000000001319596776654000.pdf (accessed 2026-09-24T22:33:36-0400): 양 승 택(梁 承 澤) 국무위원에 임함 정보통신부장관에 보함",
+    "연합뉴스 2001-03-26 11:37 https://n.news.naver.com/mnews/article/001/0000062088: 정보통신부장관엔 양승택 한국정보통신대학원대학교총장이 각각 임명됐다 (accessed 2026-09-25T12:59:46-0400, snapshot roster/sources/ict/news/naver_001_0000062088.html)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 양승택 2001. 3. 26. ~ 2002. 7. 10.",
+    "관보 제14764호 (2001-03-30) re-read by the verifier in harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt (copy roster/sources/ict/verify/gazette/20010330_14764_00000000000000001319596776654000.txt) section header '◉2001년 3 월26일자' text '양 승 택(梁 承 澤) 국무위원에 임함 정보통신부장관에 보함 (left column continues the 3월26일자 list after 임동원, 한승수, 김동신, the right column carries 이근식, 김영환, 장재식, 양승택 before the next header ◉2001년 3 월31일자)' [verifier]"
+   ],
+   "end": "2002-07-11",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15150호 (2002-07-16) 인사, section header '◉2002년 7 월11일자', text harvest/gazette_text/20020716_15150_00000000000000001319023033715000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20020716_15150_00000000000000001319023033715000.pdf (accessed 2026-09-24T22:45:48-0400) (successor 이상철)",
+    "아이뉴스24 2002-07-11 10:13 https://n.news.naver.com/mnews/article/031/0000005790: 11일 ... 정보통신부장관에 이상철 KT사장을 임명하는등 개각, 장관(급) 8명 교체 (accessed 2026-09-25T13:01:05-0400, snapshot roster/sources/ict/news/naver_031_0000005790.html)",
+    "한국경제 2002-07-11 17:23 '정통장관 교체 LG텔에 악재?' https://n.news.naver.com/mnews/article/015/0000528074 (accessed 2026-09-25T14:01:13-0400, snapshot roster/sources/ict/verify/naver_015_0000528074.html) quote '정통부 장관 교체를 비롯한 개각이 발표된 11일 ... 양승택 전임 정통부장관이 추진해온' [verifier]",
+    "머니투데이 2002-07-11 14:13 '[거래소] \"SKT,장관교체로 KT지분 부담\"-동원' https://n.news.naver.com/mnews/article/008/0000186341 (accessed 2026-09-25T14:01:14-0400, snapshot roster/sources/ict/verify/naver_008_0000186341.html) quote '동원증권은 11일 정보통신부 장관 교체로 ... 이상철 전KT사장의 정통부 장관 발탁으로 양승택 전임 장관이' [verifier]",
+    "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050307112031/http://www.mic.go.kr:80/mic/intro_past_min_mic_02.jsp (capture 2005-03-07, accessed 2026-09-25T21:39:32-0400, snapshot roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.html, text roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.txt) quote '성 명 양승택 재임기간 2001년 3월 26일 ~ 2002년 7월 11일' [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "16 valid-type minister rows (국정감사, 상임위원회) dated 2001-06-15..2002-04-16, inside the spell.",
+   "notes": "End set to the successor's appointment date (same-day handover). The MSIT page gives 2002-07-10, the day before. Birth date from ko.wikipedia '양승택' https://ko.wikipedia.org/w/index.php?oldid=42545549 (accessed 2026-09-25T13:12:47-0400, secondary)."
+  },
+  {
+   "name": "이상철",
+   "name_hanja": "李相哲",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1948-02-20",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2002-07-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15150호 (2002-07-16) 인사, section header '◉2002년 7 월11일자', text harvest/gazette_text/20020716_15150_00000000000000001319023033715000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20020716_15150_00000000000000001319023033715000.pdf (accessed 2026-09-24T22:45:48-0400): 이 상 철(李 相 哲) 국무위원에 임함 정보통신부장관에 보함",
+    "연합뉴스 2002-07-11 09:46 https://n.news.naver.com/mnews/article/001/0000204527: 정보통신부장관에 임명된 이상철 KT사장 (accessed 2026-09-25T13:00:44-0400, snapshot roster/sources/ict/news/naver_001_0000204527.html)",
+    "한국경제 2002-07-11 16:36 https://n.news.naver.com/mnews/article/015/0000527914: 이상철 신임 정보통신부 장관은 11일 ... '오늘 아침 전화로 임명 사실을 통보 받았다' (accessed 2026-09-25T13:01:19-0400, snapshot roster/sources/ict/news/naver_015_0000527914.html)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 이상철 2002. 7. 11. ~ 2003. 2. 26.",
+    "관보 제15150호 (2002-07-16) re-read by the verifier in harvest/gazette_text/20020716_15150_00000000000000001319023033715000.txt (copy roster/sources/ict/verify/gazette/20020716_15150_00000000000000001319023033715000.txt) section header '◉2002년 7 월11일자' text '장 상(張 裳) 국무총리서리에 임함 ... 이 상 철(李 相 哲) 국무위원에 임함 정보통신부장관에 보함' [verifier]"
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15338호 (2003-03-05) 인사, section header '◉2003년 2 월27일자', text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20030305_15338_00000000000000001319026541100000.pdf (accessed 2026-09-24T22:44:28-0400) (successor 진대제)",
+    "연합뉴스 2003-02-27 14:13 https://n.news.naver.com/mnews/article/001/0000326608: 새 장관에 진대제 ... 이상철(李相哲) 전 장관에 이어 (accessed 2026-09-25T13:04:35-0400, snapshot roster/sources/ict/news/naver_001_0000326608.html)",
+    "아이뉴스24 2003-02-27 18:20 '진대제 정통부 장관 취임사 전문' https://n.news.naver.com/mnews/article/031/0000019137 (accessed 2026-09-25T14:01:59-0400, snapshot roster/sources/ict/verify/naver_031_0000019137.html) quote '그 동안 풍부한 경험과 탁월한 식견으로 ... 퇴임하신 전임 이상철 장관님께 존경과 감사의 뜻을 표하는 바입니다 (진대제 취임사, 2003-02-27)' [verifier]",
+    "연합뉴스 2003-02-27 14:07 '<정통부장관에 전문경영인 네번째 진출>' https://n.news.naver.com/mnews/article/001/0000326602 (accessed 2026-09-25T14:01:56-0400, snapshot roster/sources/ict/verify/naver_001_0000326602.html) quote '진대제(陳大濟) 디지털미디어 총괄사장이 제 9대 정보통신부 장관에 임명됨에 따라' [verifier]",
+    "연합뉴스 2003-02-27 16:49 '<진대제 정통 입각 통신사업자 반응>' https://n.news.naver.com/mnews/article/001/0000326865 (accessed 2026-09-25T21:41:58-0400, snapshot roster/sources/ict/verify/naver_001_0000326865.html) quote '진 장관 취임으로 물러나는 이상철(李相哲) 전임 장관' [verifier]",
+    "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050307112031/http://www.mic.go.kr:80/mic/intro_past_min_mic_02.jsp (capture 2005-03-07, accessed 2026-09-25T21:39:32-0400, snapshot roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.html, text roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.txt) quote '성 명 이상철 재임기간 2002년 7월 11일 ~ 2003년 2월 27일' [verifier]"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "11 valid-type minister rows (국정감사, 상임위원회) dated 2002-07-15..2003-01-28, inside the spell.",
+   "notes": "Appointed in the 2002-07-11 reshuffle that also named 장상 국무총리서리 (same gazette notice). End set to the successor's appointment date (same-day handover). The MSIT page gives 2003-02-26, the day before. Birth date from ko.wikipedia '이상철 (1948년)' https://ko.wikipedia.org/w/index.php?oldid=41473437 (accessed 2026-09-25T13:12:48-0400, secondary)."
+  },
+  {
+   "name": "진대제",
+   "name_hanja": "陳大濟",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1952-01-20",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (2003-03-05) 인사, section header '◉2003년 2 월27일자', text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20030305_15338_00000000000000001319026541100000.pdf (accessed 2026-09-24T22:44:28-0400): 진 대 제(陳 大 濟) 국무위원에 임함 정보통신부장관에 보함",
+    "연합뉴스 2003-02-27 18:22 https://n.news.naver.com/mnews/article/001/0000326940: 진대제 신임 정보통신부 장관은 27일 ... 취임식 (accessed 2026-09-25T13:04:24-0400, snapshot roster/sources/ict/news/naver_001_0000326940.html)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 진대제 2003. 2. 27. ~ 2006. 3. 21.",
+    "관보 제15338호 (2003-03-05) re-read by the verifier in harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (copy roster/sources/ict/verify/gazette/20030305_15338_00000000000000001319026541100000.txt) section header '◉2003년 2 월27일자' text '고 건(高 建) 국무총리에 임함 ... 진 대 제(陳 大 濟) 국무위원에 임함 정보통신부장관에 보함' [verifier]"
+   ],
+   "end": "2006-03-21",
+   "end_confidence": "high",
+   "end_sources": [
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists end 2006. 3. 21.",
+    "BigKinds metadata 한겨레 2006-03-22 news_id 01101001.20060322100008127: 진대제 정보통신부 장관이 21일 ... 이임식을 갖고 3년23일 동안의 장관직을 마감 (snapshot roster/sources/ict/news/bk_7325fe4b_2006-03-20_2006-03-23.json)",
+    "BigKinds metadata 한겨레 2006-03-18 news_id 01101001.20060318100016410: 출마 장관 4명의 사표가 오는 21일 수리된다 (김만수 청와대 대변인 17일) (snapshot roster/sources/ict/news/bk_90a0c6fe_2006-02-01_2006-03-31.json)",
+    "BigKinds metadata 이데일리 2006-03-21 news_id 04101008.20160311231142309: 진 장관은 21일 ... 이임식을 갖고 장관직을 마무리 (snapshot roster/sources/ict/news/bk_7325fe4b_2006-03-20_2006-03-23.json)",
+    "연합뉴스 2006-03-21 17:01 '진대제 정통부 장관 이임' https://n.news.naver.com/mnews/article/001/0001250595 (accessed 2026-09-25T14:02:37-0400, snapshot roster/sources/ict/verify/naver_001_0001250595.html) quote '진대제 정보통신부 장관이 21일 정통부에서 이임식을 갖고 3년23일간 수행했던 최장수 장관직을 마감했다 ... 이날 이임식에는 노준형 장관 내정자를 비롯한' [verifier]"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "48 valid-type minister rows (국정감사, 상임위원회) dated 2003-04-15..2006-02-20, inside the spell. Ignored invalid-type rows outside the spell: 2000-07-22 예산결산특별위원회 meeting 28535; 2000-07-13 국회본회의 meeting 28572 (misattached content, the person was not minister then, audit coverage_gaps.csv flags the same rows as v8_only).",
+   "notes": "Resigned to run for 경기도지사 in the 2006-05-31 local elections. His successor was named on 2006-03-02 but he stayed until the resignation was accepted on 2006-03-21 (BigKinds 동아일보 2006-03-04 01100401.20060304063451005). Wikipedia gives 2006-03-22, which is the successor's hearing date. Birth date from ko.wikipedia '진대제' https://ko.wikipedia.org/w/index.php?oldid=41415533 (accessed 2026-09-25T13:12:48-0400, secondary)."
+  },
+  {
+   "name": "노준형",
+   "name_hanja": "盧俊亨",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1954-03-12",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2006-03-28",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16225호 (2006-04-03) 인사, section header '⊙2006년 3 월28일자', text harvest/gazette_text/20060403_16225_00000000000000001319600929146000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20060403_16225_00000000000000001319600929146000.pdf (accessed 2026-09-24T22:50:36-0400): 노 준 형(盧 俊 亨) 국무위원에 임함 정보통신부장관에 보함",
+    "BigKinds metadata 서울경제 2006-03-28 news_id 02100311.20160317230251370: 노무현 대통령은 오전 청와대에서 신임 노준형 정보통신부 장관과 유영환 정보통신부 차관에게 임명장을 수여 (snapshot roster/sources/ict/news/bk_b91c85ab_2006-03-21_2006-03-28.json)",
+    "BigKinds metadata 파이낸셜뉴스 2006-03-28 news_id 02100501.20160206131307612: 28일 오후 ... 제10대 정통부 장관 취임식 (snapshot roster/sources/ict/news/bk_13cc4b9e_2006-03-27_2006-03-30.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 노준형 2006. 3. 28 ~ 2007. 8. 27.",
+    "likms ZZ1790 (harvest/likms/034313.txt): 경과보고서채택 2006-03-27, one day before the appointment",
+    "관보 제16225호 (2006-04-03) re-read by the verifier in harvest/gazette_text/20060403_16225_00000000000000001319600929146000.txt (copy roster/sources/ict/verify/gazette/20060403_16225_00000000000000001319600929146000.txt) section header '⊙2006년 3 월28일자' text '노 준 형(盧 俊 亨) 국무위원에 임함 정보통신부장관에 보함' [verifier]",
+    "연합뉴스 2006-03-28 17:34 '노준형 정통 \"소비자 보호.공정경쟁에 초점\"(종합)' https://n.news.naver.com/mnews/article/001/0001256341 (accessed 2026-09-25T14:08:30-0400, snapshot roster/sources/ict/verify/naver_001_0001256341.html) quote '노대통령 정통부장관 임명장 ... 제 10대 정통부 장관 취임' [verifier]"
+   ],
+   "end": "2007-08-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists end 2007. 8. 27.",
+    "BigKinds metadata 문화일보 2007-08-27 news_id 01100501.20070827100004912: 노준형 정보통신부 장관이 27일 장관 자리에서 물러났다 ... 청문회가 끝나는 29일까지 ... 이틀 앞서 장관직을 마무리 (서울산업대 총장 입후보) (snapshot roster/sources/ict/news/bk_689627fa_2007-08-01_2007-09-10.json)",
+    "BigKinds metadata 파이낸셜뉴스 2007-08-27 news_id 02100501.20160206174803021: 27일 공식 퇴임한 노준형 정보통신부 장관 ... 오전10시 이임식 (snapshot roster/sources/ict/news/bk_689627fa_2007-08-01_2007-09-10.json)",
+    "아이뉴스24 2007-08-27 11:02 '노준형 장관, \"방통융합 숙제 남겨 아쉽다\"' https://n.news.naver.com/mnews/article/031/0000112802 (accessed 2026-09-25T14:02:58-0400, snapshot roster/sources/ict/verify/naver_031_0000112802.html) quote '노준형 정보통신부 장관이 27일 오전 10시 정통부 대회의실에서 이임식을 갖고 공식 퇴임했다' [verifier]",
+    "이데일리 2007-08-27 11:15 '노준형 정통부 장관, 1년 4개월만에 정통부 떠나' https://n.news.naver.com/mnews/article/018/0000513939 (accessed 2026-09-25T14:02:59-0400, snapshot roster/sources/ict/verify/naver_018_0000513939.html) quote '노준형 정보통신부 장관이 27일 1년 4개월의 임기를 마치고 ... 정통부의 수장 자리를 떠났다' [verifier]",
+    "매일경제 2007-08-06 20:17 '김성호 법무 사의…이번주 4~5개 부처 개각' https://n.news.naver.com/mnews/article/009/0000611865 (accessed 2026-09-25T14:03:16-0400, snapshot roster/sources/ict/verify/naver_009_0000611865.html) quote '노준형 정보통신부 장관도 이날 사의를 표명했지만 아직 수리 여부는 결정되지 않았다' [verifier]",
+    "BigKinds metadata 이투데이 2007-08-10 news_id 02100351.20070810091209001 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:42:13-0400, snapshot roster/sources/ict/verify/bk_377daaad_2007-08-08_2007-08-26.json) quote '노준형 정보통신부 장관은 10일 만해 평화상 수상식 참석차 방한한 엘하지 오마르 봉고-온딤바 가봉 공화국 대통령의 접견 면담을 통해' [verifier]",
+    "BigKinds metadata 전자신문 2007-08-22 news_id 07100501.20070822143328001 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:42:13-0400, snapshot roster/sources/ict/verify/bk_377daaad_2007-08-08_2007-08-26.json) quote '정보통신부는 21일 노준형 장관이 캄보디아 대학교 특별강연 및 ‘제2차 아세안+코리아 정보통신장관회의(TELMIN)’ 참석을 위해 캄보디아로 출국했다고 밝혔다' [verifier]"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "15 valid-type minister rows (국정감사, 상임위원회) dated 2006-04-17..2007-06-26, inside the spell. Nominee rows: 2006-03-22 과학기술정보통신위원회 meeting 34292.",
+   "notes": "Promoted from 차관. Left before his successor's appointment to stand for 서울산업대 총장. Wikipedia's start 2006-03-22 is his hearing date and is wrong. Birth date from ko.wikipedia '노준형' https://ko.wikipedia.org/w/index.php?oldid=41665362 (accessed 2026-09-25T13:12:49-0400, secondary)."
+  },
+  {
+   "name": "유영환",
+   "name_hanja": "柳英煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1957-02-12",
+   "gender": "M",
+   "ministry": "정보통신부",
+   "office_title": "정보통신부장관",
+   "deputy_pm": false,
+   "start": "2007-09-04",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16584호 (2007-09-07) 인사, section header '◉2007년 9 월 4 일자', text harvest/gazette_text/20070907_16584_00000000000000001319078853284000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20070907_16584_00000000000000001319078853284000.pdf (accessed 2026-09-24T22:53:13-0400): 유 영 환(柳 英 煥) 국무위원에 임함 정보통신부장관에 보함 (listed in the same 인사 section after 정성진 법무부장관, the two-column layout interleaves a school notice between them)",
+    "BigKinds metadata 국제신문 2007-09-05 news_id 01500401.20070905200805001: 노무현 대통령이 4일 오후 신임 정성진 법무, 유영환 정통부 장관에게 임명장을 수여 (snapshot roster/sources/ict/news/bk_f7487d3c_2007-09-03_2007-09-06.json)",
+    "BigKinds metadata 이투데이 2007-09-04 news_id 02100351.20070904091241002: 유영환 신임 정보통신부 장관이 4일 공식 취임 ... 4일 청와대에서 임명장 (snapshot roster/sources/ict/news/bk_f7487d3c_2007-09-03_2007-09-06.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists 류영환 (柳英煥) 2007. 9. 4. ~ 2008. 2. 29.",
+    "관보 제16584호 (2007-09-07) re-read by the verifier in harvest/gazette_text/20070907_16584_00000000000000001319078853284000.txt (copy roster/sources/ict/verify/gazette/20070907_16584_00000000000000001319078853284000.txt) section header '◉2007년 9 월 4 일자' text '정 성 진(鄭 城 鎭) 국무위원에 임함 법무부장관에 보함 ... 유 영 환(柳 英 煥) 국무위원에 임함 정보통신부장관에 보함 (same section, two-column layout interleaves school notices)' [verifier]",
+    "아이뉴스24 2007-09-04 15:17 '유영환 정통부 장관 취임…\"국민 편익 최우선\"' https://n.news.naver.com/mnews/article/031/0000113527 (accessed 2026-09-25T14:08:22-0400, snapshot roster/sources/ict/verify/naver_031_0000113527.html) quote '유영환 신임 정보통신부 장관이 4일 오전 청와대에서 임명장을 받고 ... 4일 장관에 공식 임명됐다' [verifier]"
+   ],
+   "end": "2008-02-28",
+   "end_confidence": "medium",
+   "end_sources": [
+    "정부조직법 법률 제8852호 (전부개정, promulgated and effective 2008-02-29) abolishes 정보통신부, snapshot roster/sources/ict/law/govorg_text_20080229_83239.json (offices.json OF017 to = 2008-02-28)",
+    "BigKinds metadata 한국경제 2008-02-29 news_id 02100601.20160121105744460: 새로운 정부조직법 개정안이 29일 관보 게재와 함께 정식 발효되면서 정보통신부 ... 공식적으로 없어졌다 ... 이날 오후 열린 장관 이임식 (snapshot roster/sources/ict/news/bk_3b786026_2008-02-20_2008-03-05.json)",
+    "BigKinds metadata 세계일보 2008-02-29 news_id 01100701.20080229234821001: 정부조직법 개정안이 29일 발효됨에 따라 ... 정보통신부가 역사 속으로 ... 마지막 수장인 유영환 장관은 이날 이임사 (snapshot roster/sources/ict/news/bk_3b786026_2008-02-20_2008-03-05.json)",
+    "MSIT 역대장관 page https://www.msit.go.kr/contents/cont.do?sCode=user&mId=137&mPid=132 (accessed 2026-09-25T13:11:38-0400, snapshot roster/sources/ict/official/msit_past_ministers.html) lists end 2008. 2. 29.",
+    "노컷뉴스 2008-02-29 18:12 '해체되는 정통부-해수부…장관 이임식 '침통'' https://n.news.naver.com/mnews/article/079/0001945411 (accessed 2026-09-25T14:04:01-0400, snapshot roster/sources/ict/verify/naver_079_0001945411.html) quote '29일 오전 11시 정보통신부 대회의실. 이임식을 위해 마련된 단상에 올라선 유영환 장관은' [verifier]",
+    "아이뉴스24 2008-02-29 14:42 '해체 정통부 직원들 착잡한 석별 속 격려' https://n.news.naver.com/mnews/article/031/0000127767 (accessed 2026-09-25T14:04:03-0400, snapshot roster/sources/ict/verify/naver_031_0000127767.html) quote '29일 11시 정보통신부 대회의실, 유영환 정통부 장관의 이임식이 있었다' [verifier]"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "8 valid-type minister rows (국정감사, 상임위원회) dated 2007-10-02..2008-02-04, inside the spell. Nominee rows: 2007-08-30 과학기술정보통신위원회 meeting 36157. Ignored invalid-type rows outside the spell: 2003-11-25 예산결산특별위원회 meeting 31589 (misattached content, the person was not minister then, audit coverage_gaps.csv flags the same rows as v8_only).",
+   "notes": "Promoted from 차관. Served as holdover under 이명박 from 2008-02-25 until the ministry was abolished. End set to 2008-02-28, the last day before the 2008-02-29 정부조직법 took effect, to match the legal office dates in offices.json. The MSIT page and the news give 2008-02-29, the day the law took effect and his 이임식 was held. No successor office in scope (방송통신위원회 chair is not a 국무위원, functions went to 지식경제부·행정안전부·문화체육관광부). Birth date from ko.wikipedia '유영환 (공무원)' https://ko.wikipedia.org/w/index.php?oldid=39299094 (accessed 2026-09-25T13:12:49-0400, secondary)."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "배순훈",
+   "office_title": "정보통신부장관",
+   "nomination_date": "1998-03-03",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-03-03",
+   "sources": [
+    "연합뉴스 1998-03-03 12:39 https://n.news.naver.com/mnews/article/001/0004372354: 金대통령은 ... 정보통신부장관에 裵洵勳대우전자회장 ... 을 각각 임명했다 (accessed 2026-09-24T22:44:26-0400, snapshot roster/sources/ict/news/naver_001_0004372354.html)"
+   ],
+   "notes": "Named and appointed the same day. No 국무위원 hearing before 2005-07-28."
+  },
+  {
+   "nominee": "남궁석",
+   "office_title": "정보통신부장관",
+   "nomination_date": "1998-12-21",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-12-21",
+   "sources": [
+    "BigKinds metadata 동아일보 1998-12-22 news_id 01100401.19981222100354002: 김대중 대통령은 21일 ... 신임 정보통신부장관에 남궁석 삼성SDS사장을 임명 (snapshot roster/sources/ict/news/bk_917b583d_1998-12-18_1998-12-24.json)"
+   ],
+   "notes": "Named and appointed the same day."
+  },
+  {
+   "nominee": "안병엽",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2000-02-12",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-02-14",
+   "sources": [
+    "한국경제 2000-02-12 12:43 https://n.news.naver.com/mnews/article/015/0000226440: 정통부장관에는 안병엽 정통부 차관을 승진 임명 (Blue House announcement of 2000-02-12) (accessed 2026-09-25T07:07:29-0400, snapshot roster/sources/ict/news/naver_015_0000226440.html)",
+    "BigKinds metadata 매일신문 2000-02-14 news_id 01500601.20000214171352016: 김대중 대통령은 14일 오전 청와대에서 신임 안병엽 정보통신부장관 ... 임명장을 수여 (snapshot roster/sources/ict/news/bk_2cbc4405_2000-02-11_2000-02-16.json)"
+   ],
+   "notes": "Announced 2000-02-12, 임명장 2000-02-14."
+  },
+  {
+   "nominee": "양승택",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2001-03-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-03-26",
+   "sources": [
+    "연합뉴스 2001-03-26 11:37 https://n.news.naver.com/mnews/article/001/0000062088: 정보통신부장관엔 양승택 한국정보통신대학원대학교총장이 각각 임명됐다 (accessed 2026-09-25T12:59:46-0400, snapshot roster/sources/ict/news/naver_001_0000062088.html)"
+   ],
+   "notes": "Named and appointed the same day."
+  },
+  {
+   "nominee": "이상철",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2002-07-11",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-07-11",
+   "sources": [
+    "연합뉴스 2002-07-11 09:46 https://n.news.naver.com/mnews/article/001/0000204527: 정보통신부장관에 임명된 이상철 KT사장 (accessed 2026-09-25T13:00:44-0400, snapshot roster/sources/ict/news/naver_001_0000204527.html)"
+   ],
+   "notes": "Named and appointed the same day."
+  },
+  {
+   "nominee": "진대제",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "연합뉴스 2003-02-27 18:22 https://n.news.naver.com/mnews/article/001/0000326940: 진대제 신임 정보통신부 장관은 27일 ... 취임식 (accessed 2026-09-25T13:04:24-0400, snapshot roster/sources/ict/news/naver_001_0000326940.html)"
+   ],
+   "notes": "Named and appointed the same day in the first 노무현 cabinet."
+  },
+  {
+   "nominee": "노준형",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2006-03-02",
+   "request_date": "2006-03-10",
+   "likms_bill_id": "ZZ1790",
+   "hearing_dates": [
+    "2006-03-22"
+   ],
+   "hearing_committee": "과학기술정보통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-03-28",
+   "sources": [
+    "likms [ZZ1790] 국무위원후보자(정보통신부장관 노준형) 인사청문요청안: 제안일자 2006-03-10, 회부 2006-03-10, 상정 2006-03-15, 처리 2006-03-27 경과보고서채택 (harvest/likms/034313.txt, fetched 2026-09-25T06:35:11-0400)",
+    "inputs/nominee_hearing_meetings.csv: 과학기술정보통신위원회 meeting 34292, '국무위원후보자(정보통신부장관 노준형) 인사청문회', 2006-03-22",
+    "BigKinds metadata 동아일보 2006-03-03 news_id 01100401.20060303063450042: 노무현 대통령은 2일 ... 정보통신부 장관에는 노준형 현 차관이 승진 발탁 (snapshot roster/sources/ict/news/bk_a94afa6d_2006-03-02_2006-03-03.json)",
+    "BigKinds metadata 한겨레 2006-03-23 news_id 01101001.20060323100010559: 과학기술정보통신위원회는 22일 노준형 정보통신부 장관 내정자에 대한 인사청문회 (snapshot roster/sources/ict/news/bk_b91c85ab_2006-03-21_2006-03-28.json)",
+    "관보 제16225호 (2006-04-03) 인사, section header '⊙2006년 3 월28일자', text harvest/gazette_text/20060403_16225_00000000000000001319600929146000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20060403_16225_00000000000000001319600929146000.pdf (accessed 2026-09-24T22:50:36-0400): 노 준 형(盧 俊 亨) 국무위원에 임함 정보통신부장관에 보함",
+    "머니투데이 2006-03-02 16:18 '행자부장관 이용섭·정통부장관 노준형(상보)' https://n.news.naver.com/mnews/article/008/0000635861 (accessed 2026-09-25T14:05:14-0400, snapshot roster/sources/ict/verify/naver_008_0000635861.html) quote '노무현 대통령은 2일 ... 정보통신부 장관에 노준형 정통부 차관을 내정 ... 장관 내정자는 국회 인사청문회를 거쳐 3월말경에 정식으로 임명된다' [verifier]",
+    "likms re-query by the verifier (src.likms_search, queries 정보통신부장관, 정보통신부, 인사청문요청안, 국무위원후보자, terms 16-18, snapshot roster/sources/ict/verify/likms_ict_search.json) returns ZZ1790 제안일자 2006-03-10 [verifier]"
+   ],
+   "notes": "3·2 개각 nominee (내정). Hearing 2006-03-22, report adopted 2006-03-27, appointed 2006-03-28."
+  },
+  {
+   "nominee": "유영환",
+   "office_title": "정보통신부장관",
+   "nomination_date": "2007-08-08",
+   "request_date": "2007-08-16",
+   "likms_bill_id": "ZZ1867",
+   "hearing_dates": [
+    "2007-08-30"
+   ],
+   "hearing_committee": "과학기술정보통신위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2007-09-04",
+   "sources": [
+    "likms [ZZ1867] 국무위원후보자(정보통신부장관 유영환) 인사청문요청안: 제안일자 2007-08-16, 회부 2007-08-16, 상정 2007-08-21, 처리 2007-09-03 경과보고서채택 (harvest/likms/PRC_U0J7G0J8W1P6J1Z6A2Y2S4D5I2F5C7.txt, fetched 2026-09-25T06:37:54-0400)",
+    "inputs/nominee_hearing_meetings.csv: 과학기술정보통신위원회 meeting 36157, '국무위원후보자(정보통신부장관 유영환) 인사청문회', 2007-08-30",
+    "BigKinds metadata 세계일보 2007-08-09 news_id 01100701.20070809100000605: 노무현 대통령은 8일 ... 정보통신부 장관에 유영환(50) 정통부 차관을 내정 (snapshot roster/sources/ict/news/bk_544bde97_2007-08-07_2007-08-10.json)",
+    "BigKinds metadata 전자신문 2007-08-31 news_id 07100501.20070831150419001: 유영환 정보통신부 장관 내정자는 30일 국회 과학기술정보통신위원회의 인사 청문회 (snapshot roster/sources/ict/news/bk_d9f86286_2007-08-27_2007-09-01.json)",
+    "BigKinds metadata 전자신문 2007-09-04 news_id 07100501.20070904151501001: 국회는 3일 ... 유영환 내정자의 인사청문 경과보고서를 채택 (snapshot roster/sources/ict/news/bk_f7487d3c_2007-09-03_2007-09-06.json)",
+    "관보 제16584호 (2007-09-07) 인사, section header '◉2007년 9 월 4 일자', text harvest/gazette_text/20070907_16584_00000000000000001319078853284000.txt; item PDF snapshot roster/sources/ict/gazette/gz_20070907_16584_00000000000000001319078853284000.pdf (accessed 2026-09-24T22:53:13-0400): 유 영 환(柳 英 煥) 국무위원에 임함 정보통신부장관에 보함 (listed in the same 인사 section after 정성진 법무부장관, the two-column layout interleaves a school notice between them)",
+    "연합뉴스 2007-08-08 21:55 '법무 정성진, 농림 임상규, 정통 유영환 내정' https://n.news.naver.com/mnews/article/001/0001919043 (accessed 2026-09-25T14:05:39-0400, snapshot roster/sources/ict/verify/naver_001_0001919043.html) quote '노무현(盧武鉉) 대통령은 8일 ... 정보통신부장관에 유영환(50) 정통부 차관을 내정하는 등' [verifier]",
+    "전자신문 2007-09-04 08:23 '유영환 장관 인사청문 경과보고서 채택' https://n.news.naver.com/mnews/article/030/0000190280 (accessed 2026-09-25T14:08:23-0400, snapshot roster/sources/ict/verify/naver_030_0000190280.html) quote '국회는 3일 열린 과학기술정보위원회 전체회의에서 유영환 내정자의 인사청문 경과보고서를 채택했다' [verifier]",
+    "likms re-query by the verifier (snapshot roster/sources/ict/verify/likms_ict_search.json) returns ZZ1867 제안일자 2007-08-16 [verifier]"
+   ],
+   "notes": "8·8 개각 nominee (내정). Hearing 2007-08-30, report adopted 2007-09-03, appointed 2007-09-04."
+  }
+ ],
+ "acting": [
+  {
+   "name": "박성득",
+   "role": "정보통신부 차관 장관 직무대행",
+   "from": "1998-02-26",
+   "to": "1998-03-02",
+   "sources": [
+    "연합뉴스 1998-02-26 10:03 https://n.news.naver.com/mnews/article/001/0004299352: 25일 金대통령의 취임과 함께 康장관이 청와대 정책수석 임명장을 받았기 때문에 장관직을 사직한 상태, 朴成得차관이 장관 직무를 대행 (accessed 2026-09-25T07:05:39-0400, snapshot roster/sources/ict/news/naver_001_0004299352.html)"
+   ]
+  },
+  {
+   "name": "안병엽",
+   "role": "정보통신부 차관 (vacancy, no explicit 직무대행 report found)",
+   "from": "1998-12-19",
+   "to": "1998-12-20",
+   "sources": [
+    "BigKinds metadata 문화일보 1998-12-22 news_id 01100501.19981222000001206: 정보통신부 安炳燁(안병엽) 차관 (snapshot roster/sources/ict/news/bk_ca28854d_1998-12-18_1998-12-22.json)"
+   ]
+  },
+  {
+   "name": "안병엽",
+   "role": "정보통신부 차관 and minister-designate (vacancy over the weekend, no explicit 직무대행 report found)",
+   "from": "2000-02-12",
+   "to": "2000-02-13",
+   "sources": [
+    "한국경제 2000-02-12 12:43 https://n.news.naver.com/mnews/article/015/0000226440: 정통부장관에는 안병엽 정통부 차관을 승진 임명 (Blue House announcement of 2000-02-12) (accessed 2026-09-25T07:07:29-0400, snapshot roster/sources/ict/news/naver_015_0000226440.html)"
+   ]
+  },
+  {
+   "name": "노준형",
+   "role": "정보통신부 차관 and minister-designate, 장관 직무 대행 under the arrangement announced by the Blue House on 2006-03-02",
+   "from": "2006-03-22",
+   "to": "2006-03-27",
+   "sources": [
+    "BigKinds metadata 환경일보 2006-03-22 news_id 07100502.20060322001612004: 20일 ... 정보통신부를 방문하여 노준형 차관을 예방 (snapshot roster/sources/ict/news/bk_b91c85ab_2006-03-21_2006-03-28.json)",
+    "BigKinds metadata 서울경제 2006-03-28 news_id 02100311.20160317230251370: 노무현 대통령은 오전 청와대에서 신임 노준형 정보통신부 장관과 유영환 정보통신부 차관에게 임명장을 수여 (snapshot roster/sources/ict/news/bk_b91c85ab_2006-03-21_2006-03-28.json)",
+    "머니투데이 2006-03-02 16:18 '행자부장관 이용섭·정통부장관 노준형(상보)' https://n.news.naver.com/mnews/article/008/0000635861 (accessed 2026-09-25T14:05:14-0400, snapshot roster/sources/ict/verify/naver_008_0000635861.html) quote '지방선거에 출마하는 장관의 경우 ... 후임 내정자와 인수인계 절차를 마친 후에 사임토록 했으며 그 이후에는 장관을 정식으로 임명할 때까지 차관이 장관직을 대행토록 했다' [verifier]"
+   ]
+  },
+  {
+   "name": "유영환",
+   "role": "정보통신부 차관 and minister-designate (vacancy, no explicit 직무대행 report found)",
+   "from": "2007-08-28",
+   "to": "2007-08-30",
+   "sources": [
+    "BigKinds metadata 디지털타임스 2007-09-03 news_id 07101201.20070903165245001: 지난 8일 유영환 정통부 전 차관이 장관으로 내정된 이후 31일 김동수 ... 차관에 임명 (snapshot roster/sources/ict/news/bk_1ca2bd9e_2007-09-01_2007-09-07.json)"
+   ]
+  },
+  {
+   "name": "김동수",
+   "role": "정보통신부 차관 장관 업무 대행",
+   "from": "2007-08-31",
+   "to": "2007-09-03",
+   "sources": [
+    "BigKinds metadata 디지털타임스 2007-09-03 news_id 07101201.20070903160045001: 김동수 신임 정보통신부 차관이 31일 임명장을 받은 후 ... 최종 임명절차를 마칠 때까지 공석인 장관 업무도 대행 (snapshot roster/sources/ict/news/bk_1ca2bd9e_2007-09-01_2007-09-07.json)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "강봉균 end date. Yonhap on 1998-02-26 and 1998-02-27 reports that he left the ministry when he received the 청와대 정책기획수석 임명장 on 1998-02-25 and that 차관 박성득 was acting. The MSIT 역대장관 page gives 1998-03-02 (day before 배순훈). The roster uses 1998-02-25. Either way he was in office on 1998-02-25 and is in the window."
+  },
+  {
+   "severity": "medium",
+   "desc": "안병엽 start date. Announced as appointed on Saturday 2000-02-12, 임명장 on Monday 2000-02-14. The roster follows the MSIT list and the 임명장 date (2000-02-14). No gazette exists for 2000 to settle which date the appointment carries. If 2000-02-12 is preferred, the 2000-02-12..13 vacancy disappears."
+  },
+  {
+   "severity": "medium",
+   "desc": "유영환 end date. 정부조직법 법률 제8852호 took effect on 2008-02-29 on publication, abolishing 정보통신부. The roster ends the spell on 2008-02-28 to match offices.json (정보통신부 to 2008-02-28). The MSIT page and same-day news (이임식 on 2008-02-29) support 2008-02-29 as his last day if partial days count."
+  },
+  {
+   "severity": "low",
+   "desc": "Same-day handovers. For 안병엽, 양승택 and 이상철 the end equals the successor's gazette appointment date (end_confidence inferred_from_successor). The MSIT page uses the day before the successor for every replaced minister, so its end dates differ by one day by construction."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancies with no minister: 1998-02-26..1998-03-02 (박성득 차관 acting, reported), 1998-12-19..1998-12-20, 2000-02-12..2000-02-13, 2006-03-22..2006-03-27 and 2007-08-28..2007-09-03 (김동수 차관 acting from 2007-08-31, reported). For the other windows the vice minister in post is listed under acting, but no report that names him as 직무대행 was found."
+  },
+  {
+   "severity": "low",
+   "desc": "Wikipedia's 정보통신부 page (oldid 40855435) has several wrong dates: 남궁석 end 2000-02-01, 진대제 end and 노준형 start 2006-03-22 (the hearing date), 노준형 end 2007-09-03. The old panel (data/minister_panel_comprehensive.csv) has only three 정보통신부 rows, all with wrong dates, and lacks the 김대중-era ministers (audit coverage_gaps.csv rows for 안병엽, 양승택, 이상철)."
+  },
+  {
+   "severity": "low",
+   "desc": "Transcript noise. minister_role_meetings.csv has 진대제 as 정보통신부장관 on 2000-07-13 (국회본회의, meeting 28572) and 2000-07-22 (예산결산특별위원회, meeting 28535) and 유영환 on 2003-11-25 (예산결산특별위원회, meeting 31589). These hearing types carry misattached content and were ignored. All valid-type rows fall inside the spells."
+  },
+  {
+   "severity": "low",
+   "desc": "Scope. ICT functions returned to cabinet level in 미래창조과학부 (2013-03-23) and 과학기술정보통신부 (2017-07-26). offices.json assigns those offices to the science lineage (primary) with ict as 'also', so their spells are not repeated here. The ict lineage has no 국무위원 office from 2008-02-29 to 2013-03-22. The 2025-2026 news check therefore does not apply to this file."
+  },
+  {
+   "severity": "low",
+   "desc": "Gazette coverage. The finished harvest (GAZETTE_DONE present, all 96 months 2001-01..2008-12) contains exactly five 정보통신부장관 appointment notices (양승택, 이상철, 진대제, 노준형, 유영환), matching the roster and the five rows in gazette_cabinet_notices_2001_2026.csv (the parser left 노준형's date blank, the text header gives 2006-03-28). Spells starting before 2001 (배순훈, 남궁석, 안병엽, and 강봉균 in 1996) rest on the MSIT list and news of the day."
+  },
+  {
+   "severity": "medium",
+   "desc": "VERIFIER. 안병엽 start marked disputed (2000-02-14 kept, 2000-02-12 alternative). Gazette practice 2001-2004 dates appointments sometimes at the decision day (임인택 2001-09-29, 임명장 10-04) and sometimes at the 임명장 day (심상명 2002-11-09, announced 11-08 evening). The same question affects every 1998-2000 appointment whose 임명장 came after the announcement (for example 강봉균 1996-08-08 vs 08-09, 배순훈 1998-03-03 vs 03-04) and should be settled by one rule across lineages."
+  },
+  {
+   "severity": "low",
+   "desc": "VERIFIER. 2008-02-29 '임대 국무위원'. 조세일보 2008-02-29 (https://n.news.naver.com/mnews/article/123/0001938616) reports that 박명재 (행자부), 변재진 (복지부), 이규용 (환경부) and 임상규 (농림부) kept their 국무위원 status after leaving their posts, to give the first 이명박 국무회의 (2008-03-03) its quorum. 유영환 was not among them. This matters for the interior, health, environment and agriculture lineages, not for ict."
+  },
+  {
+   "severity": "low",
+   "desc": "VERIFIER. Independent holder list. The archived 정보통신부 website (web.archive.org captures of www.mic.go.kr/mic/intro_past_min_mic.jsp and intro_past_min_mic_02.jsp, 2003-07-24, 2005-03-07 and 2005-09-15, snapshots in sources/ict/verify/wayback/) lists 역대 장관 경상현, 이석채, 강봉균, 배순훈, 남궁석, 안병엽, 양승택, 이상철 with dates. It is a tier-2 official list the builder did not use and it agrees with the roster on every holder up to 2003. Its dates differ from the roster only where it applies the day-before-successor rule (강봉균 1998-03-02, 배순훈 1998-12-20, 안병엽 2001-03-25) and for 남궁석, where it prints 2000-02-01, which BigKinds reports of him acting as minister on 2000-02-02 and 2000-02-09 refute. News ordinals (Yonhap 2003-02-27 진대제 제9대 and 역대 장관 9명 since 1994, Yonhap 2006-03-28 노준형 제10대, 전자신문 and 아이뉴스24 2007-09 유영환 제11대) and the ko.wikipedia cabinet pages (김대중 정부의 국무위원 oldid 41125406, 노무현 정부의 국무위원 oldid 41125389) cover 2003-2008 and give the same holders. Namu Wiki returned a Cloudflare challenge (HTTP 403, snapshots namu_*.txt) and Wikidata has no 정보통신부 장관 position item (only Q12592441 과학기술정보통신부 장관, 4 holders)."
+  },
+  {
+   "severity": "low",
+   "desc": "VERIFIER. The archived 정보통신부 page and the current MSIT page disagree on the end dates of 양승택 (2002-07-11 vs 2002-07-10) and 이상철 (2003-02-27 vs 2003-02-26). The roster follows the archived page and the same-day-handover rule for both. Official lists alone should not be used to set end dates in this lineage."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T21:52:15-0400",
+  "verifier": "adversarial verifier, lineage ict (resumed run)",
+  "input": "roster/ict.json (built_at 2026-09-25T13:18:41-0400), not modified",
+  "resumed_pass": {
+   "note": "An earlier verifier run left scripts and snapshots but no output file and no partial checkpoint. This run re-checked every quote of that run's draft build script against its snapshot (ict_verify_quotecheck.py, 0 fragments missing after Unicode NFKC folding), removed narrative claims that no saved snapshot supports, and added new evidence.",
+   "removed_unsupported_claims": [
+    "디지털타임스 2003-02-24 on 이상철 acting as minister (no snapshot), replaced by Yonhap 2003-02-27 16:49 and the archived 정보통신부 page",
+    "reports of 2007-08-07 that 노준형's 사표 had been accepted and 아이뉴스24 2007-08-26 (no snapshot), replaced by 매일경제 2007-08-06, 이투데이 2007-08-10 and 전자신문 2007-08-22",
+    "내일신문 2006-03-20 on the planned acceptance of 진대제's 사표 (snapshot does not contain it), replaced by the builder's 한겨레 2006-03-18",
+    "a claim that the finance, foreign, education and industry rosters date the 2000-01-13 reshuffle at 2000-01-14 (education.json uses 2000-01-13), replaced by the directly comparable labor.partial.json 최선정 2000-02-14"
+   ]
+  },
+  "scripts": [
+   "roster/scripts/ict_verify_quotecheck.py",
+   "roster/scripts/ict_verify_transcripts.py",
+   "roster/scripts/ict_verify_transcripts2.py",
+   "roster/scripts/ict_verify_gazette_grep.py",
+   "roster/scripts/ict_verify_likms.py",
+   "roster/scripts/ict_verify_news.py",
+   "roster/scripts/ict_verify_namu.py",
+   "roster/scripts/ict_verify_wikidata.py",
+   "roster/scripts/ict_verify_build2.py (this build, run with 'final')",
+   "roster/scripts/ict_verify_build.py (earlier draft, never run, superseded)"
+  ],
+  "snapshots": "roster/sources/ict/verify",
+  "summary": {
+   "spells": 9,
+   "confirmed": 6,
+   "corrected": 2,
+   "disputed": 1,
+   "added": 0,
+   "nominations": 8,
+   "date_values_changed": 0,
+   "fields_changed": [
+    "mp_hint (강봉균, 남궁석, 안병엽)",
+    "notes (안병엽)",
+    "acting[3] role (노준형)"
+   ]
+  },
+  "independent_holder_list": [
+   "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050915170452/http://www.mic.go.kr:80/mic/intro_past_min_mic.jsp (capture 2005-09-15, accessed 2026-09-25T21:39:31-0400, snapshot roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.html, text roster/sources/ict/verify/wayback/mic_20050915170452_intro_past_min_mic.jsp.txt) quote '성 명 경상현 ... 성 명 이석채 ... 성 명 강봉균 ... 성 명 배순훈 ... 성 명 남궁석' [verifier]",
+   "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050307112031/http://www.mic.go.kr:80/mic/intro_past_min_mic_02.jsp (capture 2005-03-07, accessed 2026-09-25T21:39:32-0400, snapshot roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.html, text roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.txt) quote '성 명 안병엽 ... 성 명 양승택 ... 성 명 이상철' [verifier]",
+   "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20030724105123/http://www.mic.go.kr:80/mic/intro_past_min_mic.jsp (capture 2003-07-24, accessed 2026-09-25T21:39:33-0400, snapshot roster/sources/ict/verify/wayback/mic_20030724105123_intro_past_min_mic.jsp.html, text roster/sources/ict/verify/wayback/mic_20030724105123_intro_past_min_mic.jsp.txt) quote '성 명 경상현 재임기간 1994년 12월 24일' [verifier]",
+   "ko.wikipedia 김대중 정부의 국무위원 https://ko.wikipedia.org/w/index.php?oldid=41125406 (accessed 2026-09-24T22:43:25-0400, snapshot roster/sources/ict/verify/wiki_김대중_정부의_국무위원.json) has the 정보통신부 장관 row 배순훈, 남궁석, 안병엽, 양승택, 이상철 [verifier, secondary]",
+   "ko.wikipedia 노무현 정부의 국무위원 https://ko.wikipedia.org/w/index.php?oldid=41125389 (accessed 2026-09-24T22:43:26-0400, snapshot roster/sources/ict/verify/wiki_노무현_정부의_국무위원.json) has the 정보통신부 장관 row 진대제, 노준형, 유영환 [verifier, secondary]",
+   "ko.wikipedia 이명박 정부의 국무위원 https://ko.wikipedia.org/w/index.php?oldid=41123609 (snapshot roster/sources/ict/verify/wiki_이명박_정부의_국무위원.json) has no 정보통신부 row [verifier, secondary]",
+   "News ordinals. 연합뉴스 2003-02-27 14:07 '<정통부장관에 전문경영인 네번째 진출>' https://n.news.naver.com/mnews/article/001/0000326602 (accessed 2026-09-25T14:01:56-0400, snapshot roster/sources/ict/verify/naver_001_0000326602.html) quote '제 9대 정보통신부 장관에 임명됨에 따라' [verifier] | 연합뉴스 2006-03-28 17:34 '노준형 정통 \"소비자 보호.공정경쟁에 초점\"(종합)' https://n.news.naver.com/mnews/article/001/0001256341 (accessed 2026-09-25T14:08:30-0400, snapshot roster/sources/ict/verify/naver_001_0001256341.html) quote '제 10대 정통부 장관 취임' [verifier] | 전자신문 2007-09-05 13:32 '유영환 정보통신부 장관 취임식' https://n.news.naver.com/mnews/article/030/0000190600 (accessed 2026-09-25T14:08:21-0400, snapshot roster/sources/ict/verify/naver_030_0000190600.html) quote '유영환 제11대 정보통신부 장관은 4일' [verifier]",
+   "Result. The same nine persons hold the office in the window as in ict.json, in the same order. No omission found."
+  ],
+  "gazette_reread": {
+   "script": "roster/scripts/ict_verify_gazette_grep.py (output roster/sources/ict/verify/gazette_grep.json)",
+   "files_scanned": 2709,
+   "appointment_notices": [
+    "20010330_14764_00000000000000001319596776654000.txt header 2001-03-26",
+    "20020716_15150_00000000000000001319023033715000.txt header 2002-07-11",
+    "20030305_15338_00000000000000001319026541100000.txt header 2003-02-27",
+    "20060403_16225_00000000000000001319600929146000.txt header 2006-03-28",
+    "20070907_16584_00000000000000001319078853284000.txt header 2007-09-04"
+   ],
+   "result": "All five gazette-backed starts (양승택 2001-03-26, 이상철 2002-07-11, 진대제 2003-02-27, 노준형 2006-03-28, 유영환 2007-09-04) were re-read in the harvest text, which is all of them, not only a third. The date header preceding each name matches the roster. The corpus has no other 정보통신부장관 appointment, 서리 or 겸임 notice. The four other files that mention the title are 장관정책보좌관 appointments (2003-06-20, 2005-09-15, 2006-07-13) and a staff 면직 notice signed (정보통신부장관) (2004-07-07). GAZETTE_DONE is present and every month from 2001-01 to 2008-03 is harvested."
+  },
+  "transcript_check": {
+   "scripts": [
+    "roster/scripts/ict_verify_transcripts.py (output transcript_check.json)",
+    "roster/scripts/ict_verify_transcripts2.py (output transcript_check2.json)"
+   ],
+   "valid_hearing_types": [
+    "상임위원회",
+    "국정감사",
+    "인사청문특별위원회"
+   ],
+   "valid_rows_checked": 118,
+   "problems": [],
+   "per_person": {
+    "노준형": {
+     "n_minister": 15,
+     "first": "2006-04-17",
+     "last": "2007-06-26",
+     "nominee_dates": [
+      "2006-03-22"
+     ],
+     "other": []
+    },
+    "안병엽": {
+     "n_minister": 18,
+     "first": "2000-06-26",
+     "last": "2001-02-20",
+     "nominee_dates": [],
+     "other": []
+    },
+    "양승택": {
+     "n_minister": 16,
+     "first": "2001-06-15",
+     "last": "2002-04-16",
+     "nominee_dates": [],
+     "other": []
+    },
+    "유영환": {
+     "n_minister": 8,
+     "first": "2007-10-02",
+     "last": "2008-02-04",
+     "nominee_dates": [
+      "2007-08-30"
+     ],
+     "other": []
+    },
+    "이상철": {
+     "n_minister": 11,
+     "first": "2002-07-15",
+     "last": "2003-01-28",
+     "nominee_dates": [],
+     "other": []
+    },
+    "진대제": {
+     "n_minister": 48,
+     "first": "2003-04-15",
+     "last": "2006-02-20",
+     "nominee_dates": [],
+     "other": []
+    }
+   },
+   "ignored_invalid_type_rows": [
+    [
+     "2003-11-25",
+     "minister",
+     "유영환",
+     "정보통신부장관 유영환",
+     "정보통신부장관 유영환",
+     "예산결산특별위원회",
+     "31589",
+     "예산결산특별위원회"
+    ],
+    [
+     "2000-07-22",
+     "minister",
+     "진대제",
+     "정보통신부장관 진대제",
+     "정보통신부장관 진대제",
+     "예산결산특별위원회",
+     "28535",
+     "예산결산특별위원회"
+    ],
+    [
+     "2000-07-13",
+     "minister",
+     "진대제",
+     "정보통신부장관 진대제",
+     "정보통신부장관 진대제",
+     "국회본회의",
+     "28572",
+     "국회본회의"
+    ]
+   ],
+   "result": "Every valid-type minister row carrying a 정보통신부 label falls inside the named person's spell, the two nominee hearings (2006-03-22, 2007-08-30) precede the starts, and no row names a person absent from the roster. No acting (직무대행) rows exist. The three invalid-type rows (2000-07-13 국회본회의, 2000-07-22 and 2003-11-25 예산결산특별위원회) predate the persons' tenures and are misattached content, as the audit notes."
+  },
+  "per_spell": {
+   "0": {
+    "name": "강봉균",
+    "start": "1996-08-08",
+    "end": "1998-02-25",
+    "status": "corrected",
+    "checks": [
+     "start 1996-08-08 (pre-window). Yonhap 1996-08-08 15:57 reports him as the new minister right after the afternoon announcement of the 8·8 개각 and Yonhap 1996-08-09 10:07 gives the 임명장 on the morning of 08-09. The MSIT page and the archived 정보통신부 역대 장관 page both give 1996. 8. 8. Kept. Caveat. The 1996 gazette is not digital, and in the 심상명 case of 2002 (announced 11-08 evening, 임명장 and gazette date 11-09) the gazette followed the 임명장 day, so 1996-08-09 cannot be ruled out. This does not affect inclusion.",
+     "end 1998-02-25 confirmed (medium). Yonhap 1998-02-25 10:37 has him greeting the President as 정책기획수석 on the morning of inauguration day, the 수석 임명장 was handed over that afternoon (한국일보 1998-02-26, builder), and Yonhap 1998-02-26 says he left the ministry because he received the 수석 임명장 on 25일 with the inauguration, so the ministry became the only one without a minister from 26일. 한겨레 1998-02-27 confirms that the other old ministers stayed in office. Both official lists, the current MSIT page (builder) and the archived 정보통신부 page of 2003 and 2005 (verifier), give 1998. 3. 2., the day before the successor. The MSIT page applies that rule to every replaced minister and the archived page does so wherever a vacancy followed (배순훈 1998-12-20 although Yonhap reports the 사표 수리 on 12-18), so this end carries no independent information. No report of a separate 이임식 or of an acceptance before 02-25 was found (BigKinds '정통부 이임식' 1998-02-20..27, snapshot bk_476f0ad0_1998-02-20_1998-02-27.json). In office on 1998-02-25, so in the window.",
+     "transcripts. No rows (spell ends before 2000-06).",
+     "fields. appointing_president 김영삼 (1996). end_reason other (moved to 청와대 정책기획수석) kept. deputy_pm false. mp_hint filled from na_members_15_22.csv."
+    ]
+   },
+   "1": {
+    "name": "배순훈",
+    "start": "1998-03-03",
+    "end": "1998-12-18",
+    "status": "confirmed",
+    "checks": [
+     "start 1998-03-03 confirmed. The cabinet was announced and appointed on 03-03 (Yonhap 03-03 12:39, builder) and he received a separate 임명장 on 03-04 after flying back from Paris (Yonhap 03-03 15:43 and 03-04 18:37). The rule says start is the appointment date, not the 임명장 ceremony. The gazette precedent of 임인택 (관보 제14920호 dates him 2001-09-29, while the 임명장 was handed over on 2001-10-04 per BigKinds 부산일보 and 국민일보 2001-10-04) shows that a later handover does not move the legal date. MSIT agrees (1998. 3. 3.).",
+     "end 1998-12-18 confirmed by Yonhap 1998-12-18 21:27 (사표 수리 on 18일). The MSIT and archived 정보통신부 end 1998-12-20 is the day-before-successor rule.",
+     "continuity. No reshuffle replaced him between 1998-03-03 and 1998-12-18 (Yonhap 1998-12-18 says the minister was forced out after 10 months).",
+     "fields. appointing_president 김대중, end_reason resigned (formally a resignation, de facto dismissal, noted by the builder), mp_hint null (not in na_members_15_22.csv)."
+    ]
+   },
+   "2": {
+    "name": "남궁석",
+    "start": "1998-12-21",
+    "end": "2000-02-11",
+    "status": "corrected",
+    "checks": [
+     "start 1998-12-21 confirmed by Yonhap 1998-12-21 10:55 (appointed and 임명장 at 11:30 the same day).",
+     "end 2000-02-11 confirmed by 동아일보 2000-02-11, 중앙일보 2000-02-12 and KBS 2000-02-11 (resigned and submitted his 사표 on 11일 to run in the 2000-04-13 election, deadline 13일). The day the 사표 was formally accepted is not reported. 경향신문 2000-02-13 (BigKinds 01100101.20000213000000101) treats him as gone when his successor was named on 12일.",
+     "conflicting official source. The archived 정보통신부 역대 장관 page (captures 2003-07-24 and 2005-09-15) prints '1998년 12월 21일 ~ 2000년 2월 1일'. BigKinds reports of him acting as minister on 2000-02-02 (동아일보, 태릉 visit) and 2000-02-09 (전자신문 on the 부산 SW센터 and 경남도민일보 on a 김해 lecture) contradict it, and the current MSIT page gives 2000. 2. 11. The 2000-02-01 value is treated as an error on that page (probably a dropped digit), so the spell is not marked disputed.",
+     "continuity. Still minister after the 1999-05-24 and 2000-01-13 reshuffles (BigKinds 전남일보 1999-05-25 photo of 남궁석 정보통신부 장관 at the Y2K event of 24일, 부산일보 2000-01-13 names him as a sitting minister on the day of the reshuffle, snapshots bk_0ffc17e6_*, and the 2000-02-01..02-11 reports above show him still in office after it). Both official lists place no one between 남궁석 and 안병엽.",
+     "fields. end_reason resigned_to_run (16th general election, 경기 용인). mp_hint filled."
+    ]
+   },
+   "3": {
+    "name": "안병엽",
+    "start": "2000-02-14",
+    "end": "2001-03-26",
+    "status": "disputed",
+    "disputed_field": "start",
+    "kept_value": "2000-02-14",
+    "alternative_value": "2000-02-12",
+    "sources_kept": [
+     "MSIT 역대장관 page (builder snapshot roster/sources/ict/official/msit_past_ministers.html, accessed 2026-09-25T13:11:38-0400) 안병엽 2000. 2. 14.",
+     "한국경제 2000-02-14 10:18 '김대통령, 장관.방송위원에 임명장' https://n.news.naver.com/mnews/article/015/0000226674 (accessed 2026-09-25T13:54:54-0400, snapshot roster/sources/ict/verify/naver_015_0000226674.html) quote '14일 오전 청와대에서 새로 임명된 안병엽 정보통신 ... 에게 임명장을 수여했다' [verifier]",
+     "정보통신부 홈페이지 역대 장관 (archived) https://web.archive.org/web/20050307112031/http://www.mic.go.kr:80/mic/intro_past_min_mic_02.jsp (capture 2005-03-07, accessed 2026-09-25T21:39:32-0400, snapshot roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.html, text roster/sources/ict/verify/wayback/mic_20050307112031_intro_past_min_mic_02.jsp.txt) quote '성 명 안병엽 재임기간 2000년 2월 14일' [verifier]",
+     "labor.partial.json dates 최선정 (same announcement) 2000-02-14 [verifier, cross-lineage consistency]",
+     "BigKinds metadata 디지털타임스 2006-03-03 news_id 07101201.20060303170449001 (builder snapshot roster/sources/ict/news/bk_a94afa6d_2006-03-02_2006-03-03.json, accessed 2026-09-25T13:10:14-0400) quote '정통부 내부에서 장관승진이 이뤄진 것은 지난 6대 안병엽 장관(2000.2.14~2001.3.25) 이후 두 번째다' [verifier, item not cited by the builder]"
+    ],
+    "sources_alternative": [
+     "한국경제 2000-02-13 17:57 '정통장관 안병엽. 노동장관 최선정씨 임명' https://n.news.naver.com/mnews/article/015/0000226613 (accessed 2026-09-25T07:07:25-0400, snapshot roster/sources/ict/verify/naver_015_0000226613.html) quote '김대중 대통령은 12일 정보통신부장관에 안병엽 정통부 차관을 승진 임명하고' [verifier]",
+     "BigKinds metadata 경향신문 2000-02-13 news_id 01100101.20000213000000101 (POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:59:15-0400, snapshot roster/sources/ict/verify/bk_c8963572_2000-02-10_2000-02-15.json) quote '김대중(金大中)대통령은 12일 총선 출마를 위해 사표를 제출한 남궁석(南宮晳) 정보통신부 장관 후임에 안병엽(安炳燁)차관을 승진 임명했다' [verifier]"
+    ],
+    "checks": [
+     "start disputed, value kept at 2000-02-14 (see the spell notes for the precedents on both sides). Both official lists are not consistent in this respect, since they date 강봉균 at the 1996-08-08 announcement although his 임명장 came on 08-09.",
+     "end 2001-03-26 confirmed by 매일경제 2001-03-26 (이임 on 26일) together with the 양승택 gazette notice. The archived 정보통신부 page gives 2001-03-25 and the MSIT page 2001. 3. 25., the day before the successor. The archived page is not consistent in this (it ends 양승택 on 2002-07-11 and 이상철 on 2003-02-27, the successors' appointment days), and the farewell on 26일 shows he was still in office that day, so the value is kept and the spell is not disputed on its end.",
+     "transcripts. 18 valid-type rows 2000-06-26..2001-02-20, inside the spell. He was still minister after the 2001-01-29 reshuffle.",
+     "fields. mp_hint filled."
+    ]
+   },
+   "4": {
+    "name": "양승택",
+    "start": "2001-03-26",
+    "end": "2002-07-11",
+    "status": "confirmed",
+    "checks": [
+     "start 2001-03-26 confirmed by re-reading 관보 제14764호 in the harvest text. The archived 정보통신부 page also gives 2001년 3월 26일.",
+     "end 2002-07-11 confirmed by 한국경제 and 머니투데이 of 2002-07-11 calling him 전임 장관 on the reshuffle day and by the archived 정보통신부 page (2002년 7월 11일). The current MSIT page gives 2002. 7. 10. (day before the successor). end_confidence inferred_from_successor kept.",
+     "transcripts. 16 valid-type rows 2001-06-15..2002-04-16, inside the spell. Still minister after the 2002-01-29 reshuffle."
+    ]
+   },
+   "5": {
+    "name": "이상철",
+    "start": "2002-07-11",
+    "end": "2003-02-27",
+    "status": "confirmed",
+    "checks": [
+     "start 2002-07-11 confirmed by re-reading 관보 제15150호. The archived 정보통신부 page also gives 2002년 7월 11일.",
+     "end 2003-02-27 confirmed. Holdover under 노무현 from 2003-02-25. Yonhap 2003-02-27 16:49 says he leaves with 진대제's appointment that afternoon (진 장관 취임으로 물러나는 이상철 전임 장관), 진대제's 취임사 of 02-27 thanks the departed 이상철, and the archived 정보통신부 page ends him on 2003년 2월 27일. The current MSIT page gives 2003. 2. 26. (day before the successor). Every other lineage file in roster/ ends its 2003 김대중-era holdover on 2003-02-27 (checked across the non-partial roster files).",
+     "transcripts. 11 valid-type rows 2002-07-15..2003-01-28, inside the spell."
+    ]
+   },
+   "6": {
+    "name": "진대제",
+    "start": "2003-02-27",
+    "end": "2006-03-21",
+    "status": "confirmed",
+    "checks": [
+     "start 2003-02-27 confirmed by re-reading 관보 제15338호.",
+     "end 2006-03-21 confirmed by Yonhap 2006-03-21 17:01 (이임식 on 21일 in the presence of 노준형 장관 내정자, 3년23일 in office). This agrees with the builder's 한겨레 2006-03-18 report that the four candidate ministers' 사표 would be accepted on 21일 and with the MSIT page (2006. 3. 21.). The archived 정보통신부 pages end before his exit (captures up to 2005-09).",
+     "elections. Resigned to run for 경기도지사 (2006-05-31 local election). Did not resign for the 2004-04-15 general election (48 valid transcript rows through 2006-02-20).",
+     "transcripts. The two invalid-type rows of 2000 (meetings 28535, 28572) are misattached content, as the builder says."
+    ]
+   },
+   "7": {
+    "name": "노준형",
+    "start": "2006-03-28",
+    "end": "2007-08-27",
+    "status": "confirmed",
+    "checks": [
+     "start 2006-03-28 confirmed by re-reading 관보 제16225호 and Yonhap 2006-03-28.",
+     "end 2007-08-27 confirmed by 아이뉴스24 and 이데일리 of 2007-08-27 (공식 퇴임 after the 10:00 이임식). He announced his resignation on 2007-08-06, when its acceptance was still open (매일경제 2007-08-06), and he kept acting as minister after his successor was named on 08-08, meeting the president of Gabon on 08-10 (이투데이) and leaving on 08-21 for the ASEAN+Korea 정보통신장관회의 of 08-23..24 (전자신문, 디지털타임스 2007-08-22). justice.json likewise ends 김성호, who offered his resignation the same week, on 2007-09-03 and not in early August.",
+     "transcripts. 15 valid-type rows 2006-04-17..2007-06-26 and the 2006-03-22 nominee hearing, all consistent."
+    ]
+   },
+   "8": {
+    "name": "유영환",
+    "start": "2007-09-04",
+    "end": "2008-02-28",
+    "status": "confirmed",
+    "checks": [
+     "start 2007-09-04 confirmed by re-reading 관보 제16584호 and 아이뉴스24 2007-09-04.",
+     "end 2008-02-28 kept by convention. He held the 이임식 on 2008-02-29 at 11:00 and the new 정부조직법 took effect on publication that day. offices.json OF017 ends the office on 2008-02-28, and every other roster file with a ministry abolished by 법률 제8852호 ends its holdover on 2008-02-28 as well (agriculture 임상규, culture 김종민, finance 권오규, health 변재진, industry 김영주, interior 박명재, oceans 강무현, science.verified 김우식). Ministries that continued (defense, foreign, justice, unification) end on 2008-02-29, when successors were appointed. The MSIT page gives 2008. 2. 29. The merge should apply one rule to all 2008-02-29 abolitions.",
+     "2008-02-29 '임대 국무위원'. 조세일보 2008-02-29 lists the 노무현-era ministers kept as 국무위원 for the 2008-03-03 국무회의 quorum as 박명재, 변재진, 이규용 and 임상규. 유영환 is not among them, so there is no residual 국무위원 period to record here.",
+     "transcripts. 8 valid-type rows 2007-10-02..2008-02-04 and the 2007-08-30 nominee hearing. The 2003-11-25 예산결산특별위원회 row is misattached content.",
+     "transition. Holdover under 이명박 2008-02-25..2008-02-28."
+    ]
+   }
+  },
+  "per_nomination": {
+   "0": {
+    "nominee": "배순훈",
+    "status": "confirmed",
+    "checks": [
+     "Pre-hearing era (before 2005-07-28), no likms record expected. Dates follow the spell start, re-verified in verification.per_spell."
+    ]
+   },
+   "1": {
+    "nominee": "남궁석",
+    "status": "confirmed",
+    "checks": [
+     "Pre-hearing era (before 2005-07-28), no likms record expected. Dates follow the spell start, re-verified in verification.per_spell."
+    ]
+   },
+   "2": {
+    "nominee": "안병엽",
+    "status": "disputed",
+    "checks": [
+     "outcome_date 2000-02-14 follows the spell start, which is disputed (alternative 2000-02-12, see verification.per_spell). nomination_date 2000-02-12 is the announcement and is confirmed by 한국경제 2000-02-12 and 2000-02-13 and 경향신문 2000-02-13."
+    ]
+   },
+   "3": {
+    "nominee": "양승택",
+    "status": "confirmed",
+    "checks": [
+     "Pre-hearing era (before 2005-07-28), no likms record expected. Dates follow the spell start, re-verified in verification.per_spell."
+    ]
+   },
+   "4": {
+    "nominee": "이상철",
+    "status": "confirmed",
+    "checks": [
+     "Pre-hearing era (before 2005-07-28), no likms record expected. Dates follow the spell start, re-verified in verification.per_spell."
+    ]
+   },
+   "5": {
+    "nominee": "진대제",
+    "status": "confirmed",
+    "checks": [
+     "Pre-hearing era (before 2005-07-28), no likms record expected. Dates follow the spell start, re-verified in verification.per_spell."
+    ]
+   },
+   "6": {
+    "nominee": "노준형",
+    "status": "confirmed",
+    "checks": [
+     "nomination 2006-03-02 (머니투데이 2006-03-02 16:18, 디지털타임스 2006-03-03), request 2006-03-10 and report adopted 2006-03-27 (likms ZZ1790, re-queried), hearing 2006-03-22 (nominee_hearing_meetings.csv meeting 34292), appointed 2006-03-28 (관보 제16225호)."
+    ]
+   },
+   "7": {
+    "nominee": "유영환",
+    "status": "confirmed",
+    "checks": [
+     "nomination 2007-08-08 (Yonhap 2007-08-08 21:55), request 2007-08-16 and report adopted 2007-09-03 (likms ZZ1867, re-queried, 전자신문 2007-09-04), hearing 2007-08-30 (meeting 36157), appointed 2007-09-04 (관보 제16584호)."
+    ]
+   }
+  },
+  "per_acting": {
+   "0": {
+    "name": "박성득",
+    "status": "confirmed",
+    "checks": [
+     "Yonhap 1998-02-26 (builder) and BigKinds 중앙일보, 한국일보, 전자신문 1998-03-03 show 차관 박성득 representing the ministry on 1998-03-02."
+    ]
+   },
+   "1": {
+    "name": "안병엽",
+    "status": "confirmed_with_caveat",
+    "checks": [
+     "Vacancy between spells. The 차관 in post is listed, no explicit 직무대행 report beyond what the builder cites."
+    ]
+   },
+   "2": {
+    "name": "안병엽",
+    "status": "disputed",
+    "checks": [
+     "Exists only if 안병엽's legal appointment date is 2000-02-14. If 2000-02-12 is adopted, drop this entry."
+    ]
+   },
+   "3": {
+    "name": "노준형",
+    "status": "corrected",
+    "checks": [
+     "직무대행 now documented by the Blue House statement of 2006-03-02."
+    ]
+   },
+   "4": {
+    "name": "유영환",
+    "status": "confirmed_with_caveat",
+    "checks": [
+     "Vacancy between spells. The 차관 in post is listed, no explicit 직무대행 report beyond what the builder cites."
+    ]
+   },
+   "5": {
+    "name": "김동수",
+    "status": "confirmed_with_caveat",
+    "checks": [
+     "Vacancy between spells. The 차관 in post is listed, no explicit 직무대행 report beyond what the builder cites."
+    ]
+   }
+  },
+  "continuity": [
+   {
+    "from": "1998-02-26",
+    "to": "1998-03-02",
+    "type": "gap",
+    "days": 5,
+    "explanation": "강봉균 moved to 청와대 정책기획수석 on inauguration day. The 김종필 consent vote failed, so the first 김대중 cabinet was only appointed on 1998-03-03. 차관 박성득 acted (Yonhap 1998-02-26)."
+   },
+   {
+    "from": "1998-12-19",
+    "to": "1998-12-20",
+    "type": "gap",
+    "days": 2,
+    "explanation": "Weekend between the acceptance of 배순훈's resignation (Friday 12-18) and 남궁석's appointment (Monday 12-21)."
+   },
+   {
+    "from": "2000-02-12",
+    "to": "2000-02-13",
+    "type": "gap",
+    "days": 2,
+    "explanation": "Weekend between 남궁석's resignation to run (Friday 02-11) and 안병엽's 임명장 (Monday 02-14). Disappears if the disputed start 2000-02-12 is adopted."
+   },
+   {
+    "from": "2001-03-26",
+    "to": "2001-03-26",
+    "type": "same_day_handover",
+    "explanation": "안병엽 to 양승택 (farewell on 26일, 매일경제)."
+   },
+   {
+    "from": "2002-07-11",
+    "to": "2002-07-11",
+    "type": "same_day_handover",
+    "explanation": "양승택 to 이상철."
+   },
+   {
+    "from": "2003-02-27",
+    "to": "2003-02-27",
+    "type": "same_day_handover",
+    "explanation": "이상철 (holdover from 02-25) to 진대제."
+   },
+   {
+    "from": "2006-03-22",
+    "to": "2006-03-27",
+    "type": "gap",
+    "days": 6,
+    "explanation": "진대제 left on 03-21 to run for 경기도지사 before his successor's hearing (03-22) and report (03-27). 차관 노준형 acted under the Blue House arrangement of 2006-03-02."
+   },
+   {
+    "from": "2007-08-28",
+    "to": "2007-09-03",
+    "type": "gap",
+    "days": 7,
+    "explanation": "노준형 left on 08-27 to stand for 서울산업대 총장 (candidate registration reported by 서울신문 and 전자신문 2007-08-21) before his successor's hearing (08-30) and report (09-03). 김동수 acted from his appointment as 차관 on 08-31 (디지털타임스 2007-09-03, builder)."
+   },
+   {
+    "from": "2008-02-29",
+    "to": "2013-03-22",
+    "type": "lineage_gap",
+    "explanation": "정보통신부 abolished by 법률 제8852호. No 국무위원 office in the ict lineage until 미래창조과학부 (science lineage primary)."
+   },
+   {
+    "type": "overlaps",
+    "explanation": "none"
+   }
+  ],
+  "commonly_missed_cases": {
+   "transitions": "1998 (강봉균 in office on 02-25, then vacancy), 2003 (이상철 holdover 02-25..02-27), 2008 (유영환 holdover 02-25..02-28) all present. 2013, 2017, 2022 and 2025 do not apply because the ministry was abolished in 2008.",
+   "short_tenures": "none. The shortest spell is 배순훈 (1998-03-03..1998-12-18). The archived 정보통신부 list and the news ordinals (9th 진대제, 10th 노준형, 11th 유영환) leave no room for an unlisted minister.",
+   "pm_seori": "not applicable",
+   "renamed_mid_tenure": "none in the window. 체신부 became 정보통신부 on 1994-12-23, before 강봉균. The 1998-02-28 정부조직법 전부개정 kept the name while the post was vacant.",
+   "elections": "2000 general (남궁석 resigned 2000-02-11 to run, present). 2006 local (진대제 resigned 2006-03-21 to run for 경기도지사, present). 2002 local. 양승택 stayed until the 2002-07-11 reshuffle (valid transcript rows to 2002-04-16, called 전임 장관 on 07-11). 2004 general. 진대제 stayed (48 valid transcript rows 2003-04-15..2006-02-20). The ministry was gone before the 2008-04-09 election. No other election window falls inside the office's life.",
+   "acting_president_appointments": "none. 고건 (2004-03-12..05-14) appointed no 정보통신부장관, and the gazette has no 정보통신부장관 notice in 2004.",
+   "2025_2026": "not applicable (office abolished 2008).",
+   "gazette_grep": "see gazette_reread",
+   "likms": "Queries 정보통신부장관, 정보통신부, 인사청문요청안 and 국무위원후보자 over terms 16-18 (likms_ict_search.json) and the harvest file harvest/likms_cabinet_bills.csv return only ZZ1790 (노준형, bill 034313) and ZZ1867 (유영환, bill PRC_U0J7G0J8W1P6J1Z6A2Y2S4D5I2F5C7). No withdrawn or failed 정보통신부 nominee exists in the hearing era (2005-07-28..2008-02-28), and no 대통령당선인 request for this office was made in 2008. Hearing and report dates re-read in harvest/likms/034313.txt and PRC_U0J7G0J8W1P6J1Z6A2Y2S4D5I2F5C7.txt."
+  },
+  "field_hygiene": {
+   "appointing_president": "consistent with the start dates. 강봉균 김영삼 (1996), 배순훈..이상철 김대중, 진대제..유영환 노무현. No acting-president appointment.",
+   "end_reason": "강봉균 other (moved to 청와대 정책기획수석), 배순훈 resigned (de facto dismissal, noted), 남궁석 resigned_to_run, 안병엽 양승택 이상철 replaced, 진대제 resigned_to_run, 노준형 resigned, 유영환 ministry_reorganized. All consistent with the evidence.",
+   "deputy_pm": "false throughout, matching offices.json OF017 (deputy_pm_title empty).",
+   "reorg_continuation_reappointed_on_reorg": "false/null throughout. No spell spans a renaming or merger (the 1998-02-28 전부개정 fell in the 1998-02-26..03-02 vacancy).",
+   "suspensions": "none",
+   "mp_hint": "filled for 강봉균, 남궁석 and 안병엽 from na_members_15_22.csv (all later members, none sitting during the spell). The other six are not in the file.",
+   "in_scope": "정보통신부장관 was a 국무위원 for the whole window (offices.json OF017 is_kukmuwiwon true). The 방송통신위원회 chair from 2008-02-29 is not a 국무위원 (OF071) and is correctly left out. 미래창조과학부 and 과학기술정보통신부 belong to the science lineage and are not duplicated here."
+  },
+  "changes": [
+   {
+    "target": "spells[0] 강봉균",
+    "field": "start_sources (append)",
+    "old": "3 sources",
+    "new": "6 sources",
+    "evidence": "Yonhap (Naver) and the archived 정보통신부 역대 장관 page (tier 2) were not used by the builder. Start value unchanged."
+   },
+   {
+    "target": "spells[0] 강봉균",
+    "field": "end_sources (append)",
+    "old": "4 sources",
+    "new": "7 sources",
+    "evidence": "Independent of the builder's items. Yonhap 1998-02-25 10:37 shows him acting as 정책기획수석 on the morning of 1998-02-25 and the 수석 임명장 came that afternoon, while the other old ministers stayed in office under the 법제처 reading. End value unchanged."
+   },
+   {
+    "target": "spells[0] 강봉균",
+    "field": "mp_hint",
+    "old": null,
+    "new": "not a sitting member during the spell. Later 16th NA member (새천년민주당, 전북 군산시, by-election, seat 2002-08-08..2004-05-29), 17th (열린우리당, 2004-05-30..2008-05-29) and 18th (통합민주당, 2008-05-30..2012-05-29), mona_cd 7PU7009N",
+    "evidence": "na_members/na_members_15_22.csv rows term 16, 17, 18 for 강봉균 康奉均 born 1943-08-13 (same birth date as the spell). The builder left mp_hint null although the task asks for it to be filled from this file, and other lineages fill it for later members (for example foreign.json 송민순)."
+   },
+   {
+    "target": "spells[1] 배순훈",
+    "field": "start_sources (append)",
+    "old": "4 sources",
+    "new": "7 sources",
+    "evidence": "Start value unchanged. The appointment was made with the whole cabinet on 1998-03-03 and only the 임명장 handover was late. The archived 정보통신부 page (tier 2, not used by the builder) also gives 1998-03-03."
+   },
+   {
+    "target": "spells[1] 배순훈",
+    "field": "end_sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "Yonhap (Naver) is not among the builder's end sources. End value unchanged."
+   },
+   {
+    "target": "spells[2] 남궁석",
+    "field": "start_sources (append)",
+    "old": "4 sources",
+    "new": "5 sources",
+    "evidence": "Yonhap (Naver) is not among the builder's start sources. Start value unchanged."
+   },
+   {
+    "target": "spells[2] 남궁석",
+    "field": "end_sources (append)",
+    "old": "3 sources",
+    "new": "9 sources",
+    "evidence": "Outlets not used by the builder for this end. The last three show him acting as minister on 2000-02-02 and 2000-02-09, which rules out the 2000-02-01 end printed on the archived 정보통신부 page (and on ko.wikipedia). End value unchanged."
+   },
+   {
+    "target": "spells[2] 남궁석",
+    "field": "mp_hint",
+    "old": null,
+    "new": "not a sitting member during the spell. Later 16th NA member (새천년민주당, 경기 용인시갑, seat 2000-05-30..2004-05-29), mona_cd T8T6598Q",
+    "evidence": "na_members/na_members_15_22.csv row term 16 for 남궁석 南宮晳 born 1938-09-20 (same birth date as the spell). The builder left mp_hint null."
+   },
+   {
+    "target": "spells[3] 안병엽",
+    "field": "start_sources (append)",
+    "old": "4 sources",
+    "new": "7 sources",
+    "evidence": "Both candidate dates documented. The archived 정보통신부 page (tier 2, not used by the builder) gives 2000-02-14 like the MSIT page. Start value unchanged, spell marked disputed."
+   },
+   {
+    "target": "spells[3] 안병엽",
+    "field": "end_sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "Independent of the builder's end sources. Farewell on the successor's appointment day. End value unchanged."
+   },
+   {
+    "target": "spells[3] 안병엽",
+    "field": "notes",
+    "old": "Start is ambiguous by two days. The Blue House announced on Saturday 2000-02-12 that 차관 안병엽 was '승진 임명' (한국경제 2000-02-12 and 2000-02-13, BigKinds 경향신문 2000-02-13 01100101.20000213000000101), and the President handed over the 임명장 on Monday 2000-02-14, which the MSIT list uses as the start. No gazette exists for 2000. End set to the successor's appointment date (same-day handover). The MSIT page gives 2001-03-25, the day before. Later 17th NA member (경기 화성), not a sitting MP during the spell. Birth date from na_members_15_22.csv and ko.wikipedia '안병엽' https://ko.wikipedia.org/w/index.php?oldid=42545622 (accessed 2026-09-25T13:12:47-0400, secondary).",
+    "new": "Start is ambiguous by two days. The Blue House announced on Saturday 2000-02-12 that 차관 안병엽 was '승진 임명' (한국경제 2000-02-12 and 2000-02-13, BigKinds 경향신문 2000-02-13 01100101.20000213000000101), and the President handed over the 임명장 on Monday 2000-02-14, which the MSIT list uses as the start. No gazette exists for 2000. End set to the successor's appointment date (same-day handover). The MSIT page gives 2001-03-25, the day before. Later 17th NA member (경기 화성), not a sitting MP during the spell. Birth date from na_members_15_22.csv and ko.wikipedia '안병엽' https://ko.wikipedia.org/w/index.php?oldid=42545622 (accessed 2026-09-25T13:12:47-0400, secondary). VERIFIER (disputed start). Two dates are supported. 2000-02-14 is the date on both official lists (current MSIT page and the archived 정보통신부 page of 2005) and the 임명장 and 취임식 day (한국경제 2000-02-14 10:18, 매일신문 2000-02-14, 서울신문 2000-02-15). 2000-02-12 is the day news report as the appointment (한국경제 2000-02-13 17:57 '김대중 대통령은 12일 ... 승진 임명', 경향신문 2000-02-13 BigKinds 01100101.20000213000000101). Gazette practice from 2001-2002 points both ways. 임인택 (관보 제14920호) is dated 2001-09-29, the day his predecessor's 사표 was accepted, although the appointment was reported on 09-30 and his 임명장 came on 2001-10-04. 심상명 (관보 제15249호) is dated 2002-11-09, the 임명장 day, although Yonhap already called him the new minister on the evening of 2002-11-08. labor.partial.json dates 최선정, named in the same 2000-02-12 announcement, at 2000-02-14 as well. Kept 2000-02-14 as better supported (two tier-2 lists plus the 임명장 day and cross-lineage consistency with labor). If 2000-02-12 is adopted, the 2000-02-12..13 vacancy disappears.",
+    "evidence": "News of 2000-02-12..14 (Naver 한국경제, BigKinds 경향신문, 매일신문, 서울신문) and gazette precedents 제14920호 and 제15249호 re-read by the verifier (copies in sources/ict/verify/gazette/). No 2000 gazette exists to settle the date."
+   },
+   {
+    "target": "spells[3] 안병엽",
+    "field": "mp_hint",
+    "old": null,
+    "new": "not a sitting member during the spell. Later 17th NA member (열린우리당, 경기 화성시, seat 2004-05-30..2006-11-10, 당선무효), mona_cd MWY71007",
+    "evidence": "na_members/na_members_15_22.csv row term 17 for 안병엽 安炳燁 born 1945-02-17 (same birth date as the spell). The builder left mp_hint null."
+   },
+   {
+    "target": "spells[4] 양승택",
+    "field": "start_sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "Gazette re-read by the verifier. Start value unchanged."
+   },
+   {
+    "target": "spells[4] 양승택",
+    "field": "end_sources (append)",
+    "old": "2 sources",
+    "new": "5 sources",
+    "evidence": "Outlets not used by the builder, and the archived 정보통신부 page (tier 2), which gives the same end 2002-07-11. End value unchanged (same-day handover)."
+   },
+   {
+    "target": "spells[5] 이상철",
+    "field": "start_sources (append)",
+    "old": "4 sources",
+    "new": "5 sources",
+    "evidence": "Gazette re-read by the verifier. Start value unchanged."
+   },
+   {
+    "target": "spells[5] 이상철",
+    "field": "end_sources (append)",
+    "old": "2 sources",
+    "new": "6 sources",
+    "evidence": "Outlets and articles not used by the builder, and the archived 정보통신부 page (tier 2), which gives the same end 2003-02-27. End value unchanged (same-day handover, consistent with every other lineage's 2003 holdover ending 2003-02-27)."
+   },
+   {
+    "target": "spells[6] 진대제",
+    "field": "start_sources (append)",
+    "old": "3 sources",
+    "new": "4 sources",
+    "evidence": "Gazette re-read by the verifier. Start value unchanged."
+   },
+   {
+    "target": "spells[6] 진대제",
+    "field": "end_sources (append)",
+    "old": "4 sources",
+    "new": "5 sources",
+    "evidence": "Yonhap (Naver) is not among the builder's end sources. 3년23일 counted inclusively from 2003-02-27 ends on 2006-03-21. End value unchanged."
+   },
+   {
+    "target": "spells[7] 노준형",
+    "field": "start_sources (append)",
+    "old": "5 sources",
+    "new": "7 sources",
+    "evidence": "Gazette re-read by the verifier (the parser left the date blank, the header gives 3월28일). Start value unchanged."
+   },
+   {
+    "target": "spells[7] 노준형",
+    "field": "end_sources (append)",
+    "old": "3 sources",
+    "new": "8 sources",
+    "evidence": "Outlets not used by the builder. The 2007-08-06 report shows the resignation was not yet accepted, and the 2007-08-10 and 2007-08-22 reports show him acting as minister after the 8·8 announcement of his successor. End value unchanged."
+   },
+   {
+    "target": "spells[8] 유영환",
+    "field": "start_sources (append)",
+    "old": "4 sources",
+    "new": "6 sources",
+    "evidence": "Gazette re-read by the verifier. Start value unchanged."
+   },
+   {
+    "target": "spells[8] 유영환",
+    "field": "end_sources (append)",
+    "old": "4 sources",
+    "new": "6 sources",
+    "evidence": "Outlets not used by the builder. They confirm the farewell on 2008-02-29. End value 2008-02-28 unchanged (convention)."
+   },
+   {
+    "target": "nominations[6] 노준형",
+    "field": "sources (append)",
+    "old": "5 sources",
+    "new": "7 sources",
+    "evidence": "Nomination date 2006-03-02 and request date 2006-03-10 re-confirmed. Values unchanged."
+   },
+   {
+    "target": "nominations[7] 유영환",
+    "field": "sources (append)",
+    "old": "6 sources",
+    "new": "9 sources",
+    "evidence": "Nomination 2007-08-08, request 2007-08-16, report 2007-09-03 re-confirmed. Values unchanged."
+   },
+   {
+    "target": "acting[3] 노준형",
+    "field": "role",
+    "old": "정보통신부 차관 and minister-designate (vacancy, no explicit 직무대행 report found)",
+    "new": "정보통신부 차관 and minister-designate, 장관 직무 대행 under the arrangement announced by the Blue House on 2006-03-02",
+    "evidence": "머니투데이 2006-03-02 16:18 quotes 김완기 인사수석 that the 차관 would act as minister between the candidate minister's departure and the formal appointment. Dates unchanged."
+   },
+   {
+    "target": "issues",
+    "field": "issues (append)",
+    "old": "9 issues",
+    "new": "13 issues",
+    "evidence": "Verifier findings recorded, see verification.changes."
+   }
+  ]
+ }
+}

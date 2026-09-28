@@ -1,0 +1,650 @@
+{
+ "group": "g1",
+ "rows": [
+  {
+   "row_id": "R0021",
+   "name": "홍사덕",
+   "party_on_date": "무소속",
+   "party_date_basis": "Elected as an independent in 1996 and still described as 무소속 in Yonhap reports of 1998-02-20 and 1998-02-28. He did not join 신한국당 when named 정무1장관 in 1997-08, and the 15th NA member list dates his 한나라당 entry to 2000-01-27.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004296876 (연합뉴스 1998-02-20, '`JP총리 인준' 국민신당.무소속 향배', accessed 2026-09-25T23:02:10-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004294333 (연합뉴스 1998-02-28, '최고.최저 재산의원 10傑 변동내역', accessed 2026-09-25T23:02:19-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004185210 (연합뉴스 1997-08-05, '金대통령 改閣 단행(종합)', accessed 2026-09-25T23:02:45-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42349301 (ko.wikipedia '홍사덕', accessed 2026-09-25T13:56:57-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 서울 강남구을, 지역구, seat 1996-05-30 to 2000-05-29 agrees with the 15th member list. He kept the seat while serving as 정무1장관. Yonhap 1998-02-27 reports that he already held his farewell ceremony on 1998-02-24, although Yonhap 1998-02-26 still lists him at the caretaker cabinet meeting as 정무1장관. This bears on the row dates, not the seat. https://n.news.naver.com/mnews/article/001/0004302023 (연합뉴스 1998-02-27, '총리인준 거부로 사흘째 행정공백 계속', accessed 2026-09-24T22:45:23-0400) | https://n.news.naver.com/mnews/article/001/0004300469 (연합뉴스 1998-02-26, '高총리 긴급 장관회의 소집', accessed 2026-09-24T22:45:12-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Independent sources from 1998-03 still call him 무소속, and he was elected 무소속 in 1996. 세계일보 1998-03-06 writes '무소속 홍사덕 의원도 저울질' and Yonhap 1998-03-04 says he considered running for Seoul mayor 무소속. Seat unchanged, share 1.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.19980306000000404 (BigKinds metadata via /api/news/search.do query '홍사덕 무소속' 1998-02-01..1998-03-15, 세계일보 1998-03-06, '현규정 오늘마감… 여야 사퇴시한 연장 추진에 선택고민', accessed 2026-09-25T23:24:54-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004373501 (연합뉴스 1998-03-04, '<焦點> 지방선거 출마자 공직사퇴 움직임-1', accessed 2026-09-25T23:02:15-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004378653 (연합뉴스 1998-03-11, '서울시장선거 여야후보 경합과 전망', accessed 2026-09-25T23:02:12-0400)"
+   ]
+  },
+  {
+   "row_id": "R0024",
+   "name": "신낙균",
+   "party_on_date": "새정치국민회의",
+   "party_date_basis": "Named 문화관광부장관 on 1998-03-03 as 신낙균의원(국민회의). No party change before the 2000-01-20 merger into 새천년민주당.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004376997 (연합뉴스 1998-03-03, '전국구의원직 승계 어떻게 되나', accessed 2026-09-25T23:03:09-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term 전국구 (국민회의 list rank 8, confirmed by Yonhap 1998-03-03), seat 1996-05-30 to 2000-05-29. She kept the PR seat while minister. The 15th member list records no resignation.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Yonhap 1998-03-03 lists 申樂均 (문화관광부) among the 국민회의 전·현직 의원 put into the cabinet. 세계일보 1998-03-05 names her 국민회의 전국구 8번, and Yonhap 1998-03-16 calls her 국민회의 여성의원인 신낙균장관. The party existed until the 2000-01-20 merger, after the row ends.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.19980305000000505 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 세계일보 1998-03-05, '2여 전국구 새 정부 입각­지자선거 도전 채비', accessed 2026-09-25T23:26:08-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004370531 (연합뉴스 1998-03-16, '<풍향계> 문화관광부인사, 하루만에 번복 해프닝', accessed 2026-09-25T23:25:57-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42431890 (ko.wikipedia '새정치국민회의', accessed 2026-09-25T23:37:22-0400)"
+   ]
+  },
+  {
+   "row_id": "R0025",
+   "name": "천용택",
+   "party_on_date": "새정치국민회의",
+   "party_date_basis": "Named 국방부장관 on 1998-03-03 as 千容宅의원(국민회의). Yonhap 1999-05-24 says he would give up 국민회의 membership and the PR seat on appointment as 국정원장 on 1999-05-25, so he was a 국민회의 member for the whole row.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004376997 (연합뉴스 1998-03-03, '전국구의원직 승계 어떻게 되나', accessed 2026-09-25T23:03:09-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004507967 (연합뉴스 1999-05-24, '국정원장에 천용택 전 국방 내정', accessed 2026-09-25T23:03:50-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term 전국구 (국민회의 list rank 10), seat 1996-05-30 to 1999-05-25. He told reporters on 1998-03-04 that he favored resigning the PR seat, but he kept it until his 국정원장 appointment. The NA API end date 1999-05-25 agrees with Yonhap 1999-05-24 and the 15th member list. https://n.news.naver.com/mnews/article/001/0004376096 (연합뉴스 1998-03-04, '千국방,\"전면적 개혁작업 추진\"-기자간담회', accessed 2026-09-24T22:46:16-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Yonhap 1998-03-03 lists 千容宅 (국방부) among the 국민회의 의원 in the cabinet. 세계일보 1998-03-05 names him 국민회의 전국구 10번, and 서울신문 1998-03-04 quotes 국민회의 counting 천용택 국방 among its own. Seat share is 1 (row ends 1999-05-24, seat 1999-05-25).",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.19980305000000505 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 세계일보 1998-03-05, '2여 전국구 새 정부 입각­지자선거 도전 채비', accessed 2026-09-25T23:26:08-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100611.20160421192347085 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 서울신문 1998-03-04, '여 “개혁진용” 야 “나눠먹기”/새정부조각 여야반응', accessed 2026-09-25T23:26:08-0400)"
+   ]
+  },
+  {
+   "row_id": "R0026",
+   "name": "이해찬",
+   "party_on_date": "새정치국민회의",
+   "party_date_basis": "Named 교육부장관 on 1998-03-03 as 李海瓚의원(국민회의). No party change before the 2000-01-20 merger into 새천년민주당.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 서울 관악구을, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Yonhap 1998-03-04 describes the new minister as 李海瓚 국민회의 의원, and Yonhap 1998-03-03 lists 교육부(李海瓚) among the 국민회의 의원 in the cabinet.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004375555 (연합뉴스 1998-03-04, '<새정부 부처 본격 가동>-교육부', accessed 2026-09-24T22:46:40-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)"
+   ]
+  },
+  {
+   "row_id": "R0029",
+   "name": "박정수",
+   "party_on_date": "새정치국민회의",
+   "party_date_basis": "Named 외교통상부장관 on 1998-03-03 as 朴定洙의원(국민회의). No party change before the 2000-01-20 merger.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004376997 (연합뉴스 1998-03-03, '전국구의원직 승계 어떻게 되나', accessed 2026-09-25T23:03:09-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term 전국구 (국민회의 list rank 5, confirmed by Yonhap 1998-03-03), seat 1996-05-30 to 2000-05-29. He kept the PR seat. The 15th member list records no resignation.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "전남일보 1998-03-03 names him 외교통상부장관에 박정수(朴定洙) 국민회의 부총재. 세계일보 1998-03-05 names him 국민회의 전국구 5번. Yonhap 1998-03-03 lists 외교통상부(朴定洙) among 국민회의 의원.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01600801.19980303101556101 (BigKinds metadata via /api/news/search.do query '김선길 해양수산부장관 자민련' 1998-03-03..1998-03-10, 전남일보 1998-03-03, '새 政府 17개部 장관임명', accessed 2026-09-25T23:26:23-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.19980305000000505 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 세계일보 1998-03-05, '2여 전국구 새 정부 입각­지자선거 도전 채비', accessed 2026-09-25T23:26:08-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)"
+   ]
+  },
+  {
+   "row_id": "R0034",
+   "name": "박상천",
+   "party_on_date": "새정치국민회의",
+   "party_date_basis": "Named 법무부장관 on 1998-03-03 as 朴相千의원(국민회의 원내총무). No party change before the 2000-01-20 merger.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 전남 고흥군, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Yonhap 1998-03-03 says 朴相千 was 국민회의 원내총무 until appointment. 매일신문 1998-03-04 writes 국민회의 박상천 총무의 입각, and 서울신문 1998-03-04 has 국민회의 counting 박상천법무 among its members.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01500601.19980304111739002 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 매일신문 1998-03-04, '\"이제는 黨職개편 차례\"', accessed 2026-09-25T23:26:08-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100611.20160421192347085 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 서울신문 1998-03-04, '여 “개혁진용” 야 “나눠먹기”/새정부조각 여야반응', accessed 2026-09-25T23:26:08-0400)"
+   ]
+  },
+  {
+   "row_id": "R0035",
+   "name": "이정무",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Named 건설교통부장관 on 1998-03-03 as 李廷武의원(자민련원내총무). The 15th member list shows 자민련 at election and at term end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 대구 남구, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Yonhap 1998-03-03 says 李廷武 was 자민련 원내총무 until appointment. 매일신문 1998-03-04 writes 자민련 이정무 총무의 입각. 경향신문 1998-03-07 reports 자민련 출신으로 입각한 이정무 건설교통부장관 attending the 자민련 floor-leader election.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004376947 (연합뉴스 1998-03-03, '<銳角> 組閣으로 본 金대통령의 공동정권 운영방향-1', accessed 2026-09-24T22:46:56-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01500601.19980304111739002 (BigKinds metadata via /api/news/search.do query '조각 국민회의 자민련 의원 입각' 1998-03-03..1998-03-05, 매일신문 1998-03-04, '\"이제는 黨職개편 차례\"', accessed 2026-09-25T23:26:08-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100101.19980307000000405 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 경향신문 1998-03-07, '싸움으로 끝난 자민련 경선 축제', accessed 2026-09-25T23:26:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0036",
+   "name": "김선길",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Named 해양수산부장관 on 1998-03-03 as 金善吉의원(자민련). The 15th member list shows 자민련 at election and at term end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 충북 충주시, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "중부매일 1998-03-07 writes 충북 출신의 자민련 김선길 의원(충주)은 지난 3일 ... 해양수산부 장관에 발탁, and 중부매일 1998-03-11 reports 자민련 naming his successor as 충북도지부장 because he entered the cabinet. 중앙일보 1998-03-09 calls him a 자민련 nominee.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01400401.19980307061644023 (BigKinds metadata via /api/news/search.do query '김선길 자민련' 1998-02-25..1998-03-15, 중부매일 1998-03-07, '기자석', accessed 2026-09-25T23:26:36-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01400401.19980311062056021 (BigKinds metadata via /api/news/search.do query '김선길 자민련' 1998-02-25..1998-03-15, 중부매일 1998-03-11, '자민련 도지부장에 어준선 의원 내정', accessed 2026-09-25T23:26:36-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.19980309235216001 (BigKinds metadata via /api/news/search.do query '김선길 자민련' 1998-02-25..1998-03-15, 중앙일보 1998-03-09, '복잡하게 얽힌 세 장관 투기 의혹', accessed 2026-09-25T23:26:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0037",
+   "name": "김종필",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Appointed 총리서리 on 1998-03-03 while 자민련 명예총재 (Yonhap 1998-03-03). The 15th member list shows 자민련 at election and at term end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004377650 (연합뉴스 1998-03-03, '金鍾泌총리서리 임명과 자민련 진로', accessed 2026-09-25T23:01:40-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 충남 부여군, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list. He started as 총리서리 because the consent motion failed, which affects the office label, not the seat.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "경향신문 1998-03-04 writes 김대중 대통령은 3일 자민련 김종필 명예총재를 국무총리서리에 임명. 매일경제 1998-03-05 lists him as 자민련 명예총재. 경향신문 1998-03-07 counts 김종필 총리서리 among the 자민련 소속의원 who did not attend the party meeting.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100101.19980304000000101 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 경향신문 1998-03-04, '새 내각 출범/총리 서리 김종필·감사원장 서리 한승헌', accessed 2026-09-25T23:26:21-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=02100101.20160113224132739 (BigKinds metadata via /api/news/search.do query '이해찬 국민회의' 1998-02-25..1998-03-10, 매일경제 1998-03-05, '[새 내각 명단] 직위/나이/출신/학력/경력', accessed 2026-09-25T23:26:38-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100101.19980307000000405 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 경향신문 1998-03-07, '싸움으로 끝난 자민련 경선 축제', accessed 2026-09-25T23:26:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0038",
+   "name": "강창희",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Named 과학기술부장관 on 1998-03-03 as 姜昌熙의원(자민련사무총장). The 15th member list shows 자민련 at election and at term end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004372354 (연합뉴스 1998-03-03, '金대통령 조각발표...재경부장관에 李揆成씨(종합)', accessed 2026-09-24T22:44:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 대전 중구, 지역구, seat 1996-05-30 to 2000-05-29. Agrees with the 15th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "경향신문 1998-03-07 reports 자민련 출신으로 입각한 강창희 과학기술부장관 at the party meeting. 한국일보 1998-03-05 reports 자민련 filling the 사무총장 post left open by 강창희 과학기술부장관의 입각. 중앙일보 1998-03-04 profile calls him 자민련총장.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100101.19980307000000405 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 경향신문 1998-03-07, '싸움으로 끝난 자민련 경선 축제', accessed 2026-09-25T23:26:21-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01101101.19980305000000215 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 한국일보 1998-03-05, '자민련 사무총장 박구일 의원 임명', accessed 2026-09-25T23:26:21-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.19980304230252002 (BigKinds metadata via /api/news/search.do query '강창희 과학기술부장관 자민련' 1998-03-03..1998-03-10, 중앙일보 1998-03-04, '[프로필]강창희 과학기술부장관', accessed 2026-09-25T23:26:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0044",
+   "name": "정상천",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Appointed 해양수산부장관 on 1999-03-23 as 자민련 정상천의원 (Yonhap 1999-03-23), a former 자민련 부총재. The 15th member list shows 자민련 at election and at seat end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0004529090 (연합뉴스 1999-03-23, '해양장관 정상천, 과기장관 서정욱씨 임명', accessed 2026-09-25T22:15:18-0400)",
+    "https://n.news.naver.com/mnews/article/001/0004531365 (연합뉴스 1999-03-23, '해양부, 신임장관에 `국면 전환' 기대', accessed 2026-09-25T23:05:47-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term 전국구 (자민련 list rank 7), seat 1996-05-30 to 1999-04-02. He submitted the PR seat resignation to the Speaker on 1999-03-30 during the 202nd extraordinary session, and the plenary approved it on 1999-04-02. The NA API end date 1999-04-02 is the effective date and agrees with Yonhap. The ko.wikipedia 15th member list gives 1999-03-30, which is the filing date, so the API date should be kept. 송업교 succeeded (선관위 decision 1999-04-07). Sources: https://n.news.naver.com/mnews/article/001/0004520363 (연합뉴스 1999-03-30, '정상천해양장관 전국구의원직 사퇴', accessed 2026-09-25T23:06:30-0400) | https://n.news.naver.com/mnews/article/001/0004575626 (연합뉴스 1999-04-02, '국회 본회의...추경안 시정연설 청취-1', accessed 2026-09-25T23:07:18-0400) | https://n.news.naver.com/mnews/article/001/0004580149 (연합뉴스 1999-04-07, '선관위, 송업교씨 전국구의원직 승계 결정', accessed 2026-09-25T23:06:47-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Party. 전북일보 1999-03-24 writes 후임에 자민련 정상천(鄭相千)의원을 임명, and 국민일보 1999-03-25 calls him 자민련 전국구의원인 정상천 신임 해양수산부장관. Seat (share below 1). 매일경제 1999-03-31 says he filed on 1999-03-30 and that, because the 202nd extraordinary session was open, the resignation needed a plenary vote. 매일경제 1999-04-03 reports that the plenary of 1999-04-02 consented to 정상천 해양수산부 장관의 국회의원직 사직의 건. The NA API end date 1999-04-02 is confirmed.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01601101.19990324020751102 (BigKinds metadata via /api/news/search.do query '정상천 해양수산부장관 자민련' 1999-03-20..1999-04-10, 전북일보 1999-03-24, '해양장관－정상천', accessed 2026-09-25T23:27:36-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100201.19990325000000603 (BigKinds metadata via /api/news/search.do query '정상천 해양수산부장관 자민련' 1999-03-20..1999-04-10, 국민일보 1999-03-25, '정상천 신임장관 ‘의원직’ 버티기', accessed 2026-09-25T23:27:36-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=02100101.20160114204324032 (BigKinds metadata via /api/news/search.do query '정상천 해양수산부장관 자민련' 1999-03-20..1999-04-10, 매일경제 1999-03-31, '정상천해양장관 전국구의원직 사퇴', accessed 2026-09-25T23:27:36-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=02100101.20160114205607345 (BigKinds metadata via /api/news/search.do query '정상천 사직 본회의' 1999-04-01..1999-04-10, 매일경제 1999-04-03, '여야 추경안 처리 불투명...서의원 문제도 이견', accessed 2026-09-25T23:27:46-0400)"
+   ]
+  },
+  {
+   "row_id": "R0061",
+   "name": "박태준",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Won the 1997-07-24 포항북 by-election as an independent and joined 자민련 on 1997-11-04 (15th member list), then led it as 총재 for about two years. On taking office as PM on 2000-01-13 he still held 자민련 membership, described by 동아일보 2000-01-14 as 당적(자민련 최고고문), and 서울신문 2000-01-17 reports he also kept the 총재 title until a successor was elected.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100401.20000114015632004 (BigKinds metadata via /api/news/search.do query '박태준 총리' 2000-01-10..2000-01-14, 동아일보 2000-01-14, '박태준총리 ＂총선관리 최선＂', accessed 2026-09-25T23:08:39-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100611.20160422153139021 (BigKinds metadata via /api/news/search.do query '박태준 자민련 총재' 2000-01-10..2000-01-20, 서울신문 2000-01-17, 'JP-TJ 자민련 총재직 ‘신경전', accessed 2026-09-25T23:08:43-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.20000117095206001 (BigKinds metadata via /api/news/search.do query '박태준 자민련 총재' 2000-01-10..2000-01-20, 중앙일보 2000-01-17, '[정가접속] TJ, 자민련총재 겸직?', accessed 2026-09-25T23:08:43-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 경북 포항시북구, 지역구 won at the 1997-07-24 by-election (entered_via by_election), seat 1997-07-24 to 2000-05-29. The by-election party 무소속 is correct as the election party. NA consent to the PM appointment passed on 2000-01-13 (세계일보 2000-01-14 via BigKinds).",
+   "corrections": {
+    "mp_party_at_appt": "자유민주연합"
+   },
+   "verification": "confirmed",
+   "verification_note": "Membership on 2000-01-13 is 자민련. At his first press meeting on 2000-01-14 he said he had no intention of giving up 자민련 당적이나 당직 (국민일보 2000-01-15), and 세계일보 and 서울신문 of 2000-01-15 describe his 당적 as 자민련 최고고문. 한국경제 2000-02-24 still lists 박태준 총리 first among the 자민련계 공직자. One detail in the checker's basis is contested but does not affect the party. The checker says he kept the 총재 title until a successor was elected. ko.wikipedia '자유민주연합' lists him as 총재 until 2000-02-15, while 서울신문 and 전북도민일보 of 2000-01-12 report that he moved to 최고고문 and that the 총재 post was left vacant under 총재권한대행 이한동.",
+   "verification_sources": [
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100201.20000115000000207 (BigKinds metadata via /api/news/search.do query '박태준 당적' 2000-01-05..2000-01-25, 국민일보 2000-01-15, '박태준 신임총리 간담회 \"선거 엄정 중립자세 견지\"', accessed 2026-09-25T23:28:55-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.20000115000000210 (BigKinds metadata via /api/news/search.do query '박태준 당적' 2000-01-05..2000-01-25, 세계일보 2000-01-15, '박총리, \"당적 잊고 행정에 총력\"', accessed 2026-09-25T23:28:55-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100611.20160422152849070 (BigKinds metadata via /api/news/search.do query '박태준 당적' 2000-01-05..2000-01-25, 서울신문 2000-01-15, '朴泰俊총리 “빈부차 해소 집중 챙길 것”', accessed 2026-09-25T23:28:55-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000230945 (한국경제 2000-02-24, '[자민련 결별선언 안팎] 충청텃밭수성 고육책', accessed 2026-09-25T23:28:27-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100611.20160422152103289 (BigKinds metadata via /api/news/search.do query '이한동 자민련 입당 총재권한대행' 2000-01-10..2000-01-13, 서울신문 2000-01-12, '자민련 새지도부 구축', accessed 2026-09-25T23:36:31-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01601001.20000112150517034 (BigKinds metadata via /api/news/search.do query '이한동 자민련 입당 총재권한대행' 2000-01-10..2000-01-13, 전북도민일보 2000-01-12, '지도체제 구축'보수' 바람몰이', accessed 2026-09-25T23:36:31-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42365515 (ko.wikipedia '자유민주연합', accessed 2026-09-25T23:37:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0071",
+   "name": "이한동",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Nominated PM on 2000-05-22 and appointed 총리서리 on 2000-05-23 as the sitting 자민련 총재. On 2000-05-23 he named 김종호 총재직무대행 but kept the 총재 title and membership. He declared his exit from 한나라당 on 1999-12-29 and formally joined 자민련 on 2000-01-11 as 총재권한대행, then was elected 총재 on 2000-02-16. The ko.wikipedia 15th member list gives 1999-12-29 for both the exit and the entry, which is wrong for the entry. The 16th list records his 자민련 expulsion on 2001-09-07, which Yonhap confirms.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000004325 (연합뉴스 2000-05-22, '김대통령 새총리에 이한동씨 지명(종합2보)', accessed 2026-09-25T23:09:33-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000005471 (동아일보 2000-05-22, '金대통령, 이한동씨 총리지명…여-야관계 \"급냉\"', accessed 2026-09-25T23:09:30-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000004433 (연합뉴스 2000-05-23, '자민련, 김종호 대행체제 출범', accessed 2026-09-25T23:09:53-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=41996917 (ko.wikipedia '대한민국 제15대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "The row starts on 2000-05-23 in the last week of his 15th-term seat (경기 연천군포천군, 지역구, elected 1996 under 신한국당, seat to 2000-05-29) and continues into his 16th-term seat for the same district (elected 2000-04-13 under 자민련, seat 2000-05-30 to 2004-05-29). The fields describe the 15th-term seat correctly for dual_office_start. Users should note that mp_party_at_election (신한국당) belongs to the 15th term, while his 16th-term election party was 자민련. He started as 총리서리 pending NA consent.",
+   "corrections": {
+    "mp_party_at_appt": "자유민주연합"
+   },
+   "verification": "corrected",
+   "verification_note": "Party on 2000-05-23 is confirmed as 자유민주연합. 매일경제 2000-05-22 and 국민일보 2000-05-23 describe the nominee as 이한동 자민련 총재. Yonhap 2000-06-05 says 김종호 became 총재권한대행 because of 이한동 총재의 총리행, so he kept the 총재 post and membership. The correction concerns the date he joined 자민련, not the party on the date. He declared his exit from 한나라당 on 1999-12-29 (부산일보 2000-01-01) but formally joined 자민련 on 2000-01-11, when he became 총재권한대행 (세계일보 and 매일경제 of 2000-01-12). He was elected 총재 on 2000-02-16. The ko.wikipedia 15th member list gives 1999-12-29 for both exit and entry, which is wrong for the entry. The in-row expulsion on 2001-09-07 is confirmed by Yonhap 2001-09-07.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/009/0000012229 (매일경제 2000-05-22, '이한동 총리 지명...정국경색 전망', accessed 2026-09-25T23:29:52-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000002523 (국민일보 2000-05-23, '새총리 이한동씨 지명으로 野 반발 정국 급랭', accessed 2026-09-25T23:30:00-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000006942 (연합뉴스 2000-06-05, '<프로필> 김종호 국회부의장', accessed 2026-09-25T23:30:30-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01500701.20000101111726002 (BigKinds metadata via /api/news/search.do query '이한동 탈당' 1999-12-25..2000-01-05, 부산일보 2000-01-01, '[기자일기]부산도 벤처기업 육성을', accessed 2026-09-25T23:37:00-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.20000112000000404 (BigKinds metadata via /api/news/search.do query '이한동 자민련 입당 총재권한대행' 2000-01-10..2000-01-13, 세계일보 2000-01-12, '자민련 이한동 총재권한대행체제 공식 출범', accessed 2026-09-25T23:36:31-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=02100101.20160115094819961 (BigKinds metadata via /api/news/search.do query '이한동 자민련 입당 총재권한대행' 2000-01-10..2000-01-13, 매일경제 2000-01-12, '김 대통령, 박태준 총리 지명', accessed 2026-09-25T23:36:31-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000227592 (한국경제 2000-02-16, '자민련, 이한동총재 체제 출범', accessed 2026-09-25T23:28:31-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000097706 (연합뉴스 2001-09-07, '주요 연합뉴스(9월7일.금) <08:00 ∼ 15:00>', accessed 2026-09-25T22:20:14-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42365515 (ko.wikipedia '자유민주연합', accessed 2026-09-25T23:37:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0081",
+   "name": "김한길",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Appointed 문화관광부장관 on 2000-09-20 as 민주당 김한길 의원 (전국구, 당총재 비서실장). The 16th member list shows 새천년민주당 at election and at seat end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000027235 (연합뉴스 2000-09-20, '문화관광부장관에 김한길씨(종합)', accessed 2026-09-24T22:48:38-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000279187 (한국경제 2000-09-20, '김대통령, 후임 문화부장관에 김한길의원 임명', accessed 2026-09-24T22:48:55-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term 비례대표 (새천년민주당 list rank 13), seat 2000-05-30 to 2000-10-09. He handed his resignation to Speaker 이만섭 on the morning of 2000-09-20, but because the NA was in session it took effect only when the plenary approved it on 2000-10-09. The NA API end date 2000-10-09 is right. The ko.wikipedia 16th member list gives 2000-09-20, which is the filing date. 김화중 succeeded. Sources: https://n.news.naver.com/mnews/article/005/0000022073 (국민일보 2000-09-20, '김한길 새 문화관광장관 일문일답', accessed 2026-09-25T23:10:38-0400) | https://n.news.naver.com/mnews/article/015/0000286134 (한국경제 2000-10-09, '국회,기업 금융구조조정 5개법안 의결', accessed 2026-09-25T23:11:10-0400) | https://n.news.naver.com/mnews/article/020/0000029909 (동아일보 2000-10-09, '국회 지주회사법등 6개법안 처리…국정감사 19일부터', accessed 2026-09-25T23:11:17-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Party. Yonhap, 국민일보 and 매일경제 of 2000-09-20 all say the President named 민주당 김한길 의원 (총재비서실장). Seat (share below 1). 국민일보 2000-10-09 reports that the NA processed 민주당 김한길 의원의 의원직 사퇴서 that day, and Yonhap 2000-10-09 says the plenary would handle it that day. The NA API end date 2000-10-09 is confirmed.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000027192 (연합뉴스 2000-09-20, '문화관광부장관에 김한길씨', accessed 2026-09-24T22:48:45-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000022054 (국민일보 2000-09-20, '박지원 장관 사퇴…새 문화장관 김한길씨', accessed 2026-09-24T22:48:41-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000049715 (매일경제 2000-09-20, '박지원 문화관광부 장관 사퇴...후임에 김한길의원 임명', accessed 2026-09-24T22:48:48-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000025140 (국민일보 2000-10-09, '국회,금융지주회사법등 6개법안 통과', accessed 2026-09-25T23:11:14-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000030648 (연합뉴스 2000-10-09, '국회, 금융지주회사법 처리', accessed 2026-09-25T23:11:06-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42269205 (ko.wikipedia '새천년민주당', accessed 2026-09-25T23:08:15-0400)"
+   ]
+  },
+  {
+   "row_id": "R0084",
+   "name": "한명숙",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Appointed the first 여성부장관 on 2001-01-29 as 한명숙 민주당 의원 (Yonhap 2001-01-29), then 민주당 여성위원장. The 16th member list shows 새천년민주당 at election and at seat end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000051103 (연합뉴스 2001-01-29, '경제.교육부총리 진념.한완상씨(종합)', accessed 2026-09-25T13:02:20-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000045482 (동아일보 2001-01-29, '[1·29보각 포부]한명숙 여성부장관 \"여성 소외 안당하게\"', accessed 2026-09-25T13:23:26-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term 비례대표 (새천년민주당 list rank 5), seat 2000-05-30 to 2001-02-05. News of 2001-01-29 and 2001-01-30 reports that she resigned or declared her resignation on appointment and that 박양수 (list rank 22) would succeed. The effective date is not stated in the articles found. The NA API end date 2001-02-05 matches the first plenary held after her appointment and the NA API start date of 박양수 (2001-02-06), so the API date is kept. That plenary belonged to the 217th extraordinary session, which had opened in early January 2001 and held no business for 28 days, and the 218th session was to convene on 2001-02-09 (전북일보 and 국제신문 of 2001-02-06). Because a session was open on 2001-01-29, the resignation needed a plenary vote and could not take effect before 2001-02-05. The ko.wikipedia 16th member list gives 2001-01-29, which is the announcement date. Sources: https://n.news.naver.com/mnews/article/005/0000041316 (국민일보 2001-01-29, '박양수씨 의원직 승계', accessed 2026-09-25T23:11:42-0400) | https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.20010130210917001 (BigKinds metadata via /api/news/search.do query '박양수 의원직 승계' 2001-01-30..2001-02-20, 중앙일보 2001-01-30, '박양수특보 의원직 승계', accessed 2026-09-25T23:13:29-0400) | https://n.news.naver.com/mnews/article/001/0000052355 (연합뉴스 2001-02-05, '<오늘의 주요 정치뉴스>(5일)', accessed 2026-09-25T23:13:01-0400)",
+   "corrections": {},
+   "verification": "corrected",
+   "verification_note": "Party confirmed. 매일경제 and 한국경제 of 2001-01-29 say the new 여성부 장관 was 한명숙 민주당 의원. Seat (share below 1). The end date 2001-02-05 is kept, but the checker's reasoning named the wrong session. 전북일보 and 국제신문 of 2001-02-06 report that the 217th extraordinary session opened in early January 2001, held no business for 28 days and was normalized with a plenary on 2001-02-05, and that the 218th session was to convene on 2001-02-09. The session was therefore open on 2001-01-29, and 매일경제 1999-03-31 shows that a PR resignation filed during a session waits for a plenary vote. 세계일보 2001-01-30 says only that she had expressed the wish to resign. The first plenary after 2001-01-29 was on 2001-02-05, which fits the API date and the successor starting on 2001-02-06. No article found reports the vote itself.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/009/0000087755 (매일경제 2001-01-29, '경제부총리에 진념씨...교육부총리에 한완상씨', accessed 2026-09-25T22:23:52-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000328653 (한국경제 2001-01-29, '경제.교육부총리 진념.한완상씨', accessed 2026-09-25T21:41:25-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100101.20010130000000202 (BigKinds metadata via /api/news/search.do query '박양수 의원 승계' 2001-01-30..2001-02-15, 경향신문 2001-01-30, '박양수씨 전국구의원 승계', accessed 2026-09-25T23:32:05-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100701.20010130000000503 (BigKinds metadata via /api/news/search.do query '박양수 의원 승계' 2001-01-30..2001-02-15, 세계일보 2001-01-30, '박양수 동교동 '마지막 특무상사' 金배지', accessed 2026-09-25T23:32:05-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01601101.20010206171146103 (BigKinds metadata via /api/news/search.do query '임시국회 개회 본회의' 2001-02-01..2001-02-07, 전북일보 2001-02-06, '\"이번 국회는 민생 꼭 챙기자\"', accessed 2026-09-25T23:32:11-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01500401.20010206065307001 (BigKinds metadata via /api/news/search.do query '임시국회 개회 본회의' 2001-02-01..2001-02-07, 국제신문 2001-02-06, '■국회정상화첫날-이만섭의장, 파행자제 당부', accessed 2026-09-25T23:32:11-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=02100101.20160114204324032 (BigKinds metadata via /api/news/search.do query '정상천 해양수산부장관 자민련' 1999-03-20..1999-04-10, 매일경제 1999-03-31, '정상천해양장관 전국구의원직 사퇴', accessed 2026-09-25T23:27:36-0400)"
+   ]
+  },
+  {
+   "row_id": "R0085",
+   "name": "김원길",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Named 보건복지부장관 as 민주당 김원길 의원 (announced 2001-03-21, 임명장 2001-03-23). The 16th member list dates his 새천년민주당 exit to 2002-11-04, after the row ends.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/015/0000351951 (한국경제 2001-03-22, '崔복지장관 경질..후임에 김원길씨 임명', accessed 2026-09-25T21:49:50-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000061627 (연합뉴스 2001-03-23, '김대통령 의보 철저대책 지시', accessed 2026-09-25T23:15:50-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 서울 강북구갑, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. The appointment was announced on 2001-03-21 while he was in London, and the certificate was handed over on 2001-03-23, which is the row start. This is a row-date observation, not a seat problem.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "매일경제 and 한국경제 of 2001-03-21 say the President named 민주당 김원길 의원 as 보건복지부 장관, and 매일경제 2001-03-26 again calls him 김원길 민주당 의원. 국민일보 2001-03-21 profile calls him 민주당내 대표적인 경제통.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/009/0000102141 (매일경제 2001-03-21, '복지장관 전격경질...후임에 김원길씨', accessed 2026-09-25T23:34:40-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000351740 (한국경제 2001-03-21, '崔복지장관 경질...후임에 김원길씨', accessed 2026-09-25T21:49:55-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000047616 (국민일보 2001-03-21, '[프로필] 김원길 신임 보건복지부 장관', accessed 2026-09-25T23:34:44-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103453 (매일경제 2001-03-26, '[개각 배경.의미] 개혁파 重用 난국 돌파', accessed 2026-09-25T23:33:14-0400)"
+   ]
+  },
+  {
+   "row_id": "R0087",
+   "name": "한승수",
+   "party_on_date": "민주국민당",
+   "party_date_basis": "Appointed 외교통상부장관 on 2001-03-26 as 민국당 한승수 의원, the appointment that launched the 민주당-자민련-민국당 policy coalition. Yonhap 2001-04-04 still calls him 당 소속 한승수 의원 of 민국당, and he left 민국당 only on 2002-02-26 (Maeil Business 2002-02-26), after the row ends on 2002-02-04.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000062088 (연합뉴스 2001-03-26, '국정원장 신건..장관급 12명 교체(종합)', accessed 2026-09-25T12:59:46-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000048212 (국민일보 2001-03-26, '[3·26 개각] 민국 한승수의원 입각의미…3당 연합 가시적 완성', accessed 2026-09-25T23:16:28-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000064260 (연합뉴스 2001-04-04, '주요 연합뉴스(4월4일.수)<15:00~18:00>', accessed 2026-09-25T23:16:18-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000196794 (매일경제 2002-02-26, '한승수 의원 민국당 탈당', accessed 2026-09-25T23:16:47-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 강원 춘천시, 지역구, elected 2000 under 민주국민당, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "동아일보, 매일경제 and 한국경제 of 2001-03-26 name him 한승수 민국당 의원. 매일경제 2001-04-04 reports 민국당 endorsing the coalition that began with 당 소속 한승수의원의 입각, and 국민일보 2001-04-12 counts 민국당 as 한승수 and 강숙자 with no change in seats. He did not leave 민국당 on appointment.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000055089 (동아일보 2001-03-26, '장관급 12명 개각…국정원장 신건 통일 임동원', accessed 2026-09-25T12:59:53-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103425 (매일경제 2001-03-26, '장관급 12명 교체 개각 단행', accessed 2026-09-25T12:59:48-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000353526 (한국경제 2001-03-26, '국가정보원장 신 건..장관(급) 12명 개각', accessed 2026-09-25T12:59:42-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000106155 (매일경제 2001-04-04, '민국당 '3당 연정' 추인', accessed 2026-09-25T23:16:14-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000050909 (국민일보 2001-04-12, '[16代 국회 1년-의석 변화] 3당연합 ‘與大野小’로', accessed 2026-09-25T23:16:37-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=39922409 (ko.wikipedia '민주국민당 (2000년)', accessed 2026-09-25T23:37:21-0400)"
+   ]
+  },
+  {
+   "row_id": "R0089",
+   "name": "장재식",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Elected in 2000 under 새천년민주당, he left it and joined 자민련 on 2001-01-10 so that 자민련 could register a negotiating group (Yonhap 2001-01-10). He was appointed 산업자원부장관 on 2001-03-26 as 자민련 장재식 의원 in the 자민련 share. Party changed during the row. He declared his exit from 자민련 on 2001-09-03 and filed on 2001-09-04 after the 임동원 dismissal vote, and rejoined 민주당 on 2001-09-10 (동아일보 2001-09-11, and the Hankyung print story of 2001-09-11 says '이날', meaning its filing day). The 16th member list gives 2001-09-03 for the exit, which is the declaration date, and 2001-09-10 for the rejoining.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000047728 (연합뉴스 2001-01-10, '민주의원 자민련 추가이적(종합2보)', accessed 2026-09-25T23:17:44-0400)",
+    "https://n.news.naver.com/mnews/article/008/0000062917 (머니투데이 2001-03-26, '[일반] 장관급 12명 개각 단행', accessed 2026-09-25T13:13:01-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103462 (매일경제 2001-03-26, '[3.26개각 새얼굴 포커스] 장재식 산자부 장관', accessed 2026-09-25T13:13:29-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000083620 (동아일보 2001-09-04, '자민련 배기선 송석찬의원등 4명 탈당', accessed 2026-09-25T23:18:27-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000420577 (한국경제 2001-09-11, '청와대 비서관-민주당 당직개편 11일 단행', accessed 2026-09-25T23:18:12-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 서울 서대문구을, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. The party changed twice within this row (자민련 on dual_office_start, 무소속 from about 2001-09-04, 새천년민주당 again from 2001-09-10), so a single party value per row hides the switch.",
+   "corrections": {
+    "mp_party_at_appt": "자유민주연합"
+   },
+   "verification": "corrected",
+   "verification_note": "Party on 2001-03-26 confirmed as 자유민주연합. 동아일보 2001-03-26 lists 장재식 산업자원 among the 자민련 의원 entering the cabinet, 매일경제 2001-03-27 notes he was one who had moved from 민주당, and 국민일보 2001-04-12 says 민주당 lent him to 자민련 in January. The correction concerns the in-row rejoining date. 동아일보 2001-09-11 says the four lent members filed their 자민련 exit on 2001-09-04 and rejoined 민주당 on 2001-09-10. The Hankyung article the checker cited is a print story dated 2001-09-11 06:46 that uses '이날', meaning its filing day. So the rejoining date is 2001-09-10, which also agrees with the ko.wikipedia 16th member list. The exit was declared on 2001-09-03 (Yonhap 2001-09-03) and filed on 2001-09-04.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000055089 (동아일보 2001-03-26, '장관급 12명 개각…국정원장 신건 통일 임동원', accessed 2026-09-25T12:59:53-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000353526 (한국경제 2001-03-26, '국가정보원장 신 건..장관(급) 12명 개각', accessed 2026-09-25T12:59:42-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103676 (매일경제 2001-03-27, '자민련 입각 좌절의원 불만', accessed 2026-09-25T23:33:07-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000050909 (국민일보 2001-04-12, '[16代 국회 1년-의석 변화] 3당연합 ‘與大野小’로', accessed 2026-09-25T23:16:37-0400)",
+    "https://n.news.naver.com/mnews/article/001/0000096783 (연합뉴스 2001-09-03, '자민련 교섭단체 붕괴-1', accessed 2026-09-25T23:18:33-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000084793 (동아일보 2001-09-11, '민주당 이적의원 4명 복당', accessed 2026-09-25T23:34:07-0400)"
+   ]
+  },
+  {
+   "row_id": "R0091",
+   "name": "오장섭",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Appointed 건설교통부장관 on 2001-03-26 as 자민련 오장섭 의원, one of the three 자민련 members JP pushed into the cabinet. Still 자민련 소속 when he resigned on 2001-08-22 (동아일보 2001-08-20). The 16th member list dates his 자민련 exit to 2002-11-14.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/008/0000062917 (머니투데이 2001-03-26, '[일반] 장관급 12명 개각 단행', accessed 2026-09-25T13:13:01-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000353886 (한국경제 2001-03-26, '[3.26 개각] 최연소 40代 과기 '의외' '기대감'..부처별 표정', accessed 2026-09-25T21:58:42-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000080991 (동아일보 2001-08-20, ''오장섭 장관 거취' 여-여 갈등으로 번지나', accessed 2026-09-25T23:18:58-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 충남 예산군, 지역구, elected 2000 under 자민련, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. His 15th-term seat came from a 1997-07-24 by-election under 신한국당, which is not the relevant term here.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "동아일보, 매일경제 and 한국경제 of 2001-03-26 list 오장섭 건설교통 among the three 자민련 소속 현역 의원 appointed, and 매일경제 2001-03-26 writes 오장섭 자민련의원을 기용.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000055089 (동아일보 2001-03-26, '장관급 12명 개각…국정원장 신건 통일 임동원', accessed 2026-09-25T12:59:53-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103425 (매일경제 2001-03-26, '장관급 12명 교체 개각 단행', accessed 2026-09-25T12:59:48-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103453 (매일경제 2001-03-26, '[개각 배경.의미] 개혁파 重用 난국 돌파', accessed 2026-09-25T23:33:14-0400)"
+   ]
+  },
+  {
+   "row_id": "R0092",
+   "name": "정우택",
+   "party_on_date": "자유민주연합",
+   "party_date_basis": "Appointed 해양수산부장관 on 2001-03-26 as 정우택 자민련 의원. Still described as 자민련 의원 on 2001-09-03, and replaced on 2001-09-07 when the 자민련 ministers left. The 16th member list dates his 자민련 exit to 2004-05-28.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/008/0000062917 (머니투데이 2001-03-26, '[일반] 장관급 12명 개각 단행', accessed 2026-09-25T13:13:01-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103456 (매일경제 2001-03-26, '[3.26개각 뒷얘기] 국정원장 막판에 포함', accessed 2026-09-25T23:15:03-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000416974 (한국경제 2001-09-03, '정우택 해양장관,외교차 나갔다가 급거 귀국', accessed 2026-09-25T23:18:43-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 충북 진천,괴산,음성군 (진천군·괴산군·음성군), 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "동아일보, 매일경제 and 한국경제 of 2001-03-26 list 정우택 해양수산 among the three 자민련 의원 appointed. 동아일보 2001-03-26 calls him 자민련 의원인 정우택 해양수산부장관.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000055089 (동아일보 2001-03-26, '장관급 12명 개각…국정원장 신건 통일 임동원', accessed 2026-09-25T12:59:53-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000353526 (한국경제 2001-03-26, '국가정보원장 신 건..장관(급) 12명 개각', accessed 2026-09-25T12:59:42-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000055146 (동아일보 2001-03-26, ''3·26개각' 경제팀…핵심은 유임, 실무부처 정치인 안배', accessed 2026-09-25T23:33:16-0400)"
+   ]
+  },
+  {
+   "row_id": "R0093",
+   "name": "김영환",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Appointed 과학기술부장관 on 2001-03-26 as 김영환 민주당 대변인. The 16th member list shows 새천년민주당 at election and at seat end with no change recorded.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/008/0000062917 (머니투데이 2001-03-26, '[일반] 장관급 12명 개각 단행', accessed 2026-09-25T13:13:01-0400)",
+    "https://n.news.naver.com/mnews/article/005/0000048220 (국민일보 2001-03-26, '金대통령 9개 부처 개각', accessed 2026-09-25T23:16:32-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 경기 안산시갑, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list.",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "동아일보 2001-03-26 writes 과학기술부 장관엔 민주당 김영환 의원, 매일경제 2001-03-26 calls him 김영환 민주당 대변인, and 동아일보 2001-03-26 (economic team story) calls him 민주당 의원인 김영환 과기부장관.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000055089 (동아일보 2001-03-26, '장관급 12명 개각…국정원장 신건 통일 임동원', accessed 2026-09-25T12:59:53-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000103425 (매일경제 2001-03-26, '장관급 12명 교체 개각 단행', accessed 2026-09-25T12:59:48-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000055146 (동아일보 2001-03-26, ''3·26개각' 경제팀…핵심은 유임, 실무부처 정치인 안배', accessed 2026-09-25T23:33:16-0400)"
+   ]
+  },
+  {
+   "row_id": "R0099",
+   "name": "유용태",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Appointed 노동부장관 on 2001-09-07 as 민주당 유용태 의원 (Yonhap 2001-09-07). He had moved from 한나라당 to 국민회의 in 1998 and was elected in 2000 under 새천년민주당. The 16th member list dates his next exit from 새천년민주당 to 2002-11-09.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000097673 (연합뉴스 2001-09-07, '통일 홍순영 건교 안정남씨(종합)-1', accessed 2026-09-24T22:49:37-0400)",
+    "https://n.news.naver.com/mnews/article/009/0000147815 (매일경제 2001-09-07, '통일 등 5개부처 장관 교체', accessed 2026-09-25T23:19:50-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term, 서울 동작구을, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. He chaired the 환경노동위원회 until entering the cabinet (동아일보 2001-09-07). https://n.news.naver.com/mnews/article/020/0000084292 (동아일보 2001-09-07, '국회 재경위장 나오연-환경노동위장에 이윤수의원 선출', accessed 2026-09-25T23:20:06-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "동아일보, 머니투데이 and 한국경제 of 2001-09-07 all name the new 노동부장관 as 유용태 민주당 의원.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000084262 (동아일보 2001-09-07, '김대통령 5부장관 교체', accessed 2026-09-25T23:35:14-0400)",
+    "https://n.news.naver.com/mnews/article/008/0000092333 (머니투데이 2001-09-07, '5개부처 장관 교체..경제팀 유임(종합)', accessed 2026-09-25T21:46:56-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000419496 (한국경제 2001-09-07, '5부장관 교체...비서실장은 외부영입', accessed 2026-09-25T23:35:18-0400)"
+   ]
+  },
+  {
+   "row_id": "R0101",
+   "name": "유삼남",
+   "party_on_date": "새천년민주당",
+   "party_date_basis": "Appointed 해양수산부장관 on 2001-09-07 as 민주당 유삼남 의원 (전국구, former 해군참모총장). The 16th member list shows 새천년민주당 at election and at seat end.",
+   "party_sources": [
+    "https://n.news.naver.com/mnews/article/001/0000097673 (연합뉴스 2001-09-07, '통일 홍순영 건교 안정남씨(종합)-1', accessed 2026-09-24T22:49:37-0400)",
+    "https://n.news.naver.com/mnews/article/020/0000084274 (동아일보 2001-09-07, '민주당 조배숙씨 전국구 승계', accessed 2026-09-25T22:20:13-0400)",
+    "https://ko.wikipedia.org/w/index.php?oldid=42446179 (ko.wikipedia '대한민국 제16대 국회의원 목록', accessed 2026-09-25T23:04:05-0400)"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "16th term 비례대표 (새천년민주당 list rank 19), seat 2000-05-30 to 2001-09-07. News of 2001-09-07 says he resigned the PR seat on entering the cabinet and that 조배숙 (rank 23) would succeed. The NA held a plenary on the afternoon of 2001-09-07, and the NA API gives 2001-09-07 as his end and 2001-09-10 as 조배숙's start. The one-day dual interval is consistent, although no article found states the approval vote explicitly. https://n.news.naver.com/mnews/article/015/0000419534 (한국경제 2001-09-07, '조배숙 민주 당무위원 전국구 의원직 승계', accessed 2026-09-25T22:20:12-0400) | https://n.news.naver.com/mnews/article/001/0000097583 (연합뉴스 2001-09-07, '<오늘의 주요 정치뉴스>(7일)', accessed 2026-09-25T23:20:07-0400)",
+   "corrections": {},
+   "verification": "confirmed",
+   "verification_note": "Party. 동아일보, 머니투데이 and 한국경제 of 2001-09-07 name him 민주당 유삼남 의원. Seat (share below 1). 문화일보 2001-09-08 confirms that the NA held a plenary on the afternoon of 2001-09-07, and 중앙일보 2001-09-08 reports that 조배숙 succeeded to the seat after he resigned on entering the cabinet on the 7th. The one-day dual interval ending 2001-09-07 is consistent. No article found reports the consent vote itself.",
+   "verification_sources": [
+    "https://n.news.naver.com/mnews/article/020/0000084262 (동아일보 2001-09-07, '김대통령 5부장관 교체', accessed 2026-09-25T23:35:14-0400)",
+    "https://n.news.naver.com/mnews/article/008/0000092333 (머니투데이 2001-09-07, '5개부처 장관 교체..경제팀 유임(종합)', accessed 2026-09-25T21:46:56-0400)",
+    "https://n.news.naver.com/mnews/article/015/0000419496 (한국경제 2001-09-07, '5부장관 교체...비서실장은 외부영입', accessed 2026-09-25T23:35:18-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100501.20010908000000202 (BigKinds metadata via /api/news/search.do query '국회 본회의 7일 오후' 2001-09-07..2001-09-08, 문화일보 2001-09-08, '국회 환노위장 이윤수 의원', accessed 2026-09-25T23:35:53-0400)",
+    "https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.20010908220940001 (BigKinds metadata via /api/news/search.do query '조배숙 의원직' 2001-09-07..2001-09-14, 중앙일보 2001-09-08, '조배숙씨 전국구의원 승계', accessed 2026-09-25T23:35:39-0400)"
+   ]
+  }
+ ],
+ "issues": [
+  "Party on dual_office_start differs from the election party in 3 of 23 rows. R0061 박태준 (elected 무소속 at the 1997 by-election, 자민련 member since 1997-11-04), R0071 이한동 (elected 신한국당 in 1996, left 한나라당 on 1999-12-29, joined 자민련 on 2000-01-11 and became its 총재 on 2000-02-16), R0089 장재식 (elected 새천년민주당 in 2000, moved to 자민련 on 2001-01-10). In build/out/minister_panel_comprehensive.csv these three rows carry mp_party_at_appt equal to the election party. The corrections field gives 자유민주연합 for each.",
+  "R0089 장재식 changed party inside the row. He declared his exit from 자민련 on 2001-09-03, filed it on 2001-09-04 and rejoined 새천년민주당 on 2001-09-10 (동아일보 2001-09-11, consistent with ko.wikipedia), while the row runs to 2002-01-29. A single party value per row cannot show this.",
+  "R0071 이한동 spans two NA terms. The seat fields and mp_party_at_election (신한국당) describe the 15th-term seat that was held on dual_office_start. His 16th-term seat from 2000-05-30 (same district) was won under 자민련.",
+  "PR seat end dates. For 정상천, 김한길 and 한명숙 the ko.wikipedia 15th and 16th member lists give the date the resignation was filed or announced (1999-03-30, 2000-09-20, 2001-01-29). The NA API gives the effective date (1999-04-02, 2000-10-09, 2001-02-05). News confirms plenary approval on 1999-04-02 and 2000-10-09. No article found states the 한명숙 effective date, but 2001-02-05 matches the opening plenary of the 217th session and the successor 박양수 starting on 2001-02-06. The NA API dates should be kept.",
+  "The seat fields of all 23 rows (assembly term, district, election type, election party, dual interval) match na_member_spells_15_22.csv exactly, and the dual intervals equal the row-seat intersection.",
+  "Naver News search returned no hits at all for 2000-01-01 to 2000-01-31 (every query, including generic ones), so R0061 박태준 relies on BigKinds metadata records (동아일보, 서울신문, 중앙일보 of 2000-01-14 and 2000-01-17). The BigKinds detail URLs are given with news_id. Full text sits behind a login.",
+  "Outside seat and party scope, noted for the roster team. Yonhap 1998-02-27 says 홍사덕 held his farewell as 정무1장관 on 1998-02-24, although Yonhap 1998-02-26 still lists him at the caretaker cabinet meeting (R0021 row starts 1998-02-25). 김원길 (R0085) was announced on 2001-03-21 and received his certificate on 2001-03-23.",
+  "Sources were read through tools/src.py (Naver, BigKinds, ko.wikipedia). The access times quoted are the original fetch times from the tools cache. The file was written at 2026-09-25T23:22:23-0400.",
+  "Adversarial check (g1 challenger). All 23 party values on dual_office_start were re-established from sources the checker did not cite, mostly other outlets found through BigKinds and Naver plus ko.wikipedia party pages. No party value changed. The three corrections of mp_party_at_appt (R0061, R0071, R0089 to 자유민주연합) are upheld. Four text corrections were made (R0071 자민련 entry date, R0084 session number, R0089 rejoining date, and the matching issue lines). The seat fields of all 23 rows again match na_member_spells_15_22.csv, and the four rows with dual_office_share below 1 (R0044 0.037, R0081 0.055, R0084 0.011, R0101 0.003) were re-checked against news. R0044 and R0081 are confirmed by reports of the plenary vote. R0084 and R0101 are consistent with the plenary calendar, but no article reporting the vote itself was found.",
+  "R0061 박태준. Sources disagree on whether he kept the 자민련 총재 title between 2000-01-11 and 2000-02-15 (ko.wikipedia '자유민주연합' says yes, 서울신문 and 전북도민일보 of 2000-01-12 say he became 최고고문 and the post was left vacant). His 자민련 membership on 2000-01-13 is not in doubt.",
+  "Naver person-name queries for 1998 returned no hits for most Hangul names, and some worked only with Hanja (洪思德). BigKinds metadata filled the gap. BigKinds full text sits behind a login, so the quotes from BigKinds items come from the search snippet."
+ ],
+ "verification_meta": {
+  "role": "adversarial challenger g1",
+  "input": "dual_review/g1.json",
+  "written_at": "2026-09-25T23:41:39-0400",
+  "method": "Each row re-checked with sources not cited in g1.json, read through tools/src.py (naver_news_search, naver_article, bigkinds_search, wiki_wikitext). Access times are the original fetch times recorded by the tools cache.",
+  "counts": {
+   "confirmed": 20,
+   "corrected": 3,
+   "disputed": 0
+  }
+ },
+ "changes": [
+  {
+   "row_id": "R0071",
+   "field": "party_date_basis",
+   "old": "Nominated PM on 2000-05-22 and appointed 총리서리 on 2000-05-23 as the sitting 자민련 총재. On 2000-05-23 he named 김종호 총재직무대행 but kept the 총재 title and membership. The 15th member list records his move from 한나라당 to 자민련 on 1999-12-29, and the 16th list records his 자민련 expulsion only on 2001-09-07.",
+   "new": "Nominated PM on 2000-05-22 and appointed 총리서리 on 2000-05-23 as the sitting 자민련 총재. On 2000-05-23 he named 김종호 총재직무대행 but kept the 총재 title and membership. He declared his exit from 한나라당 on 1999-12-29 and formally joined 자민련 on 2000-01-11 as 총재권한대행, then was elected 총재 on 2000-02-16. The ko.wikipedia 15th member list gives 1999-12-29 for both the exit and the entry, which is wrong for the entry. The 16th list records his 자민련 expulsion on 2001-09-07, which Yonhap confirms.",
+   "evidence": "부산일보 2000-01-01 (BigKinds 01500701.20000101111726002) reports the 탈당 declaration on 1999-12-29. 세계일보 2000-01-12 (01100701.20000112000000404) and 매일경제 2000-01-12 (02100101.20160115094819961) report that he joined 자민련 and took office as 총재권한대행 on 2000-01-11. 한국경제 2000-02-16 (015/0000227592) reports the 총재 election. Party on 2000-05-23 unchanged (자유민주연합)."
+  },
+  {
+   "row_id": "R0084",
+   "field": "seat_notes",
+   "old": "16th term 비례대표 (새천년민주당 list rank 5), seat 2000-05-30 to 2001-02-05. News of 2001-01-29 and 2001-01-30 reports that she resigned or declared her resignation on appointment and that 박양수 (list rank 22) would succeed. The effective date is not stated in the articles found. The NA API end date 2001-02-05 matches the opening plenary of the 218th extraordinary session on that day and the NA API start date of 박양수 (2001-02-06), so the API date is kept. The ko.wikipedia 16th member list gives 2001-01-29, which is the announcement date. Sources: https://n.news.naver.com/mnews/article/005/0000041316 (국민일보 2001-01-29, '박양수씨 의원직 승계', accessed 2026-09-25T23:11:42-0400) | https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.20010130210917001 (BigKinds metadata via /api/news/search.do query '박양수 의원직 승계' 2001-01-30..2001-02-20, 중앙일보 2001-01-30, '박양수특보 의원직 승계', accessed 2026-09-25T23:13:29-0400) | https://n.news.naver.com/mnews/article/001/0000052355 (연합뉴스 2001-02-05, '<오늘의 주요 정치뉴스>(5일)', accessed 2026-09-25T23:13:01-0400)",
+   "new": "16th term 비례대표 (새천년민주당 list rank 5), seat 2000-05-30 to 2001-02-05. News of 2001-01-29 and 2001-01-30 reports that she resigned or declared her resignation on appointment and that 박양수 (list rank 22) would succeed. The effective date is not stated in the articles found. The NA API end date 2001-02-05 matches the first plenary held after her appointment and the NA API start date of 박양수 (2001-02-06), so the API date is kept. That plenary belonged to the 217th extraordinary session, which had opened in early January 2001 and held no business for 28 days, and the 218th session was to convene on 2001-02-09 (전북일보 and 국제신문 of 2001-02-06). Because a session was open on 2001-01-29, the resignation needed a plenary vote and could not take effect before 2001-02-05. The ko.wikipedia 16th member list gives 2001-01-29, which is the announcement date. Sources: https://n.news.naver.com/mnews/article/005/0000041316 (국민일보 2001-01-29, '박양수씨 의원직 승계', accessed 2026-09-25T23:11:42-0400) | https://www.bigkinds.or.kr/v2/news/newsDetailView.do?newsId=01100901.20010130210917001 (BigKinds metadata via /api/news/search.do query '박양수 의원직 승계' 2001-01-30..2001-02-20, 중앙일보 2001-01-30, '박양수특보 의원직 승계', accessed 2026-09-25T23:13:29-0400) | https://n.news.naver.com/mnews/article/001/0000052355 (연합뉴스 2001-02-05, '<오늘의 주요 정치뉴스>(5일)', accessed 2026-09-25T23:13:01-0400)",
+   "evidence": "전북일보 2001-02-06 (BigKinds 01601101.20010206171146103) and 국제신문 2001-02-06 (01500401.20010206065307001) name the session normalized on 2001-02-05 as the 217th and say the 218th would convene on 2001-02-09. Seat dates unchanged."
+  },
+  {
+   "row_id": "R0089",
+   "field": "party_date_basis",
+   "old": "Elected in 2000 under 새천년민주당, he left it and joined 자민련 on 2001-01-10 so that 자민련 could register a negotiating group (Yonhap 2001-01-10). He was appointed 산업자원부장관 on 2001-03-26 as 자민련 장재식 의원 in the 자민련 share. Party changed during the row. He declared his exit from 자민련 on 2001-09-03 and filed on 2001-09-04 after the 임동원 dismissal vote, and rejoined 민주당 on 2001-09-11 (Hankyung 2001-09-11). The 16th member list gives 2001-09-03 and 2001-09-10 for these steps.",
+   "new": "Elected in 2000 under 새천년민주당, he left it and joined 자민련 on 2001-01-10 so that 자민련 could register a negotiating group (Yonhap 2001-01-10). He was appointed 산업자원부장관 on 2001-03-26 as 자민련 장재식 의원 in the 자민련 share. Party changed during the row. He declared his exit from 자민련 on 2001-09-03 and filed on 2001-09-04 after the 임동원 dismissal vote, and rejoined 민주당 on 2001-09-10 (동아일보 2001-09-11, and the Hankyung print story of 2001-09-11 says '이날', meaning its filing day). The 16th member list gives 2001-09-03 for the exit, which is the declaration date, and 2001-09-10 for the rejoining.",
+   "evidence": "동아일보 2001-09-11 00:52 (020/0000084793) says the four lent members rejoined 민주당 on 2001-09-10 after filing their 자민련 exit on 2001-09-04. Party on 2001-03-26 unchanged (자유민주연합)."
+  },
+  {
+   "row_id": "R0089",
+   "field": "seat_notes",
+   "old": "16th term, 서울 서대문구을, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. The party changed twice within this row (자민련 on dual_office_start, 무소속 from about 2001-09-04, 새천년민주당 again from about 2001-09-10 or 2001-09-11), so a single party value per row hides the switch.",
+   "new": "16th term, 서울 서대문구을, 지역구, seat 2000-05-30 to 2004-05-29. Agrees with the 16th member list. The party changed twice within this row (자민련 on dual_office_start, 무소속 from about 2001-09-04, 새천년민주당 again from 2001-09-10), so a single party value per row hides the switch.",
+   "evidence": "Same evidence as the R0089 party_date_basis change."
+  },
+  {
+   "row_id": null,
+   "field": "issues[0]",
+   "old": "Party on dual_office_start differs from the election party in 3 of 23 rows. R0061 박태준 (elected 무소속 at the 1997 by-election, 자민련 member since 1997-11-04), R0071 이한동 (elected 신한국당 in 1996, 자민련 총재 since 1999-12-29), R0089 장재식 (elected 새천년민주당 in 2000, moved to 자민련 on 2001-01-10). In build/out/minister_panel_comprehensive.csv these three rows carry mp_party_at_appt equal to the election party. The corrections field gives 자유민주연합 for each.",
+   "new": "Party on dual_office_start differs from the election party in 3 of 23 rows. R0061 박태준 (elected 무소속 at the 1997 by-election, 자민련 member since 1997-11-04), R0071 이한동 (elected 신한국당 in 1996, left 한나라당 on 1999-12-29, joined 자민련 on 2000-01-11 and became its 총재 on 2000-02-16), R0089 장재식 (elected 새천년민주당 in 2000, moved to 자민련 on 2001-01-10). In build/out/minister_panel_comprehensive.csv these three rows carry mp_party_at_appt equal to the election party. The corrections field gives 자유민주연합 for each.",
+   "evidence": "See the R0071 change. Party values unchanged."
+  },
+  {
+   "row_id": null,
+   "field": "issues[1]",
+   "old": "R0089 장재식 changed party inside the row. He left 자민련 on 2001-09-03 or 2001-09-04 and rejoined 새천년민주당 on 2001-09-10 or 2001-09-11 (news and ko.wikipedia differ by a day), while the row runs to 2002-01-29. A single party value per row cannot show this.",
+   "new": "R0089 장재식 changed party inside the row. He declared his exit from 자민련 on 2001-09-03, filed it on 2001-09-04 and rejoined 새천년민주당 on 2001-09-10 (동아일보 2001-09-11, consistent with ko.wikipedia), while the row runs to 2002-01-29. A single party value per row cannot show this.",
+   "evidence": "See the R0089 change. Party values unchanged."
+  },
+  {
+   "row_id": null,
+   "field": "issues[3]",
+   "old": "PR seat end dates. For 정상천, 김한길 and 한명숙 the ko.wikipedia 15th and 16th member lists give the date the resignation was filed or announced (1999-03-30, 2000-09-20, 2001-01-29). The NA API gives the effective date (1999-04-02, 2000-10-09, 2001-02-05). News confirms plenary approval on 1999-04-02 and 2000-10-09. No article found states the 한명숙 effective date, but 2001-02-05 matches the opening plenary of the 218th session and the successor 박양수 starting on 2001-02-06. The NA API dates should be kept.",
+   "new": "PR seat end dates. For 정상천, 김한길 and 한명숙 the ko.wikipedia 15th and 16th member lists give the date the resignation was filed or announced (1999-03-30, 2000-09-20, 2001-01-29). The NA API gives the effective date (1999-04-02, 2000-10-09, 2001-02-05). News confirms plenary approval on 1999-04-02 and 2000-10-09. No article found states the 한명숙 effective date, but 2001-02-05 matches the opening plenary of the 217th session and the successor 박양수 starting on 2001-02-06. The NA API dates should be kept.",
+   "evidence": "See the R0084 change. Seat dates unchanged."
+  }
+ ]
+}

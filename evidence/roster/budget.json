@@ -1,0 +1,807 @@
+{
+ "lineage": "budget",
+ "built_at": "2026-09-25T13:19:21-0400",
+ "ministry_names": [
+  {
+   "ministry": "기획예산위원회",
+   "from": "1998-02-28",
+   "to": "1999-05-23",
+   "in_scope": false,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5529호 (1998-02-28) 제17조② (위원장은 정무직), 제13조① (국무회의 출석·발언만, 국무위원 아님). Abolished by 법률 제5982호 (1999-05-24) 부칙 제2조①.",
+   "source": "offices.json OF066"
+  },
+  {
+   "ministry": "예산청",
+   "from": "1998-02-28",
+   "to": "1999-05-23",
+   "in_scope": false,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5529호 제27조③④ (재정경제부장관 소속 청, 청장 정무직, 국무위원 아님). Abolished by 법률 제5982호 부칙 제2조①.",
+   "source": "offices.json OF067"
+  },
+  {
+   "ministry": "기획예산처",
+   "from": "1999-05-24",
+   "to": "2008-02-28",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5982호 (1999-05-24 시행) 제23조 (기획예산처에 장관 1인, 장관은 국무위원으로 보한다). Abolished by 법률 제8852호 (2008-02-29 시행, 기획재정부로 통합).",
+   "source": "offices.json OF030 (law.go.kr MST 58501 efYd 19990524, MST 83239 efYd 20080229)"
+  },
+  {
+   "ministry": "기획예산처",
+   "from": "2026-01-02",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제21065호 (2025-10-01 공포, 2026-01-02 시행 부칙 제1조제1호) 제23조 (기획예산처에 장관 1명, 장관은 국무위원으로 보한다). 부칙 제4조 (인사청문에 관한 특례) reads '이 법 시행 전에 대통령은 국무위원 후보자(기획예산처장관)에 대하여 국회에 인사청문을 요청할 수 있다.'",
+   "source": "offices.json OF065 (law.go.kr MST 276049 efYd 20260102, snapshot inventory_sources/law_go_kr/govorg/text_20260102_276049.json)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "진념",
+   "name_hanja": "陳稔",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1940-12-02",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "1999-05-24",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1999-05-24 10:03:00 \"<프로필> 진념 기획예산처장관\" | https://n.news.naver.com/mnews/article/001/0004517159 | accessed 2026-09-24T22:46:53-0400 | snapshot roster/sources/budget/news/naver_001_0004517159.html",
+    "연합뉴스 1999-05-24 10:20:00 \"<5.24 개각 부처 표정>-기획예산처\" | https://n.news.naver.com/mnews/article/001/0004512229 | accessed 2026-09-24T22:47:06-0400 | snapshot roster/sources/budget/news/naver_001_0004512229.html",
+    "BigKinds metadata search, query '진념 기획예산처장관' 1999-05-24..1999-05-26 | 세계일보 1999-05-25 '김대통령 대폭 개각 단행' (金大中대통령은 24일 ... 신설 부처인 기획예산처장관 ... 陳稔(진념)기획예산위원장 ... 임명) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T07:07:38-0400 | snapshot roster/sources/budget/news/bigkinds_1999-05-24_1999-05-26_0f736a3d9d.json",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 초대 진념 취임일 1999년 5월 24일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "BigKinds metadata search, query '진념 기획예산처 장관' 1999-05-24..1999-05-27 | 매일경제 1999-05-25 '김대통령 24일 재경부 장관에 강봉균 수석 등 대폭 개각 단행' (news_id 02100101.20160114232356357) reads '김대중 대통령은 24일 ... 신설 기획예산처 장관에 진념 기획예산위원장 ... 을 각각 임명하는 등 대폭 개각을 단행했다', also 전북일보 1999-05-25 '재경-강봉균 통일-임동원씨' (기획예산 진 념) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:51:49-0400 | snapshot roster/sources/budget/verify/bigkinds_1999-05-24_1999-05-27_5f77be25ac.json",
+    "연합뉴스 1999-05-25 19:30:00 '<오늘의 주요 정치 뉴스>(26일)' says the President gives 임명장 on the morning of 1999-05-26 to the 장.차관 '5.24 개각에 따라 새로 임명된' (ceremony date, not the appointment date) | https://n.news.naver.com/mnews/article/001/0004517985 | accessed 2026-09-24T22:48:15-0400 | snapshot roster/sources/budget/verify/naver_001_0004517985.html",
+    "재정경제부 역대장관 page (official, tier 2), section '기획예산처 역대장관' lists 1대 진념 1999.5.~2000.8., 2대 전윤철 2000.8.~2002.1., 3대 장승우 2002.1.~2003.2., 4대 박봉흠 2003.2.~2004.1., 5대 김병일 2004.1.~2005.1., 6대 변양균 2005.1.~2006.7., 7대 장병완 2006.7.~2008.2. | https://mofe.go.kr/mi/mh/his.do?menuNo=9020800 (requested as https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800) | accessed 2026-09-25T13:48:59-0400 | snapshot roster/sources/budget/verify/moef_his.html"
+   ],
+   "end": "2000-08-07",
+   "end_confidence": "high",
+   "end_sources": [
+    "동아일보 2000-08-07 19:38:00 \"8개부처 장관 경질…청와대 수석-차관급 주내 인사\" | https://n.news.naver.com/mnews/article/020/0000020130 | accessed 2026-09-24T22:47:35-0400 | snapshot roster/sources/budget/news/naver_020_0000020130.html (7일 재정경제부장관에 진념 기획예산처장관 임명, 후임 기획예산처장관 전윤철, 이날 오후 임명장 수여)",
+    "한국경제 2000-08-08 06:31:00 \"진념 경제팀 출범 .. 金대통령, 11개부처 개각 단행\" | https://n.news.naver.com/mnews/article/015/0000264519 | accessed 2026-09-24T22:48:14-0400 | snapshot roster/sources/budget/news/naver_015_0000264519.html (7일 오후 4시 진념 재정경제부장관 등에게 임명장 수여)",
+    "연합뉴스 2000-08-07 14:20:00 \"김대통령 11개부처 개각 단행(종합)\" | https://n.news.naver.com/mnews/article/001/0000019421 | accessed 2026-09-24T22:47:56-0400 | snapshot roster/sources/budget/news/naver_001_0000019421.html",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 진념 퇴임일 2000년 8월 6일 (one day earlier than the news-dated handover) | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "BigKinds metadata search, query '전윤철 기획예산처 장관 임명' 2000-08-07..2000-08-09 | 경향신문 2000-08-08 (김대중 대통령은 7일 재경부 장관에 진념 기획예산처 장관 ... 을 임명) and 매일경제 2000-08-08 '재경부 장관에 진념씨 등 7일 개각 단행' | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:52:51-0400 | snapshot roster/sources/budget/verify/bigkinds_2000-08-07_2000-08-09_77821494f0.json"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "One valid row (meeting 28447, 2000-06-23, 국회운영위원회 상임위원회) with speaker '기획예산처장관 진임', a transcription variant of 진념 (Wikipedia gives the reading 진염 for 陳稔). Inside the spell. Transcript coverage starts 2000-06, so most of the spell predates the transcripts. audit/coverage_gaps.csv lead '진임' is this person. Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "He was 기획예산위원회 위원장 (not a 국무위원, out of scope) until the commission was abolished and became the first 기획예산처장관 on the day the office was created, as a fresh appointment in the 1999-05-24 cabinet reshuffle. reorg_continuation is set true only in that sense. There is no in-scope predecessor spell to merge with. Left on 2000-08-07 to become 재정경제부장관 (finance lineage), same-day handover to 전윤철. No gazette files exist before 2001. Verifier check. the appointment was announced and reported as made on 1999-05-24 (매일경제, 전북일보, 세계일보, 연합뉴스). The 임명장 ceremony for the 5.24 reshuffle was on 1999-05-26 (연합뉴스 1999-05-25 19:30). No gazette file exists for 1999, so the start rests on the reported appointment day, which the source rules allow."
+  },
+  {
+   "name": "전윤철",
+   "name_hanja": "田允喆",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-06-15",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2000-08-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "동아일보 2000-08-07 19:38:00 \"8개부처 장관 경질…청와대 수석-차관급 주내 인사\" | https://n.news.naver.com/mnews/article/020/0000020130 | accessed 2026-09-24T22:47:35-0400 | snapshot roster/sources/budget/news/naver_020_0000020130.html",
+    "한국경제 2000-08-08 06:31:00 \"진념 경제팀 출범 .. 金대통령, 11개부처 개각 단행\" | https://n.news.naver.com/mnews/article/015/0000264519 | accessed 2026-09-24T22:48:14-0400 | snapshot roster/sources/budget/news/naver_015_0000264519.html",
+    "연합뉴스 2000-08-07 11:11:00 \"<프로필> 전윤철 기획예산처 장관\" | https://n.news.naver.com/mnews/article/001/0000019384 | accessed 2026-09-24T22:47:19-0400 | snapshot roster/sources/budget/news/naver_001_0000019384.html",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 제2대 전윤철 취임일 2000년 8월 7일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "BigKinds metadata search, query '전윤철 기획예산처 장관 임명' 2000-08-07..2000-08-09 | 경향신문 2000-08-08 '재경 진념,교육 송자' (김대중 대통령은 7일 ... 기획예산처 장관에 전윤철 공정거래위원장 ...) and 한국일보 2000-08-08 '재경 진념- 교육 송자씨', 한국경제 2000-08-08 (진 념장관은 이날 청와대에서 임명장을 받고) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:52:51-0400 | snapshot roster/sources/budget/verify/bigkinds_2000-08-07_2000-08-09_77821494f0.json",
+    "재정경제부 역대장관 page (official, tier 2), section '기획예산처 역대장관' lists 1대 진념 1999.5.~2000.8., 2대 전윤철 2000.8.~2002.1., 3대 장승우 2002.1.~2003.2., 4대 박봉흠 2003.2.~2004.1., 5대 김병일 2004.1.~2005.1., 6대 변양균 2005.1.~2006.7., 7대 장병완 2006.7.~2008.2. | https://mofe.go.kr/mi/mh/his.do?menuNo=9020800 (requested as https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800) | accessed 2026-09-25T13:48:59-0400 | snapshot roster/sources/budget/verify/moef_his.html"
+   ],
+   "end": "2002-01-29",
+   "end_confidence": "high",
+   "end_sources": [
+    "관보 제15018호 (published 2002-02-02), 인사 item toc_seq 00000000000000001319020047126000 | section ◉2002년 1 월29일자 prints '기획예산처장관 국무위원 전 윤 철(田 允 喆) 대통령비서실장에 임함' and '장 승 우(張 丞 玗) 국무위원에 임함 기획예산처장관에 보함' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N | PDF accessed 2026-09-24T22:44:15-0400 | snapshot roster/sources/budget/gazette/gazette_15018_20020202_00000000000000001319020047126000.pdf",
+    "파이낸셜뉴스 2002-01-29 18:40:00 \"교육부총리 이상주씨…장관급 9명 교체\" | https://n.news.naver.com/mnews/article/014/0000001694 | accessed 2026-09-24T22:49:35-0400 | snapshot roster/sources/budget/news/naver_014_0000001694.html (29일 전윤철 기획예산처 장관을 청와대 비서실장에 임명)",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 전윤철 퇴임일 2002년 1월 28일 (one day earlier than the gazette date of his new post) | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "관보 제15018호 (published 2002-02-02), re-read by the verifier in the harvest text corpus | section ◉2002년 1 월29일자 prints '기획예산처장관 국무위원 전 윤 철(田 允 喆) 대통령비서실장에 임함' | harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt (copy at roster/sources/budget/verify/gazette_text/20020202_15018_00000000000000001319020047126000.txt)",
+    "BigKinds metadata search, query '장승우 기획예산처 장관' 2002-01-29..2002-01-31 | 경남도민일보 2002-01-30 '경제기획원출신 화려한 도약' (대통령 비서실장에 전윤철 기획예산처 장관이 임명된 것을 비롯해) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:53:49-0400 | snapshot roster/sources/budget/verify/bigkinds_2002-01-29_2002-01-31_1a58f294b1.json"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "11 valid meetings 2000-10-18..2001-12-21 as 기획예산처장관, all inside the spell. audit/coverage_gaps.csv lead (absent from old panel) is resolved by this spell. Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Moved to 대통령비서실장 on 2002-01-29 (gazette 제15018호). Retained at the 2001-03-26 reshuffle (BigKinds metadata search, query '전윤철 기획예산처 장관 유임' 2001-01-29..2001-03-28 | 한국일보 2001-03-27 '3·26개각 / 경제팀 유임 의미' and 서울경제 2001-03-26 name 전윤철 기획예산처장관 among the retained, and 동아일보 2001-03-16 calls him 기획예산처장관 | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:18:17-0400 | snapshot roster/sources/budget/news/bigkinds_2001-01-29_2001-03-28_030acd1db1.json). The 2001 gazette corpus has no other 기획예산처장관 notice, and the transcripts show him in office on 2000-11-29 and 2001-06-15..2001-12-21."
+  },
+  {
+   "name": "장승우",
+   "name_hanja": "張丞玗",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1948-01-22",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2002-01-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15018호 (published 2002-02-02), 인사 item toc_seq 00000000000000001319020047126000 | section ◉2002년 1 월29일자 prints '장 승 우(張 丞 玗) 국무위원에 임함 기획예산처장관에 보함' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N | PDF accessed 2026-09-24T22:44:15-0400 | snapshot roster/sources/budget/gazette/gazette_15018_20020202_00000000000000001319020047126000.pdf",
+    "파이낸셜뉴스 2002-01-29 18:40:00 \"교육부총리 이상주씨…장관급 9명 교체\" | https://n.news.naver.com/mnews/article/014/0000001694 | accessed 2026-09-24T22:49:35-0400 | snapshot roster/sources/budget/news/naver_014_0000001694.html",
+    "연합뉴스 2002-01-29 10:32:00 \"<프로필> 장승우 기획예산처 장관\" | https://n.news.naver.com/mnews/article/001/0000128438 | accessed 2026-09-24T22:49:20-0400 | snapshot roster/sources/budget/news/naver_001_0000128438.html",
+    "관보 제15018호 (published 2002-02-02), re-read by the verifier in the harvest text corpus | section ◉2002년 1 월29일자 prints '장 승 우(張 丞 玗) 국무위원에 임함 기획예산처장관에 보함' | harvest/gazette_text/20020202_15018_00000000000000001319020047126000.txt (copy at roster/sources/budget/verify/gazette_text/20020202_15018_00000000000000001319020047126000.txt)",
+    "BigKinds metadata search, query '장승우 기획예산처 장관' 2002-01-29..2002-01-31 | 중부매일 2002-01-30 (29일 ... 기획예산처 장관에 장승우 금융통화위원이 각각 임명됐다), 서울신문 2002-01-30 '1·29 개각-프로필/ 장승우 기획예산처' | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:53:49-0400 | snapshot roster/sources/budget/verify/bigkinds_2002-01-29_2002-01-31_1a58f294b1.json"
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000 | successor 박봉흠 appointed in section ◉2003년 2 월27일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N | PDF accessed 2026-09-24T22:44:28-0400 | snapshot roster/sources/budget/gazette/gazette_15338_20030305_00000000000000001319026541100000.pdf",
+    "BigKinds metadata search, query '장승우 장관' 2003-02-25..2003-02-28 | 매일경제 2003-02-26 '새 정부 내각 출범' still calls him '장승우 기획예산처 장관' on 2003-02-26 | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T07:07:31-0400 | snapshot roster/sources/budget/news/bigkinds_2003-02-25_2003-02-28_776e933a06.json",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 장승우 퇴임일 2003년 2월 26일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "BigKinds metadata search, query '장승우' 2003-02-24..2003-03-03 | 국민일보 2003-02-26 '젊은 부총리에 경제부처 술렁' and 매일경제 2003-02-25/26 still call him the sitting 기획예산처 장관. No exit or 이임 item was found (query '장승우 이임' 2003-02-24..2003-03-01 returned 0 hits, snapshot roster/sources/budget/verify/bigkinds_2003-02-24_2003-03-01_5c90ff9455.json) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:56:22-0400 | snapshot roster/sources/budget/verify/bigkinds_2003-02-24_2003-03-03_58bc25bb19.json",
+    "BigKinds metadata search, query '박봉흠 기획예산처 장관' 2003-02-27..2003-02-28 | 인천일보 2003-02-28 (successor's 임명장 on 2003-02-27) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:55:24-0400 | snapshot roster/sources/budget/verify/bigkinds_2003-02-27_2003-02-28_f5a6ef56b5.json"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "6 valid meetings 2002-09-11..2002-11-07, inside the spell. The old panel had him only as 해양수산부 (coverage_gaps lead 'name_in_panel_other_ministry_only'). He was later appointed 해양수산부장관 on 2003-10-14 (관보 제15523호), a different lineage. Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Stayed through the 2003-02-25 presidential transition until the first 노무현 cabinet was appointed on 2003-02-27. No exit date found in any source, so end is the successor's appointment date. Died 2010-01-15 (Wikipedia)."
+  },
+  {
+   "name": "박봉흠",
+   "name_hanja": "朴奉欽",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1948-10-11",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000 | section ◉2003년 2 월27일자 prints '박 봉 흠(朴 奉 欽) 국무위원에 임함 기획예산처장관에 보함' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N | PDF accessed 2026-09-24T22:44:28-0400 | snapshot roster/sources/budget/gazette/gazette_15338_20030305_00000000000000001319026541100000.pdf",
+    "연합뉴스 2003-02-27 13:57:46 \"<프로필> 박봉흠 기획예산처장관\" | https://n.news.naver.com/mnews/article/001/0000326575 | accessed 2026-09-24T22:49:45-0400 | snapshot roster/sources/budget/news/naver_001_0000326575.html",
+    "머니투데이 2003-02-27 14:07:00 \"[프로필]박봉흠 기획예산처 장관\" | https://n.news.naver.com/mnews/article/008/0000255677 | accessed 2026-09-24T22:49:43-0400 | snapshot roster/sources/budget/news/naver_008_0000255677.html",
+    "관보 제15338호 (published 2003-03-05), re-read by the verifier in the harvest text corpus | section ◉2003년 2 월27일자 prints '박 봉 흠(朴 奉 欽) 국무위원에 임함 기획예산처장관에 보함' | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (copy at roster/sources/budget/verify/gazette_text/20030305_15338_00000000000000001319026541100000.txt)",
+    "BigKinds metadata search, query '박봉흠 기획예산처 장관' 2003-02-27..2003-02-28 | 인천일보 2003-02-28 '첫 내각 분석' (노무현 대통령은 이날 청와대에서 신임 장관들에게 임명장을 수여), 서울신문 2003-02-28 (박봉흠 기획예산처 장관은 27일 취임 기자회견) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:55:24-0400 | snapshot roster/sources/budget/verify/bigkinds_2003-02-27_2003-02-28_f5a6ef56b5.json"
+   ],
+   "end": "2004-01-02",
+   "end_confidence": "high",
+   "end_sources": [
+    "한겨레 2004-01-02 21:57:00 \"정책기획위원회에 힘 실릴 듯\" | https://n.news.naver.com/mnews/article/028/0000039704 | accessed 2026-09-25T12:58:05-0400 | snapshot roster/sources/budget/news/naver_028_0000039704.html (노 대통령은 2일 오전 ... 박봉흠 신임 청와대 정책실장 등에게 임명장)",
+    "동아일보 2004-01-02 23:07:57 \"박봉흠 신임 정책실장 “부처간 정책이견 청와대가 조율”\" | https://n.news.naver.com/mnews/article/020/0000221084 | accessed 2026-09-25T12:57:59-0400 | snapshot roster/sources/budget/news/naver_020_0000221084.html (2일 기획예산처 장관 이임식)",
+    "머니투데이 2004-01-02 15:39:00 \"예산처, 이취임-종무-시무식 \"한꺼번에\"\" | https://n.news.naver.com/mnews/article/008/0000360002 | accessed 2026-09-24T22:50:02-0400 | snapshot roster/sources/budget/news/naver_008_0000360002.html (2일 장관 임명장 수여 후 이임식과 취임식)",
+    "관보 제15591호 (published 2004-01-08), 인사 item toc_seq 00000000000000001319029745725000 | successor 김병일 appointed in section ⊙2004년 1 월 2 일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029738184000&tocId=00000000000000001319029745725000&isTocOrder=N | PDF accessed 2026-09-24T22:48:31-0400 | snapshot roster/sources/budget/gazette/gazette_15591_20040108_00000000000000001319029745725000.pdf",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 박봉흠 퇴임일 2004년 1월 1일 (one day earlier than the news-dated handover) | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "파이낸셜뉴스 2004-01-02 21:30:00 '정책과 정책기획위원회 관계설정 어떻게' (박봉흠 신임 청와대 정책실장, 2일) | https://n.news.naver.com/mnews/article/014/0000102891 | accessed 2026-09-25T12:58:06-0400 | snapshot roster/sources/budget/verify/naver_014_0000102891.html",
+    "머니투데이 2004-01-02 11:09:00 (노 대통령은 이날 박봉흠 청와대 정책실장과 김병일 기획예산처 장관 ... 에게 임명장을 수여) | https://n.news.naver.com/mnews/article/008/0000359850 | accessed 2026-09-25T13:58:01-0400 | snapshot roster/sources/budget/verify/naver_008_0000359850.html"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "8 valid meetings 2003-04-25..2003-12-17, inside the spell. He also appears as 기획예산처 차관 on 2002-11-01 (vice_minister role, before the spell, consistent with his 차관 appointment in 관보 제15024호, 2002-02-05). Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Named 대통령 정책실장 on 2003-12-28 with formal appointment deferred until the 2004 budget passed. 임명장 as 정책실장 and the 이임식 were on 2004-01-02, the same day 김병일 was appointed (same-day handover)."
+  },
+  {
+   "name": "김병일",
+   "name_hanja": "金炳日",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1945-09-01",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2004-01-02",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15591호 (published 2004-01-08), 인사 item toc_seq 00000000000000001319029745725000 | section ⊙2004년 1 월 2 일자 prints '김 병 일(金 炳 日) 국무위원에 임함 기획예산처장관에 보함 (대 통 령)' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029738184000&tocId=00000000000000001319029745725000&isTocOrder=N | PDF accessed 2026-09-24T22:48:31-0400 | snapshot roster/sources/budget/gazette/gazette_15591_20040108_00000000000000001319029745725000.pdf",
+    "머니투데이 2004-01-02 15:39:00 \"예산처, 이취임-종무-시무식 \"한꺼번에\"\" | https://n.news.naver.com/mnews/article/008/0000360002 | accessed 2026-09-24T22:50:02-0400 | snapshot roster/sources/budget/news/naver_008_0000360002.html",
+    "머니투데이 2004-01-02 13:24:00 \"신임 예산장관 \"재정이 경기회복 지렛대될 것\"\" | https://n.news.naver.com/mnews/article/008/0000359912 | accessed 2026-09-24T22:49:58-0400 | snapshot roster/sources/budget/news/naver_008_0000359912.html",
+    "관보 제15591호 (published 2004-01-08), re-read by the verifier in the harvest text corpus | section ⊙2004년 1 월 2 일자 prints '김 병 일(金 炳 日) 국무위원에 임함 기획예산처장관에 보함' | harvest/gazette_text/20040108_15591_00000000000000001319029745725000.txt (copy at roster/sources/budget/verify/gazette_text/20040108_15591_00000000000000001319029745725000.txt)",
+    "머니투데이 2004-01-02 11:09:00 '盧 \"공무원사회 변화 속도 최고돼야\"' (노 대통령은 이날 박봉흠 청와대 정책실장과 김병일 기획예산처 장관 ... 에게 임명장을 수여) | https://n.news.naver.com/mnews/article/008/0000359850 | accessed 2026-09-25T13:58:01-0400 | snapshot roster/sources/budget/verify/naver_008_0000359850.html"
+   ],
+   "end": "2005-01-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2005-01-28 06:06:00 \"<기예처 연쇄승진 가능할까>\" | https://n.news.naver.com/mnews/article/001/0000897421 | accessed 2026-09-25T12:59:06-0400 | snapshot roster/sources/budget/news/naver_001_0000897421.html (27일 이임식을 마치고 떠난 김병일 전 장관)",
+    "연합뉴스 2005-01-26 15:46:00 \"김병일 기획예산처 장관 사의 표명(종합)\" | https://n.news.naver.com/mnews/article/001/0000895642 | accessed 2026-09-25T12:58:32-0400 | snapshot roster/sources/budget/news/naver_001_0000895642.html (26일 사의 표명)",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 김병일 퇴임일 2005년 1월 27일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "관보 제15912호 (published 2005-02-02), 인사 item toc_seq 00000000000000001319033722750000 | successor 변양균 appointed in section ⊙2005년 1 월28일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033714178000&tocId=00000000000000001319033722750000&isTocOrder=N | PDF accessed 2026-09-24T22:51:40-0400 | snapshot roster/sources/budget/gazette/gazette_15912_20050202_00000000000000001319033722750000.pdf",
+    "BigKinds metadata search, query '김병일 기획예산처 장관' 2005-01-26..2005-01-29 | 동아일보 2005-01-27 '[정치 슬로모션]靑政 고위인사 잇단 사의' (이날 사표가 수리된 김병일(金炳日) 기획예산처 장관) and 동아일보 2005-01-27 '교육부총리에 김진표의원' (김병일 기획예산처 장관의 사표를 수리하고 후임에 변양균 차관을 승진 내정), 경향신문 2005-01-28 (노무현 대통령은 27일 최근 사의를 표명한 김병일 기획예산처 장관의 사표를 수리하고), 한국일보 2005-01-28 and 국제신문 2005-01-28 (same, 27일 사표 수리) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:58:53-0400 | snapshot roster/sources/budget/verify/bigkinds_2005-01-26_2005-01-29_d2ee535498.json"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "7 valid meetings 2004-07-07..2004-12-28, inside the spell. A 김병일 also appears as 기획예산처 차관 in 2001-08/09 (vice_minister role), consistent with an earlier career as 차관. Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Announced his resignation on 2005-01-26, held the 이임식 on 2005-01-27, and the successor was appointed on 2005-01-28. The date the resignation was formally accepted was not found. Hanja follows the gazette (金炳日). Wikipedia gives 金秉日. Verifier check. the President accepted the resignation (사표 수리) on 2005-01-27 per 동아일보 2005-01-27, 경향신문, 한국일보 and 국제신문 2005-01-28, the same day as the 이임식. End 2005-01-27 therefore meets the rule directly."
+  },
+  {
+   "name": "변양균",
+   "name_hanja": "卞良均",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1949-11-15",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2005-01-28",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15912호 (published 2005-02-02), 인사 item toc_seq 00000000000000001319033722750000 | section ⊙2005년 1 월28일자 prints '차 관 변 양 균(卞 良 均) 국무위원에 임함 기획예산처 장관에 보함' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033714178000&tocId=00000000000000001319033722750000&isTocOrder=N | PDF accessed 2026-09-24T22:51:40-0400 | snapshot roster/sources/budget/gazette/gazette_15912_20050202_00000000000000001319033722750000.pdf",
+    "연합뉴스 2005-01-28 09:43:00 \"노대통령 신임 변양균 기획예산처장관 임명장\" | https://n.news.naver.com/mnews/article/001/0000897634 | accessed 2026-09-24T22:51:11-0400 | snapshot roster/sources/budget/news/naver_001_0000897634.html",
+    "파이낸셜뉴스 2005-01-28 18:36:00 \"“청년실업，대학서 비롯 교육계가 대안 내달라”…盧대통령，김부총리등 임명장\" | https://n.news.naver.com/mnews/article/014/0000159933 | accessed 2026-09-25T12:58:51-0400 | snapshot roster/sources/budget/news/naver_014_0000159933.html",
+    "관보 제15912호 (published 2005-02-02), re-read by the verifier in the harvest text corpus | section ⊙2005년 1 월28일자 prints '차 관 변 양 균(卞 良 均) 국무위원에 임함 기획예산처 장관에 보함' | harvest/gazette_text/20050202_15912_00000000000000001319033722750000.txt (copy at roster/sources/budget/verify/gazette_text/20050202_15912_00000000000000001319033722750000.txt)",
+    "BigKinds metadata search, query '김병일 기획예산처 장관' 2005-01-26..2005-01-29 | 이데일리 2005-01-28 '변양균 예산처장관 \"경제회복 지원에 최선\"' (변양균 장관은 28일 취임식을 생략한채 ...) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:58:53-0400 | snapshot roster/sources/budget/verify/bigkinds_2005-01-26_2005-01-29_d2ee535498.json"
+   ],
+   "end": "2006-07-04",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2006-07-04 11:14:00 \"노대통령 정책실장 임명장 수여\" | https://n.news.naver.com/mnews/article/001/0001347339 | accessed 2026-09-24T22:51:20-0400 | snapshot roster/sources/budget/news/naver_001_0001347339.html (4일 변양균 정책실장에게 임명장 수여)",
+    "파이낸셜뉴스 2006-07-04 23:21:00 \"변양균 정책실장 임명\" | https://n.news.naver.com/mnews/article/014/0000232184 | accessed 2026-09-24T22:51:18-0400 | snapshot roster/sources/budget/news/naver_014_0000232184.html",
+    "연합뉴스 2006-07-03 15:37:00 \"경제부총리 권오규, 교육부총리 김병준(종합)\" | https://n.news.naver.com/mnews/article/001/0001346568 | accessed 2026-09-24T22:51:25-0400 | snapshot roster/sources/budget/news/naver_001_0001346568.html (3일 정책실장 내정, 예산처는 후임 장관 임명 때까지 차관 대행체제)",
+    "동아일보 2006-07-05 03:55:00 \"盧대통령 “속이 아프다”…개각비판 관련 심경 토로\" | https://n.news.naver.com/mnews/article/020/0000357283 | accessed 2026-09-25T13:10:35-0400 | snapshot roster/sources/budget/news/naver_020_0000357283.html (4일 국무회의에 장병완 차관이 장관 대행으로 참석)",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 변양균 퇴임일 2006년 7월 3일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "BigKinds metadata search, query '변양균 정책실장' 2006-07-03..2006-07-05 | 파이낸셜뉴스 2006-07-04 photo '변양균 정책실장 임명' (노무현 대통령이 4일 오전 청와대에서 변양균 신임 정책실장에게 임명장을 수여), 중앙일보 2006-07-04 (3일 후임 청와대 정책실장에는 변양균 기획예산처 장관을 임명) | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T13:59:43-0400 | snapshot roster/sources/budget/verify/bigkinds_2006-07-03_2006-07-05_adade26cae.json",
+    "뉴시스 2006-07-03 15:36:00 '<종합2보>청와대 부분 개각' (권오규 정책실장의 후임에는 변양균 현 기획예산처 장관이 내정, i.e. still minister on 07-03) | https://n.news.naver.com/mnews/article/003/0000122850 | accessed 2026-09-25T14:07:42-0400 | snapshot roster/sources/budget/verify/naver_003_0000122850.html",
+    "BigKinds metadata search, query '변양균 임명장' 2006-07-04..2006-07-05 | 서울경제 2006-07-04 '(4일)' schedule item (news_id 02100311.20160318012926929) reads '노무현 대통령은 오전 청와대에서 변양균 신임 청와대 정책실장에게 임명장을 수여한 뒤 국무회의를 주재한다', so the 정책실장 appointment came before the 2006-07-04 국무회의 that 장병완 attended as 장관 대행. 파이낸셜뉴스 2006-07-04 (4일 오전 임명장) and 동아일보, 매일경제, 중도일보 2006-07-04 (3일 내정) in the same result | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T21:37:40-0400 | snapshot roster/sources/budget/verify/bigkinds_2006-07-04_2006-07-05_1ab49b3a5f.json"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "9 valid meetings 2005-02-23..2006-06-29, inside the spell. One row 'minister 기획예산처장관 변양균' dated 2000-07-22 is from a 예산결산특별위원회 meeting (invalid hearing type, misattached content per the audit) and is ignored. He appears as 차관 2003-09-19..2004-10-21 (vice_minister role), consistent with 관보 제15340호 (차관 2003-03-03). Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Named 대통령 정책실장 on 2006-07-03 and received the 임명장 on the morning of 2006-07-04. End is the date of his new appointment. Wikipedia gives 2006-07-03. 장병완 (차관) attended the 2006-07-04 국무회의 as 장관 대행, so the office was treated as vacant from 2006-07-04. Verifier check. 뉴시스 2006-07-03 still calls him '현 기획예산처 장관' and 내정 as 정책실장. 파이낸셜뉴스 2006-07-04 has the 임명장 on the morning of 07-04. End 07-04 kept (medium). The Wikipedia value 2006-07-03 has no tier 1-3 support. Verifier resumed pass. 서울경제 2006-07-04 schedule puts the 정책실장 임명장 before that morning's 국무회의, where 장병완 sat as 장관 대행. End 2006-07-04 is the day he moved, confidence raised to high."
+  },
+  {
+   "name": "장병완",
+   "name_hanja": "張秉浣",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1952-05-05",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2006-07-21",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16304호 (published 2006-07-27), 인사 item toc_seq 00000000000000001319073717854000 | section ⊙2006년 7 월21일자 prints '장 병 완(張 秉 浣) 국무위원에 임함 기획예산처장관에 보함' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319073704770000&tocId=00000000000000001319073717854000&isTocOrder=N | PDF accessed 2026-09-24T22:57:03-0400 | snapshot roster/sources/budget/gazette/gazette_16304_20060727_00000000000000001319073717854000.pdf",
+    "연합뉴스 2006-07-21 16:27:00 \"노대통령 신임 기획예산처장관 임명장\" | https://n.news.naver.com/mnews/article/001/0001363708 | accessed 2026-09-24T22:51:43-0400 | snapshot roster/sources/budget/news/naver_001_0001363708.html",
+    "연합뉴스 2006-07-21 16:21:00 \"신임 교육부총리와 예산처장관\" | https://n.news.naver.com/mnews/article/001/0001363698 | accessed 2026-09-24T22:51:47-0400 | snapshot roster/sources/budget/news/naver_001_0001363698.html",
+    "의안정보시스템 bill detail | 인사청문경과보고서 채택 2006-07-20, 송부일 2006-07-20 | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=035808 | accessed 2026-09-24T22:52:23-0400 | snapshot roster/sources/budget/likms/likms_detail_035808.html",
+    "관보 제16304호 (published 2006-07-27), re-read by the verifier in the harvest text corpus | section ⊙2006년 7 월21일자 prints '장 병 완(張 秉 浣) 국무위원에 임함 기획예산처장관에 보함' | harvest/gazette_text/20060727_16304_00000000000000001319073717854000.txt (copy at roster/sources/budget/verify/gazette_text/20060727_16304_00000000000000001319073717854000.txt)",
+    "의안정보시스템 bill text re-read by the verifier (harvest/likms/035808.txt) | 소관위 국회운영위원회, 회부 2006-07-06, 상정 2006-07-11, 처리 2006-07-20 경과보고서채택, 경과보고서 송부일 2006. 7. 20. | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=035808"
+   ],
+   "end": "2008-02-04",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2008-02-04 17:03:14 \"장병완 \"수요자 중심의 사고 필요\"\" | https://n.news.naver.com/mnews/article/001/0001950066 | accessed 2026-09-25T12:56:14-0400 | snapshot roster/sources/budget/news/naver_001_0001950066.html (4일 오후 이임식)",
+    "문화일보 2008-02-04 14:30:00 \"<취재수첩> ‘무책임의 극치’ 장병완 장관\" | https://n.news.naver.com/mnews/article/021/0001938964 | accessed 2026-09-25T12:56:16-0400 | snapshot roster/sources/budget/news/naver_021_0001938964.html (4일 오후 이임식을 갖고 1년7개월의 장관직을 마무리)",
+    "한겨레 2008-01-28 22:11:00 \"이상수 이용섭 장병완 장관,  총선 출마위해 사의\" | https://n.news.naver.com/mnews/article/028/0001938195 | accessed 2026-09-25T12:56:03-0400 | snapshot roster/sources/budget/news/naver_028_0001938195.html (28일 총선 출마를 위해 사의, 2월1일 전후 사표 수리 예정)",
+    "BigKinds metadata search, query '장병완 사표' 2008-01-28..2008-02-12 | KBS 2008-02-09 '오늘 18대 총선 공직 사퇴 시한' lists 장병완 기획예산처 장관 among officials who resigned by the deadline | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T12:56:34-0400 | snapshot roster/sources/budget/news/bigkinds_2008-01-28_2008-02-12_93e5112042.json",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 장병완 퇴임일 2008년 2월 4일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "부산일보 2008-02-04 12:06:00 '공천 출마자 사퇴시한 임박 참여정부 고위공직자 줄사퇴' (4일 ... 이날 이임식을 가진 장병완 기획예산처 장관, 지난 1일자로 사임한 이용섭 건설교통부 장관) | https://n.news.naver.com/mnews/article/082/0000166311 | accessed 2026-09-25T12:56:20-0400 | snapshot roster/sources/budget/verify/naver_082_0000166311.html",
+    "BigKinds metadata search, query '장병완 이임식' 2008-01-29..2008-02-12 | 아시아경제 2008-02-04 '장병완 \"조직개편, 디딤돌 될 것\"' (장 장관은 이날 오후 조달청에서 가진 이임식에서) and 매일경제 2008-02-04 | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T14:03:12-0400 | snapshot roster/sources/budget/verify/bigkinds_2008-01-29_2008-02-12_4ed9b6431c.json",
+    "재정경제부 역대장관 page (official, tier 2), section '기획예산처 역대장관' lists 1대 진념 1999.5.~2000.8., 2대 전윤철 2000.8.~2002.1., 3대 장승우 2002.1.~2003.2., 4대 박봉흠 2003.2.~2004.1., 5대 김병일 2004.1.~2005.1., 6대 변양균 2005.1.~2006.7., 7대 장병완 2006.7.~2008.2. | https://mofe.go.kr/mi/mh/his.do?menuNo=9020800 (requested as https://www.moef.go.kr/mi/mh/his.do?menuNo=9020800) | accessed 2026-09-25T13:48:59-0400 | snapshot roster/sources/budget/verify/moef_his.html",
+    "BigKinds metadata search, query '장병완' 2008-02-04..2008-02-08 | EBN 2008-02-04 (장 장관은 이날 오전 기획처 장관으로서의 마지막 간부회의를 주재), 아시아경제 2008-02-04 이임사 전문, 전남일보 2008-02-05 interview ('떠나는 소감은요') | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T21:35:49-0400 | snapshot roster/sources/budget/verify/bigkinds_2008-02-04_2008-02-08_84abf01805.json",
+    "BigKinds metadata search, query '기획예산처 장관 사표 수리' 2008-02-01..2008-02-12 | 매일신문 2008-02-12 사설 lists 장병완 among four vacant 장관직, 문화일보 2008-02-12 (기획예산처 ... 이미 총선출마를 위해 사퇴해 대행체제). No item dates the 사표 수리 | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T21:35:25-0400 | snapshot roster/sources/budget/verify/bigkinds_2008-02-01_2008-02-12_812eaea955.json"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Not an MP while minister. Later NA member for 광주 남구 (18th by-election 2010-07-28, 19th) and 광주 동구남구갑 (20th) per _rebuild/na_members/na_members_15_22.csv (mona_cd V8I36226)",
+   "transcript_check": "ok",
+   "transcript_notes": "18 valid meetings as 기획예산처장관 2006-08-25..2007-11-21, inside the spell. Meeting 34627 (2006-07-19, 국회운영위원회) is his confirmation hearing as 기획예산처장관후보자, two days before appointment (nominee role, not a minister appearance). Rows 'minister 기획예산처장관 장병완' dated 2002-07-12, 2003-02-12, 2003-09-03 (국회본회의) and 2003-11-25 (예산결산특별위원회) come from invalid hearing types with misattached dates and are ignored. He appears as 차관 2005-02-28..2006-06-29 (vice_minister), consistent with 관보 제15919호 (차관 2005-02-07). Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "Announced his resignation to run in the 2008-04-09 general election at the 2008-01-28 국무회의. The 이임식 was on 2008-02-04. The exact date the resignation was accepted was not found in the gazette (exits are not printed) or in the news searched, so end uses the 이임식 date, which matches Wikipedia. The office stayed vacant (차관 반장식 acting) until the ministry was abolished on 2008-02-29. Verifier check. no source was found that dates the formal acceptance (사표 수리) of the resignation. MBC 2008-01-29 expected acceptance around 2008-02-01. The 건교부 minister who resigned at the same time left on 2008-02-01 (1일자 사임, 부산일보 2008-02-04), the 노동부 minister held his 이임식 on the morning of 2008-02-04 (뉴시스). End kept at the 이임식 date 2008-02-04 (medium). The 선거법 deadline 2008-02-09 bounds it. Verifier resumed pass. New searches (Naver '장병완 사표 수리' and '기획예산처 장관 사표' 2008-01-30..02-08, BigKinds '장병완', '장병완 전 장관', '기획예산처 장관 사표 수리') again found no acceptance date. They show his last 간부회의 and 이임식 on 2008-02-04 and call him 전 장관 from 2008-02-05 (전남일보). End kept, medium."
+  },
+  {
+   "name": "박홍근",
+   "name_hanja": "朴洪根",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1969-10-08",
+   "gender": "M",
+   "ministry": "기획예산처",
+   "office_title": "기획예산처장관",
+   "deputy_pm": false,
+   "start": "2026-03-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21227호 (published 2026-04-27), 인사 item toc_seq I0000000000000001776666337115000 | per-person line reads '박홍근(朴洪根) 국무위원에 임함 기획예산처장관에 보함 2026. 3. 25.' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001776928762795000&tocId=I0000000000000001776666337115000&isTocOrder=N | PDF accessed 2026-09-25T07:06:08-0400 | snapshot roster/sources/budget/gazette/gazette_21227_20260427_I0000000000000001776666337115000.pdf",
+    "노컷뉴스 2026-03-25 13:41:08 \"'첫 정치인 출신' 박홍근 장관 \"대한민국 설계·운명 개척\"\" | https://n.news.naver.com/mnews/article/079/0004128858 | accessed 2026-09-24T22:45:51-0400 | snapshot roster/sources/budget/news/naver_079_0004128858.html (25일 취임식, 기획예산처 장관에 임명된 박홍근 장관)",
+    "뉴스1 2026-03-24 19:47:11 \"李대통령, 박홍근 장관 임명안 재가…25조 '전쟁 추경' 첫 임무\" | https://n.news.naver.com/mnews/article/421/0008846667 | accessed 2026-09-24T22:45:43-0400 | snapshot roster/sources/budget/news/naver_421_0008846667.html (24일 임명안 재가)",
+    "ko.wikipedia '대한민국 기획예산처 장관' | 박홍근 취임일 2026년 3월 25일 | https://ko.wikipedia.org/w/index.php?oldid=41899767 | accessed 2026-09-24T22:43:28-0400 | snapshot roster/sources/budget/wiki/wiki_대한민국_기획예산처_장관.json",
+    "관보 제21227호 (published 2026-04-27), re-read by the verifier in the harvest text corpus | per-person entry '박홍근(朴洪根) 국무위원에 임함 기획예산처장관에 보함 2026. 3. 25.' | harvest/gazette_text/20260427_21227_I0000000000000001776666337115000.txt (copy at roster/sources/budget/verify/gazette_text/20260427_21227_I0000000000000001776666337115000.txt)",
+    "헤럴드경제 2026-03-24 19:49:08 '[속보] 李대통령, 박홍근·황종우 장관 임명안 재가' (두 장관은 다음날인 25일부터 임기를 시작할 예정) | https://n.news.naver.com/mnews/article/016/0002618837 | accessed 2026-09-25T14:05:21-0400 | snapshot roster/sources/budget/verify/naver_016_0002618837.html",
+    "기획예산처 official site, 장관 주요약력 page, '2026년 3월~ 기획예산처장관' | https://www.mpb.go.kr/web/main/contents/M006-001-001 | accessed 2026-09-25T13:49:07-0400 | snapshot roster/sources/budget/verify/mpb_minister.html"
+   ],
+   "end": null,
+   "end_confidence": "high",
+   "end_sources": [
+    "뉴스1 2026-09-22 13:30:00 \"박홍근 \"낡은 사업 털고 성과 검증된 곳 재투자…재정 선순환\"\" | https://n.news.naver.com/mnews/article/421/0009186172 | accessed 2026-09-25T13:07:26-0400 | snapshot roster/sources/budget/news/naver_421_0009186172.html (2026-09-22, 박홍근 기획예산처 장관 개회사)",
+    "뉴시스 2026-09-22 08:54:41 \"국무회의 참석한 박홍근 기획예산처 장관\" | https://n.news.naver.com/mnews/article/003/0014206636 | accessed 2026-09-25T13:08:29-0400 | snapshot roster/sources/budget/news/naver_003_0014206636.html (2026-09-22 국무회의 참석)",
+    "국제신문 2026-09-23 17:59:17 \"대구도 ‘돔 유치’ 참전…부산 부지·재원 서둘러야 국비 선점\" | https://n.news.naver.com/mnews/article/658/0000156522 | accessed 2026-09-25T13:15:22-0400 | snapshot roster/sources/budget/news/naver_658_0000156522.html (2026-09-23 article refers to him as sitting 장관)",
+    "기획예산처 official site, 장관 주요약력 page, shows 박홍근 as the current minister ('2026년 3월~ 기획예산처장관') | https://www.mpb.go.kr/web/main/contents/M006-001-001 | accessed 2026-09-25T13:49:07-0400 | snapshot roster/sources/budget/verify/mpb_minister.html",
+    "의안정보시스템 harvest (harvest/likms_cabinet_bills.csv, fetched 2026-09-24): the 2026-09-03 reshuffle requests ZZ22131..ZZ22136 (재정경제부, 법무부, 국방부, 성평등가족부, 국토교통부, 중소벤처기업부) contain no 기획예산처장관 nominee, and no 기획예산처 request exists after ZZ22107",
+    "관보 harvest corpus complete through 2026-09 (harvest/GAZETTE_DONE 2026-09-25T13:06:46-0400): no 기획예산처장관 appointment notice after 관보 제21227호 (2026-04-27). Absence is not proof, listed only as consistency"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "Sitting 22nd NA member (더불어민주당, 서울 중랑구을), also 19th-21st, per _rebuild/na_members/na_members_15_22.csv (mona_cd S824682L)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript inputs end 2025-01. Verifier re-ran the check (roster/scripts/budget_verify_01_transcripts.py, valid hearing types only) with the same result.",
+   "notes": "First head of the re-created 기획예산처 (office created 2026-01-02, vacant until 2026-03-24 with 차관 임기근 acting). The President approved the appointment (재가) on 2026-03-24 and the gazette prints the appointment date 2026-03-25, the day of the 취임식. Birth date follows the NA record (1969-10-08). Wikipedia gives 1969-11-17. Still in office on 2026-09-24 per news through 2026-09-23. Verifier check. the official 기획예산처 site lists him as the current minister when accessed on 2026-09-25."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "진념",
+   "office_title": "기획예산처장관",
+   "nomination_date": "1999-05-24",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1999-05-24",
+   "sources": [
+    "연합뉴스 1999-05-24 10:03:00 \"<프로필> 진념 기획예산처장관\" | https://n.news.naver.com/mnews/article/001/0004517159 | accessed 2026-09-24T22:46:53-0400 | snapshot roster/sources/budget/news/naver_001_0004517159.html",
+    "BigKinds metadata search, query '진념 기획예산처장관' 1999-05-24..1999-05-26 | 세계일보 1999-05-25 '김대통령 대폭 개각 단행' | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T07:07:38-0400 | snapshot roster/sources/budget/news/bigkinds_1999-05-24_1999-05-26_0f736a3d9d.json"
+   ],
+   "notes": "Announced and appointed the same day in the 1999-05-24 reshuffle. No hearing for 국무위원 before 2005-07-28."
+  },
+  {
+   "nominee": "전윤철",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2000-08-07",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-08-07",
+   "sources": [
+    "동아일보 2000-08-07 19:38:00 \"8개부처 장관 경질…청와대 수석-차관급 주내 인사\" | https://n.news.naver.com/mnews/article/020/0000020130 | accessed 2026-09-24T22:47:35-0400 | snapshot roster/sources/budget/news/naver_020_0000020130.html",
+    "한국경제 2000-08-08 06:31:00 \"진념 경제팀 출범 .. 金대통령, 11개부처 개각 단행\" | https://n.news.naver.com/mnews/article/015/0000264519 | accessed 2026-09-24T22:48:14-0400 | snapshot roster/sources/budget/news/naver_015_0000264519.html"
+   ],
+   "notes": "Announced and appointed (임명장) the same day."
+  },
+  {
+   "nominee": "장승우",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2002-01-29",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-01-29",
+   "sources": [
+    "관보 제15018호 (published 2002-02-02), 인사 item toc_seq 00000000000000001319020047126000 | appointment ◉2002년 1 월29일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020036040000&tocId=00000000000000001319020047126000&isTocOrder=N | PDF accessed 2026-09-24T22:44:15-0400 | snapshot roster/sources/budget/gazette/gazette_15018_20020202_00000000000000001319020047126000.pdf",
+    "파이낸셜뉴스 2002-01-29 18:40:00 \"교육부총리 이상주씨…장관급 9명 교체\" | https://n.news.naver.com/mnews/article/014/0000001694 | accessed 2026-09-24T22:49:35-0400 | snapshot roster/sources/budget/news/naver_014_0000001694.html"
+   ],
+   "notes": "Announced and appointed the same day."
+  },
+  {
+   "nominee": "박봉흠",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "관보 제15338호 (published 2003-03-05), 인사 item toc_seq 00000000000000001319026541100000 | appointment ◉2003년 2 월27일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N | PDF accessed 2026-09-24T22:44:28-0400 | snapshot roster/sources/budget/gazette/gazette_15338_20030305_00000000000000001319026541100000.pdf",
+    "연합뉴스 2003-02-27 13:57:46 \"<프로필> 박봉흠 기획예산처장관\" | https://n.news.naver.com/mnews/article/001/0000326575 | accessed 2026-09-24T22:49:45-0400 | snapshot roster/sources/budget/news/naver_001_0000326575.html"
+   ],
+   "notes": "First 노무현 cabinet, announced and appointed on 2003-02-27."
+  },
+  {
+   "nominee": "김병일",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2003-12-28",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2004-01-02",
+   "sources": [
+    "머니투데이 2003-12-28 11:18:00 \"박봉흠 정책실장등 장관급 4명 개각(상보)\" | https://n.news.naver.com/mnews/article/008/0000358288 | accessed 2026-09-25T12:58:00-0400 | snapshot roster/sources/budget/news/naver_008_0000358288.html (28일 내정, 예산안 통과 후 공식 임명 방침)",
+    "이데일리 2003-12-28 11:33:00 \"정책실장 박봉흠·기획예산 김병일 건교(상보)\" | https://n.news.naver.com/mnews/article/018/0000109693 | accessed 2026-09-25T12:58:01-0400 | snapshot roster/sources/budget/news/naver_018_0000109693.html",
+    "관보 제15591호 (published 2004-01-08), 인사 item toc_seq 00000000000000001319029745725000 | appointment ⊙2004년 1 월 2 일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029738184000&tocId=00000000000000001319029745725000&isTocOrder=N | PDF accessed 2026-09-24T22:48:31-0400 | snapshot roster/sources/budget/gazette/gazette_15591_20040108_00000000000000001319029745725000.pdf",
+    "머니투데이 2004-01-02 11:09:00 (임명장 2004-01-02) | https://n.news.naver.com/mnews/article/008/0000359850 | accessed 2026-09-25T13:58:01-0400 | snapshot roster/sources/budget/verify/naver_008_0000359850.html"
+   ],
+   "notes": "Named (내정) on 2003-12-28. Formal appointment deferred until the 2004 budget passed the Assembly."
+  },
+  {
+   "nominee": "변양균",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2005-01-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2005-01-28",
+   "sources": [
+    "연합뉴스 2005-01-27 17:07:00 \"<프로필> 변양균 기획예산처 장관\" | https://n.news.naver.com/mnews/article/001/0000897207 | accessed 2026-09-24T22:51:03-0400 | snapshot roster/sources/budget/news/naver_001_0000897207.html",
+    "관보 제15912호 (published 2005-02-02), 인사 item toc_seq 00000000000000001319033722750000 | appointment ⊙2005년 1 월28일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033714178000&tocId=00000000000000001319033722750000&isTocOrder=N | PDF accessed 2026-09-24T22:51:40-0400 | snapshot roster/sources/budget/gazette/gazette_15912_20050202_00000000000000001319033722750000.pdf",
+    "BigKinds 2005-01-26..29 snapshot roster/sources/budget/verify/bigkinds_2005-01-26_2005-01-29_d2ee535498.json (경향신문 2005-01-28: 27일 발표 승진 임명, 이데일리 2005-01-28: 28일 취임) | accessed 2026-09-25T13:58:53-0400"
+   ],
+   "notes": "Announced 2005-01-27 (profiles published that afternoon), appointed 2005-01-28. Before the 2005-07-28 extension of hearings to all 국무위원."
+  },
+  {
+   "nominee": "장병완",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2006-07-03",
+   "request_date": "2006-07-06",
+   "likms_bill_id": "035808",
+   "hearing_dates": [
+    "2006-07-19"
+   ],
+   "hearing_committee": "국회운영위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-07-21",
+   "sources": [
+    "의안정보시스템 bill detail | ZZ1804 국무위원후보자(기획예산처장관 장병완) 인사청문요청안, 제안 2006-07-06, 회부 2006-07-06, 상정 2006-07-11, 처리 2006-07-20 경과보고서채택, 송부일 2006-07-20 | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=035808 | accessed 2026-09-24T22:52:23-0400 | snapshot roster/sources/budget/likms/likms_detail_035808.html",
+    "local file _rebuild/inputs/nominee_hearing_meetings.csv | 장병완 minister_nominee, 국회운영위원회, meeting 34627 '국무위원후보자(기획예산처장관 장병완) 인사청문회' 2006-07-19",
+    "연합뉴스 2006-07-03 15:37:00 \"경제부총리 권오규, 교육부총리 김병준(종합)\" | https://n.news.naver.com/mnews/article/001/0001346568 | accessed 2026-09-24T22:51:25-0400 | snapshot roster/sources/budget/news/naver_001_0001346568.html (3일 내정)",
+    "관보 제16304호 (published 2006-07-27), 인사 item toc_seq 00000000000000001319073717854000 | appointment ⊙2006년 7 월21일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319073704770000&tocId=00000000000000001319073717854000&isTocOrder=N | PDF accessed 2026-09-24T22:57:03-0400 | snapshot roster/sources/budget/gazette/gazette_16304_20060727_00000000000000001319073717854000.pdf",
+    "뉴시스 2006-07-03 15:36:00 (기획예산처 장관에는 장병완 현 차관이 자리를 이어받게 됐다, 3일 발표) | https://n.news.naver.com/mnews/article/003/0000122850 | accessed 2026-09-25T14:07:42-0400 | snapshot roster/sources/budget/verify/naver_003_0000122850.html"
+   ],
+   "notes": "Hearing on 2006-07-19 per the transcript meeting list. The likms 상정일 2006-07-11 is the date the request was placed on the committee agenda."
+  },
+  {
+   "nominee": "이혜훈",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2025-12-28",
+   "request_date": "2026-01-02",
+   "likms_bill_id": "PRC_V2I6N0I1S0E2Z1B8T1M2I3J3R9D8J3",
+   "hearing_dates": [
+    "2026-01-23",
+    "2026-01-24"
+   ],
+   "hearing_committee": "재정경제기획위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "withdrawn",
+   "outcome_date": "2026-01-25",
+   "sources": [
+    "의안정보시스템 bill detail | ZZ22102 국무위원후보자(기획예산처장관 이혜훈) 인사청문요청안, 제안 2026-01-02, 회부 2026-01-05, 상정 2026-01-13, 제431회 제3차 전체회의 2026-01-23 상정, 제4차 전체회의 2026-01-24 상정, no 처리일 or 처리결과 | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V2I6N0I1S0E2Z1B8T1M2I3J3R9D8J3 | accessed 2026-09-24T22:52:36-0400 | snapshot roster/sources/budget/likms/likms_detail_PRC_V2I6N0I1S0E2Z1B8T1M2I3J3R9D8J3.html",
+    "국민일보 2025-12-29 14:59:06 \"李, 이혜훈 향해 “국민 검증 받아야…내란 단절 표명 필요”\" | https://n.news.naver.com/mnews/article/005/0001823003 | accessed 2026-09-25T13:01:40-0400 | snapshot roster/sources/budget/news/naver_005_0001823003.html (2025-12-29 article says 전날 깜짝 지명)",
+    "노컷뉴스 2025-12-29 10:21:09 \"이준석, 격분한 국힘에 \"이혜훈 떠난 이유를 살펴야\" 질타\" | https://n.news.naver.com/mnews/article/079/0004099906 | accessed 2026-09-25T13:02:09-0400 | snapshot roster/sources/budget/news/naver_079_0004099906.html (2025-12-29 article says 앞서 전날 ... 지명)",
+    "뉴시스 2026-01-24 00:41:02 \"자정 넘긴 이혜훈 청문회…여야, 원펜타스·갑질의혹 등 전방위 질타(종합2보)\" | https://n.news.naver.com/mnews/article/003/0013728052 | accessed 2026-09-24T22:55:02-0400 | snapshot roster/sources/budget/news/naver_003_0013728052.html (23일 청문회, 자정 넘겨 계속)",
+    "뉴스1 2026-01-24 19:55:02 \"이혜훈 청문회 종료…野 \"즉각 사퇴\" 與 \"판단은 국민 몫\"(종합2보)\" | https://n.news.naver.com/mnews/article/421/0008732431 | accessed 2026-09-24T22:53:36-0400 | snapshot roster/sources/budget/news/naver_421_0008732431.html (article of 2026-01-24 19:55 opens with '국회 인사청문회가 종료된 가운데 24일 ...', i.e. reactions after the hearing, it does not date the hearing's end)",
+    "연합뉴스 2026-01-25 15:12:21 \"李대통령, 이혜훈 지명 철회…\"국민 눈높이 부합하지 않아\"(종합)\" | https://n.news.naver.com/mnews/article/001/0015865611 | accessed 2026-09-24T22:54:00-0400 | snapshot roster/sources/budget/news/naver_001_0015865611.html (25일 지명 철회, 지명 28일만)",
+    "연합뉴스 2026-01-05 12:09:45 \"이혜훈 기획예산처 장관 후보자, 재산 175억7천만원 신고\" | https://n.news.naver.com/mnews/article/001/0015829162 | accessed 2026-09-25T13:12:12-0400 | snapshot roster/sources/budget/news/naver_001_0015829162.html (5일 국회에 제출된 인사청문요청안)",
+    "연합뉴스 2025-12-28 14:37:03 '李대통령, 초대 기획예산처 장관에 보수 진영 이혜훈 파격발탁' (이재명 대통령은 28일 이 전 의원을 기획예산처 장관 후보자로 지명) | https://n.news.naver.com/mnews/article/001/0015816998 | accessed 2026-09-25T14:04:20-0400 | snapshot roster/sources/budget/verify/naver_001_0015816998.html",
+    "연합뉴스 2026-01-24 09:57:12 (photo caption: 이혜훈 후보자가 23일 ... 인사청문회에서 ..., and 국민의힘 on 24일 morning comments on the finished hearing) | https://n.news.naver.com/mnews/article/001/0015864763 | accessed 2026-09-24T22:53:16-0400 | snapshot roster/sources/budget/verify/naver_001_0015864763.html",
+    "뉴시스 2026-01-24 11:05:18 (이준석: '15시간 마라톤 청문회') | https://n.news.naver.com/mnews/article/003/0013728275 | accessed 2026-09-24T22:53:52-0400 | snapshot roster/sources/budget/verify/naver_003_0013728275.html",
+    "경향신문 2026-01-25 16:59:00 '빛 바랜 파격·통합··· 이 대통령, 청문회 이틀 만에 이혜훈 지명 철회' (이재명 대통령이 25일 ... 지명을 철회) | https://n.news.naver.com/mnews/article/032/0003423625 | accessed 2026-09-25T14:04:30-0400 | snapshot roster/sources/budget/verify/naver_032_0003423625.html",
+    "매일경제 2026-01-25 14:05:09 (자진사퇴 아닌 지명철회 결정) | https://n.news.naver.com/mnews/article/009/0005626813 | accessed 2026-09-24T22:54:16-0400 | snapshot roster/sources/budget/verify/naver_009_0005626813.html"
+   ],
+   "notes": "Former 17th, 18th and 20th NA member (not sitting). Nominated on 2025-12-28, before the office existed. 부칙 제4조 of 법률 제21065호 allowed a request before 2026-01-02, but likms records the 제안일자 as 2026-01-02 itself (news reports the request as submitted on 2026-01-05, the likms 회부일). The hearing began 2026-01-23 and ran past midnight. likms lists a 제4차 전체회의 on 2026-01-24, taken here as the continuation of the same hearing. No 인사청문경과보고서 was adopted. The President withdrew the nomination on 2026-01-25 (지명 철회, not a self-withdrawal). Verifier check. the hearing was a single sitting on 2026-01-23 that ran past midnight. The likms 제4차 전체회의 dated 2026-01-24 is the 차수 변경 after midnight, and reactions to the finished hearing appear from the morning of 2026-01-24 (연합뉴스 09:57). Both dates stay in hearing_dates as meeting dates of the one hearing. The outcome is a presidential 지명 철회, not a self-withdrawal (매일경제 2026-01-25)."
+  },
+  {
+   "nominee": "박홍근",
+   "office_title": "기획예산처장관",
+   "nomination_date": "2026-03-02",
+   "request_date": "2026-03-06",
+   "likms_bill_id": "PRC_M2E6N0Y3I0X6T1G8L1I0K0Y6M3E0V7",
+   "hearing_dates": [
+    "2026-03-23"
+   ],
+   "hearing_committee": "재정경제기획위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2026-03-25",
+   "sources": [
+    "의안정보시스템 bill detail | ZZ22107 국무위원후보자(기획예산처장관 박홍근) 인사청문요청안, 제안 2026-03-06, 회부 2026-03-09, 상정 2026-03-17, 처리 2026-03-24 가결, 제433회 제2차 (03-17), 제3차 (03-23), 제4차 (03-24) 전체회의 | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M2E6N0Y3I0X6T1G8L1I0K0Y6M3E0V7 | accessed 2026-09-24T22:52:49-0400 | snapshot roster/sources/budget/likms/likms_detail_PRC_M2E6N0Y3I0X6T1G8L1I0K0Y6M3E0V7.html",
+    "조선일보 2026-03-02 14:32:42 \"기획예산처 장관에 박홍근 의원 지명\" | https://n.news.naver.com/mnews/article/023/0003961946 | accessed 2026-09-24T22:54:40-0400 | snapshot roster/sources/budget/news/naver_023_0003961946.html (2일 지명)",
+    "JTBC 2026-03-02 14:32:37 \"기획예산처 장관 후보자에 박홍근·해수부엔 황종우 지명\" | https://n.news.naver.com/mnews/article/437/0000480973 | accessed 2026-09-24T22:54:48-0400 | snapshot roster/sources/budget/news/naver_437_0000480973.html",
+    "뉴스1 2026-03-24 19:47:11 \"李대통령, 박홍근 장관 임명안 재가…25조 '전쟁 추경' 첫 임무\" | https://n.news.naver.com/mnews/article/421/0008846667 | accessed 2026-09-24T22:45:43-0400 | snapshot roster/sources/budget/news/naver_421_0008846667.html (23일 인사청문회, 24일 경과보고서 여야 합의 채택 및 임명안 재가)",
+    "더팩트 2026-03-24 19:51:11 \"李 대통령, 기획예산처 박홍근·해양수산부 황종우 장관 임명\" | https://n.news.naver.com/mnews/article/629/0000484853 | accessed 2026-09-24T22:45:42-0400 | snapshot roster/sources/budget/news/naver_629_0000484853.html",
+    "관보 제21227호 (published 2026-04-27), 인사 item toc_seq I0000000000000001776666337115000 | appointment 2026. 3. 25. | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001776928762795000&tocId=I0000000000000001776666337115000&isTocOrder=N | PDF accessed 2026-09-25T07:06:08-0400 | snapshot roster/sources/budget/gazette/gazette_21227_20260427_I0000000000000001776666337115000.pdf",
+    "조선비즈 2026-03-02 14:35:08 '李, 기획예산처 장관 후보자에 與 박홍근 의원 지명' (이재명 대통령이 2일 ...) | https://n.news.naver.com/mnews/article/366/0001145311 | accessed 2026-09-24T22:54:44-0400 | snapshot roster/sources/budget/verify/naver_366_0001145311.html",
+    "이데일리 2026-03-24 19:56:13 '李대통령, 박홍근·황종우 장관 임명안 재가' (국회는 이날 오후 전체회의를 열고 ... 인사청문경과보고서를 의결, 전날 열린 박 후보자 인사청문회) | https://n.news.naver.com/mnews/article/018/0006242039 | accessed 2026-09-25T14:05:17-0400 | snapshot roster/sources/budget/verify/naver_018_0006242039.html",
+    "의안정보시스템 bill text re-read by the verifier (harvest/likms/PRC_M2E6N0Y3I0X6T1G8L1I0K0Y6M3E0V7.txt): 제433회 제2차 (2026-03-17), 제3차 (2026-03-23), 제4차 (2026-03-24) 전체회의, 처리 2026-03-24 가결"
+   ],
+   "notes": "Sitting MP. Hearing 2026-03-23. The committee adopted the 경과보고서 on 2026-03-24 (likms 처리결과 '가결'). The President approved the appointment on 2026-03-24 and the gazette appointment date is 2026-03-25."
+  }
+ ],
+ "acting": [
+  {
+   "name": "장병완",
+   "role": "기획예산처 차관, 장관 직무대행 (장관 공석)",
+   "from": "2006-07-04",
+   "to": "2006-07-20",
+   "sources": [
+    "연합뉴스 2006-07-03 15:37:00 \"경제부총리 권오규, 교육부총리 김병준(종합)\" | https://n.news.naver.com/mnews/article/001/0001346568 | accessed 2026-09-24T22:51:25-0400 | snapshot roster/sources/budget/news/naver_001_0001346568.html (예산처는 후임 장관이 임명될 때까지 차관 대행체제로 운영)",
+    "동아일보 2006-07-05 03:55:00 \"盧대통령 “속이 아프다”…개각비판 관련 심경 토로\" | https://n.news.naver.com/mnews/article/020/0000357283 | accessed 2026-09-25T13:10:35-0400 | snapshot roster/sources/budget/news/naver_020_0000357283.html (4일 국무회의에 장관 대행으로 참석)",
+    "관보 제15919호 (published 2005-02-14), 인사 item toc_seq 00000000000000001319033801492000 | 장병완 기획예산처 차관 임명 ⊙2005년 2 월 7 일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319033795184000&tocId=00000000000000001319033801492000&isTocOrder=N | PDF accessed 2026-09-24T22:52:44-0400 | snapshot roster/sources/budget/gazette/gazette_15919_20050214_00000000000000001319033801492000.pdf"
+   ]
+  },
+  {
+   "name": "반장식",
+   "role": "기획예산처 차관, 장관 직무대행 (장관 공석, 대행체제)",
+   "from": "2008-02-05",
+   "to": "2008-02-28",
+   "sources": [
+    "연합뉴스 2008-02-24 06:50:34 \"<새 정부, '원격조정'으로 스타트>\" | https://n.news.naver.com/mnews/article/001/0001972274 | accessed 2026-09-25T13:03:31-0400 | snapshot roster/sources/budget/news/naver_001_0001972274.html (장병완 전 장관이 이미 사직, 반장식 차관이 업무)",
+    "경향신문 2008-02-24 18:18:02 \"李정부 출범하지만, 새 경제장관 내정자 청사밖서 ‘임시업무’\" | https://n.news.naver.com/mnews/article/032/0001942107 | accessed 2026-09-25T13:03:44-0400 | snapshot roster/sources/budget/news/naver_032_0001942107.html",
+    "문화일보 2008-02-12 14:00:00 \"김만복 前 원장 내주초 검찰에 불려갈 듯\" | https://n.news.naver.com/mnews/article/021/0001939469 | accessed 2026-09-25T12:56:29-0400 | snapshot roster/sources/budget/news/naver_021_0001939469.html (2008-02-12, 기획예산처는 장관 사퇴로 대행체제)",
+    "관보 제16492호 (published 2007-04-26), 인사 item toc_seq 00000000000000001319076952479000 | 반장식 기획예산처 차관 임명 ⊙2007년 4 월20일자 | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319076938475000&tocId=00000000000000001319076952479000&isTocOrder=N | PDF accessed 2026-09-25T06:46:49-0400 | snapshot roster/sources/budget/gazette/gazette_16492_20070426_00000000000000001319076952479000.pdf",
+    "매일신문 2008-02-12 11:57:00 사설 (비어 있는 장관직 ... 장병완 기획예산처 장관 ... 내각을 떠났다) | https://n.news.naver.com/mnews/article/088/0000088205 | accessed 2026-09-25T12:56:30-0400 | snapshot roster/sources/budget/verify/naver_088_0000088205.html"
+   ]
+  },
+  {
+   "name": "임기근",
+   "role": "기획예산처 차관, 장관 직무대행 (신설 부처 장관 미임명)",
+   "from": "2026-01-02",
+   "to": "2026-03-24",
+   "sources": [
+    "관보 제21200호 (published 2026-03-19), 인사 item toc_seq I0000000000000001773621122411000 | per-person line reads '임기근(林岐根) 기획예산처 차관에 임함 2026. 1. 2.' | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001773744076284000&tocId=I0000000000000001773621122411000&isTocOrder=N | PDF accessed 2026-09-25T07:06:37-0400 | snapshot roster/sources/budget/gazette/gazette_21200_20260319_I0000000000000001773621122411000.pdf",
+    "뉴스1 2026-01-08 15:00:00 \"임기근 기획처 장관대행 \"李정부 국정철학, 내년 예산안에 반영\"\" | https://n.news.naver.com/mnews/article/421/0008703684 | accessed 2026-09-25T13:06:15-0400 | snapshot roster/sources/budget/news/naver_421_0008703684.html (2026-01-08 임기근 기획예산처 장관 직무대행)",
+    "연합뉴스 2026-03-24 14:22:46 \"임기근 \"내년 예산, 적극 재정으로 국정 성과 본격 증명\"\" | https://n.news.naver.com/mnews/article/001/0015978447 | accessed 2026-09-25T13:04:46-0400 | snapshot roster/sources/budget/news/naver_001_0015978447.html (2026-03-24 임기근 기획예산처 장관 직무대행 차관)",
+    "MBN 2026-03-24 20:01:16 (기획예산처도 지난 1월 2일 공식 출범한 지 81일 만에 대행 체제에서 벗어나게 됐다) | https://n.news.naver.com/mnews/article/057/0001941368 | accessed 2026-09-25T14:05:19-0400 | snapshot roster/sources/budget/verify/naver_057_0001941368.html",
+    "뉴시스 2026-02-21 10:52:33 (1월2일 신설된 기획처는 현재까지 50일째 임기근 장관 직무대행 차관 체제) | https://n.news.naver.com/mnews/article/003/0013779539 | accessed 2026-09-25T14:05:04-0400 | snapshot roster/sources/budget/verify/naver_003_0013779539.html"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "장병완 end date 2008-02-04 rests on the 이임식 date (연합뉴스, 문화일보) and Wikipedia. The date the resignation was formally accepted (의원면직) was not found. News of 2008-01-28 said acceptance was expected around 2008-02-01, and the 2008-02-09 filing deadline bounds it."
+  },
+  {
+   "severity": "low",
+   "desc": "변양균 end date set to 2006-07-04, the day he received the 임명장 as 대통령 정책실장. Wikipedia gives 2006-07-03. 장병완 attended the 2006-07-04 국무회의 as 장관 대행, so the acting period and the spell touch on that day. Verifier resumed pass. 서울경제 2006-07-04 has the 임명장 before the 국무회의, so the handover to the 차관 on 2006-07-04 is same-day. Severity lowered, end_confidence high."
+  },
+  {
+   "severity": "low",
+   "desc": "Same-day handovers used where the outgoing minister moved to another post on the successor's appointment date (2000-08-07 진념, 2002-01-29 전윤철, 2004-01-02 박봉흠). The Wikipedia list gives the predecessor's end one day earlier in each case (2000-08-06, 2002-01-28, 2004-01-01)."
+  },
+  {
+   "severity": "low",
+   "desc": "장승우 end inferred from the successor (2003-02-27). Wikipedia gives 2003-02-26. A 2003-02-26 news item still calls him the sitting minister."
+  },
+  {
+   "severity": "low",
+   "desc": "김병일 end 2005-01-27 is the day the resignation was accepted (사표 수리, 동아일보 2005-01-27, 경향신문 2005-01-28) and of the 이임식. The successor was appointed 2005-01-28. Hanja differs between the gazette (金炳日, used) and Wikipedia (金秉日)."
+  },
+  {
+   "severity": "low",
+   "desc": "진념 was 기획예산위원회 위원장 (not a 국무위원) up to the 1999-05-24 reorganization and was appointed first 기획예산처장관 that day. reorg_continuation=true and reappointed_on_reorg=true describe this, but there is no in-scope predecessor spell."
+  },
+  {
+   "severity": "low",
+   "desc": "Vacancies with acting heads are 2006-07-04..2006-07-20 (차관 장병완), 2008-02-05..2008-02-28 (차관 반장식, ministry abolished 2008-02-29 without a new minister), 2026-01-02..2026-03-24 (차관 임기근, first nominee 이혜훈 withdrawn 2026-01-25). No other gaps. Handovers on 2000-08-07, 2002-01-29, 2003-02-27 and 2004-01-02 are same-day. 김병일 (end 2005-01-27) to 변양균 (start 2005-01-28) has no vacant day."
+  },
+  {
+   "severity": "low",
+   "desc": "Budget functions outside this lineage's window sat inside 재정경제원 until 1998-02-27 and inside 기획재정부 from 2008-02-29 to 2026-01-01 (offices.json lineage_overlaps, primary key finance). 기획예산위원회 and 예산청 (1998-02-28..1999-05-23) were not 국무위원 offices. Nobody from the budget lineage continued across the 2008-02-29 or 2026-01-02 reorganizations."
+  },
+  {
+   "severity": "low",
+   "desc": "For 이혜훈 the likms 제안일자 is 2026-01-02, while news reports the request as submitted to the Assembly on 2026-01-05 (the likms 회부일). The lead that 부칙 제4조 let the request precede the office holds for the nomination (2025-12-28) but the likms request date equals the office's first day."
+  },
+  {
+   "severity": "low",
+   "desc": "박홍근 birth date differs between the NA record (1969-10-08, used) and Wikipedia (1969-11-17)."
+  },
+  {
+   "severity": "medium",
+   "desc": "Old panel errors for this lineage (leads only). 박봉흠 end 2004-07-01, 김병일 2004-07-01..2006-02-10, 변양균 2006-02-10..2007-01-03 and 장병완 end 2008-02-24 are wrong. 진념, 전윤철, 장승우 (기획예산처) and 박홍근 are missing. The old 구윤철 row (기획재정부 from 2026-01-02) belongs to the finance lineage, not this one."
+  },
+  {
+   "severity": "low",
+   "desc": "Transcript noise was ignored. The rows '기획예산처장관 변양균' 2000-07-22 (예산결산특별위원회) and '기획예산처장관 장병완' 2002-07-12, 2003-02-12, 2003-09-03 (국회본회의), 2003-11-25 (예산결산특별위원회) are invalid hearing types. The coverage_gaps lead 최경수 is a 장관정책보좌관, not a minister."
+  },
+  {
+   "severity": "low",
+   "desc": "Gazette harvest was incomplete at build time (no GAZETTE_DONE, corpus 2001-01..2016-03). Windows 2025-12-20..2026-04-30 were queried directly with src.gazette_search (budget_02_gazette.py). No gazette query after 2026-04-30. Continuity to 2026-09-24 rests on news (박홍근 as sitting minister on 2026-09-22 and 2026-09-23). Pre-2001 spells (진념 start, 전윤철 start) rest on news only because no digital gazette exists before 2001. Verifier update. The harvest finished (GAZETTE_DONE 2026-09-25T13:06:46-0400, months 2001-01..2026-09). A grep of the full corpus for 기획예산처장관 (letter-spacing allowed) finds only the notices of 2002-01-29, 2003-02-27, 2004-01-02, 2005-01-28, 2006-07-21 and 2026-03-25, all mapped to spells. The official 기획예산처 site lists 박홍근 as minister on 2026-09-25."
+  },
+  {
+   "severity": "low",
+   "desc": "name_en left null for all persons. No official or NA romanization was found in the sources consulted (Wikipedia romanizations exist for 전윤철 and 박봉흠 but are not official). Birth dates for non-MPs come from Wikipedia only (secondary)."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier check. 변양균 end 2006-07-04 and 장병완 end 2008-02-04 remain medium. For 변양균 the only alternative (2006-07-03) is Wikipedia. For 장병완 no source dates the formal 사표 수리, and the end is the 이임식 date. Verifier resumed pass. 변양균 raised to high (see changes). 장병완 stays medium."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier check. 진념's start 1999-05-24 is the reported appointment day. The 임명장 ceremony for the 5.24 reshuffle was on 1999-05-26 (연합뉴스). No 1999 gazette file exists to settle the legal date."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T21:38:49-0400",
+  "verifier": "adversarial verifier, lineage budget",
+  "per_spell": {
+   "진념|1999-05-24": "confirmed",
+   "전윤철|2000-08-07": "confirmed",
+   "장승우|2002-01-29": "confirmed",
+   "박봉흠|2003-02-27": "confirmed",
+   "김병일|2004-01-02": "corrected",
+   "변양균|2005-01-28": "corrected",
+   "장병완|2006-07-21": "confirmed",
+   "박홍근|2026-03-25": "confirmed"
+  },
+  "changes": [
+   {
+    "name": "김병일",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "동아일보 2005-01-27 '이날 사표가 수리된 김병일 기획예산처 장관' | 경향신문 2005-01-28 '노무현 대통령은 27일 ... 김병일 기획예산처 장관의 사표를 수리하고' | also 한국일보, 국제신문 2005-01-28. BigKinds snapshot roster/sources/budget/verify/bigkinds_2005-01-26_2005-01-29_d2ee535498.json (accessed 2026-09-25T13:58:53-0400)"
+   },
+   {
+    "name": "김병일",
+    "field": "notes",
+    "old": "The date the resignation was formally accepted was not found.",
+    "new": "Resignation accepted (사표 수리) on 2005-01-27.",
+    "evidence": "same as above"
+   },
+   {
+    "name": "이혜훈 (nomination)",
+    "field": "sources[뉴스1 421/0008732431 annotation]",
+    "old": "(24일 청문회 종료)",
+    "new": "annotation corrected, the article reports reactions after a hearing that had already ended, it does not date the end",
+    "evidence": "뉴스1 2026-01-24 19:55 text; 연합뉴스 2026-01-24 09:57 and 뉴시스 2026-01-24 00:41 show the hearing began 01-23 and ran past midnight"
+   },
+   {
+    "name": "김병일",
+    "field": "issues",
+    "old": "end is the 이임식 date, no formal acceptance date found",
+    "new": "acceptance date found (2005-01-27)",
+    "evidence": "see end_confidence change"
+   },
+   {
+    "name": "(lineage)",
+    "field": "issues",
+    "old": "gazette corpus incomplete, no query after 2026-04-30",
+    "new": "complete corpus grepped, no unmapped notice",
+    "evidence": "harvest/gazette_text grep, roster/sources/budget/verify/gazette_text/"
+   },
+   {
+    "name": "변양균",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "BigKinds metadata search, query '변양균 임명장' 2006-07-04..2006-07-05 | 서울경제 2006-07-04 '(4일)' schedule item (news_id 02100311.20160318012926929) reads '노무현 대통령은 오전 청와대에서 변양균 신임 청와대 정책실장에게 임명장을 수여한 뒤 국무회의를 주재한다', so the 정책실장 appointment came before the 2006-07-04 국무회의 that 장병완 attended as 장관 대행. 파이낸셜뉴스 2006-07-04 (4일 오전 임명장) and 동아일보, 매일경제, 중도일보 2006-07-04 (3일 내정) in the same result | https://www.bigkinds.or.kr/api/news/search.do | accessed 2026-09-25T21:37:40-0400 | snapshot roster/sources/budget/verify/bigkinds_2006-07-04_2006-07-05_1ab49b3a5f.json | together with 연합뉴스 2006-07-03 15:37 (내정자는 임명장을 받는대로 청와대에 근무, 예산처는 차관 대행체제) and 동아일보 2006-07-05 (4일 국무회의에 장병완 차관이 장관 대행으로 참석). The move to 정책실장 took effect with the 임명장 on the morning of 2006-07-04, so 2006-07-04 is his last day. The only source for 2006-07-03 is Wikipedia."
+   }
+  ],
+  "completeness": [
+   "Independent holder list: 재정경제부 (mofe.go.kr) 역대장관 page, section 기획예산처 역대장관, lists exactly the 7 ministers of 1999-2008 in the same order and months (not used by the builder).",
+   "Gazette corpus 2001-01..2026-09 grepped for 기획예산처 near 국무위원/장관에 보함 with letter-spacing allowed. Every notice maps to a spell (6 notices, plus the 2002-01-29 exit line for 전윤철). No 기획예산처장관 notice in the 2008-02-25..28 window or after 2026-04-27.",
+   "Transitions: 2003 holdover 장승우 included (sitting minister in 2003-02-25/26 news). 2008-02-25..28 vacancy under 이명박 with 차관 acting until abolition. No office in 1998, 2013, 2017, 2022, 2025.",
+   "Election resignations: only 장병완 (2008 general election). No lineage minister resigned for 2000, 2002, 2004, 2006 elections or for the 2026-06-03 local elections and by-elections (박홍근 in office through 2026-09-25).",
+   "2025-2026: 이혜훈 (nominated 2025-12-28, withdrawn 2026-01-25) and 박홍근 (nominated 2026-03-02, appointed 2026-03-25). February 2026 news reports no other nominee in between. The 2026-09-03 reshuffle did not include 기획예산처.",
+   "likms harvest has exactly 3 기획예산처 bills (ZZ1804, ZZ22102, ZZ22107), all present in nominations.",
+   "Transcripts (valid types) show only the listed ministers, plus the variant spelling 진임 (=진념) and 최경수 (장관정책보좌관, not a minister)."
+  ],
+  "transcript_check": "roster/scripts/budget_verify_01_transcripts.py, output roster/sources/budget/verify/transcript_check.json. 61 valid minister rows, all inside the named person's spell.",
+  "continuity": "roster/scripts/budget_verify_05_continuity.py. Same-day handovers 2000-08-07, 2002-01-29, 2003-02-27, 2004-01-02. No vacant day 2005-01-27/28. Gaps 2006-07-05..07-20 (acting 장병완 from 07-04), 2008-02-05..02-28 (acting 반장식), 2026-01-02..03-24 (acting 임기근). All explained.",
+  "field_hygiene": "appointing_president matches the start date for all 8 spells, none by an acting president. deputy_pm false throughout (no 부총리 title for this office in offices.json). No suspensions. reorg_continuation true only for 진념 (기획예산위원회 위원장 to 기획예산처장관 on 1999-05-24, new appointment so reappointed_on_reorg true). end_reason values consistent with the sources.",
+  "gazette_reread": "All 6 gazette-backed starts re-read in the harvest text corpus (장승우, 박봉흠, 김병일, 변양균, 장병완, 박홍근).",
+  "scripts": [
+   "roster/scripts/budget_verify_01_transcripts.py",
+   "roster/scripts/budget_verify_02_official_lists.py",
+   "roster/scripts/budget_verify_03_news.py",
+   "roster/scripts/budget_verify_04_bigkinds.py",
+   "roster/scripts/budget_verify_05_continuity.py",
+   "roster/scripts/budget_verify_06_build.py"
+  ],
+  "snapshots": "roster/sources/budget/verify/",
+  "resumed_pass": {
+   "run_at": "2026-09-25T21:38:49-0400",
+   "reason": "Workflow restarted. The earlier verifier pass had written this file, so this pass resumed from budget.verified.partial.json and re-checked it adversarially instead of rebuilding.",
+   "rechecks": [
+    "Gazette corpus (2,709 인사 items, GAZETTE_DONE present) re-grepped for 기획예산처장관 with letter-spacing allowed and for the hanja and letter-spaced names of all 8 ministers, 이혜훈, 반장식 and 임기근. Twelve 기획예산처장관 hits. Six are the appointment notices already mapped (2002-01-29, 2003-02-27, 2004-01-02, 2005-01-28, 2006-07-21, 2026-03-25), one is the 2002-01-29 exit line for 전윤철, five are 장관정책보좌관 items. No unmapped appointment.",
+    "Date headers re-read in 관보 제15018호 (◉2002년 1 월29일자, 장승우 and 전윤철 lines follow it) and 제15338호 (◉2003년 2 월27일자 is the only header, 박봉흠 line follows). 제15591호, 제15912호, 제16304호 and 제21227호 were read in the same grep output with their date lines.",
+    "Transcript bounds re-run (roster/scripts/budget_verify_01_transcripts.py). 61 valid minister rows, all inside the spells. A second query over rows whose person_name is a lineage minister but whose affiliation lacks 기획예산 found only their 재정경제부 and 해양수산부 posts, no hidden budget spell.",
+    "likms harvest: exactly three 기획예산처장관 bills (ZZ1804, ZZ22102, ZZ22107). na_hearing_requests_15_22.csv ends 2025-08-19 and has no 기획예산처 row. All three bills are in nominations.",
+    "NA member file confirms mp_hint for 장병완 (18th by-election, 19th, 20th) and 박홍근 (19th-22nd) and the 이혜훈 note (17th, 18th, 20th).",
+    "offices.json OF030, OF065, OF066, OF067 re-read. deputy_pm_title empty for both 기획예산처 periods, 기획예산위원회 and 예산청 not 국무위원. hearing_law_timeline puts 국무위원 hearings from 2005-07-28, matching hearing_required false for the 1999-2005 nominations."
+   ],
+   "scripts": [
+    "roster/scripts/budget_verify_07_resume.py",
+    "roster/scripts/budget_verify_03_news.py",
+    "roster/scripts/budget_verify_04_bigkinds.py",
+    "roster/scripts/budget_verify_01_transcripts.py"
+   ],
+   "new_snapshots": [
+    "roster/sources/budget/verify/bigkinds_2006-07-04_2006-07-05_1ab49b3a5f.json",
+    "roster/sources/budget/verify/bigkinds_2008-02-04_2008-02-08_84abf01805.json",
+    "roster/sources/budget/verify/bigkinds_2008-02-01_2008-02-12_812eaea955.json",
+    "roster/sources/budget/verify/bigkinds_2008-02-04_2008-02-12_0d8606bc48.json",
+    "roster/sources/budget/verify/naver_081_0001938590.html",
+    "roster/sources/budget/verify/naver_020_0001939373.html",
+    "roster/sources/budget/verify/naver_032_0001939362.html",
+    "roster/sources/budget/verify/naver_016_0000263417.html",
+    "roster/sources/budget/verify/naver_112_0001938440.html"
+   ]
+  }
+ },
+ "built_at_original": "2026-09-25T13:19:21-0400"
+}

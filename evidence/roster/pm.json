@@ -1,0 +1,1988 @@
+{
+ "lineage": "pm",
+ "built_at": "2026-09-25T13:48:52-0400",
+ "ministry_names": [
+  {
+   "ministry": "국무총리",
+   "from": "1998-02-25",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "대한민국헌법 제86조① (국회의 동의를 얻어 대통령이 임명), 제88조②③ (국무회의 부의장). The PM is not a 국무위원 but is in scope by design.",
+   "source": "offices.json (OF001, source CONST https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=61603&efYd=19880225)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "고건",
+   "name_hanja": "高建",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-01-02",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "1997-03-05",
+   "start_confidence": "medium",
+   "start_sources": [
+    "국무총리실 역대총리소개 '제30대 고건 (1997.03.05 ~ 1998.03.02)': 제30대 1997.03.05 ~ 1998.03.02; https://www.opm.go.kr/opm/_item/prime53.jsp (accessed 2026-09-24T22:44:31-0400; snapshot roster/sources/pm/opm/prime53.html)",
+    "BigKinds metadata: 문화일보 1997-03-06 '7개부처 포함 장관급 10명 경질/경제부총리 강경식씨' news_id 01100501.19970306000000102: 김영삼 대통령은 5일 고건 신임총리에게 임명장을 수여 (search '고건 총리 임명' 1997-03-04..1997-03-06, accessed 2026-09-25T13:01:45-0400; snapshot roster/sources/pm/bigkinds/bigkinds_goh97s.json)",
+    "BigKinds metadata: 서울신문 1997-03-06 '총리 이취임식/고 총리 공자말 인용 신뢰회복 강조' news_id 01100611.20160421072448335: 고건 국무총리는 5일 상오 11시 ... 이·취임식에 참석하는 것으로 총리로서의 공식업무를 시작 (search '고건 총리 임명' 1997-03-04..1997-03-06, accessed 2026-09-25T13:01:45-0400; snapshot roster/sources/pm/bigkinds/bigkinds_goh97s.json)",
+    "의안정보시스템 [150475] 국무총리(고건)임명동의의건 (정부), 제안 1997-03-04, 의결 1997-03-04 원안가결: 국회 임명동의 1997-03-04 원안가결; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=014022 (accessed 2026-09-24T22:45:42-0400; snapshot roster/sources/pm/likms/, text harvest/likms/014022.txt)",
+    "[verifier] BigKinds metadata: 서울경제 1997-03-06 '3·5 개각/새 내각 명단' news_id 02100311.20160315191811346: 고총리는 5일 상오 10시 청와대에서 임명장을 수여받은뒤 (search '고건 총리 임명' 1997-03-04..1997-03-06, accessed 2026-09-25T21:50:48-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_start.json)",
+    "[verifier] BigKinds metadata: 전북도민일보 1997-03-06 '[파발마]국정운영 협조당부' news_id 01601001.19970306150517011: 고건신임총리는 5일 오후 취임 인사차 김수한 국회의장을 (search '고건 총리 임명' 1997-03-04..1997-03-06, accessed 2026-09-25T21:50:48-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_start.json)"
+   ],
+   "end": "1998-03-03",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata: 한겨레 1998-03-04 '“연장근무로 퍽 곤혹 제청은 마지막 봉사”/고건 총리 이임' news_id 01101001.19980304000000502: 고건 총리가 김대중 대통령의 취임 이후에도 7일간 총리직을 수행하다가 3일 새 정부의 각료 제청을 끝으로 물러났다 (search '고건 총리 이임' 1998-03-02..1998-03-04, accessed 2026-09-25T13:02:05-0400; snapshot roster/sources/pm/bigkinds/bigkinds_goh98e.json)",
+    "BigKinds metadata: 중앙일보 1998-03-04 '[김종필 총리서리 내각]3.3組閣 관가 표정' news_id 01100901.19980304230249001: 이날 오전10시40분쯤 고건 총리가 김대중대통령에게 제청하고 퇴청 (search '김종필 총리서리 임명' 1998-03-03..1998-03-04, accessed 2026-09-25T13:02:15-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98s.json)",
+    "연합뉴스 1998-03-03 15:43:00 '金대통령 초대내각 임명장 수여 안팎': (3일 오후 신임 각료 임명장 수여식) 이 자리에는 이들 장관을 제청한 高 建전총리가 `현직총리' 자격으로 참석; https://n.news.naver.com/mnews/article/001/0004368749 (accessed 2026-09-24T22:44:23-0400; snapshot roster/sources/pm/news/naver_001_0004368749.html)",
+    "국무총리실 역대총리소개 '제30대 고건 (1997.03.05 ~ 1998.03.02)': OPM lists the last day as 1998.03.02; https://www.opm.go.kr/opm/_item/prime53.jsp (accessed 2026-09-24T22:44:31-0400; snapshot roster/sources/pm/opm/prime53.html)",
+    "[verifier] BigKinds metadata: 세계일보 1998-03-04 '떠나는 고건 전 총리의 “어색한 내각제청”' news_id 01100701.19980304000000405: 김대중 대통령은 3일 김영삼정부 마지막 총리였던 고건 전 총리로부터 내각 제청을 받아 초대 내각을 임명한 뒤 그의 사표를 수리했다 (search '고건 총리 사표' 1998-02-25..1998-03-05, accessed 2026-09-25T21:43:39-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh98_exit2.json)",
+    "[verifier] BigKinds metadata: 서울신문 1998-03-04 '새집 지어주고 물러난 고 총리/각료제청권 행사 “마지막 봉사”' news_id 01100611.20160421192330381: 3일 물러난 고건 전 국무총리는 (search '고건 총리 사표' 1998-02-25..1998-03-05, accessed 2026-09-25T21:43:39-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh98_exit2.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript window. kr-hearings-data v9 covers 2000-06 to 2025-01 (inputs/minister_role_meetings.csv).",
+   "notes": "Caretaker holdover of the 김영삼 government into the 김대중 term (1998-02-25 .. 1998-03-03). The consent vote on 김종필 was aborted on 1998-03-02, and 고건 recommended (제청) the first 김대중 cabinet on the morning of 1998-03-03 before 김종필 was named 서리 the same afternoon. The OPM page gives 1998.03.02 as the last day. This roster uses 1998-03-03 because two same-week reports place him in office as incumbent PM on that day (same-day handover). Start 1997-03-05 is the 임명장 day. The Assembly consent passed on 1997-03-04 (likms 150475), so 1997-03-04 is possible if the 재가 preceded the ceremony. [verifier] The resignation was accepted on 1998-03-03, after he had recommended the first 김대중 cabinet (세계일보 1998-03-04). Nomination and consent were both on 1997-03-04 (likms 150475, 세계일보 and 매일경제 1997-03-05) and the 임명장 on the morning of 03-05 (한국일보 1997-03-06). The start stays 1997-03-05."
+  },
+  {
+   "name": "김종필",
+   "name_hanja": "金鍾泌",
+   "name_en": "Kim, Jong-pil",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD PAR7137B, 김종필, NAAS_EN_NM 'Kim, Jong-pil', BIRDY_DT 1926-01-07); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_008.json)",
+   "birth_date": "1926-01-07",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "국무총리실 역대총리소개 '서리 김종필 (1998.03.03 ~ 1998.08.17)': 서리 김종필 1998.03.03 ~ 1998.08.17; https://www.opm.go.kr/opm/_item/prime54.jsp (accessed 2026-09-24T22:44:32-0400; snapshot roster/sources/pm/opm/prime54.html)",
+    "연합뉴스 1998-03-03 17:48:00 '金대통령, 金鍾泌총리서리 임명장 수여 안팎': 金大中대통령은 3일오후 ... 金鍾泌총리서리와 韓勝憲감사원장서리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0004371344 (accessed 2026-09-25T07:07:16-0400; snapshot roster/sources/pm/news/naver_001_0004371344.html)",
+    "BigKinds metadata: 세계일보 1998-03-04 '김종필 총리서리 임명/김 대통령,17부장관 조각' news_id 01100701.19980304000000101: 김종필 총리서리 임명/김 대통령,17부장관 조각 (search '김종필 총리서리 임명' 1998-03-03..1998-03-04, accessed 2026-09-25T13:02:15-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98s.json)",
+    "[verifier] BigKinds metadata: 동아일보 1998-03-04 ''JP 서리'첫날부터 위헌공방' news_id 01100401.19980304093705004: 김종필(金鍾泌)국무총리 서리체제는 출범 첫날인 3일부터 위헌시비에 휘말렸다 (search '김종필 총리서리' 1998-03-03..1998-03-04, accessed 2026-09-25T21:50:58-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp98_start.json)",
+    "[verifier] BigKinds metadata: 중앙일보 1998-08-19 '“대졸 1만명 인턴공무원 채용”김대통령 검토 지시' news_id 01100901.19980819031440001: 金대통령은 이날 청와대에서 김종필 총리에게 임명장을 수여하는 자리에서 (search '김종필 총리 임명장' 1998-08-17..1998-08-19, accessed 2026-09-25T21:51:06-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp98_formal.json)"
+   ],
+   "end": "2000-01-13",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "국무총리실 역대총리소개 '제31대 김종필 (1998.08.18 ~ 2000.01.12)': 제31대 김종필 1998.08.18 ~ 2000.01.12; https://www.opm.go.kr/opm/_item/prime55.jsp (accessed 2026-09-24T22:44:00-0400; snapshot roster/sources/pm/opm/prime55.html)",
+    "BigKinds metadata: 부산일보 2000-01-11 '김종필 총리 당 복귀' news_id 01500701.20000111112823003: 김종필 총리는 이날(11일) 국무회의 후 사표를 내고 자민련 명예총재로 당에 복귀 (search '김종필 총리 사표' 2000-01-10..2000-01-14, accessed 2026-09-25T13:02:35-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp00e.json)",
+    "BigKinds metadata: 경향신문 2000-01-14 '개각 뒷이야기 - 총선 맞물려 人選 오락가락' news_id 01100101.20000114000000301: successor 박태준 received his 임명장 on the afternoon of 2000-01-13 (search '박태준 총리 임명장' 2000-01-13..2000-01-14, accessed 2026-09-25T13:02:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00s.json)",
+    "[verifier] BigKinds metadata: 경향신문 2000-01-14 '개각 부처반응 - 예상넘은 큰폭에 놀라' news_id 01100101.20000114000000415: 김종필(金鍾泌) 전총리와 박태준(朴泰俊) 신임총리는 국회 총리임명동의안이 순조롭게 통과되자 이날 오후 6시 정부 중앙청사에서 총리 이.취임식을 갖고 공식적인 총리직 인수인계 절차를 마쳤다 (search '김종필 총리 이임식' 2000-01-11..2000-01-15, accessed 2026-09-25T21:43:41-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_exit.json)",
+    "[verifier] BigKinds metadata: 중도일보 2000-01-14 '[경제로비]큰 미련 두지 않아' news_id 01400351.20000114173908004: 박태준 신임 총리와 김종필 전 총리가 13일 저녁 세종로 종합청사에서 이·취임식을 마친 뒤 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json)",
+    "[verifier] BigKinds metadata: 경남신문 2000-01-14 '“총선 엄정·경제개혁 가속”' news_id 01500051.20000114140826101: 김종필(金鐘秘) 전 총리와 박태준(朴泰俊) 신임총리의 이.취업식이 13일 오후 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json)",
+    "[verifier] BigKinds metadata: 국제신문 2000-01-12 '보수 트로이카 바람몰이-자민련 총선체제 구축' news_id 01500401.20000112124807002: 자민련은 11일 총리직을 사임한김종필(金鍾泌)명예총재의 당 복귀와 이한동(李漢東)의원의 입당에 맞춰 총선지도체제 구축 작업을 일단락짓고 (search '김종필 명예총재 당 복귀 총선' 2000-01-10..2000-01-13, accessed 2026-09-25T22:01:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_run.json)",
+    "[verifier] BigKinds metadata: 전북도민일보 2000-01-12 '자민련 총재대행에 이한동씨' news_id 01601001.20000112150517008: 명예총재인 김종필 총리가 11일 당에 복귀하고 (search '김종필 명예총재 당 복귀 총선' 2000-01-10..2000-01-13, accessed 2026-09-25T22:01:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_run.json)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "서리",
+   "pm_acting_until": "1998-08-17",
+   "suspensions": [],
+   "mp_hint": "sitting 15th NA member (자유민주연합, 충남 부여군) from na_members_15_22.csv (mona_cd PAR7137B)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript window. kr-hearings-data v9 covers 2000-06 to 2025-01 (inputs/minister_role_meetings.csv).",
+   "notes": "Appointed 국무총리서리 on 1998-03-03 after the 1998-03-02 consent vote was aborted (ballot boxes sealed, likms 151132). Consent passed 1998-08-17 (likms 150985) and the formal 임명장 was given on the morning of 1998-08-18 (BigKinds metadata: 한국일보 1998-08-19 'DJ­JP 임명장 주고 받으며 모처럼 파안대소' news_id 01101101.19980819000000305 (search '김종필 총리 임명장' 1998-08-17..1998-08-19, accessed 2026-09-25T13:02:25-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98f.json); BigKinds metadata: 세계일보 1998-08-19 '꼬리떼낸 JP… 첫날부터 “날개단 행보”' news_id 01100701.19980819000000402 (search '김종필 총리 임명장' 1998-08-17..1998-08-19, accessed 2026-09-25T13:02:25-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98f.json)). pm_acting_until is the last day in 서리 status. Resigned to return to 자민련 as 명예총재 (부산일보 2000-01-11). His resignation was submitted on 2000-01-11 and the OPM page gives 2000.01.12 as the last day. No report of the exact acceptance date was found, so end_confidence is medium. [verifier] Resignation submitted 2000-01-11 when he returned to 자민련 to lead its 4.13 general-election campaign (국제신문 2000-01-12). He took part as outgoing PM in the joint 이·취임식 with 박태준 at 18:00 on 2000-01-13 (경향신문, 중도일보, 경남신문 2000-01-14). No acceptance date was reported, so end is the successor's appointment date (same-day handover). OPM gives 2000.01.12. He was elected as 자민련 list #1 in the 2000-04-13 general election."
+  },
+  {
+   "name": "박태준",
+   "name_hanja": "朴泰俊",
+   "name_en": "Park, Tae-joon",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD J4X86065, 박태준, NAAS_EN_NM 'Park, Tae-joon', BIRDY_DT 1927-09-29); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_013.json)",
+   "birth_date": "1927-09-29",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2000-01-13",
+   "start_confidence": "high",
+   "start_sources": [
+    "국무총리실 역대총리소개 '제32대 박태준 (2000.01.13 ~ 2000.05.18)': 제32대 박태준 2000.01.13 ~ 2000.05.18; https://www.opm.go.kr/opm/_item/prime56.jsp (accessed 2026-09-24T22:44:00-0400; snapshot roster/sources/pm/opm/prime56.html)",
+    "BigKinds metadata: 경향신문 2000-01-14 '개각 뒷이야기 - 총선 맞물려 人選 오락가락' news_id 01100101.20000114000000301: 박태준 총리 ... 이날(13일) 오후 김대통령으로부터 임명장을 받는 자리에서 (search '박태준 총리 임명장' 2000-01-13..2000-01-14, accessed 2026-09-25T13:02:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00s.json)",
+    "BigKinds metadata: 국제신문 2000-01-14 '발표직전까지 철통보안유지-개각 뒷얘기' news_id 01500401.20000114125315001: 청와대는 이날 박태준 총리 임명동의안이 국회에서 처리후인 오후 5시30분 임명장을 수여 (search '박태준 총리 임명장' 2000-01-13..2000-01-14, accessed 2026-09-25T13:02:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00s.json)",
+    "의안정보시스템 [152547] 국무총리(박태준)임명동의의건 (정부), 제안 2000-01-15, 의결 2000-01-13 원안가결: 국회 임명동의 2000-01-13 원안가결; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=016096 (accessed 2026-09-24T22:46:24-0400; snapshot roster/sources/pm/likms/, text harvest/likms/016096.txt)",
+    "[verifier] BigKinds metadata: 동아일보 2000-01-13 '[박태준총리 임명안 가결]野 10여명 찬성표 던진듯' news_id 01100401.20000113015630009: 국회는 13일 본회의를 열어 박태준(朴泰俊)국무총리지명자에 대한 임명동의안을 통과시켰다 (search '총리 이취임식' 2000-01-13..2000-01-15, accessed 2026-09-25T21:59:49-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x5.json)",
+    "[verifier] BigKinds metadata: 경인일보 2000-01-14 '4.13총선 엄정관리' news_id 01200201.20000114130206102: 朴泰俊신임총리는 13일 (search '총리 이취임식' 2000-01-13..2000-01-15, accessed 2026-09-25T21:59:49-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x5.json)"
+   ],
+   "end": "2000-05-19",
+   "end_confidence": "high",
+   "end_sources": [
+    "국민일보 2000-05-19 18:06:00 '박태준총리 사표 수리': 김대중대통령은 19일 ... 박태준총리의 사표를 수리했다; https://n.news.naver.com/mnews/article/005/0000001930 (accessed 2026-09-24T22:55:04-0400; snapshot roster/sources/pm/news/naver_005_0000001930.html)",
+    "한국경제 2000-05-19 16:31:00 '김대통령, 박태준 총리의 사표 수리': 김대중 대통령은 19일 ... 박태준 총리의 사표를 수리했다; https://n.news.naver.com/mnews/article/015/0000234965 (accessed 2026-09-24T22:55:12-0400; snapshot roster/sources/pm/news/naver_015_0000234965.html)",
+    "BigKinds metadata: 매일경제 2000-05-20 '박태준총리 사퇴, 후임 내주 임명...이재경장관 직무대행' news_id 02100101.20160115162603747: 김대중 대통령은 19일 ... 박태준 총리의 사표를 수리했다 (search '박태준 총리 사표 수리' 2000-05-19..2000-05-20, accessed 2026-09-25T13:03:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00e.json)",
+    "국무총리실 역대총리소개 '제32대 박태준 (2000.01.13 ~ 2000.05.18)': OPM lists the last day as 2000.05.18; https://www.opm.go.kr/opm/_item/prime56.jsp (accessed 2026-09-24T22:44:00-0400; snapshot roster/sources/pm/opm/prime56.html)",
+    "[verifier] BigKinds metadata: 전북일보 2000-05-20 '朴총리 사표 수리' news_id 01601101.20000520080107104: 김대중(金大中) 대통령은 19일 부동산 명의신탁파문으로 물의를 빚은 박태준(朴泰俊) 총리의 사표를 수리했다 (search '박태준 총리 사표 수리' 2000-05-19..2000-05-21, accessed 2026-09-25T21:43:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_ptj00_exit.json)",
+    "[verifier] BigKinds metadata: 충청투데이 2000-05-20 '착잡한 박총리' news_id 01400701.20000520230839001: 총리사표가 수리된 I9일 오전 박태준총리가 퇴임식을 위해 청사에 도착 (search '박태준 총리 사표 수리' 2000-05-19..2000-05-21, accessed 2026-09-25T21:43:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_ptj00_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 15th NA member (elected in the 1997-07-24 by-election as 무소속, 경북 포항시북구, later 자민련 총재) from na_members_15_22.csv (mona_cd J4X86065)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell ends before the transcript window. kr-hearings-data v9 covers 2000-06 to 2025-01 (inputs/minister_role_meetings.csv).",
+   "notes": "Resigned over a real-estate 명의신탁 scandal. The resignation was accepted on 2000-05-19 (three outlets that day). The OPM page gives 2000.05.18 as the last day, which conflicts with the same-day reports. 재정경제부장관 이헌재 acted as PM 2000-05-19 .. 2000-05-22 (acting[]), until 이한동 was appointed 서리 on 2000-05-23. likms shows the consent motion (152547) with 제안일자 2000-01-15, two days after its 2000-01-13 passage, which is a data error in likms (부산일보 2000-01-11 reports the motion was sent on 01-11)."
+  },
+  {
+   "name": "이한동",
+   "name_hanja": "李漢東",
+   "name_en": "Lee, Han-dong",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD NUX49887, 이한동, NAAS_EN_NM 'Lee, Han-dong', BIRDY_DT 1934-12-05); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_025.json)",
+   "birth_date": "1934-12-05",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2000-05-23",
+   "start_confidence": "high",
+   "start_sources": [
+    "국무총리실 역대총리소개 '서리 이한동 (2000.05.23 ~ 2000.06.28)': 서리 이한동 2000.05.23 ~ 2000.06.28; https://www.opm.go.kr/opm/_item/prime57.jsp (accessed 2026-09-24T22:44:01-0400; snapshot roster/sources/pm/opm/prime57.html)",
+    "BigKinds metadata: 충청투데이 2000-05-23 '새총리에 이한동씨' news_id 01400701.20000523231623001: 김 대통령은 23일 오전 9시30분 이 총리 지명자를 총리[서리로 임명] (search '이한동 총리 지명' 2000-05-21..2000-05-23, accessed 2026-09-25T13:05:32-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhd00n.json)",
+    "BigKinds metadata: 동아일보 2000-05-23 '金대통령-이한동총리서리 첫 대면 ＂극찬에 화답＂' news_id 01100401.20000523020438072: 후임총리 지명 후 23일 첫 대면한 김대중 대통령과 이한동 총리서리 (search '이한동 총리 지명' 2000-05-21..2000-05-23, accessed 2026-09-25T13:05:32-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhd00n.json)",
+    "국민일보 2000-05-23 21:33:00 '이한동 신임총리서리, 기자간담회': 이한동 신임총리서리는 23일 취임 기자간담회; https://n.news.naver.com/mnews/article/005/0000002782 (accessed 2026-09-25T13:02:07-0400; snapshot roster/sources/pm/news/naver_005_0000002782.html)",
+    "[verifier] BigKinds metadata: 강원도민일보 2000-05-24 '자민련, 金宗鑛대행 체제 출범' news_id 01300101.20000524222458002: 이한동 총재는 23일 자신의 총리서리 취임에 따라 김종호 부총재를 총재직무대행으로 임명했다 (search '이한동 총리서리 임명' 2000-05-22..2000-05-24, accessed 2026-09-25T21:51:22-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhd00_start.json)",
+    "[verifier] BigKinds metadata: 서울신문 2000-06-30 '李漢東총리 인준…국회임명동의안 가결' news_id 01100611.20160423013827310: 국회는 29일 본회의를 열어 이한동(李漢東) 국무총리 임명동의안을 가결했다 ... 38일 만에 (search '이한동 총리 임명장' 2000-06-29..2000-06-30, accessed 2026-09-25T21:51:34-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhd00_formal.json)",
+    "[verifier] BigKinds metadata: 경남신문 2000-06-30 '이한동 신임총리 김대통령，임명장' news_id 01500051.20000630215340101: 김 대통령은 이날 오후 청와대에서 국회의 임명동의절차를 마친 이한동신임총리에게 임명장을 수여하는 자리에서 (search '이한동 총리 임명장' 2000-06-29..2000-06-30, accessed 2026-09-25T21:51:34-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhd00_formal.json)"
+   ],
+   "end": "2002-07-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata: 한겨레 2002-07-12 '정치권 돌아온 이한동 전총리/“홀가분한 마음 의정활동 가슴속 ‘꿈’ 위해 진력”' news_id 01101001.20020712000000502: 이한동 총리가 25개월 19일만인 11일 다시 정치권으로 돌아갔다 ... 이임식 (search '이한동 총리 이임' 2002-07-10..2002-07-12, accessed 2026-09-25T13:05:42-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhd02e.json)",
+    "매일경제 2002-07-11 00:07:50 '[7.11 개각] 떠나는 이한동 前총리': 이 전 총리는 11일 기자간담회와 이임식장에서; https://n.news.naver.com/mnews/article/009/0000222389 (accessed 2026-09-24T22:55:58-0400; snapshot roster/sources/pm/news/naver_009_0000222389.html)",
+    "관보 제15150호 (published 2002-07-16, 인사발령): successor 장상 국무총리서리에 임함, ◉2002년 7월11일자; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023015056000&tocId=00000000000000001319023033715000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20020716_15150_00000000000000001319023033715000.pdf (accessed 2026-09-24T22:45:48-0400)",
+    "국무총리실 역대총리소개 '제33대 이한동 (2000.06.29 ~ 2002.07.10)': OPM lists the last day as 2002.07.10; https://www.opm.go.kr/opm/_item/prime58.jsp (accessed 2026-09-24T22:44:02-0400; snapshot roster/sources/pm/opm/prime58.html)",
+    "[verifier] BigKinds metadata: KBS 2002-07-11 '이한동 전 총리 이임, '꿈 실현위해 전력'' news_id 08100101.20020711192616001: 총리직에서 물러난 이한동 전 국무총리는 오늘 이임식에서 (search '이한동 총리 이임식' 2002-07-10..2002-07-13, accessed 2026-09-25T21:43:47-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhd02_exit.json)",
+    "[verifier] BigKinds metadata: 헤럴드경제 2002-07-11 '국무총리서리 장상씨' news_id 02100701.20160114042102560: 김대중 대통령은 11일 이한동(李漢東) 국무총리를 교체하고 후임 총리 서리에 장상(張裳) 이화여대 총장을 임명하는 (search '이한동 사표 수리' 2002-07-10..2002-07-12, accessed 2026-09-25T21:49:16-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhd02_exit2.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "서리",
+   "pm_acting_until": "2000-06-28",
+   "suspensions": [],
+   "mp_hint": "sitting NA member (15th NA to 2000-05-29 and 16th NA from 2000-05-30, 자유민주연합 총재, 경기 연천군포천군) from na_members_15_22.csv (mona_cd NUX49887)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No 'prime_minister' row under his name in the valid hearing types (상임위원회, 국정감사, 인사청문특별위원회). The audit coverage_gaps.csv lists him as panel_row_no_in_spell_speech.",
+   "notes": "Nominated 2000-05-22 and appointed 서리 2000-05-23. The first consent motion (likms 152570, 15th NA) lapsed at the end of the 15th Assembly on 2000-05-29 and was resubmitted to the 16th NA on 2000-06-01 (likms 160005). First PM to go through an 인사청문회 (2000-06-26/27). Consent passed and 임명장 given on 2000-06-29 (연합뉴스 2000-06-29 15:59:00 '김대통령 신임 총리에 임명장': 김대중 대통령은 29일 오후 ... 이한동 신임총리에게 임명장을 주었다; https://n.news.naver.com/mnews/article/001/0000012188 (accessed 2026-09-24T22:55:40-0400; snapshot roster/sources/pm/news/naver_001_0000012188.html)). Replaced in the 2002-07-11 reshuffle, the day 장상 was appointed 서리. OPM gives 2002.07.10 as the last day."
+  },
+  {
+   "name": "장상",
+   "name_hanja": "張裳",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1939-10-03",
+   "gender": "F",
+   "ministry": "국무총리",
+   "office_title": "국무총리서리",
+   "deputy_pm": false,
+   "start": "2002-07-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15150호 (published 2002-07-16, 인사발령): ◉2002년 7 월11일자 장 상(張 裳) 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023015056000&tocId=00000000000000001319023033715000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20020716_15150_00000000000000001319023033715000.pdf (accessed 2026-09-24T22:45:48-0400)",
+    "국무총리실 역대총리소개 '서리 장상 (2002.07.11 ~ 2002.07.31)': 서리 장상 2002.07.11 ~ 2002.07.31; https://www.opm.go.kr/opm/_item/prime59.jsp (accessed 2026-09-24T22:44:03-0400; snapshot roster/sources/pm/opm/prime59.html)",
+    "연합뉴스 2002-07-11 15:56:07 '김대통령 장상신임총리서리 임명장수여': 김대중대통령이 11일 오후 청와대에서 장상 신임총리서리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0000204861 (accessed 2026-09-24T22:56:00-0400; snapshot roster/sources/pm/news/naver_001_0000204861.html)"
+   ],
+   "end": "2002-07-31",
+   "end_confidence": "high",
+   "end_sources": [
+    "의안정보시스템 [161625] 국무총리(장상)임명동의안 (정부), 제안 2002-07-15, 의결 2002-07-31 부결: 본회의 부결 2002-07-31; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=021429 (accessed 2026-09-24T22:47:35-0400; snapshot roster/sources/pm/likms/, text harvest/likms/021429.txt)",
+    "국민일보 2002-07-31 23:16:00 '장상서리 사의 표명': 장상 국무총리서리는 31일 오후 ... 부결된 뒤 ... 사의를 표명 ... 21일만에 물러났다; https://n.news.naver.com/mnews/article/005/0000113433 (accessed 2026-09-25T07:07:53-0400; snapshot roster/sources/pm/news/naver_005_0000113433.html)",
+    "국무총리실 역대총리소개 '서리 장상 (2002.07.11 ~ 2002.07.31)': 서리 장상 2002.07.11 ~ 2002.07.31; https://www.opm.go.kr/opm/_item/prime59.jsp (accessed 2026-09-24T22:44:03-0400; snapshot roster/sources/pm/opm/prime59.html)",
+    "[verifier] BigKinds metadata: 영남일보 2002-08-01 '새 총리서리 인선 착수, 내주중 후임 임명 될듯' news_id 01500801.20020801165037011: 김대중 대통령은 31일 장상 국무총리서리 임명동의안이 국회에서 부결됨에 따라 장 총리서리가 제출한 사표를 수리하고 (search '장상 사표' 2002-07-31..2002-08-02, accessed 2026-09-25T21:46:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_js02_exit2.json)",
+    "[verifier] BigKinds metadata: 매일경제 2002-08-01 '장상 사의 \"국민에 송구\"' news_id 02100101.20160117173703965: 장상 총리서리는 31일 임명동의안이 부결된 후 2시간여 만에 결국 사표를 제출했다 (search '장상 사표' 2002-07-31..2002-08-02, accessed 2026-09-25T21:46:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_js02_exit2.json)"
+   ],
+   "end_reason": "consent_rejected",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "서리",
+   "pm_acting_until": "2002-07-31",
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows for her in the valid hearing types.",
+   "notes": "First woman appointed to head the cabinet (as 서리). The Assembly rejected the consent motion on 2002-07-31 and she offered her resignation the same afternoon. pm_acting_until equals end because she held only 서리 status. 부총리 겸 재정경제부장관 전윤철 then acted as PM (see acting)."
+  },
+  {
+   "name": "장대환",
+   "name_hanja": "張大煥",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1952-03-21",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리서리",
+   "deputy_pm": false,
+   "start": "2002-08-09",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15174호 (published 2002-08-14, 인사발령(행정자치부)): ◉2002년 8 월 9 일자 장 대 환(張 大 煥) 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023668872000&tocId=00000000000000001319023683847000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20020814_15174_00000000000000001319023683847000.pdf (accessed 2026-09-24T22:49:17-0400)",
+    "국무총리실 역대총리소개 '서리 장대환 (2002.08.09 ~ 2002.08.28)': 서리 장대환 2002.08.09 ~ 2002.08.28; https://www.opm.go.kr/opm/_item/prime60.jsp (accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/pm/opm/prime60.html)",
+    "동아일보 2002-08-09 18:09:00 '신임총리서리 장대환씨 임명': 김대중 대통령은 9일 새 국무총리서리에 장대환 매일경제신문 사장을 임명; https://n.news.naver.com/mnews/article/020/0000145122 (accessed 2026-09-24T22:56:09-0400; snapshot roster/sources/pm/news/naver_020_0000145122.html)",
+    "매일경제 2002-08-09 16:04:00 '새총리 장대환씨 지명': 9일 새 총리서리에 장대환 ... 지명하고 임명장을 수여; https://n.news.naver.com/mnews/article/009/0000234631 (accessed 2026-09-24T22:56:12-0400; snapshot roster/sources/pm/news/naver_009_0000234631.html)"
+   ],
+   "end": "2002-08-28",
+   "end_confidence": "high",
+   "end_sources": [
+    "의안정보시스템 [161672] 국무총리(장대환)임명동의안 (정부), 제안 2002-08-13, 의결 2002-08-28 부결: 본회의 부결 2002-08-28; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=021634 (accessed 2026-09-24T22:47:49-0400; snapshot roster/sources/pm/likms/, text harvest/likms/021634.txt)",
+    "연합뉴스 2002-08-28 16:57:00 '장대환 서리 사퇴(종합)': 사표를 청와대에 제출했으며, 김대중 대통령은 즉각 사표를 수리; https://n.news.naver.com/mnews/article/001/0000228606 (accessed 2026-09-25T07:08:00-0400; snapshot roster/sources/pm/news/naver_001_0000228606.html)",
+    "국무총리실 역대총리소개 '서리 장대환 (2002.08.09 ~ 2002.08.28)': 서리 장대환 2002.08.09 ~ 2002.08.28; https://www.opm.go.kr/opm/_item/prime60.jsp (accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/pm/opm/prime60.html)",
+    "[verifier] BigKinds metadata: 경남도민일보 2002-08-29 '장 총리서리 사표' news_id 01500151.20020829131324008: 김대중 대통령은 즉각 사표를 수리했다고 (search '장대환 서리 사표 수리' 2002-08-28..2002-08-30, accessed 2026-09-25T21:43:51-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jdh02_exit.json)",
+    "[verifier] BigKinds metadata: 영남일보 2002-08-29 '장대환 총리서리, 19일만에 하차' news_id 01500801.20020829165109020: 장대환(張大煥) 총리서리가 28일 국회 인준안부결로 총리서리직에서 물러남에 따라 (search '총리 직무대행' 2002-08-29..2002-09-10, accessed 2026-09-25T22:00:41-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jyc02_acting2.json)"
+   ],
+   "end_reason": "consent_rejected",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "서리",
+   "pm_acting_until": "2002-08-28",
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Appears only as nominee in the 인사청문특별위원회 (meeting 30246, 2002-08-28, 2 speeches).",
+   "notes": "Consent motion rejected 2002-08-28, resignation accepted immediately the same day."
+  },
+  {
+   "name": "김석수",
+   "name_hanja": "金碩洙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1932-11-20",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2002-09-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15201호 (published 2002-09-16, 인사발령(행정자치부)): ◉2002년 9 월10일자 김 석 수(金 碩 洙) 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319024250483000&tocId=00000000000000001319024263957000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20020916_15201_00000000000000001319024263957000.pdf (accessed 2026-09-24T22:52:14-0400)",
+    "국무총리실 역대총리소개 '서리 김석수 (2002.09.10 ~ 2002.10.04)': 서리 김석수 2002.09.10 ~ 2002.10.04; https://www.opm.go.kr/opm/_item/prime61.jsp (accessed 2026-09-24T22:44:04-0400; snapshot roster/sources/pm/opm/prime61.html)",
+    "연합뉴스 2002-09-10 10:25:00 '새총리 김석수씨 지명(종합)': 김대중 대통령은 10일 새 국무총리 서리에 김석수 전 중앙선거관리위원장을 임명; https://n.news.naver.com/mnews/article/001/0000236114 (accessed 2026-09-24T22:56:20-0400; snapshot roster/sources/pm/news/naver_001_0000236114.html)",
+    "[verifier] BigKinds metadata: 중도일보 2002-10-07 '국회 파행사태 지속' news_id 01400351.20021007150517005: 국회는 5일 오전 본회의를 열어 김석수 국무총리 임명동의안을 표결에 부쳐 (search '김석수 총리 임명동의안' 2002-10-04..2002-10-07, accessed 2026-09-25T21:51:46-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kss02_formal.json)"
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15338호 (published 2003-03-05, 인사발령(행정자치부)): successor 고건 국무총리에 임함, ◉2003년 2 월27일자; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20030305_15338_00000000000000001319026541100000.pdf (accessed 2026-09-24T22:44:28-0400)",
+    "한겨레 2003-02-27 10:02:00 '[국회]김총리 재택근무 '인준'압박용?': 이임 인사까지한 김석수 총리가 26일 '재택근무' 형식으로 근무를 계속; https://n.news.naver.com/mnews/article/028/0000011115 (accessed 2026-09-24T22:56:30-0400; snapshot roster/sources/pm/news/naver_028_0000011115.html)",
+    "BigKinds metadata: 한국일보 2003-02-27 '이말 저말 / 새 대통령, 옛 국무총리 外' news_id 01101101.20030227000000604: 고 건 총리 지명자에 대한 인준이 지연되면서 김석수 총리가 공무를 수행하고 있다 (search '김석수 총리' 2003-02-27..2003-02-28, accessed 2026-09-25T13:36:30-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kss03e2.json)",
+    "국무총리실 역대총리소개 '제34대 김석수 (2002.10.05 ~ 2003.02.26)': OPM lists the last day as 2003.02.26; https://www.opm.go.kr/opm/_item/prime62.jsp (accessed 2026-09-24T22:44:05-0400; snapshot roster/sources/pm/opm/prime62.html)",
+    "[verifier] 파이낸셜뉴스 2003-02-26 17:50:00 '고건 총리지명자 인준안 막판까지 진통, 새정부 행정공백 장기화 우려\n\t\t': 법률상으론 임기가 계속되는 김총리는; https://n.news.naver.com/mnews/article/014/0000055268 (accessed 2026-09-25T21:57:16-0400; snapshot roster/sources/pm/verify/news/naver_014_0000055268.html)",
+    "[verifier] 매일경제 2003-02-26 17:00:00 '새 내각 출범지연 金총리 재택근무': 김석수 총리는 26일 총리실로 출근하지 않고 자택에서 업무를 봤다; https://n.news.naver.com/mnews/article/009/0000279740 (accessed 2026-09-25T07:08:04-0400; snapshot roster/sources/pm/verify/news/naver_009_0000279740.html)",
+    "[verifier] BigKinds metadata: 문화일보 2003-02-26 '새정부 출범부터 `국정공백`' news_id 01100501.20030226000000404: 김석수총리는 이날부터 출근하지 않았고 (search '김석수 총리 이임' 2003-02-25..2003-03-01, accessed 2026-09-25T21:43:54-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kss03_exit.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "서리",
+   "pm_acting_until": "2002-10-04",
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Appears only as nominee in the 인사청문특별위원회 (meeting 30459, 2002-10-04, 2 speeches).",
+   "notes": "Formal appointment on 2002-10-05 after consent (관보 제15219호: ◉2002년10월 5 일자 국무총리서리 김석수 국무총리에 임함; 관보 제15219호 (published 2002-10-10, 인사발령(행정자치부)); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319024610401000&tocId=00000000000000001319024625703000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20021010_15219_00000000000000001319024625703000.pdf (accessed 2026-09-24T22:55:18-0400)). Stayed in office into the 노무현 term (2003-02-25 .. 2003-02-27) because the consent vote on 고건 slipped to 2003-02-26. No report of the day his resignation was accepted was found. He was still working from home as PM on 02-26, so end is set to the successor's appointment date 2003-02-27. OPM gives 2003.02.26. [verifier] Namu Wiki (국무총리, accessed 2026-09-25, snapshot roster/sources/pm/verify/namu_국무총리.html) says he resigned on 2003-02-26, the day the 고건 motion passed (19:40), but no tier 1-3 source for an acceptance that day was found. 파이낸셜뉴스 2003-02-26 says his term legally continued, so the end stays at the successor's appointment date."
+  },
+  {
+   "name": "고건",
+   "name_hanja": "高建",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1938-01-02",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (published 2003-03-05, 인사발령(행정자치부)): ◉2003년 2 월27일자 고 건(高 建) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20030305_15338_00000000000000001319026541100000.pdf (accessed 2026-09-24T22:44:28-0400)",
+    "국무총리실 역대총리소개 '제35대 고건 (2003.02.27 ~ 2004.05.24)': 제35대 고건 2003.02.27 ~ 2004.05.24; https://www.opm.go.kr/opm/_item/prime63.jsp (accessed 2026-09-24T22:44:06-0400; snapshot roster/sources/pm/opm/prime63.html)",
+    "연합뉴스 2003-02-27 10:03:22 '고건총리 임명장 수여': 노무현 대통령은 27일 청와대에서 고 건 신임총리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0000326380 (accessed 2026-09-24T22:56:37-0400; snapshot roster/sources/pm/news/naver_001_0000326380.html)"
+   ],
+   "end": "2004-05-25",
+   "end_confidence": "high",
+   "end_sources": [
+    "YTN 2004-05-25 14:30:16 '노 대통령, 고건 총리 사표 수리': 노무현 대통령이 고건 총리가 제출한 사표를 수리했습니다; https://n.news.naver.com/mnews/article/052/0000038159 (accessed 2026-09-25T07:08:08-0400; snapshot roster/sources/pm/news/naver_052_0000038159.html)",
+    "SBS 2004-05-25 11:40:55 '노대통령, 고건 총리 사표 수리': 노무현 대통령은 오늘(25일) ... 고건 총리의 사표를 수리; https://n.news.naver.com/mnews/article/055/0000021937 (accessed 2026-09-25T07:08:09-0400; snapshot roster/sources/pm/news/naver_055_0000021937.html)",
+    "프레시안 2004-05-25 11:02:00 '盧, 고건 사표 수리. 이헌재 부총리가 총리대행': 고건 총리의 사표가 25일 수리됐다 ... 이헌재 부총리가 총리대행; https://n.news.naver.com/mnews/article/002/0000010912 (accessed 2026-09-25T07:08:10-0400; snapshot roster/sources/pm/news/naver_002_0000010912.html)",
+    "국무총리실 역대총리소개 '제35대 고건 (2003.02.27 ~ 2004.05.24)': OPM lists the last day as 2004.05.24; https://www.opm.go.kr/opm/_item/prime63.jsp (accessed 2026-09-24T22:44:06-0400; snapshot roster/sources/pm/opm/prime63.html)",
+    "[verifier] BigKinds metadata: 전북일보 2004-05-26 '고건총리 사표수리' news_id 01601101.20040526233035102: 노무현 대통령은 25일 고건국무총리의 사표를 공식 수리했다 (search '고건 총리 사표 수리' 2004-05-24..2004-05-27, accessed 2026-09-25T21:43:58-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh04_exit.json)",
+    "[verifier] BigKinds metadata: 서울신문 2004-05-26 '[高총리 사표수리] 高총리 퇴임 파장과 개각' news_id 01100611.20160423051353850: 노무현 대통령이 25일 고건 총리가 전날 제출한 사표를 전격 수리함에 따라 (search '고건 총리 사표 수리' 2004-05-24..2004-05-27, accessed 2026-09-25T21:43:58-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh04_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows under his name in valid hearing types. coverage_gaps.csv lists this spell as panel_row_no_in_spell_speech.",
+   "notes": "Served as 대통령 권한대행 while the President was suspended, 2004-03-12 17:15 .. 2004-05-14 (offices.json acting_presidents), while remaining PM. Not a suspension of the PM office. Resigned after refusing to countersign the President's cabinet recommendations. The resignation was accepted on 2004-05-25 (three outlets that day). OPM gives 2004.05.24."
+  },
+  {
+   "name": "이해찬",
+   "name_hanja": "李海瓚",
+   "name_en": "LEE HAECHAN",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD 9ZP9014Q, 이해찬, NAAS_EN_NM 'LEE HAECHAN', BIRDY_DT 1952-07-10); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_025.json)",
+   "birth_date": "1952-07-10",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2004-06-30",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15737호 (published 2004-07-06, 인사발령(중앙인사위원회)): ⊙2004년 6 월30일자 이 해 찬(李 海 瓚) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20040706_15737_00000000000000001319031615639000.pdf (accessed 2026-09-24T22:46:50-0400)",
+    "국무총리실 역대총리소개 '제36대 이해찬 (2004.06.30 ~ 2006.03.15)': 제36대 이해찬 2004.06.30 ~ 2006.03.15; https://www.opm.go.kr/opm/_item/prime64.jsp (accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/pm/opm/prime64.html)",
+    "YTN 2004-06-30 11:50:31 '이해찬 총리에 임명장 수여': 노무현 대통령은 오늘 오전 이해찬 신임 국무총리에게 임명장을 수여; https://n.news.naver.com/mnews/article/052/0000042223 (accessed 2026-09-25T07:08:12-0400; snapshot roster/sources/pm/news/naver_052_0000042223.html)"
+   ],
+   "end": "2006-03-15",
+   "end_confidence": "high",
+   "end_sources": [
+    "YTN 2006-03-15 20:22:45 '후임 총리 인선 착수': 노무현 대통령이 이해찬 총리의 사표를 수리하고 후임 인선에 들어갔습니다; https://n.news.naver.com/mnews/article/052/0000111232 (accessed 2026-09-25T07:08:15-0400; snapshot roster/sources/pm/news/naver_052_0000111232.html)",
+    "국무총리실 역대총리소개 '제36대 이해찬 (2004.06.30 ~ 2006.03.15)': 제36대 이해찬 2004.06.30 ~ 2006.03.15; https://www.opm.go.kr/opm/_item/prime64.jsp (accessed 2026-09-24T22:44:07-0400; snapshot roster/sources/pm/opm/prime64.html)",
+    "[verifier] BigKinds metadata: 세계일보 2006-03-16 '한덕수 직대체제 어떻게' news_id 01100701.20060316100002029: 노무현 대통령이 15일 이해찬 총리의 사표를 수리 (search '이해찬 총리 사표 수리' 2006-03-13..2006-03-17, accessed 2026-09-25T21:44:00-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhc06_exit.json)",
+    "[verifier] BigKinds metadata: 매일경제 2006-03-16 '이기우 교육차관 사임, 이해찬사단 동반 사표' news_id 02100101.20160119042615309: 이해찬 국무총리가 15일 오후 노무현 대통령에게 사표를 제출한 뒤 이임식을 했다 (search '이해찬 총리 사표 수리' 2006-03-13..2006-03-17, accessed 2026-09-25T21:44:00-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lhc06_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 17th NA member (열린우리당, 서울 관악구을) from na_members_15_22.csv (mona_cd 9ZP9014Q)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows under his name in valid hearing types. coverage_gaps.csv lists this spell as panel_row_no_in_spell_speech.",
+   "notes": "Resigned over the 2006-03-01 golf controversy. birth_date from OPM prime64 and NA ALLNAMEMBER."
+  },
+  {
+   "name": "한명숙",
+   "name_hanja": "韓明淑",
+   "name_en": "HAN Myeong Sook",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD PYP5878A, 한명숙, NAAS_EN_NM 'HAN Myeong Sook', BIRDY_DT 1944-03-24); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_032.json)",
+   "birth_date": "1944-03-24",
+   "gender": "F",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2006-04-20",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16241호 (published 2006-04-25, 인사발령(중앙인사위원회)): ⊙2006년 4 월20일자 한 명 숙(韓 明 淑) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319601224501000&tocId=00000000000000001319601237566000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20060425_16241_00000000000000001319601237566000.pdf (accessed 2026-09-25T06:44:17-0400)",
+    "국무총리실 역대총리소개 '제37대 한명숙 (2006.04.20 ~ 2007.03.06)': 제37대 한명숙 2006.04.20 ~ 2007.03.06; https://www.opm.go.kr/opm/_item/prime65.jsp (accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/pm/opm/prime65.html)",
+    "연합뉴스 2006-04-20 11:57:00 '노대통령 한명숙 국무총리 임명장 수여': 노무현 대통령이 20일 청와대에서 신임 한명숙 국무총리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0001276410 (accessed 2026-09-25T07:08:20-0400; snapshot roster/sources/pm/news/naver_001_0001276410.html)"
+   ],
+   "end": "2007-03-07",
+   "end_confidence": "high",
+   "end_sources": [
+    "BigKinds metadata: 부산일보 2007-03-07 '돌아간 한총리... 이임식서 '대권 도전' 여운도' news_id 01500701.20160411135517612: 한명숙 총리가 7일 오전 정부중앙청사에서 이임식을 갖고 ... 직무를 마감한 뒤 당으로 복귀 (search '한명숙 총리 이임' 2007-03-07..2007-03-08, accessed 2026-09-25T13:36:08-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hms07e.json)",
+    "BigKinds metadata: 매일경제 2007-03-07 '정부, 권오규 총리직대 체제 가동' news_id 02100101.20160119152908879: 정부는 한명숙 총리가 공식 사임함에 따라 ... 권오규 ... 총리직무대행체제 (search '권오규 총리 직무대행' 2007-03-07..2007-03-09, accessed 2026-09-25T13:30:38-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kok07a.json)",
+    "BigKinds metadata: 강원도민일보 2007-03-08 '권오규 부총리 총리직무 대행' news_id 01300101.20070308141849002: 정부는 7일 한명숙 총리의 공식사임으로 (search '권오규 총리 직무대행' 2007-03-07..2007-03-09, accessed 2026-09-25T13:30:38-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kok07a.json)",
+    "국무총리실 역대총리소개 '제37대 한명숙 (2006.04.20 ~ 2007.03.06)': OPM lists the last day as 2007.03.06; https://www.opm.go.kr/opm/_item/prime65.jsp (accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/pm/opm/prime65.html)",
+    "[verifier] BigKinds metadata: 서울신문 2007-03-08 '한총리 “이젠 정치행보 고민할것”' news_id 01100611.20160422094439362: 한 총리는 이날 오전 이임식에 앞서 정부중앙청사 기자실을 방문 (search '한명숙 총리 이임식' 2007-03-06..2007-03-08, accessed 2026-09-25T21:47:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hms07_exit2.json)",
+    "[verifier] BigKinds metadata: 경향신문 2007-03-08 '\"黨의 기대 알고있다\" 정치인 돌아온 한명숙 '대권' 의지 표명' news_id 01100101.20070308100007796: 한명숙 전 총리가 7일 헌정 사상 첫 여성 총리직을 마치고 정치인으로 복귀했다 (search '한명숙 총리 이임식' 2007-03-06..2007-03-08, accessed 2026-09-25T21:47:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hms07_exit2.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 17th NA member (열린우리당, 경기 고양시일산구갑) from na_members_15_22.csv (mona_cd PYP5878A)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "One row 'prime_minister 국무총리 한명숙' on 2002-07-12 (meeting 30100, 국회본회의), before her spell. 국회본회의 dates are unreliable in v9 (misattached content), so the row is ignored.",
+   "notes": "Resigned to return to 열린우리당. Her last official schedule was on 2007-03-06 (BigKinds metadata: 국제신문 2007-03-07 '4면/한명숙 마지막 총리직 수행' news_id 01500401.20070307175942001 (search '한명숙 총리 이임' 2007-03-07..2007-03-08, accessed 2026-09-25T13:36:08-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hms07e.json)), and the formal resignation took effect with the 이임식 on the morning of 2007-03-07, when 권오규 began acting. OPM gives 2007.03.06 as the last day. birth_date from OPM prime65 and NA ALLNAMEMBER."
+  },
+  {
+   "name": "한덕수",
+   "name_hanja": "韓悳洙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1949-06-18",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2007-04-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16479호 (published 2007-04-09, 인사발령(중앙인사위원회)): ⊙2007년 4 월 3 일자 한 덕 수(韓 悳 洙) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319076722987000&tocId=00000000000000001319076734650000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20070409_16479_00000000000000001319076734650000.pdf (accessed 2026-09-25T06:46:41-0400)",
+    "국무총리실 역대총리소개 '제38대 한덕수 (2007.04.03 ~ 2008.02.28)': 제38대 한덕수 2007.04.03 ~ 2008.02.28; https://www.opm.go.kr/opm/_item/prime66.jsp (accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/pm/opm/prime66.html)",
+    "연합뉴스 2007-04-03 10:10:39 '노대통령, 한총리에 임명장 수여': 노무현 대통령이 3일 오전 청와대에서 한덕수 신임 국무총리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0001594186 (accessed 2026-09-25T07:08:27-0400; snapshot roster/sources/pm/news/naver_001_0001594186.html)"
+   ],
+   "end": "2008-02-29",
+   "end_confidence": "medium",
+   "end_sources": [
+    "뉴시스 2008-02-29 17:11:00 '한덕수 국무총리 이임': 한덕수 국무총리가 29일 오후 ... 국무총리 이임식; https://n.news.naver.com/mnews/article/003/0001983559 (accessed 2026-09-25T07:08:28-0400; snapshot roster/sources/pm/news/naver_003_0001983559.html)",
+    "연합뉴스 2008-02-29 16:44:50 '이임사하는 한덕수 총리': 한덕수 총리가 29일 오후 ... 이임식에서 이임사; https://n.news.naver.com/mnews/article/001/0001981672 (accessed 2026-09-25T07:08:29-0400; snapshot roster/sources/pm/news/naver_001_0001981672.html)",
+    "관보 제16703호 (published 2008-03-06, 인사발령(행정안전부)): successor 한승수 국무총리에 임함, ⊙2008년 2월 29일자; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20080306_16703_00000000000000001319081960066000.pdf (accessed 2026-09-24T22:54:23-0400)",
+    "국무총리실 역대총리소개 '제38대 한덕수 (2007.04.03 ~ 2008.02.28)': OPM lists the last day as 2008.02.28; https://www.opm.go.kr/opm/_item/prime66.jsp (accessed 2026-09-24T22:44:08-0400; snapshot roster/sources/pm/opm/prime66.html)",
+    "[verifier] BigKinds metadata: 매일경제 2008-02-29 '한덕수 국무총리 \"FTA 비준 못해 아쉽다\"' news_id 02100101.20160120040951718: 한덕수 국무총리는 오늘(29일) 오후 이임식에서 (search '한덕수 총리 이임식' 2008-02-27..2008-03-02, accessed 2026-09-25T21:44:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hds08_exit.json)",
+    "[verifier] BigKinds metadata: 파이낸셜뉴스 2008-02-27 '이 대통령 첫 국무회의 ‘참여정부’ 각료 일색' news_id 02100501.20160206221404493: 한승수 국무총리 후보자에 대한 국회 임명동의안 처리가 연기되면서 한덕수 국무총리가 주재하게 됐기 때문이다 (search '한덕수 총리 이임식' 2008-02-27..2008-03-02, accessed 2026-09-25T21:44:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hds08_exit.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Rows 'prime_minister 국무총리 한덕수' on 2003-11-25 and 2017-08-30 (예산결산특별위원회) lie outside both of his spells. 예산결산특별위원회 dates are unreliable in v9, so they are ignored.",
+   "notes": "Stayed in office into the 이명박 term (2008-02-25 .. 2008-02-29) until 한승수 was confirmed. He held his 이임식 as PM on the afternoon of 2008-02-29, the day 한승수 was appointed (same-day handover). OPM gives 2008.02.28. birth_date from OPM prime66."
+  },
+  {
+   "name": "한승수",
+   "name_hanja": "韓昇洙",
+   "name_en": "Han, Seung-soo",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD AML4805R, 한승수, NAAS_EN_NM 'Han, Seung-soo', BIRDY_DT 1936-12-28); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_032.json)",
+   "birth_date": "1936-12-28",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2008-02-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16703호 (published 2008-03-06, 인사발령(행정안전부)): ⊙2008년 2월 29일자 한 승 수(韓 昇 洙) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20080306_16703_00000000000000001319081960066000.pdf (accessed 2026-09-24T22:54:23-0400)",
+    "국무총리실 역대총리소개 '제39대 한승수 (2008.02.29 ~ 2009.09.28)': 제39대 한승수 2008.02.29 ~ 2009.09.28; https://www.opm.go.kr/opm/_item/prime67.jsp (accessed 2026-09-24T22:44:09-0400; snapshot roster/sources/pm/opm/prime67.html)",
+    "SBS 2008-02-29 16:43:19 '한승수 총리 인준안 국회 통과…공식 업무 시작': 임명동의안이 오늘(29일) 오후 국회 본회의를 통과 ... 곧바로 임명장을 받고; https://n.news.naver.com/mnews/article/055/0000121697 (accessed 2026-09-25T07:08:36-0400; snapshot roster/sources/pm/news/naver_055_0000121697.html)"
+   ],
+   "end": "2009-09-29",
+   "end_confidence": "medium",
+   "end_sources": [
+    "BigKinds metadata: 노컷뉴스 2009-09-29 '韓총리 이임 \"국가발전 위해선 공직자 책임 막중\"' news_id 04100058.20090929135901003: 한승수 총리가 29일 오전 이임식을 갖고 퇴임했다 (search '한승수 총리 이임' 2009-09-28..2009-09-29, accessed 2026-09-25T13:30:54-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hss09x.json)",
+    "뉴시스 2009-09-29 12:43:05 '이임하는 한승수 전 총리': 한승수 전 국무총리가 29일 오전 ... 39대 국무총리 이임식; https://n.news.naver.com/mnews/article/003/0002885673 (accessed 2026-09-25T07:08:39-0400; snapshot roster/sources/pm/news/naver_003_0002885673.html)",
+    "청와대 2009-09-29 17:50:00 '이임 총리 및 국무위원 오찬 브리핑': 이명박 대통령은 29일 퇴임하는 한승수 총리 및 5명의 국무위원들과 오찬; https://n.news.naver.com/mnews/article/154/0000001237 (accessed 2026-09-25T07:08:38-0400; snapshot roster/sources/pm/news/naver_154_0000001237.html)",
+    "관보 제17102호 (published 2009-10-05, 인사발령(행정안전부)): successor 정운찬 국무총리에 임함, ⊙2009년 9월 29일자; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319107322452000&tocId=00000000000000001319107338228000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20091005_17102_00000000000000001319107338228000.pdf (accessed 2026-09-25T06:52:23-0400)",
+    "국무총리실 역대총리소개 '제39대 한승수 (2008.02.29 ~ 2009.09.28)': OPM lists the last day as 2009.09.28; https://www.opm.go.kr/opm/_item/prime67.jsp (accessed 2026-09-24T22:44:09-0400; snapshot roster/sources/pm/opm/prime67.html)",
+    "[verifier] BigKinds metadata: 강원일보 2009-09-30 '한승수 국무총리 퇴임 “마지막까지 국정 챙기는 선례 만들어”' news_id 01300201.20160215223259501: 이명박 대통령은 29일 한승수 총리의 퇴임과 관련해 (search '한승수 이임식' 2009-09-28..2009-09-30, accessed 2026-09-25T21:47:31-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hss09_exit2.json)",
+    "[verifier] BigKinds metadata: 강원일보 2009-09-30 '“도민성원 힘입어 총리직 큰 대과 없이 수행”' news_id 01300201.20160215223259843: 29일 이임식을 가진 한승수 국무총리가 (search '한승수 이임식' 2009-09-28..2009-09-30, accessed 2026-09-25T21:47:31-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hss09_exit2.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "One row '국무총리후보자 한승수' on 2008-05-09 (국회본회의), a nominee label after his appointment. 국회본회의 rows are unreliable, so it is ignored.",
+   "notes": "Same-day handover with 정운찬 on 2009-09-29 (이임식 on the morning of 09-29). OPM gives 2009.09.28, and 아시아경제 (2009-09-28) reports he formally wound up his work on 09-28 after the consent vote (BigKinds metadata: 아시아경제 2009-09-28 '[포토] 한승수 총리, 직원들과 이임인사' news_id 02100801.20090928010124001 (search '한승수 총리 이임' 2009-09-28..2009-09-29, accessed 2026-09-25T13:30:54-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hss09x.json)). Earlier sitting NA member (15th and 16th NA, 강원 춘천) but not a member at appointment. birth_date from OPM prime67 and NA ALLNAMEMBER."
+  },
+  {
+   "name": "정운찬",
+   "name_hanja": "鄭雲燦",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2009-09-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17102호 (published 2009-10-05, 인사발령(행정안전부)): ⊙2009년 9월 29일자 정 운 찬(鄭 雲 燦) 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319107322452000&tocId=00000000000000001319107338228000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20091005_17102_00000000000000001319107338228000.pdf (accessed 2026-09-25T06:52:23-0400)",
+    "국무총리실 역대총리소개 '제40대 정운찬 (2009.09.29 ~ 2010.08.11)': 제40대 정운찬 2009.09.29 ~ 2010.08.11; https://www.opm.go.kr/opm/_item/prime68.jsp (accessed 2026-09-24T22:44:10-0400; snapshot roster/sources/pm/opm/prime68.html)",
+    "연합뉴스 2009-09-29 10:35:27 '李대통령 \"정치는 결과로서 말하는 것\"': 이명박 대통령이 29일 오전 청와대에서 정운찬 국무총리에게 임명장을 준 뒤; https://n.news.naver.com/mnews/article/001/0002888831 (accessed 2026-09-25T07:08:40-0400; snapshot roster/sources/pm/news/naver_001_0002888831.html)"
+   ],
+   "end": "2010-08-11",
+   "end_confidence": "medium",
+   "end_sources": [
+    "국무총리실 역대총리소개 '제40대 정운찬 (2009.09.29 ~ 2010.08.11)': 제40대 정운찬 2009.09.29 ~ 2010.08.11; https://www.opm.go.kr/opm/_item/prime68.jsp (accessed 2026-09-24T22:44:10-0400; snapshot roster/sources/pm/opm/prime68.html)",
+    "BigKinds metadata: 뉴스핌 2010-08-10 '윤증현 장관, 내일부터 총리직무 대행 - 재정부' news_id 04100078.20160223201250136: 오는 11일 정운찬 국무총리의 이임식 이후부터 ... 윤증현 ... 총리 직무대행 (search '윤증현 총리 직무대행' 2010-08-10..2010-08-13, accessed 2026-09-25T13:30:40-0400; snapshot roster/sources/pm/bigkinds/bigkinds_yjh10a.json)",
+    "연합뉴스 2010-08-12 11:36:12 '김총리 후보자, 현안 언급자제..청문회준비 전력': (2010-08-12) 김 후보자는 정운찬 전 총리의 이임에 대한 소감을 묻는 기자들의 질문에; https://n.news.naver.com/mnews/article/001/0004601976 (accessed 2026-09-25T13:03:13-0400; snapshot roster/sources/pm/news/naver_001_0004601976.html)",
+    "[verifier] BigKinds metadata: 국제신문 2010-08-12 '떠나는 鄭 \"세종시로 심려 끼쳐 송구\"' news_id 01500401.2010081210004273298: 정운찬 국무총리가 11일 이임식을 갖고 10개월여간의 총리직에서 물러났다 (search '정운찬 총리 이임식' 2010-08-10..2010-08-13, accessed 2026-09-25T21:44:10-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jwc10_exit2.json)",
+    "[verifier] BigKinds metadata: 동아일보 2010-07-30 '“한국 정치 너무 험난했다” 鄭총리 공식 사의… 李 수용' news_id 01100401.20100730033058039: 정운찬 국무총리가 29일 사퇴 의사를 공식 발표했다 (search '정운찬 사의 수용' 2010-07-29..2010-08-12, accessed 2026-09-25T21:47:55-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jwc10_exit4.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows under his name in valid hearing types. coverage_gaps.csv lists this spell as panel_row_no_in_spell_speech.",
+   "notes": "His 이임식 was on 2010-08-11 and 기획재정부장관 윤증현 acted from then. The acceptance date of the resignation itself was not found, so end_confidence is medium. OPM prints the birth date as 1946년 2월 29일, which is not a valid Gregorian date (1946 is not a leap year). birth_date is left null for that reason. [verifier] He announced his resignation on 2010-07-29 and the President said he would accept it (동아일보 2010-07-30), but he remained in office and left with the 이임식 on 2010-08-11 (국제신문, 동아일보 2010-08-12). No separate acceptance date was found."
+  },
+  {
+   "name": "김황식",
+   "name_hanja": "金滉植",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1948-08-09",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2010-10-01",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17356호 (published 2010-10-07, 인사발령(행정안전부)): 김 황 식(金 滉 植) 국무총리에 임함 2010.10.1 (name recovered with pdftotext -raw); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095935310000&tocId=00000000000000001319095948933000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20101007_17356_00000000000000001319095948933000.pdf (accessed 2026-09-25T06:54:54-0400)",
+    "국무총리실 역대총리소개 '제41대 김황식 (2010.10.01 ~ 2013.02.26)': 제41대 김황식 2010.10.01 ~ 2013.02.26; https://www.opm.go.kr/opm/_item/prime69.jsp (accessed 2026-09-24T22:44:11-0400; snapshot roster/sources/pm/opm/prime69.html)",
+    "연합뉴스 2010-10-01 18:00:00 '김황식 총리 취임..공식 업무 착수': 이명박 대통령이 1일 오후 청와대에서 김황식 국무총리에게 임명장을 주고 있다; https://n.news.naver.com/mnews/article/001/0004682433 (accessed 2026-09-25T07:08:46-0400; snapshot roster/sources/pm/news/naver_001_0004682433.html)"
+   ],
+   "end": "2013-02-26",
+   "end_confidence": "high",
+   "end_sources": [
+    "뉴시스 2013-02-26 09:59:07 '김 총리, 2년5개월 재임 마치고 이임': 김황식 국무총리가 26일 이임식을 갖고 2년5개월간의 총리직에서 물러난다; https://n.news.naver.com/mnews/article/003/0004999397 (accessed 2026-09-25T07:08:50-0400; snapshot roster/sources/pm/news/naver_003_0004999397.html)",
+    "연합뉴스 2013-02-26 08:52:22 '김황식 총리 2년5개월 재임 마치고 이임': 김황식 총리 2년5개월 재임 마치고 이임; https://n.news.naver.com/mnews/article/001/0006115032 (accessed 2026-09-25T07:08:49-0400; snapshot roster/sources/pm/news/naver_001_0006115032.html)",
+    "국무총리실 역대총리소개 '제41대 김황식 (2010.10.01 ~ 2013.02.26)': 제41대 김황식 2010.10.01 ~ 2013.02.26; https://www.opm.go.kr/opm/_item/prime69.jsp (accessed 2026-09-24T22:44:11-0400; snapshot roster/sources/pm/opm/prime69.html)",
+    "관보 제17964호 (published 2013-03-05, 인사발령(행정안전부)): successor 정홍원 국무총리에 임함 2013. 2. 26.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001362356557309000&tocId=00000000000000001362356604070000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20130305_17964_00000000000000001362356604070000.pdf (accessed 2026-09-25T07:01:43-0400)",
+    "[verifier] BigKinds metadata: 세계일보 2013-02-27 '\"공직자 열정 믿기에 홀가분하게 떠나\"' news_id 01100701.20130227100000081: 김 총리는 26일 오후 정홍원 총리 후보자 국회 임명동의안이 처리되자 서울 세종로 정부서울청사에서 이임식을 했다 (search '김황식 총리 이임식' 2013-02-25..2013-02-27, accessed 2026-09-25T21:44:12-0400; snapshot roster/sources/pm/verify/bigkinds/bk_khs13_exit.json)",
+    "[verifier] BigKinds metadata: 전남일보 2013-02-27 '2년5개월…김황식 총리 퇴임' news_id 01600801.2013022710010398731: 김황식 총리가 2년5개월간의 재임기간을 마치고 이날 퇴임했다 (search '김황식 총리 이임식' 2013-02-25..2013-02-27, accessed 2026-09-25T21:44:12-0400; snapshot roster/sources/pm/verify/bigkinds/bk_khs13_exit.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "국정감사 rows as '국무총리 김황식' on 2010-10-04, 2011-09-19, 2012-10-05 (정무위원회), all inside the spell.",
+   "notes": "Same-day handover with 정홍원 on 2013-02-26 (김황식 이임식 2 p.m., 정홍원 임명장 5 p.m.). Served into the 박근혜 term (2013-02-25 .. 02-26). He is a different person from the 16th-NA member 김황식 (金晃植, 1950)."
+  },
+  {
+   "name": "정홍원",
+   "name_hanja": "鄭烘原",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1944-10-09",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2013-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17964호 (published 2013-03-05, 인사발령(행정안전부)): 정홍원(鄭烘原) 국무총리에 임함 2013. 2. 26.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001362356557309000&tocId=00000000000000001362356604070000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20130305_17964_00000000000000001362356604070000.pdf (accessed 2026-09-25T07:01:43-0400)",
+    "국무총리실 역대총리소개 '제42대 정홍원 (2013.02.26 ~ 2015.02.16)': 제42대 정홍원 2013.02.26 ~ 2015.02.16; https://www.opm.go.kr/opm/_item/prime70.jsp (accessed 2026-09-24T22:44:12-0400; snapshot roster/sources/pm/opm/prime70.html)",
+    "연합뉴스 2013-02-26 15:47:47 '朴대통령, 정홍원 총리 임명장 수여': 박근혜 대통령은 26일 오후 5시 청와대에서 [임명장]; https://n.news.naver.com/mnews/article/001/0006116431 (accessed 2026-09-25T07:08:52-0400; snapshot roster/sources/pm/news/naver_001_0006116431.html)"
+   ],
+   "end": "2015-02-16",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2015-02-16 15:42:24 '이임 정총리 \"더 큰 성공의 역사 만들어달라\"': 이임식을 마친 정홍원 국무총리가 16일 정부서울청사를 떠나며; https://n.news.naver.com/mnews/article/001/0007416825 (accessed 2026-09-25T07:08:55-0400; snapshot roster/sources/pm/news/naver_001_0007416825.html)",
+    "정책브리핑 2015-02-16 22:31:03 '정 총리 이임…“더 큰 성공의 역사 만들어달라”': 정홍원 국무총리가 16일 오후 정부서울청사에서 이임식을 하고 2년간의 총리직을 마쳤다; https://n.news.naver.com/mnews/article/298/0000152148 (accessed 2026-09-25T07:08:57-0400; snapshot roster/sources/pm/news/naver_298_0000152148.html)",
+    "국무총리실 역대총리소개 '제42대 정홍원 (2013.02.26 ~ 2015.02.16)': 제42대 정홍원 2013.02.26 ~ 2015.02.16; https://www.opm.go.kr/opm/_item/prime70.jsp (accessed 2026-09-24T22:44:12-0400; snapshot roster/sources/pm/opm/prime70.html)",
+    "관보 제18454호 (published 2015-02-23, 인사발령(인사혁신처)): successor 이완구 국무총리에 임함 2015. 2. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001424133623441000&tocId=00000000000000001424133669936000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20150223_18454_00000000000000001424133669936000.pdf (accessed 2026-09-25T07:06:49-0400)",
+    "[verifier] BigKinds metadata: 동아일보 2015-02-17 '마침내 짐싼 정홍원 “4월 16일 잊지못해”' news_id 01100401.20150217140919022: 정홍원 국무총리가 길고 험난했던 총리직을 마치고 16일 퇴임했다 (search '정홍원 총리 이임식' 2015-02-15..2015-02-18, accessed 2026-09-25T21:44:16-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jhw15_exit.json)",
+    "[verifier] BigKinds metadata: 경향신문 2015-02-17 '삼수 끝에 떠난 정홍원 “세월호 가족들께 위로 말씀 드린다”' news_id 01100101.20150217100000174: 정홍원 국무총리(71)가 16일 마침내 직을 떠나게 됐다 (search '정홍원 사표 수리' 2015-02-15..2015-02-17, accessed 2026-09-25T21:49:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jhw15_exit2.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "국정감사 rows as '국무총리 정홍원' on 2013-10-14 and 2014-10-07 (정무위원회), inside the spell.",
+   "notes": "Offered his resignation on 2014-04-27 after the Sewol ferry disaster. Two successor nominees withdrew (안대희 2014-05-28, 문창극 2014-06-24) and he was kept in office on 2014-06-26, so there is no break in the spell."
+  },
+  {
+   "name": "이완구",
+   "name_hanja": "李完九",
+   "name_en": "LEE Wan Koo",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD WCA3290J, 이완구, NAAS_EN_NM 'LEE Wan Koo', BIRDY_DT 1950-06-02); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_022.json)",
+   "birth_date": "1950-06-02",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2015-02-16",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18454호 (published 2015-02-23, 인사발령(인사혁신처)): 이완구(李完九) 국무총리에 임함 2015. 2. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001424133623441000&tocId=00000000000000001424133669936000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20150223_18454_00000000000000001424133669936000.pdf (accessed 2026-09-25T07:06:49-0400)",
+    "국무총리실 역대총리소개 '제43대 이완구 (2015.02.16 ~ 2015.04.27)': 제43대 이완구 2015.02.16 ~ 2015.04.27; https://www.opm.go.kr/opm/_item/prime71.jsp (accessed 2026-09-24T22:44:12-0400; snapshot roster/sources/pm/opm/prime71.html)",
+    "의안정보시스템 [1913805] 국무총리(이완구) 임명동의안 (대통령), 제안 2015-01-26, 의결 2015-02-16 원안가결: 본회의 원안가결 2015-02-16; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V1Y5F0M1J2R6N1J7A2A7N0U5R6S5I8 (accessed 2026-09-24T22:50:32-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_V1Y5F0M1J2R6N1J7A2A7N0U5R6S5I8.txt)"
+   ],
+   "end": "2015-04-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2015-04-27 17:28:56 '朴대통령, 귀국 당일 이총리 사표 전격 수리(종합)': 朴대통령, 귀국 당일 이총리 사표 전격 수리; https://n.news.naver.com/mnews/article/001/0007556828 (accessed 2026-09-25T07:09:03-0400; snapshot roster/sources/pm/news/naver_001_0007556828.html)",
+    "오마이뉴스 2015-04-27 17:17:03 '박 대통령, 이완구 총리 사표 수리': 박근혜 대통령이 이완구 총리의 사표를 수리; https://n.news.naver.com/mnews/article/047/0002087001 (accessed 2026-09-25T07:09:02-0400; snapshot roster/sources/pm/news/naver_047_0002087001.html)",
+    "국무총리실 역대총리소개 '제43대 이완구 (2015.02.16 ~ 2015.04.27)': 제43대 이완구 2015.02.16 ~ 2015.04.27; https://www.opm.go.kr/opm/_item/prime71.jsp (accessed 2026-09-24T22:44:12-0400; snapshot roster/sources/pm/opm/prime71.html)",
+    "[verifier] BigKinds metadata: 국민일보 2015-04-29 '“공인의 엄중한 책무 많은 생각… 금품의혹, 오늘은 여백을 남기겠다”' news_id 01100201.20150429180855001: 27일 박근혜 대통령에 의해 사표가 수리되자 즉시 이임식을 가졌다 (search '이완구 총리 사표 수리' 2015-04-27..2015-04-29, accessed 2026-09-25T21:44:20-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lwk15_exit.json)",
+    "[verifier] BigKinds metadata: SBS 2015-04-28 '\"총리 퇴진 유감…'성완종 사면' 진실 밝혀야\"' news_id 08100301.20150428174025003: 박근혜 대통령이 이완구 총리의 사표를 수리하고 (search '이완구 총리 사표 수리' 2015-04-27..2015-04-29, accessed 2026-09-25T21:44:20-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lwk15_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 19th NA member (새누리당, 충남 부여군청양군, elected in the 2013-04-24 by-election) from na_members_15_22.csv (mona_cd WCA3290J)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows under his name in valid hearing types. coverage_gaps.csv lists this spell as panel_row_no_in_spell_speech.",
+   "notes": "The gazette dates the appointment 2015-02-16, the day of the consent vote. The 임명장 was handed over on the morning of 2015-02-17 (연합뉴스 2015-02-17 10:17:21 '임명장 받는 이완구 총리': 이완구 신임 국무총리가 17일 오전 청와대에서 ... 임명장; https://n.news.naver.com/mnews/article/001/0007418027 (accessed 2026-09-25T07:08:58-0400; snapshot roster/sources/pm/news/naver_001_0007418027.html)), and some reports count his tenure from 02-17. 부총리 겸 기획재정부장관 최경환 acted as PM 2015-04-27 .. 2015-06-17 (acting[]), until 황교안 was appointed on 2015-06-18. birth_date from OPM prime71 and NA ALLNAMEMBER. [verifier] The 임명장 day 2015-02-17 is confirmed by 아시아경제 2015-02-17 (BigKinds metadata: 아시아경제 2015-02-17 '朴대통령, 오늘(17일) 이완구 총리 임명장 수여' news_id 02100801.20160226012336588: 박근혜 대통령은 17일 오전 이완구 신임 국무총리에게 임명장을 수여한다 (search '정홍원 사표 수리' 2015-02-15..2015-02-17, accessed 2026-09-25T21:49:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jhw15_exit2.json)). The start stays at the gazette date."
+  },
+  {
+   "name": "황교안",
+   "name_hanja": "黃敎安",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1957",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2015-06-18",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제18539호 (published 2015-06-24, 인사발령(인사혁신처)): 황교안(黃敎安) 국무총리에 임함 2015. 6. 18. (name recovered with pdftotext -raw); viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001435016951659000&tocId=00000000000000001435016977881000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20150624_18539_00000000000000001435016977881000.pdf (accessed 2026-09-25T07:08:00-0400)",
+    "국무총리실 역대총리소개 '제44대 황교안 (2015.06.18 ~ 2017.05.11)': 제44대 황교안 2015.06.18 ~ 2017.05.11; https://www.opm.go.kr/opm/_item/prime72.jsp (accessed 2026-09-24T22:44:13-0400; snapshot roster/sources/pm/opm/prime72.html)",
+    "연합뉴스 2015-06-18 14:28:25 '朴대통령, 오후 3시 황교안 총리 임명장 수여': 박근혜 대통령은 18일 오후 3시 청와대에서 황교안 국무총리에 대한 임명장을 수여; https://n.news.naver.com/mnews/article/001/0007669623 (accessed 2026-09-25T07:09:07-0400; snapshot roster/sources/pm/news/naver_001_0007669623.html)"
+   ],
+   "end": "2017-05-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2017-05-11 15:04:15 '文 대통령, 황교안 총리·박승춘 보훈처장 사표 수리': 문재인 대통령은 11일 황교안 국무총리와 박승춘 보훈처장의 사표를 수리; https://n.news.naver.com/mnews/article/001/0009258599 (accessed 2026-09-25T07:09:08-0400; snapshot roster/sources/pm/news/naver_001_0009258599.html)",
+    "뉴시스 2017-05-11 15:06:58 '靑, 황교안 총리·박승춘 보훈처장 사표 수리': 문재인 대통령이 황교안 국무총리와 박승춘 국가보훈처장의 사표를 수리했다고 11일 밝혔다; https://n.news.naver.com/mnews/article/003/0007948955 (accessed 2026-09-25T07:09:09-0400; snapshot roster/sources/pm/news/naver_003_0007948955.html)",
+    "국무총리실 역대총리소개 '제44대 황교안 (2015.06.18 ~ 2017.05.11)': 제44대 황교안 2015.06.18 ~ 2017.05.11; https://www.opm.go.kr/opm/_item/prime72.jsp (accessed 2026-09-24T22:44:13-0400; snapshot roster/sources/pm/opm/prime72.html)",
+    "[verifier] BigKinds metadata: 동아일보 2017-05-12 '황교안 총리 사표 수리… 김수남 檢총장 사의' news_id 01100401.20170512114832049: 문재인 대통령이 11일 황교안 국무총리와 박승춘 국가보훈처장의 사표를 수리했다 (search '황교안 총리 사표 수리' 2017-05-10..2017-05-12, accessed 2026-09-25T21:44:26-0400; snapshot roster/sources/pm/verify/bigkinds/bk_htk17_exit.json)",
+    "[verifier] BigKinds metadata: 중앙일보 2017-05-12 '황교안 사임 … 이낙연 총리 후보자 국회 동의 서두르기로' news_id 01100901.20170512203528001: 문재인 대통령은 11일 황교안 국무총리와 박승춘 국가보훈처장의 사표를 수리했다 (search '황교안 총리 사표 수리' 2017-05-10..2017-05-12, accessed 2026-09-25T21:44:26-0400; snapshot roster/sources/pm/verify/bigkinds/bk_htk17_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "국정감사 row as '국무총리 황교안' on 2015-09-10 (정무위원회), inside the spell. A 국회본회의 row on 2012-09-06 lies before the spell. 국회본회의 rows are unreliable in v9 and are ignored.",
+   "notes": "Served as 대통령 권한대행 2016-12-09 19:03 .. 2017-05-10 08:09 (offices.json) while remaining PM. Not a suspension of the PM office. Stayed into the 문재인 term until his resignation was accepted on 2017-05-11."
+  },
+  {
+   "name": "이낙연",
+   "name_hanja": "李洛淵",
+   "name_en": "LEE NAKYON",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD 0767470D, 이낙연, NAAS_EN_NM 'LEE NAKYON', BIRDY_DT 1952-12-20); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_020.json)",
+   "birth_date": "1952-12-20",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2017-05-31",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19028호 (published 2017-06-13, 인사발령(인사혁신처)): 이낙연(李洛淵) 국무총리에 임함 2017.5.31.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001496987276178000&tocId=00000000000000001496987325721000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20170613_19028_00000000000000001496987325721000.pdf (accessed 2026-09-25T07:05:13-0400)",
+    "국무총리실 역대총리소개 '제45대 이낙연 (2017.05.31 ~ 2020.01.14)': 제45대 이낙연 2017.05.31 ~ 2020.01.14; https://www.opm.go.kr/opm/_item/prime73.jsp (accessed 2026-09-24T22:44:14-0400; snapshot roster/sources/pm/opm/prime73.html)",
+    "연합뉴스 2017-05-31 17:30:00 '文대통령, 이낙연 총리에 임명장 수여': 문재인 대통령은 31일 국회 인준을 받은 이낙연 총리에게 임명장을 수여; https://n.news.naver.com/mnews/article/001/0009306121 (accessed 2026-09-25T07:09:12-0400; snapshot roster/sources/pm/news/naver_001_0009306121.html)"
+   ],
+   "end": "2020-01-14",
+   "end_confidence": "high",
+   "end_sources": [
+    "서울경제 2020-01-14 17:20:01 '대통령-전·현 국무총리, 청와대서 막걸리 회동한다': 이 전 총리는 이날(14일) 오후 서울 도렴동 정부서울청사에서 이임 행사를 진행; https://n.news.naver.com/mnews/article/011/0003680590 (accessed 2026-09-25T07:09:15-0400; snapshot roster/sources/pm/news/naver_011_0003680590.html)",
+    "국무총리실 역대총리소개 '제45대 이낙연 (2017.05.31 ~ 2020.01.14)': 제45대 이낙연 2017.05.31 ~ 2020.01.14; https://www.opm.go.kr/opm/_item/prime73.jsp (accessed 2026-09-24T22:44:14-0400; snapshot roster/sources/pm/opm/prime73.html)",
+    "관보 제19674호 (published 2020-01-22, 인사발령(인사혁신처)): successor 정세균 국무총리에 임함 2020.1.14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001579499704673000&tocId=00000000000000001579499707644000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20200122_19674_00000000000000001579499707644000.pdf (accessed 2026-09-25T07:05:14-0400)",
+    "[verifier] BigKinds metadata: SBS 2020-01-14 '여의도 향하는 이낙연…정세균은 \"협치 · 통합\" 강조' news_id 08100301.20200114203952001: 이낙연 전 총리가 오늘(14일) 정부청사를 떠났습니다 (search '이낙연 총리 이임식' 2020-01-13..2020-01-15, accessed 2026-09-25T21:44:32-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_exit.json)",
+    "[verifier] BigKinds metadata: 중부매일 2020-01-16 '줄줄이 사퇴… 충청 출신 청·정부인사 대거 '출사표'' news_id 01400401.20200116132628001: 4ㆍ15 총선 지역구 출마자에 대한 공직사퇴 시한인 16일 ... 이낙연 전 국무총리가 전날 여당인 더불어민주당으로 복귀해 총선 준비에 본격 시동을 (search '이낙연 당 복귀' 2020-01-13..2020-01-16, accessed 2026-09-25T22:00:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_run2.json)",
+    "[verifier] BigKinds metadata: 한라일보 2020-01-16 '총선 '사퇴시한' 맞춰 청·정부인사 대거 출사표' news_id 01700201.20200116124014001: 우선 이낙연 전 국무총리가 전날 여당인 더불어민주당으로 복귀해 총선 준비에 본격 시동을 걸었다 (search '이낙연 당 복귀' 2020-01-13..2020-01-16, accessed 2026-09-25T22:00:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_run2.json)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "국정감사 rows as '국무총리 이낙연' on 2017-10-12 and 2018-10-10 (정무위원회), inside the spell. Rows on 2013-07-02 .. 2014-06-23 come from 국회본회의 and 국정조사 meetings, when he was an NA member. Those types carry misattached content in v9 and are ignored (coverage_gaps.csv hint agrees).",
+   "notes": "Same-day handover with 정세균 on 2020-01-14 (정세균 임명장 and 이낙연 이임 행사 both on 01-14). birth_date from NA ALLNAMEMBER (OPM prime73 gives 1952)."
+  },
+  {
+   "name": "정세균",
+   "name_hanja": "丁世均",
+   "name_en": "CHUNG SYEKYUN",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD DCN7433W, 정세균, NAAS_EN_NM 'CHUNG SYEKYUN', BIRDY_DT 1950-09-26); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_027.json)",
+   "birth_date": "1950-09-26",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2020-01-14",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19674호 (published 2020-01-22, 인사발령(인사혁신처)): 정세균(丁世均) 국무총리에임함 2020.1.14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001579499704673000&tocId=00000000000000001579499707644000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20200122_19674_00000000000000001579499707644000.pdf (accessed 2026-09-25T07:05:14-0400)",
+    "국무총리실 역대총리소개 '제46대 정세균 (2020.01.13 ~ 2021.04.16)': 제46대 정세균, profile '2020.1. 14 ~ 2021.4. 16 제46대 국무총리'; https://www.opm.go.kr/opm/_item/prime74.jsp (accessed 2026-09-24T22:44:15-0400; snapshot roster/sources/pm/opm/prime74.html)",
+    "연합뉴스 2020-01-14 12:16:29 '문 대통령, 정세균 국무총리 임명 재가…오후 임명장 수여(종합)': 문 대통령, 정세균 국무총리 임명 재가…오후 임명장 수여; https://n.news.naver.com/mnews/article/001/0011334049 (accessed 2026-09-25T07:09:18-0400; snapshot roster/sources/pm/news/naver_001_0011334049.html)",
+    "동아일보 2020-01-14 12:53:01 '文대통령, 정세균 국무총리 임명 재가…오후 임명장 수여': 정 총리의 임기는 공무원 임용령에 따라 이날 0시부터 시작; https://n.news.naver.com/mnews/article/020/0003264204 (accessed 2026-09-25T07:09:21-0400; snapshot roster/sources/pm/news/naver_020_0003264204.html)"
+   ],
+   "end": "2021-04-16",
+   "end_confidence": "high",
+   "end_sources": [
+    "뉴스1 2021-04-16 15:02:41 '정세균·변창흠 '사표 수리'…당분간 홍남기·윤성원 대행(종합2보)': 정세균·변창흠 '사표 수리'…당분간 홍남기·윤성원 대행; https://n.news.naver.com/mnews/article/421/0005293943 (accessed 2026-09-25T07:09:23-0400; snapshot roster/sources/pm/news/naver_421_0005293943.html)",
+    "이데일리 2021-04-17 10:00:15 '총리 직무대행 홍남기…방역·경제 두 마리 토끼 잡을까': 문재인 대통령이 정세균 국무총리의 사표를 수리함에 따라; https://n.news.naver.com/mnews/article/018/0004904297 (accessed 2026-09-25T07:09:25-0400; snapshot roster/sources/pm/news/naver_018_0004904297.html)",
+    "국무총리실 역대총리소개 '제46대 정세균 (2020.01.13 ~ 2021.04.16)': 제46대 정세균 2020.01.13 ~ 2021.04.16; https://www.opm.go.kr/opm/_item/prime74.jsp (accessed 2026-09-24T22:44:15-0400; snapshot roster/sources/pm/opm/prime74.html)",
+    "[verifier] BigKinds metadata: 머니투데이 2021-04-16 '文대통령, 정세균·변창흠 '사표 수리'…홍남기·윤성원 대행' news_id 02100201.20210416152800001: 정세균 국무총리의 사의를 즉각 수용했다 (search '정세균 총리 사표 수리' 2021-04-15..2021-04-17, accessed 2026-09-25T21:44:36-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jsk21_exit.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 20th NA member (더불어민주당, 서울 종로구) from na_members_15_22.csv (mona_cd DCN7433W)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "No PM speaker rows under his name in valid hearing types. coverage_gaps.csv lists this spell as panel_row_no_in_spell_speech.",
+   "notes": "The OPM page header reads 2020.01.13 but its profile line reads 2020.1.14. The gazette, the 재가 report and the 임명장 all give 2020-01-14. birth_date from NA ALLNAMEMBER (OPM prime74 gives 1950)."
+  },
+  {
+   "name": "김부겸",
+   "name_hanja": "金富謙",
+   "name_en": "KIM BOOKYUM",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD UIZ3103R, 김부겸, NAAS_EN_NM 'KIM BOOKYUM', BIRDY_DT 1958-01-21); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_004.json)",
+   "birth_date": "1958-01-21",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2021-05-14",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20006호 (published 2021-05-24, 인사발령(인사혁신처)): 김부겸(金富謙) 국무총리에 임함 2021. 5. 14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001621476581297000&tocId=I0000000000000001621212324307000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20210524_20006_I0000000000000001621212324307000.pdf (accessed 2026-09-24T22:59:14-0400)",
+    "뉴시스 2021-05-14 07:33:50 '文, 김부겸 국무총리 임명안 재가…오늘부터 임기 시작': 文, 김부겸 국무총리 임명안 재가…오늘부터 임기 시작; https://n.news.naver.com/mnews/article/003/0010497898 (accessed 2026-09-25T07:09:28-0400; snapshot roster/sources/pm/news/naver_003_0010497898.html)",
+    "이데일리 2021-05-14 08:09:02 '文대통령, 김부겸 총리 임명 재가…14일 임기 시작': 문재인 대통령은 14일 김부겸 국무총리 임명안을 재가; https://n.news.naver.com/mnews/article/018/0004929236 (accessed 2026-09-25T07:09:29-0400; snapshot roster/sources/pm/news/naver_018_0004929236.html)",
+    "국무총리실 역대총리소개 '제47대 김부겸 (2021.05.15 ~ 2022.05.11)': OPM lists the start as 2021.05.15; https://www.opm.go.kr/opm/_item/prime75.jsp (accessed 2026-09-24T22:44:16-0400; snapshot roster/sources/pm/opm/prime75.html)"
+   ],
+   "end": "2022-05-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2022-05-11 20:38:10 ''첫 국무회의' 3명을 더 확보하라…尹대통령, 임명 강행하나': 김부겸 국무총리도 이날(11일) 밤 12시를 기해 사임한다; https://n.news.naver.com/mnews/article/001/0013172584 (accessed 2026-09-25T07:09:33-0400; snapshot roster/sources/pm/news/naver_001_0013172584.html)",
+    "국무총리실 역대총리소개 '제47대 김부겸 (2021.05.15 ~ 2022.05.11)': 제47대 김부겸 2021.05.15 ~ 2022.05.11; https://www.opm.go.kr/opm/_item/prime75.jsp (accessed 2026-09-24T22:44:16-0400; snapshot roster/sources/pm/opm/prime75.html)",
+    "[verifier] 연합뉴스 2022-05-12 11:15:14 '김부겸 \"공동체 위기 부끄럽다…대화와 타협, 공존과 상생 절실\"(종합)': 11일로 총리 임기 마치고 12일 이임식; https://n.news.naver.com/mnews/article/001/0013173731 (accessed 2026-09-25T21:56:40-0400; snapshot roster/sources/pm/verify/news/naver_001_0013173731.html)",
+    "[verifier] SBS 2022-05-12 15:35:14 '떠나는 김부겸 \"생각 다르다고 편 가르는 민주주의…부끄럽다\"': 어젯(11일)밤 임기가 끝난 김부겸 전 국무총리가 오늘 오전 정부서울청사에서 열린 이임식에서; https://n.news.naver.com/mnews/article/055/0000972750 (accessed 2026-09-25T21:56:18-0400; snapshot roster/sources/pm/verify/news/naver_055_0000972750.html)",
+    "[verifier] 연합뉴스 2022-05-11 16:04:14 '김부겸 총리, 오늘 밤 자정 사임': 12일 0시를 기해 사임하는 김부겸 국무총리가 11일 오후 정부서울청사를 나가고 있다; https://n.news.naver.com/mnews/article/001/0013172055 (accessed 2026-09-25T21:56:58-0400; snapshot roster/sources/pm/verify/news/naver_001_0013172055.html)",
+    "[verifier] BigKinds metadata: 한국일보 2022-05-12 '당분간 '추경호 총리대행' 체제… 각료 제청·국무회의 주재한다' news_id 01101101.20220512182126001: 김부겸 총리가 12일 0시를 기해 임기를 마치면서 (search '김부겸 총리 0시' 2022-05-11..2022-05-13, accessed 2026-09-25T21:48:07-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kbk22_exit3.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Rows 'prime_minister 국무총리 김부겸' on 2016-01-08 (국회본회의) and 2016-10-25 (예산결산특별위원회) predate the spell and come from unreliable meeting types, so they are ignored (coverage_gaps.csv agrees).",
+   "notes": "OPM gives 2021.05.15 as the start, one day after the gazette date and the 재가 reports. Stayed into the 윤석열 term (2022-05-10 .. 05-11) and recommended 추경호 before leaving. Not an NA member at appointment (20th NA ended 2020-05-29). birth_date from NA ALLNAMEMBER (OPM prime75 gives 1958). [verifier] Several 2022-05-12/13 reports call 05-12 his 퇴임 day (경향신문, 한겨레, 경북매일신문, 조선일보), because the 이임식 was at 10:00 on 05-12. 연합뉴스 and SBS of 2022-05-12 say the term ended at midnight on 05-11, so the end stays 2022-05-11 (consistent with 한덕수 2025, whose resignation took effect 2025-05-02 00:00)."
+  },
+  {
+   "name": "한덕수",
+   "name_hanja": "韓悳洙",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1949-06-18",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2022-05-21",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20260호 (published 2022-05-30, 인사발령(인사혁신처)): 한덕수(韓悳洙) 국무총리에 임함 2022. 5. 21.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001653545105714000&tocId=I0000000000000001653191467895000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20220530_20260_I0000000000000001653191467895000.pdf (accessed 2026-09-24T22:37:38-0400)",
+    "국무총리실 역대총리소개 '제48대 한덕수 (2022.5.21 ~ 2025.05.1)': 제48대 한덕수 2022.5.21 ~ 2025.05.1; https://www.opm.go.kr/opm/_item/prime76.jsp (accessed 2026-09-24T22:44:16-0400; snapshot roster/sources/pm/opm/prime76.html)",
+    "연합뉴스 2022-05-21 10:20:10 '尹대통령, 한덕수 국무총리 임명…지명 48일만': 尹대통령, 한덕수 국무총리 임명…지명 48일만; https://n.news.naver.com/mnews/article/001/0013194281 (accessed 2026-09-25T07:09:34-0400; snapshot roster/sources/pm/news/naver_001_0013194281.html)"
+   ],
+   "end": "2025-05-01",
+   "end_confidence": "high",
+   "end_sources": [
+    "경향신문 2025-05-01 23:19 '한덕수, 2일 0시 사직 발효 직전 최상목 사표 수리하고 이주호 만나': resignation effective 2025-05-02 00:00; https://www.khan.co.kr/article/202505012319001 (accessed 2026-09-25T06:52:07-0400; snapshot _rebuild/inventory_sources/web/news/khan_20250501_han_resign_choi_accepted.html, copy roster/sources/pm/offices_refs/khan_20250501_han_resign_choi_accepted.html) [via offices.json]",
+    "파이낸셜뉴스 2025-05-01 23:59 '2일부터 이주호 권한대행 체제로': 2일부터 이주호 권한대행 체제; https://www.fnnews.com/news/202505012332538482 (accessed 2026-09-25T06:52:09-0400; snapshot _rebuild/inventory_sources/web/news/fnnews_20250501_leejuho_acting.html, copy roster/sources/pm/offices_refs/fnnews_20250501_leejuho_acting.html) [via offices.json]",
+    "TV조선 2025-05-01 18:27:57 '한덕수, 대선 출마위해 공직 사임…\"직 내려놓고 더 큰 책임 질 것\"': 한덕수 대통령 권한대행 국무총리가 대선 출마를 위해 공직에서 사임; https://n.news.naver.com/mnews/article/448/0000524837 (accessed 2026-09-25T07:09:48-0400; snapshot roster/sources/pm/news/naver_448_0000524837.html)",
+    "국무총리실 역대총리소개 '제48대 한덕수 (2022.5.21 ~ 2025.05.1)': 제48대 한덕수 2022.5.21 ~ 2025.05.1; https://www.opm.go.kr/opm/_item/prime76.jsp (accessed 2026-09-24T22:44:16-0400; snapshot roster/sources/pm/opm/prime76.html)",
+    "[verifier] BigKinds metadata: 중앙일보 2025-05-02 '한덕수 “개헌 뒤 3년차에 하야” 출마선언…반명 빅텐트 본격화' news_id 01100901.20250502185804001: 대선 출마를 공식 선언했다 ... 전날 대통령 권한대행과 총리직 (search '한덕수 사직' 2025-05-01..2025-05-02, accessed 2026-09-25T21:44:48-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hds25_exit.json)",
+    "[verifier] BigKinds metadata: 한국일보 2025-05-02 '국무회의 정족수 논란...행안부 \"구성원 11명 이상 출석 시 개의 가능\"' news_id 01101101.20250502154644001: 한덕수 전 대통령 권한대행 국무총리와 최상목 전 부총리 겸 기획재정부 장관을 비롯해 국무위원들의 연이은 사퇴로 (search '한덕수 사직' 2025-05-01..2025-05-02, accessed 2026-09-25T21:44:48-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hds25_exit.json)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [
+    {
+     "from": "2024-12-27",
+     "to": "2025-03-24",
+     "reason": "impeachment (국회 탄핵소추 의결 2024-12-27, 헌재 2024헌나9). Powers suspended from the delivery of the 의결서 at 17:19 on 2024-12-27 until the 기각 decision on the morning of 2025-03-24, when he returned to office.",
+     "sources": [
+      "연합뉴스 2024-12-27 18:13 '한총리 직무정지·최상목 대행체제(종합)' (오후 5시 19분 직무정지) (Naver copy): 오후 5시 19분 직무정지; https://n.news.naver.com/mnews/article/001/0015129344 (accessed 2026-09-25T06:43:12-0400; snapshot _rebuild/inventory_sources/web/news/naver_yna_20241227_han_suspended_choi_acting.html, copy roster/sources/pm/offices_refs/naver_yna_20241227_han_suspended_choi_acting.html) [via offices.json]",
+      "헌법재판소 2025. 3. 24. 2024헌나9 국무총리(한덕수) 탄핵 (기각): 기각 2025-03-24; https://www.law.go.kr/DRF/lawService.do?OC=test&target=detc&type=JSON&ID=197159 (accessed 2026-09-25T06:42:08-0400; snapshot _rebuild/inventory_sources/ccourt/detc_2024헌나9_197159.json, copy roster/sources/pm/offices_refs/detc_2024헌나9_197159.json) [via offices.json]",
+      "경향신문 2025-03-24 '헌재, 한덕수 국무총리 탄핵 기각…87일 만에 직무복귀': 87일 만에 직무복귀; https://www.khan.co.kr/article/202503241002001 (accessed 2026-09-25T06:52:06-0400; snapshot _rebuild/inventory_sources/web/news/khan_20250324_han_reinstated.html, copy roster/sources/pm/offices_refs/khan_20250324_han_reinstated.html) [via offices.json]",
+      "머니투데이 2024-12-27 17:45:23 '한덕수 권한대행 '공식적'으로 직무 정지…탄핵소추의결서 정부 송달': 탄핵소추의결서 정부 송달; https://n.news.naver.com/mnews/article/008/0005134119 (accessed 2026-09-25T07:09:39-0400; snapshot roster/sources/pm/news/naver_008_0005134119.html)",
+      "이데일리 2025-03-24 10:05:10 '[속보]헌재, 한덕수 국무총리 탄핵 기각…직무복귀': 헌재, 한덕수 국무총리 탄핵 기각…직무복귀; https://n.news.naver.com/mnews/article/018/0005969152 (accessed 2026-09-25T07:09:42-0400; snapshot roster/sources/pm/news/naver_018_0005969152.html)"
+     ]
+    }
+   ],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Rows as '국무총리 한덕수' on 2022-09-01 and 2022-12-11 come from 국회본회의 meetings, which are not a valid bound type. No row in 상임위원회 or 국정감사.",
+   "notes": "Also 대통령 권한대행 2024-12-14 19:24 .. 2024-12-27 17:19 and 2025-03-24 .. 2025-05-01 (offices.json). Resigned to run in the 2025-06-03 presidential election (he declared on 2025-05-02). Second, non-consecutive spell for the same person (first spell 2007-2008). birth_date from OPM prime66."
+  },
+  {
+   "name": "김민석",
+   "name_hanja": "金民錫",
+   "name_en": "KIM MINSEOK",
+   "name_en_source": "국회 열린국회정보 ALLNAMEMBER (NAAS_CD MLH1404S, 김민석, NAAS_EN_NM 'KIM MINSEOK', BIRDY_DT 1964-05-29); https://open.assembly.go.kr/portal/openapi/ALLNAMEMBER (accessed 2026-09-25T02:15Z; _rebuild/na_members/sources/api/allnamember/page_004.json)",
+   "birth_date": "1964-05-29",
+   "gender": "M",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2025-07-04",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21034호 (published 2025-07-14, 인사발령(인사혁신처)): 김민석(金民錫) 국무총리에 임함 2025. 7. 4.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001752133745126000&tocId=I0000000000000001751845191656000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20250714_21034_I0000000000000001751845191656000.pdf (accessed 2026-09-24T22:59:45-0400)",
+    "국무총리실 역대총리소개 '제49대 김민석 (2025.7.4 ~ 2026.6.30)': 제49대 김민석 2025.7.4 ~ 2026.6.30; https://www.opm.go.kr/opm/_item/prime77.jsp (accessed 2026-09-24T22:44:17-0400; snapshot roster/sources/pm/opm/prime77.html)",
+    "연합뉴스 2025-07-04 14:48:27 '李대통령 \"총리 하기 따라 나라 운명 바뀌어\"…金 \"국정에 속도\"(종합)': 이재명 대통령이 4일 ... 김민석 총리 임명장 수여; https://n.news.naver.com/mnews/article/001/0015488548 (accessed 2026-09-25T07:09:54-0400; snapshot roster/sources/pm/news/naver_001_0015488548.html)"
+   ],
+   "end": "2026-07-01",
+   "end_confidence": "medium",
+   "end_sources": [
+    "연합뉴스 2026-07-01 10:10:04 '金총리 이임식…\"새로운 장에서 더 큰 사명감으로 국정 뒷받침\"': 김민석 국무총리가 1일 ... 정부서울청사에서 열린 이임식에서 이임사; https://n.news.naver.com/mnews/article/001/0016169264 (accessed 2026-09-25T13:04:13-0400; snapshot roster/sources/pm/news/naver_001_0016169264.html)",
+    "국민일보 2026-07-01 10:45:14 '김민석 총리 이임식…“새로운 장에서 큰 사명감으로 뛰겠다”': 김민석 국무총리가 1일 임기를 마무리하며; https://n.news.naver.com/mnews/article/005/0001858232 (accessed 2026-09-25T13:04:31-0400; snapshot roster/sources/pm/news/naver_005_0001858232.html)",
+    "BigKinds metadata: 국민일보 2026-07-02 '돌아온 김민석 “다른 리더십 필요”… 호남 간 정청래 “4통 대통합해야”' news_id 01100201.20260702185204001: 김 전 총리는 1일 오전 이임식을 치른 직후 여의도 민주당 중앙당사 (search '김민석 총리 이임' 2026-06-30..2026-07-02, accessed 2026-09-25T13:36:20-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kms26e.json)",
+    "관보 제21291호 (published 2026-07-31, 인사발령(인사혁신처)): successor 한성숙 국무총리에 임함 2026. 7. 1.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001785309236067000&tocId=I0000000000000001785135780010000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20260731_21291_I0000000000000001785135780010000.pdf (accessed 2026-09-25T12:59:49-0400)",
+    "국무총리실 역대총리소개 '제49대 김민석 (2025.7.4 ~ 2026.6.30)': OPM lists the last day as 2026.6.30; https://www.opm.go.kr/opm/_item/prime77.jsp (accessed 2026-09-24T22:44:17-0400; snapshot roster/sources/pm/opm/prime77.html)",
+    "[verifier] BigKinds metadata: 헤럴드경제 2026-07-01 '이임하는 김민석 총리 “새로운 장에서 더 큰 사명감으로 국정 뒷받침”' news_id 02100701.20260701112341002: 김민석 국무총리는 임기를 마친 1일 (search '김민석 사직' 2026-06-20..2026-07-02, accessed 2026-09-25T21:48:28-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kms26_exit4.json)",
+    "[verifier] BigKinds metadata: MBC 2026-07-02 '\"정청래, 또 할 필요 있나\"‥정, 호남서 '구애'' news_id 08100201.20260702071653001: 퇴임 첫날부터 광폭 행보에 나섰습니다 (search '김민석 이임식' 2026-06-29..2026-07-02, accessed 2026-09-25T21:48:21-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kms26_exit3.json)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 22nd NA member (더불어민주당, 서울 영등포구을) from na_members_15_22.csv (mona_cd MLH1404S)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after the transcript window. He appears as nominee in the 2025-06-24/25 hearing meetings (54930, 54938).",
+   "notes": "Offered his resignation by 2026-06-22 (BigKinds metadata: 내일신문 2026-06-22 '김민석 사의 표명 뒤 방중, ‘마지막’ 외교' news_id 01100301.20260622130933001 (search '김민석 총리 사의' 2026-05-01..2026-06-30, accessed 2026-09-25T13:30:24-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kms26r.json)) to run for 더불어민주당 party leader at the August 2026 convention (a party post, not a public election, so end_reason is resigned). He held his 이임식 as PM on 2026-07-01, the day 한성숙's appointment took effect (same-day handover). OPM gives 2026.6.30 as the last day. birth_date from NA ALLNAMEMBER (OPM prime77 gives 1964)."
+  },
+  {
+   "name": "한성숙",
+   "name_hanja": "韓聖淑",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": null,
+   "gender": "F",
+   "ministry": "국무총리",
+   "office_title": "국무총리",
+   "deputy_pm": false,
+   "start": "2026-07-01",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21291호 (published 2026-07-31, 인사발령(인사혁신처)): 한성숙(韓聖淑) 국무총리에 임함 2026. 7. 1.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001785309236067000&tocId=I0000000000000001785135780010000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20260731_21291_I0000000000000001785135780010000.pdf (accessed 2026-09-25T12:59:49-0400)",
+    "연합뉴스 2026-07-01 10:54:22 '李대통령, 韓총리에 임명장…\"잘 부탁드립니다\" 격려도': 이재명 대통령은 1일 청와대 본관에서 한성숙 신임 국무총리에게 임명장을 수여했다; https://n.news.naver.com/mnews/article/001/0016169540 (accessed 2026-09-25T07:10:06-0400; snapshot roster/sources/pm/news/naver_001_0016169540.html)",
+    "뉴시스 2026-07-01 10:43:26 '이 대통령, 한성숙 국무총리에 임명장 수여…내일 취임식': 이 대통령, 한성숙 국무총리에 임명장 수여…내일 취임식; https://n.news.naver.com/mnews/article/003/0014039389 (accessed 2026-09-25T07:10:07-0400; snapshot roster/sources/pm/news/naver_003_0014039389.html)",
+    "의안정보시스템 [2219175] 국무총리(한성숙) 임명동의안 (대통령), 제안 2026-06-10, 의결 2026-06-30 원안가결: 본회의 원안가결 2026-06-30; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_N2D6X0J6H1Q0A1A9S0P8K2M9M4V7R3 (accessed 2026-09-24T22:52:07-0400; snapshot roster/sources/pm/likms/, text roster/sources/pm/likms/likms_2219175_PRC_N2D6X0J6H1Q0A1A9S0P8K2M9M4V7R3.html)"
+   ],
+   "end": null,
+   "end_confidence": null,
+   "end_sources": [
+    "연합뉴스 2026-09-24 11:49:29 '韓총리 \"철도통합 후 첫 명절…연휴기간 수송능력 극대화\"': (in office on 2026-09-24) 한성숙 국무총리가 ... 24일 서울역을 방문; https://n.news.naver.com/mnews/article/001/0016334597 (accessed 2026-09-25T07:10:11-0400; snapshot roster/sources/pm/news/naver_001_0016334597.html)",
+    "뉴시스 2026-09-24 11:46:50 '한 총리, 추석 연휴 첫날 서울역 방문 \"국민 불편함 없게 대응 철저\"': in office on 2026-09-24; https://n.news.naver.com/mnews/article/003/0014212134 (accessed 2026-09-25T07:10:10-0400; snapshot roster/sources/pm/news/naver_003_0014212134.html)",
+    "[verifier] BigKinds metadata: YTN 2026-09-24 '한 총리, 서울역 격려 방문...\"연휴 수송지원 최선\"\"' news_id 08100401.20260924134401001: 한성숙 국무총리는 연휴 첫날인 오늘(24일) 서울역을 방문해 (search '한성숙 총리' 2026-09-20..2026-09-24, accessed 2026-09-25T22:00:25-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hss26_incumbent.json)",
+    "[verifier] BigKinds metadata: 대전일보 2026-09-23 '韓총리, 美대사 접견…\"한미동맹, 경제·문화로 협력 확대\"' news_id 01400201.20260923213857001: 한성숙 국무총리가 23일 미셸 스틸 신임 주한미국대사를 만나 (search '한성숙 총리' 2026-09-20..2026-09-24, accessed 2026-09-25T22:00:25-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hss26_incumbent.json)"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": "정식",
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after the transcript window.",
+   "notes": "중소벤처기업부장관 when nominated on 2026-06-07. 뉴시스 (2026-07-01) calls her the second woman PM after 한명숙. In office at the cutoff 2026-09-24."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "고건",
+   "office_title": "국무총리",
+   "nomination_date": "1997-03-04",
+   "request_date": "1997-03-04",
+   "likms_bill_id": "014022",
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "1997-03-05",
+   "sources": [
+    "[verifier] 의안정보시스템 [150475] 국무총리(고건)임명동의의건 (정부), 제안 1997-03-04, 의결 1997-03-04 원안가결 (제183회 국회(임시회) 제12차 본회의); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=014022 (text harvest/likms/014022.txt, fetched 2026-09-24T22:45:42-0400)",
+    "[verifier] BigKinds metadata: 세계일보 1997-03-05 '주요정책 공개… 국민 참여 유도/고건 새총리 인터뷰­프로필' news_id 01100701.19970305000000206: 고건 신임국무총리는 4일 김영삼 대통령으로부터 공식으로 총리지명을 받은뒤 (search '고건 총리 지명' 1997-03-03..1997-03-05, accessed 2026-09-25T22:03:44-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_nom.json)",
+    "[verifier] BigKinds metadata: 매일경제 1997-03-05 '새 총리에 고건씨 임명/“경제회생 위해 규제개혁”' news_id 02100101.20160113145938743: 김영삼 대통령은 4일 이수성 국무총리를 경질하고 새 총리에 고총장을 지명했으며 국회임명동의안은 이날 오후 찬성 198,반대 51표로 가결됐다 (search '고건 총리 지명' 1997-03-03..1997-03-05, accessed 2026-09-25T22:03:44-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_nom.json)",
+    "[verifier] BigKinds metadata: 서울경제 1997-03-06 '3·5 개각/새 내각 명단' news_id 02100311.20160315191811346: 고총리는 5일 상오 10시 청와대에서 임명장을 수여받은뒤 (search '고건 총리 임명' 1997-03-04..1997-03-06, accessed 2026-09-25T21:50:48-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_start.json)"
+   ],
+   "notes": "[verifier] Added by the verifier. The nomination predates the window but produced the holdover spell 고건|1997-03-05. Nominated, submitted and consented on the same day. No hearing law yet."
+  },
+  {
+   "nominee": "김종필",
+   "office_title": "국무총리",
+   "nomination_date": "1998-02-23",
+   "request_date": "1998-02-25",
+   "likms_bill_id": "014529",
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "1998-08-18",
+   "sources": [
+    "의안정보시스템 [150985] 국무총리(김종필)임명동의의건 (정부), 제안 1998-02-25, 의결 1998-08-17 원안가결: 제안 1998-02-25, 본회의 원안가결 1998-08-17; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=014529 (accessed 2026-09-24T22:45:56-0400; snapshot roster/sources/pm/likms/, text harvest/likms/014529.txt)",
+    "BigKinds metadata: 경향신문 1998-02-25 'JP총리 지명 자민련 ‘제2도약’/몸불리기로 ‘소여’입지 넓힌다' news_id 01100101.19980225000000601: 김대중 신임대통령이 23일 김종필 자민련 명예총재를 총리로 지명 (search '김종필 총리 지명' 1998-02-15..1998-02-25, accessed 2026-09-25T13:01:57-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98n.json)",
+    "의안정보시스템 [151132] 국무총리임명동의안처리과정에서보존신청된투표함개함동의 (이신범의원등 4인 외 18인), 제안 1998-08-13, 의결 2000-05-29 임기만료폐기: 투표함개함동의 on the aborted 1998-03-02 vote, 임기만료폐기; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=014676 (accessed 2026-09-24T22:46:10-0400; snapshot roster/sources/pm/likms/, text harvest/likms/014676.txt)",
+    "BigKinds metadata: 한국일보 1998-08-19 'DJ­JP 임명장 주고 받으며 모처럼 파안대소' news_id 01101101.19980819000000305: formal 임명장 1998-08-18 (search '김종필 총리 임명장' 1998-08-17..1998-08-19, accessed 2026-09-25T13:02:25-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp98f.json)"
+   ],
+   "notes": "Nominated by 대통령당선인 김대중 on 1998-02-23. The 1998-03-02 plenary vote was aborted (ballot boxes sealed, likms 151132). Appointed 서리 1998-03-03, consent passed 1998-08-17, formal 임명장 1998-08-18. No hearing law yet (PM hearings from 2000-05-30)."
+  },
+  {
+   "nominee": "박태준",
+   "office_title": "국무총리",
+   "nomination_date": "2000-01-11",
+   "request_date": "2000-01-11",
+   "likms_bill_id": "016096",
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2000-01-13",
+   "sources": [
+    "의안정보시스템 [152547] 국무총리(박태준)임명동의의건 (정부), 제안 2000-01-15, 의결 2000-01-13 원안가결: 본회의 원안가결 2000-01-13; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=016096 (accessed 2026-09-24T22:46:24-0400; snapshot roster/sources/pm/likms/, text harvest/likms/016096.txt)",
+    "BigKinds metadata: 부산일보 2000-01-11 '김종필 총리 당 복귀' news_id 01500701.20000111112823003: 김대중 대통령은 11일 자민련 박태준 총재를 차기총리로 지명하고 국회에 총리임명동의안을 제출 (search '김종필 총리 사표' 2000-01-10..2000-01-14, accessed 2026-09-25T13:02:35-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jp00e.json)",
+    "BigKinds metadata: 국제신문 2000-01-14 '발표직전까지 철통보안유지-개각 뒷얘기' news_id 01500401.20000114125315001: 청와대는 이날 박태준(朴泰俊)총리 임명동의안이 국회에서 처리후인 오후 5시30분 임명장을 수여 (search '박태준 총리 임명장' 2000-01-13..2000-01-14, accessed 2026-09-25T13:02:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00s.json)"
+   ],
+   "notes": "request_date from 부산일보 2000-01-11. likms prints 제안일자 2000-01-15, two days after the 2000-01-13 vote, which cannot be right. Before the 2000-05-30 hearing law."
+  },
+  {
+   "nominee": "이한동",
+   "office_title": "국무총리",
+   "nomination_date": "2000-05-22",
+   "request_date": "2000-06-01",
+   "likms_bill_id": "016120",
+   "hearing_dates": [
+    "2000-06-26",
+    "2000-06-27"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2000-06-29",
+   "sources": [
+    "의안정보시스템 [160005] 국무총리(이한동)임명동의의건 (정부), 제안 2000-06-01, 의결 2000-06-29 원안가결: 제안 2000-06-01, 인사청문특별위원회 심사경과보고서 채택 2000-06-28, 본회의 원안가결 2000-06-29; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=016120 (accessed 2026-09-24T22:46:52-0400; snapshot roster/sources/pm/likms/, text harvest/likms/016120.txt)",
+    "의안정보시스템 [152570] 국무총리(이한동)임명동의의건 (정부), 제안 2000-05-22, 의결 2000-05-29 임기만료폐기: first motion 2000-05-22, 임기만료폐기 2000-05-29; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=016115 (accessed 2026-09-24T22:46:38-0400; snapshot roster/sources/pm/likms/, text harvest/likms/016115.txt)",
+    "BigKinds metadata: 충청투데이 2000-05-23 '새총리에 이한동씨' news_id 01400701.20000523231623001: 김대중 대통령은 22일 ... 이한동 총재를 지명하고 국회에 임명 동의를 요청 (search '이한동 총리 지명' 2000-05-21..2000-05-23, accessed 2026-09-25T13:05:32-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhd00n.json)",
+    "연합뉴스 2000-06-27 11:25:00 '<인사청문회 지상중계>-1': 국회 인사청문회특위는 27일 이한동 총리서리를 상대로 이틀째 청문; https://n.news.naver.com/mnews/article/001/0000011585 (accessed 2026-09-25T13:05:07-0400; snapshot roster/sources/pm/news/naver_001_0000011585.html)",
+    "BigKinds metadata: 인천일보 2000-06-28 '겉 핥기 검증 … \"절반의 성공\" 그쳐' news_id 01200401.20000628003130010: 이한동 총리서리에 대한 청문회가 27일 이틀간의 일정을 마치고 종료 (search '이한동 인사청문회' 2000-06-26..2000-06-28, accessed 2026-09-25T13:03:27-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhd00h.json)",
+    "국민일보 2000-06-29 17:33:00 '이한동총리 인준안 통과': 국회는 29일 오후 본회의를 열어 ... 임명동의안을 표결로 통과; https://n.news.naver.com/mnews/article/005/0000009516 (accessed 2026-09-24T22:55:47-0400; snapshot roster/sources/pm/news/naver_005_0000009516.html)"
+   ],
+   "notes": "The first motion (likms 152570, bill_id 016115) was sent to the 15th NA on 2000-05-22 and lapsed on 2000-05-29. It was resubmitted to the 16th NA on 2000-06-01 (the bill used here). First PM 인사청문회. He was appointed 서리 on 2000-05-23 while the motion was pending."
+  },
+  {
+   "nominee": "장상",
+   "office_title": "국무총리",
+   "nomination_date": "2002-07-11",
+   "request_date": "2002-07-15",
+   "likms_bill_id": "021429",
+   "hearing_dates": [
+    "2002-07-29",
+    "2002-07-30"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "rejected",
+   "outcome": "rejected",
+   "outcome_date": "2002-07-31",
+   "sources": [
+    "의안정보시스템 [161625] 국무총리(장상)임명동의안 (정부), 제안 2002-07-15, 의결 2002-07-31 부결: 인사청문특별위원회 심사보고서채택 2002-07-31, 본회의 부결 2002-07-31; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=021429 (accessed 2026-09-24T22:47:35-0400; snapshot roster/sources/pm/likms/, text harvest/likms/021429.txt)",
+    "연합뉴스 2002-07-11 10:26:00 '새 총리서리 장상(종합)': 11일 ... 새 총리서리에 장 상 이화여대 총장을 지명; https://n.news.naver.com/mnews/article/001/0000204568 (accessed 2026-09-24T22:56:04-0400; snapshot roster/sources/pm/news/naver_001_0000204568.html)",
+    "국민일보 2002-07-30 18:38:00 '[장상서리 인사청문회 이모저모] “법정처럼 취급 말라” 격앙': 국회는 30일 장상 국무총리서리와 증인 19명을 출석시킨 가운데 이틀째 인사청문회; https://n.news.naver.com/mnews/article/005/0000113273 (accessed 2026-09-25T13:05:33-0400; snapshot roster/sources/pm/news/naver_005_0000113273.html)",
+    "동아일보 2002-07-30 19:08:00 '[장상지명자·증인답변]“재산세 136만원 더내야”': 30일 이틀째 열린 국회 인사청문회; https://n.news.naver.com/mnews/article/020/0000143479 (accessed 2026-09-25T13:05:46-0400; snapshot roster/sources/pm/news/naver_020_0000143479.html)"
+   ],
+   "notes": "Appointed 서리 on the day of nomination (2002-07-11, 관보 제15150호)."
+  },
+  {
+   "nominee": "장대환",
+   "office_title": "국무총리",
+   "nomination_date": "2002-08-09",
+   "request_date": "2002-08-13",
+   "likms_bill_id": "021634",
+   "hearing_dates": [
+    "2002-08-26",
+    "2002-08-27"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "rejected",
+   "outcome": "rejected",
+   "outcome_date": "2002-08-28",
+   "sources": [
+    "의안정보시스템 [161672] 국무총리(장대환)임명동의안 (정부), 제안 2002-08-13, 의결 2002-08-28 부결: 인사청문특별위원회 심사보고서채택 2002-08-28, 본회의 부결 2002-08-28; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=021634 (accessed 2026-09-24T22:47:49-0400; snapshot roster/sources/pm/likms/, text harvest/likms/021634.txt)",
+    "국민일보 2002-08-09 18:07:00 '총리서리 장대환씨… 임명동의안 내주 국회 제출': 9일 새 총리서리에 장대환 매일경제사장을 지명; https://n.news.naver.com/mnews/article/005/0000114551 (accessed 2026-09-24T22:56:10-0400; snapshot roster/sources/pm/news/naver_005_0000114551.html)",
+    "매일경제 2002-08-27 16:04:00 '[장대환 총리서리 인사청문회 둘째날] 이모저모': [장대환 총리서리 인사청문회 둘째날] (2002-08-27); https://n.news.naver.com/mnews/article/009/0000238597 (accessed 2026-09-25T13:06:16-0400; snapshot roster/sources/pm/news/naver_009_0000238597.html)",
+    "오마이뉴스 2002-08-27 11:32:03 '이 땅에 '총리감'이 그리도 없나장대환씨의 총리 인준을 반대한다': 청문회가 이틀간의 공식일정을 모두 마치고 27일 오후 7시경 막을 내렸다; https://n.news.naver.com/mnews/article/047/0000011174 (accessed 2026-09-25T13:06:27-0400; snapshot roster/sources/pm/news/naver_047_0000011174.html)"
+   ],
+   "notes": "Appointed 서리 on the day of nomination (2002-08-09, 관보 제15174호). A photo caption in the 오마이뉴스 piece says '28일' for the second day, which contradicts its own text (27일)."
+  },
+  {
+   "nominee": "김석수",
+   "office_title": "국무총리",
+   "nomination_date": "2002-09-10",
+   "request_date": "2002-09-17",
+   "likms_bill_id": "021962",
+   "hearing_dates": [
+    "2002-10-01",
+    "2002-10-02"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2002-10-05",
+   "sources": [
+    "의안정보시스템 [161742] 국무총리(김석수)임명동의안 (정부), 제안 2002-09-17, 의결 2002-10-05 원안가결: 인사청문특별위원회 심사보고서채택 2002-10-04, 본회의 원안가결 2002-10-05; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=021962 (accessed 2026-09-24T22:48:03-0400; snapshot roster/sources/pm/likms/, text harvest/likms/021962.txt)",
+    "한국경제 2002-09-10 17:20:00 '총리서리 김석수씨 임명..내주 동의안 국회제출': 10일 새 총리서리에 김석수 ... 지명하고 임명장을 수여; https://n.news.naver.com/mnews/article/015/0000547315 (accessed 2026-09-24T22:56:19-0400; snapshot roster/sources/pm/news/naver_015_0000547315.html)",
+    "매일경제 2002-10-02 15:03:00 '김석수 서리 인사청문회 종료': 국회 인사청문특위는 2일 김석수 총리서리에 대한 이틀간의 인사청문회를 마쳤다; https://n.news.naver.com/mnews/article/009/0000247141 (accessed 2026-09-25T13:06:43-0400; snapshot roster/sources/pm/news/naver_009_0000247141.html)",
+    "관보 제15219호 (published 2002-10-10, 인사발령(행정자치부)): ◉2002년10월 5 일자 국무총리서리 김석수 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319024610401000&tocId=00000000000000001319024625703000&isTocOrder=N; PDF snapshot roster/sources/pm/gazette/gazette_20021010_15219_00000000000000001319024625703000.pdf (accessed 2026-09-24T22:55:18-0400)"
+   ],
+   "notes": "Appointed 서리 on the day of nomination (2002-09-10, 관보 제15201호)."
+  },
+  {
+   "nominee": "고건",
+   "office_title": "국무총리",
+   "nomination_date": "2003-01-22",
+   "request_date": "2003-02-07",
+   "likms_bill_id": "023589",
+   "hearing_dates": [
+    "2003-02-20",
+    "2003-02-21"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "의안정보시스템 [ZZ1652] 국무총리후보자(고건) 인사청문요청안(대통령당선인 노무현): 대통령당선인 노무현 인사청문요청 접수 2003-02-07, 경과보고서채택 2003-02-24; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=023393 (accessed 2026-09-25T06:33:30-0400; _rebuild/harvest/likms/023393.txt; snapshot roster/sources/pm/likms/likms_hearingreq_023393.html)",
+    "의안정보시스템 [162124] 국무총리(고건)임명동의안 (정부), 제안 2003-02-25, 의결 2003-02-26 원안가결: 임명동의안 제안 2003-02-25, 본회의 원안가결 2003-02-26; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=023589 (accessed 2026-09-24T22:48:17-0400; snapshot roster/sources/pm/likms/, text harvest/likms/023589.txt)",
+    "BigKinds metadata: 인천일보 2003-01-23 '새정부 총리 고건 지명' news_id 01200401.20030123003144003: 노무현 대통령 당선자는 22일 고건 전 총리를 차기 정부의 초대 국무총리로 지명 (search '고건 총리 지명' 2003-01-20..2003-01-25, accessed 2026-09-25T13:35:18-0400; snapshot roster/sources/pm/bigkinds/bigkinds_goh03n.json)",
+    "kr-hearings-data v9 transcript meeting_id 30900 (2003-02-20, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 30902 (2003-02-21, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "매일경제 2003-01-29 11:04:00 '고건 총리 청문회 20 · 21일 개최': 고 건 총리 지명자에 대한 인사청문회가 내달 20일과 21일 이틀간 열린다; https://n.news.naver.com/mnews/article/009/0000273599 (accessed 2026-09-25T13:17:23-0400; snapshot roster/sources/pm/news/naver_009_0000273599.html)"
+   ],
+   "notes": "Nominated by 대통령당선인 노무현 under 대통령직인수법 (2003-02-04 amendment). request_date is the hearing request (ZZ1652, bill_id 023393). The consent motion (bill_id 023589) followed on 2003-02-25, and the hearing report was deemed its 심사경과보고서 (인사청문회법 제10조③ per likms)."
+  },
+  {
+   "nominee": "이해찬",
+   "office_title": "국무총리",
+   "nomination_date": "2004-06-08",
+   "request_date": "2004-06-11",
+   "likms_bill_id": "028036",
+   "hearing_dates": [
+    "2004-06-24",
+    "2004-06-25"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2004-06-30",
+   "sources": [
+    "의안정보시스템 [170042] 국무총리(이해찬)임명동의안 (정부), 제안 2004-06-11, 의결 2004-06-29 원안가결: 심사보고서채택 2004-06-28, 본회의 원안가결 2004-06-29; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=028036 (accessed 2026-09-24T22:48:31-0400; snapshot roster/sources/pm/likms/, text harvest/likms/028036.txt)",
+    "BigKinds metadata: 인천일보 2004-06-09 '새 총리 후보에 이해찬의원 지명' news_id 01200401.20040609002732008: 노무현 대통령은 8일 ... 이해찬 의원을 지명 (search '이해찬 총리 지명' 2004-06-07..2004-06-09, accessed 2026-09-25T13:35:28-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhc04n.json)",
+    "YTN 2004-06-25 19:00:22 '총리후보 인사청문회': 인사청문회가 어제에 이어 이틀째 (2004-06-25); https://n.news.naver.com/mnews/article/052/0000041698 (accessed 2026-09-25T13:07:19-0400; snapshot roster/sources/pm/news/naver_052_0000041698.html)",
+    "SBS 2004-06-25 18:41:00 '이해찬 총리 후보 이틀째 인사청문회': 이틀째 인사청문회 ... 25일 청문회; https://n.news.naver.com/mnews/article/055/0000023652 (accessed 2026-09-25T13:07:42-0400; snapshot roster/sources/pm/news/naver_055_0000023652.html)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "한명숙",
+   "office_title": "국무총리",
+   "nomination_date": "2006-03-24",
+   "request_date": "2006-03-31",
+   "likms_bill_id": "034586",
+   "hearing_dates": [
+    "2006-04-17",
+    "2006-04-18"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2006-04-20",
+   "sources": [
+    "의안정보시스템 [174153] 국무총리(한명숙) 임명동의안 (정부), 제안 2006-03-31, 의결 2006-04-19 원안가결: 심사보고서채택, 본회의 원안가결 2006-04-19; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=034586 (accessed 2026-09-24T22:48:44-0400; snapshot roster/sources/pm/likms/, text harvest/likms/034586.txt)",
+    "BigKinds metadata: 브레이크뉴스 2006-03-25 ''헌정사상 최초 여성총리 태동 설레임'' news_id 04100608.20060325111511001: 24일 노무현 대통령은 ... (한명숙 지명, 24일 청와대 브리핑) (search '한명숙 총리 지명' 2006-03-24..2006-03-25, accessed 2026-09-25T13:35:34-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hms06n.json)",
+    "BigKinds metadata: 서울신문 2006-04-19 '19일 인준투표… 첫 女총리 탄생 유력' news_id 01100611.20160421093447718: 국회는 17·18일 양일간 한명숙 국무총리 지명자에 대한 인사청문회를 마치고 (search '한명숙 인사청문회' 2006-04-17..2006-04-19, accessed 2026-09-25T13:33:23-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hms06h.json)",
+    "BigKinds metadata: 세계일보 2006-04-19 '한명숙 총리후보자 인사청문회/ 큰 결점 없어… 첫 ''여성총리'' 무난' news_id 01100701.20060419100001343: 국회가 18일 한명숙 총리 후보자에 대한 이틀간의 인사청문회를 마무리 (search '한명숙 인사청문회' 2006-04-17..2006-04-19, accessed 2026-09-25T13:33:23-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hms06h.json)"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "한덕수",
+   "office_title": "국무총리",
+   "nomination_date": "2007-03-09",
+   "request_date": "2007-03-15",
+   "likms_bill_id": "PRC_K0U7W0N3I1U5P1C8G2V8Q4J8W2D0U2",
+   "hearing_dates": [
+    "2007-03-29",
+    "2007-03-30"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2007-04-03",
+   "sources": [
+    "의안정보시스템 [176230] 국무총리(한덕수) 임명동의안 (정부), 제안 2007-03-15, 의결 2007-04-02 원안가결: 경과보고서채택 2007-03-30 (제3차 전체회의), 본회의 원안가결 2007-04-02; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_K0U7W0N3I1U5P1C8G2V8Q4J8W2D0U2 (accessed 2026-09-24T22:48:58-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_K0U7W0N3I1U5P1C8G2V8Q4J8W2D0U2.txt)",
+    "MBC 2007-03-09 21:30:00 '새 총리 한덕수·비서실장 문재인 지명': 노무현 대통령은 오늘(9일) 새 총리에 한덕수 전 경제부총리를 ... 지명; https://n.news.naver.com/mnews/article/214/0000034397 (accessed 2026-09-25T13:18:53-0400; snapshot roster/sources/pm/news/naver_214_0000034397.html)",
+    "연합뉴스 2007-03-29 16:51:33 '<청문회 초점> 재산형성 의혹(종합)': 한덕수 국무총리 지명자에 대한 29일 국회 인사청문회; https://n.news.naver.com/mnews/article/001/0001589998 (accessed 2026-09-25T13:08:56-0400; snapshot roster/sources/pm/news/naver_001_0001589998.html)",
+    "BigKinds metadata: 국제신문 2007-03-31 '2면/한덕수 인준안 통과전망.인사청문회 종료' news_id 01500401.20070331190424001: 국회 인사청문특위는 30일 ... 이틀째 인사청문회 (search '한덕수 인사청문회' 2007-03-28..2007-03-31, accessed 2026-09-25T13:33:27-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hds07h.json)",
+    "kr-hearings-data v9 transcript meeting_id 35625 (2007-03-29, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 35633 (2007-03-30, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv"
+   ],
+   "notes": "likms bill no 176230."
+  },
+  {
+   "nominee": "한승수",
+   "office_title": "국무총리",
+   "nomination_date": "2008-01-28",
+   "request_date": "2008-02-05",
+   "likms_bill_id": "PRC_K0A8V0Y2T2Q5Q1D7T5C5U3X0T1X9N1",
+   "hearing_dates": [
+    "2008-02-20",
+    "2008-02-21"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2008-02-29",
+   "sources": [
+    "의안정보시스템 [ZZ1894] 국무총리후보자(한승수) 인사청문요청안(대통령당선인): 대통령당선인 인사청문요청 접수 2008-02-05, 심사보고서채택 2008-02-22; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_H0R8W0U2P0O5F1F0C1D2L3S3R8L5U8 (accessed 2026-09-25T06:38:23-0400; _rebuild/harvest/likms/PRC_H0R8W0U2P0O5F1F0C1D2L3S3R8L5U8.txt; snapshot roster/sources/pm/likms/likms_hearingreq_PRC_H0R8W0U2P0O5F1F0C1D2L3S3R8L5U8.html)",
+    "의안정보시스템 [178277] 국무총리(한승수) 임명동의안 (대통령), 제안 2008-02-25, 의결 2008-02-29 원안가결: 임명동의안 제안 2008-02-25, 본회의 원안가결 2008-02-29; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_K0A8V0Y2T2Q5Q1D7T5C5U3X0T1X9N1 (accessed 2026-09-24T22:49:11-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_K0A8V0Y2T2Q5Q1D7T5C5U3X0T1X9N1.txt)",
+    "연합뉴스 2008-01-28 14:09:46 '李당선인, 새정부 총리 한승수 지명': 이명박 대통령 당선인은 28일 새 정부 총리로 한승수 유엔 기후변화특사를 지명; https://n.news.naver.com/mnews/article/001/0001940252 (accessed 2026-09-25T13:19:53-0400; snapshot roster/sources/pm/news/naver_001_0001940252.html)",
+    "kr-hearings-data v9 transcript meeting_id 36879 (2008-02-20, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 36878 (2008-02-21, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv"
+   ],
+   "notes": "Nominated by 대통령당선인 이명박. request_date is the hearing request (ZZ1894). Consent motion bill no 178277 on 2008-02-25."
+  },
+  {
+   "nominee": "정운찬",
+   "office_title": "국무총리",
+   "nomination_date": "2009-09-03",
+   "request_date": "2009-09-09",
+   "likms_bill_id": "PRC_S0B9N0I9H0X9B1E7D5Y0L1S0K8D6L3",
+   "hearing_dates": [
+    "2009-09-21",
+    "2009-09-22"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2009-09-29",
+   "sources": [
+    "의안정보시스템 [1805913] 국무총리(정운찬) 임명동의안 (정부), 제안 2009-09-09, 의결 2009-09-28 원안가결: 인사청문특별위원회 채택 2009-09-25, 본회의 원안가결 2009-09-28; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S0B9N0I9H0X9B1E7D5Y0L1S0K8D6L3 (accessed 2026-09-24T22:49:24-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_S0B9N0I9H0X9B1E7D5Y0L1S0K8D6L3.txt)",
+    "BigKinds metadata: 동아일보 2009-09-04 '“파워 내각” “순항 의문” “억지 충청”' news_id 01100401.20090904065104058: 정운찬 전 서울대 총장이 3일 국무총리에 지명 (search '정운찬 총리 지명' 2009-09-03..2009-09-04, accessed 2026-09-25T13:28:26-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jwc09n.json)",
+    "아시아경제 2009-09-22 12:43:56 '[인사청문회]정운찬, 장남 美국적 포기 \"더 생각해보라\" 만류': 인사청문회 첫날(21일) ... 22일; https://n.news.naver.com/mnews/article/277/0002235452 (accessed 2026-09-25T13:09:46-0400; snapshot roster/sources/pm/news/naver_277_0002235452.html)",
+    "BigKinds metadata: 노컷뉴스 2009-09-26 '鄭 청문보고서 여당 단독 채택…야당은 퇴장' news_id 04100058.20090926135713001: 심사경과보고서가 ... 한나라당 단독으로 채택 (25일) (search '정운찬 청문 경과보고서' 2009-09-22..2009-09-28, accessed 2026-09-25T13:34:51-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jwc09r.json)"
+   ],
+   "notes": "Report adopted by the ruling party alone after the opposition walked out (2009-09-25)."
+  },
+  {
+   "nominee": "김태호",
+   "office_title": "국무총리",
+   "nomination_date": "2010-08-08",
+   "request_date": "2010-08-12",
+   "likms_bill_id": "PRC_O1Z0F0S8B1X2M1W6K3Q4X5Q3C8B3C7",
+   "hearing_dates": [
+    "2010-08-24",
+    "2010-08-25"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2010-08-29",
+   "sources": [
+    "의안정보시스템 [1809082] 국무총리(김태호) 임명동의안 (대통령), 제안 2010-08-12, 의결 2010-09-08 철회: 제안 2010-08-12, 철회 2010-09-08; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O1Z0F0S8B1X2M1W6K3Q4X5Q3C8B3C7 (accessed 2026-09-24T22:49:38-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_O1Z0F0S8B1X2M1W6K3Q4X5Q3C8B3C7.txt)",
+    "BigKinds metadata: 충청일보 2010-08-09 '이명박 정부에 충북은 없다' news_id 01400601.20100809234745002: 이명박 대통령이 지난 8일 ... 김태호 전 경남지사를 국무총리 후보자로 지명 (search '김태호 총리 지명' 2010-08-08..2010-08-09, accessed 2026-09-25T13:28:29-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kth10n.json)",
+    "연합뉴스 2010-08-25 23:36:33 '<의혹 남기고 막내린 김태호 청문회>(종합)': 김태호 국무총리 후보자에 대한 인사청문회가 25일 이틀간의 일정을 마치고 막을 내렸다; https://n.news.naver.com/mnews/article/001/0004623502 (accessed 2026-09-25T13:10:05-0400; snapshot roster/sources/pm/news/naver_001_0004623502.html)",
+    "BigKinds metadata: 동아일보 2010-08-30 '[김태호-신재민-이재훈 후보자 사퇴]민주 “김태호 ‘박연차 의혹’ 끝까지 파헤칠 것”' news_id 01100401.20100830033155024: 29일 김 총리 후보자의 자진 사퇴 (search '김태호 사퇴' 2010-08-29..2010-08-30, accessed 2026-09-25T13:28:31-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kth10w.json)",
+    "[verifier] BigKinds metadata: 중앙일보 2010-08-28 '야당 의원들, 의사봉 잡으며 상정 막아' news_id 01100901.20100828190331002: 인사청문특위의 경과보고서 채택은 야당 반대로 무산됐고 (search '김태호 청문 경과보고서' 2010-08-25..2010-08-30, accessed 2026-09-25T21:54:24-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kth10_report.json)"
+   ],
+   "notes": "Nominee 김태호 (金台鎬, b. 1962, then former 경남지사). Not the same person as the 15th/16th-NA member 김태호 (金泰鎬, 1935). He withdrew on 2010-08-29 before a report was adopted. The motion was formally withdrawn on 2010-09-08."
+  },
+  {
+   "nominee": "김황식",
+   "office_title": "국무총리",
+   "nomination_date": "2010-09-16",
+   "request_date": "2010-09-16",
+   "likms_bill_id": "PRC_V1L0U0V9T1E6B1K9K4Z7N5R9Z1F6T6",
+   "hearing_dates": [
+    "2010-09-29",
+    "2010-09-30"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2010-10-01",
+   "sources": [
+    "의안정보시스템 [1809394] 국무총리(김황식) 임명동의안 (대통령), 제안 2010-09-16, 의결 2010-10-01 원안가결: 심사경과보고서 attached, 본회의 원안가결 2010-10-01; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V1L0U0V9T1E6B1K9K4Z7N5R9Z1F6T6 (accessed 2026-09-24T22:49:51-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_V1L0U0V9T1E6B1K9K4Z7N5R9Z1F6T6.txt)",
+    "BigKinds metadata: 동아일보 2010-09-17 '[김황식 새 총리 내정]‘지산통신’ 다시 관심' news_id 01100401.20100917033232014: 김황식 감사원장이 16일 국무총리 지명을 받자 (search '김황식 총리 지명' 2010-09-16..2010-09-17, accessed 2026-09-25T13:28:35-0400; snapshot roster/sources/pm/bigkinds/bigkinds_khs10n.json)",
+    "YTN 2010-09-30 09:22:45 '김황식 이틀째 인사청문회...병역면제 공방 계속': 김황식 총리 후보자에 대한 이틀째 청문회 (2010-09-30); https://n.news.naver.com/mnews/article/052/0000317689 (accessed 2026-09-25T13:10:57-0400; snapshot roster/sources/pm/news/naver_052_0000317689.html)",
+    "BigKinds metadata: 문화일보 2010-10-01 '김황식 총리임명동의안 오후 본회의 처리 - 한나라 “인준 문제없어”… 민주선 반대' news_id 01100501.20101001100000059: 1일 오전 전체회의를 열어 김 후보자에 대한 경과보고서를 채택여부를 논의 ... 9월29~30일 이틀 동안 인사청문을 거친 (search '김황식 청문 경과보고서' 2010-09-30..2010-10-01, accessed 2026-09-25T13:33:35-0400; snapshot roster/sources/pm/bigkinds/bigkinds_khs10r.json)"
+   ],
+   "notes": "likms lists a 심사경과보고서 document but no 처리일. Same-day reports (2010-10-01) describe the committee meeting to adopt it before the afternoon vote. report_adopted 'yes' rests on the likms document plus those plans."
+  },
+  {
+   "nominee": "김용준",
+   "office_title": "국무총리",
+   "nomination_date": "2013-01-24",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2013-01-29",
+   "sources": [
+    "[verifier] 연합뉴스 2013-01-24 14:19:13 '朴당선인, 새정부 첫 총리 김용준 인수위원장 지명(종합)': 박근혜 대통령 당선인은 24일 새 정부 첫 총리후보자로 김용준 대통령직 인수위원장을 지명했다; https://n.news.naver.com/mnews/article/001/0006057082 (accessed 2026-09-25T21:57:33-0400; snapshot roster/sources/pm/verify/news/naver_001_0006057082.html)",
+    "[verifier] 뉴스1 2013-01-24 15:15:02 '朴 당선인, 초대 총리에 김용준 인수위원장 지명(종합)': 박근혜 대통령 당선인이 24일 새 정부의 내각을 이끌 초대 국무총리에 김용준(75) 대통령직 인수위원회 위원장을 지명했다; https://n.news.naver.com/mnews/article/421/0000142183 (accessed 2026-09-25T21:57:35-0400; snapshot roster/sources/pm/verify/news/naver_421_0000142183.html)",
+    "[verifier] 연합뉴스 2013-01-29 19:14:36 '김용준 국무총리 지명자 전격 사퇴': 김용준 국무총리 지명자가 29일 전격 사퇴했다; https://n.news.naver.com/mnews/article/001/0006065937 (accessed 2026-09-25T21:57:52-0400; snapshot roster/sources/pm/verify/news/naver_001_0006065937.html)",
+    "[verifier] 한국경제TV 2013-01-29 19:31:01 '김용준 총리 후보자 사퇴': 김용준 국무총리 지명자가 29일 전격 사퇴했습니다; https://n.news.naver.com/mnews/article/004/0002169096 (accessed 2026-09-25T21:57:50-0400; snapshot roster/sources/pm/verify/news/naver_004_0002169096.html)",
+    "[verifier] BigKinds metadata: 충북일보 2013-01-31 ''청빈 판사' 김능환, 총리 지명받나' news_id 01400551.20130131175008001: 지난 29일 자진 사퇴했다 (search '김용준 사퇴' 2013-01-29..2013-01-31, accessed 2026-09-25T21:53:18-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kyj13_wd.json)",
+    "[verifier] BigKinds metadata: 광주매일신문 2013-01-31 '인사 파문, 새 정부 정상출범 ‘빨간불’' news_id 01600201.20130131054520001: 당초 박 당선인측은 김 위원장의 추천을 받아 내주 초까지 장관후보자 지명을 마치고 국회에 인사청문요청서를 제출한다는 계획이었다 (search '김용준 인사청문요청서' 2013-01-24..2013-01-31, accessed 2026-09-25T21:53:42-0400; snapshot roster/sources/pm/verify/bigkinds/bk_kyj13_req.json)"
+   ],
+   "notes": "[verifier] Added by the verifier (missing from pm.json). Nominated by 대통령당선인 박근혜 under 대통령직인수법. He withdrew on 2013-01-29 before any 인사청문요청안 reached the Assembly. The likms harvest for the 19th NA holds only ZZ19033 (정홍원) for a PM candidate. hearing_required is true because the 2003 amendment gives a president-elect's PM nominee a hearing. 정홍원 was the replacement (경향신문 2015-02-17 calls him the '대타' after 김용준)."
+  },
+  {
+   "nominee": "정홍원",
+   "office_title": "국무총리",
+   "nomination_date": "2013-02-08",
+   "request_date": "2013-02-12",
+   "likms_bill_id": "PRC_Q1Q3H0K2C2A5D1Y5J0Y0T0D8G5C8K4",
+   "hearing_dates": [
+    "2013-02-20",
+    "2013-02-21",
+    "2013-02-22"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2013-02-26",
+   "sources": [
+    "의안정보시스템 [ZZ19033] 국무총리후보자(정홍원) 인사청문요청안(대통령당선인): 대통령당선인 인사청문요청 접수 2013-02-12; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Z1A3L0W2A1A2K1K7K4N9Z1J3I5R5X7 (accessed 2026-09-25T06:46:55-0400; _rebuild/harvest/likms/PRC_Z1A3L0W2A1A2K1K7K4N9Z1J3I5R5X7.txt; snapshot roster/sources/pm/likms/likms_hearingreq_PRC_Z1A3L0W2A1A2K1K7K4N9Z1J3I5R5X7.html)",
+    "의안정보시스템 [1903848] 국무총리(정홍원) 임명동의안 (대통령), 제안 2013-02-25, 의결 2013-02-26 원안가결: 임명동의안 제안 2013-02-25, 본회의 원안가결 2013-02-26; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Q1Q3H0K2C2A5D1Y5J0Y0T0D8G5C8K4 (accessed 2026-09-24T22:50:05-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_Q1Q3H0K2C2A5D1Y5J0Y0T0D8G5C8K4.txt)",
+    "BigKinds metadata: 동아일보 2013-02-09 '[박근혜정부 1차 인선]‘뚝심총리-꼿꼿실장’ 딱 박근혜 스타일' news_id 01100401.20130209053420066: 박근혜 대통령 당선인은 8일 ... 정홍원 ... 지명 (search '정홍원 총리 지명' 2013-02-08..2013-02-09, accessed 2026-09-25T13:28:41-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jhw13n.json)",
+    "BigKinds metadata: 이데일리 2013-02-26 '정홍원 청문보고서 채택..오후 본회의 처리(상보)' news_id 04101008.20160312013850032: 26일 오후 1시 ... 인사청문 경과보고서를 채택 ... 지난 20일부터 22일까지 사흘간 인사청문회 (search '정홍원 청문 경과보고서' 2013-02-21..2013-02-26, accessed 2026-09-25T13:33:39-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jhw13r.json)",
+    "kr-hearings-data v9 transcript meeting_id 42503 (2013-02-20, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 42508 (2013-02-21, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 42510 (2013-02-22, 인사청문특별위원회): hearing meeting, 1 speech row; _rebuild/inputs/nominee_hearing_meetings.csv"
+   ],
+   "notes": "Nominated by 대통령당선인 박근혜. request_date is the hearing request (ZZ19033). Report adopted 2013-02-26."
+  },
+  {
+   "nominee": "안대희",
+   "office_title": "국무총리",
+   "nomination_date": "2014-05-22",
+   "request_date": "2014-05-26",
+   "likms_bill_id": "PRC_N1K4T0D5H2P6P1O7H2H4V5C2J5W3E9",
+   "hearing_dates": [],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2014-05-28",
+   "sources": [
+    "의안정보시스템 [1910732] 국무총리(안대희) 임명동의안 (대통령), 제안 2014-05-26, 의결 2014-06-02 철회: 제안 2014-05-26, 철회 2014-06-02; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_N1K4T0D5H2P6P1O7H2H4V5C2J5W3E9 (accessed 2026-09-24T22:50:19-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_N1K4T0D5H2P6P1O7H2H4V5C2J5W3E9.txt)",
+    "BigKinds metadata: 동아일보 2014-05-23 '朴대통령-安후보자 ‘위기정국 돌파’ 손발 잘 맞을까' news_id 01100401.20140523151239064: 박근혜 대통령은 22일 새 국무총리 후보로 안대희 전 대법관을 지명 (search '안대희 총리 지명' 2014-05-22..2014-05-23, accessed 2026-09-25T13:28:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_adh14n.json)",
+    "BigKinds metadata: 경북도민일보 2014-05-29 '`전관예우 안대희’낙마의 교훈' news_id 01501101.20140529141452009: 국무총리 후보로 지명된 지 6일 만인 지난 28일 전격 자진사퇴 (search '안대희 사퇴' 2014-05-28..2014-05-29, accessed 2026-09-25T13:28:59-0400; snapshot roster/sources/pm/bigkinds/bigkinds_adh14w.json)"
+   ],
+   "notes": "Withdrew before any hearing. The motion was withdrawn on 2014-06-02. report_adopted 'no' means no hearing and no report."
+  },
+  {
+   "nominee": "문창극",
+   "office_title": "국무총리",
+   "nomination_date": "2014-06-10",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2014-06-24",
+   "sources": [
+    "BigKinds metadata: 프레시안 2014-06-11 ''公人' 문창극에 관한 짧은 연구' news_id 04104008.20140611010610001: 어제(6월 10일) 박근혜 대통령이 ... 문창극을 새 국무총리 후보로 ... 지명 (search '문창극 총리 지명' 2014-06-10..2014-06-11, accessed 2026-09-25T13:29:05-0400; snapshot roster/sources/pm/bigkinds/bigkinds_mck14n.json)",
+    "BigKinds metadata: 동아일보 2014-06-25 '[뉴스분석]낙마, 낙마… 총리 못뽑는 나라' news_id 01100401.20140625151338076: 문창극 국무총리 후보자가 24일 끝내 사퇴 ... 지명된 10일 이후 (search '문창극 사퇴' 2014-06-24..2014-06-25, accessed 2026-09-25T13:29:11-0400; snapshot roster/sources/pm/bigkinds/bigkinds_mck14w.json)"
+   ],
+   "notes": "No consent motion was ever sent to the Assembly (none in the likms harvest for terms 15-22), so request_date and likms_bill_id are null. Withdrew on 2014-06-24."
+  },
+  {
+   "nominee": "이완구",
+   "office_title": "국무총리",
+   "nomination_date": "2015-01-23",
+   "request_date": "2015-01-26",
+   "likms_bill_id": "PRC_V1Y5F0M1J2R6N1J7A2A7N0U5R6S5I8",
+   "hearing_dates": [
+    "2015-02-10",
+    "2015-02-11"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2015-02-16",
+   "sources": [
+    "의안정보시스템 [1913805] 국무총리(이완구) 임명동의안 (대통령), 제안 2015-01-26, 의결 2015-02-16 원안가결: 본회의 원안가결 2015-02-16; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V1Y5F0M1J2R6N1J7A2A7N0U5R6S5I8 (accessed 2026-09-24T22:50:32-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_V1Y5F0M1J2R6N1J7A2A7N0U5R6S5I8.txt)",
+    "BigKinds metadata: 동아일보 2015-01-24 '‘서열 역전’ 껄끄러운 두 부총리' news_id 01100401.20150124140833039: 이완구 원내대표가 23일 새 국무총리 후보자로 지명 (search '이완구 총리 지명' 2015-01-23..2015-01-24, accessed 2026-09-25T13:29:17-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lwk15n.json)",
+    "BigKinds metadata: 이데일리 2015-02-13 '이완구 청문회 후 새정치민주연합 지지율 하락세...결정적 배경은?' news_id 04101008.20160313192125991: 지난 10일과 11일 이틀간 진행된 이완구 국무총리 후보자의 인사청문회 (search '이완구 인사청문회' 2015-02-10..2015-02-13, accessed 2026-09-25T13:33:31-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lwk15h.json)",
+    "BigKinds metadata: 브레이크뉴스 2015-02-16 '與, 이완구 후보자 표결처리 강행하나?' news_id 04100608.20150216110336001: 지난 12일 오후 ... 경과보고서를 야당이 불참한 가운데 여당 단독으로 채택 (search '이완구 청문 경과보고서' 2015-02-11..2015-02-16, accessed 2026-09-25T13:33:45-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lwk15r.json)"
+   ],
+   "notes": "Report adopted by the ruling party alone on 2015-02-12. likms shows the committee row as 회부 2015-01-27, 상정 2015-02-03, 처리 2015-02-03 원안가결, which conflicts with the hearing dates and the 02-12 adoption."
+  },
+  {
+   "nominee": "황교안",
+   "office_title": "국무총리",
+   "nomination_date": "2015-05-21",
+   "request_date": "2015-05-26",
+   "likms_bill_id": "PRC_Z1G5G0E5B2J6R1H7Y5M4Z0D0W3R9R8",
+   "hearing_dates": [
+    "2015-06-08",
+    "2015-06-09",
+    "2015-06-10"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2015-06-18",
+   "sources": [
+    "의안정보시스템 [1915276] 국무총리(황교안) 임명동의안 (대통령), 제안 2015-05-26, 의결 2015-06-18 원안가결: 심사경과보고서 attached, 본회의 원안가결 2015-06-18; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_Z1G5G0E5B2J6R1H7Y5M4Z0D0W3R9R8 (accessed 2026-09-24T22:50:46-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_Z1G5G0E5B2J6R1H7Y5M4Z0D0W3R9R8.txt)",
+    "BigKinds metadata: 동아일보 2015-05-22 '“부패척결-정치개혁”… 법무장관을 총리로' news_id 01100401.20150522141221005: 박근혜 대통령은 21일 신임 국무총리 후보자에 황교안 법무부 장관을 지명 (search '황교안 총리 지명' 2015-05-21..2015-05-22, accessed 2026-09-25T13:29:26-0400; snapshot roster/sources/pm/bigkinds/bigkinds_htk15n.json)",
+    "오마이뉴스 2015-06-10 12:03:03 '웃음짓는 황교안... 막내린 '부실' 청문회': 황교안 국무총리 후보자가 국회 인사청문회 마지막 날인 10일; https://n.news.naver.com/mnews/article/047/0002090289 (accessed 2026-09-25T13:12:30-0400; snapshot roster/sources/pm/news/naver_047_0002090289.html)",
+    "노컷뉴스 2015-06-10 13:34:02 '황교안 청문회 마지막날… '사면 자문', '삼성 X파일' 도마': 9일 국회에서 열린 이틀째 인사청문회; https://n.news.naver.com/mnews/article/079/0002718600 (accessed 2026-09-25T13:12:45-0400; snapshot roster/sources/pm/news/naver_079_0002718600.html)",
+    "BigKinds metadata: 중부일보 2015-06-15 '與, 황교안 임명안 단독처리 강행...국정 정상화 최대 기로' news_id 01400501.20150615155857001: 12일 ... 여당 단독으로 심사경과보고서를 채택 (search '황교안 청문 경과보고서' 2015-06-10..2015-06-18, accessed 2026-09-25T13:33:55-0400; snapshot roster/sources/pm/bigkinds/bigkinds_htk15r.json)"
+   ],
+   "notes": "Three hearing days (06-08 to 06-10). Report adopted by the ruling party alone on 2015-06-12."
+  },
+  {
+   "nominee": "김병준",
+   "office_title": "국무총리",
+   "nomination_date": "2016-11-02",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "nominee_withdrew",
+   "outcome_date": "2016-12-10",
+   "sources": [
+    "BigKinds metadata: 동아일보 2016-11-03 '황교안 총리도 당일 문자받고 교체사실 알아' news_id 01100401.20161103125154067: 황교안 국무총리가 2일 김병준 신임 국무총리 후보자 지명 사실을 ... 통보 (search '김병준 총리 지명' 2016-11-02..2016-11-03, accessed 2026-09-25T13:29:34-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kbj16n.json)",
+    "BigKinds metadata: 경향신문 2016-12-08 '박근혜 정부 최장수 ‘총리 내정자’ 김병준, 거취 어떻게?' news_id 01100101.20161208150140002: 지난 11월 2일 총리로 지명된 이후 37일 ... 청문보고서가 국회에 넘어가지도 못하고 (search '김병준 지명 철회' 2016-11-08..2016-12-31, accessed 2026-09-25T13:29:47-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kbj16w.json)",
+    "BigKinds metadata: 매일경제 2016-12-10 '김병준 총리 내정자, 내정 37일 만에 자연인으로' news_id 02100101.20161210194608003: 김병준 총리 내정자, 내정 37일 만에 자연인으로 ... 내정자 지위에서 물러났습니다 (search '김병준 지명 철회' 2016-11-08..2016-12-31, accessed 2026-09-25T13:29:47-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kbj16w.json)"
+   ],
+   "notes": "No consent motion was sent to the Assembly (none in the likms harvest). After the 2016-12-09 impeachment vote the nomination lapsed. 매일경제 (2016-12-10) reports he left the nominee status. No formal withdrawal act was found, so the outcome and its date are medium confidence. The 박근혜 nomination was never acted on."
+  },
+  {
+   "nominee": "이낙연",
+   "office_title": "국무총리",
+   "nomination_date": "2017-05-10",
+   "request_date": "2017-05-12",
+   "likms_bill_id": "PRC_L1T7G0Q5W1E2J1L7N2L7F0G0P8T2X1",
+   "hearing_dates": [
+    "2017-05-24",
+    "2017-05-25"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2017-05-31",
+   "sources": [
+    "의안정보시스템 [2006874] 국무총리(이낙연) 임명동의안 (대통령), 제안 2017-05-12, 의결 2017-05-31 원안가결: 처리 2017-05-31, 본회의 원안가결 2017-05-31; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L1T7G0Q5W1E2J1L7N2L7F0G0P8T2X1 (accessed 2026-09-24T22:50:59-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_L1T7G0Q5W1E2J1L7N2L7F0G0P8T2X1.txt)",
+    "BigKinds metadata: 브릿지경제 2017-05-11 '문재인 정부 초대 인선…격식보다는 ‘안정화·소통’ 중심' news_id 02100861.20170511003739001: 문 대통령은 10일 새 정부 초대 국무총리에 이낙연 전남지사를 내정 (search '이낙연 총리 지명' 2017-05-10..2017-05-11, accessed 2026-09-25T13:29:53-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lny17n.json)",
+    "연합뉴스 2017-05-25 12:10:53 '이낙연 청문회 이틀째…여야, 한층 거세진 공방': 국회 인사청문회 둘째 날인 25일; https://n.news.naver.com/mnews/article/001/0009291061 (accessed 2026-09-25T13:13:15-0400; snapshot roster/sources/pm/news/naver_001_0009291061.html)",
+    "kr-hearings-data v9 transcript meeting_id 47133 (2017-05-24, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "BigKinds metadata: 경북도민일보 2017-05-31 '문재인 정부 추가 인선 ‘산넘어 산’' news_id 01501101.20170531000241001: 31일 ... 청문경과보고서 채택을 강행 (search '이낙연 청문 경과보고서' 2017-05-25..2017-05-31, accessed 2026-09-25T13:34:42-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lny17r.json)"
+   ],
+   "notes": "Report adopted on 2017-05-31 after 자유한국당 members walked out."
+  },
+  {
+   "nominee": "정세균",
+   "office_title": "국무총리",
+   "nomination_date": "2019-12-17",
+   "request_date": "2019-12-20",
+   "likms_bill_id": "PRC_S1C9N1R2P2F0H1J8S0V9Z2A8I7C6X0",
+   "hearing_dates": [
+    "2020-01-07",
+    "2020-01-08"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2020-01-14",
+   "sources": [
+    "의안정보시스템 [2024334] 국무총리(정세균) 임명동의안 (대통령), 제안 2019-12-20, 의결 2020-01-13 원안가결: ※인사청문회법 제9조제3항에 따라 2020.1.13. 본회의 부의, 원안가결 2020-01-13; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_S1C9N1R2P2F0H1J8S0V9Z2A8I7C6X0 (accessed 2026-09-24T22:51:13-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_S1C9N1R2P2F0H1J8S0V9Z2A8I7C6X0.txt)",
+    "BigKinds metadata: 한국일보 2019-12-18 '[포토뒷담화] 겉으로는 평온해도… 갈길 바쁜 두 ‘총리’' news_id 01101101.20191218050309002: 문재인 대통령이 17일 더불어민주당 정세균 의원을 국무총리 후보자로 지명 (search '정세균 총리 지명' 2019-12-17..2019-12-18, accessed 2026-09-25T13:29:59-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jsk19n.json)",
+    "MBC 2020-01-08 09:19:00 '오늘 이틀째 정세균 인사청문회…여야 공방 계속': 청문회가 어제에 이어 이틀째 (2020-01-08); https://n.news.naver.com/mnews/article/214/0001005774 (accessed 2026-09-25T13:13:59-0400; snapshot roster/sources/pm/news/naver_214_0001005774.html)",
+    "kr-hearings-data v9 transcript meeting_id 49855 (2020-01-07, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "BigKinds metadata: 전남일보 2020-01-12 '오늘 본회의서 정세균 인준 표결 '가닥'' news_id 01600801.20200112165151001: 인사청문경과보고서 채택없이 이날 본회의 직권상정 (search '정세균 경과보고서 본회의 부의' 2020-01-08..2020-01-13, accessed 2026-09-25T13:34:31-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jsk20r.json)"
+   ],
+   "notes": "No report adopted. The Speaker referred the motion to the plenary under 인사청문회법 제9조③."
+  },
+  {
+   "nominee": "김부겸",
+   "office_title": "국무총리",
+   "nomination_date": "2021-04-16",
+   "request_date": "2021-04-21",
+   "likms_bill_id": "PRC_P2Q1S0G4A2J1G1S8X1R5G3B0M2W0B8",
+   "hearing_dates": [
+    "2021-05-06",
+    "2021-05-07"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2021-05-14",
+   "sources": [
+    "의안정보시스템 [2109651] 국무총리(김부겸) 임명동의안 (대통령), 제안 2021-04-21, 의결 2021-05-13 원안가결: 회부 2021-04-22, 상정 2021-04-30, no 처리일, 본회의 원안가결 2021-05-13; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_P2Q1S0G4A2J1G1S8X1R5G3B0M2W0B8 (accessed 2026-09-24T22:51:26-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_P2Q1S0G4A2J1G1S8X1R5G3B0M2W0B8.txt)",
+    "뉴스1 2021-04-16 13:59:34 '국무총리에 TK 출신 김부겸…5개 부처 개각 '관료' 발탁(상보)': 국무총리에 TK 출신 김부겸 (2021-04-16); https://n.news.naver.com/mnews/article/421/0005293625 (accessed 2026-09-25T07:09:22-0400; snapshot roster/sources/pm/news/naver_421_0005293625.html)",
+    "아이뉴스24 2021-05-07 16:16:01 '[인사청문회]김부겸, 차녀일가 특혜 부인에 라임피해자 ‘눈물 증언’': 김부겸 국무총리 후보자 인사청문회 이틀째인 7일; https://n.news.naver.com/mnews/article/031/0000597409 (accessed 2026-09-25T13:14:46-0400; snapshot roster/sources/pm/news/naver_031_0000597409.html)",
+    "kr-hearings-data v9 transcript meeting_id 45908 (2021-05-07, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "BigKinds metadata: 중앙일보 2021-05-14 '‘김부겸 총리’ 여당 단독 의결…야당 “협치 파괴” 피켓항의' news_id 01100901.20210514000552001: 박병석 국회의장의 직권상정에 이은 더불어민주당의 단독 의결 (search '김부겸 직권상정' 2021-05-13..2021-05-14, accessed 2026-09-25T13:39:03-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kbk21r3.json)"
+   ],
+   "notes": "No committee report. The Speaker put the motion to the plenary directly (직권상정) on 2021-05-13."
+  },
+  {
+   "nominee": "한덕수",
+   "office_title": "국무총리",
+   "nomination_date": "2022-04-03",
+   "request_date": "2022-04-07",
+   "likms_bill_id": "PRC_U2Y2R0R5F1T0F1A9B0P9Y1L9A6L4C2",
+   "hearing_dates": [
+    "2022-05-02",
+    "2022-05-03"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "unknown",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-21",
+   "sources": [
+    "의안정보시스템 [ZZ21092] 국무총리후보자(한덕수) 인사청문요청안(대통령당선인): 대통령당선인 인사청문요청 접수 2022-04-07; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_R2J2H0I4M0L7K1P5P5A7W1Q9B5E4C0 (accessed 2026-09-25T07:01:42-0400; _rebuild/harvest/likms/PRC_R2J2H0I4M0L7K1P5P5A7W1Q9B5E4C0.txt; snapshot roster/sources/pm/likms/likms_hearingreq_PRC_R2J2H0I4M0L7K1P5P5A7W1Q9B5E4C0.html)",
+    "의안정보시스템 [2115540] 국무총리(한덕수) 임명동의안 (대통령), 제안 2022-05-10, 의결 2022-05-20 원안가결: 임명동의안 제안 2022-05-10, 본회의 원안가결 2022-05-20; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_U2Y2R0R5F1T0F1A9B0P9Y1L9A6L4C2 (accessed 2026-09-24T22:51:40-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_U2Y2R0R5F1T0F1A9B0P9Y1L9A6L4C2.txt)",
+    "BigKinds metadata: 노컷뉴스 2022-04-04 '김앤장 매년 수억 고문료 논란…한덕수 \"청문회서 해명할 것\"' news_id 04100058.20220404230502001: 윤석열 정부의 첫 신임 국무총리로 지명된 한덕수 전 총리가 3일 오후 (search '한덕수 총리 지명' 2022-04-03..2022-04-04, accessed 2026-09-25T13:30:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hds22n.json)",
+    "연합뉴스 2022-05-03 05:01:05 '국회, 오늘 한덕수 총리·정호영 복지 등 후보자 4명 청문회': 한덕수 국무총리 후보자가 2일 오전 국회에서 열린 인사청문회에 출석 ... 국회는 3일; https://n.news.naver.com/mnews/article/001/0013153114 (accessed 2026-09-25T13:15:27-0400; snapshot roster/sources/pm/news/naver_001_0013153114.html)",
+    "kr-hearings-data v9 transcript meeting_id 46551 (2022-05-02, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 46638 (2022-05-03, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv"
+   ],
+   "notes": "Nominated by 대통령당선인 윤석열. request_date is the hearing request (ZZ21092). likms shows no 처리일 for the special committee, and no report of an adopted 경과보고서 was found, so report_adopted is unknown. [verifier] Re-searched BigKinds ('한덕수 인사청문 경과보고서', '한덕수 청문보고서 채택', '한덕수 인사청문특위', '한덕수 인준안 가결', 2022-05-03..05-21, snapshots roster/sources/pm/verify/bigkinds/bk_hds22_*.json). The reports cover the ministers' reports and the 2022-05-20 vote (208 for) but none states whether the special committee adopted a report, so report_adopted stays unknown."
+  },
+  {
+   "nominee": "김민석",
+   "office_title": "국무총리",
+   "nomination_date": "2025-06-04",
+   "request_date": "2025-06-10",
+   "likms_bill_id": "PRC_V2Q5Z0G6N1V0U1E5S1W5E2U6V5M3V1",
+   "hearing_dates": [
+    "2025-06-24",
+    "2025-06-25"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-04",
+   "sources": [
+    "의안정보시스템 [2210698] 국무총리(김민석) 임명동의안 (대통령), 제안 2025-06-10, 의결 2025-07-03 원안가결: 회부 2025-06-11, 상정 2025-06-18, no 처리일, 본회의 원안가결 2025-07-03; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V2Q5Z0G6N1V0U1E5S1W5E2U6V5M3V1 (accessed 2026-09-24T22:51:54-0400; snapshot roster/sources/pm/likms/, text harvest/likms/PRC_V2Q5Z0G6N1V0U1E5S1W5E2U6V5M3V1.txt)",
+    "BigKinds metadata: 세계일보 2025-06-04 '[사설] 김민석 총리·강훈식 비서실장… 감동없는 친명 일색 인사' news_id 01100701.20250604230716002: 이 대통령은 취임 첫날 국무총리 후보자에 더불어민주당 김민석 의원을 지명 (search '김민석 총리 후보자 지명' 2025-06-04..2025-06-04, accessed 2026-09-25T13:35:42-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kms25n2.json)",
+    "연합뉴스 2025-06-25 19:53:13 '金청문회 파행…국힘 \"자료 오면 복귀\" 與 \"허위 의혹 사과부터\"': 김민석 국무총리 후보자에 대한 국회의 25일 인사청문회 ... 이틀째; https://n.news.naver.com/mnews/article/001/0015470435 (accessed 2026-09-25T13:15:45-0400; snapshot roster/sources/pm/news/naver_001_0015470435.html)",
+    "kr-hearings-data v9 transcript meeting_id 54930 (2025-06-24, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "kr-hearings-data v9 transcript meeting_id 54938 (2025-06-25, 인사청문특별위원회): hearing meeting; _rebuild/inputs/nominee_hearing_meetings.csv",
+    "BigKinds metadata: 머니투데이 2025-07-03 '우원식 \"총리 대행 체제 정상화해야 \"…김민석 동의안 직권 상정' news_id 02100201.20250703143821001: 우원식 국회의장이 김민석 국무총리 후보자에 대한 국회 임명동의안을 직권으로 상정 (search '김민석 청문보고서' 2025-07-03..2025-07-03, accessed 2026-09-25T13:39:33-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kms25r4.json)"
+   ],
+   "notes": "No committee report. The Speaker put the motion to the plenary directly on 2025-07-03."
+  },
+  {
+   "nominee": "한성숙",
+   "office_title": "국무총리",
+   "nomination_date": "2026-06-07",
+   "request_date": "2026-06-10",
+   "likms_bill_id": "PRC_N2D6X0J6H1Q0A1A9S0P8K2M9M4V7R3",
+   "hearing_dates": [
+    "2026-06-25",
+    "2026-06-26"
+   ],
+   "hearing_committee": "인사청문특별위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "passed",
+   "outcome": "appointed",
+   "outcome_date": "2026-07-01",
+   "sources": [
+    "의안정보시스템 [2219175] 국무총리(한성숙) 임명동의안 (대통령), 제안 2026-06-10, 의결 2026-06-30 원안가결: 회부 2026-06-11, 상정 2026-06-18, 처리 2026-06-30 (심사경과보고서), 본회의 원안가결 2026-06-30; https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_N2D6X0J6H1Q0A1A9S0P8K2M9M4V7R3 (accessed 2026-09-24T22:52:07-0400; snapshot roster/sources/pm/likms/, text roster/sources/pm/likms/likms_2219175_PRC_N2D6X0J6H1Q0A1A9S0P8K2M9M4V7R3.html)",
+    "BigKinds metadata: 충청일보 2026-06-07 '새 총리 후보에 네이버 사장 출신 한성숙 중기부 장관 지명' news_id 01400601.20260607222251002: 이재명 대통령은 7일 새 국무총리 후보에 한성숙(60) 중소벤처기업부 장관을 지명 (search '한성숙 총리 후보자 지명' 2026-06-05..2026-06-07, accessed 2026-09-25T13:41:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hss26n4.json)",
+    "BigKinds metadata: 울산신문 2026-06-07 '신임 국무총리 후보자에 한성숙 중기부 장관 지명' news_id 01501301.20260607214621001: 이 대통령은 오늘 국무총리 후보자로 한성숙 중소벤처기업부 장관을 지명 (search '한성숙 총리 후보자 지명' 2026-06-05..2026-06-07, accessed 2026-09-25T13:41:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hss26n4.json)",
+    "파이낸셜뉴스 2026-06-30 22:15:10 '한성숙 총리 인준..심사보고도, 임명동의도 범여권 강행': 한 후보자는 지난 25~26일 인사청문회를 마쳤지만; https://n.news.naver.com/mnews/article/014/0005541929 (accessed 2026-09-25T07:10:00-0400; snapshot roster/sources/pm/news/naver_014_0005541929.html)",
+    "서울신문 2026-06-26 19:38:10 '한성숙 청문회, 이틀째도 부동산 공방…野 “우회증여 의혹” 與 “부끄러운 수준”': 한성숙 국무총리 후보자 인사청문회가 이틀째 이어진 26일; https://n.news.naver.com/mnews/article/081/0003656323 (accessed 2026-09-25T13:16:35-0400; snapshot roster/sources/pm/news/naver_081_0003656323.html)",
+    "BigKinds metadata: 세계일보 2026-06-30 '한성숙 청문보고서 채택… 국힘 불참' news_id 01100701.20260630180839002: 인사청문경과보고서가 30일 더불어민주당 주도로 채택 (search '한성숙 청문 경과보고서' 2026-06-26..2026-06-30, accessed 2026-09-25T13:35:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hss26r.json)"
+   ],
+   "notes": "Report adopted on 2026-06-30 without 국민의힘 members. She kept her post as 중소벤처기업부장관 during the hearing period."
+  }
+ ],
+ "acting": [
+  {
+   "name": "이헌재",
+   "role": "재정경제부장관, 국무총리 직무대행 (정부조직법 제22조)",
+   "from": "2000-05-19",
+   "to": "2000-05-22",
+   "sources": [
+    "BigKinds metadata: 국민일보 2000-05-20 '총회 직무대행 체제…이헌재 재경부장관 직무대행' news_id 01100201.20000520000000210: 이헌재 재경부장관이 직무를 대행 (search '이헌재 총리 직무대행' 2000-05-19..2000-05-23, accessed 2026-09-25T13:03:53-0400; snapshot roster/sources/pm/bigkinds/bigkinds_lhj00a.json)",
+    "BigKinds metadata: 세계일보 2000-05-20 '故진의종 前총리 사위 이헌재 총리직무대행' news_id 01100701.20000520000000404: 이헌재 총리직무대행 (search '박태준 총리 사표 수리' 2000-05-19..2000-05-20, accessed 2026-09-25T13:03:07-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ptj00e.json)",
+    "국민일보 2000-05-19 18:06:00 '박태준총리 사표 수리': 그때까지는 정부조직법에 따라 이헌재 재정경제부 장관이 총리직을 대행; https://n.news.naver.com/mnews/article/005/0000001930 (accessed 2026-09-24T22:55:04-0400; snapshot roster/sources/pm/news/naver_005_0000001930.html)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "이헌재",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2004-05-25",
+   "to": "2004-06-29",
+   "sources": [
+    "프레시안 2004-05-25 11:02:00 '盧, 고건 사표 수리. 이헌재 부총리가 총리대행': 고 총리의 사표가 수리됨에 따라 당분간 이헌재 경제부총리가 총리를 대행한다; https://n.news.naver.com/mnews/article/002/0000010912 (accessed 2026-09-25T07:08:10-0400; snapshot roster/sources/pm/news/naver_002_0000010912.html)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "한덕수",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2006-03-16",
+   "to": "2006-04-19",
+   "sources": [
+    "BigKinds metadata: 서울신문 2006-03-17 '총리대행은 ‘반쪽’?' news_id 01100611.20160421070817238: 한덕수 부총리 겸 재정경제부 장관이 16일 '국무총리 직무대행' (search '한덕수 총리 직무대행' 2006-03-15..2006-03-17, accessed 2026-09-25T13:30:36-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hds06a.json)",
+    "BigKinds metadata: 경향신문 2006-03-17 '韓총리대행 세종로.과천 '두집 살림', 헌정사상 4번째...최소한의 권한행사 그칠듯' news_id 01100101.20060317100008860: 16일 ... 국무총리 직무대행으로서 업무를 시작 (search '한덕수 총리 직무대행' 2006-03-15..2006-03-17, accessed 2026-09-25T13:30:36-0400; snapshot roster/sources/pm/bigkinds/bigkinds_hds06a.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "권오규",
+   "role": "부총리 겸 재정경제부장관, 국무총리 직무대행",
+   "from": "2007-03-07",
+   "to": "2007-04-02",
+   "sources": [
+    "BigKinds metadata: 매일경제 2007-03-07 '정부, 권오규 총리직대 체제 가동' news_id 02100101.20160119152908879: 한명숙 총리가 공식 사임함에 따라 ... 권오규 ... 총리직무대행체제 (search '권오규 총리 직무대행' 2007-03-07..2007-03-09, accessed 2026-09-25T13:30:38-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kok07a.json)",
+    "BigKinds metadata: 강원도민일보 2007-03-08 '권오규 부총리 총리직무 대행' news_id 01300101.20070308141849002: 정부는 7일 한명숙 총리의 공식사임으로 ... 권오규 ... 총리직무대행체제 (search '권오규 총리 직무대행' 2007-03-07..2007-03-09, accessed 2026-09-25T13:30:38-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kok07a.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "윤증현",
+   "role": "기획재정부장관, 국무총리 직무대행 (no deputy PM existed 2008-2013)",
+   "from": "2010-08-11",
+   "to": "2010-09-30",
+   "sources": [
+    "BigKinds metadata: 뉴스핌 2010-08-10 '윤증현 장관, 내일부터 총리직무 대행 - 재정부' news_id 04100078.20160223201250136: 오는 11일 정운찬 국무총리의 이임식 이후부터 ... 총리 직무대행 (search '윤증현 총리 직무대행' 2010-08-10..2010-08-13, accessed 2026-09-25T13:30:40-0400; snapshot roster/sources/pm/bigkinds/bigkinds_yjh10a.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "최경환",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2015-04-27",
+   "to": "2015-06-17",
+   "sources": [
+    "연합뉴스 2015-04-27 17:28:56 '朴대통령, 귀국 당일 이총리 사표 전격 수리(종합)': 새 총리 취임까지 '최경환 총리대행체제'; https://n.news.naver.com/mnews/article/001/0007556828 (accessed 2026-09-25T07:09:03-0400; snapshot roster/sources/pm/news/naver_001_0007556828.html)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "유일호",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2017-05-11",
+   "to": "2017-05-30",
+   "sources": [
+    "BigKinds metadata: 대전일보 2017-05-11 '황교안 사표 수리… 유일호 부총리가 직무 대행' news_id 01400201.20170511175146001: 황교안 사표 수리… 유일호 부총리가 직무 대행 (search '유일호 총리 직무대행' 2017-05-11..2017-05-12, accessed 2026-09-25T13:30:42-0400; snapshot roster/sources/pm/bigkinds/bigkinds_yih17a.json)",
+    "BigKinds metadata: 내일신문 2017-05-11 '문 대통령, 황교안 총리·박승춘 보훈처장 사표 수리' news_id 01100301.20170511145329001: 유일호 경제부총리가 총리대행을 수행 (search '유일호 총리 직무대행' 2017-05-11..2017-05-12, accessed 2026-09-25T13:30:42-0400; snapshot roster/sources/pm/bigkinds/bigkinds_yih17a.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "홍남기",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2021-04-16",
+   "to": "2021-05-13",
+   "sources": [
+    "뉴스1 2021-04-16 15:02:41 '정세균·변창흠 '사표 수리'…당분간 홍남기·윤성원 대행(종합2보)': 김 후보자가 ... 임명되기 전까지 홍남기 부총리 겸 기획재정부 장관이 국무총리 직무대행; https://n.news.naver.com/mnews/article/421/0005293943 (accessed 2026-09-25T07:09:23-0400; snapshot roster/sources/pm/news/naver_421_0005293943.html)",
+    "이데일리 2021-04-17 10:00:15 '총리 직무대행 홍남기…방역·경제 두 마리 토끼 잡을까': 홍남기 경제부총리 겸 기획재정부 장관이 총리 직무 대행; https://n.news.naver.com/mnews/article/018/0004904297 (accessed 2026-09-25T07:09:25-0400; snapshot roster/sources/pm/news/naver_018_0004904297.html)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "추경호",
+   "role": "부총리 겸 기획재정부장관, 국무총리 직무대행",
+   "from": "2022-05-12",
+   "to": "2022-05-20",
+   "sources": [
+    "BigKinds metadata: 한국일보 2022-05-12 '당분간 '추경호 총리대행' 체제… 각료 제청·국무회의 주재한다' news_id 01101101.20220512182126001: 김부겸 총리가 12일 0시를 기해 임기를 마치면서 당분간 추경호 ... 총리 직무를 대행 (search '추경호 총리 직무대행' 2022-05-11..2022-05-13, accessed 2026-09-25T13:30:44-0400; snapshot roster/sources/pm/bigkinds/bigkinds_chk22a.json)",
+    "연합뉴스 2022-05-11 20:38:10 ''첫 국무회의' 3명을 더 확보하라…尹대통령, 임명 강행하나': 김부겸 국무총리도 이날 밤 12시를 기해 사임; https://n.news.naver.com/mnews/article/001/0013172584 (accessed 2026-09-25T07:09:33-0400; snapshot roster/sources/pm/news/naver_001_0013172584.html)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "최상목",
+   "role": "부총리 겸 기획재정부장관, 대통령 권한대행 and 국무총리 직무대행 while PM 한덕수 was suspended",
+   "from": "2024-12-27",
+   "to": "2025-03-24",
+   "sources": [
+    "연합뉴스 2024-12-27 18:13 '한총리 직무정지·최상목 대행체제(종합)' (오후 5시 19분 직무정지) (Naver copy): 한총리 직무정지·최상목 대행체제; https://n.news.naver.com/mnews/article/001/0015129344 (accessed 2026-09-25T06:43:12-0400; snapshot _rebuild/inventory_sources/web/news/naver_yna_20241227_han_suspended_choi_acting.html, copy roster/sources/pm/offices_refs/naver_yna_20241227_han_suspended_choi_acting.html) [via offices.json]",
+    "MBC 2024-12-27 '한덕수 국무총리 탄핵소추안 가결‥최상목이 대통령 권한대행'; https://imnews.imbc.com/news/2024/politics/article/6671379_36431.html (accessed 2026-09-25T06:52:05-0400; snapshot _rebuild/inventory_sources/web/news/mbc_20241227_han_impeached_choi_acting.html, copy roster/sources/pm/offices_refs/mbc_20241227_han_impeached_choi_acting.html) [via offices.json]",
+    "경향신문 2025-03-24 '헌재, 한덕수 국무총리 탄핵 기각…87일 만에 직무복귀'; https://www.khan.co.kr/article/202503241002001 (accessed 2026-09-25T06:52:06-0400; snapshot _rebuild/inventory_sources/web/news/khan_20250324_han_reinstated.html, copy roster/sources/pm/offices_refs/khan_20250324_han_reinstated.html) [via offices.json]",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)"
+   ]
+  },
+  {
+   "name": "이주호",
+   "role": "부총리 겸 교육부장관, 국무총리 직무대행 (also 대통령 권한대행 until 2025-06-04 06:21)",
+   "from": "2025-05-02",
+   "to": "2025-07-03",
+   "sources": [
+    "파이낸셜뉴스 2025-05-01 23:59 '2일부터 이주호 권한대행 체제로': 2일부터 이주호 권한대행 체제; https://www.fnnews.com/news/202505012332538482 (accessed 2026-09-25T06:52:09-0400; snapshot _rebuild/inventory_sources/web/news/fnnews_20250501_leejuho_acting.html, copy roster/sources/pm/offices_refs/fnnews_20250501_leejuho_acting.html) [via offices.json]",
+    "경향신문 2025-05-01 23:19 '한덕수, 2일 0시 사직 발효 직전 최상목 사표 수리하고 이주호 만나'; https://www.khan.co.kr/article/202505012319001 (accessed 2026-09-25T06:52:07-0400; snapshot _rebuild/inventory_sources/web/news/khan_20250501_han_resign_choi_accepted.html, copy roster/sources/pm/offices_refs/khan_20250501_han_resign_choi_accepted.html) [via offices.json]",
+    "조선비즈 2025-06-04 16:32:07 '이주호, 이재명 대통령에게 국무위원 일괄 사표 전달': 이주호 국무총리 직무대행 부총리 겸 교육부 장관이 4일 이재명 대통령에게 국무위원 일괄 사표를 전달; https://n.news.naver.com/mnews/article/366/0001082840 (accessed 2026-09-25T07:09:51-0400; snapshot roster/sources/pm/news/naver_366_0001082840.html)",
+    "BigKinds metadata: 전북도민일보 2025-07-02 '한국장학재단, 2025학년도 2학기 학자금대출 시작' news_id 01601001.20250702143531001: 교육부(국무총리 직무대행 부총리 겸 교육부장관 이주호)와 한국장학재단(이사장 배병일)은 2025학년도 2학기 학자금대출 신청을 2일부터 접수 (search '이주호 국무총리 직무대행' 2025-06-04..2025-07-04, accessed 2026-09-25T13:30:47-0400; snapshot roster/sources/pm/bigkinds/bigkinds_ljh25b.json)",
+    "BigKinds metadata: 머니투데이 2025-07-03 '우원식 \"총리 대행 체제 정상화해야 \"…김민석 동의안 직권 상정' news_id 02100201.20250703143821001: 우원식 '총리 대행 체제 정상화해야' (2025-07-03) (search '김민석 청문보고서' 2025-07-03..2025-07-03, accessed 2026-09-25T13:39:33-0400; snapshot roster/sources/pm/bigkinds/bigkinds_kms25r4.json)",
+    "ko.wikipedia '대한민국 국무총리' (tier 4): 직무대행 rows in the 역대 국무총리 tables; https://ko.wikipedia.org/w/index.php?oldid=42269464 (accessed 2026-09-24T22:42:58-0400; snapshot roster/sources/pm/wiki_ko_대한민국_국무총리.json)",
+    "[verifier] BigKinds metadata: 헤럴드경제 2025-07-01 '李대통령, 방통위원 추가 요구한 이진숙에…“부결확률 높은데 대안 가져오라”' news_id 02100701.20250701153509001: 이주호 국무총리 직무대행 부총리 겸 교육부 장관이 1일 열린 (search '이주호 총리 직무대행' 2025-06-04..2025-07-04, accessed 2026-09-25T21:55:24-0400; snapshot roster/sources/pm/verify/bigkinds/bk_ljh25_acting_end.json)"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "국무총리실 (opm.go.kr) 역대총리 dates differ from the gazette or same-day news by one day in eleven places. They are 고건 end 1998.03.02 (news gives 1998-03-03), 박태준 end 2000.05.18 (사표 수리 05-19), 이한동 end 2002.07.10 (replaced 07-11), 김석수 end 2003.02.26, 고건 end 2004.05.24 (사표 수리 05-25), 한명숙 end 2007.03.06 (공식 사임·이임식 03-07), 한덕수 end 2008.02.28 (이임식 02-29), 한승수 end 2009.09.28 (이임식 09-29), 정세균 start 2020.01.13 in the header (profile and gazette 2020-01-14), 김부겸 start 2021.05.15 (gazette 05-14), 김민석 end 2026.6.30 (이임식 07-01). OPM usually lists the last full day before the successor. This roster follows the rule end = day the resignation was accepted or the day of replacement (same-day handover). Downstream code should treat same-day handovers as a one-day overlap, not a double tenure."
+  },
+  {
+   "severity": "medium",
+   "desc": "김종필 end date 2000-01-12 rests on the OPM page. He tendered his resignation on 2000-01-11 and 박태준 was appointed on 2000-01-13. No report of the acceptance date was found (BigKinds and Naver searches of 2000-01-11..13).",
+   "resolution": "[verifier] Changed to 2000-01-13 (inferred_from_successor). The joint 이·취임식 with 박태준 was on 2000-01-13 (경향신문, 중도일보, 경남신문 2000-01-14)."
+  },
+  {
+   "severity": "medium",
+   "desc": "김석수 end is set to 2003-02-27 (successor 고건's gazette date) with end_confidence inferred_from_successor. Same-day reports place him as acting PM on 2003-02-26 and 02-27 while the 고건 vote was delayed.",
+   "resolution": "[verifier] Kept. 파이낸셜뉴스 and 매일경제 2003-02-26 confirm he was still legally PM (working from home) on 02-26. Namu Wiki's 02-26 exit has no tier 1-3 support."
+  },
+  {
+   "severity": "low",
+   "desc": "고건 (YS-era) start 1997-03-05 is the 임명장 day. The Assembly consented on 1997-03-04 (likms 150475). The spell starts before the window, so this only affects tenure-length variables."
+  },
+  {
+   "severity": "low",
+   "desc": "For the 이완구 start, gazette 제18454호 prints 2015. 2. 16. (consent vote day). The 임명장 was given on 2015-02-17 and ko.wikipedia uses 02-17. The roster uses the gazette date."
+  },
+  {
+   "severity": "medium",
+   "desc": "ko.wikipedia lists three '임시 직무대행' periods that contemporaneous news contradicts. They are 임창열 1998-02-25..03-05 (고건 recommended the new cabinet as incumbent PM on 1998-03-03), 이상주 2003-02-25..26 (김석수 was still performing PM duties on 02-26, 매일경제 and 한국일보 2003-02-26/27), 김우식 2008-02-25..29 (the 2008-02-27 국무회의 was chaired by 한덕수 총리, 부산일보 2008-02-28, 부산일보 2008-02-28 12:00:00 ''노명박 내각'...  이 대통령 주재 첫 국무회의도 '어색한 동거''; https://n.news.naver.com/mnews/article/082/0000168703 (accessed 2026-09-25T13:02:53-0400; snapshot roster/sources/pm/news/naver_082_0000168703.html)). These are not recorded as acting spells.",
+   "resolution": "[verifier] Confirmed for 2008 by a second outlet. BigKinds metadata: 한국경제 2008-02-27 '새정부 벌써 삐걱 … 국정파행 불가피' news_id 02100601.20160121104819700: 27일로 예정된 국무회의도 한승수 총리 후보자 대신에 한덕수 총리가 (search '한덕수 총리 이임식' 2008-02-27..2008-03-02, accessed 2026-09-25T21:44:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_hds08_exit.json)."
+  },
+  {
+   "severity": "medium",
+   "desc": "Vacancies in 2002. After the consent rejections of 장상 (2002-07-31) and 장대환 (2002-08-28) the post stayed vacant until the next 서리 (2002-08-09 and 2002-09-10). Contemporaneous reports describe no designated acting PM. The opposition demanded one (BigKinds metadata: 동아일보 2002-08-02 '“총리代行 임명 국정공백 막아야”' news_id 01100401.20020802062044071 (search '전윤철 총리 직무대행' 2002-07-31..2002-08-09, accessed 2026-09-25T13:30:30-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jyc02a.json)) and the President announced he would sign PM business himself (BigKinds metadata: 세계일보 2002-08-06 ''총리업무' DJ직접처리 반응-배경/\"서리제 집착 무리수\" 비판' news_id 01100701.20020806000000303 (search '총리 공석' 2002-08-01..2002-08-09, accessed 2026-09-25T13:35:56-0400; snapshot roster/sources/pm/bigkinds/bigkinds_jyc02d.json)). ko.wikipedia lists 부총리 전윤철 as 직무대행 2002-08-01..08-08 and 2002-08-29..09-09. He is not recorded in acting[], pending a primary source.",
+   "resolution": "[verifier] Confirmed. BigKinds metadata: 동아일보 2002-08-02 '“총리代行 임명 국정공백 막아야”' news_id 01100401.20020802062044071: 한나라당이 2일 즉각 총리직무대행 임명을 요구하고 나서 (search '전윤철 총리 직무대행' 2002-07-31..2002-09-10, accessed 2026-09-25T21:55:04-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jyc02_acting.json) | BigKinds metadata: 세계일보 2002-08-31 '총리 '서리制'-'職代制' 신경전' news_id 01100701.20020831000000808: 청와대와 정치권이 총리 서리제와 부총리 대행제의 적법성을 둘러싸고 팽팽한 신경전을 거듭하고 있다 (search '총리 직무대행' 2002-08-29..2002-09-10, accessed 2026-09-25T22:00:41-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jyc02_acting2.json). No 직무대행 was designated in either vacancy."
+  },
+  {
+   "severity": "low",
+   "desc": "likms data quirks. The 박태준 motion (152547) 제안일자 2000-01-15 is after its 2000-01-13 passage. 이완구 committee row shows 처리 2015-02-03 원안가결 although the hearing was 02-10/11 and the report was adopted 02-12. 한덕수 2022 committee row shows 회부 2022-05-11 and 상정 2022-04-15."
+  },
+  {
+   "severity": "low",
+   "desc": "Transcript cross-check. Valid-type rows (상임위원회, 국정감사, 인사청문특별위원회) with a PM as speaker exist only for 김황식, 정홍원, 황교안 and 이낙연, all inside their spells. Rows for 한명숙 (2002), 한덕수 (2003, 2017, 2022), 한승수 (2008), 황교안 (2012), 이낙연 (2013-2014) and 김부겸 (2016) come from 국회본회의, 예산결산특별위원회 or 국정조사 meetings, whose dates are unreliable in v9, and are ignored. Rows labelled 'prime_minister' with a committee name as person (2002, 2004, 2010) and a bare '국무총리' speaker in the 2007-10-17 감사원장 hearing (meeting 31244) are speaker-label noise. All other 'prime_minister' rows are PM office staff (비서실장, 국무총리실장 etc.), not PMs. No PM is missing from coverage_gaps.csv."
+  },
+  {
+   "severity": "low",
+   "desc": "Naver News search returned HTTP 403 or empty pages for part of this build (shared rate limit). Items affected were re-sourced from BigKinds metadata (date, outlet, title, snippet). BigKinds full text needs a login, so those citations rest on the snippet shown in the saved search response."
+  },
+  {
+   "severity": "low",
+   "desc": "For the 한덕수 2022 nomination, report_adopted is unknown. likms shows no committee 처리일 and no source on the report was found.",
+   "resolution": "[verifier] Re-searched, still unknown."
+  },
+  {
+   "severity": "low",
+   "desc": "For the 김병준 2016 nomination, no consent motion was filed and no formal withdrawal was found. The outcome date 2016-12-10 is the report date saying he left the nominee status after the 2016-12-09 impeachment vote."
+  },
+  {
+   "severity": "low",
+   "desc": "Day-level continuity (computed). same-day handover 1998-03-03 고건 -> 김종필 | vacancy 2000-05-20..2000-05-22 (3 days) between 박태준 and 이한동, acting 이헌재 (2000-05-19..2000-05-22) | same-day handover 2002-07-11 이한동 -> 장상 | vacancy 2002-08-01..2002-08-08 (8 days) between 장상 and 장대환, acting none recorded | vacancy 2002-08-29..2002-09-09 (12 days) between 장대환 and 김석수, acting none recorded | same-day handover 2003-02-27 김석수 -> 고건 | vacancy 2004-05-26..2004-06-29 (35 days) between 고건 and 이해찬, acting 이헌재 (2004-05-25..2004-06-29) | vacancy 2006-03-16..2006-04-19 (35 days) between 이해찬 and 한명숙, acting 한덕수 (2006-03-16..2006-04-19) | vacancy 2007-03-08..2007-04-02 (26 days) between 한명숙 and 한덕수, acting 권오규 (2007-03-07..2007-04-02) | same-day handover 2008-02-29 한덕수 -> 한승수 | same-day handover 2009-09-29 한승수 -> 정운찬 | vacancy 2010-08-12..2010-09-30 (50 days) between 정운찬 and 김황식, acting 윤증현 (2010-08-11..2010-09-30) | same-day handover 2013-02-26 김황식 -> 정홍원 | same-day handover 2015-02-16 정홍원 -> 이완구 | vacancy 2015-04-28..2015-06-17 (51 days) between 이완구 and 황교안, acting 최경환 (2015-04-27..2015-06-17) | vacancy 2017-05-12..2017-05-30 (19 days) between 황교안 and 이낙연, acting 유일호 (2017-05-11..2017-05-30) | same-day handover 2020-01-14 이낙연 -> 정세균 | vacancy 2021-04-17..2021-05-13 (27 days) between 정세균 and 김부겸, acting 홍남기 (2021-04-16..2021-05-13) | vacancy 2022-05-12..2022-05-20 (9 days) between 김부겸 and 한덕수, acting 추경호 (2022-05-12..2022-05-20) | vacancy 2025-05-02..2025-07-03 (63 days) between 한덕수 and 김민석, acting 이주호 (2025-05-02..2025-07-03) | same-day handover 2026-07-01 김민석 -> 한성숙 | 한덕수 suspended 2024-12-27..2025-03-24",
+   "resolution": "[verifier] Recomputed on the verified file (roster/sources/pm/verify/continuity.json). 김종필 -> 박태준 is now a same-day handover on 2000-01-13."
+  },
+  {
+   "severity": "medium",
+   "desc": "[verifier] OPM 역대총리 end dates are systematically the day before the successor's start or the day before a reported acceptance (고건 1998, 김종필 2000, 박태준 2000, 이한동 2002, 김석수 2003, 고건 2004, 한명숙 2007, 한덕수 2008, 한승수 2009, 김민석 2026). OPM end dates therefore cannot serve as independent evidence of an acceptance date."
+  },
+  {
+   "severity": "low",
+   "desc": "[verifier] Two resignations took legal effect at 00:00 of the following day (김부겸 2022-05-12 00:00, 한덕수 2025-05-02 00:00). Both are coded with end = the preceding day (last full day in office). Downstream code that treats end as the day the resignation took effect should add one day."
+  }
+ ],
+ "verification": {
+  "verified_at": "2026-09-25T22:09:32-0400",
+  "verifier": "adversarial verifier, lineage pm",
+  "status": "complete",
+  "per_spell": {
+   "고건|1997-03-05": "corrected",
+   "김종필|1998-03-03": "corrected",
+   "박태준|2000-01-13": "confirmed",
+   "이한동|2000-05-23": "confirmed",
+   "장상|2002-07-11": "confirmed",
+   "장대환|2002-08-09": "confirmed",
+   "김석수|2002-09-10": "confirmed",
+   "고건|2003-02-27": "confirmed",
+   "이해찬|2004-06-30": "confirmed",
+   "한명숙|2006-04-20": "confirmed",
+   "한덕수|2007-04-03": "confirmed",
+   "한승수|2008-02-29": "confirmed",
+   "정운찬|2009-09-29": "confirmed",
+   "김황식|2010-10-01": "confirmed",
+   "정홍원|2013-02-26": "confirmed",
+   "이완구|2015-02-16": "confirmed",
+   "황교안|2015-06-18": "confirmed",
+   "이낙연|2017-05-31": "corrected",
+   "정세균|2020-01-14": "confirmed",
+   "김부겸|2021-05-14": "confirmed",
+   "한덕수|2022-05-21": "confirmed",
+   "김민석|2025-07-04": "confirmed",
+   "한성숙|2026-07-01": "confirmed"
+  },
+  "summary": {
+   "spells": 23,
+   "confirmed": 20,
+   "corrected": 3,
+   "disputed": 0,
+   "added": 0,
+   "nominations": 28,
+   "nominations_added": 2
+  },
+  "changes": [
+   {
+    "name": "고건",
+    "spell": "고건|1997-03-05",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "high",
+    "evidence": "BigKinds metadata: 세계일보 1998-03-04 '떠나는 고건 전 총리의 “어색한 내각제청”' news_id 01100701.19980304000000405: 김대중 대통령은 3일 김영삼정부 마지막 총리였던 고건 전 총리로부터 내각 제청을 받아 초대 내각을 임명한 뒤 그의 사표를 수리했다 (search '고건 총리 사표' 1998-02-25..1998-03-05, accessed 2026-09-25T21:43:39-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh98_exit2.json)"
+   },
+   {
+    "name": "김종필",
+    "spell": "김종필|1998-03-03",
+    "field": "end",
+    "old": "2000-01-12",
+    "new": "2000-01-13",
+    "evidence": "BigKinds metadata: 경향신문 2000-01-14 '개각 부처반응 - 예상넘은 큰폭에 놀라' news_id 01100101.20000114000000415: 김종필(金鍾泌) 전총리와 박태준(朴泰俊) 신임총리는 국회 총리임명동의안이 순조롭게 통과되자 이날 오후 6시 정부 중앙청사에서 총리 이.취임식을 갖고 공식적인 총리직 인수인계 절차를 마쳤다 (search '김종필 총리 이임식' 2000-01-11..2000-01-15, accessed 2026-09-25T21:43:41-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_exit.json) | BigKinds metadata: 중도일보 2000-01-14 '[경제로비]큰 미련 두지 않아' news_id 01400351.20000114173908004: 박태준 신임 총리와 김종필 전 총리가 13일 저녁 세종로 종합청사에서 이·취임식을 마친 뒤 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json) | BigKinds metadata: 경남신문 2000-01-14 '“총선 엄정·경제개혁 가속”' news_id 01500051.20000114140826101: 김종필(金鐘秘) 전 총리와 박태준(朴泰俊) 신임총리의 이.취업식이 13일 오후 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json). The builder's 2000-01-12 rests only on the OPM page. OPM lists the day before the successor's start even where a same-day acceptance is reported (고건 1998.03.02 vs 사표 수리 03-03, 박태준 2000.05.18 vs 수리 05-19, 고건 2004.05.24 vs 수리 05-25, 한명숙 2007.03.06 vs 사임 03-07), so it is not evidence of a 01-12 acceptance. No acceptance date was found (BigKinds '김종필 사표 수리' 2000-01-10..15 returned 0 items), so end = successor's appointment date 2000-01-13."
+   },
+   {
+    "name": "김종필",
+    "spell": "김종필|1998-03-03",
+    "field": "end_confidence",
+    "old": "medium",
+    "new": "inferred_from_successor",
+    "evidence": "BigKinds metadata: 경향신문 2000-01-14 '개각 부처반응 - 예상넘은 큰폭에 놀라' news_id 01100101.20000114000000415: 김종필(金鍾泌) 전총리와 박태준(朴泰俊) 신임총리는 국회 총리임명동의안이 순조롭게 통과되자 이날 오후 6시 정부 중앙청사에서 총리 이.취임식을 갖고 공식적인 총리직 인수인계 절차를 마쳤다 (search '김종필 총리 이임식' 2000-01-11..2000-01-15, accessed 2026-09-25T21:43:41-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_exit.json) | BigKinds metadata: 중도일보 2000-01-14 '[경제로비]큰 미련 두지 않아' news_id 01400351.20000114173908004: 박태준 신임 총리와 김종필 전 총리가 13일 저녁 세종로 종합청사에서 이·취임식을 마친 뒤 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json) | BigKinds metadata: 경남신문 2000-01-14 '“총선 엄정·경제개혁 가속”' news_id 01500051.20000114140826101: 김종필(金鐘秘) 전 총리와 박태준(朴泰俊) 신임총리의 이.취업식이 13일 오후 (search '김종필 총선' 2000-01-05..2000-01-14, accessed 2026-09-25T21:59:33-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_x4.json). The builder's 2000-01-12 rests only on the OPM page. OPM lists the day before the successor's start even where a same-day acceptance is reported (고건 1998.03.02 vs 사표 수리 03-03, 박태준 2000.05.18 vs 수리 05-19, 고건 2004.05.24 vs 수리 05-25, 한명숙 2007.03.06 vs 사임 03-07), so it is not evidence of a 01-12 acceptance. No acceptance date was found (BigKinds '김종필 사표 수리' 2000-01-10..15 returned 0 items), so end = successor's appointment date 2000-01-13."
+   },
+   {
+    "name": "김종필",
+    "spell": "김종필|1998-03-03",
+    "field": "end_reason",
+    "old": "resigned",
+    "new": "resigned_to_run",
+    "evidence": "BigKinds metadata: 국제신문 2000-01-12 '보수 트로이카 바람몰이-자민련 총선체제 구축' news_id 01500401.20000112124807002: 자민련은 11일 총리직을 사임한김종필(金鍾泌)명예총재의 당 복귀와 이한동(李漢東)의원의 입당에 맞춰 총선지도체제 구축 작업을 일단락짓고 (search '김종필 명예총재 당 복귀 총선' 2000-01-10..2000-01-13, accessed 2026-09-25T22:01:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_run.json) | BigKinds metadata: 전북도민일보 2000-01-12 '자민련 총재대행에 이한동씨' news_id 01601001.20000112150517008: 명예총재인 김종필 총리가 11일 당에 복귀하고 (search '김종필 명예총재 당 복귀 총선' 2000-01-10..2000-01-13, accessed 2026-09-25T22:01:45-0400; snapshot roster/sources/pm/verify/bigkinds/bk_jp00_run.json) | na_members_15_22.csv: 김종필 (金鍾泌) 16th NA member, 자유민주연합 비례대표 list rank 1, seat 2000-05-30..2004-05-29 (elected 2000-04-13). Project usage elsewhere: resigned_to_run for ministers who left ahead of the 2000 general election (강봉균, 남궁석)."
+   },
+   {
+    "name": "박태준",
+    "spell": "박태준|2000-01-13",
+    "field": "notes",
+    "old": "이헌재 acted as PM 2000-05-19 .. 2000-05-23",
+    "new": "2000-05-19 .. 2000-05-22",
+    "evidence": "internal consistency with acting[] (이헌재 2000-05-19..05-22) and 이한동's 서리 appointment on 2000-05-23"
+   },
+   {
+    "name": "이완구",
+    "spell": "이완구|2015-02-16",
+    "field": "notes",
+    "old": "최경환 acted as PM 2015-04-27 .. 2015-06-18",
+    "new": "2015-04-27 .. 2015-06-17",
+    "evidence": "internal consistency with acting[] (최경환 2015-04-27..06-17) and the 황교안 gazette date 2015-06-18"
+   },
+   {
+    "name": "이낙연",
+    "spell": "이낙연|2017-05-31",
+    "field": "end_reason",
+    "old": "replaced",
+    "new": "resigned_to_run",
+    "evidence": "BigKinds metadata: SBS 2020-01-14 '여의도 향하는 이낙연…정세균은 \"협치 · 통합\" 강조' news_id 08100301.20200114203952001: 이낙연 전 총리가 오늘(14일) 정부청사를 떠났습니다 (search '이낙연 총리 이임식' 2020-01-13..2020-01-15, accessed 2026-09-25T21:44:32-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_exit.json) | BigKinds metadata: 중부매일 2020-01-16 '줄줄이 사퇴… 충청 출신 청·정부인사 대거 '출사표'' news_id 01400401.20200116132628001: 4ㆍ15 총선 지역구 출마자에 대한 공직사퇴 시한인 16일 ... 이낙연 전 국무총리가 전날 여당인 더불어민주당으로 복귀해 총선 준비에 본격 시동을 (search '이낙연 당 복귀' 2020-01-13..2020-01-16, accessed 2026-09-25T22:00:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_run2.json) | BigKinds metadata: 한라일보 2020-01-16 '총선 '사퇴시한' 맞춰 청·정부인사 대거 출사표' news_id 01700201.20200116124014001: 우선 이낙연 전 국무총리가 전날 여당인 더불어민주당으로 복귀해 총선 준비에 본격 시동을 걸었다 (search '이낙연 당 복귀' 2020-01-13..2020-01-16, accessed 2026-09-25T22:00:13-0400; snapshot roster/sources/pm/verify/bigkinds/bk_lny20_run2.json) | na_members_15_22.csv: 이낙연 (李洛淵) 21st NA member, 서울 종로구, seat from 2020-05-30 (elected 2020-04-15). The exit was timed to the 2020-01-16 공직사퇴 시한, which is how the project codes such exits (강봉균 2000)."
+   },
+   {
+    "name": "김용준 (nomination)",
+    "field": "nominations",
+    "old": null,
+    "new": "added (2013-01-24 .. 2013-01-29, nominee_withdrew)",
+    "evidence": "[verifier] 연합뉴스 2013-01-24 14:19:13 '朴당선인, 새정부 첫 총리 김용준 인수위원장 지명(종합)': 박근혜 대통령 당선인은 24일 새 정부 첫 총리후보자로 김용준 대통령직 인수위원장을 지명했다; https://n.news.naver.com/mnews/article/001/0006057082 (accessed 2026-09-25T21:57:33-0400; snapshot roster/sources/pm/verify/news/naver_001_0006057082.html) | [verifier] 뉴스1 2013-01-24 15:15:02 '朴 당선인, 초대 총리에 김용준 인수위원장 지명(종합)': 박근혜 대통령 당선인이 24일 새 정부의 내각을 이끌 초대 국무총리에 김용준(75) 대통령직 인수위원회 위원장을 지명했다; https://n.news.naver.com/mnews/article/421/0000142183 (accessed 2026-09-25T21:57:35-0400; snapshot roster/sources/pm/verify/news/naver_421_0000142183.html) | [verifier] 연합뉴스 2013-01-29 19:14:36 '김용준 국무총리 지명자 전격 사퇴': 김용준 국무총리 지명자가 29일 전격 사퇴했다; https://n.news.naver.com/mnews/article/001/0006065937 (accessed 2026-09-25T21:57:52-0400; snapshot roster/sources/pm/verify/news/naver_001_0006065937.html)"
+   },
+   {
+    "name": "고건 (nomination 1997)",
+    "field": "nominations",
+    "old": null,
+    "new": "added (likms 014022, 1997-03-04, appointed 1997-03-05)",
+    "evidence": "[verifier] 의안정보시스템 [150475] 국무총리(고건)임명동의의건 (정부), 제안 1997-03-04, 의결 1997-03-04 원안가결 (제183회 국회(임시회) 제12차 본회의); https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=014022 (text harvest/likms/014022.txt, fetched 2026-09-24T22:45:42-0400) | [verifier] BigKinds metadata: 세계일보 1997-03-05 '주요정책 공개… 국민 참여 유도/고건 새총리 인터뷰­프로필' news_id 01100701.19970305000000206: 고건 신임국무총리는 4일 김영삼 대통령으로부터 공식으로 총리지명을 받은뒤 (search '고건 총리 지명' 1997-03-03..1997-03-05, accessed 2026-09-25T22:03:44-0400; snapshot roster/sources/pm/verify/bigkinds/bk_goh97_nom.json)"
+   }
+  ],
+  "completeness": [
+   "Independent holder lists not used by the builder are Namu Wiki '대한민국 국무총리/명단' (tenure table and 국회 표결 table, snapshot roster/sources/pm/verify/namu_대한민국_국무총리_명단.html, accessed 2026-09-25T21:40:03-0400) and Wikidata P39 holders of Q15407843 (roster/sources/pm/verify/wikidata_Q15407843_holders.json). Namu lists the same 23 holders for the window (고건 30대 through 한성숙 50대, with 서리 장상 and 장대환 as '후보자가 서리 수행'). Wikidata is incomplete and vandalised (the 김민석 item label reads '김똥'). Neither adds a holder.",
+   "Gazette corpus (harvest/gazette_text, GAZETTE_DONE present, 2709 인사 files 2001-01..2026-09) grepped with letter-spacing allowed for 국무총리(서리)에 임함 gave 20 notices (roster/sources/pm/verify/gazette_pm_hits.json). Every notice maps to a spell start or to the 김석수 서리-to-정식 conversion (2002-10-05). No 직무대행 or exit notice for a PM exists in the corpus.",
+   "Transitions checked. 1998 (고건 holdover to 1998-03-03, 사표 수리 that day), 2003 (김석수 holdover to 2003-02-27), 2008 (한덕수 holdover to 2008-02-29, chaired the 02-27 국무회의), 2013 (김황식 to 02-26), 2017 (황교안 to 05-11), 2022 (김부겸 to 05-11), 2025 (vacant since 2025-05-02, 이주호 acting until 김민석 on 07-04).",
+   "Short tenures and 서리 phases are all present, namely 장상 (21 days), 장대환 (20 days), 이완구 (70 days) and the 서리 phases of 김종필, 이한동 and 김석수. No 서리 appointment after 2002 (Namu 4.2 총리 서리제).",
+   "Election exits. 김종필 2000 and 이낙연 2020 left before the general-election resignation deadline and were elected, now coded resigned_to_run. 한덕수 2025 was already resigned_to_run. No PM left for the 2002-2026 local elections or the 2026-06-03 by-elections. 김민석 (2026) left for a party leadership race, coded resigned.",
+   "Nominations against likms. All 33 PM-related bills in harvest/likms_cabinet_bills.csv were checked. Every 임명동의안 and 인사청문요청안 is cited in a nomination entry (the 1997 고건 motion 014022 was missing and is added). The first 이한동 motion (016115, lapsed 2000-05-29) and the two 이한동 특위 구성결의안 (016127, 016135) are cited in the 이한동 entry. 151132 (투표함개함동의) is cited in the 김종필 entry. PM nominees without a bill are 김용준 2013 (added), 문창극 2014 and 김병준 2016."
+  ],
+  "transcript_check": "roster/scripts/pm_verify_04_transcripts.py, output roster/sources/pm/verify/transcript_check.json. 8 valid-type rows (상임위원회, 국정감사, 인사청문특별위원회) with a PM speaker, all inside the named spell (김황식 x3, 정홍원 x2, 이낙연 x2, 황교안 x1). 5 label-noise rows (특위 names as person, 법제처 행정심판위원회 상임위원, a bare '국무총리' in the 2007-10-17 감사원장 hearing). 15 rows from 국회본회의, 예산결산특별위원회 and 국정조사 were ignored. No acting-PM rows. coverage_gaps.csv has no PM missing from the roster.",
+  "continuity": "roster/scripts/pm_verify_05_continuity.py, output roster/sources/pm/verify/continuity.json. No overlaps. 10 same-day handovers (1998-03-03, 2000-01-13, 2002-07-11, 2003-02-27, 2008-02-29, 2009-09-29, 2013-02-26, 2015-02-16, 2020-01-14, 2026-07-01). 12 vacancies. Ten are covered by a 직무대행 in acting[] (2000-05, 2004, 2006, 2007, 2010, 2015, 2017, 2021, 2022, 2025). The other two, 2002-08-01..08-08 (after 장상) and 2002-08-29..09-09 (after 장대환), are not. Contemporaneous reports show no 직무대행 was designated (동아일보 2002-08-02, 세계일보 2002-08-31, cited in issues), so these are true vacancies. The window start 1998-02-25 is covered by 고건 and the cutoff 2026-09-24 by 한성숙.",
+  "field_hygiene": "roster/scripts/pm_verify_07_hygiene.py, output roster/sources/pm/verify/hygiene.json. appointing_president matches the start date and the transitions for all 23 spells. None started inside an acting-president window (2004-03-12..05-14, 2016-12-09..2017-05-10, 2024-12-14..2025-06-04), so appointed_by_acting_president is false throughout. deputy_pm is false for all (offices.json OF001 has no 부총리 title). mp_hint agrees with na_members_15_22.csv on the start date for every spell (hanja matched after NFKC, the NA file uses U+F9E1 for 李). pm_status 서리 and pm_acting_until agree (김종필 to 1998-08-17, 이한동 to 2000-06-28, 김석수 to 2002-10-04, 장상 and 장대환 서리 only). reorg_continuation false and reappointed_on_reorg null (the office was never renamed). The one suspension (한덕수 2024-12-27..2025-03-24) matches offices.json. end_reason changed for 김종필 and 이낙연 (resigned_to_run). The PM is in scope by design (OF001 in_scope true).",
+  "gazette_reread": [
+   "관보 제15150호 (published 2002-07-16, 인사발령): ◉2002년 7 월11일자 ... 장 상(張 裳) ... 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023015056000&tocId=00000000000000001319023033715000&isTocOrder=N; harvest text harvest/gazette_text/20020716_15150_00000000000000001319023033715000.txt (fetched 2026-09-24T22:45:48-0400; re-read by verifier)",
+   "관보 제15174호 (published 2002-08-14, 인사발령(행정자치부)): ◉2002년 8 월 9 일자 ... 장 대 환(張 大 煥) ... 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319023668872000&tocId=00000000000000001319023683847000&isTocOrder=N; harvest text harvest/gazette_text/20020814_15174_00000000000000001319023683847000.txt (fetched 2026-09-24T22:49:17-0400; re-read by verifier)",
+   "관보 제15201호 (published 2002-09-16, 인사발령(행정자치부)): ◉2002년 9 월10일자 ... 김 석 수(金 碩 洙) ... 국무총리서리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319024250483000&tocId=00000000000000001319024263957000&isTocOrder=N; harvest text harvest/gazette_text/20020916_15201_00000000000000001319024263957000.txt (fetched 2026-09-24T22:52:14-0400; re-read by verifier)",
+   "관보 제15219호 (published 2002-10-10, 인사발령(행정자치부)): ◉2002년10월 5 일자 ... 국무총리서리 김 석 수(金 碩 洙) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319024610401000&tocId=00000000000000001319024625703000&isTocOrder=N; harvest text harvest/gazette_text/20021010_15219_00000000000000001319024625703000.txt (fetched 2026-09-24T22:55:18-0400; re-read by verifier)",
+   "관보 제15338호 (published 2003-03-05, 인사발령(행정자치부)): ◉2003년 2 월27일자 ... 고 건(高 建) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N; harvest text harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (fetched 2026-09-24T22:44:28-0400; re-read by verifier)",
+   "관보 제15737호 (published 2004-07-06, 인사발령(중앙인사위원회)): ⊙2004년 6 월30일자 ... 이 해 찬(李 海 瓚) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319031606036000&tocId=00000000000000001319031615639000&isTocOrder=N; harvest text harvest/gazette_text/20040706_15737_00000000000000001319031615639000.txt (fetched 2026-09-24T22:46:50-0400; re-read by verifier)",
+   "관보 제16241호 (published 2006-04-25, 인사발령(중앙인사위원회)): ⊙2006년 4 월20일자 ... 한 명 숙(韓 明 淑) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319601224501000&tocId=00000000000000001319601237566000&isTocOrder=N; harvest text harvest/gazette_text/20060425_16241_00000000000000001319601237566000.txt (fetched 2026-09-25T06:44:17-0400; re-read by verifier)",
+   "관보 제16479호 (published 2007-04-09, 인사발령(중앙인사위원회)): ⊙2007년 4 월 3 일자 ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319076722987000&tocId=00000000000000001319076734650000&isTocOrder=N; harvest text harvest/gazette_text/20070409_16479_00000000000000001319076734650000.txt (fetched 2026-09-25T06:46:41-0400; re-read by verifier)",
+   "관보 제16703호 (published 2008-03-06, 인사발령(행정안전부)): ⊙2008년 2월 29일자 ... 한 승 수(韓 昇 洙) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N; harvest text harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt (fetched 2026-09-24T22:54:23-0400; re-read by verifier)",
+   "관보 제17102호 (published 2009-10-05, 인사발령(행정안전부)): ⊙2009년 9월 29일자 ... 정 운 찬(鄭 雲 燦) ... 국무총리에 임함; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319107322452000&tocId=00000000000000001319107338228000&isTocOrder=N; harvest text harvest/gazette_text/20091005_17102_00000000000000001319107338228000.txt (fetched 2026-09-25T06:52:23-0400; re-read by verifier)",
+   "관보 제17356호 (published 2010-10-07, 인사발령(행정안전부)): 국무총리에 임함 ... 2010.10.1; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319095935310000&tocId=00000000000000001319095948933000&isTocOrder=N; harvest text harvest/gazette_text/20101007_17356_00000000000000001319095948933000.txt (fetched 2026-09-25T06:54:54-0400; re-read by verifier) [name missing in the harvest text; pdftotext -raw on roster/sources/pm/gazette/gazette_20101007_17356_00000000000000001319095948933000.pdf prints '김 황 식(金 滉 植) 국무총리에 임함 2010.10.1']",
+   "관보 제17964호 (published 2013-03-05, 인사발령(행정안전부)): 정홍원(鄭烘原) ... 국무총리에 임함 ... 2013. 2. 26.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001362356557309000&tocId=00000000000000001362356604070000&isTocOrder=N; harvest text harvest/gazette_text/20130305_17964_00000000000000001362356604070000.txt (fetched 2026-09-25T07:01:43-0400; re-read by verifier)",
+   "관보 제18454호 (published 2015-02-23, 인사발령(인사혁신처)): 이완구(李完九) ... 국무총리에 임함 ... 2015. 2. 16.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001424133623441000&tocId=00000000000000001424133669936000&isTocOrder=N; harvest text harvest/gazette_text/20150223_18454_00000000000000001424133669936000.txt (fetched 2026-09-25T07:06:49-0400; re-read by verifier)",
+   "관보 제18539호 (published 2015-06-24, 인사발령(인사혁신처)): 국무총리에 임함 ... 2015. 6. 18.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001435016951659000&tocId=00000000000000001435016977881000&isTocOrder=N; harvest text harvest/gazette_text/20150624_18539_00000000000000001435016977881000.txt (fetched 2026-09-25T07:08:00-0400; re-read by verifier) [name missing in the harvest text; pdftotext -raw on roster/sources/pm/gazette/gazette_20150624_18539_00000000000000001435016977881000.pdf prints '황교안(黃敎安) 국무총리에 임함 2015. 6. 18.']",
+   "관보 제19028호 (published 2017-06-13, 인사발령(인사혁신처)): 이낙연(李洛淵) ... 국무 총 리에 임함 ... 2017.5.31.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001496987276178000&tocId=00000000000000001496987325721000&isTocOrder=N; harvest text harvest/gazette_text/20170613_19028_00000000000000001496987325721000.txt (fetched 2026-09-25T07:05:13-0400; re-read by verifier)",
+   "관보 제19674호 (published 2020-01-22, 인사발령(인사혁신처)): 정세균(丁世均) ... 국무총리에임함 ... 2020.1.14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001579499704673000&tocId=00000000000000001579499707644000&isTocOrder=N; harvest text harvest/gazette_text/20200122_19674_00000000000000001579499707644000.txt (fetched 2026-09-25T07:05:14-0400; re-read by verifier)",
+   "관보 제20006호 (published 2021-05-24, 인사발령(인사혁신처)): 김부겸(金富謙) ... 국무총리에 임함 ... 2021. 5. 14.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001621476581297000&tocId=I0000000000000001621212324307000&isTocOrder=N; harvest text harvest/gazette_text/20210524_20006_I0000000000000001621212324307000.txt (fetched 2026-09-24T22:59:14-0400; re-read by verifier)",
+   "관보 제20260호 (published 2022-05-30, 인사발령(인사혁신처)): 한덕수(韓悳洙) ... 국무총리에 임함 ... 2022. 5. 21.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001653545105714000&tocId=I0000000000000001653191467895000&isTocOrder=N; harvest text harvest/gazette_text/20220530_20260_I0000000000000001653191467895000.txt (fetched 2026-09-24T22:37:38-0400; re-read by verifier)",
+   "관보 제21034호 (published 2025-07-14, 인사발령(인사혁신처)): 김민석(金民錫) ... 국무총리에 임함 ... 2025. 7. 4.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001752133745126000&tocId=I0000000000000001751845191656000&isTocOrder=N; harvest text harvest/gazette_text/20250714_21034_I0000000000000001751845191656000.txt (fetched 2026-09-24T22:59:45-0400; re-read by verifier)",
+   "관보 제21291호 (published 2026-07-31, 인사발령(인사혁신처)): 한성숙(韓聖淑) ... 국무총리에 임함 ... 2026. 7. 1.; viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001785309236067000&tocId=I0000000000000001785135780010000&isTocOrder=N; harvest text harvest/gazette_text/20260731_21291_I0000000000000001785135780010000.txt (fetched 2026-09-25T12:59:49-0400; re-read by verifier)"
+  ],
+  "scripts": [
+   "roster/scripts/pm_verify_00_init.py",
+   "roster/scripts/pm_verify_01_gazette_grep.py",
+   "roster/scripts/pm_verify_02_independent_lists.py",
+   "roster/scripts/pm_verify_03_bigkinds.py",
+   "roster/scripts/pm_verify_04_transcripts.py",
+   "roster/scripts/pm_verify_05_continuity.py",
+   "roster/scripts/pm_verify_06_naver.py",
+   "roster/scripts/pm_verify_07_hygiene.py",
+   "roster/scripts/pm_verify_cite.py",
+   "roster/scripts/pm_verify_08_build.py"
+  ],
+  "job_files": "roster/sources/pm/verify/jobs/",
+  "snapshots": "roster/sources/pm/verify/"
+ },
+ "built_at_original": "2026-09-25T13:48:52-0400",
+ "verified_from": "roster/pm.json"
+}

@@ -1,0 +1,1151 @@
+{
+ "lineage": "unification",
+ "built_at": "2026-09-26T12:49:07-0400",
+ "window": "1988-02-25..1998-02-24",
+ "ministry_names": [
+  {
+   "ministry": "국토통일원",
+   "from": "1988-02-25",
+   "to": "1990-12-26",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제3854호 (version effective 1987-01-01) 제26조② (국토통일원, 장관은 국무위원으로 보하고). Renamed by 법률 제4268호 (promulgated and effective 1990-12-27), 제23조의2 신설, 제26조 삭제, 부칙 제2조. Its minister was not a 부총리.",
+   "source": "offices_1988.json OFA04 (GOA_3854, GOA_4268, ARCH_OG0016466)"
+  },
+  {
+   "ministry": "통일원",
+   "from": "1990-12-27",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": "부총리 겸 통일원장관 (1990-12-27..1998-02-27, 정부조직법 제17조①③ as amended by 법률 제4268호, kept by 법률 제4831호)",
+   "legal_basis": "정부조직법 법률 제4268호 제23조의2 (통일원, 장관은 국무위원으로 보하고) and 제17조. 법률 제5153호 in force at window end. Abolished by 법률 제5529호 (1998-02-28), 부칙 제3조① 표.",
+   "source": "offices_1988.json OFA05 (GOA_4268, GOA_5153, GOA_5529, ARCH_OG0016126)"
+  }
+ ],
+ "spells": [
+  {
+   "name": "허문도",
+   "name_hanja": "許文道",
+   "name_en": "Heo Mun-do",
+   "name_en_source": "Wikidata Q12624821 (via ko.wikipedia title '허문도'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1940-02-26",
+   "gender": "M",
+   "ministry": "국토통일원",
+   "office_title": "국토통일원장관",
+   "deputy_pm": false,
+   "start": "1986-08-27",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '13대 허문도 1986.08.27∼ 1988.02.24 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1986-08-27 p.1 \"신임閣僚에 任命狀\" (Naver News Library article 1986082700209201006, OCR full text, quote '全斗煥대통령은 27일오전金宗鎬내무부장관등 신임각료들에게 임명장을수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700209201006&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00020&pageNo=1&printNo=19971&publishType=00020, accessed 2026-09-26T09:41:41-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082700209201006.json)",
+    "중앙일보 1986-08-27 \"신임 각료에 임명장\" (BigKinds news_id 01100901.19860827214434005, full text via bigkinds_article, quote '전두환 대통령은 27일 상오 김종호 내무장관 등 9개 부처장관과 이상훈 비상기획위원장에게 임명장을 수여했다', accessed 2026-09-26T09:44:53-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19860827214434005.json)",
+    "경향신문 1986-08-27 p.2 \"새長官\"意慾의一聲\"\" (Naver News Library article 1986082700329202004, OCR full text, quote '27일상오 취임식을가진 許文道(허문도)신임장관' (취임식 on 1986-08-27), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329202004&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=2&printNo=12591&publishType=00020, accessed 2026-09-26T09:30:54-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082700329202004.json)",
+    "경향신문 1986-08-26 p.1 \"10部장관 更迭\" (Naver News Library article 1986082600329201004, OCR full text, quote '許文道(허문도) 청와대정무1수석비서관을 각각 임명발령했다' (announcement and 발령 reported on 1986-08-26), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600329201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00032&pageNo=1&printNo=12590&publishType=00020, accessed 2026-09-26T09:07:43-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082600329201004.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1986_08_26_0010 '통일원장관 허문도 임명' (tier 2, https://db.history.go.kr/id/tcct_1986_08_26_0010, accessed 2026-09-26T09:04:54-0400, snapshot roster/sources/unification/ext88/hist/hist_1986-08-26.html)"
+   ],
+   "end": "1988-02-25",
+   "end_confidence": "medium",
+   "end_sources": [
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR full text, quote '金貞烈국무총리를 비롯한제5공화국각료들의 일괄사표는 25일 오전 수리됐다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400, snapshot roster/sources/unification/ext88/nl/nl_1988022600239101004.json)",
+    "매일경제 1988-02-25 p.1 \"李賢宰내각 발족 새閣僚에 임명장\" (Naver News Library article 1988022500099201010, OCR full text, quote '이에앞서 盧대통령은 金貞烈총리를 비롯한 5공화국마지막 내각의 일괄사표를 수리했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500099201010&editNo=2&printCount=1&publishDate=1988-02-25&officeId=00009&pageNo=1&printNo=6762&publishType=00020, accessed 2026-09-26T09:05:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1988022500099201010.json)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via bigkinds_article, quote '이에 앞서 제5공화국 마지막 내각인 김정렬 내각은 노 대통령에게 일괄사표를 제출, 수리됐다', accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19880225005009001.json)",
+    "동아일보 1988-02-24 p.1 \"國務委員 일괄사표\" (Naver News Library article 1988022400209201012, OCR full text, quote '이날 국무회의가 끝난뒤 金貞烈국무총리를 비롯,전국무위원은 일괄사표를제출했다' (resignations submitted 1988-02-24), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022400209201012&editNo=2&printCount=1&publishDate=1988-02-24&officeId=00020&pageNo=1&printNo=20428&publishType=00020, accessed 2026-09-26T09:09:55-0400, snapshot roster/sources/unification/ext88/nl/nl_1988022400209201012.json)",
+    "조선일보 1988-02-25 p.3 \"青瓦臺…5共和国 마지막 날\" (Naver News Library article 1988022500239103011, search result title and snippet, quote '許文道(허문도)통일원장관은 23일과 24일 각각 기자들과 만나 이임소감을 피력' (farewell remarks on 1988-02-23/24), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239103011&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=3&printNo=20581&publishType=00010, accessed 2026-09-26T09:06:57-0400, snapshot roster/sources/unification/ext88/nl/nls_t1988_heo_9e405c2c_p1.json)",
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '13대 허문도 1986.08.27∼ 1988.02.24' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "전두환",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "전두환-era minister still in office on 1988-02-25 (caretaker holdover for part of one day). The cabinet handed in its collective resignation after the last 국무회의 on 1988-02-24. 노태우 accepted it on the morning of 1988-02-25 (조선일보 and 매일경제), just before he gave the new cabinet its 임명장 after the inauguration, so the last day in office is 1988-02-25 under the same-day handover rule used in the main roster. The ministry page prints 1988-02-24 (day before successor). Start is the 임명장 day 1986-08-27 printed on the ministry page. The appointment was announced and reported as 임명발령 on 1986-08-26 (경향신문 1986-08-26). 헌법 제10호 부칙 제4조① deems officials in office on 1988-02-25 appointed under the new constitution (offices_1988.json holdovers_1988). name_hanja from 경향신문 1986-08-26 p.5 \"許文道 통일원장관 5共和國출범에 핵심적 역할\" (Naver News Library article 1986082600329205010, search result title and snippet, quote '許文道(허문도) 통일원장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600329205010&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00032&pageNo=5&printNo=12590&publishType=00020, accessed 2026-09-26T09:06:10-0400, snapshot roster/sources/unification/ext88/nl/nls_heo_start_841bb58e_p1.json). birth_date and gender from Wikidata Q12624821 (via ko.wikipedia title '허문도'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "이홍구",
+   "name_hanja": "李洪九",
+   "name_en": "Lee Hong-koo",
+   "name_en_source": "Wikidata Q483035 (via ko.wikipedia title '이홍구 (1934년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1934-05-09",
+   "gender": "M",
+   "ministry": "국토통일원",
+   "office_title": "국토통일원장관",
+   "deputy_pm": false,
+   "start": "1988-02-25",
+   "start_confidence": "high",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '14대 이홍구 1988.02.25∼ 1990.03.18 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), row 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=노태우 year=1988, accessed 2026-09-26T08:49:52-0400, snapshot roster/sources/unification/ext88/pa/pa_노태우_1988_p1.html)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via bigkinds_article, quote '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다', accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19880225005009001.json)",
+    "조선일보 1988-02-26 p.1 \"새閣僚에 임명장\" (Naver News Library article 1988022600239101004, OCR full text, quote '盧泰愚대통령은 25일 오전제13대 대통령취임식이 끝난뒤 청와대에서 李賢宰신임국무총리서리를 비롯한 새각료들에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988022600239101004&editNo=1&printCount=1&publishDate=1988-02-26&officeId=00023&pageNo=1&printNo=20582&publishType=00010, accessed 2026-09-26T08:49:40-0400, snapshot roster/sources/unification/ext88/nl/nl_1988022600239101004.json)",
+    "동아일보 1988-02-19 p.1 \"세政府 組閣 발표\" (Naver News Library article 1988021900209201003, OCR full text, quote '통일원 李洪九(이홍구)' (named in the cabinet list announced 1988-02-19), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400, snapshot roster/sources/unification/ext88/nl/nl_1988021900209201003.json)",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page), https://ko.wikipedia.org/w/index.php?oldid=42217994, accessed 2026-09-24T22:42:28-0400, snapshot roster/sources/unification/ext88/wiki_대한민국_통일부_장관.json"
+   ],
+   "end": "1990-03-19",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '14대 이홍구 1988.02.25∼ 1990.03.18' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1990-03-17 p.1 \"15部장관 更迭\" (Naver News Library article 1990031700209201001, OCR full text, quote '盧泰愚대통령은 17일오전부총리겸 경제기획원장관에李承潤民自黨의원을 임명하는등' (3·17 개각, 정치특보 李洪九 in the same list), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209201001&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=1&printNo=21064&publishType=00020, accessed 2026-09-26T09:24:48-0400, snapshot roster/sources/unification/ext88/nl/nl_1990031700209201001.json)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고' (successor's 임명장 on 1990-03-19), accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '자리를 함께 한 이홍구 신임정치담당 특보는' (on 1990-03-19 as the new 정치특보), accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "조선일보 1990-03-20 p.4 \"\"시원시원하게 일해달라\"\" (Naver News Library article 1990032000239104026, OCR full text, quote '盧泰愚대통령은 19일 오전 청와대에서신임각료및청와대참모들에게임명장을준뒤' (임명장 on 1990-03-19 to the new ministers and the new 청와대 staff, the 정치특보 among them), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000239104026&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00023&pageNo=4&printNo=21221&publishType=00010, accessed 2026-09-26T12:48:03-0400, snapshot roster/sources/unification/ext88/nl/nl_1990032000239104026.json)",
+    "서울신문 1990-03-18 \"「3ㆍ17」 개각… 정관가의 표정\" (BigKinds news_id 01100611.20160420190239995, full text via bigkinds_article, quote '통일원은 이날 이홍구장관의 경질에 아쉬움을 표시하면서도 신임 홍성철장관의 업무성격 파악에 분주' (reaction at 통일원 on the announcement day 1990-03-17), accessed 2026-09-26T09:23:53-0400, snapshot roster/sources/unification/ext88/bk/bk_01100611.20160420190239995.json)",
+    "한국일보 1990-03-18 \"부총리ㆍ수석에 경제팀 구성 맡겨/3ㆍ17개각 뒷얘기와 관가 반응\" (BigKinds news_id 01101101.19900318000000301, full text via bigkinds_article, quote '물러나는 장관들은 상오 간단한 이임식을 갖고 짐을 챙겼고' (general report of 1990-03-17 farewells), accessed 2026-09-26T09:24:49-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900318000000301.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1990_03_17_0010 '노태우 대통령, 15개 부처 장관 교체' (tier 2, https://db.history.go.kr/id/tcct_1990_03_17_0010, accessed 2026-09-26T08:49:48-0400, snapshot roster/sources/unification/ext88/hist/hist_1990-03-17.html)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during either spell. Later 15th NA member (신한국당, 전국구), seat 1996-05-30..1998-04-14 per na_members/na_member_spells_12_22.csv (mona_cd S369529X)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Retained in the 1988-12-05 전면개각 (동아일보 1988-12-05 lists 李洪九통일원장관 among the four 유임, see 동아일보 1988-12-05 p.1 \"총리에 姜英勲씨\" (Naver News Library article 1988120500209201003, OCR full text, quote '李洪九통일원장관 玄鴻柱법제처장등 4명은 유임됐다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209201003&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=1&printNo=20672&publishType=00020, accessed 2026-09-26T09:08:16-0400, snapshot roster/sources/unification/ext88/nl/nl_1988120500209201003.json)), so the spell is continuous. Replaced in the reshuffle announced on 1990-03-17 and named 대통령 정치담당특보 in the same announcement. The new ministers and the 장관급 청와대 appointees received their 임명장 on the morning of 1990-03-19 (한국일보 1990-03-20 counts 19 장관급 appointees, 조선일보 1990-03-20 says 신임각료 and 청와대참모), and he attended that day as the new 정치특보. end is 1990-03-19, a same-day move to his new post, dated like 나웅배 in 1995. No 통일원 이임식 report of his own was found in the resumed-run searches (step10_endsearch.json). The ministry page prints 1990-03-18, and outgoing ministers held short farewells on 1990-03-17 (한국일보 1990-03-18, not specific to 통일원). end_reason is other because he moved to 정치특보. Cabinet nominee announced 1988-02-19 (see nominations). name_hanja from 동아일보 1988-02-19 p.4 \"李洪九통일원 원만한性品 行政능력갖춘 學者\" (Naver News Library article 1988021900209204013, search result title and snippet, quote '李洪九(이홍구)통일원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209204013&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=4&printNo=20424&publishType=00020, accessed 2026-09-26T09:35:36-0400, snapshot roster/sources/unification/ext88/nl/nls_lhk_1988_list_6cd7e3fe_p1.json). birth_date and gender from Wikidata Q483035 (via ko.wikipedia title '이홍구 (1934년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "홍성철",
+   "name_hanja": "洪性澈",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1926-04-06",
+   "gender": "M",
+   "ministry": "국토통일원",
+   "office_title": "국토통일원장관",
+   "deputy_pm": false,
+   "start": "1990-03-19",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '15대 홍성철 1990.03.19∼ 1990.12.26 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '노대통령은 이날 상오 신임 15개부처장관과 대통령비서실장 등 장관급 정부직 인사 19명에게 임명장을 수여한 뒤', accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '강영훈 국무총리는 먼저 신임인 이승윤 부총리 홍성철통일원장관등에게 인삿말을 부탁', accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "세계일보 1990-03-20 \"6공 “폭풍경보속 항구 떠난 배”/새 내각 첫 국무회의 이모저모\" (BigKinds news_id 01100701.19900320000000302, search metadata and snippet, quote '6공 제3기내각이 19일 오전 첫 국무회의를 갖고', accessed 2026-09-26T09:07:34-0400, snapshot roster/sources/unification/ext88/bk/bks_t1990_03_7525f6b4.json)",
+    "경향신문 1990-03-17 p.1 \"副總理에 李承潤씨\" (Naver News Library article 1990031700329201001, OCR full text, quote '통일원장관에 洪性澈(홍성철)청와대비서실장이 각각 임명됐으' (announcement 1990-03-17), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700329201001&editNo=3&printCount=1&publishDate=1990-03-17&officeId=00032&pageNo=1&printNo=13684&publishType=00020, accessed 2026-09-26T09:40:16-0400, snapshot roster/sources/unification/ext88/nl/nl_1990031700329201001.json)",
+    "한겨레 1990-03-18 \"15부처장관 바꿔/부총리 이승윤씨… 청와대 비서진도 개편\" (BigKinds news_id 01101001.19900318000000101, full text via bigkinds_article, quote '통일원 홍성철' (3·17 개각 list), accessed 2026-09-26T09:44:31-0400, snapshot roster/sources/unification/ext88/bk/bk_01101001.19900318000000101.json)",
+    "조선일보 1990-03-20 p.4 \"\"시원시원하게 일해달라\"\" (Naver News Library article 1990032000239104026, OCR full text, quote '한편 대통령비서실은 이날오후 통일원장관으로 임명된 洪性澈(홍성철)전실장과 盧在鳳(노재봉)신임실장의 이-취임식을 가졌다' (his 비서실장 farewell on the afternoon of 1990-03-19, after the 임명장), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000239104026&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00023&pageNo=4&printNo=21221&publishType=00010, accessed 2026-09-26T12:48:03-0400, snapshot roster/sources/unification/ext88/nl/nl_1990032000239104026.json)"
+   ],
+   "end": "1990-12-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '15대 홍성철 1990.03.19∼ 1990.12.26' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "offices_1988.json OFA04 국토통일원 (to 1990-12-26) and OFA05 통일원 (from 1990-12-27), 정부조직법 법률 제4268호 promulgated and effective 1990-12-27 (부칙 제1조 본문), law text snapshot inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json",
+    "한국일보 1990-12-28 \"「대폭 개각」 정국파장 관심 집중/관·정가 표정\" (BigKinds news_id 01101101.19901228000000519, full text via bigkinds_article, quote '부임 10개월만에 자리를 물려준 홍성철 전 통일원장관은 이날 상오 간부들과 차를 마시며', accessed 2026-09-26T09:26:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19901228000000519.json)",
+    "서울신문 1990-12-28 \"「12·27 개각」 정가·관가 표정\" (BigKinds news_id 01100611.20160421001333355, full text via bigkinds_article, quote '9개월여의 단명으로 홍성철 장관이 물러가고 최호중 외무장관이 통일담당 부총리로 임명되자', accessed 2026-09-26T09:25:37-0400, snapshot roster/sources/unification/ext88/bk/bk_01100611.20160421001333355.json)",
+    "조선일보 1990-12-28 p.22 \"改閣겹친「送旧迎新」…部処마다\"새출발\"\" (Naver News Library article 1990122800239122004, OCR full text, quote '총리실-통일원등 교체부처들은 이날오후 이-취임식을 갖고' (이·취임식 on the afternoon of 1990-12-27), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1990122800239122004.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Announced on 1990-03-17 and given his 임명장 on 1990-03-19, the date on the ministry page. He stayed 청와대 비서실장 until the 이·취임식 there on the afternoon of 1990-03-19 (조선일보 1990-03-20). Replaced when 국토통일원 became 통일원 with a 부총리 head on 1990-12-27 (법률 제4268호, effective on promulgation that day). He was not appointed to the renamed office. He met his staff on the morning of 1990-12-27 and the 이·취임식 was that afternoon, so he was physically in office on 1990-12-27. end is set to 1990-12-26, the last legal day of 국토통일원, following the legal-day convention the main file used for the 1998 abolitions (the ministry page also prints 1990-12-26). The alternative value 1990-12-27 is logged in issues. name_hanja from 동아일보 1990-03-17 p.4 \"要職섭렵…新元老그룹 核 洪性澈 통일원장관\" (Naver News Library article 1990031700209204012, search result title and snippet, quote '洪性澈(홍성철) 통일원장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700209204012&editNo=2&printCount=1&publishDate=1990-03-17&officeId=00020&pageNo=4&printNo=21064&publishType=00020, accessed 2026-09-26T09:07:32-0400, snapshot roster/sources/unification/ext88/nl/nls_t1990_03_7525f6b4_p1.json). birth_date and gender from Wikidata Q12625412 (via ko.wikipedia title '홍성철'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "최호중",
+   "name_hanja": "崔浩中",
+   "name_en": "Choe Ho-jung",
+   "name_en_source": "Wikidata Q19349777 (via ko.wikipedia title '최호중 (외교관)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1930-09-22",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1990-12-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '16대 최호중 1990.12.27∼ 1992.06.25 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), row 1990-12-27 '국무총리 노재봉, 통일원장관 최호중 등 임명' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=노태우 year=1990, accessed 2026-09-26T09:04:39-0400, snapshot roster/sources/unification/ext88/pa/pa_노태우_1990_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1990_12_27_0010 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' (tier 2, https://db.history.go.kr/id/tcct_1990_12_27_0010, accessed 2026-09-26T09:04:58-0400, snapshot roster/sources/unification/ext88/hist/hist_1990-12-27.html)",
+    "경향신문 1990-12-27 \"총리에 노재봉씨/10부 장관 경질 대폭 개각\" (BigKinds news_id 01100101.19901227000000101, full text via bigkinds_article, quote '부총리급으로 격상된 통일원 장관에는 최호중 외무장관이 기용됐으며', accessed 2026-09-26T09:42:51-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19901227000000101.json)",
+    "서울신문 1990-12-28 \"「12·27 개각」 정가·관가 표정\" (BigKinds news_id 01100611.20160421001333355, full text via bigkinds_article, quote '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리등 신임 각료들과', accessed 2026-09-26T09:25:37-0400, snapshot roster/sources/unification/ext88/bk/bk_01100611.20160421001333355.json)",
+    "조선일보 1990-12-28 p.22 \"改閣겹친「送旧迎新」…部処마다\"새출발\"\" (Naver News Library article 1990122800239122004, OCR full text, quote '오후4시 30분에는 새 각료들과함께 다시 청와대로 들어와盧대통령으로부터 임명장을수여받았다' (임명장 on the afternoon of 1990-12-27), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1990122800239122004.json)"
+   ],
+   "end": "1992-06-26",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '16대 최호중 1990.12.27∼ 1992.06.25' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "중앙일보 1992-06-26 \"5개부처 장관 경질/서울시장·청와대 정치특보도\" (BigKinds news_id 01100901.19920626103935001, full text via bigkinds_article, quote '노태우대통령은 25일 최호중부총리겸 통일원장관을 경질,최영철청와대정치특보를 임명하는 등', accessed 2026-09-26T09:26:47-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19920626103935001.json)",
+    "동아일보 1992-06-26 p.5 \"임기「마무리」강조\" (Naver News Library article 1992062600209205006, OCR full text, quote '盧泰愚대통령은 26일오전靑瓦臺에서 崔永喆부총리겸 통일원장관등신임부서장 7명에게 임명장을 주면서' (successor's 임명장), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209205006&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=5&printNo=21865&publishType=00020, accessed 2026-09-26T09:29:38-0400, snapshot roster/sources/unification/ext88/nl/nl_1992062600209205006.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1992_06_25_0010 '노태우 대통령, 부총리 겸 통일원장관 최영철 임명' (tier 2, https://db.history.go.kr/id/tcct_1992_06_25_0010, accessed 2026-09-26T09:05:00-0400, snapshot roster/sources/unification/ext88/hist/hist_1992-06-25.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "First 부총리 겸 통일원장관, appointed the day 통일원 was created (announced on the morning of 1990-12-27, 임명장 that afternoon). Replaced in the 1992-06-25 partial reshuffle. His successor received the 임명장 on the morning of 1992-06-26. No exit date of his own was found, also not in the resumed-run searches for 최호중, 통일원 이임식 and 통일부총리 over 1992-06-25..28 (step10_endsearch.json, step11_search.json), so end is the successor's 임명장 day. The ministry page prints 1992-06-25. name_hanja from 동아일보 1990-12-27 p.4 \"崔浩中 통일원장관 對蘇수교등 北方정책에 솜씨보인 직업外交官\" (Naver News Library article 1990122700209204001, search result title and snippet, quote '崔浩中(최호중) 통일원장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700209204001&editNo=2&printCount=1&publishDate=1990-12-27&officeId=00020&pageNo=4&printNo=21341&publishType=00020, accessed 2026-09-26T09:07:53-0400, snapshot roster/sources/unification/ext88/nl/nls_t1990_12_2a427230_p1.json). birth_date and gender from Wikidata Q19349777 (via ko.wikipedia title '최호중 (외교관)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "최영철",
+   "name_hanja": "崔永喆",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1935-12-19",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1992-06-26",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '17대 최영철 1992.06.26∼ 1993.02.25 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1992-06-26 p.5 \"임기「마무리」강조\" (Naver News Library article 1992062600209205006, OCR full text, quote '盧泰愚대통령은 26일오전靑瓦臺에서 崔永喆부총리겸 통일원장관등신임부서장 7명에게 임명장을 주면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209205006&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=5&printNo=21865&publishType=00020, accessed 2026-09-26T09:29:38-0400, snapshot roster/sources/unification/ext88/nl/nl_1992062600209205006.json)",
+    "한겨레 1992-06-27 p.5 \"\"내 뜻 잘아는 사람 기용\"\" (Naver News Library article 1992062700289105005, OCR full text, quote '노태우 대통령은 26일 오전 최영철 통일원장관 등 신임각료들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700289105005&editNo=5&printCount=1&publishDate=1992-06-27&officeId=00028&pageNo=5&printNo=1272&publishType=00010, accessed 2026-09-26T09:35:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1992062700289105005.json)",
+    "한국일보 1992-06-26 \"5부처 장관 경질/서울시장·청와대 정치특보도\" (BigKinds news_id 01101101.19920626000000101, full text via bigkinds_article, quote '부총리겸 통일원장관에 최영철 대통령 정치담당특보를 임명했다' (announced on the afternoon of 1992-06-25), accessed 2026-09-26T09:43:17-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19920626000000101.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1992_06_25_0010 '노태우 대통령, 부총리 겸 통일원장관 최영철 임명' (tier 2, https://db.history.go.kr/id/tcct_1992_06_25_0010, accessed 2026-09-26T09:05:00-0400, snapshot roster/sources/unification/ext88/hist/hist_1992-06-25.html)"
+   ],
+   "end": "1993-02-26",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '17대 최영철 1992.06.26∼ 1993.02.25' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1993-02-26 p.2 \"告別인사\" (Naver News Library article 1993022600209202003, OCR full text, quote '26일 새내각 발표후崔永喆통일원장관이 간부들과 이임인사를 하고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202003&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020, accessed 2026-09-26T09:29:44-0400, snapshot roster/sources/unification/ext88/nl/nl_1993022600209202003.json)",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article 1993022700239101006, OCR full text, quote '金泳三대통령이 26일 오후 청와대 본관 앞에서 이날 임명장을 받은 신임 국무위원들과' (successor's 임명장), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, accessed 2026-09-26T09:29:49-0400, snapshot roster/sources/unification/ext88/nl/nl_1993022700239101006.json)",
+    "한겨레 1993-02-25 p.1 \"남한노동당사건 북한 사과 대북경협 전제조건서 제외\" (Naver News Library article 1993022500289101012, OCR full text, quote '최영철 부총리 이임회견' (farewell press meeting reported 1993-02-25), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022500289101012&editNo=5&printCount=1&publishDate=1993-02-25&officeId=00028&pageNo=1&printNo=1485&publishType=00010, accessed 2026-09-26T09:46:03-0400, snapshot roster/sources/unification/ext88/nl/nl_1993022500289101012.json)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노태우",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during the spell. Earlier 12th NA member (민주정의당, 전남 목포시,무안,신안군), seat 1985-04-11..1988-05-29 per na_members/na_member_spells_12_22.csv (mona_cd D4U4031E)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Announced on the afternoon of 1992-06-25 (the chronology dates the appointment that day) and given the 임명장 on the morning of 1992-06-26, the date on the ministry page. Caretaker under 김영삼 from 1993-02-25. He held his farewell with senior staff on 1993-02-26 after the new cabinet was announced, and his successor received the 임명장 that afternoon, so end is 1993-02-26 (same-day handover). The ministry page prints 1993-02-25. name_hanja from 동아일보 1992-06-26 p.2 \"崔永喆 부총리겸 통일원\" (Naver News Library article 1992062600209202014, search result title and snippet, quote '崔永喆(최영철) 부총리겸 통일원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209202014&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=2&printNo=21865&publishType=00020, accessed 2026-09-26T09:08:17-0400, snapshot roster/sources/unification/ext88/nl/nls_t1992_06_90b9f3b0_p1.json). birth_date and gender from Wikidata Q12619695 (via ko.wikipedia title '최영철 (1935년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "한완상",
+   "name_hanja": "韓完相",
+   "name_en": "Han Wan-sang",
+   "name_en_source": "Wikidata Q12624201 (via ko.wikipedia title '한완상'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1936",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1993-02-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '18대 한완상 1993.02.26∼ 1993.12.21 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article 1993022700239101006, OCR full text, quote '④韓完相통일원' (listed among those who received the 임명장 on 1993-02-26), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, accessed 2026-09-26T09:29:49-0400, snapshot roster/sources/unification/ext88/nl/nl_1993022700239101006.json)",
+    "세계일보 1993-02-27 \"“감상적 통일 지상주의 극복”/한 통일원 신임회견\" (BigKinds news_id 01100701.19930227000000205, full text via bigkinds_article, quote '한부총리는 이날 오후 취임식 직후 가진 기자회견을 통해', accessed 2026-09-26T09:43:45-0400, snapshot roster/sources/unification/ext88/bk/bk_01100701.19930227000000205.json)",
+    "한겨레 1993-02-27 \"부총리 이경식(기획원장관) 한완상(통일원장관)\" (BigKinds news_id 01101001.19930227000000101, search metadata and snippet, quote '부총리 겸 통일원장관에 한완상 서울대 교수를 임명하는 등' (announced 1993-02-26), accessed 2026-09-26T09:08:38-0400, snapshot roster/sources/unification/ext88/bk/bks_t1993_02_babb2557.json)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), row 1993-02-26 '각 부 장관 등 새정부 발표' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1993, accessed 2026-09-26T08:49:55-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1993_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' (tier 2, https://db.history.go.kr/id/tcct_1993_02_26_0010, accessed 2026-09-26T09:05:03-0400, snapshot roster/sources/unification/ext88/hist/hist_1993-02-26.html)"
+   ],
+   "end": "1993-12-22",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '18대 한완상 1993.02.26∼ 1993.12.21' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "서울신문 1993-12-23 \"이회창새내각 출범 첫날 이모저모\" (BigKinds news_id 01100611.20160422071507158, full text via bigkinds_article, quote '22일 신임각료들은 김영삼대통령으로부터 임명장을 받은뒤 부처별로 장관 이취임식을 갖고', accessed 2026-09-26T09:27:38-0400, snapshot roster/sources/unification/ext88/bk/bk_01100611.20160422071507158.json)",
+    "한겨레 1993-12-23 p.1 \"통일·노동·교육 개혁후퇴 우려\" (Naver News Library article 1993122300289101004, OCR full text, quote '한완상 전 통일원장관이 물러나고 이영덕 명지대 총장이 신임 장관으로 기용된 데 대해', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300289101004&editNo=5&printCount=1&publishDate=1993-12-23&officeId=00028&pageNo=1&printNo=1768&publishType=00010, accessed 2026-09-26T09:46:05-0400, snapshot roster/sources/unification/ext88/nl/nl_1993122300289101004.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1993_12_21_0010 '김영삼 대통령, 14개 부처 장관 경질' (tier 2, https://db.history.go.kr/id/tcct_1993_12_21_0010, accessed 2026-09-26T09:05:05-0400, snapshot roster/sources/unification/ext88/hist/hist_1993-12-21.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Named and given the 임명장 on 1993-02-26. Replaced in the reshuffle announced on 1993-12-21. The new ministers received their 임명장 on the morning of 1993-12-22 and held the 이·취임식 at each ministry that day, so end is 1993-12-22 (same-day handover). The ministry page prints 1993-12-21. name_hanja from 동아일보 1993-02-27 p.4 \"\"在野 통일논의 과감히 수용\" 韓完相부총리겸 통일원장관\" (Naver News Library article 1993022700209204004, search result title and snippet, quote '韓完相(한완상)부총리겸 통일원장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700209204004&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00020&pageNo=4&printNo=22098&publishType=00020, accessed 2026-09-26T09:08:34-0400, snapshot roster/sources/unification/ext88/nl/nls_t1993_02_babb2557_p1.json). birth_date and gender from Wikidata Q12624201 (via ko.wikipedia title '한완상'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary). Wikidata gives 1936-03-18 while the ko.wikipedia infobox (revid 40993085) gives 1936-03-05, so only the year is kept."
+  },
+  {
+   "name": "이영덕",
+   "name_hanja": "李榮德",
+   "name_en": "Lee Yung-dug",
+   "name_en_source": "Wikidata Q626704 (via ko.wikipedia title '이영덕 (1926년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1926-03-06",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1993-12-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '19대 이영덕 1993.12.22∼ 1994.04.29 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "조선일보 1993-12-23 p.2 \"\"일 안하는 각료 용서안해\"\" (Naver News Library article 1993122300239102002, OCR full text, quote '金대통령은 이날 오전청와대에서 丁渽錫경제부총리와 李榮德통일부총리등 신임 각료 14명에게 임명장을 수여하는 자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102002&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, accessed 2026-09-26T09:45:50-0400, snapshot roster/sources/unification/ext88/nl/nl_1993122300239102002.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text via bigkinds_article, quote '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는 자리에서', accessed 2026-09-26T09:33:33-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19931223000000104.json)",
+    "경향신문 1993-12-22 \"청와대·당직 오늘개편\" (BigKinds news_id 01100101.19931222000000103, full text via bigkinds_article, quote '부총리겸 통일원장관에 이영덕명지대총장을 임명하는등' (announced on the afternoon of 1993-12-21), accessed 2026-09-26T09:44:09-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19931222000000103.json)"
+   ],
+   "end": "1994-04-30",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '19대 이영덕 1993.12.22∼ 1994.04.29' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1994), row 1994-04-30 '이영덕 신임 국무총리에게 임명장 수여' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1994, accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1994_p1.html)",
+    "의안정보시스템 [140620] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=012725, '의결일자 1994-04-29 의결결과 원안가결' (tier 1, harvested 2026-09-26T08:31:10-0400, copy roster/sources/unification/ext88/likms/012725.txt)",
+    "동아일보 1994-05-01 p.4 \"靑瓦臺 총리실 모처럼 활기\" (Naver News Library article 1994050100209104010, OCR full text, quote '金대통령은 이날 국무회의에 앞서 時差를 두고 李총리와 李洪九통일부총리에게 임명장을 수여', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100209104010&editNo=45&printCount=1&publishDate=1994-05-01&officeId=00020&pageNo=4&printNo=22500&publishType=00010, accessed 2026-09-26T09:29:55-0400, snapshot roster/sources/unification/ext88/nl/nl_1994050100209104010.json)",
+    "조선일보 1994-04-28 p.4 \"\"몸둘 바 모르겠다\" 총리실 사람들\" (Naver News Library article 1994042800239104009, OCR full text, quote '총리서리가 아니라 내정자에 불과한 그는 법적으로는 아직통일부총리이다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994042800239104009&editNo=1&printCount=1&publishDate=1994-04-28&officeId=00023&pageNo=4&printNo=22671&publishType=00010, accessed 2026-09-26T09:45:56-0400, snapshot roster/sources/unification/ext88/nl/nl_1994042800239104009.json)",
+    "한겨레 1994-04-24 p.2 \"\"사회발전 5년후퇴\"아쉬움\" (Naver News Library article 1994042400289102011, OCR full text, quote '총리서리로서도임명을 받지 않았기 때문에' (not appointed 국무총리서리 after being named on 1994-04-22), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994042400289102011&editNo=6&printCount=1&publishDate=1994-04-24&officeId=00028&pageNo=2&printNo=1878&publishType=00010, accessed 2026-09-26T09:45:59-0400, snapshot roster/sources/unification/ext88/nl/nl_1994042400289102011.json)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Announced on 1993-12-21 and given the 임명장 on 1993-12-22, the ministry page date. Named 국무총리 on 1994-04-22 but not appointed 서리. He stayed legally 통일부총리 while the consent motion was pending (조선일보 1994-04-28), although he had handed day-to-day 통일원 business to 차관 宋榮大 (same article). That arrangement is not an acting spell, so no acting record is given. The Assembly consented on 1994-04-29 (likms 140620, 재석 180, 가 170, 부 10) and he received the PM 임명장 on the morning of 1994-04-30, minutes before his successor here. end is 1994-04-30 (same-day move, as in the main roster for 황교안 and others). The ministry page prints 1994-04-29. end_reason is other because he became 국무총리. name_hanja from 동아일보 1993-12-22 p.2 \"李榮德부총리 일문일답\"統一정책방향 변화없다\"\" (Naver News Library article 1993122200209102015, search result title and snippet, quote '李榮德(이영덕)신임부총리겸 통일원장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209102015&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=2&printNo=22379&publishType=00010, accessed 2026-09-26T09:08:53-0400, snapshot roster/sources/unification/ext88/nl/nls_t1993_12_3d01d390_p1.json). birth_date and gender from Wikidata Q626704 (via ko.wikipedia title '이영덕 (1926년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "이홍구",
+   "name_hanja": "李洪九",
+   "name_en": "Lee Hong-koo",
+   "name_en_source": "Wikidata Q483035 (via ko.wikipedia title '이홍구 (1934년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1934-05-09",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1994-04-30",
+   "start_confidence": "high",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '20대 이홍구 1994.04.30∼ 1994.12.16 송영대차관 장관직무대행 ('94.12.17∼12.23 ) 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1994), row 1994-04-30 '부총리겸 통일원장관에 이홍구 민주평화통일자문회의 수석부의장 임명' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1994, accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1994_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_04_30_0010 '김영삼 대통령, 통일원장관에 이홍구 민주평화통일자문회의 수석부의장 임명' (tier 2, https://db.history.go.kr/id/tcct_1994_04_30_0010, accessed 2026-09-26T09:05:11-0400, snapshot roster/sources/unification/ext88/hist/hist_1994-04-30.html)",
+    "한겨레 1994-05-01 p.1 \"통일부총리 이홍구씨\" (Naver News Library article 1994050100289101005, OCR full text, quote '김영삼 대통령은 30일 오전청와대에서 이영덕 신임총리에게 임명장을 수여한 데 이어 통일부총리에 이홍구 민주평화통일자문회의 수석 부의장을 임명했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100289101005&editNo=5&printCount=1&publishDate=1994-05-01&officeId=00028&pageNo=1&printNo=1885&publishType=00010, accessed 2026-09-26T09:45:51-0400, snapshot roster/sources/unification/ext88/nl/nl_1994050100289101005.json)",
+    "조선일보 1994-05-01 p.1 \"◇金泳三대통령이 30일청와대에서 李洪九 신임부...\" (Naver News Library article 1994050100239101005, search result title and snippet, quote '30일청와대에서 李洪九(이홍구) 신임부총리겸 통일원장관에게 임명장을 주고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100239101005&editNo=1&printCount=1&publishDate=1994-05-01&officeId=00023&pageNo=1&printNo=22674&publishType=00010, accessed 2026-09-26T09:09:12-0400, snapshot roster/sources/unification/ext88/nl/nls_t1994_04_7e1d9042_p1.json)"
+   ],
+   "end": "1994-12-17",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '20대 이홍구 1994.04.30∼ 1994.12.16' (ministry page end = day before the acting period) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1994), row 1994-12-17 '이홍구 통일원장관을 국무총리에 임명' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1994, accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1994_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_12_17_0010 '김영삼 대통령, 이홍구 통일원장관을 국무총리에 임명' (tier 2, https://db.history.go.kr/id/tcct_1994_12_17_0010, accessed 2026-09-26T09:05:18-0400, snapshot roster/sources/unification/ext88/hist/hist_1994-12-17.html)",
+    "의안정보시스템 [140994] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=013099, '의결일자 1994-12-17 의결결과 원안가결' (tier 1, harvested 2026-09-26T08:31:25-0400, copy roster/sources/unification/ext88/likms/013099.txt)",
+    "경향신문 1994-12-18 p.3 \"신임 李洪九총리 일문일답 \"對北정책 일관성 유지\"\" (Naver News Library article 1994121800329103002, OCR full text, quote '李洪九국무총리는 17일통일원에 출근한 직후인오전 8시30분쯤 金泳三대통령으로부터 전화통보를받고' (still at 통일원 on the morning of 1994-12-17), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994121800329103002&editNo=20&printCount=1&publishDate=1994-12-18&officeId=00032&pageNo=3&printNo=15287&publishType=00010, accessed 2026-09-26T09:45:53-0400, snapshot roster/sources/unification/ext88/nl/nl_1994121800329103002.json)",
+    "동아일보 1994-12-18 p.3 \"임명장 수여\" (Naver News Library article 1994121800209103002, OCR full text, quote '金泳三대통령이 17일 오후 李洪九신임총리에게임명장을 주고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994121800209103002&editNo=45&printCount=1&publishDate=1994-12-18&officeId=00020&pageNo=3&printNo=22716&publishType=00010, accessed 2026-09-26T09:46:02-0400, snapshot roster/sources/unification/ext88/nl/nl_1994121800209103002.json)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during either spell. Later 15th NA member (신한국당, 전국구), seat 1996-05-30..1998-04-14 per na_members/na_member_spells_12_22.csv (mona_cd S369529X)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Second spell of the same person (first spell 1988-02-25..1990-03-19 as 국토통일원장관). Named and given the 임명장 on the morning of 1994-04-30. He went to 통일원 on the morning of 1994-12-17, was told of his PM appointment there, the Assembly consented that day (likms 140994, 재석 212, 가 177, 부 34, 기권 1), and he received the PM 임명장 that afternoon. end is 1994-12-17. The ministry page prints 1994-12-16 and starts the 차관 송영대 acting period on 1994-12-17. end_reason is other because he became 국무총리. name_hanja from 동아일보 1988-02-19 p.4 \"李洪九통일원 원만한性品 行政능력갖춘 學者\" (Naver News Library article 1988021900209204013, search result title and snippet, quote '李洪九(이홍구)통일원', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209204013&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=4&printNo=20424&publishType=00020, accessed 2026-09-26T09:35:36-0400, snapshot roster/sources/unification/ext88/nl/nls_lhk_1988_list_6cd7e3fe_p1.json). birth_date and gender from Wikidata Q483035 (via ko.wikipedia title '이홍구 (1934년)'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "김덕",
+   "name_hanja": "金悳",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1935-05-25",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1994-12-24",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '21대 김덕 1994.12.24∼ 1995.02.21 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1994-12-24 p.1 \"19部處장관 경질 大改閣\" (Naver News Library article 1994122400209101001, OCR full text, quote '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며' (reported on 1994-12-24 as scheduled that morning), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/unification/ext88/nl/nl_1994122400209101001.json)",
+    "중앙일보 1994-12-24 \"12.23 전면개각-외교안보팀\" (BigKinds news_id 01100901.19941224155540002, full text via bigkinds_article, quote '金통일부총리는 임명장을 받기전인 23일 남북대화사무국에서 가진 기자회견에서', accessed 2026-09-26T09:42:05-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19941224155540002.json)",
+    "세계일보 1994-12-25 \"“김정일 주석승계 불확실”/내년 남북관계 예측 어려워/김 통일원\" (BigKinds news_id 01100701.19941225000000201, full text via bigkinds_article, quote '김덕부총리겸 통일원장관은 24일 가진 취임식과 기자간담회에서', accessed 2026-09-26T09:42:27-0400, snapshot roster/sources/unification/ext88/bk/bk_01100701.19941225000000201.json)",
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library article 1994122400329101001, OCR full text, quote '부총리겸 통일원장관에 金悳안기부장을 임명하는등전면 개각을 단행했다' (announced on the afternoon of 1994-12-23), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400, snapshot roster/sources/unification/ext88/nl/nl_1994122400329101001.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' (tier 2, https://db.history.go.kr/id/tcct_1994_12_23_0010, accessed 2026-09-26T09:05:22-0400, snapshot roster/sources/unification/ext88/hist/hist_1994-12-23.html)"
+   ],
+   "end": "1995-02-21",
+   "end_confidence": "high",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '21대 김덕 1994.12.24∼ 1995.02.21' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1995_02_21_0010 '당시 안기부장 김덕 부총리 해임·후임 나웅배' (tier 2, https://db.history.go.kr/id/tcct_1995_02_21_0010, accessed 2026-09-26T09:05:30-0400, snapshot roster/sources/unification/ext88/hist/hist_1995-02-21.html)",
+    "한겨레 1995-02-22 \"김덕 부총리 해임/후임 나웅배씨… ‘공문’ 실무책임자 문책 관심\" (BigKinds news_id 01101001.19950222000000102, full text via bigkinds_article, quote '당시 안기부장이었던 김덕 통일 부총리를 해임하고 후임에 나웅배 국회 외무통일위원장을 임명했다', accessed 2026-09-26T09:41:40-0400, snapshot roster/sources/unification/ext88/bk/bk_01101001.19950222000000102.json)",
+    "경향신문 1995-02-22 p.1 \"金悳부총리 해임\" (Naver News Library article 1995022200329101005, OCR full text, quote '당시 안기부장이었던 金悳부총리겸통일원장관을 전격 해임했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995022200329101005&editNo=20&printCount=1&publishDate=1995-02-22&officeId=00032&pageNo=1&printNo=15348&publishType=00010, accessed 2026-09-26T09:45:54-0400, snapshot roster/sources/unification/ext88/nl/nl_1995022200329101005.json)"
+   ],
+   "end_reason": "dismissed",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not an NA member during the spell. Later 15th NA member (신한국당, 전국구), seat 1996-05-30..2000-05-29 per na_members/na_member_spells_12_22.csv (mona_cd WJ85609S)",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Announced on the afternoon of 1994-12-23 and given the 임명장 on the morning of 1994-12-24 (the ministry page date). Dismissed (해임) on 1995-02-21 over the 안기부 local-election document from his time as 안기부장. name_hanja from 동아일보 1994-12-24 p.6 \"金悳 통일부총리 학자출신…안기부 문민화 기여\" (Naver News Library article 1994122400209106002, search result title and snippet, quote '金(김) 悳(덕) 통일부총리', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209106002&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=6&printNo=22721&publishType=00010, accessed 2026-09-26T09:09:42-0400, snapshot roster/sources/unification/ext88/nl/nls_t1994_12c_1e68ae99_p1.json). birth_date and gender from Wikidata Q16080180 (via ko.wikipedia title '김덕'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)."
+  },
+  {
+   "name": "나웅배",
+   "name_hanja": "羅雄培",
+   "name_en": "Rha Woong-bae",
+   "name_en_source": "Wikidata Q3565130 (via ko.wikipedia title '나웅배'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary)",
+   "birth_date": "1934",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1995-02-22",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '22대 나웅배 1995.02.22∼ 1995.12.20 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "부산일보 1995-02-22 \"金대통령 羅부총리에 임명장\" (BigKinds news_id 01500701.20160409092307563, full text via bigkinds_article, quote '金泳三대통령이 22일 오전 청와대에서 신임 羅雄培 부총리 겸 통일원 장관에게 임명장을 수여하고 있다', accessed 2026-09-26T09:40:48-0400, snapshot roster/sources/unification/ext88/bk/bk_01500701.20160409092307563.json)",
+    "국제신문 1995-02-22 \"[사진] 신임統一 부총리 임명장\" (BigKinds news_id 01500401.19950222122810115, full text via bigkinds_article, quote '金泳三대통령이 22일 오전 청와대에서 신임 羅雄培 부총리겸 통일원장관에게 임명장을 수여하고 있다', accessed 2026-09-26T09:41:14-0400, snapshot roster/sources/unification/ext88/bk/bk_01500401.19950222122810115.json)",
+    "한국일보 1995-02-23 \"사령탑 잦은경질/통일정책　불안하다/안보·경제보다　정치논리가　좌우\" (BigKinds news_id 01101101.19950223000000403, full text via bigkinds_article, quote '나웅배 신임부총리는 22일 취임식에서', accessed 2026-09-26T09:28:46-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19950223000000403.json)",
+    "경향신문 1995-02-22 p.1 \"金悳부총리 해임\" (Naver News Library article 1995022200329101005, OCR full text, quote '후임에는 羅雄培 국회외무통일위원장이 임명됐다' (announced 1995-02-21 while he was in Malaysia), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995022200329101005&editNo=20&printCount=1&publishDate=1995-02-22&officeId=00032&pageNo=1&printNo=15348&publishType=00010, accessed 2026-09-26T09:45:54-0400, snapshot roster/sources/unification/ext88/nl/nl_1995022200329101005.json)"
+   ],
+   "end": "1995-12-21",
+   "end_confidence": "medium",
+   "end_sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '22대 나웅배 1995.02.22∼ 1995.12.20' (ministry page end = day before successor) (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1995), row 1995-12-20 '부총리겸 재정경제원장관에 나웅배 통일부총리' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1995, accessed 2026-09-26T09:04:49-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1995_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1995_12_20_0010 '김영삼 대통령, 11개 부처 장관 경질' (tier 2, https://db.history.go.kr/id/tcct_1995_12_20_0010, accessed 2026-09-26T09:05:38-0400, snapshot roster/sources/unification/ext88/hist/hist_1995-12-20.html)",
+    "경향신문 1995-12-22 p.2 \"\"내년은 제2건국의 해\"\" (Naver News Library article 1995122200329102001, OCR full text, quote '金대통령은 이날 오전청와대에서 羅雄培경제·權五琦통일부총리를 비롯한신임각료와 청와대수석들에게 임명장을 준 뒤' (이날 = 1995-12-21), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200329102001&editNo=30&printCount=1&publishDate=1995-12-22&officeId=00032&pageNo=2&printNo=15632&publishType=00010, accessed 2026-09-26T09:30:42-0400, snapshot roster/sources/unification/ext88/nl/nl_1995122200329102001.json)",
+    "경향신문 1995-12-21 p.4 \"수고하셨습니다\" (Naver News Library article 1995122100329104004, OCR full text, quote '20일 오후 통일원에서 열린 이임식에서' (farewell at 통일원 on 1995-12-20), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100329104004&editNo=30&printCount=1&publishDate=1995-12-21&officeId=00032&pageNo=4&printNo=15631&publishType=00010, accessed 2026-09-26T09:30:32-0400, snapshot roster/sources/unification/ext88/nl/nl_1995122100329104004.json)",
+    "중앙일보 1995-12-21 \"<인터뷰>12.20개각-나웅배 경제부총리\" (BigKinds news_id 01100901.19951221032614002, full text via bigkinds_article, quote '20일 오후 통일원 기자실에 들러 이임인사와 함께', accessed 2026-09-26T09:29:06-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19951221032614002.json)"
+   ],
+   "end_reason": "other",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 14th NA member (민주자유당, 서울 영등포구을), seat 1992-05-30..1996-05-29 per na_members/na_member_spells_12_22.csv (mona_cd 6545933G), so a sitting member for the whole spell",
+   "transcript_check": "not_applicable",
+   "transcript_notes": "Spell ends before transcript coverage (2000-06).",
+   "notes": "Named on 1995-02-21 while visiting Malaysia, flew back that evening and received the 임명장 on the morning of 1995-02-22, the ministry page date. Sitting 민자당 member throughout. Moved to 부총리 겸 재정경제원장관 in the reshuffle announced on 1995-12-20. He held his 통일원 farewell that afternoon, and he and his successor 권오기 received their 임명장 on the morning of 1995-12-21. end is 1995-12-21 (same-day move, as the main roster does for 진념 and 허성관). The ministry page prints 1995-12-20. His 재정경제원 spell belongs to the finance lineage and should start 1995-12-21. name_hanja from 조선일보 1995-02-22 p.2 \"羅雄培 신임부총리 일문일답\" (Naver News Library article 1995022200239102012, search result title and snippet, quote '羅雄培(나웅배) 신임 부총리겸통일원 장관', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995022200239102012&editNo=1&printCount=1&publishDate=1995-02-22&officeId=00023&pageNo=2&printNo=22950&publishType=00010, accessed 2026-09-26T09:09:54-0400, snapshot roster/sources/unification/ext88/nl/nls_t1995_02_2845bb75_p1.json). birth_date and gender from Wikidata Q3565130 (via ko.wikipedia title '나웅배'), roster/sources/unification/ext88/wikidata_persons.json, accessed 2026-09-26T09:38:31-0400 (secondary). Wikidata holds two values (1934-01-01 and 1934-07-24). The ko.wikipedia infobox (revid 42476387) gives 1934-07-24. Following the rule used in the main file for conflicting Wikidata dates, only the year is kept."
+  },
+  {
+   "name": "권오기",
+   "name_hanja": "權五琦",
+   "name_en": null,
+   "name_en_source": null,
+   "birth_date": "1932-12-10",
+   "gender": "M",
+   "ministry": "통일원",
+   "office_title": "부총리 겸 통일원장관",
+   "deputy_pm": true,
+   "start": "1995-12-21",
+   "start_confidence": "medium",
+   "start_sources": [
+    "통일부 열린장관실 역대장관 page, entry '23대 권오기 1995.12.21∼ 1998.03.02 부총리 겸 통일원장관'; https://unikorea.go.kr/web/minister/contents/introduce_pastminister/; snapshot sources/unification/unikorea_pastminister.html; accessed 2026-09-24T22:34:21-0400",
+    "BigKinds metadata: 국민일보 1995-12-20 \"부총리 나웅배<경제>·권오기<통일>씨/새 비서실장 김광일씨\" (news_id 01100201.19951220000000101) (headline names 권오기 as 통일 부총리 in the reshuffle announced 1995-12-20); snapshot sources/unification/bigkinds/bk_1995-12-20_1995-12-22_28263a3de3.json; accessed 2026-09-25T13:41:03-0400",
+    "BigKinds metadata: 한국경제 1995-12-21 \"경제부총리 나웅배씨/11부장관 경질/통일부총리 권오기씨\" (news_id 02100601.20160116002514946) (headline 통일부총리 권오기씨, 1995-12-21 edition); snapshot sources/unification/bigkinds/bk_1995-12-20_1995-12-22_28263a3de3.json; accessed 2026-09-25T13:41:03-0400",
+    "연합뉴스 1995-12-20 00:00 \"權五琦부총리 기용 배경\" (12.20 개각 names 權五琦 통일부총리); https://n.news.naver.com/mnews/article/001/0003962717; snapshot sources/unification/news/naver_001_0003962717.html; accessed 2026-09-25T12:59:54-0400",
+    "ko.wikipedia '대한민국 통일부 장관' revid 42217994 (secondary, its table follows the ministry page); https://ko.wikipedia.org/w/index.php?oldid=42217994; snapshot sources/unification/wiki_대한민국_통일부_장관.json; accessed 2026-09-24T22:42:28-0400",
+    "[verifier] BigKinds metadata: 중앙일보 1995-12-21 '부총리 羅雄培.權五琦씨-11部장관 경질 비서진 7명도' (news_id 01100901.19951221032608001) '김영삼 대통령은 20일 ... 부총리겸 통일원장관에는 권오기 동아일보사장을 임명하는등 11개 부처에 대한 개각을 단행했다' (reports 1995-12-20 as the day of appointment); 한겨레 1995-12-21 news_id 01101001.19951221000000303 '통일부총리로 임명된 권오기 동아일보사 사장은 20일 오후 기자들과 만나'; snapshot sources/unification/verify/bigkinds/bk_권오기_start_1995-12-20_1995-12-23_660d7f73f4.json; accessed 2026-09-25T21:59:41-0400",
+    "[verifier] BigKinds metadata: 경향신문 1995-12-22 '“내년은 제2건국의 해”/역사 바로세우기 강조' (news_id 01100101.19951222000000201) '김 대통령 새 각료에 임명장 ... 21일' and 서울신문 1995-12-22 '대북 민간대화 활성화/세계화와 연계 등 3대통일정책 제시' (news_id 01100611.20160423094400081) '권오기 부총리겸 통일원 장관은 21일 ... 취임식' (임명장 and 취임식 on 1995-12-21); snapshot sources/unification/verify/bigkinds/bk_권오기_start2_1995-12-20_1995-12-22_71c6231845.json; accessed 2026-09-25T21:59:55-0400",
+    "[verifier] Namu Wiki '통일부장관' (secondary, page revision of 2026-08-08 18:22:45) lists '23대 권오기 (權五琦) 1995년 12월 21일 ~ 1998년 3월 2일' and 나웅배 to 1995-12-20; https://namu.wiki/w/%ED%86%B5%EC%9D%BC%EB%B6%80%EC%9E%A5%EA%B4%80; snapshot sources/unification/verify/namu_통일부장관.html (+ .txt); accessed 2026-09-25T21:55:22-0400"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "medium",
+   "end_sources": [
+    "offices.json (OF003 통일원 to 1998-02-27, OF024 통일부 from 1998-02-28; 정부조직법 법률 제5529호 부칙 제3조② transfers 통일원 staff to 통일부 '정무직을 제외한다'); offices.json; law text snapshot sources/unification/law_govorg_5529.html",
+    "연합뉴스 1998-02-28 13:29 \"새 정부조직법 발효-1\" (new 정부조직법 promulgated and effective 28일 오후; heads of the 7 new ministries incl. 통일부 궐위); https://n.news.naver.com/mnews/article/001/0004297292; snapshot sources/unification/news/naver_001_0004297292.html; accessed 2026-09-24T22:45:05-0400",
+    "연합뉴스 1998-02-28 17:06 \"새 정부조직법 공포로 여야대립 격화 조짐\" (통일부 등 7개 정부 기관장이 궐위); https://n.news.naver.com/mnews/article/001/0004297471; snapshot sources/unification/news/naver_001_0004297471.html; accessed 2026-09-24T22:45:06-0400",
+    "연합뉴스 1998-02-27 11:29 \"<행정공백 3일째 부처 표정>-총리실.공보처등\" (權五琦통일부총리 still at work on 1998-02-27); https://n.news.naver.com/mnews/article/001/0004299510; snapshot sources/unification/news/naver_001_0004299510.html; accessed 2026-09-24T22:44:49-0400",
+    "연합뉴스 1998-03-02 11:14 \"새 정부조직 발효 사흘째, 국정마비 계속\" (1998-03-02: 통일부 장·차관 임명 지연, no minister in office); https://n.news.naver.com/mnews/article/001/0004372544; snapshot sources/unification/news/naver_001_0004372544.html; accessed 2026-09-24T22:45:17-0400",
+    "[verifier] BigKinds metadata: 한국경제 1998-03-02 '정부조직법 발효 .. 김대통령, 53개 법령 서명' (news_id 02100601.20160116161620774) '새 정부조직법이 28일 오후 공포 발효 ... 재정경제부 통일부 ... 등 명칭이 바뀌는 7개 부의 ...'; 강원도민일보 1998-03-02 '7개部處 장·차관 空席' (news_id 01300101.20160621134929432); snapshot sources/unification/verify/bigkinds/bk_권오기_end2_1998-02-28_1998-03-03_f123569062.json; accessed 2026-09-25T22:00:17-0400",
+    "[verifier] BigKinds metadata: 동아일보 1998-03-04 ''서리체제'위헌 지적 權五琦 前부총리 高총리 이임식 불참' (news_id 01100401.19980304093704005) '권오기 전 통일부총리는 3일 오후 ... 장관 이임식을 가진 뒤' (farewell 1998-03-03, after the office was abolished); snapshot sources/unification/verify/bigkinds/bk_권오기_end_1998-02-26_1998-03-05_b83fbde3dd.json; accessed 2026-09-25T22:00:05-0400"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript coverage starts 2000-06.",
+   "notes": "Kim Young-sam era holdover (caretaker cabinet under PM 고건 from 1998-02-25). 통일원 was abolished when 정부조직법 법률 제5529호 took effect on the afternoon of 1998-02-28 (on gazette delivery per 연합뉴스). The 정무직 were excluded from the staff transfer, and contemporary reports say the new 통일부 head post was vacant, so he did not continue as 통일부장관 (reorg_continuation false). end is set to 1998-02-27 to match the legal day convention in offices.json. The ministry page and ko.wikipedia list 1998-03-02 (the day before his successor's appointment), and he held a farewell ceremony on 1998-03-03 (연합뉴스 1998-03-03 18:44 \"金鍾泌총리서리 취임식 안팎\" (權五琦전통일부총리와 康仁德신임통일장관이 서로 엇갈려 이.취임식); https://n.news.naver.com/mnews/article/001/0004374671; snapshot sources/unification/news/naver_001_0004374671.html; accessed 2026-09-24T22:45:11-0400). The reshuffle was announced on 1995-12-20. The ministry page gives 1995-12-21 as his start, which is used here. birth_date from Wikidata Q12586107 (via ko.wikipedia title '권오기 (1932년)'), sources/unification/wikidata_persons.json, accessed 2026-09-25T14:01:59-0400 (secondary). Verifier note. The start day is disputed between 1995-12-20 (announcement, reported by 중앙일보 and 한겨레 as the day he was appointed) and 1995-12-21 (임명장 and 취임식, ministry page). No 관보 file exists for 1995. The value 1995-12-21 is kept because it is the ministry page date and matches the 임명장-day convention most lineages used for the 1997-08-05/06 YS reshuffle. The end follows the cross-lineage convention for ministries abolished on 1998-02-28 (all such rosters end on 1998-02-27).",
+   "from_main": true
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "허문도",
+   "office_title": "국토통일원장관",
+   "nomination_date": "1986-08-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1986-08-27",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '13대 허문도 1986.08.27∼ 1988.02.24 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1986-08-27 p.1 \"신임閣僚에 任命狀\" (Naver News Library article 1986082700209201006, OCR full text, quote '全斗煥대통령은 27일오전金宗鎬내무부장관등 신임각료들에게 임명장을수여했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700209201006&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00020&pageNo=1&printNo=19971&publishType=00020, accessed 2026-09-26T09:41:41-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082700209201006.json)",
+    "중앙일보 1986-08-27 \"신임 각료에 임명장\" (BigKinds news_id 01100901.19860827214434005, full text via bigkinds_article, quote '전두환 대통령은 27일 상오 김종호 내무장관 등 9개 부처장관과 이상훈 비상기획위원장에게 임명장을 수여했다', accessed 2026-09-26T09:44:53-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19860827214434005.json)",
+    "경향신문 1986-08-27 p.2 \"새長官\"意慾의一聲\"\" (Naver News Library article 1986082700329202004, OCR full text, quote '27일상오 취임식을가진 許文道(허문도)신임장관' (취임식 on 1986-08-27), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700329202004&editNo=2&printCount=1&publishDate=1986-08-27&officeId=00032&pageNo=2&printNo=12591&publishType=00020, accessed 2026-09-26T09:30:54-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082700329202004.json)",
+    "경향신문 1986-08-26 p.1 \"10部장관 更迭\" (Naver News Library article 1986082600329201004, OCR full text, quote '許文道(허문도) 청와대정무1수석비서관을 각각 임명발령했다' (announcement and 발령 reported on 1986-08-26), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600329201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00032&pageNo=1&printNo=12590&publishType=00020, accessed 2026-09-26T09:07:43-0400, snapshot roster/sources/unification/ext88/nl/nl_1986082600329201004.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1986_08_26_0010 '통일원장관 허문도 임명' (tier 2, https://db.history.go.kr/id/tcct_1986_08_26_0010, accessed 2026-09-26T09:04:54-0400, snapshot roster/sources/unification/ext88/hist/hist_1986-08-26.html)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced and reported as 임명발령 on 1986-08-26. 임명장 on 1986-08-27."
+  },
+  {
+   "nominee": "이홍구",
+   "office_title": "국토통일원장관",
+   "nomination_date": "1988-02-19",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1988-02-25",
+   "sources": [
+    "동아일보 1988-02-19 p.1 \"세政府 組閣 발표\" (Naver News Library article 1988021900209201003, OCR full text, quote '통일원 李洪九(이홍구)', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020, accessed 2026-09-26T09:04:13-0400, snapshot roster/sources/unification/ext88/nl/nl_1988021900209201003.json)",
+    "중앙일보 1988-02-19 \"''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임\" (BigKinds news_id 01100901.19880219004312001, full text via bigkinds_article, quote '노태우 차기 대통령은 19일 새 내각 및 청와대수석비서관을 확정', accessed 2026-09-26T09:04:24-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19880219004312001.json)",
+    "중앙일보 1988-02-20 \"\"새 시대에 맞는 정치 펴겠다\"-출범 앞둔 제6공화국|관심의 7부장관 인터뷰\" (BigKinds news_id 01100901.19880220004532002, search metadata and snippet, quote '19일 통일원장관내정자로 발표된 이홍구 서울대교수는', accessed 2026-09-26T09:36:29-0400, snapshot roster/sources/unification/ext88/bk/bks_lhk_1988_list_6cd7e3fe.json)",
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '14대 이홍구 1988.02.25∼ 1990.03.18 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1988), row 1988-02-25 '신임 각료와 수석비서관에게 임명장 수여' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=노태우 year=1988, accessed 2026-09-26T08:49:52-0400, snapshot roster/sources/unification/ext88/pa/pa_노태우_1988_p1.html)",
+    "중앙일보 1988-02-25 \"신임각료들에 임명장\" (BigKinds news_id 01100901.19880225005009001, full text via bigkinds_article, quote '노태우 신임 대통령은 25일 오전 대통령 취임식직후 청와대에서 첫 공식행사로 이현재 국무총리 서 리와 23명의 신임 국무위원들에게 임명장을 수여했다', accessed 2026-09-26T09:06:02-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19880225005009001.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. President-elect 노태우 announced the first cabinet on 1988-02-19. Appointed on inauguration day 1988-02-25, on the 제청 of PM 서리 이현재."
+  },
+  {
+   "nominee": "홍성철",
+   "office_title": "국토통일원장관",
+   "nomination_date": "1990-03-17",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-03-19",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '15대 홍성철 1990.03.19∼ 1990.12.26 국토통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '노대통령은 이날 상오 신임 15개부처장관과 대통령비서실장 등 장관급 정부직 인사 19명에게 임명장을 수여한 뒤', accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "한국일보 1990-03-20 \"새 내각 간담회… “소신ㆍ책임” 일색\" (BigKinds news_id 01101101.19900320000000301, full text via bigkinds_article, quote '강영훈 국무총리는 먼저 신임인 이승윤 부총리 홍성철통일원장관등에게 인삿말을 부탁', accessed 2026-09-26T09:24:23-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19900320000000301.json)",
+    "세계일보 1990-03-20 \"6공 “폭풍경보속 항구 떠난 배”/새 내각 첫 국무회의 이모저모\" (BigKinds news_id 01100701.19900320000000302, search metadata and snippet, quote '6공 제3기내각이 19일 오전 첫 국무회의를 갖고', accessed 2026-09-26T09:07:34-0400, snapshot roster/sources/unification/ext88/bk/bks_t1990_03_7525f6b4.json)",
+    "경향신문 1990-03-17 p.1 \"副總理에 李承潤씨\" (Naver News Library article 1990031700329201001, OCR full text, quote '통일원장관에 洪性澈(홍성철)청와대비서실장이 각각 임명됐으' (announcement 1990-03-17), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990031700329201001&editNo=3&printCount=1&publishDate=1990-03-17&officeId=00032&pageNo=1&printNo=13684&publishType=00020, accessed 2026-09-26T09:40:16-0400, snapshot roster/sources/unification/ext88/nl/nl_1990031700329201001.json)",
+    "한겨레 1990-03-18 \"15부처장관 바꿔/부총리 이승윤씨… 청와대 비서진도 개편\" (BigKinds news_id 01101001.19900318000000101, full text via bigkinds_article, quote '통일원 홍성철' (3·17 개각 list), accessed 2026-09-26T09:44:31-0400, snapshot roster/sources/unification/ext88/bk/bk_01101001.19900318000000101.json)",
+    "조선일보 1990-03-20 p.4 \"\"시원시원하게 일해달라\"\" (Naver News Library article 1990032000239104026, OCR full text, quote '한편 대통령비서실은 이날오후 통일원장관으로 임명된 洪性澈(홍성철)전실장과 盧在鳳(노재봉)신임실장의 이-취임식을 가졌다' (his 비서실장 farewell on the afternoon of 1990-03-19, after the 임명장), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990032000239104026&editNo=1&printCount=1&publishDate=1990-03-20&officeId=00023&pageNo=4&printNo=21221&publishType=00010, accessed 2026-09-26T12:48:03-0400, snapshot roster/sources/unification/ext88/nl/nl_1990032000239104026.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. The 3·17 reshuffle was announced on 1990-03-17 (reported as 임명). 임명장 on 1990-03-19."
+  },
+  {
+   "nominee": "최호중",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1990-12-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1990-12-27",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '16대 최호중 1990.12.27∼ 1992.06.25 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (노태우 1990), row 1990-12-27 '국무총리 노재봉, 통일원장관 최호중 등 임명' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=노태우 year=1990, accessed 2026-09-26T09:04:39-0400, snapshot roster/sources/unification/ext88/pa/pa_노태우_1990_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1990_12_27_0010 '노태우 대통령, 국무총리 노재봉·통일원장관 최호중 등 임명' (tier 2, https://db.history.go.kr/id/tcct_1990_12_27_0010, accessed 2026-09-26T09:04:58-0400, snapshot roster/sources/unification/ext88/hist/hist_1990-12-27.html)",
+    "경향신문 1990-12-27 \"총리에 노재봉씨/10부 장관 경질 대폭 개각\" (BigKinds news_id 01100101.19901227000000101, full text via bigkinds_article, quote '부총리급으로 격상된 통일원 장관에는 최호중 외무장관이 기용됐으며', accessed 2026-09-26T09:42:51-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19901227000000101.json)",
+    "서울신문 1990-12-28 \"「12·27 개각」 정가·관가 표정\" (BigKinds news_id 01100611.20160421001333355, full text via bigkinds_article, quote '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리등 신임 각료들과', accessed 2026-09-26T09:25:37-0400, snapshot roster/sources/unification/ext88/bk/bk_01100611.20160421001333355.json)",
+    "조선일보 1990-12-28 p.22 \"改閣겹친「送旧迎新」…部処마다\"새출발\"\" (Naver News Library article 1990122800239122004, OCR full text, quote '오후4시 30분에는 새 각료들과함께 다시 청와대로 들어와盧대통령으로부터 임명장을수여받았다' (임명장 on the afternoon of 1990-12-27), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239122004&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=22&printNo=21500&publishType=00010, accessed 2026-09-26T09:29:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1990122800239122004.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on the morning and 임명장 on the afternoon of 1990-12-27."
+  },
+  {
+   "nominee": "최영철",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1992-06-25",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1992-06-26",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '17대 최영철 1992.06.26∼ 1993.02.25 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1992-06-26 p.5 \"임기「마무리」강조\" (Naver News Library article 1992062600209205006, OCR full text, quote '盧泰愚대통령은 26일오전靑瓦臺에서 崔永喆부총리겸 통일원장관등신임부서장 7명에게 임명장을 주면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600209205006&editNo=2&printCount=1&publishDate=1992-06-26&officeId=00020&pageNo=5&printNo=21865&publishType=00020, accessed 2026-09-26T09:29:38-0400, snapshot roster/sources/unification/ext88/nl/nl_1992062600209205006.json)",
+    "한겨레 1992-06-27 p.5 \"\"내 뜻 잘아는 사람 기용\"\" (Naver News Library article 1992062700289105005, OCR full text, quote '노태우 대통령은 26일 오전 최영철 통일원장관 등 신임각료들에게 임명장을 수여하면서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700289105005&editNo=5&printCount=1&publishDate=1992-06-27&officeId=00028&pageNo=5&printNo=1272&publishType=00010, accessed 2026-09-26T09:35:34-0400, snapshot roster/sources/unification/ext88/nl/nl_1992062700289105005.json)",
+    "한국일보 1992-06-26 \"5부처 장관 경질/서울시장·청와대 정치특보도\" (BigKinds news_id 01101101.19920626000000101, full text via bigkinds_article, quote '부총리겸 통일원장관에 최영철 대통령 정치담당특보를 임명했다' (announced on the afternoon of 1992-06-25), accessed 2026-09-26T09:43:17-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19920626000000101.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1992_06_25_0010 '노태우 대통령, 부총리 겸 통일원장관 최영철 임명' (tier 2, https://db.history.go.kr/id/tcct_1992_06_25_0010, accessed 2026-09-26T09:05:00-0400, snapshot roster/sources/unification/ext88/hist/hist_1992-06-25.html)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on the afternoon of 1992-06-25. 임명장 on 1992-06-26."
+  },
+  {
+   "nominee": "한완상",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1993-02-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-02-26",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '18대 한완상 1993.02.26∼ 1993.12.21 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "조선일보 1993-02-27 p.1 \"◇새 얼굴\" (Naver News Library article 1993022700239101006, OCR full text, quote '④韓完相통일원' (listed among those who received the 임명장 on 1993-02-26), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239101006&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=1&printNo=22270&publishType=00010, accessed 2026-09-26T09:29:49-0400, snapshot roster/sources/unification/ext88/nl/nl_1993022700239101006.json)",
+    "세계일보 1993-02-27 \"“감상적 통일 지상주의 극복”/한 통일원 신임회견\" (BigKinds news_id 01100701.19930227000000205, full text via bigkinds_article, quote '한부총리는 이날 오후 취임식 직후 가진 기자회견을 통해', accessed 2026-09-26T09:43:45-0400, snapshot roster/sources/unification/ext88/bk/bk_01100701.19930227000000205.json)",
+    "한겨레 1993-02-27 \"부총리 이경식(기획원장관) 한완상(통일원장관)\" (BigKinds news_id 01101001.19930227000000101, search metadata and snippet, quote '부총리 겸 통일원장관에 한완상 서울대 교수를 임명하는 등' (announced 1993-02-26), accessed 2026-09-26T09:08:38-0400, snapshot roster/sources/unification/ext88/bk/bks_t1993_02_babb2557.json)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1993), row 1993-02-26 '각 부 장관 등 새정부 발표' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1993, accessed 2026-09-26T08:49:55-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1993_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1993_02_26_0010 '김영삼 대통령, 국무위원·국가안전기획부장·서울특별시장 등 새정부 진용 발표' (tier 2, https://db.history.go.kr/id/tcct_1993_02_26_0010, accessed 2026-09-26T09:05:03-0400, snapshot roster/sources/unification/ext88/hist/hist_1993-02-26.html)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on the morning and 임명장 on the afternoon of 1993-02-26, on the 제청 of PM 황인성 (consent 1993-02-25)."
+  },
+  {
+   "nominee": "이영덕",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1993-12-21",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1993-12-22",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '19대 이영덕 1993.12.22∼ 1994.04.29 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "조선일보 1993-12-23 p.2 \"\"일 안하는 각료 용서안해\"\" (Naver News Library article 1993122300239102002, OCR full text, quote '金대통령은 이날 오전청와대에서 丁渽錫경제부총리와 李榮德통일부총리등 신임 각료 14명에게 임명장을 수여하는 자리에서', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102002&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010, accessed 2026-09-26T09:45:50-0400, snapshot roster/sources/unification/ext88/nl/nl_1993122300239102002.json)",
+    "경향신문 1993-12-23 \"“무한경쟁 승리 지상과제”/김 대통령,새 각료에 임명장\" (BigKinds news_id 01100101.19931223000000104, full text via bigkinds_article, quote '김대통령은 이날 오전 청와대에서 정재석부총리겸 경제기획원장관과 이영덕부총리겸 통일원장관등 신임각료 14명에게 임명장을 수여하는 자리에서', accessed 2026-09-26T09:33:33-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19931223000000104.json)",
+    "경향신문 1993-12-22 \"청와대·당직 오늘개편\" (BigKinds news_id 01100101.19931222000000103, full text via bigkinds_article, quote '부총리겸 통일원장관에 이영덕명지대총장을 임명하는등' (announced on the afternoon of 1993-12-21), accessed 2026-09-26T09:44:09-0400, snapshot roster/sources/unification/ext88/bk/bk_01100101.19931222000000103.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on the afternoon of 1993-12-21. 임명장 on 1993-12-22."
+  },
+  {
+   "nominee": "이홍구",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1994-04-30",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1994-04-30",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '20대 이홍구 1994.04.30∼ 1994.12.16 송영대차관 장관직무대행 ('94.12.17∼12.23 ) 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "대통령기록관 연도별 대통령 일정 (김영삼 1994), row 1994-04-30 '부총리겸 통일원장관에 이홍구 민주평화통일자문회의 수석부의장 임명' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1994, accessed 2026-09-26T09:04:59-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1994_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_04_30_0010 '김영삼 대통령, 통일원장관에 이홍구 민주평화통일자문회의 수석부의장 임명' (tier 2, https://db.history.go.kr/id/tcct_1994_04_30_0010, accessed 2026-09-26T09:05:11-0400, snapshot roster/sources/unification/ext88/hist/hist_1994-04-30.html)",
+    "한겨레 1994-05-01 p.1 \"통일부총리 이홍구씨\" (Naver News Library article 1994050100289101005, OCR full text, quote '김영삼 대통령은 30일 오전청와대에서 이영덕 신임총리에게 임명장을 수여한 데 이어 통일부총리에 이홍구 민주평화통일자문회의 수석 부의장을 임명했다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100289101005&editNo=5&printCount=1&publishDate=1994-05-01&officeId=00028&pageNo=1&printNo=1885&publishType=00010, accessed 2026-09-26T09:45:51-0400, snapshot roster/sources/unification/ext88/nl/nl_1994050100289101005.json)",
+    "조선일보 1994-05-01 p.1 \"◇金泳三대통령이 30일청와대에서 李洪九 신임부...\" (Naver News Library article 1994050100239101005, search result title and snippet, quote '30일청와대에서 李洪九(이홍구) 신임부총리겸 통일원장관에게 임명장을 주고 있다', viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100239101005&editNo=1&printCount=1&publishDate=1994-05-01&officeId=00023&pageNo=1&printNo=22674&publishType=00010, accessed 2026-09-26T09:09:12-0400, snapshot roster/sources/unification/ext88/nl/nls_t1994_04_7e1d9042_p1.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Named and appointed on the morning of 1994-04-30, right after 이영덕 received the PM 임명장."
+  },
+  {
+   "nominee": "김덕",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1994-12-23",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1994-12-24",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '21대 김덕 1994.12.24∼ 1995.02.21 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "동아일보 1994-12-24 p.1 \"19部處장관 경질 大改閣\" (Naver News Library article 1994122400209101001, OCR full text, quote '金대통령은 24일 오전靑瓦臺에서 이들 신임각료와 수석비서관들에게 임명장을 수여하며' (reported on 1994-12-24 as scheduled that morning), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/unification/ext88/nl/nl_1994122400209101001.json)",
+    "중앙일보 1994-12-24 \"12.23 전면개각-외교안보팀\" (BigKinds news_id 01100901.19941224155540002, full text via bigkinds_article, quote '金통일부총리는 임명장을 받기전인 23일 남북대화사무국에서 가진 기자회견에서', accessed 2026-09-26T09:42:05-0400, snapshot roster/sources/unification/ext88/bk/bk_01100901.19941224155540002.json)",
+    "세계일보 1994-12-25 \"“김정일 주석승계 불확실”/내년 남북관계 예측 어려워/김 통일원\" (BigKinds news_id 01100701.19941225000000201, full text via bigkinds_article, quote '김덕부총리겸 통일원장관은 24일 가진 취임식과 기자간담회에서', accessed 2026-09-26T09:42:27-0400, snapshot roster/sources/unification/ext88/bk/bk_01100701.19941225000000201.json)",
+    "경향신문 1994-12-24 p.1 \"19개부처장관 경질\" (Naver News Library article 1994122400329101001, OCR full text, quote '부총리겸 통일원장관에 金悳안기부장을 임명하는등전면 개각을 단행했다' (announced on the afternoon of 1994-12-23), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101001&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:28:22-0400, snapshot roster/sources/unification/ext88/nl/nl_1994122400329101001.json)",
+    "국사편찬위원회 대한민국사연표 tcct_1994_12_23_0010 '김영삼 대통령, 19개 부처장관 경질' (tier 2, https://db.history.go.kr/id/tcct_1994_12_23_0010, accessed 2026-09-26T09:05:22-0400, snapshot roster/sources/unification/ext88/hist/hist_1994-12-23.html)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on the afternoon of 1994-12-23. 임명장 on 1994-12-24."
+  },
+  {
+   "nominee": "나웅배",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1995-02-21",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1995-02-22",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '22대 나웅배 1995.02.22∼ 1995.12.20 부총리 겸 통일원장관' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "부산일보 1995-02-22 \"金대통령 羅부총리에 임명장\" (BigKinds news_id 01500701.20160409092307563, full text via bigkinds_article, quote '金泳三대통령이 22일 오전 청와대에서 신임 羅雄培 부총리 겸 통일원 장관에게 임명장을 수여하고 있다', accessed 2026-09-26T09:40:48-0400, snapshot roster/sources/unification/ext88/bk/bk_01500701.20160409092307563.json)",
+    "국제신문 1995-02-22 \"[사진] 신임統一 부총리 임명장\" (BigKinds news_id 01500401.19950222122810115, full text via bigkinds_article, quote '金泳三대통령이 22일 오전 청와대에서 신임 羅雄培 부총리겸 통일원장관에게 임명장을 수여하고 있다', accessed 2026-09-26T09:41:14-0400, snapshot roster/sources/unification/ext88/bk/bk_01500401.19950222122810115.json)",
+    "한국일보 1995-02-23 \"사령탑 잦은경질/통일정책　불안하다/안보·경제보다　정치논리가　좌우\" (BigKinds news_id 01101101.19950223000000403, full text via bigkinds_article, quote '나웅배 신임부총리는 22일 취임식에서', accessed 2026-09-26T09:28:46-0400, snapshot roster/sources/unification/ext88/bk/bk_01101101.19950223000000403.json)",
+    "경향신문 1995-02-22 p.1 \"金悳부총리 해임\" (Naver News Library article 1995022200329101005, OCR full text, quote '후임에는 羅雄培 국회외무통일위원장이 임명됐다' (announced 1995-02-21 while he was in Malaysia), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995022200329101005&editNo=20&printCount=1&publishDate=1995-02-22&officeId=00032&pageNo=1&printNo=15348&publishType=00010, accessed 2026-09-26T09:45:54-0400, snapshot roster/sources/unification/ext88/nl/nl_1995022200329101005.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on 1995-02-21 while he was abroad. 임명장 on 1995-02-22."
+  },
+  {
+   "nominee": "권오기",
+   "office_title": "부총리 겸 통일원장관",
+   "nomination_date": "1995-12-20",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1995-12-21",
+   "sources": [
+    "대통령기록관 연도별 대통령 일정 (김영삼 1995), row 1995-12-20 '11개 부처 장관 경질' (tier 2, https://www.pa.go.kr/portal/contents/stroll/schedule/scheduleYearList.do POST selPresident=김영삼 year=1995, accessed 2026-09-26T09:04:49-0400, snapshot roster/sources/unification/ext88/pa/pa_김영삼_1995_p1.html)",
+    "국사편찬위원회 대한민국사연표 tcct_1995_12_20_0010 '김영삼 대통령, 11개 부처 장관 경질·청와대 수석비서관 7명 교체' (tier 2, https://db.history.go.kr/id/tcct_1995_12_20_0010, accessed 2026-09-26T09:05:38-0400, snapshot roster/sources/unification/ext88/hist/hist_1995-12-20.html)",
+    "경향신문 1995-12-22 p.2 \"\"내년은 제2건국의 해\"\" (Naver News Library article 1995122200329102001, OCR full text, quote '羅雄培경제·權五琦통일부총리를 비롯한신임각료와 청와대수석들에게 임명장을 준 뒤' (on 1995-12-21), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200329102001&editNo=30&printCount=1&publishDate=1995-12-22&officeId=00032&pageNo=2&printNo=15632&publishType=00010, accessed 2026-09-26T09:30:42-0400, snapshot roster/sources/unification/ext88/nl/nl_1995122200329102001.json)"
+   ],
+   "notes": "Appointed before 국무위원 인사청문 took effect (2005-07-28), so no hearing was required. Announced on 1995-12-20. 임명장 on 1995-12-21 (the start in the main file, copied here as a from_main spell). The 대통령기록관 schedule row of 1995-12-20 misprints his name as 권오설."
+  }
+ ],
+ "acting": [
+  {
+   "name": "송영대",
+   "role": "통일원 차관, 장관 직무대행 (between 이홍구's move to 국무총리 and 김덕's appointment)",
+   "from": "1994-12-17",
+   "to": "1994-12-23",
+   "sources": [
+    "통일부 열린장관실 역대장관 https://unikorea.go.kr/web/minister/contents/introduce_pastminister/, entry '송영대차관 장관직무대행 ('94.12.17∼12.23 )' (tier 2, accessed 2026-09-24T22:34:21-0400, snapshot roster/sources/unification/ext88/unikorea_pastminister.html)",
+    "매일경제 1994-12-16 p.13 \"시멘트·SOC사업에\"의욕\"\" (Naver News Library article 1994121600099113001, search result title and snippet, quote '宋榮大(송영대)통일원차관도 15일' (차관 before the vacancy), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994121600099113001&editNo=15&printCount=1&publishDate=1994-12-16&officeId=00009&pageNo=13&printNo=8958&publishType=00010, accessed 2026-09-26T09:09:28-0400, snapshot roster/sources/unification/ext88/nl/nls_t1994_12b_03c96b2a_p1.json)",
+    "조선일보 1994-12-25 p.3 \"차관급 人事 대폭이냐 소폭이냐\"긴장\"\" (Naver News Library article 1994122500239103001, search result title and snippet, quote '현 宋榮大(송영대)차관의 경질설과 유임설이 팽팽' (still 차관 after the vacancy), viewer https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239103001&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=3&printNo=22896&publishType=00010, accessed 2026-09-26T09:09:28-0400, snapshot roster/sources/unification/ext88/nl/nls_t1994_12b_03c96b2a_p1.json)",
+    "ko.wikipedia '김덕' revid 40497460 infobox '차관2 = [[송영대]] 통일원 차관' (secondary), https://ko.wikipedia.org/w/index.php?oldid=40497460, accessed 2026-09-26T09:38:30-0400, snapshot roster/sources/unification/ext88/wiki/wiki_김덕.json"
+   ],
+   "notes": "The ministry page starts the acting period on 1994-12-17, the day 이홍구 left in the afternoon, so it overlaps the last day of his spell. Only the ministry page names 송영대 as acting. The news sources show he was 차관 before and after the vacancy."
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "Start-date convention before 1998. No 관보 file was read for 1986-1995, so start is the 임명장 day. That is also the date the ministry page prints for every holder. In six cases the appointment was announced one or two days earlier and news reports call it 임명 on that day. They are 허문도 (announced 1986-08-26, reported as 임명발령, 임명장 1986-08-27), 홍성철 (1990-03-17, 임명장 1990-03-19), 최영철 (1992-06-25, 1992-06-26), 이영덕 (1993-12-21, 1993-12-22), 김덕 (1994-12-23, 1994-12-24) and 나웅배 (1995-02-21, 1995-02-22). The main file's 권오기 follows the same rule (announced 1995-12-20, 임명장 1995-12-21). If the 1980s-1990s 관보 shows the announcement date as the appointment date, these starts move back one or two days. Other ext88 lineages should use one convention. The announcement dates are in nominations[].nomination_date."
+  },
+  {
+   "severity": "medium",
+   "desc": "End-date convention. The ministry page prints the day before the successor's start for every holder. This file follows the main roster instead (same-day handover, end = the successor's 임명장 day or the day of the move to a new post). The ends that differ from the page are 허문도 1988-02-25 (page 1988-02-24), 이홍구 1990-03-19 (1990-03-18), 최호중 1992-06-26 (1992-06-25), 최영철 1993-02-26 (1993-02-25), 한완상 1993-12-22 (1993-12-21), 이영덕 1994-04-30 (1994-04-29), 이홍구 1994-12-17 (1994-12-16) and 나웅배 1995-12-21 (1995-12-20). One of these rests on the successor date alone (최호중 1992, end_confidence inferred_from_successor). 이홍구 1990 is a same-day move to 정치특보, whose 임명장 was given with the new cabinet's on 1990-03-19."
+  },
+  {
+   "severity": "medium",
+   "desc": "홍성철 at the 1990-12-27 rename. 법률 제4268호 renamed 국토통일원 to 통일원 on promulgation on 1990-12-27, and 부칙 제2조 deems the staff transferred. The laws are silent on the minister. He was replaced the same day and held his farewell that afternoon (한국일보 and 조선일보 1990-12-28). end is 1990-12-26, the last legal day of 국토통일원, matching the ministry page and the main file's legal-day rule for the 1998 abolitions. The alternative is 1990-12-27 with ministry 통일원 for one day."
+  },
+  {
+   "severity": "low",
+   "desc": "허문도 is included as a 전두환-era holdover with one day in the window (1988-02-25). The collective resignation of the 5th-republic cabinet was accepted on the morning of 1988-02-25 (조선일보 1988-02-26, 매일경제 1988-02-25, 중앙일보 1988-02-25). The ministry page ends him on 1988-02-24, and he gave farewell remarks on 1988-02-23 or 24. If the project decides that 5th-republic ministers left at the end of 1988-02-24, drop this spell."
+  },
+  {
+   "severity": "low",
+   "desc": "For the pm lineage. 이영덕 was named PM on 1994-04-22 but was not appointed 서리 (한겨레 1994-04-24, 조선일보 1994-04-28). The Assembly consented on 1994-04-29 (likms 140620, 재석 180, 가 170, 부 10) and the PM 임명장 was on 1994-04-30. 이홍구's consent and 임명장 were both on 1994-12-17 (likms 140994, 재석 212, 가 177, 부 34, 기권 1)."
+  },
+  {
+   "severity": "low",
+   "desc": "For the finance lineage. 나웅배 moved from 통일원 to 부총리 겸 재정경제원장관 with an 임명장 on 1995-12-21 (경향신문 1995-12-22 NL 1995122200329102001). His finance spell should start 1995-12-21 to match the end here."
+  },
+  {
+   "severity": "low",
+   "desc": "Birth dates are secondary. 한완상 and 나웅배 keep only the year because the secondary sources disagree on the day."
+  },
+  {
+   "severity": "info",
+   "desc": "from_main spell 권오기 (1995-12-21..1998-02-27) is copied unchanged. The evidence gathered here (임명장 on 1995-12-21 in 경향신문 1995-12-22) agrees with it, and no tier 1-3 source contradicts it."
+  }
+ ],
+ "continuity": {
+  "window": "1988-02-25..1998-02-24",
+  "holder_order": [
+   "허문도 1986-08-27..1988-02-25",
+   "이홍구 1988-02-25..1990-03-19",
+   "홍성철 1990-03-19..1990-12-26",
+   "최호중 1990-12-27..1992-06-26",
+   "최영철 1992-06-26..1993-02-26",
+   "한완상 1993-02-26..1993-12-22",
+   "이영덕 1993-12-22..1994-04-30",
+   "이홍구 1994-04-30..1994-12-17",
+   "김덕 1994-12-24..1995-02-21",
+   "나웅배 1995-02-22..1995-12-21",
+   "권오기 1995-12-21..1998-02-27"
+  ],
+  "vacancies": [
+   {
+    "after": "이홍구",
+    "before": "김덕",
+    "vacant_from": "1994-12-18",
+    "vacant_to": "1994-12-23",
+    "days": 6,
+    "acting": [
+     "송영대 1994-12-17..1994-12-23"
+    ],
+    "days_without_acting_record": 0
+   }
+  ],
+  "same_day_handovers": [
+   "허문도 1988-02-25 -> 이홍구 1988-02-25",
+   "이홍구 1990-03-19 -> 홍성철 1990-03-19",
+   "최호중 1992-06-26 -> 최영철 1992-06-26",
+   "최영철 1993-02-26 -> 한완상 1993-02-26",
+   "한완상 1993-12-22 -> 이영덕 1993-12-22",
+   "이영덕 1994-04-30 -> 이홍구 1994-04-30",
+   "나웅배 1995-12-21 -> 권오기 1995-12-21"
+  ],
+  "check": "Every gap between consecutive holders in the window is either zero days, a same-day handover or the documented 1994-12-18..1994-12-23 vacancy covered by the acting 차관 송영대."
+ },
+ "build": {
+  "scripts": [
+   "roster/scripts/unification_ext88_01_lists.py",
+   "roster/scripts/unification_ext88_02_schedule.py",
+   "roster/scripts/unification_ext88_03_news_search.py",
+   "roster/scripts/unification_ext88_04_news_search2.py",
+   "roster/scripts/unification_ext88_05_fulltext.py",
+   "roster/scripts/unification_ext88_06_extra.py",
+   "roster/scripts/unification_ext88_07_1988.py",
+   "roster/scripts/unification_ext88_08_wikidata.py",
+   "roster/scripts/unification_ext88_09_build.py",
+   "roster/scripts/unification_ext88_show.py",
+   "roster/scripts/unification_ext88_10_endsearch.py",
+   "roster/scripts/unification_ext88_11_endtext.py"
+  ],
+  "snapshots": "roster/sources/unification/ext88/",
+  "quote_check": "Every quoted phrase in the source strings was matched against the saved text (whitespace ignored) by unification_ext88_09_build.py.",
+  "holder_list_sources": "통일부 역대장관 page (tier 2), ko.wikipedia list revid 42217994 (secondary), 대통령기록관 일정 (tier 2), 대한민국사연표 (tier 2), likms (tier 1), News Library and BigKinds (tier 3)."
+ },
+ "verification": {
+  "verified_at": "2026-09-26T13:56:42-0400",
+  "verifier": "adversarial verifier, lineage unification, 1988-1998 extension",
+  "state": "complete",
+  "input_file": "roster/unification.ext88.json",
+  "input_built_at": "2026-09-26T12:49:07-0400",
+  "started_at": "2026-09-26T13:22:39-0400 (restart. An earlier run begun at 10:17 was abandoned after the builder file was rebuilt at 12:49)",
+  "steps_done": [
+   "step 0: builder ids recomputed from the 12:49 builder file (unification_ext88_verify_00_builder_ids.py, builder_ids.json).",
+   "step 1: News Library monthly scan, resumed and finished (unification_ext88_verify_01_scan.py, scan_nl_monthly.json).",
+   "step 2: targeted News Library and BigKinds searches per event, E1..E16 (unification_ext88_verify_02_search.py, search_results.json).",
+   "step 3: BigKinds monthly tally started and stopped after 2 months because the shared BigKinds throttle was saturated (unification_ext88_verify_03_bk_monthly.py, bk_monthly.partial.json). Not used.",
+   "step 4: full text of 80+ articles, most not cited by the builder (unification_ext88_verify_04_fulltext.py, fulltext.json, snapshots in nl/ and bk/).",
+   "step 5: month-by-month holder tally (unification_ext88_verify_05_tally.py, tally.json).",
+   "step 6: extra searches for 1988-04, 1992-04, 최호중's exit, the 1994-12 vacancy and the 1990-12 rename (unification_ext88_verify_06_extra.py, search_extra.json). db.history.go.kr timed out for 1992-03-25..1992-05-10 and was not used.",
+   "step 7: build with quote checks (unification_ext88_verify_07_build.py). Every quote in this object is a substring of the saved article text, whitespace ignored. News Library quotes were checked against the OCR text, not against the page images."
+  ],
+  "summary": {
+   "n_spells": 11,
+   "confirmed": 11,
+   "corrected": 0,
+   "disputed": 0,
+   "added": 0,
+   "removed": 0,
+   "n_nominations": 11,
+   "acting_entries": 1,
+   "fields_changed": 0
+  },
+  "completeness": [
+   "Independent holder list: month-by-month News Library tally of the name printed next to 통일원장관 or 통일부총리 in headlines and snippets (queries 통일원장관 and 통일부총리, yearly windows 1988-02..1998-03, 9710 distinct articles from 동아일보, 경향신문, 매일경제, 조선일보, 한겨레, scripts roster/scripts/unification_ext88_verify_01_scan.py and _05_tally.py, outputs roster/sources/unification/ext88_verify/scan_nl_monthly.json and tally.json, first request accessed 2026-09-26T10:20:00-0400). The builder used the ministry page, ko.wikipedia, the schedule and the chronology as its lists, not a month-by-month tally. The sitting holder per month runs 허문도 (1988-02), 이홍구 (1988-02..1990-03), 홍성철 (1990-03..1990-12), 최호중 (1990-12..1992-06), 최영철 (1992-06..1993-02), 한완상 (1993-02..1993-12), 이영덕 (1993-12..1994-04), 이홍구 (1994-05..1994-12), 김덕 (1994-12..1995-02), 나웅배 (1995-02..1995-12), 권오기 (1995-12..1998-02). Two holder names appear together only in handover months. Every other string with two or more hits in a month (tally.json other_ge2) is a particle or word fragment caught by the pattern, an OCR or caption variant of a holder (이흥구 1994-07, 좌이홍구 1990-02), a pre-1988 minister named as former (이용희, 신도성, 최완복, 손재식, 허문도전 and the like), a former holder in the news (최영철 in 1993-11, 훈령조작 inquiry, examples read in the listing) or a rumoured candidate (임동원 1997-12, read in the listing). No missed holder and no short tenure.",
+   "Second list (secondary, not used by the builder): Namu Wiki 통일부장관 (revision 2026-08-08 18:22:45, snapshot roster/sources/unification/verify/namu_통일부장관.html, accessed 2026-09-25T21:55:22-0400) lists the same 11 holders with the ministry page dates. Wikidata Q12592549 has only 4 holders and was not usable.",
+   "1988 transition from 전두환: one holdover (허문도), in the window for one day. 1993 transition: 최영철 caretaker 25-26 Feb 1993. 1990-12-27 rename to 통일원 with 부총리 status handled by the 홍성철 / 최호중 split. 1994-12-23 and 1996-08-08 정부조직법 amendments left 통일원 unchanged (offices_1988.json OFA05). 1998-02-28 abolition is the from_main 권오기 end.",
+   "Election resignations: none. 1988-04-26 (이홍구 named in office 1988-04-13), 1992-03-24 (최호중 in office 28 Mar and 12 May 1992), 1995-06-27 local elections (나웅배 floated for 서울시장 but stayed), 1996-04-11 (권오기 in office, tally 1996-03 24, 1996-04 44). Searches '통일원장관 출마' and '통일부총리 출마' in the election periods (E15 in search_results.json) found no sitting minister resigning to run.",
+   "Offices renamed or merged mid-tenure: only the 1990-12-27 rename, which no spell crosses."
+  ],
+  "continuity_check": [
+   {
+    "from": "허문도 (국토통일원) end 1988-02-25",
+    "to": "이홍구 (국토통일원) start 1988-02-25",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "이홍구 (국토통일원) end 1990-03-19",
+    "to": "홍성철 (국토통일원) start 1990-03-19",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "홍성철 (국토통일원) end 1990-12-26",
+    "to": "최호중 (통일원) start 1990-12-27",
+    "gap_days": 0,
+    "overlap_days": 0,
+    "explained": "consecutive days"
+   },
+   {
+    "from": "최호중 (통일원) end 1992-06-26",
+    "to": "최영철 (통일원) start 1992-06-26",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "최영철 (통일원) end 1993-02-26",
+    "to": "한완상 (통일원) start 1993-02-26",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "한완상 (통일원) end 1993-12-22",
+    "to": "이영덕 (통일원) start 1993-12-22",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "이영덕 (통일원) end 1994-04-30",
+    "to": "이홍구 (통일원) start 1994-04-30",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   },
+   {
+    "from": "이홍구 (통일원) end 1994-12-17",
+    "to": "김덕 (통일원) start 1994-12-24",
+    "gap_days": 6,
+    "overlap_days": 0,
+    "explained": "vacancy 1994-12-18..1994-12-23 after 이홍구 became PM, 차관 송영대 acting (acting list), vacancy confirmed by 조선일보 1994-12-21"
+   },
+   {
+    "from": "김덕 (통일원) end 1995-02-21",
+    "to": "나웅배 (통일원) start 1995-02-22",
+    "gap_days": 0,
+    "overlap_days": 0,
+    "explained": "consecutive days"
+   },
+   {
+    "from": "나웅배 (통일원) end 1995-12-21",
+    "to": "권오기 (통일원) start 1995-12-21",
+    "gap_days": 0,
+    "overlap_days": 1,
+    "explained": "same-day handover"
+   }
+  ],
+  "pm_checks": "Not applicable (not the PM lineage). The two consent votes that end spells here agree with the builder. 이영덕 매일경제 1994-04-30 p.1 \"통일부총리등 오늘 임명\" (Naver News Library article 1994043000099101003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994043000099101003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994043000099101003&editNo=15&printCount=1&publishDate=1994-04-30&officeId=00009&pageNo=1&printNo=8743&publishType=00010, accessed 2026-09-26T13:26:35-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994043000099101003.json) [quote: '金泳三대통령은 29일 저녁 李榮德신임총리에 대한국회인준절차가 끝남에 따라'] [summary: consent completed on the evening of 29 Apr 1994]. 이홍구, 17 Dec 1994, 177 for, 34 against, 1 abstention (세계일보 1994-12-18, cited under spell 7).",
+  "field_hygiene": [
+   "appointing_president equals the president on each start date for all 11 spells (mismatches: none). appointed_by_acting_president false for all, correct (no acting president between 1986-08 and 1998-02).",
+   "deputy_pm follows offices_1988.json: false for 국토통일원 (OFA04, deputy_pm_title []), true for 통일원 (OFA05, 부총리 겸 통일원장관 1990-12-27..1998-02-27). Mismatches: none.",
+   "ministry and office_title match the legal period of each start (국토통일원 to 1990-12-26, 통일원 1990-12-27..1998-02-27). Mismatches: none. No spell crosses the 1990-12-27 rename (홍성철 ends 1990-12-26, 최호중 starts 1990-12-27).",
+   "reorg fields: reorg_continuation false for all. 홍성철 is not continued across the rename (not reappointed, 부칙 제2조 covers staff only). 권오기 keeps the main roster's ministry_reorganized end with reorg_continuation false.",
+   "pm_status and pm_acting_until null (not the PM lineage), suspensions empty, transcript_check not_applicable for pre-2000 spells and the main value for 권오기.",
+   "mp_hint values agree with na_members/na_member_spells_12_22.csv (나웅배 14th NA 1992-05-30..1996-05-29, 최영철 12th NA to 1988-05-29, 이홍구 and 김덕 15th NA from 1996-05-30).",
+   "from_main: only 권오기, identical to the main verified roster apart from the flag (True)."
+  ],
+  "nominations_check": [
+   "허문도 nomination_date 1986-08-26 agrees with 동아일보 1986-08-26 (cited under spell 0).",
+   "이홍구 1988-02-19 agrees with 경향신문 1988-02-19 (cited under spell 1).",
+   "홍성철 1990-03-17 agrees with 서울신문 1990-03-18 (cited under spells 1 and 2).",
+   "최호중 1990-12-27 agrees with 부산일보 1990-12-27 (cited under spell 3).",
+   "최영철 1992-06-25 agrees with 세계일보 1992-06-26 (cited under spell 4).",
+   "한완상 1993-02-26 agrees with 문화일보 1993-02-27 (cited under spell 5).",
+   "이영덕 1993-12-21: 국민일보 1993-12-22 \"“사정 겁난다” 내무부 긴장/장관들 바뀌던 날\" (BigKinds news_id 01100201.19931222000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19931222000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:25:55-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100201.19931222000000301.json) [quote: '신임 이부총리는 21일 개각직후'] [summary: named on 21 Dec 1993].",
+   "이홍구 1994-04-30 agrees with 경향신문 1994-05-01 (cited under spell 6).",
+   "김덕 1994-12-23 agrees with 동아일보 1994-12-24 (cited under spell 8).",
+   "나웅배 1995-02-21 agrees with 중앙일보 1995-02-21 (cited under spell 9).",
+   "권오기 1995-12-20 agrees with 국제신문 1995-12-20 (cited under spell 10).",
+   "All outcome_date values equal the spell starts. hearing_required false and na_consent_vote not_applicable are right for 국무위원 before 2005-07-28."
+  ],
+  "acting_check": "송영대 (차관) 1994-12-17..1994-12-23 kept. The vacancy is confirmed by 조선일보 1994-12-21 (spell 8). 이영덕's handing of day-to-day business to the 차관 in 1994-04 is not an acting appointment, he remained minister (조선일보 1994-04-29, spell 6). No other 직무대행 found.",
+  "per_spell": {
+   "0": {
+    "name": "허문도",
+    "ministry": "국토통일원",
+    "start": "1986-08-27",
+    "end": "1988-02-25",
+    "status": "confirmed",
+    "checks": [
+     "start 1986-08-27 confirmed with sources the builder did not cite: 매일경제 1986-08-27 p.1 \"全大統領(전대통령) 신임閣僚(각료)에 임명장\" (Naver News Library article 1986082700099201005, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1986082700099201005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082700099201005&editNo=1&printCount=1&publishDate=1986-08-27&officeId=00009&pageNo=1&printNo=6304&publishType=00020, accessed 2026-09-26T09:50:19-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1986082700099201005.json) [quote: '全斗煥대통령은 27일 상오청와대에서 金宗鎬내무장관등신임 각료 9명과 李相薰비상기획위원장에게 각각 임명장을 수여했다'] [summary: 임명장 for the ministers of the 8·26 reshuffle on the morning of 27 Aug 1986] | 조선일보 1986-08-28 p.1 \"신임閣僚(각료)에 임명장\" (Naver News Library article 1986082800239101018, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1986082800239101018), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082800239101018&editNo=1&printCount=1&publishDate=1986-08-28&officeId=00023&pageNo=1&printNo=20124&publishType=00010, accessed 2026-09-26T10:21:35-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1986082800239101018.json) [quote: '全斗煥 대통령은 27일 오전青瓦臺에서 金宗鎬내무장관등9개부처 장관과 李相薰비상기획위원장에게임명장을 주었다'] [summary: same ceremony, second paper] | 조선일보 1986-08-28 p.3 \"◇개각후 처음 열린 국무회의에서 국무위원들이...\" (Naver News Library article 1986082800239103009, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1986082800239103009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082800239103009&editNo=1&printCount=1&publishDate=1986-08-28&officeId=00023&pageNo=3&printNo=20124&publishType=00010, accessed 2026-09-26T10:02:14-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1986082800239103009.json) [quote: '許文道통일원(新)'] [summary: photo of the first 국무회의 after the reshuffle marks 허문도 as a new 통일원 minister]. The announcement was on the morning of 26 Aug (동아일보 1986-08-26 p.1 \"대폭改閣(개각) 10개部處長官(부처장관) 경질\" (Naver News Library article 1986082600209201004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1986082600209201004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1986082600209201004&editNo=2&printCount=1&publishDate=1986-08-26&officeId=00020&pageNo=1&printNo=19970&publishType=00020, accessed 2026-09-26T09:09:34-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1986082600209201004.json) [quote: '全斗煥대통령은 26일 오전10개부처에 대한 대폭적인개각을 단행했다' | '統一院장관에 許文道青瓦臺정무제1수석비서관을 각각 임명했다'] [summary: reshuffle and 임명 reported on 26 Aug 1986]). The builder's 임명장-day convention gives 27 Aug.",
+     "end 1988-02-25 confirmed as the last day in office under the same-day handover rule: 조선일보 1988-02-25 p.1 \"国務委員(국무위원) 일괄 사표 全(전)대통령 閣議(각의)주재\" (Naver News Library article 1988022500239101011, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022500239101011), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500239101011&editNo=1&printCount=1&publishDate=1988-02-25&officeId=00023&pageNo=1&printNo=20581&publishType=00010, accessed 2026-09-26T09:27:05-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988022500239101011.json) [quote: '이들의 사표는 25일 오전盧泰愚신임대통령에게전달된다'] [summary: the whole 5th-republic cabinet tendered resignations at the last 국무회의 on 24 Feb, to be handed to 노태우 on the morning of 25 Feb] | 한국경제 1988-02-24 \"[政街산책] 25일 0시부터 權限행사\" (BigKinds news_id 02100601.19880224193046105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880224193046105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:59:00-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_02100601.19880224193046105.json) [quote: '법률상 정부 이양 시점은 25일 0시이며' | '임명장을 받는 시각부터 정식 국무위원 자격을 가질 것이라고 풀이'] [summary: 법제처 reading: power passes at 0시 on 25 Feb, the new ministers become 국무위원 only when they receive the 임명장 that morning] | 서울신문 1988-02-26 \"우린 「함께 걷는 민主主義」출발선상에\" (BigKinds news_id 01100611.19880226163139001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.19880226163139001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T12:58:56-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100611.19880226163139001.json) [quote: '盧泰愚대통령은 25일 상오 취임식후 靑瓦臺 집무실에서 국무위원 임명장에 서명하는 것으로 대통령 집무를 시작했다'] [summary: new 임명장 signed on the morning of 25 Feb] | 조선일보 1988-02-27 p.2 \"本社來訪(본사내방)\" (Naver News Library article 1988022700239102016, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022700239102016), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022700239102016&editNo=1&printCount=1&publishDate=1988-02-27&officeId=00023&pageNo=2&printNo=20583&publishType=00010, accessed 2026-09-26T10:10:35-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988022700239102016.json) [quote: '許文道씨(전통일원장관)'] [summary: called former minister in the 27 Feb issue]",
+     "Counterpoint kept from the builder (issue 4): the ministry page prints 1988-02-24 and 허문도 gave farewell remarks on 23-24 Feb. Whether 5th-republic holdovers end on 24 or 25 Feb is a project-level choice. All ext88 lineages checked so far (culture verified, this file) use 25 Feb.",
+     "end_reason 'replaced' kept. He left with the collective resignation at the change of government. Other lineages code their 1988 holdovers as 'resigned' or 'replaced' (see disputes). He did not run in the 1988 general election (동아일보 1988-04-13 p.5 \"現代社會研(현대사회연) 自律性(자율성)몸부림\" (Naver News Library article 1988041300209205001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988041300209205001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988041300209205001&editNo=2&printCount=1&publishDate=1988-04-13&officeId=00020&pageNo=5&printNo=20469&publishType=00020, accessed 2026-09-26T13:49:28-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988041300209205001.json) [quote: '李洪九통일원장관이 자문위원장으로 있는 이 기구는'] [summary: his successor is the sitting minister in April 1988, election month], and 허문도 does not appear in na_members/na_member_spells_12_22.csv)."
+    ]
+   },
+   "1": {
+    "name": "이홍구",
+    "ministry": "국토통일원",
+    "start": "1988-02-25",
+    "end": "1990-03-19",
+    "status": "confirmed",
+    "checks": [
+     "start 1988-02-25 confirmed with sources the builder did not cite: 경향신문 1988-02-25 p.1 \"全(전) 前任(전임)대통령 환송 새閣僚(각료)들에 임명장\" (Naver News Library article 1988022500329201003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022500329201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022500329201003&editNo=3&printCount=1&publishDate=1988-02-25&officeId=00032&pageNo=1&printNo=13049&publishType=00020, accessed 2026-09-26T09:05:38-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988022500329201003.json) [quote: '盧泰愚대통령은 25일 대통령취임식에 참석한뒤 청와대에서 李賢宰국무총리서리와羅雄培부총리등 새정부의 신임각료들에게 임명장을 주어'] [summary: 임명장 to the first 6th-republic cabinet on 25 Feb 1988] | 한국경제 1988-02-26 \"盧 대통령 就任式 이모저모\" (BigKinds news_id 02100601.19880226193114109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100601.19880226193114109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:06:16-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_02100601.19880226193114109.json) [quote: '취임 첫 날인 25일 청와대에서 李賢宰 국무총리 서리와 23명의 신임 각료들에게 임명장을 수여하는 것으로 공식 업무를 시작'] [summary: same, BigKinds-only paper (한국경제)] | 조선일보 1988-02-27 p.2 \"本社來訪(본사내방)\" (Naver News Library article 1988022700239102016, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988022700239102016), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988022700239102016&editNo=1&printCount=1&publishDate=1988-02-27&officeId=00023&pageNo=2&printNo=20583&publishType=00010, accessed 2026-09-26T10:10:35-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988022700239102016.json) [quote: '李洪九씨(통일원장관)'] [summary: named as the sitting 통일원장관 in the 27 Feb issue]. Named in the cabinet list of 19 Feb (경향신문 1988-02-19 p.1 \"새政府(정부) 內閣(내각)명단 발표\" (Naver News Library article 1988021900329201004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1988021900329201004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900329201004&editNo=3&printCount=1&publishDate=1988-02-19&officeId=00032&pageNo=1&printNo=13044&publishType=00020, accessed 2026-09-26T09:04:12-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1988021900329201004.json) [quote: '통일원 李洪九\n정무2 趙敬姫' | '인선을 완료했다고 康容植취임준비위대변인이 19일 발표했다'] [summary: cabinet list announced 19 Feb 1988]).",
+     "continuity 1988-02-25..1990-03-19: the News Library monthly tally (tally.json) names him every month from 1988-02 to 1990-03 and names no other holder. He stayed through the 13th general election (26 Apr 1988), see the 1988-04-13 동아일보 citation under spell 0.",
+     "end 1990-03-19 confirmed: 서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds news_id 01100611.20160420190235310, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100611.20160420190235310.json) [quote: '대통령비서실은 이홍구통일원장관이 정치담당특보로' | '노대통령은 19일 상오 이부총리를 비롯한 신임각료들에게 임명장을 수여할 예정이다'] [summary: 3·17 announcement, he moves to 정치특보, 임명장 set for 19 Mar] | 경향신문 1990-03-19 p.1 \"내일 靑瓦臺(청와대)국무회의\" (Naver News Library article 1990031900329201003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990031900329201003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329201003&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=1&printNo=13685&publishType=00020, accessed 2026-09-26T09:34:55-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990031900329201003.json) [quote: '19일상오 청와대에서 李承潤부총리등 신임각료와 盧在鳳비서실장등 신임비서진에게 임명장을 수여했다'] [summary: 임명장 for the new ministers and new 청와대 staff on the morning of 19 Mar] | 서울신문 1990-03-20 \"“경제난ㆍ민생치안 조속 해결”/노 대통령 지시\" (BigKinds news_id 01100611.20160420190328109, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190328109&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:47:44-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100611.20160420190328109.json) [quote: '노태우대통령은 19일 상오 청와대에서 이승윤부총리등 15명의 신임장관과 노재봉대통령비서실장 등에게 임명장을 수여한 뒤'] [summary: same, 서울신문] | 중앙일보 1990-03-19 \"남북관계 주제 강연회\" (BigKinds news_id 01100901.19900319174306001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900319174306001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:30:28-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100901.19900319174306001.json) [quote: '이홍구신임청와대 정치담당특보를 초청'] [summary: he spoke as the new 정치특보 at noon on 19 Mar]. No 통일원 이임식 report of his own was found (E3 이임식 search lists 이임식 of 조순, 김태호, 김집 and others on 17 Mar, none at 통일원). The ministry page prints 1990-03-18. The builder's same-day rule gives 19 Mar and matches his successor's start."
+    ]
+   },
+   "2": {
+    "name": "홍성철",
+    "ministry": "국토통일원",
+    "start": "1990-03-19",
+    "end": "1990-12-26",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-03-19 confirmed: 서울신문 1990-03-18 \"15부처 장관 경질/부총리 이승윤씨… 금명 차관급 후속 인사\" (BigKinds news_id 01100611.20160420190235310, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420190235310&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:25:41-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100611.20160420190235310.json) [quote: '통일원장관에는 홍성철대통령비서실장'] [summary: named on 17 Mar among the 15 new ministers whose 임명장 was set for 19 Mar] | 동아일보 1990-03-19 p.1 \"經濟難(경제난)-民生治安(민생치안)해결 당부\" (Naver News Library article 1990031900209201005, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990031900209201005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900209201005&editNo=2&printCount=1&publishDate=1990-03-19&officeId=00020&pageNo=1&printNo=21065&publishType=00020, accessed 2026-09-26T09:30:28-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990031900209201005.json) [quote: '盧泰愚대통령은 19일 오전靑瓦臺에서 3.17개각으로입각한 李承潤부총리등 신임각료에게 임명장을 주고'] [summary: 임명장 for the 3·17 ministers on the morning of 19 Mar] | 경향신문 1990-03-19 p.3 \"새内閣(내각)의課題(과제) <上(상)> 經濟(경제)·치안회복 成敗(성패)달렸다\" (Naver News Library article 1990031900329203001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990031900329203001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990031900329203001&editNo=3&printCount=1&publishDate=1990-03-19&officeId=00032&pageNo=3&printNo=13685&publishType=00020, accessed 2026-09-26T12:58:23-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990031900329203001.json) [quote: '李洪九전임통일원장관이 청와대특보로 자리를바꿈으로써'] [summary: 19 Mar issue already treats 홍성철 as the minister and 이홍구 as predecessor].",
+     "end 1990-12-26 confirmed as the last legal day of 국토통일원: 조선일보 1990-12-27 p.4 \"姜(강)총리 改閣(개각)보도 一笑(일소)\" (Naver News Library article 1990122700239104004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122700239104004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700239104004&editNo=1&printCount=1&publishDate=1990-12-27&officeId=00023&pageNo=4&printNo=21499&publishType=00010, accessed 2026-09-26T13:31:12-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990122700239104004.json) [quote: '첫날인26일에는 통일원장관을 부총리로 격상시키는 정부조직법개정안공포등 공포안건 39건과'] [summary: the 국무회의 of 26 Dec cleared the promulgation of the 정부조직법 amendment, published on 27 Dec (법률 제4268호, 부칙 제1조 시행 on promulgation, law text read in inventory_sources/1988/law_go_kr/govorg/text_19901227_5792.json)] | 경향신문 1990-12-27 p.2 \"「紙上(지상)발령」에 앞당겨 斷行(단행)\" (Naver News Library article 1990122700329202001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122700329202001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122700329202001&editNo=3&printCount=1&publishDate=1990-12-27&officeId=00032&pageNo=2&printNo=13927&publishType=00020, accessed 2026-09-26T09:31:06-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990122700329202001.json) [quote: '洪性澈장관의 유임을 믿고있던 통일원관계자들은 崔浩中 前외무장관의영전에'] [summary: replaced on 27 Dec, not reappointed to the renamed office] | 국민일보 1990-12-29 \"고위급회담 일부대표 교체/통일원 격상 따라 검토\" (BigKinds news_id 01100201.19901229000000203, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901229000000203&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:31:46-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100201.19901229000000203.json) [quote: '홍성철 전 통일원장관 대신 차관급을 내세우는 방안'] [summary: former minister by 28 Dec].",
+     "Counterpoint kept from the builder (issue 3): he was physically in office on the morning of 27 Dec (farewell that afternoon). The builder's 26 Dec follows the renaming rule of the main file (이돈희, 교육부, ends 2001-01-28 the day before the 교육인적자원부 rename, roster/education.verified.json) and matches education.ext88 (정원식 ends 1990-12-26). sports.ext88 ends 정동성 on 1990-12-27 at the same rename, see disputes.",
+     "end_reason 'replaced' and reorg_continuation false are consistent with 법률 제4268호 부칙 제2조 (only staff are deemed transferred)."
+    ]
+   },
+   "3": {
+    "name": "최호중",
+    "ministry": "통일원",
+    "start": "1990-12-27",
+    "end": "1992-06-26",
+    "status": "confirmed",
+    "checks": [
+     "start 1990-12-27 confirmed: 부산일보 1990-12-27 \"새 總理에 盧在鳳씨\" (BigKinds news_id 01500701.19901227201600101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500701.19901227201600101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:34:17-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01500701.19901227201600101.json) [quote: '새해부터 부총리를 겸임하게 되는 통일원장관에 崔浩中외무장관을 임명하고' | '盧泰愚대통령은 이날 하오청와대에서 새로 임명된 盧在鳳총리서리와 신임 각료들에게 임명장을 수여했다'] [summary: named on the morning and given the 임명장 on the afternoon of 27 Dec 1990] | 한국일보 1990-12-28 \"노대통령,임명장 수여\" (BigKinds news_id 01101101.19901228000000102, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19901228000000102&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:33:07-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01101101.19901228000000102.json) [quote: '노태우 대통령은 27일 하오 청와대에서 노재봉 신임 국무총리서리를 비롯한 10개 부처의 신임 각료'] [summary: same, 한국일보] | 경향신문 1990-12-28 p.3 \"平民(평민)반발로 盧(노)총리 첫발부터\"삐걱\"\" (Naver News Library article 1990122800329203002, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1990122800329203002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800329203002&editNo=3&printCount=1&publishDate=1990-12-28&officeId=00032&pageNo=3&printNo=13928&publishType=00020, accessed 2026-09-26T09:31:13-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1990122800329203002.json) [quote: '崔浩中부총리겸 통일원장관은 28일상오 취임식에서' | '통일원장관을 부총리로 격상시킨것'] [summary: 취임식 on 28 Dec as 부총리].",
+     "deputy_pm true from 27 Dec is kept. 부산일보 above says he will hold the 부총리 title from the new year, but 법률 제4268호 부칙 제1조 puts 제17조 in force on promulgation (its exceptions do not include 제17조) and he spoke as 부총리 at his 28 Dec 취임식.",
+     "continuity through the 14th general election (24 Mar 1992): the tally names him in every month 1991-01..1992-06 except 1992-04, when no holder at all is named in either archive (BigKinds '최호중' 0 hits 1992-03-15..1992-04-30, News Library '崔浩中' 0 hits in April). He is named as minister just before and after: 조선일보 1992-03-29 p.15 \"「남북관계」강연\" (Naver News Library article 1992032900239115023, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992032900239115023), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992032900239115023&editNo=1&printCount=1&publishDate=1992-03-29&officeId=00023&pageNo=15&printNo=21944&publishType=00010, accessed 2026-09-26T13:50:26-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992032900239115023.json) [quote: '崔浩中부총리겸 통일원 장관은 28일 오전 인터콘티넨탈 호텔에서'] [summary: in office on 28 Mar 1992] | 조선일보 1992-05-13 p.2 \"北(북)에「汎(범)민족대회」중단촉구\" (Naver News Library article 1992051300239102004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992051300239102004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992051300239102004&editNo=1&printCount=1&publishDate=1992-05-13&officeId=00023&pageNo=2&printNo=21987&publishType=00010, accessed 2026-09-26T13:51:58-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992051300239102004.json) [quote: '崔浩中부총리겸 통일원장관은 12일 열린 민주평화통일자문회의에 참석'] [summary: in office on 12 May 1992]. No reshuffle touching 통일원 is reported between those dates, so the April silence is a coverage lull, not a gap.",
+     "end 1992-06-26 confirmed as the successor's 임명장 day: 조선일보 1992-06-26 p.3 \"측근 重用(중용)…大選(대선)체제-親政(친정) 강화\" (Naver News Library article 1992062600239103007, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062600239103007), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600239103007&editNo=1&printCount=1&publishDate=1992-06-26&officeId=00023&pageNo=3&printNo=22031&publishType=00010, accessed 2026-09-26T13:33:34-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992062600239103007.json) [quote: '崔浩中통일부총리교체는외무장관 경력까지를 합치면 최장수 각료라는 점과'] [summary: replaced in the 6·25 reshuffle] | 매일경제 1992-06-26 p.1 \"◇盧泰愚(노태우)대통령이 26일오전 崔永喆(최영철) 부총리겸 통...\" (Naver News Library article 1992062600099201006, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062600099201006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600099201006&editNo=1&printCount=1&publishDate=1992-06-26&officeId=00009&pageNo=1&printNo=8141&publishType=00020, accessed 2026-09-26T10:04:04-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992062600099201006.json) [quote: '盧泰愚대통령이 26일오전 崔永喆 부총리겸 통일원장관등 신임 각료들에게 임명장을 수여하고 있다'] [summary: successor's 임명장 on the morning of 26 Jun]. No report of his own 이임 was found (step 6 searches X3: News Library '崔浩中' 25 Jun..10 Jul 1 hit, '이임식' 25-28 Jun 0 hits, BigKinds '최호중' 26 Jun..10 Jul 4 hits, none about his exit), so end_confidence inferred_from_successor is right."
+    ]
+   },
+   "4": {
+    "name": "최영철",
+    "ministry": "통일원",
+    "start": "1992-06-26",
+    "end": "1993-02-26",
+    "status": "confirmed",
+    "checks": [
+     "start 1992-06-26 confirmed: 경향신문 1992-06-27 p.4 \"\"호흡같이할 인물기용\"\" (Naver News Library article 1992062700329104009, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062700329104009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062700329104009&editNo=15&printCount=1&publishDate=1992-06-27&officeId=00032&pageNo=4&printNo=14448&publishType=00010, accessed 2026-09-26T09:36:14-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992062700329104009.json) [quote: '盧泰愚대통령은 26일 상오 신임 崔永喆부총리겸통일원장관'] [summary: 임명장 on the morning of 26 Jun 1992] | 매일경제 1992-06-26 p.1 \"◇盧泰愚(노태우)대통령이 26일오전 崔永喆(최영철) 부총리겸 통...\" (Naver News Library article 1992062600099201006, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1992062600099201006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1992062600099201006&editNo=1&printCount=1&publishDate=1992-06-26&officeId=00009&pageNo=1&printNo=8141&publishType=00020, accessed 2026-09-26T10:04:04-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1992062600099201006.json) [quote: '盧泰愚대통령이 26일오전 崔永喆 부총리겸 통일원장관등 신임 각료들에게 임명장을 수여하고 있다'] [summary: photo caption, second paper]. Named on the afternoon of 25 Jun (세계일보 1992-06-26 \"5부장관­2장관급 경질\" (BigKinds news_id 01100701.19920626000000101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19920626000000101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:33:14-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100701.19920626000000101.json) [quote: '노대통령은 이날 오후 청와대에서 정원식총리와 단독회동,정총리의 제청을 받아 부총리겸 통일원장관에 최영철 대통령정치담당특보'] [summary: 제청 and appointment reported for 25 Jun]).",
+     "end 1993-02-26 confirmed (caretaker under 김영삼 from 25 Feb): 경향신문 1993-02-25 p.2 \"北韓(북한) 尹基福(윤기복)교체 對南(대남)화해 제스처 崔(최)통일원 밝혀\" (Naver News Library article 1993022500329102013, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022500329102013), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022500329102013&editNo=15&printCount=1&publishDate=1993-02-25&officeId=00032&pageNo=2&printNo=14683&publishType=00010, accessed 2026-09-26T13:33:56-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993022500329102013.json) [quote: '崔永喆부총리겸 통일원장관은 24일 출입기자단과의 이임간담회에서'] [summary: farewell press meeting on 24 Feb 1993] | 전북일보 1993-02-26 \"閣僚들에 임명장\" (BigKinds news_id 01601101.19930226014940103, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601101.19930226014940103&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:31:22-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01601101.19930226014940103.json) [quote: '김영삼 대통령은 26일 하오 청와대에서 이경식 부총리 겸 경제기획원장관 등 신임각료 전원과 김덕 안기부장'] [summary: the whole new cabinet received the 임명장 on the afternoon of 26 Feb]. Same-day handover rule, as in the main roster."
+    ]
+   },
+   "5": {
+    "name": "한완상",
+    "ministry": "통일원",
+    "start": "1993-02-26",
+    "end": "1993-12-22",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-02-26 confirmed: 문화일보 1993-02-27 \"기획원李經植 통일원韓完相씨\" (BigKinds news_id 01100501.19930227052852101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100501.19930227052852101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:38:58-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100501.19930227052852101.json) [quote: '金泳三대통령은 26일 24개 부처의 장관을 비롯 서울시장、 안기부장、 민주평통 사무총장등 27명의명단을 발표한뒤 임명장을 수여했다'] [summary: named and given the 임명장 on 26 Feb 1993, 부총리 겸 통일원장관 韓完相 in the list] | 조선일보 1993-02-27 p.5 \"◇金泳三(김영삼)대통령이 韓完相(한완상)부총리 겸 통일원장관에게...\" (Naver News Library article 1993022700239105003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700239105003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700239105003&editNo=1&printCount=1&publishDate=1993-02-27&officeId=00023&pageNo=5&printNo=22270&publishType=00010, accessed 2026-09-26T13:23:55-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993022700239105003.json) [quote: '金泳三대통령이 韓完相부총리 겸 통일원장관에게 임명장을 수여하고 있다'] [summary: photo of his 임명장] | 경향신문 1993-02-27 p.4 \"\"매주 장관~4명 만날수 있게 日程(일정)짜라\"YS\" (Naver News Library article 1993022700329104001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993022700329104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700329104001&editNo=15&printCount=1&publishDate=1993-02-27&officeId=00032&pageNo=4&printNo=14685&publishType=00010, accessed 2026-09-26T09:34:00-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993022700329104001.json) [quote: '金대통령은 이어 이날 오후 24개 부처장관과 안기부장등 새정부의 핵심요직 27명에게 임명장을 수여하면서'] [summary: afternoon of 26 Feb].",
+     "end 1993-12-22 confirmed: 경인일보 1993-12-22 \"[사진]\" (BigKinds news_id 01200201.19931222150517115, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19931222150517115&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:34:39-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01200201.19931222150517115.json) [quote: '한완상 전부총리겸 통일원 장관이 21일 오후 송영대차관등 통일원 주요간부들과 이임 인사를 나누고 있다'] [summary: farewell on the afternoon of 21 Dec] | 동아일보 1993-12-22 p.5 \"12.21개각으로 경질된 韓完相(한완상)전부총리겸 통일...\" (Naver News Library article 1993122200209105002, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122200209105002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200209105002&editNo=40&printCount=1&publishDate=1993-12-22&officeId=00020&pageNo=5&printNo=22379&publishType=00010, accessed 2026-09-26T13:34:50-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993122200209105002.json) [quote: '12.21개각으로 경질된 韓完相전부총리겸 통일원장관이 집무실을 떠나기에 앞서 간부들과 환담하고 있다'] [summary: same, 동아일보] | 국민일보 1993-12-22 \"“사정 겁난다” 내무부 긴장/장관들 바뀌던 날\" (BigKinds news_id 01100201.19931222000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19931222000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:25:55-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100201.19931222000000301.json) [quote: '김영삼대통령은 22일 오전 청와대에서 신임각료 14명에게 임명장을 수여한뒤'] [summary: successor's 임명장 on the morning of 22 Dec]. His last physical day was 21 Dec. The builder's same-day rule gives 22 Dec (the ministry page prints 21 Dec)."
+    ]
+   },
+   "6": {
+    "name": "이영덕",
+    "ministry": "통일원",
+    "start": "1993-12-22",
+    "end": "1994-04-30",
+    "status": "confirmed",
+    "checks": [
+     "start 1993-12-22 confirmed: 매일경제 1993-12-23 p.1 \"청와대首席(수석) 4명 교체\" (Naver News Library article 1993122300099101004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122300099101004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300099101004&editNo=15&printCount=1&publishDate=1993-12-23&officeId=00009&pageNo=1&printNo=8625&publishType=00010, accessed 2026-09-26T13:32:50-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993122300099101004.json) [quote: '이날 오전 丁渽錫경제부총리와 李榮德통일부총리등 신임각료 14명에게 임명장을수여하고'] [summary: 임명장 on the morning of 22 Dec 1993] | 한국일보 1993-12-23 \"“국제경쟁력　지상과제”/김 대통령,새내각에　지시\" (BigKinds news_id 01101101.19931223000000104, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19931223000000104&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:25:17-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01101101.19931223000000104.json) [quote: '김대통령은　이날　상오　청와대에서　정재석경제부총리와　이영덕통일부총리등　신임각료　14명에게　임명장을　수여하는'] [summary: same, 한국일보] | 동아일보 1993-12-23 p.4 \"對北(대북)정책대립 없어야\" (Naver News Library article 1993122300209104004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1993122300209104004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300209104004&editNo=40&printCount=1&publishDate=1993-12-23&officeId=00020&pageNo=4&printNo=22380&publishType=00010, accessed 2026-09-26T13:35:06-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1993122300209104004.json) [quote: '李榮德부총리겸통일원장관은 22일 취임사에서'] [summary: 취임식 on 22 Dec].",
+     "end 1994-04-30 confirmed: 조선일보 1994-04-29 p.3 \"李榮德(이영덕)총리「내정자」\"길었던 하루\"\" (Naver News Library article 1994042900239103005, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994042900239103005), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994042900239103005&editNo=1&printCount=1&publishDate=1994-04-29&officeId=00023&pageNo=3&printNo=22672&publishType=00010, accessed 2026-09-26T13:24:18-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994042900239103005.json) [quote: '지난 22일 이후7일째 통일부총리 집무실로 나왔다' | '통일원 각국-실을 돌며 고별인사를했다'] [summary: while the PM consent was pending he kept working from the 통일부총리 office and said goodbye to 통일원 staff on 28 Apr] | 경향신문 1994-05-01 \"「개혁」 다지되 보다 유연하게/제3기내각 맞은 청와대 구상\" (BigKinds news_id 01100101.19940501000000301, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19940501000000301&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:10:22-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100101.19940501000000301.json) [quote: '김대통령은 이날 오전 8시30분 신임 이영덕총리에게 임명장을 수여한뒤' | '다시 오전 10시30분 이총리가 배석한 가운데 이부총리에게 임명장을 수여하고'] [summary: PM 임명장 at 08:30 and his successor's 임명장 at 10:30 on 30 Apr]. The press called the post vacant on 30 Apr (매일경제 1994-04-30 p.1 \"통일부총리등 오늘 임명\" (Naver News Library article 1994043000099101003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994043000099101003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994043000099101003&editNo=15&printCount=1&publishDate=1994-04-30&officeId=00009&pageNo=1&printNo=8743&publishType=00010, accessed 2026-09-26T13:26:35-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994043000099101003.json) [quote: '李신임총리에게 임명장을 수여한 뒤 李총리제청을 받아 공석중인 통일부총리 임명을 포함'] [summary: announced plan for 30 Apr]), which refers to the two hours between the two 임명장. No 서리 appointment, so the builder's end is right."
+    ]
+   },
+   "7": {
+    "name": "이홍구",
+    "ministry": "통일원",
+    "start": "1994-04-30",
+    "end": "1994-12-17",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-04-30 confirmed: 서울경제 1994-05-01 \"民主〃李부총리 합리적인물〃\" (BigKinds news_id 02100311.19940501164447101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.19940501164447101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:35:45-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_02100311.19940501164447101.json) [quote: '金泳三대통령은 30일상오 청와대에서 李洪九신임부총리겸 통일원장관에게 임명장을 수여한뒤'] [summary: 임명장 on the morning of 30 Apr 1994] | 조선일보 1994-05-01 p.2 \"◇청와대 기념촬영\" (Naver News Library article 1994050100239102006, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994050100239102006), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100239102006&editNo=1&printCount=1&publishDate=1994-05-01&officeId=00023&pageNo=2&printNo=22674&publishType=00010, accessed 2026-09-26T13:24:57-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994050100239102006.json) [quote: '金泳三대통령이 30일 오전 청와대에서 신임 李榮德 국무총리,李洪九 부총리에게 임명장을 수여한뒤'] [summary: photo caption] | 한겨레 1994-05-01 p.2 \"새 총리 맞은 첫 국무회의\" (Naver News Library article 1994050100289102002, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994050100289102002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994050100289102002&editNo=5&printCount=1&publishDate=1994-05-01&officeId=00028&pageNo=2&printNo=1885&publishType=00010, accessed 2026-09-26T13:36:04-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994050100289102002.json) [quote: '김영삼 대통령이 30일 오전청와대에서 이영덕 신임총리와 이홍구 신임 부총리 겸 통일원장관에게 임명장을 준 뒤'] [summary: photo caption, 한겨레].",
+     "end 1994-12-17 confirmed: 조선일보 1994-12-17 p.4 \"盧前(노전)대통령 송년회개최\" (Naver News Library article 1994121700239104011, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994121700239104011), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994121700239104011&editNo=1&printCount=1&publishDate=1994-12-17&officeId=00023&pageNo=4&printNo=22889&publishType=00010, accessed 2026-09-26T13:42:31-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994121700239104011.json) [quote: '현직으로모임에 참석한 李洪九부총리겸 통일원장관과'] [summary: still minister on the evening of 16 Dec] | 조선일보 1994-12-18 p.1 \"◇활짝웃는 새총리\" (Naver News Library article 1994121800239101009, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994121800239101009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994121800239101009&editNo=1&printCount=1&publishDate=1994-12-18&officeId=00023&pageNo=1&printNo=22890&publishType=00010, accessed 2026-09-26T13:41:08-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994121800239101009.json) [quote: '李洪九신임총리가17일 통일부총리집무실에서 총리임명소식을 통보받온뒤'] [summary: told of the PM post in the 통일부총리 office on 17 Dec] | 세계일보 1994-12-18 \"정기국회 폐회/내일 임시국회\" (BigKinds news_id 01100701.19941218000000106, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19941218000000106&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:42:16-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100701.19941218000000106.json) [quote: '국회는 17일 본회의를 열어 이홍구신임총리 임명동의안에 대한 표결을 갖고 찬성 1백77표,반대 34표,기권 1표로 통과시켰다'] [summary: Assembly consent on 17 Dec, same count as likms 140994 in the builder] | 경향신문 1994-12-18 p.4 \"주례회동결과 청와대·JP 모두 緘口(함구)\" (Naver News Library article 1994121800329104002, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994121800329104002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994121800329104002&editNo=20&printCount=1&publishDate=1994-12-18&officeId=00032&pageNo=4&printNo=15287&publishType=00010, accessed 2026-09-26T09:30:01-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994121800329104002.json) [quote: '李洪九신임총리는 17일청와대에서 임명장을 받은뒤오후 3시50분쯤 총리실에 출근'] [summary: PM 임명장 on 17 Dec, at the PM office by 15:50]."
+    ]
+   },
+   "8": {
+    "name": "김덕",
+    "ministry": "통일원",
+    "start": "1994-12-24",
+    "end": "1995-02-21",
+    "status": "confirmed",
+    "checks": [
+     "start 1994-12-24 confirmed: 동아일보 1994-12-24 p.1 \"19部處(부처)장관 경질 大改閣(대개각)\" (Naver News Library article 1994122400209101001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400209101001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:07-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122400209101001.json) (also cited by the builder) [quote: '金泳三대통령은 23일 부총리겸 재정경제원장관에洪在馨경제기획원장관,부총리겸 통일원장관에 金悳안기부장을 임명하는등'] [summary: named on 23 Dec 1994] | 동아일보 1994-12-24 p.2 \"\"南北(남북)관계「실질적개선」힘쓰겠다\"金悳(김덕) 통일 부총리\" (Naver News Library article 1994122400209102009, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400209102009), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209102009&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=2&printNo=22721&publishType=00010, accessed 2026-09-26T09:30:16-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122400209102009.json) [quote: '내일 임명장을 받은후소상한 이야기를 했으면한다'] [summary: on 23 Dec he said he would receive the 임명장 the next day] | 경향신문 1994-12-24 p.1 \"次官(차관) 인사 26일 단행\" (Naver News Library article 1994122400329101008, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122400329101008), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329101008&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=1&printNo=15292&publishType=00010, accessed 2026-09-26T09:49:31-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122400329101008.json) [quote: '金대통령은 이에앞서 24일 오전 청와대에서 신임각료들에게 임명장을 수여한뒤'] [summary: 임명장 on the morning of 24 Dec] | 매일경제 1994-12-25 p.2 \"새국무위원에 임명장\" (Naver News Library article 1994122500099102002, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122500099102002), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500099102002&editNo=15&printCount=1&publishDate=1994-12-25&officeId=00009&pageNo=2&printNo=8966&publishType=00010, accessed 2026-09-26T09:28:16-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122500099102002.json) [quote: '金泳三대통령이 24일오전 청와대에서 洪在馨부총리겸 재정경제원장관을 비롯한 신임 국무위원들에게 임명장을 수여하고 있다'] [summary: photo caption].",
+     "Counterpoints, no change: 조선일보 1994-12-25 p.1 \"\"모든 분야 세계수준으로\"\" (Naver News Library article 1994122500239101016, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122500239101016), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122500239101016&editNo=1&printCount=1&publishDate=1994-12-25&officeId=00023&pageNo=1&printNo=22896&publishType=00010, accessed 2026-09-26T13:24:36-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122500239101016.json) [quote: '金泳三대통령은 25일 새국무위원들과 청와대 수석비서관들에게 임명장을수여한 뒤'] [summary: 조선일보 prints 25일, against 24일 in 경향신문, 매일경제 and the ministry page, read as a misprint] | 세계일보 1995-02-22 \"통일부총리 너무 자주 바뀐다/김 전부총리 2개월만에 하차\" (BigKinds news_id 01100701.19950222000000203, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19950222000000203&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:45:11-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100701.19950222000000203.json) [quote: '지난해 12월23일 취임때'] [summary: 세계일보 dates his start to 23 Dec, the announcement day and his first press conference].",
+     "vacancy 1994-12-18..1994-12-23 between 이홍구 and 김덕 confirmed: 조선일보 1994-12-21 p.3 \"年末(연말)실종…「개각不安(불안)」18일째\" (Naver News Library article 1994122100239103001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1994122100239103001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1994122100239103001&editNo=1&printCount=1&publishDate=1994-12-21&officeId=00023&pageNo=3&printNo=22892&publishType=00010, accessed 2026-09-26T10:26:56-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1994122100239103001.json) [quote: '통일원 직원들은 새부총리겸 장관이 임명되면'] [summary: no minister at 통일원 on 20-21 Dec]. The acting record (차관 송영대) is the builder's, from the ministry page. No other 직무대행 period was found (E16 searches for 통일원장관 직무대행 and 통일부총리 직무대행 over 1988-1998 returned no acting minister).",
+     "end 1995-02-21 (dismissed) confirmed: 중앙일보 1995-02-21 \"金悳부총리 전격해임-후임에 나웅배씨 임명\" (BigKinds news_id 01100901.19950221172357001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950221172357001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:43:00-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100901.19950221172357001.json) [quote: '당시 안기부장이던 김덕(金悳)부총리겸 통일원장관을 전격해임했다'] [summary: 해임 on 21 Feb 1995] | 중앙일보 1995-02-21 \"물러난 金悳 前부총리의 辯\" (BigKinds news_id 01100901.19950221172421001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950221172421001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:43:32-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100901.19950221172421001.json) [quote: '21일 오전 방송보도를 통해 자신의 경질 사실이 보도된 9시20분쯤 기자들과 만나'] [summary: he spoke as former minister on the morning of 21 Feb].",
+     "name_hanja 金悳 confirmed by 중앙일보 1995-02-21 above ('김덕(金悳)'). Namu Wiki (secondary) prints 金德, which is wrong."
+    ]
+   },
+   "9": {
+    "name": "나웅배",
+    "ministry": "통일원",
+    "start": "1995-02-22",
+    "end": "1995-12-21",
+    "status": "confirmed",
+    "checks": [
+     "start 1995-02-22 confirmed: 중앙일보 1995-02-21 \"金悳부총리 전격해임-후임에 나웅배씨 임명\" (BigKinds news_id 01100901.19950221172357001, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950221172357001&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:43:00-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100901.19950221172357001.json) [quote: '신임 통일원장관에는 나웅배(羅雄培)국회외무통일위원장(민자당.\n서울영등포을)이 임명됐다'] [summary: named on 21 Feb 1995] | 세계일보 1995-02-23 \"화해­협력 통한 관계개선 “무게”/나 부총리 대북정책 변화예고\" (BigKinds news_id 01100701.19950223000000204, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19950223000000204&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:44:39-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100701.19950223000000204.json) [quote: '나웅배부총리겸 통일원장관은 21일과 22일 기자회견과 취임식을 통해'] [summary: 취임식 on 22 Feb] | 경향신문 1995-02-23 \"단명의 통일부총리/이종탁 정치 2부(기자메모)\" (BigKinds news_id 01100101.19950223000000206, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19950223000000206&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:44:04-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100101.19950223000000206.json) [quote: '22일 오전 11시55분. 막 취임식을 마친 신임 나웅배부총리겸 통일원장관이'] [summary: 취임식 finished before noon on 22 Feb].",
+     "1995 local elections (27 Jun): he was floated as the 민자당 candidate for 서울시장 (경향신문 1995-04-07 p.4 \"서울市長(시장) 경륜갖춘 행정가 대결구도로\" (Naver News Library article 1995040700329104003, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995040700329104003), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995040700329104003&editNo=20&printCount=1&publishDate=1995-04-07&officeId=00032&pageNo=4&printNo=15390&publishType=00010, accessed 2026-09-26T13:49:47-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1995040700329104003.json) [quote: '羅雄培통일부총리가능성도 점쳐진다'] [summary: speculation, 7 Apr] | 경향신문 1995-04-15 p.4 \"\"후보 누구…\"의견차 심각\" (Naver News Library article 1995041500329104001, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995041500329104001), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995041500329104001&editNo=20&printCount=1&publishDate=1995-04-15&officeId=00032&pageNo=4&printNo=15397&publishType=00010, accessed 2026-09-26T13:50:05-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1995041500329104001.json) [quote: '대다수 민정계의원들은 羅雄培통일부총리를 최적의 주자로 제안하고 있다'] [summary: speculation, 15 Apr]) but did not run. The tally names him as the minister in every month 1995-03..1995-12 (1995-05 62, 1995-06 107, 1995-07 48).",
+     "end 1995-12-21 confirmed: 경향신문 1995-12-20 \"오늘 전면개각/부총리<경제>박재윤씨 유력/비서실장 김우석씨 물망\" (BigKinds news_id 01100101.19951220000000105, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19951220000000105&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:51:29-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100101.19951220000000105.json) [quote: '홍재형 재경원장관과 나웅배 통일원장관등 두 부총리를 포함한 22개부처 장관으로부터 일괄사표를 받아'] [summary: collective resignations collected by the new PM on 19 Dec] | 동아일보 1995-12-21 p.2 \"權五琦(권오기) 신임 통일副(부)총리\"北(북) 스스로 개혁 유도할때\"\" (Naver News Library article 1995122100209102007, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995122100209102007), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100209102007&editNo=45&printCount=1&publishDate=1995-12-21&officeId=00020&pageNo=2&printNo=23060&publishType=00010, accessed 2026-09-26T13:45:26-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1995122100209102007.json) [quote: '아직 임명장도 안받았다'] [summary: his successor had not yet received the 임명장 on 20 Dec] | 매일경제 1995-12-22 p.2 \"金(김)대통령 주재 개각후 첫 국무회의 변화와 개혁·세계화 중단없다\" (Naver News Library article 1995122200099102004, OCR text via https://newslibrary.naver.com/api/article/detail/json (POST articleId=1995122200099102004), page image https://newslibrary.naver.com/viewer/index.naver?articleId=1995122200099102004&editNo=15&printCount=1&publishDate=1995-12-22&officeId=00009&pageNo=2&printNo=9305&publishType=00010, accessed 2026-09-26T09:45:26-0400, snapshot roster/sources/unification/ext88_verify/nl/nl_1995122200099102004.json) [quote: '金대통령은 이날 오전청와대에서 羅雄培경제부총리와 權五琦통일부총리를 비롯한 신임각료와 신임 청와대수석들에게 임명장을 수여한뒤'] [summary: he (to 재정경제원) and his successor received the 임명장 on the morning of 21 Dec]. Matches finance.ext88 (나웅배 재정경제원 from 1995-12-21).",
+     "Counterpoint, no change: 서울신문 1995-12-22 \"각 부처 이취임식 이모저모\" (BigKinds news_id 01100611.20160423094425635, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423094425635&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T09:43:47-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01100611.20160423094425635.json) [quote: '신임 나웅배 부총리겸 재정경제원장관은 20일 상오 과천청사 지하 대강당에서 전체 직원이 참석한 가운데 취임식을 갖고'] [summary: 서울신문 dates his 재정경제원 취임식 to 20 Dec, against the 임명장 of 21 Dec above and the 21 Dec 취임 press conferences reported by 경향신문, 국민일보 and 한국일보, read as a misprint]."
+    ]
+   },
+   "10": {
+    "name": "권오기",
+    "ministry": "통일원",
+    "start": "1995-12-21",
+    "end": "1998-02-27",
+    "status": "confirmed",
+    "checks": [
+     "from_main spell. Identical to roster/unification.verified.json apart from the from_main flag: True. Not re-verified here and left untouched, as the task requires.",
+     "Independent checks agree with it: 국제신문 1995-12-20 \"<톱>부총리 羅雄培(경제)·權五琦(통일)씨\" (BigKinds news_id 01500401.19951220134226101, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01500401.19951220134226101&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:51:30-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01500401.19951220134226101.json) [quote: '金泳三대통령은 20일오전 부총리겸 재경원장관에 나웅배전통일부총리 통일부총리에는 권오기동아일보사장을 임명하는등'] [summary: named on 20 Dec 1995] | 전북도민일보 1995-12-22 \"'複眼'생소한 단어에 다소 혼란\" (BigKinds news_id 01601001.19951222162207003, text via https://www.bigkinds.or.kr/news/detailView.do?docId=01601001.19951222162207003&returnCnt=1&sectionDiv=1000, accessed 2026-09-26T13:46:01-0400, snapshot roster/sources/unification/ext88_verify/bk/bk_01601001.19951222162207003.json) [quote: '權五琦 부총리겸 통일원 장관은 21일 통일원회의실에서 가진 취임식에서'] [summary: 취임식 on 21 Dec 1995]. The tally names him every month 1995-12..1998-02, through the 15th general election (11 Apr 1996)."
+    ]
+   }
+  },
+  "changes": [],
+  "disputes": [
+   "Cross-lineage, 1990-12-27 rename: this file and education.ext88 end the outgoing minister on 1990-12-26 (last day of the old name, as the main roster does for 이돈희 in 2001). sports.ext88 ends 정동성 (체육부) on 1990-12-27, the successor's appointment day, at the same rename by the same law. One rule should be applied.",
+   "Cross-lineage, 1988 holdovers: all end on 1988-02-25 here and in culture, but end_reason varies ('replaced' here and in culture, 'resigned' in some other lineages per the culture verification). The cabinet resigned collectively and was replaced, so one code should be chosen project-wide.",
+   "Start-date convention (builder issue 1): the press reports 임명 on the announcement day (동아일보 1986-08-26, 세계일보 1992-06-26 for 25 Jun, 동아일보 1994-12-24 for 23 Dec, 중앙일보 1995-02-21, 국제신문 1995-12-20), while the ministry page and this file use the 임명장 day. No 관보 exists before 2001 to decide. Values kept.",
+   "End-date convention (builder issue 2): the ministry page prints the day before the successor's start. This file uses same-day handover. Values kept."
+  ],
+  "scripts": [
+   "roster/scripts/unification_ext88_verify_00_builder_ids.py",
+   "roster/scripts/unification_ext88_verify_01_scan.py",
+   "roster/scripts/unification_ext88_verify_02_search.py",
+   "roster/scripts/unification_ext88_verify_03_bk_monthly.py",
+   "roster/scripts/unification_ext88_verify_04_fulltext.py",
+   "roster/scripts/unification_ext88_verify_05_tally.py",
+   "roster/scripts/unification_ext88_verify_06_extra.py",
+   "roster/scripts/unification_ext88_verify_07_build.py"
+  ],
+  "snapshots": "roster/sources/unification/ext88_verify/",
+  "reaudit": {
+   "run_at": "2026-09-27T21:49:33-0400",
+   "reason": "Workflow restart. The checkpoint said complete. The builder file (built 2026-09-26T12:49:07-0400), roster/unification.verified.json (2026-09-25T22:18:50), offices_1988.json (2026-09-26T09:01:00) and offices.json were all last modified before the verification finished (2026-09-26T13:56:42-0400), so the result was re-audited instead of rebuilt. No new web requests were made.",
+   "script": "roster/scripts/unification_ext88_verify_08_audit.py (new parser, it does not reuse _07_build.py)",
+   "output": "roster/sources/unification/ext88_verify/audit_2026-09-27.json",
+   "results": [
+    "Quotes: 116 builder quotes and 81 verifier quotes checked against their snapshots after HTML unescaping, tag stripping and whitespace removal. Failures 0 and 0.",
+    "Snapshots: 159 distinct snapshot paths cited in the file, 0 missing.",
+    "from_main 권오기 equals roster/unification.verified.json in every field except the flag.",
+    "Field hygiene: 0 issues (appointing_president by start date, ministry, office_title and deputy_pm per legal period, no spell across the 1990-12-27 rename).",
+    "Nominations: 0 appointed nominations whose outcome_date matches no spell start.",
+    "Continuity recomputed. Seven same-day handovers, two consecutive-day handovers (홍성철 to 최호중 at the rename, 김덕 to 나웅배) and one 6-day vacancy 1994-12-18..1994-12-23 covered by the 송영대 acting record. This agrees with continuity_check.",
+    "Cross-lineage dates for people who moved between cabinet posts agree with the other ext88 verified rosters. 최호중 ends 외무부장관 on 1990-12-27 in foreign.ext88.verified.json, the day he starts here. 이영덕 and 이홍구 start 국무총리 on 1994-04-30 and 1994-12-17 in pm.ext88.verified.json, the days their spells here end. 나웅배 starts 부총리 겸 재정경제원장관 on 1995-12-21 in finance.ext88.verified.json, the day his spell here ends. 나웅배 (상공부) ends on 1988-02-25 in industry.ext88.verified.json, the same holdover rule as 허문도 here."
+   ],
+   "changes": [],
+   "conclusion": "No defect found. Per-spell statuses, changes and disputes of the 2026-09-26 run stand unchanged."
+  }
+ }
+}

@@ -1,0 +1,1120 @@
+{
+ "group": "g88",
+ "rows": [
+  {
+   "row_id": "P20d60f1d-labor-1-g01",
+   "name": "최명헌",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Named 노동부장관 on 1988-02-19 as a sitting 민정당 member of the 12th Assembly and appointed on 1988-02-25. The party list in the announcement labels him 민정당 의원, and no party change occurred between 1988-02-19 and 1988-02-25.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020 (Naver News Library, 동아일보 1988-02-19 p.1, '세政府(정부) 組閣(조각) 발표', accessed 2026-09-26T09:04:13-0400). Text reads '노동 崔明憲民正黨(최명헌민정당)의원(국회의장비서실장)'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988030200239102005&editNo=1&printCount=1&publishDate=1988-03-02&officeId=00023&pageNo=2&printNo=20586&publishType=00010 (Naver News Library, 조선일보 1988-03-02 p.2, '野圈(야권)내부 반발세력에 촉각', accessed 2026-09-27T22:50:07-0400). Text reads '民正党(민정당)측은 入閣(입각)한 崔明憲(최명헌)노동장관과 李範俊(이범준)의원의사퇴서제출도 만류하고 있다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "12th term, 전국구 (민정당 list), seat 1985-04-11 to 1988-05-29. 중앙일보 1988-02-19 reports that he would keep the seat after entering the cabinet because little of the term remained. He was not a candidate in the 1988-04-26 election. 동아일보 1988-04-20 describes 구로을 as a race with no incumbent and names 崔百熙 as the 민정 candidate, and the NA member file has no 13th-term spell. The dual interval 1988-02-25 to 1988-05-29 and share 0.3333 are consistent. https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004313001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-02-19, '최병열씨 의원직 사퇴', accessed 2026-09-27T22:50:46-0400). Text reads '입각한 최명헌·현홍주 의원은 임기만료가 얼마 남지 않아 그대로 의원직을 가질 예정이다' | https://newslibrary.naver.com/viewer/index.naver?articleId=1988042000209205001&editNo=2&printCount=1&publishDate=1988-04-20&officeId=00020&pageNo=5&printNo=20475&publishType=00020 (Naver News Library, 동아일보 1988-04-20 p.5, '총선 激戦地(격전지) (5) 西大門甲(서대문갑) 光州東(광주동) 九老乙(구노을)', accessed 2026-09-27T22:50:23-0400). Text reads '九老乙(구노을) 현역의원은 한명도 없이' and '民正(민정) 崔百熙(최백희)후보'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-02-19, '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임', accessed 2026-09-26T09:04:24-0400). 중앙일보 is not in the News Library. The cabinet list reads '▲노동=최명헌 의원(민정)'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pb32a3cac-transport-1-g01",
+   "name": "이범준",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Named 교통부장관 on 1988-02-19 as a sitting 민정당 member (12th Assembly, 강릉·양양·명주) and appointed on 1988-02-25. No party change in between.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988021900209201003&editNo=2&printCount=1&publishDate=1988-02-19&officeId=00020&pageNo=1&printNo=20424&publishType=00020 (Naver News Library, 동아일보 1988-02-19 p.1, '세政府(정부) 組閣(조각) 발표', accessed 2026-09-26T09:04:13-0400). Text reads '교통 李範俊民正黨(이범준민정당)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988030200239102005&editNo=1&printCount=1&publishDate=1988-03-02&officeId=00023&pageNo=2&printNo=20586&publishType=00010 (Naver News Library, 조선일보 1988-03-02 p.2, '野圈(야권)내부 반발세력에 촉각', accessed 2026-09-27T22:50:07-0400). Text reads '民正党(민정당)측은 入閣(입각)한 崔明憲(최명헌)노동장관과 李範俊(이범준)의원의사퇴서제출도 만류하고 있다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "12th term, 지역구 강원 강릉시·양양·명주군, seat 1985-04-11 to 1988-05-29. He gave up running in the 1988 election after entering the cabinet (중앙일보 1988-03-17 lists 이범준 among five members who 출마를 포기), and the NA file has no 13th-term spell. Dual interval to 1988-05-29 and share 0.3333 are consistent. https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880317011117001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-03-17, '민정중진 상당수 공천탈락', accessed 2026-09-27T22:50:48-0400). Text reads '채문식 대표위원, 권영우·홍성우·이병직·이범준 의원 등 5명이 출마를 포기'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880219004312001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-02-19, '''제6공화국 내각 확정-부총리 나웅배씨…7부 장관 유임', accessed 2026-09-26T09:04:24-0400). Cabinet list reads '▲교통=이범준 의원(민정)'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P1fd41fbd-special-1-g01",
+   "name": "이종찬",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Named 정무제1장관 by 노태우 in his capacity as 민정당 총재 in the 1988-05-02 party-post reshuffle. He was a sitting 민정당 member for 서울 종로·중구 (12th) and had just been re-elected in 종로 on 1988-04-26 as 민정당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988050300329201005&editNo=3&printCount=1&publishDate=1988-05-03&officeId=00032&pageNo=1&printNo=13106&publishType=00020 (Naver News Library, 경향신문 1988-05-03 p.1, '民正(민정) 핵심黨職(당직) 전면改編(개편)', accessed 2026-09-26T10:22:46-0400). Text reads '民正黨(민정당)총재인盧泰愚(노태우)대통령은 ... 정무제1장관에 李鍾賛前(이종찬전)원내총무'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988050300239102006&editNo=1&printCount=1&publishDate=1988-05-03&officeId=00023&pageNo=2&printNo=20638&publishType=00010 (Naver News Library, 조선일보 1988-05-03 p.2, '与党(여당)온건파 기수‥‥協商(협상)경험 많아', accessed 2026-09-27T22:51:48-0400). Profile of 李鍾賛 정무1장관 reads '民正党內(민정당내)에서 自他(자타)가 공인하는 온건개혁派(파)의 기수'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "On 1988-05-03 he held the 12th-term seat 서울 종로·중구 (지역구, 1985-04-11 to 1988-05-29). He won 종로 in the 13th election (1988-04-26) and the 13th seat began 1988-05-30, so the seat was continuous through the row end 1988-12-05 and share 1.0 is right. The assembly_num_at_appt 12 and district 종로·중구 describe the seat held on the start date. https://newslibrary.naver.com/viewer/index.naver?articleId=1988042800209203001&editNo=2&printCount=1&publishDate=1988-04-28&officeId=00020&pageNo=3&printNo=20482&publishType=00020 (Naver News Library, 동아일보 1988-04-28 p.3, '4.26 總選(총선)이후 政局風向(정국풍향) (1) 「協商(협상)의 길」찾는 民正(민정)', accessed 2026-09-27T22:52:15-0400). Text reads '서울鍾路(종로)에서 野黨(야당)총채권한대행을 꺾고 3選(선)고지에 오른 李鍾賛(이종찬)의원'. Both 경향신문 and 중앙일보 report the appointment as made on the afternoon of 1988-05-02, one day before the row start 1988-05-03. This bears on the row date, not the party.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880503015442002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-05-03, '민정당직 전면 개편', accessed 2026-09-26T10:24:12-0400). 중앙일보, not in the News Library. Text reads '노 대통령은 또 정무 제1 장관에 민정당의 이종찬 의원을 임명했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P6da147cb-interior-1-g01",
+   "name": "이춘구",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 내무부장관 on 1988-05-07 as a sitting 민정당 member (12th term, 충주·제천·중원·제원·단양) and former 민정당 사무총장, re-elected for 제천 on 1988-04-26 as 민정당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988050700209201008&editNo=2&printCount=1&publishDate=1988-05-07&officeId=00020&pageNo=1&printNo=20489&publishType=00020 (Naver News Library, 동아일보 1988-05-07 p.1, '安企(안기)부장 裴命仁(배명인)씨 內務(내무)장관 李春九(이춘구)씨 市道(시도)지사 곧 대폭人事(인사)', accessed 2026-09-26T09:44:41-0400). Text reads '내무부장관 후임에는李春九(이춘구) 民正黨(민정당)전사무총장을각각 임명했다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988042700099205005&editNo=2&printCount=1&publishDate=1988-04-27&officeId=00009&pageNo=5&printNo=6814&publishType=00020 (Naver News Library, 매일경제 1988-04-27 p.5, '堤川(제천) 李春九(이춘구) 正(정)·53', accessed 2026-09-27T22:52:13-0400). 13th election winner entry reads '◇堤川李春九(제천이춘구) 正(정)·53'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "12th term 지역구 충북 충주·제천시·중원·제원·단양 (1985-04-11 to 1988-05-29) on the start date, then the 13th-term seat for 제천 from 1988-05-30 (won 1988-04-26 as 민정당). The seat was continuous through 1988-12-05, share 1.0 is right. https://newslibrary.naver.com/viewer/index.naver?articleId=1988042700099205005&editNo=2&printCount=1&publishDate=1988-04-27&officeId=00009&pageNo=5&printNo=6814&publishType=00020 (Naver News Library, 매일경제 1988-04-27 p.5, '堤川(제천) 李春九(이춘구) 正(정)·53', accessed 2026-09-27T22:52:13-0400)",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880507015658001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-05-07, '아기부장 배명인|내무장관 이춘구', accessed 2026-09-26T09:46:47-0400). 중앙일보, not in the News Library. Text reads '내무장관에 이춘구 민정당 의원을 임명했다. 노 대통령은 이날 오전 ... 임명장을 주었다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pd7ab5dd9-industry-1-g01",
+   "name": "한승수",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 상공부장관 in the 1988-12-05 reshuffle as a sitting 민정당 member (13th term, 춘천). The appointment lists of 1988-12-05 label him 민정당 의원.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020 (Naver News Library, 경향신문 1988-12-05 p.1, '總理(총리)에 姜英勳(강영훈)씨', accessed 2026-09-26T09:22:02-0400). Text reads '▲상공 韓昇洙民正黨(한승수민정당)의원' and '盧(노)대통령은 신임姜(강)총리서리와 새각료들에게 임명장을 주었다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099201006&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00009&pageNo=1&printNo=7005&publishType=00020 (Naver News Library, 매일경제 1988-12-05 p.1, '總理(총리)서리 姜英勲(강영훈)씨', accessed 2026-09-26T09:23:37-0400). Text reads '상공에 韓昇洙(한승수)민정당의원'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 강원 춘천시, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree, regular term boundaries). Described as a sitting 민정당 member on the appointment date. The seat covers the whole row (to 1990-03-17), share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054954001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '5공 색깔 최대한 탈색|「12·5 대폭개각」에 담긴 뜻', accessed 2026-09-26T10:08:15-0400). 중앙일보, not in the News Library. Text reads '민정당의 전·현직 지역구의원이 이번처럼 9명씩이나 한꺼번에 입각한 예가 없다. 원내의 이한동내무·한승수 상공·장영철 노동·정종택 정무1은'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P0daf481c-interior-1-g01",
+   "name": "이한동",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 내무부장관 on 1988-12-05 while serving as 민정당 정책위의장 and a sitting 민정당 member (13th term, 연천·포천).",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020 (Naver News Library, 경향신문 1988-12-05 p.1, '總理(총리)에 姜英勳(강영훈)씨', accessed 2026-09-26T09:22:02-0400). Text reads '▲내무李漢東(이한동) 民正黨(민정당)정책위의장'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500209203004&editNo=2&printCount=1&publishDate=1988-12-05&officeId=00020&pageNo=3&printNo=20672&publishType=00020 (Naver News Library, 동아일보 1988-12-05 p.3, '「時局(시국)수습」未知數(미지수)…黨政(당정)협력陣容(진용)', accessed 2026-09-26T10:29:38-0400). Text reads '내무부장관에李漢東(이한동) 民正(민정)의원'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경기 연천·포천군, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Sitting member on the date, seat covers the row to 1989-07-19, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054954001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '5공 색깔 최대한 탈색|「12·5 대폭개각」에 담긴 뜻', accessed 2026-09-26T10:08:15-0400). Text reads '원내의 이한동내무·한승수 상공·장영철 노동·정종택 정무1' among 민정당 district members",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205055134001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '극비 조각…일요일 밤 본인에 통보-12·5개각…강영훈 내각 탄생 안팎', accessed 2026-09-26T09:08:26-0400). Text reads '내무는 이춘구 장관에 이어 민정당 지역구의원 중 중량급을 앉힌다는 기준에 따라 쉽게 이한동의원으로 결말이 났으나'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pf6c0290d-labor-1-g01",
+   "name": "장영철",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 노동부장관 on 1988-12-05 as a sitting 민정당 member, elected in 1988 for 성주·칠곡 on the 민정당 ticket.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020 (Naver News Library, 경향신문 1988-12-05 p.1, '總理(총리)에 姜英勳(강영훈)씨', accessed 2026-09-26T09:22:02-0400). Text reads '▲노동 張永喆民正黨(장영철민정당)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099203007&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00009&pageNo=3&printNo=7005&publishType=00020 (Naver News Library, 매일경제 1988-12-05 p.3, '張永喆(장영철) 노동 國會(국회)노동분과위 활동두각', accessed 2026-09-27T22:56:00-0400). Profile reads '이번선거에서 출신지인 星州(성주)·漆谷(칠곡)에서 民正黨(민정당)공천을 얻어 당선되자'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경북 성주·칠곡군, seat 1988-05-30 to 1992-05-29. The 매일경제 profile of 1988-12-05 confirms the district. Seat covers the row to 1989-07-19, share 1.0 is right. https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099203007&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00009&pageNo=3&printNo=7005&publishType=00020 (Naver News Library, 매일경제 1988-12-05 p.3, '張永喆(장영철) 노동 國會(국회)노동분과위 활동두각', accessed 2026-09-27T22:56:00-0400)",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054954001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '5공 색깔 최대한 탈색|「12·5 대폭개각」에 담긴 뜻', accessed 2026-09-26T10:08:15-0400). Text lists '장영철 노동' among the 원내 민정당 district members who entered the cabinet"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P103dea19-pm-1-g01",
+   "name": "강영훈",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 국무총리서리 on 1988-12-05 while a 민정당 전국구 member (13th term, list rank 4). He resigned the PR seat in December 1988, after the appointment date, so on 1988-12-05 he was still a 민정당 member.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020 (Naver News Library, 경향신문 1988-12-05 p.1, '總理(총리)에 姜英勳(강영훈)씨', accessed 2026-09-26T09:22:02-0400). Text reads '盧(노)대통령은 이날 국무총리서리에 姜英勳民正黨(강영훈민정당)의원을 ... 임명하고'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099201006&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00009&pageNo=1&printNo=7005&publishType=00020 (Naver News Library, 매일경제 1988-12-05 p.1, '總理(총리)서리 姜英勲(강영훈)씨', accessed 2026-09-26T09:23:37-0400). Text reads '盧泰愚(노태우)대통령은 5일 姜英勳(강영훈) 민정당의원을 국무총리서리에 기용하는등'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "issue",
+   "seat_notes": "13th term, 전국구 (민정당 list rank 4), seat from 1988-05-30. The end date is disputed. The NA API period ends 1988-12-22 and the NA bill record 011052 (국회의원(강영훈)사직의건) shows proposal and 원안가결 on 1988-12-22. Three news reports say the Speaker 김재순 accepted the resignation on 1988-12-20 (매일경제 and 중앙일보 of 1988-12-20, 조선일보 of 1988-12-21), and 경향신문 of 1988-12-20 says the 19th. The Wikipedia list gives 1988-12-20 and the Wikipedia seat table 1988-12-19. If the news date holds, dual_office_end would move from 1988-12-22 to 1988-12-20 (share about 0.021 instead of 0.0239). Not resolved here, so no correction is proposed. https://newslibrary.naver.com/viewer/index.naver?articleId=1988122000099201018&editNo=1&printCount=1&publishDate=1988-12-20&officeId=00009&pageNo=1&printNo=7018&publishType=00020 (Naver News Library, 매일경제 1988-12-20 p.1, '姜(강)총리·崔昌潤(최창윤)씨 사퇴 沈起燮(침기섭)·安瓚熙(안찬희)씨 승계', accessed 2026-09-27T22:53:52-0400). Text reads '金在淳(김재순)국회의장은 20일 姜英勳(강영훈)국무총리와 崔昌潤(최창윤)청와대정무수석비서관의 의원직사퇴서를 수리했다' | https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881220060722002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-20, '심기섭·안찬희씨 민정의원직 승계', accessed 2026-09-27T22:53:58-0400). Text reads '강영훈 국무총리와 최창윤 대통령정무수석 비서관의 민정당 전국구의원직 사퇴서가 20일 수리됐다' | https://newslibrary.naver.com/viewer/index.naver?articleId=1988122100239102018&editNo=1&printCount=1&publishDate=1988-12-21&officeId=00023&pageNo=2&printNo=20838&publishType=00010 (Naver News Library, 조선일보 1988-12-21 p.2, '沈起燮(침기섭) 安瓚熙(안찬희)씨 승계 民正(민정) 전국구의원직', accessed 2026-09-27T22:53:55-0400). Text reads '20일 金在淳(김재순)국회의장에게 의원직 사퇴서를 제출,수리됐다' | https://newslibrary.naver.com/viewer/index.naver?articleId=1988122000329201015&editNo=3&printCount=1&publishDate=1988-12-20&officeId=00032&pageNo=1&printNo=13305&publishType=00020 (Naver News Library, 경향신문 1988-12-20 p.1, '沈起燮(침기섭)·安瓚熙(안찬희)씨 民正(민정)전국구 승계', accessed 2026-09-27T22:53:54-0400). Text reads '金在淳(김재순)국회의장은19일 ... 의원직사퇴서를 수리했다' | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=011052 (NA bill record as harvested in na_members/sources/na_bills/resignation_motions_12_14.csv, propose 1988-12-22, decided 1988-12-22 원안가결, accessed 2026-09-26T08:38:53-0400)",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054938001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '강영훈·최창윤씨 사임 심기섭·안찬희씨 승계', accessed 2026-09-27T22:55:43-0400). 중앙일보, not in the News Library. Text reads '민정당의 강영훈·최창윤 두 전국구의원이 각각 국무총리·청와대 정무수석으로 임명됨에 따라'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P4ce219c9-special-1-g01",
+   "name": "정종택",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 정무제1장관 on 1988-12-05 as a sitting 민정당 member (13th term, 청주갑) and chair of the NA budget committee.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500329201003&editNo=3&printCount=1&publishDate=1988-12-05&officeId=00032&pageNo=1&printNo=13292&publishType=00020 (Naver News Library, 경향신문 1988-12-05 p.1, '總理(총리)에 姜英勳(강영훈)씨', accessed 2026-09-26T09:22:02-0400). Text reads '▲정무1 鄭宗澤(정종택) 民正黨(민정당)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1988120500099201006&editNo=1&printCount=1&publishDate=1988-12-05&officeId=00009&pageNo=1&printNo=7005&publishType=00020 (Naver News Library, 매일경제 1988-12-05 p.1, '總理(총리)서리 姜英勲(강영훈)씨', accessed 2026-09-26T09:23:37-0400). Text reads '정무1에鄭宗澤(정종택)민정당의원'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 충북 청주시갑, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree, regular term boundaries). Sitting member on the date, seat covers the row to 1989-07-19, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054954001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '5공 색깔 최대한 탈색|「12·5 대폭개각」에 담긴 뜻', accessed 2026-09-26T10:08:15-0400). Text lists '정종택 정무1' among the 원내 민정당 district members who entered the cabinet",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19881205054957001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-12-05, '민정 잔치 집…야당은 혹평|「12·5」개각 각 당 반응', accessed 2026-09-26T13:13:13-0400). Text reads '공화당은 5일 아침 청구동 김종필 총재 자택을 방문한 정종택 신임 정무 제1장관으로부터 개각 내용을 통고 받고'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P50e0e8b5-interior-1-g01",
+   "name": "김태호",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 내무부장관 on 1989-07-19 as a sitting 민정당 member (13th term, 울산 중구). The row runs to 1990-03-19, so he became a 민주자유당 member inside the row when the three parties merged in February 1990.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1989072000239101009&editNo=1&printCount=1&publishDate=1989-07-20&officeId=00023&pageNo=1&printNo=21014&publishType=00010 (Naver News Library, 조선일보 1989-07-20 p.1, '安企部長(안기부장)-6部(부)장관 경질', accessed 2026-09-26T10:03:02-0400). Text reads '내무부장관에 金泰鎬(김태호) 민정당의원을 기용하는등' and '이날 오전11시청와대에서 ... 임명장을 수여했으며'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900099201003&editNo=1&printCount=1&publishDate=1989-07-19&officeId=00009&pageNo=1&printNo=7194&publishType=00020 (Naver News Library, 매일경제 1989-07-19 p.1, '6部長官(부장관) 경질', accessed 2026-09-26T09:44:46-0400). Text reads '내무부장관에 金泰鎬(김태호)의원'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경남 울산시중구, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree, regular term boundaries). Sitting member on the date, seat covers the row to 1990-03-19, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890719133010001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1989-07-19, '안기부장.6부 장관 경질', accessed 2026-09-26T09:47:28-0400). 중앙일보, not in the News Library. Text reads '▲내무=김태호 민정당 의원'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pff7814e2-special-1-g01",
+   "name": "박철언",
+   "party_on_date": "민주정의당",
+   "party_date_basis": "Appointed 정무제1장관 on 1989-07-19 from the post of 대통령정책보좌관, which he held together with his 13th-term 민정당 전국구 seat. He attended the 민정당 확대당직자회의 as 정무1장관 on 1989-07-20. The row runs to 1990-04-18, so he became a 민주자유당 member inside the row with the February 1990 merger.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1989072100239103001&editNo=1&printCount=1&publishDate=1989-07-21&officeId=00023&pageNo=3&printNo=21015&publishType=00010 (Naver News Library, 조선일보 1989-07-21 p.3, '核心(핵심)배제냐…아니냐…\"朴哲彦(박철언) 파장\"', accessed 2026-09-27T22:57:54-0400). Text reads '20일 오전 민정당사에서는 ... 확대당직자회의가열렸다' and '이자리에 첫 참석한 朴哲彥(박철언)정무제1장관은' and '重用說(중용설)을 펴는 측은 우선그가 전국구 初選(초선)인데다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1989071900099201003&editNo=1&printCount=1&publishDate=1989-07-19&officeId=00009&pageNo=1&printNo=7194&publishType=00020 (Naver News Library, 매일경제 1989-07-19 p.1, '6部長官(부장관) 경질', accessed 2026-09-26T09:44:46-0400). Text reads '정무1장관에 朴哲彦(박철언) 대통령정책보좌관을 각각 임명했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 전국구 on the 민정당 list (rank 17 per NA file and 중앙일보), seat 1988-05-30 to 1992-05-29. 중앙일보 1988-04-12 reports his inclusion on the 민정당 전국구 list while keeping the Blue House post. Seat covers the row to 1990-04-18, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880412013353001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-04-12, '민정 전국구후보 62명 발표', accessed 2026-09-27T22:58:22-0400). Text reads '박철언 청와대정책보좌관이 포함된 것인데 특히 박 보좌관은 청와대직책을 그대로 보유할 것으로 알려져'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19890719133026003&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1989-07-19, '북방 정책 추진한 6공 실세(박철언 정무장관)', accessed 2026-09-27T22:57:48-0400). 중앙일보 profile reads '14대 국회에는 민정당 전국구 17번으로 당선됐으며'. The '14대' is a misprint for 13대, since the 14th election was held in 1992. The party and list rank agree with the NA file",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19880412013353001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1988-04-12, '민정 전국구후보 62명 발표', accessed 2026-09-27T22:58:22-0400). The 13th-term 민정당 PR list of 1988-04-12 includes him"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pa9511bba-agriculture-1-g01",
+   "name": "강보성",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 농림수산부장관 on 1990-03-17 and given the 임명장 on 1990-03-19 as a 민자당 member of the former 통일민주당 (민주계) faction. The three-party merger (founding meeting 1990-02-09, NEC registration 1990-02-15, see party_events) made all members of 민정당, 통일민주당 and 신민주공화당 who joined into 민주자유당 members. He was elected in 1988 under 통일민주당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010 (Naver News Library, 조선일보 1990-03-18 p.1, '15部(부)장관 更迭(경질)', accessed 2026-09-26T09:31:16-0400). Text reads '농림수산부장관에 姜普性民自党(강보성민자당)의원이 임명됐다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-20, '새 내각 간담회… “소신ㆍ책임” 일색', accessed 2026-09-26T09:24:23-0400). Text reads '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 제주 서귀포시·남제주군, elected 1988 under 통일민주당, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1990-09-19, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900319000000302&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-19, '당정 체제ㆍ계보 정치 “실험장”/민자의원 5명 입각', accessed 2026-09-26T14:15:46-0400). 한국일보, a different paper from 조선일보. Text reads '「3ㆍ17개각」으로 민자당의원 5명이 내각에 기용됐다' and '민주계는 강보성농수산 김정수보사등 2명'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "P482b2ddc-energy-1-g01",
+   "name": "이희일",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 동력자원부장관 on 1990-03-17 and appointed on 1990-03-19 as a 민자당 전국구 member of the former 신민주공화당 (공화계) faction. The three-party merger (founding meeting 1990-02-09, NEC registration 1990-02-15, see party_events) made all members of 민정당, 통일민주당 and 신민주공화당 who joined into 민주자유당 members. He was elected in 1988 on the 신민주공화당 PR list.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010 (Naver News Library, 조선일보 1990-03-18 p.1, '15部(부)장관 更迭(경질)', accessed 2026-09-26T09:31:16-0400). Text reads '동자부장관에 李熺逸民自党(이희일민자당)의원'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-20, '새 내각 간담회… “소신ㆍ책임” 일색', accessed 2026-09-26T09:24:23-0400). Text reads '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 전국구 (신민주공화당 list rank 4), seat 1988-05-30 to 1990-03-22. He handed his resignation to the Speaker 김재순 on 1990-03-21 (동아일보 1990-03-21, 한국일보 1990-03-22). The NA bill record 011507 (국회의원(이희일)사직의건) shows proposal 1990-03-21 and 원안가결 1990-03-22, which matches the NA API end date. The Wikipedia list date 1990-03-21 is the submission date. The NEC named 권오석 as successor on 1990-03-26. Dual interval 1990-03-19 to 1990-03-22 and share 0.0092 are consistent. https://newslibrary.naver.com/viewer/index.naver?articleId=1990032100209201015&editNo=2&printCount=1&publishDate=1990-03-21&officeId=00020&pageNo=1&printNo=21067&publishType=00020 (Naver News Library, 동아일보 1990-03-21 p.1, '李(이)동자 議員職(의원직) 사퇴 民自(민자) 權五錫(권오석)씨 승계', accessed 2026-09-27T23:02:59-0400). Text reads '李熺逸(이희일)동력자원부장관은21일 전국구의원직 사퇴서를 金在淳(김재순)국회의장에게 제출했다' | https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900322000000108&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-22, '이희일씨 의원직 사퇴/구공화 권오석씨 승계', accessed 2026-09-27T23:03:02-0400). Text reads '민자당전국구의원인 이희일동력자원부장관은 21일 ... 의원직 사퇴서를 김재순 국회의장에게 제출했다. 구공화당 전국구 4번으로 당선된' | https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=011507 (NA bill record as harvested in na_members/sources/na_bills/resignation_motions_12_14.csv, propose 1990-03-21, decided 1990-03-22 원안가결, accessed 2026-09-26T08:39:53-0400) | https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900327000000209&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1990-03-27, '이희일의원 사퇴/권오석씨 승계', accessed 2026-09-27T23:03:14-0400). Text reads '중앙선관위는 26일 오후 전체위원회의를 열어 ... 이희일의원(민자)의 승계자로 구공화당 전국구 후보인 권오석씨를 결정했다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900319000000302&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-19, '당정 체제ㆍ계보 정치 “실험장”/민자의원 5명 입각', accessed 2026-09-26T14:15:46-0400). Text reads '공화계는 이희일동자등 1명을 입각시켰다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900322000000108&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-22, '이희일씨 의원직 사퇴/구공화 권오석씨 승계', accessed 2026-09-27T23:03:02-0400). Text reads '민자당전국구의원인 이희일동력자원부장관은'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pb17aab3b-epb-1-g01",
+   "name": "이승윤",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 부총리 겸 경제기획원장관 on 1990-03-17 and appointed on 1990-03-19 as a 민자당 member of the former 민정당 faction. The three-party merger (founding meeting 1990-02-09, NEC registration 1990-02-15, see party_events) made all members of 민정당, 통일민주당 and 신민주공화당 who joined into 민주자유당 members. He was elected in 1988 under 민주정의당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010 (Naver News Library, 조선일보 1990-03-18 p.1, '15部(부)장관 更迭(경질)', accessed 2026-09-26T09:31:16-0400). Text reads '부총리겸 경제기획원장관에李承潤民自党(이승윤민자당)의원을 임명하는등'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-20, '새 내각 간담회… “소신ㆍ책임” 일색', accessed 2026-09-26T09:24:23-0400). Text reads '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 인천 북구을, elected 1988 under 민주정의당, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1991-02-18, share 1.0 is right. 한국일보 1990-03-19 notes that he held a sitting district seat (현역지역구를 갖고 있다).",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900319000000302&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-19, '당정 체제ㆍ계보 정치 “실험장”/민자의원 5명 입각', accessed 2026-09-26T14:15:46-0400). Text reads '민정계는 이승윤부총리 정동성체육등 2명'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pcbe555d5-health-1-g01",
+   "name": "김정수",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 보건사회부장관 on 1990-03-17 and appointed on 1990-03-19 as a 민자당 member of the former 통일민주당 (민주계) faction. The three-party merger (founding meeting 1990-02-09, NEC registration 1990-02-15, see party_events) made all members of 민정당, 통일민주당 and 신민주공화당 who joined into 민주자유당 members. He was elected in 1988 under 통일민주당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010 (Naver News Library, 조선일보 1990-03-18 p.1, '15部(부)장관 更迭(경질)', accessed 2026-09-26T09:31:16-0400). Text reads '보사부장관에 金正秀民自党(김정수민자당)의원'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-20, '새 내각 간담회… “소신ㆍ책임” 일색', accessed 2026-09-26T09:24:23-0400). Text reads '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 부산 부산진구을, elected 1988 under 통일민주당, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1991-05-27, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900319000000302&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-19, '당정 체제ㆍ계보 정치 “실험장”/민자의원 5명 입각', accessed 2026-09-26T14:15:46-0400). Text reads '민주계는 강보성농수산 김정수보사등 2명'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "P2b0c5f76-sports-1-g01",
+   "name": "정동성",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 체육부장관 on 1990-03-17 and appointed on 1990-03-19 as a 민자당 member of the former 민정당 faction. The three-party merger (founding meeting 1990-02-09, NEC registration 1990-02-15, see party_events) made all members of 민정당, 통일민주당 and 신민주공화당 who joined into 민주자유당 members. He was elected in 1988 under 민주정의당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990031800239101001&editNo=1&printCount=1&publishDate=1990-03-18&officeId=00023&pageNo=1&printNo=21219&publishType=00010 (Naver News Library, 조선일보 1990-03-18 p.1, '15部(부)장관 更迭(경질)', accessed 2026-09-26T09:31:16-0400). Text reads '체육부장관에 鄭東星民自党(정동성민자당)의원'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900320000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-20, '새 내각 간담회… “소신ㆍ책임” 일색', accessed 2026-09-26T09:24:23-0400). Text reads '「3ㆍ17」 개각으로 기용된 신임장관들은 19일 상오 노태우대통령으로부터 임명장을 받고'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경기 여주군, elected 1988 under 민주정의당, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1990-12-26, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900319000000302&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-03-19, '당정 체제ㆍ계보 정치 “실험장”/민자의원 5명 입각', accessed 2026-09-26T14:15:46-0400). Text reads '민정계는 이승윤부총리 정동성체육등 2명'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pb4b6c11d-special-2-g01",
+   "name": "김윤환",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 정무제1장관 on the morning of 1990-04-18, succeeding 박철언, as a sitting 민자당 member of the former 민정당 faction (13th term, 군위·선산). He was elected in 1988 under 민주정의당 and became a 민자당 member with the February 1990 merger.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990041800209201006&editNo=2&printCount=1&publishDate=1990-04-18&officeId=00020&pageNo=1&printNo=21092&publishType=00020 (Naver News Library, 동아일보 1990-04-18 p.1, '정무1장관 金潤煥(김윤환)씨 임명', accessed 2026-09-26T13:02:59-0400). Text reads '盧泰愚(노태우)대통령은 18일 朴哲彦(박철언)정무1장관후임에 金潤煥民自黨(김윤환민자당)의원을 임명했다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990041800329201007&editNo=3&printCount=1&publishDate=1990-04-18&officeId=00032&pageNo=1&printNo=13710&publishType=00020 (Naver News Library, 경향신문 1990-04-18 p.1, '政務(정무)1에 金潤煥(김윤환)씨 임명', accessed 2026-09-26T12:51:14-0400). Text reads '盧泰愚(노태우)대통령은 18일상오정무제1장관에 金潤煥(김윤환)의원(民自黨(민자당))을 임명했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경북 군위·선산군, elected 1988 under 민주정의당, seat 1988-05-30 to 1992-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1990-10-13, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160420191745471&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1990-04-19, '“민자계파 동질화에 힘쏟겠다”/신임 김윤환 정무장관 회견', accessed 2026-09-27T23:03:58-0400). 서울신문, not in the News Library. Text reads '박철언장관 후임으로 18일 정무1장관에 임명된 민자당의 김윤환의원은'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pec804e0e-special-1-g01",
+   "name": "김동영",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 정무제1장관 on 1990-10-12 in the 민자당 party-post reshuffle, moving from 민자당 원내총무, and given the 임명장 on the morning of 1990-10-13 (the row start). He was a sitting member of the former 통일민주당 (민주계) faction, elected in 1988 under 통일민주당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990101200329201007&editNo=3&printCount=1&publishDate=1990-10-12&officeId=00032&pageNo=1&printNo=13862&publishType=00020 (Naver News Library, 경향신문 1990-10-12 p.1, '民自(민자) 핵심黨職(당직)개편 단행', accessed 2026-09-27T23:03:57-0400). Text reads '盧(노)대통령은 또 원내총무로 기용된 金潤煥(김윤환) 정무장관후임에 民主系(민주계)인 金東英(김동영)총무를 임명했다' and the profile ends '▲民自黨(민자당)원내총무'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990101300099202014&editNo=1&printCount=1&publishDate=1990-10-13&officeId=00009&pageNo=2&printNo=7596&publishType=00020 (Naver News Library, 매일경제 1990-10-13 p.2, '民自(민자) 신임당직자들에 盧(노)대통령 임명장 수여', accessed 2026-09-26T12:51:23-0400). Text reads '盧泰愚(노태우)대통령은 13일상오 청와대에서 ... 金東英(김동영)신임정무장관에게 임명장을 주었다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 경남 거창군, elected 1988 under 통일민주당, seat 1988-05-30 to 1991-08-19. He died in office on 1991-08-19 (서울신문 and 국민일보 of 1991-08-19/20), which matches the NA end date. The row ends on 1991-07-18, before his death, so the seat covers the whole row and share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421053841317&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1991-08-20, '김동영 민자의원 별세/김영삼 대표의 측근 30여년', accessed 2026-09-27T23:04:13-0400). Text reads '김동영의원(민자·경남 거창)이 19일 상오 서울대병원에서 지병인 암으로 별세했다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19901012215120001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1990-10-12, '민자 당직개편/정책의장 최각규 원내총무 김윤환', accessed 2026-09-27T23:04:00-0400). 중앙일보. Text reads '민자당 총재인 노태우 대통령은 12일 당직개편을 단행 ... 정무1장관에 김동영 총무(민주계)를 각각 임명했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19910819000000211&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1991-08-19, '별세한 김동영의원', accessed 2026-09-27T23:04:09-0400). 국민일보 obituary. Text reads '민자당내 민주계 2인자로' and '3당통합작업과 민자당원내총무 정무장관직을 수행하는등'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "P68cb560d-labor-1-g01",
+   "name": "최병렬",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Holdover row. He was appointed 노동부장관 on 1990-12-27 without a seat and entered the Assembly on 1992-05-30 (dual_office_start) as a 14th-term 민자당 전국구 member, 10th on the 민자당 list announced 1992-03-05. News of June 1992 describe him as a 민자당 전국구 member serving as 노동부장관.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992030500209201001&editNo=2&printCount=1&publishDate=1992-03-05&officeId=00020&pageNo=1&printNo=21756&publishType=00020 (Naver News Library, 동아일보 1992-03-05 p.1, '民自(민자) 全國區(전국구)후보 54명발표', accessed 2026-09-27T23:05:11-0400). Text reads '民自黨(민자당)은 전국구후보 10번이내 상위권에 ... 李源祚(이원조)의원 崔秉烈(최병렬)노동장관순으로 확정했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19920624103736001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1992-06-24, '일부 각료 곧 경질/노동·환경처·보사 등 대상', accessed 2026-09-26T10:08:57-0400). Text reads '개각대상은 14대 전국구의원(민자)으로 진출한 최 노동장관과'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 전국구 (민자당 list rank 10), seat 1992-05-30 to 1994-11-02 (resigned on appointment as 서울시장, outside this row). He held no seat in the 13th term, so the dual interval starts at the 14th term start. He was replaced as 노동부장관 in the partial reshuffle announced on 1992-06-25, which the Blue House explained by his move to the Assembly. Dual interval 1992-05-30 to 1992-06-26 and share 0.0511 are consistent. https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19920626000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1992-06-26, '5부처 장관 경질/서울시장·청와대 정치특보도', accessed 2026-09-26T09:43:17-0400). Text reads '전국구로 진출한 최병렬 노동부장관을 오는 29일의 국회개원에 맞춰 경질하는 것을 계기삼아'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19920626150517122&returnCnt=1&sectionDiv=1000 (BigKinds, 경인일보 1992-06-26, '언언사사', accessed 2026-09-27T23:05:21-0400). 경인일보, a different outlet. Text reads '노태우 대통령은 25일 오후 민자당 전국구 의원으로 당선된 최병렬 노동장관의 국회 진출을 계기로 그동안 미루어 오던 내각개편을 단행'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pff7814e2-sports-1-g01",
+   "name": "박철언",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed the first 체육청소년부장관 in the 1990-12-27 reshuffle while a sitting 13th-term 전국구 member, by then of 민자당 (elected 1988 on the 민주정의당 list, 민자당 since the February 1990 merger). On 1990-12-28 he said he would keep the 민자당 전국구 seat while minister.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990122800239103001&editNo=1&printCount=1&publishDate=1990-12-28&officeId=00023&pageNo=3&printNo=21500&publishType=00010 (Naver News Library, 조선일보 1990-12-28 p.3, '\"청와대-內閣(내각) 호흡일치\"執権(집권)후반 布石(포석)', accessed 2026-09-27T23:05:22-0400). Text reads '새 閣僚(각료)중 가장 눈길을 끄는 인사는 역시 8개월만에재입각한 朴哲彥(박철언)의원(民自(민자))'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19901228000000212&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1990-12-28, '박 체육 의원겸직 밝혀', accessed 2026-09-26T13:56:59-0400). Text reads '박철언 체육청소년부장관은 28일 민자당 전국구의 원직을 유지,사퇴하지 않고 장관과 의원직을 겸직하겠다고 밝혔다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 전국구 (elected on the 민정당 list, rank 17), seat 1988-05-30 to 1992-05-29. He kept the seat after this appointment (국민일보 1990-12-28). Seat covers the row to 1991-12-20, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990122900289103008&editNo=4&printCount=1&publishDate=1990-12-29&officeId=00028&pageNo=3&printNo=813&publishType=00010 (Naver News Library, 한겨레 1990-12-29 p.3, '체육부의 월계수', accessed 2026-09-27T23:05:55-0400). 한겨레, a different paper from 조선일보 and 국민일보. Text reads '3당합당 주역이자 6공 막후실력자인 박철언 의원(민자)이신임장관으로 오면서'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "P28a037ad-epb-1-g01",
+   "name": "최각규",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 부총리 겸 경제기획원장관 on 1991-02-19 (임명장 that morning) while serving as 민자당 정책위의장, a member of the former 신민주공화당 (공화계) faction. He was elected in 1988 under 신민주공화당 and became a 민자당 member with the February 1990 merger.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1991021800329201001&editNo=3&printCount=1&publishDate=1991-02-18&officeId=00032&pageNo=1&printNo=13970&publishType=00020 (Naver News Library, 경향신문 1991-02-18 p.1, '부총리(企劃院(기획원))崔珏圭(최각규)씨내정', accessed 2026-09-26T21:42:11-0400). Text reads '李(이)경제기획원장관 겸 부총리의 후임에 崔珏圭民自黨(최각규민자당)정책위의장이 ... 내정된것으로 알려졌다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1991021900099201011&editNo=1&printCount=1&publishDate=1991-02-19&officeId=00009&pageNo=1&printNo=7720&publishType=00020 (Naver News Library, 매일경제 1991-02-19 p.1, '盧(노)대통령 임명장 수여', accessed 2026-09-26T09:28:50-0400). Text reads '盧泰愚(노태우)대통령은 19일상오 신임 崔珏圭(최각규)부총리겸경제기획원장관 ... 에게 임명장을 수여했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 강원 강릉시, elected 1988 under 신민주공화당, seat 1988-05-30 to 1992-05-29. He did not run in the 14th election. 중앙일보 1992-02-18 describes 강릉 as open because the sitting member 최각규 부총리 gave up running, and 매일경제 1992-03-05 reports that he was left off the 민자당 PR list. With no 14th-term spell, the seat ends at the 13th term end while the row runs to 1993-02-24, so share 0.6323 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19920218082029001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1992-02-18, '강릉 5명 난립 “문중대결”(총선 열전현장:19)', accessed 2026-09-27T23:07:37-0400). Text reads '강원 강릉 현역의원 최각규 부총리의 출마포기에 따른 무주공산에서' | https://newslibrary.naver.com/viewer/index.naver?articleId=1992030500099202001&editNo=1&printCount=1&publishDate=1992-03-05&officeId=00009&pageNo=2&printNo=8046&publishType=00020 (Naver News Library, 매일경제 1992-03-05 p.2, '民自(민자) 全國區(전국구) 54명 발표', accessed 2026-09-27T23:06:08-0400). Text reads '그러나 共和系(공화계)인 崔玨圭(최각규)부총리와 崔載九(최재구)고문,民主系(민주계)의 金命潤(김명윤)고문은 제외됐다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421011751831&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1991-02-20, '나웅배정책의장/민자 신임 당3역의 “제일성”', accessed 2026-09-27T23:07:35-0400). 서울신문. Text reads '부총리겸 경제기획원 장관에 발탁된 최각규 정책위의장 후임에 19일 기용된 나웅배의원은' in a report on the new 민자 당3역",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19901012215120001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1990-10-12, '민자 당직개편/정책의장 최각규 원내총무 김윤환', accessed 2026-09-27T23:04:00-0400). 중앙일보 1990-10-12. Text reads '정책위의장에 최각규 의원(공화계)을' in the 민자당 party-post reshuffle, which places him in 민자당 before the appointment"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pfe437f92-special-1-g01",
+   "name": "최형우",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 정무제1장관 on the afternoon of 1991-07-18 and given the 임명장 on 1991-07-19 (the row start), succeeding 김동영, while a sitting 민자당 member (13th term, 부산 동래을) and chair of the NA 동력자원위원회. He was elected in 1988 under 통일민주당 and became a 민자당 member with the February 1990 merger.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1991071900239101007&editNo=1&printCount=1&publishDate=1991-07-19&officeId=00023&pageNo=1&printNo=21697&publishType=00010 (Naver News Library, 조선일보 1991-07-19 p.1, '정무1장관에 崔炯佑(최형우)의원', accessed 2026-09-26T12:51:40-0400). Text reads '국회동자위원장인 崔炯佑(최형우)의원(民自(민자))을임명했다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1991071900209201013&editNo=2&printCount=1&publishDate=1991-07-19&officeId=00020&pageNo=1&printNo=21537&publishType=00020 (Naver News Library, 동아일보 1991-07-19 p.1, '政務(정무)1장관 崔炯佑(최형우)의원', accessed 2026-09-26T12:51:43-0400). Text reads '盧泰愚(노태우)대통령은 19일 崔炯佑(최형우)신임정무제1장관(民自(민자)·국회동자위원장)에게임명장을 주었다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "13th term, 지역구 부산 동래구을, elected 1988 under 통일민주당, seat 1988-05-30 to 1992-05-29, then re-elected for the same district in 1992 under 민자당 (14th seat from 1992-05-30). The seat was continuous through the row end 1992-05-25, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲동래을 최형우(자)'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1991071900289101005&editNo=4&printCount=1&publishDate=1991-07-19&officeId=00028&pageNo=1&printNo=981&publishType=00010 (Naver News Library, 한겨레 1991-07-19 p.1, '정무제1 최형우 의원', accessed 2026-09-27T23:07:26-0400). 한겨레, a different paper from 조선일보 and 동아일보. Text reads '김동영정무제1장관의 후임에 최형우 민자당 의원(국회 동자위원장)을임명했다'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "Pfaa57b46-special-1-g01",
+   "name": "김용채",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 정무제1장관 on 1992-05-23 in the 민자당 party-post reshuffle and given the 임명장 on 1992-05-25 (the row start), while a sitting 13th-term member for 서울 노원을 and a leader of the 공화계 faction of 민자당. He was elected in 1988 under 신민주공화당 and became a 민자당 member with the February 1990 merger. He had also won 노원을 in the 1992-03-24 election as the 민자당 candidate.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992052400239101002&editNo=1&printCount=1&publishDate=1992-05-24&officeId=00023&pageNo=1&printNo=21998&publishType=00010 (Naver News Library, 조선일보 1992-05-24 p.1, '民自党(민자당)4役(역) 전원 교체', accessed 2026-09-27T23:07:29-0400). Text reads '民自党(민자당) 총재인 盧泰愚(노태우)대통령은 23일 오후 党(당)4役(역)전원을 교체하는 당직개편을 전격 단행 ... 정무1장관에는金鎔采(김용채)의원이 임명됐다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992052400239104010&editNo=1&printCount=1&publishDate=1992-05-24&officeId=00023&pageNo=4&printNo=21998&publishType=00010 (Naver News Library, 조선일보 1992-05-24 p.4, '共和系(공화계) YS 지지 그룹 선봉장', accessed 2026-09-27T23:07:31-0400). Profile reads '旧(구)공화당뿌리에서 커온5選(선)의원으로 民自(민자) 공화계내에서 YS지지의 선봉장역을 자임'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19920526000000210&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 1992-05-26, '당 4역에 임명장/노 대통령', accessed 2026-09-26T10:25:49-0400). Text reads '노태우대통령은 25일 상오 청와대에서 민자당의 ... 김용채 정무1장관 등 신임 당4역에게 임명장을 수여했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "On 1992-05-25 he held the 13th-term seat, 지역구 서울 노원구을, elected 1988 under 신민주공화당 (1988-05-30 to 1992-05-29). He had won the same district in the 14th election as 민자당, so a 14th-term seat followed from 1992-05-30. A recount in 임채정's election suit at the Supreme Court reversed the result before 1992-07-22, when he resigned as minister (the row end), and the Supreme Court voided his election on 1992-09-08 (서울신문 1992-09-09), which matches the NA end of the 14th spell. The seat therefore covered the whole row and share 1.0 is right. The fields describe the 13th-term seat held on the start date. https://newslibrary.naver.com/viewer/index.naver?articleId=1992072300289101008&editNo=5&printCount=1&publishDate=1992-07-23&officeId=00028&pageNo=1&printNo=1294&publishType=00010 (Naver News Library, 한겨레 1992-07-23 p.1, '정무1장관에 김종호씨', accessed 2026-09-26T12:52:00-0400). Text reads '14대 총선 노원을 재검표 결과 의원직을상실하게 돼 정무1장관직을 사임한 김용채씨' | https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421162402746&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1992-09-09, '김용채씨 당선 무효/대법원 어제 선고', accessed 2026-09-27T23:07:39-0400). Text reads '대법원특별2부 ... 8일 ... 당초 당선자인 민자당 김용채후보의 당선무효를 선고했다' | https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19920812000000205&returnCnt=1&sectionDiv=1000 (BigKinds, 한겨레 1992-08-12, '노원을 당선무효/내달 8일 선고', accessed 2026-09-27T23:22:31-0400). Text reads '대법원 특별2부(주심 최재호 대법관)는 11일 서울 노원을구 민주당 임채정 후보가 낸 당선무효 소송 결심공판을 열고 임 후보의 득표수가 애초 당선자였던 민자당 김용채 후보보다 1백72표 더 많은 것으로 확인된 재검표 결과를 받아들여'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19920525000000202&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1992-05-25, '민자 당4역 개편', accessed 2026-09-26T21:23:49-0400). 국민일보. Text reads '민자당 총재인 노태우대통령은 23일 ... 정무제1장관에 김용채국회건설위원장을 각각 새로 임명하는등 당4역에 대한 개편을 단행했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421162402746&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1992-09-09, '김용채씨 당선 무효/대법원 어제 선고', accessed 2026-09-27T23:07:39-0400). 서울신문 1992-09-09 calls him '민자당 김용채후보' for the 1992 race"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "민주자유당"
+   }
+  },
+  {
+   "row_id": "P1fe75e84-special-1-g01",
+   "name": "김종호",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 정무제1장관 on 1992-07-22, succeeding 김용채, as a sitting 민자당 member (14th term, 괴산), elected 1992 under 민자당. The news date the appointment 1992-07-22, two days before the row start 1992-07-24, which bears on the row date, not the party.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992072300239101003&editNo=1&printCount=1&publishDate=1992-07-23&officeId=00023&pageNo=1&printNo=22058&publishType=00010 (Naver News Library, 조선일보 1992-07-23 p.1, '정무1장관 金宗鎬(김종호)씨', accessed 2026-09-26T12:52:01-0400). Text reads '盧泰愚(노태우)대통령은 22일 ... 金鎔采(김용채)정무1장관의 후임으로 民自党(민자당) 金宗鎬(김종호)의원을 임명했다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992072300329101003&editNo=15&printCount=1&publishDate=1992-07-23&officeId=00032&pageNo=1&printNo=14474&publishType=00010 (Naver News Library, 경향신문 1992-07-23 p.1, '政務(정무)1장관 金宗鎬(김종호)의원 임명', accessed 2026-09-27T23:07:33-0400). Text reads '金宗鎬民自黨(김종호민자당)의원〈사진〉을 임명했다' and the profile lists '▲民自黨(민자당)원내총무'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 충북 괴산군, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1992-10-09, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1992072300289101008&editNo=5&printCount=1&publishDate=1992-07-23&officeId=00028&pageNo=1&printNo=1294&publishType=00010 (Naver News Library, 한겨레 1992-07-23 p.1, '정무1장관에 김종호씨', accessed 2026-09-26T12:52:00-0400). 한겨레, a different paper from 조선일보 and 경향신문. Text reads '김용채씨 후임에 김종호 민자당 의원을 임명·발령했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P8b6160db-pm-1-g02",
+   "name": "황인성",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named PM on 1993-02-22 while 민자당 정책위의장 and a sitting 민자당 member (14th term, 진안·무주·장수). The NA consented on 1993-02-25 and 김영삼 handed him the 임명장 at 14:00 that day. He kept his seat as PM.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400329101001&editNo=15&printCount=1&publishDate=1993-02-24&officeId=00032&pageNo=1&printNo=14682&publishType=00010 (Naver News Library, 경향신문 1993-02-24 p.1, '民自(민자) 黨職(당직) 전면개편', accessed 2026-09-27T23:08:50-0400). Text reads '民自黨(민자당)총재인 金泳三(김영삼)차기대통령은 黃寅性(황인성)정책위의장의 총리내정과 ... 당직개편이 불가피해짐에따라'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022400329102004&editNo=15&printCount=1&publishDate=1993-02-24&officeId=00032&pageNo=2&printNo=14682&publishType=00010 (Naver News Library, 경향신문 1993-02-24 p.2, '黃(황)총리지명자 議員(의원)사퇴마땅 朴(박) 民主(민주)대변인', accessed 2026-09-27T23:08:52-0400). Text reads '黃寅性(황인성)총리지명자의의원직 겸직방침과 관련'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202002&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '철저한 保安(보안)…새벽 通報(통보)도', accessed 2026-09-27T23:09:12-0400). Text reads '金(김)대통령은 25일오후2시 黃寅性(황인성)신임총리에게 임명장을 수여한뒤'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19930223000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 1993-02-23, '행정은 「실무」 사정은 「개혁」/새 총리·감사원장 인선성격', accessed 2026-09-27T23:22:05-0400). Text reads '22일 단행된 김영삼 차기대통령의 국무총리와 감사원장의 인선 내용은'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600239101002&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00023&pageNo=1&printNo=22269&publishType=00010 (Naver News Library, 조선일보 1993-02-26 p.1, '\"다시 세계로 雄飛(웅비)하자\"', accessed 2026-09-26T13:23:51-0400). Text reads '국회는 金(김)대통령 취임식직후 본회의를 열어 黃寅性(황인성)국무총리와 李會昌(이회창)감사원장 千慶松(천경송)대법관에 대한임명동의안을 각각 통과시켰다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 전북 진안·무주·장수군, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29 (NA API and Wikipedia list agree). The 1993-02-24 경향신문 report on his plan to hold the seat together with the premiership agrees with the NA record of no resignation. Seat covers the row to 1993-12-16, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01200201.19930223150517114&returnCnt=1&sectionDiv=1000 (BigKinds, 경인일보 1993-02-23, '[社說]次期총리와 감사원장', accessed 2026-09-27T23:09:15-0400). 경인일보 editorial. Text reads '총리에는 현 민자당 정책위의장 황인성의원이'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421215656818&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1993-02-23, '황인성 새 총리·이회창 새 감사원장(사설)', accessed 2026-09-27T23:09:17-0400). 서울신문 editorial. Text reads '국무총리에 민자당 정책위의장 황인성씨가 ... 내정 발표됐다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pccb491bc-culture-1-g02",
+   "name": "이민섭",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed in the first 김영삼 cabinet announced and appointed on 1993-02-26 as a sitting 민자당 member. Appointed on 1993-02-26 to the ministry announced as 문화체육부. Until the reorganization took effect on 1993-03-06 the office was 문화부장관, which this row records.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Cabinet list reads '△문화체육＝이민섭민자당 의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '새政府(정부) 組閣(조각) 文民(문민)색채 비중「실험內閣(내각)」인상', accessed 2026-09-26T21:34:52-0400). Text reads '내무(李海龜(이해구))법무(朴熺太(박희태))문화체육(李敏燮(이민섭))노동(李仁濟(이인제))정무1장관(金德龍(김덕룡))이 모두 현民自黨(민자당)의원이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 강원 춘천시·양구·인제군, elected 1992 under 민자당, seat 1992-05-30 onward (NA API and Wikipedia list agree). Sitting member on the appointment date, and the seat covers the row, so share 1.0 is right. The row ends 1993-03-05, when the office became 문화체육부장관 (next row).",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-02-27, '부총리 이경식 기획원·한완상씨 통일원/새 내각 발표', accessed 2026-09-26T09:24:53-0400). 한국일보, a different paper from 한겨레 and 동아일보. Text reads '문화체육부장관에는 이민섭 민자당 의원이'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pd26dc14a-interior-1-g02",
+   "name": "이해구",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed in the first 김영삼 cabinet announced and appointed on 1993-02-26 as a sitting 민자당 member. He was elected in 1988 as an independent and in 1992 under 민자당, so the 13th-term election party (무소속) does not apply to this row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Cabinet list reads '△내무＝이해구 민자당 의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '새政府(정부) 組閣(조각) 文民(문민)색채 비중「실험內閣(내각)」인상', accessed 2026-09-26T21:34:52-0400). Text reads '내무(李海龜(이해구))법무(朴熺太(박희태))문화체육(李敏燮(이민섭))노동(李仁濟(이인제))정무1장관(金德龍(김덕룡))이 모두 현民自黨(민자당)의원이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 경기 안성군, elected 1992 under 민자당, seat 1992-05-30 onward (NA API and Wikipedia list agree). Sitting member on the appointment date, and the seat covers the row, so share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-02-27, '부총리 이경식 기획원·한완상씨 통일원/새 내각 발표', accessed 2026-09-26T09:24:53-0400). 한국일보, a different paper from 한겨레 and 동아일보. Text reads '내무부장관에는 이해구 민자당 의원이'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P9dd915ab-justice-1-g02",
+   "name": "박희태",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed in the first 김영삼 cabinet announced and appointed on 1993-02-26 as a sitting 민자당 member.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Cabinet list reads '△법무＝박희태 민자당 대변인'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '새政府(정부) 組閣(조각) 文民(문민)색채 비중「실험內閣(내각)」인상', accessed 2026-09-26T21:34:52-0400). Text reads '내무(李海龜(이해구))법무(朴熺太(박희태))문화체육(李敏燮(이민섭))노동(李仁濟(이인제))정무1장관(金德龍(김덕룡))이 모두 현民自黨(민자당)의원이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 경남 남해·하동군, elected 1992 under 민자당, seat 1992-05-30 onward (NA API and Wikipedia list agree). Sitting member on the appointment date, and the seat covers the row, so share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-02-27, '부총리 이경식 기획원·한완상씨 통일원/새 내각 발표', accessed 2026-09-26T09:24:53-0400). 한국일보, a different paper from 한겨레 and 동아일보. Text reads '법무부장관에는 박희태 민자당 의원이'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P746faf46-labor-1-g02",
+   "name": "이인제",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed in the first 김영삼 cabinet announced and appointed on 1993-02-26 as a sitting 민자당 member. He was elected in 1988 under 통일민주당 and in 1992 under 민자당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Cabinet list reads '△노동＝이인제 민자당 의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '새政府(정부) 組閣(조각) 文民(문민)색채 비중「실험內閣(내각)」인상', accessed 2026-09-26T21:34:52-0400). Text reads '내무(李海龜(이해구))법무(朴熺太(박희태))문화체육(李敏燮(이민섭))노동(李仁濟(이인제))정무1장관(金德龍(김덕룡))이 모두 현民自黨(민자당)의원이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 경기 안양시갑, elected 1992 under 민자당, seat 1992-05-30 onward (NA API and Wikipedia list agree). Sitting member on the appointment date, and the seat covers the row, so share 1.0 is right. The seat ended on 1995-06-07 when he resigned to run for 경기지사, after the row end, so it does not affect this row.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-02-27, '부총리 이경식 기획원·한완상씨 통일원/새 내각 발표', accessed 2026-09-26T09:24:53-0400). 한국일보, a different paper from 한겨레 and 동아일보. Text reads '노동부장관에는 이인제 민자당 의원이'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pe15dc8b7-special-1-g02",
+   "name": "김덕룡",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed in the first 김영삼 cabinet announced and appointed on 1993-02-26 as a sitting 민자당 member. He was elected in 1988 under 통일민주당 and in 1992 under 민자당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Cabinet list reads '△정무1＝김덕룡 민자당 의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022600209202001&editNo=1&printCount=1&publishDate=1993-02-26&officeId=00020&pageNo=2&printNo=22097&publishType=00020 (Naver News Library, 동아일보 1993-02-26 p.2, '새政府(정부) 組閣(조각) 文民(문민)색채 비중「실험內閣(내각)」인상', accessed 2026-09-26T21:34:52-0400). Text reads '내무(李海龜(이해구))법무(朴熺太(박희태))문화체육(李敏燮(이민섭))노동(李仁濟(이인제))정무1장관(金德龍(김덕룡))이 모두 현民自黨(민자당)의원이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 서초구을, elected 1992 under 민자당, seat 1992-05-30 onward (NA API and Wikipedia list agree). Sitting member on the appointment date, and the seat covers the row, so share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19930227000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-02-27, '부총리 이경식 기획원·한완상씨 통일원/새 내각 발표', accessed 2026-09-26T09:24:53-0400). 한국일보, a different paper from 한겨레 and 동아일보. Text reads '정무1장관에는 김덕룡 민자당 의원이'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pccb491bc-culture-2-g02",
+   "name": "이민섭",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Holdover row. He was appointed on 1993-02-26 (the preceding row) and became 문화체육부장관 when the merged ministry formally started on 1993-03-06 (경향신문 1993-03-20 gives the 6th, 국민일보 1993-03-10 gives the 5th). He was a sitting 민자당 member throughout, and no party event fell between 1993-02-26 and 1993-03-06.",
+   "party_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421224200497&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1993-03-16, '문화체육부장관 이민섭씨(인터뷰)', accessed 2026-09-27T23:10:23-0400). 서울신문 interview. Text reads '이장관은 춘천·양구·인제를 지역구로 하는 민자당 현역 4선의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993022700289101001&editNo=5&printCount=1&publishDate=1993-02-27&officeId=00028&pageNo=1&printNo=1487&publishType=00010 (Naver News Library, 한겨레 1993-02-27 p.1, '부총리 이경식(기획원장 관)한완상(통일원장 관)', accessed 2026-09-26T09:12:18-0400). Appointment list of 1993-02-26 reads '△문화체육＝이민섭민자당 의원'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 강원 춘천시·양구·인제군, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. Seat covers the row to 1994-12-23, share 1.0 is right. In the 경향신문 interview he defends holding the district seat together with the ministry.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19930320000001701&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 1993-03-20, '이민섭 초대 문화체육부장관(경향 인터뷰)', accessed 2026-09-27T23:10:21-0400). 경향신문 interview. Text reads '지난6일 정식 발족한 문화체육부' and '이 장관은 춘천·양구·인제를 지역구로 하는 민자당 4선의원'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P370a901c-health-1-g02",
+   "name": "서상목",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 보건사회부장관 on 1993-12-21 and appointed on 1993-12-22 while 민자당 정책조정실장 and a sitting 14th-term 민자당 전국구 member.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200239101023&editNo=1&printCount=1&publishDate=1993-12-22&officeId=00023&pageNo=1&printNo=22553&publishType=00010 (Naver News Library, 조선일보 1993-12-22 p.1, '부총리 丁渽錫(정재석) (경제) ·李榮德(이영덕) (통일) 씨', accessed 2026-09-26T21:29:37-0400). Text reads '보건사회부장관에는 徐相穆(서상목)민자당정책실장' and '새 각료로는 현직의원3명을 포함,民自黨(민자당)에서5명이 입각했고'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102007&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010 (Naver News Library, 조선일보 1993-12-23 p.2, '李(이)총리\"모두 實勢(실세)가 됩시다\"', accessed 2026-09-26T13:32:33-0400). Text reads '「李會昌(이회창)내각」이 22일 오전 10시 ... 출범식을 가졌다.14명의 신임국무위원들이청와대에서 임명장을 받은뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 전국구 (민자당 list, rank 21), seat 1992-05-30 to 1996-05-29. He kept the PR seat as minister. Seat covers the row to 1994-12-22, share 1.0 is right. https://newslibrary.naver.com/viewer/index.naver?articleId=1992030600239101001&editNo=1&printCount=1&publishDate=1992-03-06&officeId=00023&pageNo=1&printNo=21921&publishType=00010 (Naver News Library, 조선일보 1992-03-06 p.1, '民自(민자) 전국구 54명 발표', accessed 2026-09-27T23:11:16-0400). Text reads '徐相穆(서상목)의원이 21번으로 각각 재공천됐다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19931222000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-12-22, '부총리 정재석(경제)·이영덕씨(통일)/14개부처장관 경질', accessed 2026-09-26T13:58:53-0400). 한국일보. Text reads '보사부장관에　서상목민자당정책조정실장'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pfe437f92-interior-1-g02",
+   "name": "최형우",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 내무부장관 on 1993-12-21 and appointed on 1993-12-22 as a sitting 민자당 member (14th term, 부산 동래을) of the 민주계 faction, a former 민자당 사무총장.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200239101023&editNo=1&printCount=1&publishDate=1993-12-22&officeId=00023&pageNo=1&printNo=22553&publishType=00010 (Naver News Library, 조선일보 1993-12-22 p.1, '부총리 丁渽錫(정재석) (경제) ·李榮德(이영덕) (통일) 씨', accessed 2026-09-26T21:29:37-0400). Text reads '내무장관에는崔炯佑(최형우) 民自黨(민자당)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102007&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010 (Naver News Library, 조선일보 1993-12-23 p.2, '李(이)총리\"모두 實勢(실세)가 됩시다\"', accessed 2026-09-26T13:32:33-0400). Text reads '「李會昌(이회창)내각」이 22일 오전 10시 ... 출범식을 가졌다.14명의 신임국무위원들이청와대에서 임명장을 받은뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 부산 동래구을, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. Seat covers the row to 1994-12-24, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19931222000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-12-22, '부총리 정재석(경제)·이영덕씨(통일)/14개부처장관 경질', accessed 2026-09-26T13:58:53-0400). 한국일보. Text reads '내무부장관에　민자당내　핵심측근인　최형우의원'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pf194d258-special-1-g02",
+   "name": "서청원",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 정무제1장관 on 1993-12-21 and appointed on 1993-12-22 as a sitting 민자당 member (14th term, 서울 동작갑). He was elected in 1988 under 통일민주당 and in 1992 under 민자당.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122200239101023&editNo=1&printCount=1&publishDate=1993-12-22&officeId=00023&pageNo=1&printNo=22553&publishType=00010 (Naver News Library, 조선일보 1993-12-22 p.1, '부총리 丁渽錫(정재석) (경제) ·李榮德(이영덕) (통일) 씨', accessed 2026-09-26T21:29:37-0400). Text reads '정무1장관에는 徐淸源(서청원)민자당의원이'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1993122300239102007&editNo=1&printCount=1&publishDate=1993-12-23&officeId=00023&pageNo=2&printNo=22554&publishType=00010 (Naver News Library, 조선일보 1993-12-23 p.2, '李(이)총리\"모두 實勢(실세)가 됩시다\"', accessed 2026-09-26T13:32:33-0400). Text reads '「李會昌(이회창)내각」이 22일 오전 10시 ... 출범식을 가졌다.14명의 신임국무위원들이청와대에서 임명장을 받은뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 동작구갑, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. Seat covers the row to 1994-12-24, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19931222000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1993-12-22, '부총리 정재석(경제)·이영덕씨(통일)/14개부처장관 경질', accessed 2026-09-26T13:58:53-0400). 한국일보. Text reads '정무제1장관에　서청원민자당의원을'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P370a901c-health-2-g02",
+   "name": "서상목",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Holdover row created by the 1994-12-23 government reorganization, when 보건사회부 became 보건복지부 and he stayed on as its minister. He was a sitting 14th-term 민자당 전국구 member of the 민정계 faction, and 경향신문 counts him among the four 민정계 members holding both a seat and a ministry after the reshuffle.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104004&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010 (Naver News Library, 경향신문 1994-12-24 p.4, '「新(신)민주系(계)」3명 入閣(입각) 대약진', accessed 2026-09-26T09:49:33-0400). Text reads '민정계는 徐相穆(서상목)보건복지장관이 유임되고' and '의원겸직장관은 ... 유임된 徐相穆(서상목)보건복지부장관과 함께 4명을유지하고있다. 4명 모두민정계라는 것이 특징이다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010 (Naver News Library, 동아일보 1994-12-24 p.1, '19部處(부처)장관 경질 大改閣(대개각)', accessed 2026-09-26T09:30:07-0400). Cabinet list reads '△보건복지 徐相穆(서상목)보사장관'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 전국구 (민자당 list rank 21), seat 1992-05-30 to 1996-05-29. Seat covers the row to 1995-05-15, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19941224000000503&returnCnt=1&sectionDiv=1000 (BigKinds, 한겨레 1994-12-24, '민정계 중용 민주계 몰락/개각 정치적 의미', accessed 2026-09-26T21:47:25-0400). 한겨레 via BigKinds. Text reads '12·23 개각에서는 민자당내 민정계의 요직 발탁과' and '역시 민정계인 서상목 보건복지부 장관은 유임됐다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pa0825ae2-environment-1-g02",
+   "name": "김중위",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 환경부장관 in the 1994-12-23 reshuffle and appointed on 1994-12-24 as a sitting 민자당 member (14th term, 서울 강동을) of the 민정계 faction. The row runs past 1995-12-06, when 민자당 began using the name 신한국당 (see party_events), so the party name changed inside the row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010 (Naver News Library, 동아일보 1994-12-24 p.1, '19部處(부처)장관 경질 大改閣(대개각)', accessed 2026-09-26T09:30:07-0400). Text reads '△환경金重緯民自(김중위민자)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400239101001&editNo=1&printCount=1&publishDate=1994-12-24&officeId=00023&pageNo=1&printNo=22895&publishType=00010 (Naver News Library, 조선일보 1994-12-24 p.1, '부총리 洪在馨(홍재형) (경제) 金悳(김덕) (통일) 씨', accessed 2026-09-26T10:09:09-0400). Text reads '환경부장관에 金重緯(김중위)민자당의원'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1994-12-25, '“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조', accessed 2026-09-26T09:34:35-0400). Text reads '김영삼대통령은　24일 ... 청와대에서　홍재형 경제부총리를　비롯한　신임각료와　청와대수석진에게　임명장을　수여한　뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 강동구을, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. The 1992 winners list confirms 강동을. 중앙일보 1994-12-24 writes '서울강동갑', which is a misprint. Seat covers the row to 1995-12-20, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲강동갑 이부영(주) ▲강동을 김중위(자)'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941224155544002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1994-12-24, '12.23 전면改閣 民正약진 民主系 일단 후퇴', accessed 2026-09-27T23:11:56-0400). 중앙일보. Text reads '그 자리를 민정계의 김윤환(金潤煥.군위-선산)정무1.김용태(金瑢泰.대구북)내무.김중위(金重緯.서울강동갑)환경처장관이 메웠다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941226155733001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1994-12-26, '<중앙탑>“표정관리하기 힘들다”-김윤환 정무1장관', accessed 2026-09-26T21:32:24-0400). 중앙일보. Text reads '26일의 민자당 고위당직자회의는 ... 김용태(金瑢泰)내무,김중위(金重緯)환경장관까지 입각 신고 인사를 하러 오는 바람에'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P123b3473-interior-1-g02",
+   "name": "김용태",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 내무부장관 in the 1994-12-23 reshuffle and appointed on 1994-12-24 as a sitting 민자당 member (14th term, 대구 북구) of the 민정계 faction. The row runs past 1995-12-06, when 민자당 began using the name 신한국당 (see party_events), so the party name changed inside the row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010 (Naver News Library, 동아일보 1994-12-24 p.1, '19部處(부처)장관 경질 大改閣(대개각)', accessed 2026-09-26T09:30:07-0400). Text reads '△내무 金瑢泰民自(김용태민자)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104004&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010 (Naver News Library, 경향신문 1994-12-24 p.4, '「新(신)민주系(계)」3명 入閣(입각) 대약진', accessed 2026-09-26T09:49:33-0400). Text reads '민정계는 ... 金瑢泰(김용태)내무장관 ... 새롭게 가세해'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1994-12-25, '“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조', accessed 2026-09-26T09:34:35-0400). Text reads '김영삼대통령은　24일 ... 청와대에서　홍재형 경제부총리를　비롯한　신임각료와　청와대수석진에게　임명장을　수여한　뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 대구 북구, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. The 1992 winners list confirms the district. Seat covers the row to 1995-12-21, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲북 김용태(자)' under 대구",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941224155544002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1994-12-24, '12.23 전면改閣 民正약진 民主系 일단 후퇴', accessed 2026-09-27T23:11:56-0400). 중앙일보. Text reads '민정계의 ... 김용태(金瑢泰.대구북)내무'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101001.19941224000000503&returnCnt=1&sectionDiv=1000 (BigKinds, 한겨레 1994-12-24, '민정계 중용 민주계 몰락/개각 정치적 의미', accessed 2026-09-26T21:47:25-0400). 한겨레. Text reads '김용태 김윤환 김중위 의원 등 민정계 중진들이 각각 내무와 정무1 및 환경부 장관에 기용됐고'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pb4b6c11d-special-3-g02",
+   "name": "김윤환",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 정무제1장관 in the 1994-12-23 reshuffle and appointed on 1994-12-24 as a sitting 민자당 member (14th term, 군위·선산) of the 민정계 faction.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400209101001&editNo=45&printCount=1&publishDate=1994-12-24&officeId=00020&pageNo=1&printNo=22721&publishType=00010 (Naver News Library, 동아일보 1994-12-24 p.1, '19部處(부처)장관 경질 大改閣(대개각)', accessed 2026-09-26T09:30:07-0400). Text reads '△정무1 金潤煥民自(김윤환민자)의원'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1994122400329104004&editNo=20&printCount=1&publishDate=1994-12-24&officeId=00032&pageNo=4&printNo=15292&publishType=00010 (Naver News Library, 경향신문 1994-12-24 p.4, '「新(신)민주系(계)」3명 入閣(입각) 대약진', accessed 2026-09-26T09:49:33-0400). Text reads '민주계가 맡고있었던 내무,정무1장관자리를 민정계의 TK(대구 경북)출신 의원들이 맡았다' and '金潤煥(김윤환)정무1장관'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19941225000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1994-12-25, '“세계화가　새내각　임무”/국가 경쟁력　강화 등　강조', accessed 2026-09-26T09:34:35-0400). Text reads '김영삼대통령은　24일 ... 청와대에서　홍재형 경제부총리를　비롯한　신임각료와　청와대수석진에게　임명장을　수여한　뒤'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 경북 군위·선산군, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. The 1992 winners list confirms the district. Seat covers the row to 1995-07-04, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲군위 선산 김윤환(자)'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941224155544002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1994-12-24, '12.23 전면改閣 民正약진 民主系 일단 후퇴', accessed 2026-09-27T23:11:56-0400). 중앙일보. Text reads '민정계의 김윤환(金潤煥.군위-선산)정무1'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19941226155733001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1994-12-26, '<중앙탑>“표정관리하기 힘들다”-김윤환 정무1장관', accessed 2026-09-26T21:32:24-0400). 중앙일보. Text reads '26일의 민자당 고위당직자회의는 이번 개각에서 입각한 김윤환(金潤煥)정무1장관이 회의에 처음 참석하는데다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P6eb0a064-unification-1-g02",
+   "name": "나웅배",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 부총리 겸 통일원장관 on 1995-02-21, succeeding the dismissed 김덕, while chair of the NA 외무통일위원회 and a sitting 민자당 member (14th term, 영등포을). He took office on 1995-02-22 (the row start). He belonged to the former 민정당 faction, so the 1995 exit of 김종필's 공화계 did not affect him. The row runs past 1995-12-06, when 민자당 began using the name 신한국당, so the party name changed inside the row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995022200239101014&editNo=1&printCount=1&publishDate=1995-02-22&officeId=00023&pageNo=1&printNo=22950&publishType=00010 (Naver News Library, 조선일보 1995-02-22 p.1, '金悳(김덕)부총리 전격 해임', accessed 2026-09-27T23:14:02-0400). Text reads '羅(나)신임부총리는서울대교수 출신으로 ... 4選(선)의원으로,민자당 정책위의장과 국회외무통일위원장을지낸 경제정책통이다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100101.20160113040655795&returnCnt=1&sectionDiv=1000 (BigKinds, 매일경제 1995-02-22, '새 통일부총리 나웅배/그는 누구인가', accessed 2026-09-27T23:14:07-0400). 매일경제 profile. Text reads '나웅배 외무통일위원장(민자.영등포을)은 이번에 신임통일부총리로 결정됨에 따라'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950223000000403&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1995-02-23, '사령탑 잦은경질/통일정책　불안하다/안보·경제보다　정치논리가　좌우', accessed 2026-09-26T09:28:46-0400). Text reads '나웅배 신임부총리는　22일　취임식에서'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 영등포구을, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. The 1992 winners list confirms the district. Seat covers the row to 1995-12-21, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲영등포을 나웅배(자)'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19950224172909002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1995-02-24, '국회 外統위원장 吳世應의원 내정-民自黨', accessed 2026-09-27T23:14:09-0400). 중앙일보. Text reads '민자당은 23일 통일부총리로 임명된 나웅배(羅雄培)前외무통일위원장 후임에 오세응(吳世應.성남 중원-분당)의원을 내정했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950224000000104&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1995-02-24, '외통위　위원장에 오세응 의원　내정', accessed 2026-09-27T23:15:48-0400). 한국일보. Text reads '민자당총재인　김영삼대통령은　23일　통일부총리에　나웅배 의원이　임명됨에　따라　공석이　된　국회외무통일위원장에'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pa31f65d8-health-1-g02",
+   "name": "이성호",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Named 보건복지부장관 on 1995-05-15 and given the 임명장 on 1995-05-16 (the row start) as a sitting 민자당 member (14th term, 미금·남양주). A 1996 세계일보 profile describes him as a party official who started in the 공화당 secretariat and rose through 민정당 posts, entering the Assembly on the 민정당 list in the 12th term. He did not leave 민자당 with 김종필's 공화계 in 1995. The row runs past 1995-12-06, when 민자당 began using the name 신한국당, so the party name changed inside the row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995051600239101015&editNo=1&printCount=1&publishDate=1995-05-16&officeId=00023&pageNo=1&printNo=23029&publishType=00010 (Naver News Library, 조선일보 1995-05-16 p.1, '徐(서)복지장관 경질', accessed 2026-09-26T10:09:29-0400). Text reads '후임에 민자당 李聖浩(이성호)(이성호)국회의원(경기도 미금-남양주)을 임명했다'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995051700209102011&editNo=45&printCount=1&publishDate=1995-05-17&officeId=00020&pageNo=2&printNo=22856&publishType=00010 (Naver News Library, 동아일보 1995-05-17 p.2, '신임 장관들에 임명장 金(김)대통령', accessed 2026-09-26T09:48:21-0400). Text reads '金泳三(김영삼)대통령은 16일 오전 청와대에서 신임 ... 李聖浩(이성호)보건복지부장관에게 임명장을 수여했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 경기 미금·남양주시, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29 (NA API and Wikipedia list agree). 조선일보 1995-05-16 gives the same district. Seat covers the row to 1995-12-21, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19950516000000103&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1995-05-16, '2부장관 임명/신임교육 박영식·복지 이성호씨', accessed 2026-09-26T21:49:38-0400). 한국일보. Text reads '서상목 보건복지부장관도 경질, 후임에 이성호 민자당의원을 임명했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960809000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-08-09, '경제부총리 한승수씨/중폭개각 단행/신설 해양수산장관 신상우씨', accessed 2026-09-26T09:49:44-0400). Profile reads '공화당 공채3기로 출발,민정당 조직국장과 청년분과위원장 등을 역임한 당료출신. 12대 때 민정당 전국구로 국회에 진출한뒤'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pd630a674-special-1-g02",
+   "name": "김영구",
+   "party_on_date": "민주자유당",
+   "party_date_basis": "Appointed 정무제1장관 on 1995-07-04 (임명장 that afternoon) in the post-local-election 민자당 party-post reshuffle, as a sitting 민자당 member (14th term, 동대문을). The row runs past 1995-12-06, when 민자당 began using the name 신한국당, so the party name changed inside the row.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995070500239101003&editNo=1&printCount=1&publishDate=1995-07-05&officeId=00023&pageNo=1&printNo=23075&publishType=00010 (Naver News Library, 조선일보 1995-07-05 p.1, '民自(민자)총장 金潤煥(김윤환)씨', accessed 2026-09-27T23:15:49-0400). Text reads '민자당 총재인 金泳三(김영삼)대통령은 4일 ... 후임 정무1장관에민자당의 金榮龜(김영구)의원을 임명했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=02100101.20160113053637661&returnCnt=1&sectionDiv=1000 (BigKinds, 매일경제 1995-07-05, '민자 사무총장 김윤환씨/정무1장관에 김영구씨', accessed 2026-09-26T10:27:19-0400). 매일경제. Text reads '김대통령는 또 후임 정무장관에 민자당 김영구의원을 임명했다' (sic) and '김대통령은 이날 오후 청와대에서 신임 사무총장과 정무장관에게 임명장을 수여했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 동대문구을, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1995-12-21, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423044213373&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1995-07-05, '민자 사무총장 김윤환씨/지방선거 인책인사', accessed 2026-09-26T10:27:23-0400). 서울신문. Text reads '또 후임 정무1장관에 민자당의 김영구 의원을 임명했다. 김대통령은 이날 하오 신임 김총장과 김정무장관에게 임명장을 주었다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P6eb0a064-finance-1-g02",
+   "name": "나웅배",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Moved from 통일부총리 to 부총리 겸 재정경제원장관 in the 1995-12-20 reshuffle, taking office on 1995-12-21. He was a sitting member of the party that had used the name 신한국당 since 1995-12-06 and had already announced that he would not run in 1996. The name was then provisional (가칭). The 전당대회 adopted it formally on 1996-02-06, and 한국일보 of 1996-02-07 writes that until then the party had legally remained 민자당. The legal name on 1995-12-21 was therefore still 민주자유당. The membership itself is not in doubt.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995123000329104005&editNo=30&printCount=1&publishDate=1995-12-30&officeId=00032&pageNo=4&printNo=15639&publishType=00010 (Naver News Library, 경향신문 1995-12-30 p.4, '신한국「不出馬(불출마) 도미노」확산 「무주공산」향해 누가 뛰나', accessed 2026-09-27T23:15:03-0400). Text reads '현재 신한국당의 지구당위원장중 공식으로 총선불출마를 선언한 인사는 10명이다. 서울에서는 羅雄培(나웅배)(영등포을)'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995122100209101001&editNo=45&printCount=1&publishDate=1995-12-21&officeId=00020&pageNo=1&printNo=23060&publishType=00010 (Naver News Library, 동아일보 1995-12-21 p.1, '11개部(부)장관 경질', accessed 2026-09-26T09:37:39-0400). Text reads '11개部(부)장관 경질 부총리 羅雄培(나웅배)(경제)' and '金泳三(김영삼)대통령은 20일'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995120700329101011&editNo=40&printCount=1&publishDate=1995-12-07&officeId=00032&pageNo=1&printNo=15618&publishType=00010 (Naver News Library, 경향신문 1995-12-07 p.1, '改閣(개각) 인선작업 착수', accessed 2026-09-27T23:00:55-0400). The 1995-12-06 renaming. Text reads '민자당은 이날 당무회의를 열고「신한국당」으로당명을 변경키로 의결'"
+   ],
+   "party_confidence": "medium",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "14th term, 지역구 서울 영등포구을, elected 1992 under 민자당, seat 1992-05-30 to 1996-05-29. He declared before this appointment that he would not run in the 15th election (국민일보 1995-12-20, 서울신문 1995-12-29) and the NA file has no 15th-term spell, so the seat ended at the 14th term end while the row runs to 1996-08-09. Share 0.691 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19951220000000501&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1995-12-20, '12·20 개각 새얼굴', accessed 2026-09-26T21:59:53-0400). Text reads '지난번 신한국당 지구당위원장직을 내놓으며 15대 총선불출마를 선언'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160423095539860&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1995-12-29, '국회의원들 줄줄이 “불출마” 선언', accessed 2026-09-27T23:15:46-0400). 서울신문. Text reads '신한국당에서만 9명이 15대 총선 불출마를 공식 선언했다.안찬희·박경수·나웅배·이순재·이승윤·정순덕·황인성의원과 남재희 전의원 등이다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19951220000000501&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1995-12-20, '12·20 개각 새얼굴', accessed 2026-09-26T21:59:53-0400). 국민일보 profile of the new 경제부총리, which refers to his 신한국당 district chairmanship",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960207000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-02-07, '합당잔재 청산 「YS당」 공식 출범/신한국당 전당대회', accessed 2026-09-27T23:24:05-0400). 한국일보. Text reads '그동안 법적으로 민자당이라는 옷을 벗지 못했던 신한국당은 이날 전당대회를 열어 공식적인 변신절차를 밟았다'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "신한국당"
+   }
+  },
+  {
+   "row_id": "Pe15dc8b7-special-2-g02",
+   "name": "김덕룡",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Named 정무제1장관 on 1996-05-08 in the 신한국당 party-post reshuffle, after the 1996-02-06 formal adoption of the name 신한국당. On 1996-05-09 (the row start) he held his 14th-term seat for 서초을 and had been re-elected there on 1996-04-11 as the 신한국당 candidate. His 14th-term election party was 민자당, the same party under its former name. The news date the appointment 1996-05-08, one day before the row start, which bears on the row date, not the party.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996050900209101005&editNo=45&printCount=1&publishDate=1996-05-09&officeId=00020&pageNo=1&printNo=23190&publishType=00010 (Naver News Library, 동아일보 1996-05-09 p.1, '정책의장 李相得(이상득) 원내총무 徐淸源(서청원)', accessed 2026-09-26T13:04:49-0400). Text reads '신한국당 사무총장에 姜三載(강삼재)현총장이 유임되고 ... 정무1장관에 金德龍(김덕룡)의원이 각각 임명됐다. 신한국당 총재인 金泳三(김영삼)대통령은 8일'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996050900289101010&editNo=6&printCount=1&publishDate=1996-05-09&officeId=00028&pageNo=1&printNo=2555&publishType=00010 (Naver News Library, 한겨레 1996-05-09 p.1, '신한국 민주계중심 당직개편', accessed 2026-09-26T13:04:37-0400). 한겨레. Headline and lead '신한국 민주계중심 당직개편 ... 정무 1장관 김덕룡'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": true,
+   "seat_check": "ok",
+   "seat_notes": "On 1996-05-09 he held the 14th-term seat, 지역구 서울 서초구을 (elected 1992 under 민자당, 1992-05-30 to 1996-05-29). He won the same district in the 15th election under 신한국당, so a 15th-term seat followed from 1996-05-30 and the seat covered the whole row to 1996-12-20. Share 1.0 is right. The fields describe the 14th-term seat held on the start date. The 1992 winners list confirms 서초을. https://www.bigkinds.or.kr/news/detailView.do?docId=01200101.19920325180412102&returnCnt=1&sectionDiv=1000 (BigKinds, 경기일보 1992-03-25, '全國 국회의원 당선자', accessed 2026-09-27T23:12:22-0400). Text reads '▲서초을 김덕롱(자)', an OCR or typesetting variant of 김덕룡",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960511000000603&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-05-11, '「김덕룡 정무」 부상인가 격하인가/여 대권주자들 YS 의중 촉각', accessed 2026-09-26T21:30:46-0400). 한국일보. Text reads '신한국당 당직개편에서 의외의 카드로 평가되고 있는 김덕룡정무1장관의 재기용에 대해'"
+   ],
+   "corrections": {
+    "mp_party_at_appt": "신한국당"
+   }
+  },
+  {
+   "row_id": "Pd7ab5dd9-finance-1-g02",
+   "name": "한승수",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Named in the 1996-08-08 partial reshuffle and given the 임명장 on the morning of 1996-08-09 (the row start) as a sitting 신한국당 member elected in April 1996.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900209101001&editNo=45&printCount=1&publishDate=1996-08-09&officeId=00020&pageNo=1&printNo=23277&publishType=00010 (Naver News Library, 동아일보 1996-08-09 p.1, '경제부총리 韓昇洙(한승수)씨', accessed 2026-09-26T10:14:59-0400). Text reads '부총리겸 재정경제원장관에 신한국당 韓昇洙(한승수)의원을 임명하는 등'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960810000000203&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-08-10, '김 대통령,신임각료 등에　임명장 수여', accessed 2026-09-26T10:16:13-0400). Text reads '김영삼 대통령은　9일　상오　청와대에서　한승수 경제부총리를　비롯,　강봉균 정보통신·이성호 보건복지·신상우 해양수산 ... 신임각료와 ... 각각　임명장을　주었다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 강원 춘천시갑, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29 (NA API and Wikipedia list agree). Seat covers the row, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960809000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-08-09, '경제부총리 한승수씨/중폭개각 단행/신설 해양수산장관 신상우씨', accessed 2026-09-26T09:49:44-0400). 세계일보, a different paper from 동아일보. Text reads '나웅배 경제부총리 후임에 한승수 신한국당의원을 임명하는등'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pa31f65d8-health-2-g02",
+   "name": "이성호",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Named in the 1996-08-08 partial reshuffle and given the 임명장 on the morning of 1996-08-09 (the row start) as a sitting 신한국당 member elected in April 1996.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900209101001&editNo=45&printCount=1&publishDate=1996-08-09&officeId=00020&pageNo=1&printNo=23277&publishType=00010 (Naver News Library, 동아일보 1996-08-09 p.1, '경제부총리 韓昇洙(한승수)씨', accessed 2026-09-26T10:14:59-0400). Text reads '보건복지부장관에 신한국당 李聖浩(이성호)의원을 기용했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960810000000203&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-08-10, '김 대통령,신임각료 등에　임명장 수여', accessed 2026-09-26T10:16:13-0400). Text reads '김영삼 대통령은　9일　상오　청와대에서　한승수 경제부총리를　비롯,　강봉균 정보통신·이성호 보건복지·신상우 해양수산 ... 신임각료와 ... 각각　임명장을　주었다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 경기 남양주시, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29 (NA API and Wikipedia list agree). Seat covers the row, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960809000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-08-09, '경제부총리 한승수씨/중폭개각 단행/신설 해양수산장관 신상우씨', accessed 2026-09-26T09:49:44-0400). 세계일보, a different paper from 동아일보. Text reads '보건복지부장관에 이성호 신한국당의원을 임명했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P62be2a32-oceans-1-g02",
+   "name": "신상우",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Named in the 1996-08-08 partial reshuffle and given the 임명장 on the morning of 1996-08-09 (the row start) as a sitting 신한국당 member elected in April 1996.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996080900209101001&editNo=45&printCount=1&publishDate=1996-08-09&officeId=00020&pageNo=1&printNo=23277&publishType=00010 (Naver News Library, 동아일보 1996-08-09 p.1, '경제부총리 韓昇洙(한승수)씨', accessed 2026-09-26T10:14:59-0400). Text reads '초대 해양수산부장관에신한국당 辛相佑(신상우)의원을'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960810000000203&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-08-10, '김 대통령,신임각료 등에　임명장 수여', accessed 2026-09-26T10:16:13-0400). Text reads '김영삼 대통령은　9일　상오　청와대에서　한승수 경제부총리를　비롯,　강봉균 정보통신·이성호 보건복지·신상우 해양수산 ... 신임각료와 ... 각각　임명장을　주었다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 부산 사상구을, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29 (NA API and Wikipedia list agree). Seat covers the row, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19960809000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-08-09, '경제부총리 한승수씨/중폭개각 단행/신설 해양수산장관 신상우씨', accessed 2026-09-26T09:49:44-0400). 세계일보, a different paper from 동아일보. Text reads '신설된 해양수산부장관에 신상우 신한국당의원을 임명하는 한편'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P73861b6b-health-1-g02",
+   "name": "손학규",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Appointed 보건복지부장관 on 1996-11-13, replacing 이성호, while a sitting 신한국당 member (15th term, 광명을) and the party's 제1정책조정위원장.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996111400239101004&editNo=1&printCount=1&publishDate=1996-11-14&officeId=00023&pageNo=1&printNo=23541&publishType=00010 (Naver News Library, 조선일보 1996-11-14 p.1, '복지부장관 경질', accessed 2026-09-26T10:11:34-0400). Text reads '金泳三(김영삼)(김영삼)대통령은13일 李聖浩(이성호)(이성호)보건복지부장관의 사표를 수리하고 신한국당 孫鶴圭(손학규)(손학규)의원을 새 보건복지부 장관에 임명했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 경기 광명시을, elected 1996 under 신한국당, seat 1996-05-30 to 1998-04-06 (resigned to run for 경기지사, after the row end). Seat covers the row to 1997-08-06, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961115000000209&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-11-15, '신한국당 제1정조위장 김기수씨/정책평가위장 이재환씨', accessed 2026-09-26T21:55:20-0400). 세계일보. Text reads '신한국당은 14일 손학규 의원의 보건복지부장관 입각으로 공석중인 제1정책조정위원장에 김기수 의원(강원 영월­평창)'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421041102439&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1996-11-15, '제1정조위원장 김기수 의원/정책평가위원장 이재환씨/신한국당 임명', accessed 2026-09-26T21:55:28-0400). 서울신문. Text reads '신한국당은 14일 손학규 보건복지부장관의 입각으로 공석이 된 제1정책조정위원장에 김기수 의원을'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pb4213058-environment-1-g02",
+   "name": "강현욱",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Appointed 환경부장관 in the 1996-12-20 reshuffle as a sitting 신한국당 member (15th term, 군산을), the only 신한국당 candidate elected in 호남 in 1996 (한국일보 1996-04-12).",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100209103003&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00020&pageNo=3&printNo=23402&publishType=00010 (Naver News Library, 동아일보 1996-12-21 p.3, '大選(대선) 앞두고 지역안배 신경', accessed 2026-09-26T13:47:19-0400). Text reads '이번 개각에서 기용된 신한국당인사는 丁時采(정시채)(정시채·전남)농림 姜賢旭(강현욱)(강현욱·전북)환경 金漢圭(김한규)(김한규·대구)총무처 辛卿植(신경식)(신경식·충북)정무1장관 등 4명이다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 전북 군산시을, elected 1996 under 신한국당 (한국일보 1996-04-12), seat 1996-05-30 to 2000-05-29. Seat covers the row to 1997-08-06, share 1.0 is right. https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960412000003804&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-04-12, '4·11 드라마 화제의 당선자들', accessed 2026-09-27T23:19:16-0400). Text reads '국민회의의 텃밭인 호남지역에서 유일하게 신한국당소속 후보로 당선된 전북 군산을구 강현욱후보'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961221000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-12-21, '8개 부처 개각 단행/안기부 1차장­경찰청장도 교체/김 대통령', accessed 2026-09-26T09:39:06-0400). 세계일보. Text reads '정종택 환경부장관 후임에 신한국당 강현욱 의원을 각각 임명했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P4cf665bc-special-1-g02",
+   "name": "신경식",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Appointed 정무제1장관 in the 1996-12-20 reshuffle, succeeding 김덕룡, as a sitting 신한국당 member (15th term, 청원).",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996122100209103003&editNo=45&printCount=1&publishDate=1996-12-21&officeId=00020&pageNo=3&printNo=23402&publishType=00010 (Naver News Library, 동아일보 1996-12-21 p.3, '大選(대선) 앞두고 지역안배 신경', accessed 2026-09-26T13:47:19-0400). Text reads '辛卿植(신경식)(신경식·충북)정무1장관' among the four 신한국당 appointees"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 충북 청원군, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29 (NA API and Wikipedia list agree). Seat covers the row to 1997-08-06, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19961221000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1996-12-21, '8개 부처 개각 단행/안기부 1차장­경찰청장도 교체/김 대통령', accessed 2026-09-26T09:39:06-0400). 세계일보. Text reads '김덕룡 정무1장관 후임에 신한국당 신경식 의원이 각각 임명됐다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pda5cb7bb-interior-1-g02",
+   "name": "서정화",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Appointed 내무부장관 on 1997-02-13, replacing 김우석 (arrested in the 한보 case), as a sitting 신한국당 member (15th term, 용산). He resigned on 1997-03-05 after 21 days.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997021400209101005&editNo=45&printCount=1&publishDate=1997-02-14&officeId=00020&pageNo=1&printNo=23452&publishType=00010 (Naver News Library, 동아일보 1997-02-14 p.1, '새내무 徐廷和(서정화)의원', accessed 2026-09-26T09:45:29-0400). Text reads '金佑錫(김우석)(김우석)내무부장관의 사표를 수리하고후임에 신한국당의 徐廷和(서정화)(서정화)의원을 임명했다'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 서울 용산구, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29 (NA API and Wikipedia list agree). Seat covers the short row to 1997-03-06, share 1.0 is right. 한국일보 1997-03-06 reports his resignation as minister on 1997-03-05. https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19970306000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1997-03-06, '7부 장관 등 10명 경질/경제부총리 강경식씨/김 대통령', accessed 2026-09-26T09:36:27-0400). Text reads '김대통령은 일신상의 이유로 이날 사의를 표명한 서정화 내무장관을 교체' and '지난 2월13일 취임했던 서 전장관은 재임 21일만에 물러났다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19970214125124001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1997-02-14, '신한국당 서정화의원 새 내무부장관에 임명', accessed 2026-09-27T23:18:49-0400). 중앙일보. Text reads '후임에 신한국당 서정화(徐廷和.용산)의원을 임명했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "Pda27d5d1-finance-1-g02",
+   "name": "강경식",
+   "party_on_date": "신한국당",
+   "party_date_basis": "Named 부총리 겸 재정경제원장관 on 1997-03-05 and given the 임명장 on the morning of 1997-03-06 (the row start) as a sitting 신한국당 member (15th term, 부산 동래을). He left 신한국당 on 1997-08-12 to keep the cabinet neutral before the presidential election and kept his seat as an independent, so from 1997-08-12 to the row end 1997-11-19 his party was 무소속. A single party value per row hides this change.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997030600329101002&editNo=45&printCount=1&publishDate=1997-03-06&officeId=00032&pageNo=1&printNo=16041&publishType=00010 (Naver News Library, 경향신문 1997-03-06 p.1, '7개部處(부처) 장관 경질', accessed 2026-09-26T09:45:32-0400). Text reads '金泳三(김영삼)대통령은 5일 韓昇洙(한승수)부총리 겸 재정경제원장관을 경질하고 후임에신한국당 姜慶植(강경식)의원을 임명하는 등'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01601001.19970307150517014&returnCnt=1&sectionDiv=1000 (BigKinds, 전북도민일보 1997-03-07, '“한 목소리로 일해야만 국민의 신뢰를 얻는다” 金대통령', accessed 2026-09-26T13:40:06-0400). 전북도민일보. Text reads '김영삼 대통령은 6일 오전 청와대에서 강경식경제부총리와 강운태내무장관 등 7개부처 장 관을 포함한 신임장관급 인사 10명에게 임명장을 수여'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997081300329104012&editNo=45&printCount=1&publishDate=1997-08-13&officeId=00032&pageNo=4&printNo=16186&publishType=00010 (Naver News Library, 경향신문 1997-08-13 p.4, '강경식부총리 신한국 탈당 ●'8.5개각'유임따라', accessed 2026-09-27T23:20:08-0400). The later exit. Text reads '신한국당 소속 국회의원인 강경식(姜慶植(강경식))경제부총리 겸 재경원장관이 12일신한국당 중앙당사를 방문, 강삼재(姜三載(강삼재))사무총장에게 탈'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 부산 동래구을, elected 1996 under 신한국당, seat 1996-05-30 to 2000-05-29. He kept the seat after leaving the party on 1997-08-12 (서울경제 1997-08-13). Seat covers the row to 1997-11-19, share 1.0 is right. The NA file's party_at_seat_end_wiki value 무소속 reflects this exit. https://www.bigkinds.or.kr/news/detailView.do?docId=02100311.20160315210901513&returnCnt=1&sectionDiv=1000 (BigKinds, 서울경제 1997-08-13, '강 부총리 탈당/의원직은 보유', accessed 2026-09-27T23:20:40-0400). Text reads '강부총리는 연말 대선을 앞두고 내각의 중립성을 보여주기 위해 탈당했으나 의원직은 계속 보유하게 된다'",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19970306000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1997-03-06, '7부 장관 경질/김 대통령 개각 단행/경제부총리에 강경식씨', accessed 2026-09-27T23:19:01-0400). 세계일보. Text reads '5일 한승수 부총리 겸 재경원장관을 경질,후임에 신한국당 강경식 의원을 임명하는 등'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421120536791&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1997-08-13, '강 부총리 “경제에만 전념”/신한국당 탈당', accessed 2026-09-27T23:20:11-0400). 서울신문 on the exit. Text reads '강경식 부총리 겸 재정경제원장관이 12일 신한국당을 탈당했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19970813000000212&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1997-08-13, '강경식 부총리 여 탈당', accessed 2026-09-27T23:20:13-0400). 한국일보. Text reads '신한국당 부산 동래을 지구당위원장인 강경식 경제부총리는 12일 ... 탈당계를 제출하고 지구당위원장 사퇴와 함께 탈당했다'"
+   ],
+   "corrections": {}
+  },
+  {
+   "row_id": "P362a6074-special-1-g02",
+   "name": "홍사덕",
+   "party_on_date": "무소속",
+   "party_date_basis": "Named 정무제1장관 in the 1997-08-05 cabinet reshuffle (the row starts 1997-08-06) as an independent member (15th term, 서울 강남을), elected 무소속 in 1996. He said he would not join 신한국당 before the December 1997 election. This agrees with g1 row R0021, which finds him still 무소속 in February and March 1998.",
+   "party_sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600329101004&editNo=45&printCount=1&publishDate=1997-08-06&officeId=00032&pageNo=1&printNo=16180&publishType=00010 (Naver News Library, 경향신문 1997-08-06 p.1, '11개부처 장관 경질', accessed 2026-09-26T10:17:05-0400). Text reads '이밖에 정무1장관에는 홍사덕(洪思德(홍사덕)·무소속)의원이 발탁돼 이채를 띠었으며'",
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997080600289101002&editNo=6&printCount=1&publishDate=1997-08-06&officeId=00028&pageNo=1&printNo=2950&publishType=00010 (Naver News Library, 한겨레 1997-08-06 p.1, '장관11명 교체', accessed 2026-09-26T09:32:12-0400). 한겨레. Text reads '정무1장관에홍사덕 의원(무소속)을'"
+   ],
+   "party_confidence": "high",
+   "party_differs_from_election_party": false,
+   "seat_check": "ok",
+   "seat_notes": "15th term, 지역구 서울 강남구을, elected 1996 as 무소속, seat 1996-05-30 to 2000-05-29. He kept the seat while minister. Seat covers the row to 1998-02-24, share 1.0 is right.",
+   "second_pass": "confirmed",
+   "second_pass_sources": [
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421115316038&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1997-08-06, '홍사덕 정무 “김 대통령 돕겠다”', accessed 2026-09-27T23:19:12-0400). 서울신문. Text reads '무소속 의원(서울 강남을)인 홍장관은' and '홍신임장관은 12월 대선전에는 신한국당에 입당하지 않을 뜻을 밝혔다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100701.19970806000000205&returnCnt=1&sectionDiv=1000 (BigKinds, 세계일보 1997-08-06, '대선 공정하게 치르는데 최선/홍사덕 정무1장관 인터뷰', accessed 2026-09-27T23:19:10-0400). 세계일보 interview, subtitle '선거전 신한국당 입당 할 계획 없다'"
+   ],
+   "corrections": {}
+  }
+ ],
+ "party_events": [
+  {
+   "event": "민주정의당, 통일민주당 and 신민주공화당 announce the three-party merger into a new party (3당 통합 선언)",
+   "date": "1990-01-22",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990012200209201001&editNo=2&printCount=1&publishDate=1990-01-22&officeId=00020&pageNo=1&printNo=21018&publishType=00020 (Naver News Library, 동아일보 1990-01-22 p.1, '民正(민정) 民主(민주) 共和(공화) 통합新黨(신당) 선언', accessed 2026-09-27T22:59:26-0400). Text reads '民正黨(민정당)총재인 盧泰愚(노태우)대통령과 民主黨金泳三(민주당김영삼)총재 共和黨金鍾泌(공화당김종필)총재는 22일오전10시 青瓦臺(청와대)에서 전격 회동,3黨(당)통합차원의 新黨(신당)창당추진에 합의'",
+    "https://ko.wikipedia.org/w/index.php?oldid=41819973 (ko.wikipedia '민주자유당' (the title '신한국당' redirects to the same page), accessed 2026-09-27T22:59:43-0400). The infobox gives 창당 1990년 1월 22일 citing the NEC 정당사 연표, which dates the party by the announcement rather than the founding meeting"
+   ]
+  },
+  {
+   "event": "민주자유당 founded at the joint meeting of the three parties' delegated bodies (합당수임기구합동회의), which resolved the merger and elected 노태우, 김영삼, 김종필 as 최고위원",
+   "date": "1990-02-09",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990020900209201001&editNo=2&printCount=1&publishDate=1990-02-09&officeId=00020&pageNo=1&printNo=21033&publishType=00020 (Naver News Library, 동아일보 1990-02-09 p.1, '「民主自由黨(민주자유당)」공식출범', accessed 2026-09-27T22:59:27-0400). Text reads '民正(민정) 民主(민주) 共和(공화)3黨(당)은 9일오전 서울汝矣島(여의도) 중소기업회관에서 합당수임기구밥동회의를 열고 民主自由黨(민주자유당)(가칭)창당을 결의함으로써 ... 巨大與黨(거대여당)을 공식 출범시켰다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900210000000101&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-02-10, '민주자유당 출범/어제 합당대회/의석 216 거대여당으로', accessed 2026-09-27T23:23:41-0400). 한국일보. Text reads '민정ㆍ민주ㆍ공화 3당은 9일 상오 서울 여의도 중소기업회관에서 합당수임기관 합동회의를 열고 합당을 공식 결의,민주자유당을 출범시켰다'"
+   ]
+  },
+  {
+   "event": "The three old parties take down their signboards (1990-02-14) and 민주자유당 files the new-party merger (신설합당) registration with the NEC, completing the legal merger. It registers as a single negotiating group in the NA on 1990-02-16",
+   "date": "1990-02-15",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1990021500209201009&editNo=2&printCount=1&publishDate=1990-02-15&officeId=00020&pageNo=1&printNo=21038&publishType=00020 (Naver News Library, 동아일보 1990-02-15 p.1, '民自黨(민자당) 選管委(선관위)등록', accessed 2026-09-27T22:59:30-0400). Text reads '民主自由黨(민주자유당)은 15일 중앙선관위에「합당」등록신고를 마치는 한편 ... 현판식을 가졌다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100201.19900215000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 국민일보 1990-02-15, '민자당,선관위 합당등록/법적 절차 완료', accessed 2026-09-27T22:59:32-0400). 국민일보. Text reads '민자당은 15일 중앙선관위에 합당등록을 함으로써 합당선언 24일만에 법적 절차를 완료하고 공식 활동에 들어갔다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19900216000000111&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1990-02-16, '민자 선관위 등록/어제 현판식도', accessed 2026-09-27T22:59:35-0400). 한국일보. Text reads '민주자유당은 15일 중앙선관위에 합당등록을 한 뒤'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160419110949155&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1990-02-15, '민정ㆍ민주ㆍ공화 “임무 마감” 이모저모', accessed 2026-09-27T23:23:12-0400). 서울신문 1990-02-15. Text reads '민주자유당으로 합당한 구 민정ㆍ민주ㆍ공화 3당은 14일 상하오에 걸쳐 각각 중앙당사에서 당기와 당간판을 내렸다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19900217171310001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1990-02-17, '삐걱삐걱 「거여 삼국지」/민자당 새 풍속 새스타일', accessed 2026-09-27T23:23:14-0400). 중앙일보. Text reads '민자당이 15일 창당등록과 16일 교섭단체등록을 마침으로써 단일정당으로 합가했다'"
+   ]
+  },
+  {
+   "event": "민주자유당 당무회의 resolves to rename the party 신한국당 and starts using the name the same day as a provisional name (가칭)",
+   "date": "1995-12-06",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1995120700329101011&editNo=40&printCount=1&publishDate=1995-12-07&officeId=00032&pageNo=1&printNo=15618&publishType=00010 (Naver News Library, 경향신문 1995-12-07 p.1, '改閣(개각) 인선작업 착수', accessed 2026-09-27T23:00:55-0400). Text reads '민자당은 이날 당무회의를 열고「신한국당」으로당명을 변경키로 의결,90년3당합당후 5년10개월15일만에 민자당시대의 막을 내렸다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19951207030335001&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1995-12-07, '民自 黨名바꿔 .신한국당'으로', accessed 2026-09-27T23:00:58-0400). 중앙일보. Text reads '민자당은 6일 당무회의에서 당명을 신한국당으로 바꾸기로 결정했다. 이에 따라 민자당은 내년 1월25일께 전국위원회나 ... 전당대회등을 통해 법적으로 당명을 공식 변경할 때까지 신한국당(가칭)이란 당명을 이날부터 사용키로 했다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=41819973 (ko.wikipedia '민주자유당' (the title '신한국당' redirects to the same page), accessed 2026-09-27T22:59:43-0400). The history section reads '1995년 12월 6일, 김영삼(金泳三)은 ... 민주자유당이라는 당명을 버리고 신한국당을 창당하였다'"
+   ]
+  },
+  {
+   "event": "신한국당 제1차 전당대회 formally adopts 신한국당 as the official party name (the legal step that the 1995-12-06 decision deferred). The date of the NEC registration of the new name was not found",
+   "date": "1996-02-06",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1996020700329101002&editNo=30&printCount=1&publishDate=1996-02-07&officeId=00032&pageNo=1&printNo=15676&publishType=00010 (Naver News Library, 경향신문 1996-02-07 p.1, '\"임기내 절대 改憲(개헌)안해\"', accessed 2026-09-27T23:00:47-0400). Text reads '신한국당 전당대회는 ... 신한국당을 공식당명으로 채택하고 제2창당을 선언했다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01101101.19960207000000301&returnCnt=1&sectionDiv=1000 (BigKinds, 한국일보 1996-02-07, '합당잔재 청산 「YS당」 공식 출범/신한국당 전당대회', accessed 2026-09-27T23:24:05-0400). 한국일보. Text reads '그동안 법적으로 민자당이라는 옷을 벗지 못했던 신한국당은 이날 전당대회를 열어 공식적인 변신절차를 밟았다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100101.19960207000000102&returnCnt=1&sectionDiv=1000 (BigKinds, 경향신문 1996-02-07, '“임기내 절대 개헌안해”/김대통령 전대치사/안정없으면 개혁불가능', accessed 2026-09-27T23:01:00-0400). 경향신문 (the same paper as the News Library item, so not independent). Same wording"
+   ]
+  },
+  {
+   "event": "강경식 (부총리 겸 재정경제원장관, 15th-term member for 부산 동래을) leaves 신한국당 and becomes an independent while keeping his seat. This falls inside row Pda27d5d1-finance-1-g02 (1997-03-06 to 1997-11-19)",
+   "date": "1997-08-12",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997081300329104012&editNo=45&printCount=1&publishDate=1997-08-13&officeId=00032&pageNo=4&printNo=16186&publishType=00010 (Naver News Library, 경향신문 1997-08-13 p.4, '강경식부총리 신한국 탈당 ●'8.5개각'유임따라', accessed 2026-09-27T23:20:08-0400). Text reads '강경식(姜慶植(강경식))경제부총리 겸 재경원장관이 12일신한국당 중앙당사를 방문, 강삼재(姜三載(강삼재))사무총장에게 탈'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100611.20160421120536791&returnCnt=1&sectionDiv=1000 (BigKinds, 서울신문 1997-08-13, '강 부총리 “경제에만 전념”/신한국당 탈당', accessed 2026-09-27T23:20:11-0400). Text reads '강경식 부총리 겸 재정경제원장관이 12일 신한국당을 탈당했다'"
+   ]
+  },
+  {
+   "event": "신한국당 and 민주당 (통합민주당) merge at a joint convention in 대전 and 한나라당 is launched",
+   "date": "1997-11-21",
+   "sources": [
+    "https://newslibrary.naver.com/viewer/index.naver?articleId=1997112200329101016&editNo=45&printCount=1&publishDate=1997-11-22&officeId=00032&pageNo=1&printNo=16281&publishType=00010 (Naver News Library, 경향신문 1997-11-22 p.1, '한나라당 공식 출범', accessed 2026-09-27T23:01:12-0400). Text reads '신한국당과 민주당은 21일 합당전당대회를 열어 통합신당인 한나라당을 공식 출범시켰다'",
+    "https://www.bigkinds.or.kr/news/detailView.do?docId=01100901.19971122205801002&returnCnt=1&sectionDiv=1000 (BigKinds, 중앙일보 1997-11-22, '한나라당,21일 공식 출범…후보 이회창 - 총재 조순 - 대표 이한동', accessed 2026-09-27T23:01:16-0400). 중앙일보. Text reads '신한국당과 민주당은 21일 합당전당대회를 열고 양당의 합당을 의결해 통합신당인 한나라당을 출범시켰다'",
+    "https://ko.wikipedia.org/w/index.php?oldid=42554252 (ko.wikipedia '한나라당', resolves to the successor-party article, accessed 2026-09-25T23:08:16-0400). Infobox 창당 1997년 11월 21일"
+   ]
+  }
+ ],
+ "issues": [
+  "Party on dual_office_start differs from the election party in 13 of 52 rows. Eleven are rows of 1990-1992 whose members were elected in 1988 under 민주정의당, 통일민주당 or 신민주공화당 and were 민주자유당 members after the February 1990 merger (강보성, 이희일, 이승윤, 김정수, 정동성, 김윤환 1990-04-18, 김동영, 박철언 1990-12-27, 최각규, 최형우, 김용채). Two are rows of members elected in 1992 under 민자당 whose party was called 신한국당 on the date (나웅배 1995-12-21, 김덕룡 1996-05-09). In build/out/minister_panel_comprehensive.csv all 52 rows carry mp_party_at_appt equal to the election party. The corrections field gives the party on the date for these 13 rows.",
+  "Seat end for 강영훈 (P103dea19-pm-1-g01) is unresolved. The NA API and the NA bill record 011052 give 1988-12-22 (proposal and 원안가결 the same day). 매일경제 and 중앙일보 of 1988-12-20 and 조선일보 of 1988-12-21 report that the Speaker accepted the resignation on 1988-12-20, and 경향신문 of 1988-12-20 says the 19th. If 1988-12-20 is right, dual_office_end moves back two days. No correction is proposed until the NA record is read.",
+  "나웅배 (P6eb0a064-finance-1-g02, dual_office_start 1995-12-21) falls between the 1995-12-06 decision to use the name 신한국당 as a provisional name and its formal adoption at the 전당대회 on 1996-02-06. 한국일보 of 1996-02-07 writes that until then the party had legally remained 민자당. The row is coded 신한국당, the name the party and the press used on the date, with party_confidence medium. If the dataset should follow the legal name, this row keeps 민주자유당 and party_differs_from_election_party becomes false. No other row starts in that window.",
+  "Party changes inside rows, which a single value per row does not show. The 1990 merger falls inside the dual intervals of 한승수 (1988-12-05 to 1990-03-17), 김태호 (1989-07-19 to 1990-03-19) and 박철언 (1989-07-19 to 1990-04-18), who were 민정당 on the start date and 민자당 by the end. The 1995-12-06 renaming falls inside the rows of 김중위, 김용태, 나웅배 (통일원), 이성호 and 김영구 (a name change of the same party). 강경식 (Pda27d5d1-finance-1-g02) left 신한국당 on 1997-08-12 and was an independent for the rest of the row to 1997-11-19. The 1997-11-21 한나라당 merger falls inside 홍사덕's row, but he was an independent throughout.",
+  "Row start dates that the sources place differently (outside this task, reported only). 이종찬 정무1 was appointed on the afternoon of 1988-05-02 according to 경향신문 and 중앙일보 of 1988-05-03, while the row starts 1988-05-03. 김종호 정무1 was appointed on 1992-07-22 according to 조선일보, 한겨레 and 경향신문 of 1992-07-23, while the row starts 1992-07-24, which leaves a gap after 김용채's row end of 1992-07-22. 김덕룡 was named 정무1 on 1996-05-08, one day before the row start, and no 임명장 date was found. The merged 문화체육부 started on 1993-03-06 according to 경향신문 of 1993-03-20 and on 1993-03-05 according to 국민일보 of 1993-03-10. The row uses 1993-03-06.",
+  "Seat checks for the rows with dual_office_share below 1 agree with the NA file except 강영훈. 최명헌 and 이범준 did not run in 1988 (seat to 1988-05-29). 이희일 handed in his resignation on 1990-03-21 and the NA bill record approves it on 1990-03-22, the NA end date (the Wikipedia date 1990-03-21 is the submission date). 최병렬 held no seat until his 14th-term PR seat began on 1992-05-30. 최각규 gave up running in 1992 and was left off the 민자당 PR list. 나웅배 declared in December 1995 that he would not run in 1996. For share 1.0 rows the seat term, district, election type and interval agree with the NA file, and 김용채's 14th-term seat (voided by the Supreme Court on 1992-09-08) covers his row, which ended on 1992-07-22.",
+  "Two misprints in the second-pass sources were resolved against other sources. The 중앙일보 profile of 박철언 of 1989-07-19 says 14대 for his 13th-term PR seat. The 중앙일보 article of 1994-12-24 gives 김중위's district as 강동갑, while the 1992 winners list and the NA file give 강동을.",
+  "The ko.wikipedia infobox of 민주자유당 dates the party's founding to 1990-01-22, following the NEC chronology, which is the announcement date. News place the founding meeting on 1990-02-09 and the legal new-party merger registration on 1990-02-15. The NEC registration date of the name 신한국당 after 1996-02-06 was not found.",
+  "News Library OCR text often uses CJK compatibility ideographs (for example for 金, 盧, 李). All 267 quoted text segments in this file were checked mechanically against the snapshotted responses after NFKC normalization, and all match.",
+  "The snapshot bk_01601001.19970307150517004.json (with its .meta.json) in sources_1988 was fetched with a mistyped ID and is not cited anywhere. It was left in place and not deleted."
+ ]
+}

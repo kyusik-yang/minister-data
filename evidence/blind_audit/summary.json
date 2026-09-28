@@ -1,0 +1,58 @@
+{
+ "scope": "1998-02-25..2026-09-24 sample, seed 8374",
+ "spells": {
+  "items": 72,
+  "fields": 144,
+  "agree": 133,
+  "roster_wrong": 3,
+  "auditor_wrong": 3,
+  "unresolved": 5,
+  "err_rate": 0.020833333333333332,
+  "ci": [
+   0.007109990612497529,
+   0.05945855301798266
+  ]
+ },
+ "nominations": {
+  "items": 24,
+  "fields": 120,
+  "agree": 118,
+  "roster_wrong": 2,
+  "auditor_wrong": 0,
+  "unresolved": 0,
+  "err_rate": 0.016666666666666666,
+  "ci": [
+   0.004582468541151392,
+   0.058737126812913806
+  ]
+ },
+ "dual": {
+  "items": 24,
+  "fields": 96,
+  "agree": 95,
+  "roster_wrong": 0,
+  "auditor_wrong": 0,
+  "unresolved": 0,
+  "err_rate": 0.0,
+  "ci": [
+   0.0,
+   0.03847694748481595
+  ]
+ },
+ "text": "무작위 표본 감사(시드 8374): 재임 72건의 시작·종료일 144개 중 133개가 독립 재수집 값과 정확히 일치했습니다. 데이터 오류로 판정된 것은 3개(모두 하루 차이, 수정 완료)이고, 판정 보류 5개도 모두 하루 차이의 기준 문제입니다. 지명 기록 120개 중 오류 2개, 겸직 판정 96개 중 오류 0개였습니다. 1988-1997 표본(재임 24건)에서는 날짜 48개 중 44개가 일치했고, 오류는 1개(신상우 임명일, 수정)였으며 나머지 3개는 부처 개편일 기준 차이입니다. 이 오류를 계기로 같은 1996년 8·8 개각의 임명일 4건과 전임자 종료일 5건을 부처 공식 역대 장관 페이지로 함께 바로잡았습니다. 겸직 판정 10건은 모두 일치했습니다.",
+ "period_1988_1997": {
+  "spells": {
+   "items": 24,
+   "fields": 48,
+   "agree": 44,
+   "roster_wrong": 1,
+   "convention_diff": 3,
+   "note": "신상우 start 1996-08-08 (legal appointment) corrected. The same 8·8 reshuffle check then corrected 4 more starts and 5 predecessor ends from official ministry pages. The 3 other differences are the reorganization-boundary convention (old ministry name ends the day before the renaming law takes effect)."
+  },
+  "dual": {
+   "items": 10,
+   "status_term_district_agree": "30/30",
+   "party_agree_after_review": "6/6"
+  }
+ }
+}

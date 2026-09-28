@@ -1,0 +1,11 @@
+audit_id,row_id,name,name_hanja,ministry,start,dual_office,assembly_num_at_appt,mp_district,mp_party_at_election
+BE001,P746faf46-labor-1-g02,이인제,李仁濟,노동부,1993-02-26,True,14.0,경기 안양시갑,민주자유당
+BE002,Pc8151046-land-1-g02,고병우,高炳佑,건설부,1993-03-08,False,,,
+BE003,P0daf481c-interior-1-g01,이한동,李漢東,내무부,1988-12-05,True,13.0,경기 연천군포천군,민주정의당
+BE004,Peb2d1154-interior-1-g01,이동호,李同浩,내무부,1992-03-31,False,,,
+BE005,P1fe75e84-special-1-g01,김종호,金宗鎬,정무장관(제1),1992-07-24,True,14.0,충북 괴산군,민주자유당
+BE006,P9dd915ab-justice-1-g02,박희태,朴熺太,법무부,1993-02-26,True,14.0,"경남 남해,하동군",민주자유당
+BE007,Pec804e0e-special-1-g01,김동영,金東英,정무장관(제1),1990-10-13,True,13.0,경남 거창군,통일민주당
+BE008,P7c94cbb8-unification-1-g02,이영덕,李榮德,통일원,1993-12-22,False,,,
+BE009,Pcbe555d5-health-1-g01,김정수,金正秀,보건사회부,1990-03-19,True,13.0,부산 부산진구을,통일민주당
+BE010,P7b6ff996-culture-1-g02,송태호,宋泰鎬,문화체육부,1997-03-06,False,,,

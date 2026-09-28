@@ -1,0 +1,1430 @@
+{
+ "lineage": "foreign",
+ "built_at": "2026-09-25T21:32:09-0400",
+ "ministry_names": [
+  {
+   "ministry": "외무부",
+   "from": "1998-02-25",
+   "to": "1998-02-27",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5153호 제29조 (in force at window start). Abolished by 법률 제5529호 (전부개정, effective 1998-02-28), 외무부를 외교통상부로 개편",
+   "source": "offices.json OF009"
+  },
+  {
+   "ministry": "외교통상부",
+   "from": "1998-02-28",
+   "to": "2013-03-22",
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제5529호 제26조, 제29조 (1998-02-28). Continued by 법률 제8852호 (2008-02-29). Renamed 외교부 by 법률 제11690호 (2013-03-23), 통상교섭 moved to 산업통상자원부",
+   "source": "offices.json OF025"
+  },
+  {
+   "ministry": "외교부",
+   "from": "2013-03-23",
+   "to": null,
+   "in_scope": true,
+   "deputy_pm_title": null,
+   "legal_basis": "정부조직법 법률 제11690호 제26조, 제30조 (2013-03-23). Still listed in 법률 제21065호 (version effective 2026-01-02)",
+   "source": "offices.json OF049"
+  }
+ ],
+ "spells": [
+  {
+   "name": "유종하",
+   "name_hanja": "柳宗夏",
+   "name_en": "Yoo Chong-ha",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yoo Chong-ha 1996.11.07. - 1998.03.03.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1936-07-28",
+   "gender": "M",
+   "ministry": "외무부",
+   "office_title": "외무부장관",
+   "deputy_pm": false,
+   "start": "1996-11-07",
+   "start_confidence": "high",
+   "start_sources": [
+    "BigKinds metadata: 매일경제 19961108 '유 외무 등 임명장/김대통령' news_id 02100101.20160113130650071 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:49:29-0400, snapshot sources/foreign/news/bigkinds_1996-11-06_9ba2be5e8f.json) snippet: \"김영삼 대통령은 7일 오전 청와대에서 신임 유종하 외무장관과\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"26대 장관 유종하(柳宗夏) 1996.11.07. - 1998.03.03.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "1998-02-27",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot sources/foreign/news/naver_001_0004298139.html) quote: \"외무부와 통상산업부는 기능을 재조정해 외교통상부와 산업자원부로 바뀌었다\"",
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot sources/foreign/news/naver_001_0004298139.html) quote: \"재경부 등 기관장이 자동면직되는 7개부에 대해선 현재의 차관이 행정편의상 차관역할을 하도록 지시했으며\"",
+    "BigKinds metadata: 한국일보 19980302 '예산청엔　문패만　‘덜렁’/계속되는　행정공백　표정' news_id 01101101.19980302000000602 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:36:14-0400, snapshot sources/foreign/news/bigkinds_1998-02-28_cacc9202b7.json) snippet: \"조직이　개편된　부처의　장관이　자동　면직됨에　따라\"",
+    "offices.json OF009 (외무부 to 1998-02-27) and OF025 (외교통상부 from 1998-02-28), 정부조직법 법률 제5529호 (law.go.kr 정부조직법 texts listed there)"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "김영삼",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript input starts 2000-06, after this spell.",
+   "notes": "Kim Young-sam-era minister still in office at the window start (caretaker under 김대중 from 1998-02-25, after 법제처 ruled that sitting ministers remain in office until successors are appointed, BigKinds metadata: 한겨레 19980227 '국정 사실상 마비/각 정부부처 표정' news_id 01101001.19980227000000405 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:47:41-0400, snapshot sources/foreign/news/bigkinds_1998-02-25_656ed645cf.json) snippet: \"새 장관 임명 전까지는 현 장관의 임기가 계속된다는 법제처의 유권해석에 따라\"). 정부조직법 법률 제5529호 was promulgated and took effect on 1998-02-28 (afternoon), turning 외무부 into 외교통상부. Contemporaneous reports say the heads of the seven new or reorganized ministries, 외교통상부 among them, were automatically dismissed (자동면직) and that the vice ministers were told to keep the offices running. He was therefore not carried over into 외교통상부, and no appointment of him to 외교통상부 was found. The 외교부 역대 장관 page and ko.wikipedia list him until 1998-03-03 without that break. He was de jure 외무부장관 for part of 1998-02-28 until the act took effect. The date convention of offices.json puts 외무부's last day on 1998-02-27. Birth date from ko.wikipedia only (ko.wikipedia '유종하' https://ko.wikipedia.org/w/index.php?oldid=41473390 (revid 41473390, accessed 2026-09-25T13:16:32-0400, snapshot sources/foreign/wiki/kowiki_유종하.json))."
+  },
+  {
+   "name": "박정수",
+   "name_hanja": "朴定洙",
+   "name_en": "Park Chung-soo",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Park Chung-soo 1998.03.03. - 1998.08.04.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1932-02-09",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "1998-03-03",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1998-03-03 15:43 '金대통령 초대내각 임명장 수여 안팎' https://n.news.naver.com/mnews/article/001/0004368749 (accessed 2026-09-24T22:44:23-0400, snapshot sources/foreign/news/naver_001_0004368749.html) quote: \"오후 청와대 본관 세종실에서 신임 각료들에게 임명장을 수여했다\"",
+    "연합뉴스 1998-03-03 15:59 '<연합인터뷰> 朴定洙외교통상장관' https://n.news.naver.com/mnews/article/001/0004372330 (accessed 2026-09-24T22:50:25-0400, snapshot sources/foreign/news/naver_001_0004372330.html) quote: \"朴定洙신임외교통상장관은 3일\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"27대 장관 박정수(朴定洙) 1998.03.03. - 1998.08.04.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "1998-08-04",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 1998-08-04 13:38 '金대통령 외통장관 경질...새 장관에 洪淳瑛씨-1' https://n.news.naver.com/mnews/article/001/0004325861 (accessed 2026-09-24T22:51:21-0400, snapshot sources/foreign/news/naver_001_0004325861.html) quote: \"朴定洙외교통상부장관의 사표를 수리하고 새 장관에 洪淳瑛본부대사를 임명했다\"",
+    "BigKinds metadata: 부산일보 19980805 '외통장관에 홍순영씨 임명' news_id 01500701.20160410012333282 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:33-0400, snapshot sources/foreign/news/bigkinds_1998-08-03_42587fb1ea.json) snippet: \"박정수 외교통상부장관이 제출한 사표를 수리하고\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"27대 장관 박정수(朴定洙) 1998.03.03. - 1998.08.04.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 15th NA member (새정치국민회의, 전국구 비례대표 5번, seat 1996-05-30..2000-05-29, mona_cd LQW1875Y)",
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript input starts 2000-06, after this spell.",
+   "notes": "First 김대중 cabinet, announced on the morning of 1998-03-03 and given 임명장 that afternoon while 김종필 was 국무총리서리 (the ministers were formally recommended by outgoing PM 고건). Left on 1998-08-04 when his resignation, offered on 08-03 over the Korea-Russia diplomatic dispute, was accepted (a forced resignation, reported as 경질). Kept his Assembly seat while minister. Birth date from na_members/na_members_15_22.csv."
+  },
+  {
+   "name": "홍순영",
+   "name_hanja": "洪淳瑛",
+   "name_en": "Hong Soon-young",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Hong Soon-young 1998.08.04. - 2000.01.14.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1937-01-30",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "1998-08-04",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 1998-08-04 13:38 '金대통령 외통장관 경질...새 장관에 洪淳瑛씨-1' https://n.news.naver.com/mnews/article/001/0004325861 (accessed 2026-09-24T22:51:21-0400, snapshot sources/foreign/news/naver_001_0004325861.html) quote: \"金대통령은 이날 오후 4시30분 洪장관에게 임명장을 수여한다\"",
+    "연합뉴스 1998-08-05 16:29 '洪淳瑛장관 외통부 기강잡기' https://n.news.naver.com/mnews/article/001/0004334616 (accessed 2026-09-24T22:51:13-0400, snapshot sources/foreign/news/naver_001_0004334616.html) quote: \"洪淳瑛외교통상장관이 4일 오후 취임식을 갖자마자\"",
+    "BigKinds metadata: 부산일보 19980805 '외통장관에 홍순영씨 임명' news_id 01500701.20160410012333282 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:33-0400, snapshot sources/foreign/news/bigkinds_1998-08-03_42587fb1ea.json) snippet: \"홍순영 본부대사를 신임장관으로 임명했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"28대 장관 홍순영(洪淳瑛) 1998.08.04. - 2000.01.14.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2000-01-14",
+   "end_confidence": "medium",
+   "end_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"28대 장관 홍순영(洪淳瑛) 1998.08.04. - 2000.01.14.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)",
+    "BigKinds metadata: 동아일보 20000113 '[박태준내각 출범]金대통령 7개부처 장관 경질' news_id 01100401.20000113015630070 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"외교통상부장관에 이정빈(李廷彬)국제교류재단이사장을 임명하는\"",
+    "BigKinds metadata: 충청투데이 20000115 '中國에 탈북자 송환 항의' news_id 01400701.20000115155512001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"김대중（金大中） 대통령은 14일 오전 신임 각료들에게 임명장을 수여하는 자리에서\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Transcript input starts 2000-06, after this spell.",
+   "notes": "Replaced in the 2000-01-13 reshuffle (박태준 cabinet). The successor was announced on 01-13 and received the 임명장 on the morning of 01-14. End set to 01-14 as on the 외교부 page (same-day handover). Birth date from ko.wikipedia only (ko.wikipedia '홍순영 (외교관)' https://ko.wikipedia.org/w/index.php?oldid=40647208 (revid 40647208, accessed 2026-09-25T13:16:33-0400, snapshot sources/foreign/wiki/kowiki_홍순영_외교관_.json))."
+  },
+  {
+   "name": "이정빈",
+   "name_hanja": "李廷彬",
+   "name_en": "Lee Joung-binn",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Lee Joung-binn 2000.01.14. - 2001.03.26.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1937-12-16",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2000-01-14",
+   "start_confidence": "medium",
+   "start_sources": [
+    "BigKinds metadata: 충청투데이 20000115 '中國에 탈북자 송환 항의' news_id 01400701.20000115155512001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"14일 오전 신임 각료들에게 임명장을 수여하는 자리에서\"",
+    "BigKinds metadata: 동아일보 20000113 '[박태준내각 출범]金대통령 7개부처 장관 경질' news_id 01100401.20000113015630070 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"김대중(金大中)대통령은 13일 재정경제부장관에 이헌재(李憲宰)금융감독위원장, 외교통상부장관에 이정빈(李廷彬)국제교류재단이사장을 임명하는\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"29대 장관 이정빈(李廷彬) 2000.01.14. - 2001.03.26.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2001-03-26",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2001-03-26 16:27 '<이정빈 전장관 `이임일성'>(종합)' https://n.news.naver.com/mnews/article/001/0000062197 (accessed 2026-09-25T13:37:44-0400, snapshot sources/foreign/news/naver_001_0000062197.html) quote: \"이정빈(李廷彬) 전 외교장관은 26일\"",
+    "관보 제14764호 (2001-03-30) 인사: \"◉2001년 3 월26일자\" | harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"29대 장관 이정빈(李廷彬) 2000.01.14. - 2001.03.26.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "13 valid meetings as minister (외교통상부), first 2000-06-21, last 2001-03-13. One further valid row labelled 통상외교부 (2000-11-30, a speaker-label typo) also falls inside the spell.",
+   "notes": "No digital gazette exists for 2000. News of 2000-01-13 reports the appointment as made on 01-13 (announcement of the 1.13 개각), while the 임명장 was given on 01-14. Start follows the 임명장 date and the 외교부 page, hence medium confidence. Missing from the old panel (audit coverage_gaps.csv). Birth date from ko.wikipedia only (ko.wikipedia '이정빈 (1937년)' https://ko.wikipedia.org/w/index.php?oldid=42048551 (revid 42048551, accessed 2026-09-25T13:16:34-0400, snapshot sources/foreign/wiki/kowiki_이정빈_1937년_.json))."
+  },
+  {
+   "name": "한승수",
+   "name_hanja": "韓昇洙",
+   "name_en": "Han Seung-soo",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Han Seung-soo 2001.03.26. - 2002.02.04.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1936-12-28",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2001-03-26",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제14764호 (2001-03-30) 인사: \"한 승 수(韓 昇 洙) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)",
+    "연합뉴스 2001-03-26 14:20 '<연합인터뷰> 한승수 외교통상부장관' https://n.news.naver.com/mnews/article/001/0000062127 (accessed 2026-09-25T13:04:00-0400, snapshot sources/foreign/news/naver_001_0000062127.html) quote: \"한승수(韓昇洙) 신임 외교통상부장관은 26일\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"30대 장관 한승수(韓昇洙) 2001.03.26. - 2002.02.04.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2002-02-04",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2002-02-04 15:40 '외교장관 차관급 15명 교체(종합)' https://n.news.naver.com/mnews/article/001/0000129677 (accessed 2026-09-24T22:52:36-0400, snapshot sources/foreign/news/naver_001_0000129677.html) quote: \"김대중(金大中) 대통령은 4일 한승수(韓昇洙) 외교통상부 장관을 전격 경질하고 새 장관에 최성홍(崔成泓) 외교차관을 임명했다\"",
+    "관보 제15024호 (2002-02-09) 인사: \"◉2002년 2 월 4 일자 외교통상부차관 최 성 홍(崔 成 泓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20020209_15024_00000000000000001319020197866000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020182391000&tocId=00000000000000001319020197866000&isTocOrder=N (accessed 2026-09-24T22:44:21-0400)",
+    "BigKinds metadata: 무등일보 20020205 '새 외교장관 최성홍씨' news_id 01600501.20020205180419002 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:49:42-0400, snapshot sources/foreign/news/bigkinds_2002-02-04_75d31e70f8.json) snippet: \"김대중 대통령은 4일 한승수 외교통상부 장관을 전격 경질하고 후임 새 장관에 최성홍 외교차관을 임명했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"30대 장관 한승수(韓昇洙) 2001.03.26. - 2002.02.04.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 16th NA member (민주국민당, 강원 춘천시, seat 2000-05-30..2004-05-29, mona_cd AML4805R)",
+   "transcript_check": "ok",
+   "transcript_notes": "7 valid meetings as minister (외교통상부), first 2001-04-06, last 2001-11-07",
+   "notes": "Kept on in the 2002-01-29 reshuffle and then replaced on 2002-02-04 (reported as 경질). Later 국무총리 (2008-02-29), a separate lineage. Birth date from na_members/na_members_15_22.csv."
+  },
+  {
+   "name": "최성홍",
+   "name_hanja": "崔成泓",
+   "name_en": "Choi Sung-hong",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Choi Sung-hong 2002.02.04. - 2003.02.27.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1938-12-24",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2002-02-04",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15024호 (2002-02-09) 인사: \"◉2002년 2 월 4 일자 외교통상부차관 최 성 홍(崔 成 泓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20020209_15024_00000000000000001319020197866000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020182391000&tocId=00000000000000001319020197866000&isTocOrder=N (accessed 2026-09-24T22:44:21-0400)",
+    "연합뉴스 2002-02-04 15:40 '외교장관 차관급 15명 교체(종합)' https://n.news.naver.com/mnews/article/001/0000129677 (accessed 2026-09-24T22:52:36-0400, snapshot sources/foreign/news/naver_001_0000129677.html) quote: \"새 장관에 최성홍(崔成泓) 외교차관을 임명했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"31대 장관 최성홍(崔成泓) 2002.02.04. - 2003.02.27.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2003-02-27",
+   "end_confidence": "inferred_from_successor",
+   "end_sources": [
+    "관보 제15338호 (2003-03-05) 인사: \"◉2003년 2 월27일자\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+    "관보 제15338호 (2003-03-05) 인사: \"윤 영 관(尹 永 寬) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+    "BigKinds metadata: 국민일보 20030225 '16대 盧대통령 취임 축하 어제 국제 친선의 밤 행사' news_id 01100201.20030225000002202 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:48:50-0400, snapshot sources/foreign/news/bigkinds_2003-02-25_cce9f7bb34.json) snippet: \"최성홍 외교통상부 장관\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"31대 장관 최성홍(崔成泓) 2002.02.04. - 2003.02.27.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "김대중",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "9 valid meetings as minister (외교통상부), first 2002-02-08, last 2002-12-27",
+   "notes": "Promoted from 외교통상부차관. Still reported as 외교통상부 장관 at an event on 2003-02-24. Stayed into the 노무현 term (from 2003-02-25) until the first 노무현 cabinet was appointed on 2003-02-27. ko.wikipedia gives 2002-02-05 as the start, against the gazette's 2002-02-04. Missing from the old panel. Birth date from ko.wikipedia only (ko.wikipedia '최성홍' https://ko.wikipedia.org/w/index.php?oldid=40489144 (revid 40489144, accessed 2026-09-25T13:16:35-0400, snapshot sources/foreign/wiki/kowiki_최성홍.json))."
+  },
+  {
+   "name": "윤영관",
+   "name_hanja": "尹永寬",
+   "name_en": "Yoon Young-kwan",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yoon Young-kwan 2003.02.27. - 2004.01.17.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1951-01-12",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2003-02-27",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15338호 (2003-03-05) 인사: \"윤 영 관(尹 永 寬) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+    "동아일보 2003-02-28 18:56 '윤영관 외교통상부장관, 빠른시일內 訪日' https://n.news.naver.com/mnews/article/020/0000178525 (accessed 2026-09-25T13:05:16-0400, snapshot sources/foreign/news/naver_020_0000178525.html) quote: \"윤영관(尹永寬) 외교통상부장관이\"",
+    "문화일보 2003-02-28 12:18 '<참여정부 첫 내각>윤영관외교 \"외교관들 입조심해야\"' https://n.news.naver.com/mnews/article/021/0000021509 (accessed 2026-09-25T13:05:39-0400, snapshot sources/foreign/news/naver_021_0000021509.html) quote: \"27일 취임식에서\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"32대 장관 윤영관(尹永寬) 2003.02.27. - 2004.01.17.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2004-01-15",
+   "end_confidence": "high",
+   "end_sources": [
+    "YTN 2004-01-15 12:03 '윤영관 장관 사표 수리' https://n.news.naver.com/mnews/article/052/0000024162 (accessed 2026-09-24T22:53:07-0400, snapshot sources/foreign/news/naver_052_0000024162.html) quote: \"노무현 대통령은 오늘 윤영관 외교통상부 장관의 사표를 수리했습니다\"",
+    "경향신문 2004-01-15 16:18 '윤영관 외교장관의 ‘뼈있는 이임사’' https://n.news.naver.com/mnews/article/032/0000049225 (accessed 2026-09-24T22:53:03-0400, snapshot sources/foreign/news/naver_032_0000049225.html) quote: \"윤영관 외교부장관은 15일 사표가 수리된 뒤 외교부 청사 리셉션홀에서 이임식을 갖고\"",
+    "국민일보 2004-01-15 18:12 '윤영관외교 전격 경질' https://n.news.naver.com/mnews/article/005/0000145493 (accessed 2026-09-24T22:53:13-0400, snapshot sources/foreign/news/naver_005_0000145493.html) quote: \"노무현 대통령은 15일 외교통상부 일부 직원들의 부적절한 언행 및 정보유출 사태에 책임을 지고 사의를 표명한 윤영관 외교부장관의 사표를 전격 수리했다\""
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "17 valid meetings as minister (외교통상부), first 2003-03-12, last 2003-12-26",
+   "notes": "Resignation submitted and accepted on 2004-01-15 (effectively a dismissal, 경질, over remarks by ministry officials). The 외교부 page gives 2004-01-17, the successor's date, as his last day. Birth date from ko.wikipedia only (ko.wikipedia '윤영관' https://ko.wikipedia.org/w/index.php?oldid=41780092 (revid 41780092, accessed 2026-09-25T13:16:35-0400, snapshot sources/foreign/wiki/kowiki_윤영관.json))."
+  },
+  {
+   "name": "반기문",
+   "name_hanja": "潘基文",
+   "name_en": "Ban Ki-moon",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Ban Ki-moon 2004.01.17. - 2006.11.10.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1944-06-13",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2004-01-17",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제15602호 (2004-01-24) 인사: \"⊙2004년 1 월17일자 반 기 문(潘 基 文) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20040124_15602_00000000000000001319029879613000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029870041000&tocId=00000000000000001319029879613000&isTocOrder=N (accessed 2026-09-24T22:47:19-0400)",
+    "SBS 2004-01-17 21:12 '노대통령 \"한미관계 중요성 변함 없다\"' https://n.news.naver.com/mnews/article/055/0000015625 (accessed 2026-09-24T22:53:28-0400, snapshot sources/foreign/news/naver_055_0000015625.html) quote: \"노무현 대통령은 반기문 신임 외교통상부 장관에게 임명장을 수여하는 자리에서\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"33대 장관 반기문(潘基文) 2004.01.17. - 2006.11.10.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2006-11-10",
+   "end_confidence": "high",
+   "end_sources": [
+    "헤럴드경제 2006-11-10 14:53 '`아듀! 반기문`이젠 세계평화 위해 뛴다' https://n.news.naver.com/mnews/article/016/0000225198 (accessed 2026-09-24T22:54:42-0400, snapshot sources/foreign/news/naver_016_0000225198.html) quote: \"이에 앞서 청와대는 이날 유엔 사무총장직 준비작업을 위해 오는 15일 유엔본부로 출국하는 반 장관의 사표를 수리했다\"",
+    "머니투데이 2006-11-09 15:54 '반기문 외교장관 사표 내일 수리' https://n.news.naver.com/mnews/article/008/0000719231 (accessed 2026-09-24T22:54:30-0400, snapshot sources/foreign/news/naver_008_0000719231.html) quote: \"반기문 외교통상부 장관의 사표가 내일(10일) 수리될 예정이다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"33대 장관 반기문(潘基文) 2004.01.17. - 2006.11.10.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "31 valid meetings as minister (외교통상부), first 2004-02-05, last 2006-10-04. ignored 1 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2002-01-08 국회본회의. 유명환 appears as 장관 직무대리 in two 국정감사 meetings (2006-10-27, 2006-11-01) while 반기문 was still minister, see acting.",
+   "notes": "Announced on 2004-01-16. Most papers of 01-16 and 01-17 report that he was appointed (임명) on 01-16, but the 임명장 was given on 01-17 (Powell's congratulatory call came on the night of 01-16) and the gazette dates the appointment 2004-01-17. Resigned on 2006-11-10 to take up the post of UN Secretary-General. Birth date from ko.wikipedia only (ko.wikipedia '반기문' https://ko.wikipedia.org/w/index.php?oldid=42147594 (revid 42147594, accessed 2026-09-25T13:16:36-0400, snapshot sources/foreign/wiki/kowiki_반기문.json))."
+  },
+  {
+   "name": "송민순",
+   "name_hanja": "宋旻淳",
+   "name_en": "Song Min-soon",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Song Min-soon 2006.12.01. - 2008.02.29.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1948-07-28",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2006-12-01",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16395호 (2006-12-07) 인사: \"⊙2006년12월 1 일자 송 민 순(宋 旻 淳) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20061207_16395_00000000000000001319075128027000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319075109197000&tocId=00000000000000001319075128027000&isTocOrder=N (accessed 2026-09-24T22:52:29-0400)",
+    "경향신문 2006-12-01 18:45 '盧대통령, 송민순 외교장관 임명' https://n.news.naver.com/mnews/article/032/0000201896 (accessed 2026-09-25T13:08:53-0400, snapshot sources/foreign/news/naver_032_0000201896.html) quote: \"노무현 대통령은 1일 송민순 외교통상부 장관에게 임명장을 수여했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"34대 장관 송민순(宋旻淳) 2006.12.01. - 2008.02.29.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2008-02-29",
+   "end_confidence": "high",
+   "end_sources": [
+    "뉴시스 2008-02-29 15:53 '송민순 외교통상부 장관 이임식' https://n.news.naver.com/mnews/article/003/0001983356 (accessed 2026-09-25T13:09:43-0400, snapshot sources/foreign/news/naver_003_0001983356.html) quote: \"송민순 외교통상부 장관이 29일 오후 도렴동 정부중앙청사 별관 강당에서 열린 외교부 장관 이임식에서 이임사를 하고 있다\"",
+    "관보 제16703호 (2008-03-06) 인사: \"유 명 환(柳 明 桓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"34대 장관 송민순(宋旻淳) 2006.12.01. - 2008.02.29.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "노무현",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting member. Later 18th NA member (통합민주당, 비례대표 4번, seat 2008-05-30..2012-05-29, mona_cd A1M4510O)",
+   "transcript_check": "ok",
+   "transcript_notes": "16 valid meetings as minister (외교통상부), first 2006-12-15, last 2008-02-13. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2003-10-27 예산결산특별위원회, 2003-11-25 예산결산특별위원회",
+   "notes": "Appointed without an adopted 인사청문경과보고서. Stayed into the 이명박 term (from 2008-02-25) until the successor was appointed on 2008-02-29, the day 정부조직법 법률 제8852호 took effect (외교통상부 kept its name, so no split). The old panel's start (2006-11-17) is wrong. Birth date from na_members/na_members_15_22.csv."
+  },
+  {
+   "name": "유명환",
+   "name_hanja": "柳明桓",
+   "name_en": "Yu Myung-hwan",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yu Myung-hwan 2008.02.29. - 2010.09.08.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1946-04-08",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2008-02-29",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제16703호 (2008-03-06) 인사: \"⊙2008년 2월 29일자 한 승 수(韓 昇 洙) 국무총리에 임함\" | harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)",
+    "관보 제16703호 (2008-03-06) 인사: \"유 명 환(柳 明 桓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)",
+    "연합뉴스 2008-02-29 17:32 '임명장받는 유명환 외교통상부 장관' https://n.news.naver.com/mnews/article/001/0001981806 (accessed 2026-09-25T13:11:21-0400, snapshot sources/foreign/news/naver_001_0001981806.html) quote: \"이명박 대통령이 29일 청와대에서 유명환 외교통상부 장관에게 임명장을 수여하고 있다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"35대 장관 유명환(柳明桓) 2008.02.29. - 2010.09.08.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2010-09-08",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2010-09-09 14:49 '외교부, 임재홍 기획조정실장 보직대기(종합2보)' https://n.news.naver.com/mnews/article/001/0004648700 (accessed 2026-09-24T22:55:06-0400, snapshot sources/foreign/news/naver_001_0004648700.html) quote: \"이명박 대통령은 지난 8일 유 전 장관의 사표를 정식으로 수리한 것으로 알려졌다\"",
+    "한겨레 2010-09-09 19:25 '임재홍 외교부 기조실장 ‘보직 대기’' https://n.news.naver.com/mnews/article/028/0002059875 (accessed 2026-09-24T22:55:13-0400, snapshot sources/foreign/news/naver_028_0002059875.html) quote: \"이명박 대통령은 지난 8일 유 전 장관의 사표를 정식으로 수리한 것으로 알려졌다\"",
+    "연합뉴스 2010-09-06 10:58 '<유명환 \"후회스럽다.공직자 덕목 중요\">(종합)' https://n.news.naver.com/mnews/article/001/0004641446 (accessed 2026-09-24T22:55:54-0400, snapshot sources/foreign/news/naver_001_0004641446.html) quote: \"유 장관은 아직 정식으로 사표가 수리되지 않았으나 이번 실.국장 회의 참석을 계기로 사실상 이임한 것으로 간주되고 있다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"35대 장관 유명환(柳明桓) 2008.02.29. - 2010.09.08.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "resigned",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "33 valid meetings as minister (외교통상부), first 2008-04-29, last 2010-06-22. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2002-09-12 예산결산특별위원회, 2003-12-19 예산결산특별위원회",
+   "notes": "Nominated by 대통령당선인 이명박 (hearing request 2008-02-19). Offered his resignation over the special hiring of his daughter and gave a de facto farewell on 2010-09-06. The resignation was formally accepted on 2010-09-08. The old panel's end (2010-09-17) is wrong. Birth date from ko.wikipedia only (ko.wikipedia '유명환' https://ko.wikipedia.org/w/index.php?oldid=41200595 (revid 41200595, accessed 2026-09-25T13:16:37-0400, snapshot sources/foreign/wiki/kowiki_유명환.json)). Verifier note. The committee minutes of 2010-09-07 (외교통상통일위원회, meeting_id 39757, hearing type 상임위원회) already label 신각수 as 외교통상부장관직무대행, one day before the resignation was formally accepted on 2010-09-08. This fits the de facto hand-over from 2010-09-06 and does not move the end date."
+  },
+  {
+   "name": "김성환",
+   "name_hanja": "金星煥",
+   "name_en": "Kim Sung-Hwan",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Kim Sung-Hwan 2010.10.08. - 2013.03.11.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1953-04-13",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2010-10-08",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17361호 (2010-10-14) 인사: \"김 성 환(金 星 煥) 국무위원에 임함 외교통상부장관에 보함 2010.10.8\" | harvest/gazette_text/20101014_17361_00000000000000001319096055879000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319096038170000&tocId=00000000000000001319096055879000&isTocOrder=N (accessed 2026-09-25T06:54:56-0400)",
+    "연합뉴스 2010-10-08 16:41 '李대통령 \"외교부 변화, 장관이 주도해달라\"(종합)' https://n.news.naver.com/mnews/article/001/0004696127 (accessed 2026-09-25T13:13:23-0400, snapshot sources/foreign/news/naver_001_0004696127.html) quote: \"이 대통령은 이날 오후 청와대에서 김성환 외교통상부 장관에게 임명장을 수여한 뒤\"",
+    "세계일보 2010-10-08 19:30 '김성환 외교장관 임명' https://n.news.naver.com/mnews/article/022/0002190662 (accessed 2026-09-25T13:12:24-0400, snapshot sources/foreign/news/naver_022_0002190662.html) quote: \"이명박 대통령은 8일 김성환 신임 외교통상부 장관에게 임명장을 수여했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"36대 장관 김성환(金星煥) 2010.10.08. - 2013.03.11.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2013-03-11",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2013-03-11 11:20 '김성환 \"통상 이관에도 경제외교 위축 안돼\"' https://n.news.naver.com/mnews/article/001/0006138426 (accessed 2026-09-25T13:13:36-0400, snapshot sources/foreign/news/naver_001_0006138426.html) quote: \"김성환 외교통상부 장관이 11일 오전 서울 세종로 정부서울청사에서 열린 이임식에서 직원들과 기념촬영을 하고 있다\"",
+    "뉴스1 2013-03-11 16:08 '김성환 외교, 통상 이관 아쉬움 속 퇴임' https://n.news.naver.com/mnews/article/421/0000201275 (accessed 2026-09-25T13:13:47-0400, snapshot sources/foreign/news/naver_421_0000201275.html) quote: \"김성환 외교통상부 장관은 11일 외교통상부의 통상 기능 이관에 대한 아쉬움을 표시하면서 장관직에서 물러났다\"",
+    "관보 제17971호 (2013-03-14) 인사: \"윤병세(尹炳世) 국무위원에 임함 외교통상부장관에 보함 2013. 3. 11.\" | harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"36대 장관 김성환(金星煥) 2010.10.08. - 2013.03.11.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "이명박",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "48 valid meetings as minister (외교통상부), first 2010-10-21, last 2013-02-04. 박석환 appears as 장관 직무대리 in one committee meeting (2012-02-06) during this spell, a stand-in, not a vacancy.",
+   "notes": "Not the same person as 김성환 (金星煥, born 1965), member of the 20th-22nd National Assembly (mona_cd XSP20229), who shares the name and hanja. Stayed into the 박근혜 term (from 2013-02-25) until 2013-03-11. Birth date from ko.wikipedia only (ko.wikipedia '김성환 (1953년)' https://ko.wikipedia.org/w/index.php?oldid=40493512 (revid 40493512, accessed 2026-09-25T13:16:38-0400, snapshot sources/foreign/wiki/kowiki_김성환_1953년_.json))."
+  },
+  {
+   "name": "윤병세",
+   "name_hanja": "尹炳世",
+   "name_en": "Yun Byung-se",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yun Byung-se 2013.03.11. - 2017.06.18.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1953-08-03",
+   "gender": "M",
+   "ministry": "외교통상부",
+   "office_title": "외교통상부장관",
+   "deputy_pm": false,
+   "start": "2013-03-11",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17971호 (2013-03-14) 인사: \"윤병세(尹炳世) 국무위원에 임함 외교통상부장관에 보함 2013. 3. 11.\" | harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)",
+    "뉴스1 2013-03-11 16:32 '박 대통령, 윤병세 외교통상부 장관 임명장 수여' https://n.news.naver.com/mnews/article/421/0000201385 (accessed 2026-09-25T13:15:40-0400, snapshot sources/foreign/news/naver_421_0000201385.html) quote: \"박근혜 대통령이 11일 오전 청와대에서 윤병세 신임 외교통상부 장관에게 임명장을 수여하고 있다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"37대 장관 윤병세(尹炳世) 2013.03.11. - 2017.06.18.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2013-03-22",
+   "end_confidence": "high",
+   "end_sources": [
+    "offices.json OF025 (외교통상부 to 2013-03-22) and OF049 (외교부 from 2013-03-23), 정부조직법 법률 제11690호 (law.go.kr 정부조직법 texts listed there)",
+    "관보 제17983호 (2013-03-28) 인사: \"윤병세(尹炳世) 국무위원에 임함 외교부장관에 보함 2013. 3. 23.\" | harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)"
+   ],
+   "end_reason": "ministry_reorganized",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "2 valid meetings as minister (외교통상부), first 2013-03-19, last 2013-03-22. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2012-01-19 국회본회의, 2012-10-04 국회본회의",
+   "notes": "Appointed as 외교통상부장관 because the 정부조직법 amendment had not yet passed. Nominated by 대통령당선인 박근혜 for the planned 외교부 (hearing request titled 외교통상부장관, 2013-02-15). Birth date from ko.wikipedia only (ko.wikipedia '윤병세' https://ko.wikipedia.org/w/index.php?oldid=42323718 (revid 42323718, accessed 2026-09-25T13:16:38-0400, snapshot sources/foreign/wiki/kowiki_윤병세.json))."
+  },
+  {
+   "name": "윤병세",
+   "name_hanja": "尹炳世",
+   "name_en": "Yun Byung-se",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Yun Byung-se 2013.03.11. - 2017.06.18.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1953-08-03",
+   "gender": "M",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2013-03-23",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제17983호 (2013-03-28) 인사: \"윤병세(尹炳世) 국무위원에 임함 외교부장관에 보함 2013. 3. 23.\" | harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)",
+    "연합뉴스TV 2013-03-23 13:02 '[전화연결] 박 대통령, 새정부 구성 마무리 작업' https://n.news.naver.com/mnews/article/422/0000006987 (accessed 2026-09-25T13:49:16-0400, snapshot sources/foreign/news/naver_422_0000006987.html) quote: \"기존 부처 명칭으로 임명된 장관은 새 정부 조직에 따라 다시 임명되고\"",
+    "offices.json OF049 (외교부 established 2013-03-23 by 정부조직법 법률 제11690호) (law.go.kr 정부조직법 texts listed there)"
+   ],
+   "end": "2017-06-18",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2017-06-19 10:21 '이임식 마친 윤병세' https://n.news.naver.com/mnews/article/001/0009346078 (accessed 2026-09-25T13:16:33-0400, snapshot sources/foreign/news/naver_001_0009346078.html) quote: \"4년여간 외교부를 이끌던 윤병세 전 외교부장관이 19일 오전 서울 종로구 외교부 청사에서 열린 이임식이 끝난 뒤 외교부 청사를 나서고 있다\"",
+    "연합뉴스 2017-06-18 14:56 '文대통령, 강경화 외교장관 임명' https://n.news.naver.com/mnews/article/001/0009344649 (accessed 2026-09-25T13:30:48-0400, snapshot sources/foreign/news/naver_001_0009344649.html) quote: \"문재인 대통령은 18일 오후 2시 강경화 외교부 장관 후보자에게 임명장을 수여했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"37대 장관 윤병세(尹炳世) 2013.03.11. - 2017.06.18.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "박근혜",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": true,
+   "reappointed_on_reorg": true,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "57 valid meetings as minister (외교부), first 2013-04-10, last 2017-04-13. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2012-01-19 국회본회의, 2012-10-04 국회본회의. The old panel ends this spell on 2017-03-10. Valid transcript rows on 2017-03-29 and 2017-04-13 and the 2017-06-19 이임식 show he stayed in office until 2017-06-18.",
+   "notes": "A new appointment notice for the renamed office was printed (관보 제17983호, 외교부장관에 보함 2013. 3. 23.). Served through the 박근혜 impeachment and removal (2016-12-09 to 2017-03-10), the 황교안 acting presidency and into the 문재인 term (from 2017-05-10) until his successor was appointed on 2017-06-18 (called 전 장관 at his 06-19 이임식). Birth date from ko.wikipedia only (ko.wikipedia '윤병세' https://ko.wikipedia.org/w/index.php?oldid=42323718 (revid 42323718, accessed 2026-09-25T13:16:38-0400, snapshot sources/foreign/wiki/kowiki_윤병세.json))."
+  },
+  {
+   "name": "강경화",
+   "name_hanja": "康京和",
+   "name_en": "Kang Kyung-wha",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Kang Kyung-wha 2017.06.18. - 2021.02.08.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1955-04-07",
+   "gender": "F",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2017-06-18",
+   "start_confidence": "high",
+   "start_sources": [
+    "연합뉴스 2017-06-18 14:56 '文대통령, 강경화 외교장관 임명' https://n.news.naver.com/mnews/article/001/0009344649 (accessed 2026-09-25T13:30:48-0400, snapshot sources/foreign/news/naver_001_0009344649.html) quote: \"문재인 대통령은 18일 오후 2시 강경화 외교부 장관 후보자에게 임명장을 수여했다\"",
+    "뉴시스 2017-06-19 09:13 '강경화, 전현직 유엔 사무총장 통화…\"유엔과 협력 강화\"' https://n.news.naver.com/mnews/article/003/0008018707 (accessed 2026-09-25T13:17:12-0400, snapshot sources/foreign/news/naver_003_0008018707.html) quote: \"강경화 외교부장관이 휴일인 18일 오후 청와대에서 임명장을 받은 후\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"38대 장관 강경화 (康京和) 2017.06.18. - 2021.02.08.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)",
+    "관보 제19034호 (2017-06-21): \"국무위원 강 경 화 외교부장관 (countersignature of 조약 제2356호, a tier-1 bound, not the appointment notice)\" | https://gwanbo.go.kr/user/common/ofcttDownload.do {'downType': '1', 'ofctt_seq_no': '00000000000000001497860722747000'} (accessed 2026-09-25T13:00:01-0400, snapshot sources/foreign/gazette/gazette_issue_19034_20170621.pdf)"
+   ],
+   "end": "2021-02-08",
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2021-02-08 16:00 '강경화 \"정의용, 남북관계 결정적 시기에 외교부 이끌 최적임자\"(종합)' https://n.news.naver.com/mnews/article/001/0012191896 (accessed 2026-09-25T13:18:37-0400, snapshot sources/foreign/news/naver_001_0012191896.html) quote: \"문재인 정부 출범부터 3년 반 넘게 외교부를 이끌어온 강경화 장관이 8일 오후 외교부청사를 떠나며 손을 흔들고 있다\"",
+    "관보 제19943호 (2021-02-19): \"정의용(鄭義溶) 국무위원에 임함 외교부장관에 보함 2021. 2. 9.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': '00000000000000001613606350473000'} (accessed 2026-09-24T22:59:59-0400, snapshot sources/foreign/gazette/gazette_19943_20210219_50473000.pdf)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"38대 장관 강경화 (康京和) 2017.06.18. - 2021.02.08.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "51 valid meetings as minister (외교부), first 2017-07-10, last 2020-12-02. ignored 6 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2011-09-08 예산결산특별위원회, 2011-09-16 예산결산특별위원회, 2012-12-03 예산결산특별위원회, 2014-02-27 국회본회의, 2014-06-23 국정조사, 2014-06-24 국회본회의",
+   "notes": "Appointed without an adopted 인사청문경과보고서 after the President's request to re-send it by 2017-06-17 went unanswered. No appointment notice was found in the gazette. The 인사 index for 2017-06-16..07-10 has two items without her, and full issues published 2017-06-19..2017-07-31 contain no notice, only her countersignatures as 외교부장관 from 2017-06-21. Birth date from ko.wikipedia only (ko.wikipedia '강경화' https://ko.wikipedia.org/w/index.php?oldid=42077800 (revid 42077800, accessed 2026-09-25T13:16:39-0400, snapshot sources/foreign/wiki/kowiki_강경화.json))."
+  },
+  {
+   "name": "정의용",
+   "name_hanja": "鄭義溶",
+   "name_en": "Chung Eui-yong",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Chung Eui-yong 2021.02.09. - 2022.05.11.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1946-04-14",
+   "gender": "M",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2021-02-09",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제19943호 (2021-02-19): \"정의용(鄭義溶) 국무위원에 임함 외교부장관에 보함 2021. 2. 9.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': '00000000000000001613606350473000'} (accessed 2026-09-24T22:59:59-0400, snapshot sources/foreign/gazette/gazette_19943_20210219_50473000.pdf)",
+    "MBC 2021-02-08 17:47 '문 대통령, 정의용 외교장관 임명안 재가…내일부터 임기 시작' https://n.news.naver.com/mnews/article/214/0001098753 (accessed 2026-09-25T13:46:29-0400, snapshot sources/foreign/news/naver_214_0001098753.html) quote: \"문 대통령이 오늘 오후 5시 20분쯤 정 장관 임명안을 재가했으며, 임기는 내일(9일) 시작된다\"",
+    "동아일보 2021-02-08 17:40 '文대통령, 정의용 외교부장관 임명안 재가…9일 임기 시작' https://n.news.naver.com/mnews/article/020/0003337620 (accessed 2026-09-25T13:46:30-0400, snapshot sources/foreign/news/naver_020_0003337620.html) quote: \"정 장관은 9일부터 임기를 시작한다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"39대 장관 정의용 (鄭義溶) 2021.02.09. - 2022.05.11.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2022-05-12",
+   "end_confidence": "medium",
+   "end_sources": [
+    "세계일보 2022-05-10 20:32 '외교부 떠나는 정의용 “한반도 평화 프로세스, 계속 추진돼야”' https://n.news.naver.com/mnews/article/022/0003694331 (accessed 2026-09-25T13:25:29-0400, snapshot sources/foreign/news/naver_022_0003694331.html) quote: \"후임으로 지명된 박진 외교부 장관 후보자가 정식으로 임명될 때까지는 장관직을 유지할 것으로 알려졌다\"",
+    "조선일보 2022-05-12 03:06 '오늘 외교·행안장관 임명… 나머지 부처도 순차적 기용할 듯' https://n.news.naver.com/mnews/article/023/0003690902 (accessed 2026-09-25T21:30:42-0400, snapshot sources/foreign/news/naver_023_0003690902.html) quote: \"문재인 정부 국무회의 구성원도 정의용 외교부 장관 등 8명이다\"",
+    "관보 제20255호 (2022-05-23): \"박진(朴振) 국무위원에 임함 외교부장관에 보함 2022. 5. 12.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001652659816213000'} (accessed 2026-09-24T22:33:40-0400, snapshot sources/foreign/gazette/gazette_20255_20220523_16213000.pdf)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"39대 장관 정의용 (鄭義溶) 2021.02.09. - 2022.05.11.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "문재인",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "not a sitting member. Former 17th NA member (열린우리당, 비례대표 10번, 2004-05-30..2008-05-29, mona_cd DTO5670Y)",
+   "transcript_check": "ok",
+   "transcript_notes": "13 valid meetings as minister (외교부), first 2021-02-18, last 2022-03-28. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2015-10-29 예산결산특별위원회, 2016-07-06 국회본회의",
+   "notes": "Appointment approved (재가) on 2021-02-08 at about 17:20 with the term starting 2021-02-09. Held a farewell ceremony on 2022-05-10 but, at 문재인's request, stayed in office until the successor was appointed. The successor's appointment took effect on 2022-05-12 (재가 that morning), and 조선일보 of 2022-05-12 (03:06) still counts him among the sitting cabinet members. End is therefore set to 2022-05-12 as a same-day handover, the convention used for the other handovers in this file. The 외교부 page gives 2022-05-11 as his last day. Birth date from na_members/na_members_15_22.csv. Verifier (disputed). The day-level end is unresolved. For 2022-05-12, 서울신문 2022-05-10 reports that 외교안보 ministers were to stay until their successors were appointed and the successor's appointment is dated 2022. 5. 12. in 관보 제20255호. Against it, the 외교부 역대 장관 page, ko.wikipedia (revid 42216879) and en.wikipedia (oldid 1373781355) give 2022-05-11. No record of the date his resignation was accepted (면직) was found. The better-supported same-day value 2022-05-12 is kept."
+  },
+  {
+   "name": "박진",
+   "name_hanja": "朴振",
+   "name_en": "Park Jin",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Park Jin 2022.05.12. - 2024.01.10.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1956-09-16",
+   "gender": "M",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2022-05-12",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20255호 (2022-05-23): \"박진(朴振) 국무위원에 임함 외교부장관에 보함 2022. 5. 12.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001652659816213000'} (accessed 2026-09-24T22:33:40-0400, snapshot sources/foreign/gazette/gazette_20255_20220523_16213000.pdf)",
+    "KBS 2022-05-12 10:11 '윤 대통령, 외교부 박진·행안부 이상민 장관 임명' https://n.news.naver.com/mnews/article/056/0011264738 (accessed 2026-09-25T13:10:09-0400, snapshot sources/foreign/news/naver_056_0011264738.html) quote: \"대통령실 관계자는 오늘(12일) 용산 대통령실 청사에서 기자들과 만나\"",
+    "연합뉴스 2022-05-12 10:37 '尹대통령, 박진 외교·이상민 행안 장관 임명 강행' https://n.news.naver.com/mnews/article/001/0013173416 (accessed 2026-09-25T13:31:15-0400, snapshot sources/foreign/news/naver_001_0013173416.html) quote: \"윤석열 대통령이 12일 박진 외교부·이상민 행정안전부 장관을 임명했다\"",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"40대 장관 박 진 (朴 振) 2022.05.12. - 2024.01.10.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end": "2024-01-10",
+   "end_confidence": "high",
+   "end_sources": [
+    "이데일리 2024-01-10 10:14 '尹, 조태열 외교부 장관 임명…정통 외교관 출신' https://n.news.naver.com/mnews/article/018/0005652278 (accessed 2026-09-25T13:26:39-0400, snapshot sources/foreign/news/naver_018_0005652278.html) quote: \"한편 박진 장관은 4월 총선에 출마하기 위해 이날 이임식을 열고 물러났다\"",
+    "KBS 2024-01-10 09:26 '박진 외교장관 이임…“지역구 돌아가 열심히 뛰겠다”' https://n.news.naver.com/mnews/article/056/0011639202 (accessed 2026-09-25T13:26:41-0400, snapshot sources/foreign/news/naver_056_0011639202.html) quote: \"박진 외교부 장관이 이임 당일 마지막 출근길에서\"",
+    "관보 제20669호 (2024-01-17): \"조태열(趙兌烈) 국무위원에 임함 외교부장관에 보함 2024. 1. 10.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001704862002328000'} (accessed 2026-09-25T07:05:32-0400, snapshot sources/foreign/gazette/gazette_20669_20240117_02328000.pdf)",
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"40대 장관 박 진 (朴 振) 2022.05.12. - 2024.01.10.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)"
+   ],
+   "end_reason": "resigned_to_run",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": "sitting 21st NA member (미래통합당 at election, later 국민의힘, 서울 강남구을, seat 2020-05-30..2024-05-29, mona_cd QKO6165V)",
+   "transcript_check": "ok",
+   "transcript_notes": "19 valid meetings as minister (외교부), first 2022-05-17, last 2023-11-30. ignored 3 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2015-02-03 국정조사, 2016-09-01 예산결산특별위원회, 2016-12-26 국정조사",
+   "notes": "Nominated by 대통령당선인 윤석열. Appointed without an adopted 인사청문경과보고서. Left on 2024-01-10, the day the successor was appointed, to run in the 2024-04-10 general election (returning to his 서울 강남구을 seat, which he kept while minister). Birth date from na_members/na_members_15_22.csv."
+  },
+  {
+   "name": "조태열",
+   "name_hanja": "趙兌烈",
+   "name_en": "Cho Tae-yul",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_5740/contents.do: \"Cho Tae-yul 2024.01.12. - 2025.07.18.\" (accessed 2026-09-25T13:17:05-0400, snapshot sources/foreign/mofa_eng_former_ministers.html)",
+   "birth_date": "1955-11-10",
+   "gender": "M",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2024-01-10",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제20669호 (2024-01-17): \"조태열(趙兌烈) 국무위원에 임함 외교부장관에 보함 2024. 1. 10.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001704862002328000'} (accessed 2026-09-25T07:05:32-0400, snapshot sources/foreign/gazette/gazette_20669_20240117_02328000.pdf)",
+    "파이낸셜뉴스 2024-01-10 10:22 '尹, 조태열 외교장관 임명..2기 외교부 시동' https://n.news.naver.com/mnews/article/014/0005126016 (accessed 2026-09-25T13:26:38-0400, snapshot sources/foreign/news/naver_014_0005126016.html) quote: \"대통령실은 이날 “윤 대통령은 오늘자로 조태열 외교부 장관을 임명했다”고 밝혔다\"",
+    "연합뉴스 2024-01-10 10:06 '尹대통령, 조태열 외교부 장관 임명' https://n.news.naver.com/mnews/article/001/0014435412 (accessed 2026-09-25T13:27:30-0400, snapshot sources/foreign/news/naver_001_0014435412.html) quote: \"윤석열 대통령이 10일 조태열 외교부 장관을 임명했다고 대통령실이 밝혔다\""
+   ],
+   "end": "2025-07-18",
+   "end_confidence": "medium",
+   "end_sources": [
+    "외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"41대 장관 조태열 (趙兌烈) 2024.01.12. - 2025.07.18.\" (accessed 2026-09-24T22:34:20-0400, snapshot sources/foreign/mofa_past_ministers.html)",
+    "관보 제21043호 (2025-07-25): \"조현(趙顯) 국무위원에 임함 외교부장관에 보함 2025. 7. 19.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001753058642620000'} (accessed 2026-09-24T22:59:51-0400, snapshot sources/foreign/gazette/gazette_21043_20250725_42620000.pdf)",
+    "뉴시스 2025-07-18 20:46 '李, 정성호·구윤철·조현·김정관 장관 임명안 재가' https://n.news.naver.com/mnews/article/003/0013372065 (accessed 2026-09-25T13:45:35-0400, snapshot sources/foreign/news/naver_003_0013372065.html) quote: \"이재명 대통령이 18일 정성호 법무부 장관, 구윤철 기획재정부 장관, 조현 외교부 장관, 김정관 산업통상자원부 장관에 대한 임명안을 재가했다\"",
+    "오마이뉴스 2025-07-21 11:31 '조태열 전 외교장관 \"국제사회의 한국 신뢰 확인한 시간\"' https://n.news.naver.com/mnews/article/047/0002481720 (accessed 2026-09-25T13:28:06-0400, snapshot sources/foreign/news/naver_047_0002481720.html) quote: \"조현 신임 장관에게 직을 물려주고 이임한 조태열 전 외교부장관은\""
+   ],
+   "end_reason": "replaced",
+   "appointing_president": "윤석열",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "ok",
+   "transcript_notes": "10 valid meetings as minister (외교부), first 2024-07-17, last 2024-12-24. ignored 2 rows from invalid hearing types (본회의, 예결위, 국정조사, whose content is misattached), dated 2022-09-16 예산결산특별위원회, 2024-12-11 국회본회의. The old panel's dates (2024-01-11..2025-06-03) are wrong on both ends.",
+   "notes": "The 외교부 page gives 2024-01-12 as the start (the inauguration ceremony), against the gazette's 2024-01-10. Stayed in office through the 2024-12-14..2025-06-04 acting presidencies (never acting president himself) and into the 이재명 term until 2025-07-18. The successor's appointment was approved (재가) on the evening of 2025-07-18 and dated 2025-07-19 in the gazette, so his last day is taken as 2025-07-18, as on the 외교부 page. His 이임식 was held on 2025-07-21, after he had left office. Birth date from ko.wikipedia only (ko.wikipedia '조태열' https://ko.wikipedia.org/w/index.php?oldid=41891871 (revid 41891871, accessed 2026-09-25T13:16:41-0400, snapshot sources/foreign/wiki/kowiki_조태열.json))."
+  },
+  {
+   "name": "조현",
+   "name_hanja": "趙顯",
+   "name_en": "Cho Hyun",
+   "name_en_source": "MOFA English page https://www.mofa.go.kr/eng/wpge/m_24811/contents.do: \"Cho Hyun Minister of Foreign Affairs Republic of Korea July 19, 2025 - Present\" (accessed 2026-09-25T13:17:08-0400, snapshot sources/foreign/mofa_eng_minister_profile.html)",
+   "birth_date": "1957-11-30",
+   "gender": "M",
+   "ministry": "외교부",
+   "office_title": "외교부장관",
+   "deputy_pm": false,
+   "start": "2025-07-19",
+   "start_confidence": "high",
+   "start_sources": [
+    "관보 제21043호 (2025-07-25): \"조현(趙顯) 국무위원에 임함 외교부장관에 보함 2025. 7. 19.\" | https://gwanbo.go.kr/user/common/ofcttCntntDownload.do {'cntnt_seq_no': 'I0000000000000001753058642620000'} (accessed 2026-09-24T22:59:51-0400, snapshot sources/foreign/gazette/gazette_21043_20250725_42620000.pdf)",
+    "MOFA English page https://www.mofa.go.kr/eng/wpge/m_24811/contents.do: \"Cho Hyun took office as the 42nd Minister of Foreign Affairs of the Republic of Korea on July 19, 2025\" (accessed 2026-09-25T13:17:08-0400, snapshot sources/foreign/mofa_eng_minister_profile.html)",
+    "뉴시스 2025-07-18 20:46 '李, 정성호·구윤철·조현·김정관 장관 임명안 재가' https://n.news.naver.com/mnews/article/003/0013372065 (accessed 2026-09-25T13:45:35-0400, snapshot sources/foreign/news/naver_003_0013372065.html) quote: \"이재명 대통령이 18일 정성호 법무부 장관, 구윤철 기획재정부 장관, 조현 외교부 장관, 김정관 산업통상자원부 장관에 대한 임명안을 재가했다\""
+   ],
+   "end": null,
+   "end_confidence": "high",
+   "end_sources": [
+    "연합뉴스 2026-09-24 12:46 '조현, '北포로 인도' 우크라에 \"필요한 지원 지속\"' https://n.news.naver.com/mnews/article/001/0016334691 (accessed 2026-09-25T13:29:15-0400, snapshot sources/foreign/news/naver_001_0016334691.html) quote: \"조현 외교부 장관이 안드리 시비하 우크라이나 외교장관과 회담했다\"",
+    "중앙일보 2026-09-01 05:00 '‘교체설’ 돌던 조현 남았다…개각 가른 한·미 관계 위기론' https://n.news.naver.com/mnews/article/025/0003548143 (accessed 2026-09-25T13:29:48-0400, snapshot sources/foreign/news/naver_025_0003548143.html) quote: \"교체 가능성이 심심찮게 거론됐던 조현 외교부 장관이 자리를 지킨 것을 놓고\"",
+    "MOFA English page https://www.mofa.go.kr/eng/wpge/m_24811/contents.do: \"Cho Hyun Minister of Foreign Affairs Republic of Korea July 19, 2025 - Present\" (accessed 2026-09-25T13:17:08-0400, snapshot sources/foreign/mofa_eng_minister_profile.html)"
+   ],
+   "end_reason": "in_office",
+   "appointing_president": "이재명",
+   "appointed_by_acting_president": false,
+   "reorg_continuation": false,
+   "reappointed_on_reorg": null,
+   "pm_status": null,
+   "pm_acting_until": null,
+   "suspensions": [],
+   "mp_hint": null,
+   "transcript_check": "no_transcript_data",
+   "transcript_notes": "Spell starts after the transcript input ends (2025-01).",
+   "notes": "Nomination approved (재가) on the evening of 2025-07-18. The gazette and the MOFA English profile date the appointment 2025-07-19, ko.wikipedia says 2025-07-18. Kept his post in the 2026-08-30 reshuffle and was in office on 2026-09-24 (meeting the Ukrainian foreign minister in New York). Birth date from ko.wikipedia only (ko.wikipedia '조현 (외교관)' https://ko.wikipedia.org/w/index.php?oldid=42217403 (revid 42217403, accessed 2026-09-25T13:16:42-0400, snapshot sources/foreign/wiki/kowiki_조현_외교관_.json))."
+  }
+ ],
+ "nominations": [
+  {
+   "nominee": "박정수",
+   "office_title": "외교통상부장관",
+   "nomination_date": "1998-03-03",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-03-03",
+   "sources": [
+    "연합뉴스 1998-03-03 12:39 '金대통령 조각발표...재경부장관에 李揆成씨(종합)' https://n.news.naver.com/mnews/article/001/0004372354 (accessed 2026-09-24T22:44:26-0400, snapshot sources/foreign/news/naver_001_0004372354.html) quote: \"金대통령은 이날오후 새로 기용한 국무위원에게 임명장을 수여한데 이어\"",
+    "연합뉴스 1998-03-03 09:55 '金대통령 오늘 새정부 조각 발표' https://n.news.naver.com/mnews/article/001/0004371574 (accessed 2026-09-24T22:44:25-0400, snapshot sources/foreign/news/naver_001_0004371574.html) quote: \"金대통령은 내각명단을 발표한뒤 오후2시 청와대에서 신임 국무위원 전원에게 임명장을 수여한데 이어\""
+   ],
+   "notes": "Announced on the morning of 1998-03-03 with the first 김대중 cabinet and appointed that afternoon. No hearing law for 국무위원 before 2005-07-28."
+  },
+  {
+   "nominee": "홍순영",
+   "office_title": "외교통상부장관",
+   "nomination_date": "1998-08-04",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "1998-08-04",
+   "sources": [
+    "연합뉴스 1998-08-04 13:38 '金대통령 외통장관 경질...새 장관에 洪淳瑛씨-1' https://n.news.naver.com/mnews/article/001/0004325861 (accessed 2026-09-24T22:51:21-0400, snapshot sources/foreign/news/naver_001_0004325861.html) quote: \"金鍾泌총리의 제청을 받아 외무차관을 지낸 洪본부대사를 새 장관에 임명키로 했다\""
+   ],
+   "notes": "Announced and appointed the same day."
+  },
+  {
+   "nominee": "이정빈",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2000-01-13",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2000-01-14",
+   "sources": [
+    "BigKinds metadata: 동아일보 20000113 '[박태준내각 출범]金대통령 7개부처 장관 경질' news_id 01100401.20000113015630070 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"외교통상부장관에 이정빈(李廷彬)국제교류재단이사장을 임명하는\"",
+    "BigKinds metadata: 충청투데이 20000115 '中國에 탈북자 송환 항의' news_id 01400701.20000115155512001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-24T22:51:53-0400, snapshot sources/foreign/news/bigkinds_2000-01-12_dfd1ea6b68.json) snippet: \"14일 오전 신임 각료들에게 임명장을 수여하는 자리에서\""
+   ],
+   "notes": "Announced in the 2000-01-13 reshuffle, 임명장 on 2000-01-14."
+  },
+  {
+   "nominee": "한승수",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2001-03-26",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2001-03-26",
+   "sources": [
+    "연합뉴스 2001-03-26 14:20 '<연합인터뷰> 한승수 외교통상부장관' https://n.news.naver.com/mnews/article/001/0000062127 (accessed 2026-09-25T13:04:00-0400, snapshot sources/foreign/news/naver_001_0000062127.html) quote: \"한승수(韓昇洙) 신임 외교통상부장관은 26일\"",
+    "관보 제14764호 (2001-03-30) 인사: \"한 승 수(韓 昇 洙) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)"
+   ],
+   "notes": "3·26 개각, announced and appointed the same day."
+  },
+  {
+   "nominee": "최성홍",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2002-02-04",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2002-02-04",
+   "sources": [
+    "동아일보 2002-02-04 10:24 '한승수외교 전격경질,후임은 최성홍차관' https://n.news.naver.com/mnews/article/020/0000111303 (accessed 2026-09-24T22:52:17-0400, snapshot sources/foreign/news/naver_020_0000111303.html) quote: \"한 장관 후임에는 최성홍(崔成泓) 외교통상부차관이 내정됐다\"",
+    "연합뉴스 2002-02-04 15:40 '외교장관 차관급 15명 교체(종합)' https://n.news.naver.com/mnews/article/001/0000129677 (accessed 2026-09-24T22:52:36-0400, snapshot sources/foreign/news/naver_001_0000129677.html) quote: \"새 장관에 최성홍(崔成泓) 외교차관을 임명했다\""
+   ],
+   "notes": "Announced and appointed the same day."
+  },
+  {
+   "nominee": "윤영관",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2003-02-27",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2003-02-27",
+   "sources": [
+    "이데일리 2003-02-27 14:15 '(프로필)윤영관 외교통상부장관' https://n.news.naver.com/mnews/article/018/0000010712 (accessed 2026-09-25T13:05:27-0400, snapshot sources/foreign/news/naver_018_0000010712.html) quote: \"윤영관 외교통상부장관은 노무현 대통령의 자문교수출신으로\"",
+    "관보 제15338호 (2003-03-05) 인사: \"윤 영 관(尹 永 寬) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)"
+   ],
+   "notes": "First 노무현 cabinet (2·27 조각), announced and appointed the same day."
+  },
+  {
+   "nominee": "반기문",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2004-01-16",
+   "request_date": null,
+   "likms_bill_id": null,
+   "hearing_dates": [],
+   "hearing_committee": null,
+   "hearing_required": false,
+   "report_adopted": "not_applicable",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2004-01-17",
+   "sources": [
+    "파이낸셜뉴스 2004-01-16 21:45 '외교장관 반기문씨' https://n.news.naver.com/mnews/article/014/0000105272 (accessed 2026-09-24T22:53:21-0400, snapshot sources/foreign/news/naver_014_0000105272.html) quote: \"노무현 대통령은 16일 공석중인 외교통상부 장관에 반기문 청와대 외교보좌관(사진)을 임명했다\"",
+    "SBS 2004-01-17 21:12 '노대통령 \"한미관계 중요성 변함 없다\"' https://n.news.naver.com/mnews/article/055/0000015625 (accessed 2026-09-24T22:53:28-0400, snapshot sources/foreign/news/naver_055_0000015625.html) quote: \"노무현 대통령은 반기문 신임 외교통상부 장관에게 임명장을 수여하는 자리에서\"",
+    "관보 제15602호 (2004-01-24) 인사: \"⊙2004년 1 월17일자 반 기 문(潘 基 文) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20040124_15602_00000000000000001319029879613000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029870041000&tocId=00000000000000001319029879613000&isTocOrder=N (accessed 2026-09-24T22:47:19-0400)"
+   ],
+   "notes": "Announced on 2004-01-16, appointment dated 2004-01-17 in the gazette."
+  },
+  {
+   "nominee": "송민순",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2006-11-01",
+   "request_date": "2006-11-07",
+   "likms_bill_id": "037671 (ZZ1831)",
+   "hearing_dates": [
+    "2006-11-16"
+   ],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2006-12-01",
+   "sources": [
+    "연합뉴스 2006-11-01 15:31 '외교장관 내정된 송민순 청와대 안보실장' https://n.news.naver.com/mnews/article/001/0001455709 (accessed 2026-09-25T13:32:19-0400, snapshot sources/foreign/news/naver_001_0001455709.html) quote: \"1일 외교통상부장관에 내정된 송민순(宋旻淳.58) 청와대 안보실장\"",
+    "likms [ZZ1831] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=037671 (accessed 2026-09-24T22:46:45-0400, snapshot sources/foreign/likms/likms_ZZ1831.html, rendered text harvest/likms/037671.txt) \"2006.11.27. 대통령으로부터 2006.11.30.까지 인사청문경과보고서 송부 요청받아 통일외교통상위원회로 통지함.\"",
+    "likms [ZZ1831] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=037671 (accessed 2026-09-24T22:46:45-0400, snapshot sources/foreign/likms/likms_ZZ1831.html, rendered text harvest/likms/037671.txt) \"경과보고서 미채택\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 35011, 2006-11-16, 통일외교통상위원회, agenda '국무위원후보자(외교통상부장관 송민순)인사청문회'",
+    "연합뉴스 2006-12-01 09:58 '노대통령, 송민순 외교장관 임명' https://n.news.naver.com/mnews/article/001/0001483104 (accessed 2026-09-25T13:08:25-0400, snapshot sources/foreign/news/naver_001_0001483104.html) quote: \"노무현(盧武鉉) 대통령은 1일 오후 청와대에서 송민순(宋旻淳) 외교통상부 장관에게 임명장을 수여한다\""
+   ],
+   "notes": "Report not adopted (한나라당 refused). The President asked for the report by 2006-11-30 and appointed him on 2006-12-01."
+  },
+  {
+   "nominee": "유명환",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2008-02-18",
+   "request_date": "2008-02-19",
+   "likms_bill_id": "PRC_R0L8T0T2C1D9S2F1W4W5X4E7K3G2O7 (ZZ1896)",
+   "hearing_dates": [
+    "2008-02-27"
+   ],
+   "hearing_committee": "통일외교통상위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2008-02-29",
+   "sources": [
+    "파이낸셜뉴스 2008-02-18 22:30 '교육 막판 교체..김도연 내정' https://n.news.naver.com/mnews/article/014/0001944468 (accessed 2026-09-25T13:15:06-0400, snapshot sources/foreign/news/naver_014_0001944468.html) quote: \"외교통상부 장관에는 유명환 주일본 대사(61)\"",
+    "likms [ZZ1896] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_R0L8T0T2C1D9S2F1W4W5X4E7K3G2O7 (accessed 2026-09-24T22:46:59-0400, snapshot sources/foreign/likms/likms_ZZ1896.html, rendered text harvest/likms/PRC_R0L8T0T2C1D9S2F1W4W5X4E7K3G2O7.txt) \"통일외교통상위원회 2008-02-22 2008-02-26 2008-02-29 경과보고서채택\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 36859, 2008-02-27, 통일외교통상위원회, agenda '국무위원후보자(외교통상부장관 유명환)인사청문회'"
+   ],
+   "notes": "Nominated and requested by 대통령당선인 이명박 (인사청문회법 제11조의2). likms also notes '경과보고서 송부일 : 2008. 3. 26.', which contradicts the 2008-02-29 adoption and appointment and looks like a data-entry error."
+  },
+  {
+   "nominee": "김성환",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2010-10-01",
+   "request_date": "2010-10-01",
+   "likms_bill_id": "PRC_V1I0U1K0Y0H1Q1E9H4A5I2B6I0N0G6 (ZZ18112)",
+   "hearing_dates": [
+    "2010-10-07"
+   ],
+   "hearing_committee": "외교통상통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2010-10-08",
+   "sources": [
+    "연합뉴스 2010-10-01 17:15 '李대통령, 김성환 靑외교수석 외교장관에 기용' https://n.news.naver.com/mnews/article/001/0004682330 (accessed 2026-09-25T13:31:45-0400, snapshot sources/foreign/news/naver_001_0004682330.html) quote: \"이명박 대통령은 1일 공석인 외교통상부 장관에 김성환(57) 청와대 외교안보 수석을 내정했다\"",
+    "likms [ZZ18112] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_V1I0U1K0Y0H1Q1E9H4A5I2B6I0N0G6 (accessed 2026-09-24T22:47:13-0400, snapshot sources/foreign/likms/likms_ZZ18112.html, rendered text harvest/likms/PRC_V1I0U1K0Y0H1Q1E9H4A5I2B6I0N0G6.txt) \"제294회 국회(정기회) 제6차 전체회의 2010-10-08 상정/의결(경과보고서채택)\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 39847, 2010-10-07, 외교통상통일위원회, agenda '국무위원후보자(외교통상부장관 김성환) 인사청문회'"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "윤병세",
+   "office_title": "외교통상부장관",
+   "nomination_date": "2013-02-13",
+   "request_date": "2013-02-15",
+   "likms_bill_id": "PRC_O1R3U0Q2C1U5Y1E7M5K0N4T2P7D1C8 (ZZ19034)",
+   "hearing_dates": [
+    "2013-02-28"
+   ],
+   "hearing_committee": "외교통상통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2013-03-11",
+   "sources": [
+    "연합뉴스 2013-02-13 11:19 '외교장관 내정자 윤병세 누구인가' https://n.news.naver.com/mnews/article/001/0006090915 (accessed 2026-09-25T13:33:11-0400, snapshot sources/foreign/news/naver_001_0006090915.html) quote: \"박근혜 대통령 당선인은 13일 새 정부 외교장관에 윤병세 인수위원회 외교국방통일 위원을 내정했다\"",
+    "likms [ZZ19034] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_O1R3U0Q2C1U5Y1E7M5K0N4T2P7D1C8 (accessed 2026-09-24T22:47:26-0400, snapshot sources/foreign/likms/likms_ZZ19034.html, rendered text harvest/likms/PRC_O1R3U0Q2C1U5Y1E7M5K0N4T2P7D1C8.txt) \"외교통상통일위원회 2013-02-15 2013-02-28 2013-02-28 경과보고서채택\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 42526, 2013-02-28, 외교통상통일위원회, agenda '국무위원후보자(외교통상부장관 윤병세) 인사청문회'"
+   ],
+   "notes": "Requested by 대통령당선인 박근혜. Announced as minister of the planned 외교부, requested and appointed as 외교통상부장관. 정부조직법 법률 제11690호 부칙 carries hearings for the old title over to the new one."
+  },
+  {
+   "nominee": "강경화",
+   "office_title": "외교부장관",
+   "nomination_date": "2017-05-21",
+   "request_date": "2017-05-26",
+   "likms_bill_id": "PRC_M1G7R0E5R2L6N1R4A0C2E5F4E4R0Z7 (ZZ20040)",
+   "hearing_dates": [
+    "2017-06-07"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2017-06-18",
+   "sources": [
+    "연합뉴스 2017-05-21 11:40 '강경화 외교부장관 후보자…유엔 韓여성 최고위직' https://n.news.naver.com/mnews/article/001/0009279795 (accessed 2026-09-25T13:33:36-0400, snapshot sources/foreign/news/naver_001_0009279795.html) quote: \"문재인 정부 첫 외교부장관 후보자에 지명된 강경화(62) 유엔(UN) 사무총장 정책특보는\"",
+    "likms [ZZ20040] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_M1G7R0E5R2L6N1R4A0C2E5F4E4R0Z7 (accessed 2026-09-24T22:47:40-0400, snapshot sources/foreign/likms/likms_ZZ20040.html, rendered text harvest/likms/PRC_M1G7R0E5R2L6N1R4A0C2E5F4E4R0Z7.txt) \"외교통일위원회 2017-05-26\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 47146, 2017-06-07, 외교통일위원회, agenda '국무위원후보자(외교부장관 강경화) 인사청문회'",
+    "연합뉴스 2017-06-18 14:56 '文대통령, 강경화 외교장관 임명' https://n.news.naver.com/mnews/article/001/0009344649 (accessed 2026-09-25T13:30:48-0400, snapshot sources/foreign/news/naver_001_0009344649.html) quote: \"문 대통령은 국회 인사청문회를 거친 강 후보자에 대한 인사청문 보고서를 국회가 채택하지 않자 전날까지 보고서 재송부를 요청했고\""
+   ],
+   "notes": "Report not adopted (likms shows no committee decision). Appointed after the re-send deadline of 2017-06-17 passed."
+  },
+  {
+   "nominee": "정의용",
+   "office_title": "외교부장관",
+   "nomination_date": "2021-01-20",
+   "request_date": "2021-01-22",
+   "likms_bill_id": "PRC_E2D1I0F1H2E2T1G7G0V1W1O5J6S8Y9 (ZZ21042)",
+   "hearing_dates": [
+    "2021-02-05"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2021-02-09",
+   "sources": [
+    "한국경제 2021-01-21 11:31 '\"외교 환경 어렵다\"…강경화·정의용, 엇갈린 표정 속 한 목소리' https://n.news.naver.com/mnews/article/015/0004487239 (accessed 2026-09-25T13:34:09-0400, snapshot sources/foreign/news/naver_015_0004487239.html) quote: \"문 대통령은 20일 강 장관 교체를 결정하고 후임에 정 전 실장을 내정했다\"",
+    "likms [ZZ21042] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_E2D1I0F1H2E2T1G7G0V1W1O5J6S8Y9 (accessed 2026-09-24T22:47:54-0400, snapshot sources/foreign/likms/likms_ZZ21042.html, rendered text harvest/likms/PRC_E2D1I0F1H2E2T1G7G0V1W1O5J6S8Y9.txt) \"외교통일위원회 2021-01-25 2021-02-08 채택\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 050753, 2021-02-05, 외교통일위원회, agenda '국무위원후보자(외교부장관 정의용) 인사청문회'"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "박진",
+   "office_title": "외교부장관",
+   "nomination_date": "2022-04-13",
+   "request_date": "2022-04-15",
+   "likms_bill_id": "PRC_W2E2H0R4H1Z5U1F8H1B9T4T5H3W4B6 (ZZ21102)",
+   "hearing_dates": [
+    "2022-05-02"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "no",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2022-05-12",
+   "sources": [
+    "연합뉴스 2022-04-13 14:31 '박진 외교장관 후보자 \"외교엔 국익뿐…엄중시기 무거운 책임감\"' https://n.news.naver.com/mnews/article/001/0013111289 (accessed 2026-09-25T13:45:02-0400, snapshot sources/foreign/news/naver_001_0013111289.html) quote: \"윤석열 정부의 첫 외교부 장관으로 지명된 박진 후보자는 13일\"",
+    "likms [ZZ21102] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_W2E2H0R4H1Z5U1F8H1B9T4T5H3W4B6 (accessed 2026-09-24T22:48:08-0400, snapshot sources/foreign/likms/likms_ZZ21102.html, rendered text harvest/likms/PRC_W2E2H0R4H1Z5U1F8H1B9T4T5H3W4B6.txt) \"제396회 국회(임시회) 제1차 청문회 2022-05-02 상정\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 051853, 2022-05-02, 외교통일위원회, agenda '국무위원후보자(외교부장관 박진) 인사청문회'",
+    "동아일보 2022-05-13 03:02 '尹, 박진-이상민 등 장관 4명 임명… 한동훈 청문보고서 재요청' https://n.news.naver.com/mnews/article/020/0003428134 (accessed 2026-09-25T13:20:00-0400, snapshot sources/foreign/news/naver_020_0003428134.html) quote: \"박, 이 장관은 국회 인사청문회를 거쳤지만 더불어민주당의 반대로 인사청문보고서가 채택되지 못한 상태였다\""
+   ],
+   "notes": "Nominated and requested by 대통령당선인 윤석열. Report not adopted. The President asked for it again by 2022-05-09 and appointed him on 2022-05-12."
+  },
+  {
+   "nominee": "조태열",
+   "office_title": "외교부장관",
+   "nomination_date": "2023-12-19",
+   "request_date": "2023-12-21",
+   "likms_bill_id": "PRC_A2Z3Y1E2X2M1X1H7H5U5H4G0O6I2B7 (ZZ21185)",
+   "hearing_dates": [
+    "2024-01-08"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2024-01-10",
+   "sources": [
+    "KBS 2023-12-19 14:37 '윤 대통령, 국정원장 후보 조태용·외교부장관 후보 조태열 지명' https://n.news.naver.com/mnews/article/056/0011625367 (accessed 2026-09-25T13:35:11-0400, snapshot sources/foreign/news/naver_056_0011625367.html) quote: \"외교부 장관 후보로는 조태열 전 주 유엔대한민국대표부 특명전권대사를 각각 지명했습니다\"",
+    "likms [ZZ21185] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_A2Z3Y1E2X2M1X1H7H5U5H4G0O6I2B7 (accessed 2026-09-24T22:48:21-0400, snapshot sources/foreign/likms/likms_ZZ21185.html, rendered text harvest/likms/PRC_A2Z3Y1E2X2M1X1H7H5U5H4G0O6I2B7.txt) \"외교통일위원회 2023-12-22 2023-12-28 2024-01-09 채택\"",
+    "inputs/nominee_hearing_meetings.csv meeting_id 053758, 2024-01-08, 외교통일위원회, agenda '국무위원후보자(외교부장관 조태열) 인사청문요청안 / 인사청문회'"
+   ],
+   "notes": ""
+  },
+  {
+   "nominee": "조현",
+   "office_title": "외교부장관",
+   "nomination_date": "2025-06-23",
+   "request_date": "2025-06-27",
+   "likms_bill_id": "PRC_L2Y5Z0A6M2X7O1C7X5L2K1G2M3W2P5 (ZZ22053)",
+   "hearing_dates": [
+    "2025-07-17"
+   ],
+   "hearing_committee": "외교통일위원회",
+   "hearing_required": true,
+   "report_adopted": "yes",
+   "na_consent_vote": "not_applicable",
+   "outcome": "appointed",
+   "outcome_date": "2025-07-19",
+   "sources": [
+    "연합뉴스 2025-06-23 14:55 '국방 안규백·통일 정동영·외교 조현…11개 부처 장관직 인선(종합)' https://n.news.naver.com/mnews/article/001/0015464942 (accessed 2026-09-25T13:35:45-0400, snapshot sources/foreign/news/naver_001_0015464942.html) quote: \"외교부 장관 후보자로는 조현 전 외교부 1차관을 지명했다\"",
+    "likms [ZZ22053] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L2Y5Z0A6M2X7O1C7X5L2K1G2M3W2P5 (accessed 2026-09-24T22:48:35-0400, snapshot sources/foreign/likms/likms_ZZ22053.html, rendered text harvest/likms/PRC_L2Y5Z0A6M2X7O1C7X5L2K1G2M3W2P5.txt) \"외교통일위원회 2025-06-30 2025-07-07 2025-07-18 경과보고서채택\"",
+    "likms [ZZ22053] https://likms.assembly.go.kr/bill/bi/billDetailPage.do?billId=PRC_L2Y5Z0A6M2X7O1C7X5L2K1G2M3W2P5 (accessed 2026-09-24T22:48:35-0400, snapshot sources/foreign/likms/likms_ZZ22053.html, rendered text harvest/likms/PRC_L2Y5Z0A6M2X7O1C7X5L2K1G2M3W2P5.txt) \"제427회 국회(임시회) 제3차 전체회의 2025-07-17 상정\"",
+    "서울경제 2025-07-18 17:41 ''관세협상 담당' 구윤철·조현·김정관 임명안 재가…조만간 방미' https://n.news.naver.com/mnews/article/011/0004510883 (accessed 2026-09-25T13:45:37-0400, snapshot sources/foreign/news/naver_011_0004510883.html) quote: \"조현 외교부 장관 후보자, 김정관 산업통상자원부 장관 후보자가 17일 서울 여의도 국회에서 열린 인사청문회에서 의원 질의에 답하고 있다\""
+   ],
+   "notes": "Hearing on 2025-07-17 (after the transcript input ends, so taken from likms and news). Report adopted by agreement on 2025-07-18, 재가 the same evening, appointment dated 2025-07-19."
+  }
+ ],
+ "acting": [
+  {
+   "name": "unknown (외무부 차관 of the outgoing government)",
+   "role": "차관 keeping 외교통상부 running during a vacancy, no 장관 직무대행 designation reported",
+   "from": "1998-02-28",
+   "to": "1998-03-03",
+   "sources": [
+    "연합뉴스 1998-02-28 15:27 '새 정부조직법 발효(종합)' https://n.news.naver.com/mnews/article/001/0004298139 (accessed 2026-09-24T22:44:47-0400, snapshot sources/foreign/news/naver_001_0004298139.html) quote: \"재경부 등 기관장이 자동면직되는 7개부에 대해선 현재의 차관이 행정편의상 차관역할을 하도록 지시했으며\"",
+    "BigKinds metadata: 경향신문 19980302 '총리인준 못해 장·차관 공석/직제 개편·정책 결정 손못대' news_id 01100101.19980302000000210 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:36:14-0400, snapshot sources/foreign/news/bigkinds_1998-02-28_cacc9202b7.json) snippet: \"재경부와 통일부, 외교통상부, 행정자치부, 과학기술부, 문화관광부, 산업자원부 등 신설 또는 통·폐합된 7개 부는 출범했으나 조직과 직원만 있을 뿐 장관과 차관이 없는 조직으로 이틀째 운용됐다\""
+   ]
+  },
+  {
+   "name": "김재섭",
+   "role": "외교통상부 차관, answered for the ministry during the one-day vacancy between 윤영관's resignation (2004-01-15) and 반기문's appointment (2004-01-17). No formal 직무대행 designation found",
+   "from": "2004-01-16",
+   "to": "2004-01-16",
+   "sources": [
+    "경향신문 2004-01-15 16:18 '윤영관 외교장관의 ‘뼈있는 이임사’' https://n.news.naver.com/mnews/article/032/0000049225 (accessed 2026-09-24T22:53:03-0400, snapshot sources/foreign/news/naver_032_0000049225.html) quote: \"윤영관 외교부장관은 15일 사표가 수리된 뒤\"",
+    "BigKinds metadata: 한국경제 20040117 '\"中ㆍ日엔 굴종, 美에만 자주외교냐\" ‥ 국회 통외통위' news_id 02100601.20160119092840282 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:52:35-0400, snapshot sources/foreign/news/bigkinds_2004-01-15_b2637a9392.json) snippet: \"국회 통일외교통상위원회는 16일 김재섭 외교통상부 차관을 출석시킨 가운데 전체회의를 열어\"",
+    "BigKinds metadata: 국민일보 20040117 '독도우표 韓―日분쟁 격화' news_id 01100201.20040117000000105 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T13:52:35-0400, snapshot sources/foreign/news/bigkinds_2004-01-15_b2637a9392.json) snippet: \"김재섭 외교부 차관을 만나\"",
+    "관보 제15602호 (2004-01-24) 인사: \"⊙2004년 1 월17일자 반 기 문(潘 基 文) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20040124_15602_00000000000000001319029879613000.txt | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029870041000&tocId=00000000000000001319029879613000&isTocOrder=N (accessed 2026-09-24T22:47:19-0400)"
+   ]
+  },
+  {
+   "name": "유명환",
+   "role": "외교통상부 장관 직무대리 in 국정감사 meetings while 반기문 (UN Secretary-General elect) was still minister, not a vacancy",
+   "from": "2006-10-27",
+   "to": "2006-11-01",
+   "sources": [
+    "inputs/minister_role_meetings.csv rows role minister_acting, person 유명환, affiliation 외교통상부, 국정감사, 2006-10-27 and 2006-11-01"
+   ]
+  },
+  {
+   "name": "유명환",
+   "role": "외교통상부 제1차관, 장관 직무대행 (vacancy after 반기문's resignation)",
+   "from": "2006-11-11",
+   "to": "2006-11-30",
+   "sources": [
+    "이데일리 2006-11-17 20:34 '한-베트남 정상 \"포괄적 협력관계, 더 발전시키자\"' https://n.news.naver.com/mnews/article/018/0000432731 (accessed 2026-09-25T13:07:58-0400, snapshot sources/foreign/news/naver_018_0000432731.html) quote: \"유명환 외교통상부장관 직무대행과 보 홍 푹 베트남 기획투자부 장관이\"",
+    "연합뉴스 2006-11-30 11:01 '제4차 한ㆍ중동 협력포럼' https://n.news.naver.com/mnews/article/001/0001481949 (accessed 2026-09-25T13:07:23-0400, snapshot sources/foreign/news/naver_001_0001481949.html) quote: \"유명환 외교통상부 장관 직무대행이 환영사를 하고 있다\"",
+    "연합뉴스 2006-11-07 11:37 '유명환 차관과 번스 차관, 버시바우 대사' https://n.news.naver.com/mnews/article/001/0001460397 (accessed 2026-09-25T13:47:01-0400, snapshot sources/foreign/news/naver_001_0001460397.html) quote: \"유명환 외교부 제1차관이 한.미 차관급 전략대화를 위해 7일 오전\""
+   ]
+  },
+  {
+   "name": "신각수",
+   "role": "외교통상부 제1차관, 장관 직무대행 (de facto from 2010-09-06, formally after the resignation was accepted on 2010-09-08)",
+   "from": "2010-09-06",
+   "to": "2010-10-08",
+   "sources": [
+    "연합뉴스 2010-09-06 10:58 '<유명환 \"후회스럽다.공직자 덕목 중요\">(종합)' https://n.news.naver.com/mnews/article/001/0004641446 (accessed 2026-09-24T22:55:54-0400, snapshot sources/foreign/news/naver_001_0004641446.html) quote: \"외교통상부는 후임 장관이 공식 임명될 때까지 신각수 외교부 제1차관이 장관 직무대행을 맡는 체제로 운영될 것으로 알려졌다\"",
+    "연합뉴스 2010-09-09 14:49 '외교부, 임재홍 기획조정실장 보직대기(종합2보)' https://n.news.naver.com/mnews/article/001/0004648700 (accessed 2026-09-24T22:55:06-0400, snapshot sources/foreign/news/naver_001_0004648700.html) quote: \"어제 사표가 수리된 뒤 신각수 제1차관이 장관 직무대행을 맡게 된 것\"",
+    "뉴시스 2010-10-08 10:26 '협력서에 서명하는 신각수 장관 직무대행과 피터스 장관' https://n.news.naver.com/mnews/article/003/0003473331 (accessed 2026-09-25T13:39:28-0400, snapshot sources/foreign/news/naver_003_0003473331.html) quote: \"신각수 외교통상부 장관 직무대행(오른쪽)과 피터스 남아공 에너지부 장관이 협력서에 서명을 하고 있다\"",
+    "inputs/minister_role_meetings.csv rows role minister_acting, person 신각수, 외교통상부, 2010-09-07..2010-10-04 (4 meetings)",
+    "inputs/minister_role_meetings.csv rows role minister_acting, speaker 외교통상부장관직무대행 신각수, 외교통상통일위원회 (상임위원회) 2010-09-07 meeting_id 39757, 2010-09-10 meeting_id 39839, 2010-10-04 meeting_id 39846, and 국정감사 2010-10-04 meeting_id 39927",
+    "매일경제 2010-09-09 15:16 '외교부, 임재홍 기획조정실장 보직대기 조치' https://n.news.naver.com/mnews/article/009/0002319193 (accessed 2026-09-24T22:55:35-0400, snapshot roster/sources/foreign/verify/naver_009_0002319193.html) quote: \"어제 사표가 수리된 뒤 신각수 제1차관이 장관 직무대행을 맡게 된 것\""
+   ]
+  },
+  {
+   "name": "박석환",
+   "role": "외교통상부 장관 직무대리 in one committee meeting while 김성환 was minister, not a vacancy",
+   "from": "2012-02-06",
+   "to": "2012-02-06",
+   "sources": [
+    "inputs/minister_role_meetings.csv row role minister_acting, person 박석환, affiliation 외교통상부, 상임위원회, 2012-02-06"
+   ]
+  }
+ ],
+ "issues": [
+  {
+   "severity": "medium",
+   "desc": "From 1998-02-28 to 1998-03-02 외교통상부 had no minister. Contemporaneous reports say the heads of the seven reorganized ministries were automatically dismissed when 정부조직법 법률 제5529호 took effect on 1998-02-28, so 유종하's 외무부 spell ends 1998-02-27 and no 외교통상부 spell is created for him. The 외교부 역대 장관 page and ko.wikipedia run his tenure to 1998-03-03. offices.json leaves this legal reading to the researcher."
+  },
+  {
+   "severity": "medium",
+   "desc": "Spells starting before 2001 (유종하 1996, 박정수 1998, 홍순영 1998, 이정빈 2000) have no digital gazette. Their dates rest on news of the day (Naver-hosted 연합뉴스, BigKinds metadata) and the 외교부 page. 이정빈's start is 2000-01-14 (임명장) although the news of 01-13 reports the appointment on the day of the announcement."
+  },
+  {
+   "severity": "medium",
+   "desc": "No appointment notice was found in the gazette for 강경화, appointed 2017-06-18 (인사 index 2017-06-16..07-10 and full issues 2017-06-19..07-31 checked). Start rests on news and the 외교부 page, bounded by her countersignature as 외교부장관 in 관보 제19034호 (2017-06-21)."
+  },
+  {
+   "severity": "low",
+   "desc": "Two handovers are ambiguous at day level. 정의용's last day is set to 2022-05-12 (same-day handover) because news says he stayed until his successor's appointment that morning, while the 외교부 page gives 2022-05-11. 조태열's last day is 2025-07-18 per the 외교부 page, the successor's 재가 was on the evening of 07-18 and his appointment is dated 07-19 in the gazette."
+  },
+  {
+   "severity": "low",
+   "desc": "The name of the 외무부 차관 who kept the ministry running 1998-02-28..03-02 was not identified. For 2004-01-16, 차관 김재섭 answered for the ministry, but no formal 직무대행 designation was found."
+  },
+  {
+   "severity": "low",
+   "desc": "Several secondary-source disagreements were resolved in favour of the gazette or news. The 외교부 page gives 윤영관's end as 2004-01-17 (news says the resignation was accepted on 2004-01-15) and 조태열's start as 2024-01-12 (gazette 2024-01-10). ko.wikipedia gives 최성홍's start as 2002-02-05 (gazette 2002-02-04) and 조현's as 2025-07-18 (gazette 2025-07-19)."
+  },
+  {
+   "severity": "low",
+   "desc": "The old panel, used as a lead only, has these errors for this lineage. 이정빈 and 최성홍 are missing, and it has 송민순 start 2006-11-17, 유명환 end 2010-09-17, 윤병세 end 2017-03-10, 조태열 2024-01-11..2025-06-03. Transcript rows of invalid hearing types (본회의, 예결위, 국정조사) that place 강경화, 박진, 정의용, 윤병세, 반기문, 송민순 and 조태열 as 외교부장관 years outside their tenures were ignored."
+  },
+  {
+   "severity": "low",
+   "desc": "Birth dates of persons who never sat in the National Assembly come from ko.wikipedia only (secondary)."
+  },
+  {
+   "severity": "low",
+   "desc": "Continuity check per ministry lineage found vacancy 1998-02-28..1998-03-02 between 유종하 (외무부) and 박정수 (외교통상부), same-day handover 1998-08-04 박정수 -> 홍순영, same-day handover 2000-01-14 홍순영 -> 이정빈, same-day handover 2001-03-26 이정빈 -> 한승수, same-day handover 2002-02-04 한승수 -> 최성홍, same-day handover 2003-02-27 최성홍 -> 윤영관, vacancy 2004-01-16..2004-01-16 between 윤영관 (외교통상부) and 반기문 (외교통상부), vacancy 2006-11-11..2006-11-30 between 반기문 (외교통상부) and 송민순 (외교통상부), same-day handover 2008-02-29 송민순 -> 유명환, vacancy 2010-09-09..2010-10-07 between 유명환 (외교통상부) and 김성환 (외교통상부), same-day handover 2013-03-11 김성환 -> 윤병세, same-day handover 2017-06-18 윤병세 -> 강경화, same-day handover 2022-05-12 정의용 -> 박진, same-day handover 2024-01-10 박진 -> 조태열. No overlaps were found. Every vacancy has an acting entry."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier, cross-lineage consistency. The 2000-01-13 reshuffle (announced on the evening of 01-13, 임명장 on the morning of 01-14) is dated 2000-01-14 here and in the finance, industry, interior, land and oceans files, but 2000-01-13 in the education file (문용린). No gazette exists for 2000. The 2004-01-17 notice for 반기문 (announced 01-16, 임명장 01-17) shows that the gazette used the 임명장 date in a comparable case, which supports 2000-01-14."
+  },
+  {
+   "severity": "low",
+   "desc": "Verifier. 정의용's end is marked disputed (2022-05-12 same-day handover kept, 외교부 page and both Wikipedias give 2022-05-11). The 외교부 page gives the day before the successor's start for three handovers (2021-02-08, 2022-05-11, 2025-07-18) and the same day for two (2017-06-18, 2024-01-10), so it follows no single rule."
+  }
+ ],
+ "built_at_original": "2026-09-25T21:32:09-0400",
+ "verification": {
+  "verified_at": "2026-09-25T22:07:55-0400",
+  "verifier": "adversarial verifier, lineage foreign",
+  "per_spell": {
+   "유종하|1996-11-07": "confirmed",
+   "박정수|1998-03-03": "confirmed",
+   "홍순영|1998-08-04": "confirmed",
+   "이정빈|2000-01-14": "confirmed",
+   "한승수|2001-03-26": "confirmed",
+   "최성홍|2002-02-04": "confirmed",
+   "윤영관|2003-02-27": "confirmed",
+   "반기문|2004-01-17": "confirmed",
+   "송민순|2006-12-01": "confirmed",
+   "유명환|2008-02-29": "confirmed",
+   "김성환|2010-10-08": "confirmed",
+   "윤병세|2013-03-11": "confirmed",
+   "윤병세|2013-03-23": "confirmed",
+   "강경화|2017-06-18": "confirmed",
+   "정의용|2021-02-09": "disputed",
+   "박진|2022-05-12": "confirmed",
+   "조태열|2024-01-10": "confirmed",
+   "조현|2025-07-19": "confirmed"
+  },
+  "per_spell_new_evidence": {
+   "유종하|1996-11-07": {
+    "start": [
+     "BigKinds metadata: 매일경제 19961108 '한반도 위험 제거/외교 최우선 과제/유 외무장관 취임식' news_id 02100101.20160113130650489 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:00-0400, snapshot roster/sources/foreign/verify/bigkinds_1996-11-06_1996-11-08_f8eda2caf7.json) snippet: \"유종하 신임외무장관은 7일\"",
+     "BigKinds metadata: 서울신문 19961108 '유종하 신임외무의 과제(사설)' news_id 01100611.20160421035941350 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:00-0400, snapshot roster/sources/foreign/verify/bigkinds_1996-11-06_1996-11-08_f8eda2caf7.json) snippet: \"유종하 신임외무의 과제\""
+    ],
+    "end": [
+     "BigKinds metadata: 한국경제 19980302 '정부조직법 발효 .. 김대통령, 53개 법령 서명' news_id 02100601.20160116161620774 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:59:17-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-02-28_1998-03-03_411ec20395.json) snippet: \"새 정부조직법이 발효됨에따라 재정경제부 통일부 외교통상부 행정자치부 과학기술부 문화관광부 산업자원부 등 명칭이 바뀌는 7개 부의 장관이 궐위되는\"",
+     "BigKinds metadata: 서울신문 19980302 '7부처 장관 공석 국정 혼란/새 정부조직법 공포' news_id 01100611.20160421191937667 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:59:17-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-02-28_1998-03-03_411ec20395.json) snippet: \"7부처 장관 공석\"",
+     "BigKinds metadata: 국민일보 19980301 '정부조직법 발효' news_id 01100201.19980301145250001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T22:02:46-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-02-28_1998-03-04_1a34c2986d.json) snippet: \"정부조직법개정안이 28일 오후 공포돼 발효됐다\"",
+     "BigKinds metadata: 세계일보 19980303 '총리인준 지연속 행정표류 장기화' news_id 01100701.19980303000000501 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:59:35-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-02-28_1998-03-03_458a0a7856.json) snippet: \"새 정부조직법따라 면직된 장관이 업무수행\""
+    ]
+   },
+   "박정수|1998-03-03": {
+    "start": [
+     "BigKinds metadata: 한겨레 19980304 'DJ “고 총리 헌신 기억할 것”/첫 조각 안팎' news_id 01101001.19980304000000503 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:57:55-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-03-03_1998-03-04_4112185934.json) snippet: \"김대중 대통령은 3일 오후 2시 신임 각료 17명에 대한 임명장을 수여했다\"",
+     "BigKinds metadata: 매일경제 19980304 '김종필서리 내각 출범' news_id 02100101.20160113223759625 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:57:55-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-03-03_1998-03-04_4112185934.json) snippet: \"외교통상부장관에 박정수의원(국민회의)을 각각 임명\""
+    ],
+    "end": [
+     "BigKinds metadata: 동아일보 19980805 '朴定洙외통 전격경질' news_id 01100401.19980805095054003 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:14-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-08-03_1998-08-06_1a18cf0cd3.json) snippet: \"박정수(朴定洙)외교통상부장관이 제출한 사표를 수리하고\"",
+     "BigKinds metadata: 한국일보 19980805 '朴 외통 전격경질/새 장관 홍순영씨' news_id 01101101.19980805000000101 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:14-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-08-03_1998-08-06_1a18cf0cd3.json) snippet: \"박정수(朴定洙) 외교통상장관이 제출한 사표를 수리하고\""
+    ]
+   },
+   "홍순영|1998-08-04": {
+    "start": [
+     "BigKinds metadata: 국민일보 19980805 '박정수 장관 전격 경질/새 외통장관 홍순영씨' news_id 01100201.19980805000000104 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:20-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-08-04_1998-08-06_b55d75b689.json) snippet: \"김대통령은 이날 오후 홍장관에게 임명장을 수여한 뒤\"",
+     "BigKinds metadata: 경향신문 19980805 '朴 외통장관 경질/對러 외교마찰 문책… 후임에 홍순영씨' news_id 01100101.19980805000000101 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:20-0400, snapshot roster/sources/foreign/verify/bigkinds_1998-08-04_1998-08-06_b55d75b689.json) snippet: \"후임에 홍순영(洪淳瑛) 전 독일대사를 임명했다\""
+    ],
+    "end": [
+     "BigKinds metadata: 헤럴드경제 20000114 '김대통령, 장관급 9명 인사 단행' news_id 02100701.20160113051547733 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:50:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2000-01-13_2000-01-14_ef75773e8b.json) snippet: \"14일 오전 청와대에서 신임 장관들에 게 임명장을 수여했다\"",
+     "BigKinds metadata: 부산일보 20000114 '부패 일소.개혁지속 등 새 내각 6대 과제 제시' news_id 01500701.20000114113205002 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:50:22-0400, snapshot roster/sources/foreign/verify/bigkinds_2000-01-13_2000-01-15_8f303d795f.json) snippet: \"김 대통령은 이날 오전 청와대에서 이헌재 신임재경부장관 등 새로 임명된 장관 및 장관급 인사 8명 등에\""
+    ]
+   },
+   "이정빈|2000-01-14": {
+    "start": [
+     "BigKinds metadata: 헤럴드경제 20000114 '김대통령, 장관급 9명 인사 단행' news_id 02100701.20160113051547733 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:50:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2000-01-13_2000-01-14_ef75773e8b.json) snippet: \"14일 오전 청와대에서 신임 장관들에 게 임명장을 수여했다\"",
+     "BigKinds metadata: 국민일보 20000115 '\"송환 탈북자 안전 최선 다하라\"' news_id 01100201.20000115000000206 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:50:22-0400, snapshot roster/sources/foreign/verify/bigkinds_2000-01-13_2000-01-15_8f303d795f.json) snippet: \"김대통령은 이장관을 비롯한 신임 각료와 청와대 수석비서관 등 10명에게 임명장을 수여하면서\""
+    ],
+    "end": [
+     "BigKinds metadata: 문화일보 20010327 '이정빈前장관 `퇴임辯`파문' news_id 01100501.20010327000000501 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2001-03-25_2001-03-28_21a8f371d0.json) snippet: \"이정빈 전외교통상부장관이 26일 장관직에서 이임하면서\"",
+     "BigKinds metadata: 문화일보 20010327 '이정빈前외교 퇴임발언 파문' news_id 01100501.20010327000000206 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2001-03-25_2001-03-28_21a8f371d0.json) snippet: \"3·26 개각으로 물러난 이정빈 전 외교통상부장관이 26일 이임하면서\"",
+     "관보 제14764호 (2001-03-30) 인사, re-read by the verifier: \"◉2001년 3 월26일자\" | harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt (copy roster/sources/foreign/verify/gazette_hits/20010330_14764_00000000000000001319596776654000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)"
+    ]
+   },
+   "한승수|2001-03-26": {
+    "start": [
+     "관보 제14764호 (2001-03-30) 인사, re-read by the verifier: \"한 승 수(韓 昇 洙) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20010330_14764_00000000000000001319596776654000.txt (copy roster/sources/foreign/verify/gazette_hits/20010330_14764_00000000000000001319596776654000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319596745667000&tocId=00000000000000001319596776654000&isTocOrder=N (accessed 2026-09-24T22:33:36-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 인천일보 20020205 '한승수외교 전격 경질' news_id 01200401.20020205003036006 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:32-0400, snapshot roster/sources/foreign/verify/bigkinds_2002-02-03_2002-02-06_317e65b343.json) snippet: \"김대중 대통령은 4일 한승수 외교통상부장관을 전격 경질하고 후임에 최성홍 차관을 승진 임명했다\"",
+     "BigKinds metadata: 중앙일보 20020206 '\"北,美의 정책변화 빨리 깨달아야\"' news_id 01100901.20020206013146003 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:49:32-0400, snapshot roster/sources/foreign/verify/bigkinds_2002-02-03_2002-02-06_317e65b343.json) snippet: \"경질된 지 하루 만에 이임식을 열고\"",
+     "관보 제15024호 (2002-02-09) 인사, re-read by the verifier: \"◉2002년 2 월 4 일자 외교통상부차관 최 성 홍(崔 成 泓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20020209_15024_00000000000000001319020197866000.txt (copy roster/sources/foreign/verify/gazette_hits/20020209_15024_00000000000000001319020197866000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020182391000&tocId=00000000000000001319020197866000&isTocOrder=N (accessed 2026-09-24T22:44:21-0400)"
+    ]
+   },
+   "최성홍|2002-02-04": {
+    "start": [
+     "관보 제15024호 (2002-02-09) 인사, re-read by the verifier: \"◉2002년 2 월 4 일자 외교통상부차관 최 성 홍(崔 成 泓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20020209_15024_00000000000000001319020197866000.txt (copy roster/sources/foreign/verify/gazette_hits/20020209_15024_00000000000000001319020197866000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319020182391000&tocId=00000000000000001319020197866000&isTocOrder=N (accessed 2026-09-24T22:44:21-0400)"
+    ],
+    "end": [
+     "관보 제15338호 (2003-03-05) 인사, re-read by the verifier: \"◉2003년 2 월27일자\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (copy roster/sources/foreign/verify/gazette_hits/20030305_15338_00000000000000001319026541100000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+     "BigKinds metadata: 서울경제 20030227 '새 장관 임기 2년 보장' news_id 02100311.20160316201654610 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:57:33-0400, snapshot roster/sources/foreign/verify/bigkinds_2003-02-27_2003-02-28_e50c0137b9.json) snippet: \"노 대통령은 이날 오후 2시 고건 신임총리와 협의ㆍ제청 절차를 거쳐 참여정부첫 내각 구성을 마치고\"",
+     "연합뉴스 2003-02-27 12:00 '행정부 고위직 73.8% 재산증가' https://n.news.naver.com/mnews/article/001/0000326879 (accessed 2026-09-25T21:54:37-0400, snapshot roster/sources/foreign/verify/naver_001_0000326879.html) quote: \"최성홍 외교통상부 장관은 1억7천321만9천원이 줄었다고 신고\""
+    ]
+   },
+   "윤영관|2003-02-27": {
+    "start": [
+     "관보 제15338호 (2003-03-05) 인사, re-read by the verifier: \"윤 영 관(尹 永 寬) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20030305_15338_00000000000000001319026541100000.txt (copy roster/sources/foreign/verify/gazette_hits/20030305_15338_00000000000000001319026541100000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319026526533000&tocId=00000000000000001319026541100000&isTocOrder=N (accessed 2026-09-24T22:44:28-0400)",
+     "BigKinds metadata: KBS 20030227 '참여정부 첫 내각 출범' news_id 08100101.20030227201414003 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:57:33-0400, snapshot roster/sources/foreign/verify/bigkinds_2003-02-27_2003-02-28_e50c0137b9.json) snippet: \"외교통상부 장관에는 인수위 출신 윤영관 서울대 교수\""
+    ],
+    "end": [
+     "SBS 2004-01-15 11:27 '윤영관 외교부 장관 사표 수리' https://n.news.naver.com/mnews/article/055/0000015512 (accessed 2026-09-24T22:52:58-0400, snapshot roster/sources/foreign/verify/naver_055_0000015512.html) quote: \"노무현 대통령은 오늘(15일) 윤영관 외교부 장관이 제출한 사표를 수리했다고 정찬용 청와대 인사수석이 발표했습니다\"",
+     "BigKinds metadata: 서울신문 20040116 '對美 ‘동맹외교’ 라인 물갈이' news_id 01100611.20160422184953857 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:53:00-0400, snapshot roster/sources/foreign/verify/bigkinds_2004-01-14_2004-01-16_64a68f5e49.json) snippet: \"노 대통령은 이날 오전 윤 장관이 제출한 사표를 전격 수리했다\"",
+     "BigKinds metadata: 중도일보 20040116 ''대통령 폄하‘ 尹외교 문책 경질' news_id 01400351.20040116090020020 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:53:00-0400, snapshot roster/sources/foreign/verify/bigkinds_2004-01-14_2004-01-16_64a68f5e49.json) snippet: \"대통령은 오늘 오전 사표를 제출한 윤 외통부 장관의 사표를 수리했다\""
+    ]
+   },
+   "반기문|2004-01-17": {
+    "start": [
+     "관보 제15602호 (2004-01-24) 인사, re-read by the verifier: \"⊙2004년 1 월17일자 반 기 문(潘 基 文) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20040124_15602_00000000000000001319029879613000.txt (copy roster/sources/foreign/verify/gazette_hits/20040124_15602_00000000000000001319029879613000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319029870041000&tocId=00000000000000001319029879613000&isTocOrder=N (accessed 2026-09-24T22:47:19-0400)"
+    ],
+    "end": [
+     "강원일보 2006-11-10 00:03 '반외교, 오늘 사표수리' https://n.news.naver.com/mnews/article/087/0000102988 (accessed 2026-09-24T22:54:52-0400, snapshot roster/sources/foreign/verify/naver_087_0000102988.html) quote: \"노무현대통령은 차기 유엔 사무총장에 선출된 반기문외교장관의 사표를 10일 오전에 수리할 예정이라고 윤태영 청와대 대변인이 9일 밝혔다\"",
+     "MBN 2006-11-10 08:26 '오늘의 주요 정치 일정' https://n.news.naver.com/mnews/article/057/0000045728 (accessed 2026-09-25T21:51:28-0400, snapshot roster/sources/foreign/verify/naver_057_0000045728.html) quote: \"노무현 대통령은 오늘 오전에 반 장관의 사표를 수리합니다\"",
+     "헤럴드뮤즈 2006-11-10 11:17 '아듀~ 반기문 장관…‘새출발 위한’ 퇴청' https://n.news.naver.com/mnews/article/112/0000052820 (accessed 2026-09-24T22:54:47-0400, snapshot roster/sources/foreign/verify/naver_112_0000052820.html) quote: \"청와대는 이날 유엔 사무총장직 준비작업을 위해 오는 15일 유엔본부로 출국하는 반 장관의 사표를 수리했다\""
+    ]
+   },
+   "송민순|2006-12-01": {
+    "start": [
+     "관보 제16395호 (2006-12-07) 인사, re-read by the verifier: \"⊙2006년12월 1 일자 송 민 순(宋 旻 淳) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20061207_16395_00000000000000001319075128027000.txt (copy roster/sources/foreign/verify/gazette_hits/20061207_16395_00000000000000001319075128027000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319075109197000&tocId=00000000000000001319075128027000&isTocOrder=N (accessed 2026-09-24T22:52:29-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 매일경제 20080229 '송민순 외교 장관 \"북핵 폐기·한미 FTA 미완성 아쉽다\"' news_id 02100101.20160120040953559 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:57:49-0400, snapshot roster/sources/foreign/verify/bigkinds_2008-02-29_2008-03-01_5956848f96.json) snippet: \"송 장관은 오늘(29일) 오후 2시 서울 세종로 중앙정부청사 별관에서 열린 이임식에서\"",
+     "관보 제16703호 (2008-03-06) 인사, re-read by the verifier: \"유 명 환(柳 明 桓) 국무위원에 임함 외교통상부장관에 보함\" | harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt (copy roster/sources/foreign/verify/gazette_hits/20080306_16703_00000000000000001319081960066000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)"
+    ]
+   },
+   "유명환|2008-02-29": {
+    "start": [
+     "관보 제16703호 (2008-03-06) 인사, re-read by the verifier: \"⊙2008년 2월 29일자 한 승 수(韓 昇 洙) 국무총리에 임함\" | harvest/gazette_text/20080306_16703_00000000000000001319081960066000.txt (copy roster/sources/foreign/verify/gazette_hits/20080306_16703_00000000000000001319081960066000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319081945303000&tocId=00000000000000001319081960066000&isTocOrder=N (accessed 2026-09-24T22:54:23-0400)"
+    ],
+    "end": [
+     "파이낸셜뉴스 2010-09-09 15:38 '외교부, ‘장관 딸 특채 파동’ 문책 인사 착수' https://n.news.naver.com/mnews/article/014/0002336405 (accessed 2026-09-24T22:55:28-0400, snapshot roster/sources/foreign/verify/naver_014_0002336405.html) quote: \"이명박 대통령은 지난 8일 유 전 장관의 사표를 정식 수리한 것으로 확인됐다\"",
+     "매일경제 2010-09-09 15:16 '외교부, 임재홍 기획조정실장 보직대기 조치' https://n.news.naver.com/mnews/article/009/0002319193 (accessed 2026-09-24T22:55:35-0400, snapshot roster/sources/foreign/verify/naver_009_0002319193.html) quote: \"어제 사표가 수리된 뒤 신각수 제1차관이 장관 직무대행을 맡게 된 것\"",
+     "경향신문 2010-09-09 22:20 '임재홍 외교부 기조실장 보직 대기' https://n.news.naver.com/mnews/article/032/0002082921 (accessed 2026-09-24T22:55:20-0400, snapshot roster/sources/foreign/verify/naver_032_0002082921.html) quote: \"이명박 대통령은 지난 8일 유 전 장관의 사표를 정식으로 수리한 것으로 알려졌다\""
+    ]
+   },
+   "김성환|2010-10-08": {
+    "start": [
+     "관보 제17361호 (2010-10-14) 인사, re-read by the verifier: \"김 성 환(金 星 煥) 국무위원에 임함 외교통상부장관에 보함 2010.10.8\" | harvest/gazette_text/20101014_17361_00000000000000001319096055879000.txt (copy roster/sources/foreign/verify/gazette_hits/20101014_17361_00000000000000001319096055879000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001319096038170000&tocId=00000000000000001319096055879000&isTocOrder=N (accessed 2026-09-25T06:54:56-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 노컷뉴스 20130311 '김성환 외교통상부 장관 이임' news_id 04100058.20130311111015018 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:53:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2013-03-10_2013-03-12_a8cd27cab4.json) snippet: \"11일 오전 서울 세종로 정부서울청사 별관에서 진행된 김성환 제36대 외교통상부 장관 이임식에서\"",
+     "뉴시스 2013-03-11 11:52 '김성환 장관 “우리 경제외교 위축돼서는 안돼”' https://n.news.naver.com/mnews/article/003/0005021363 (accessed 2026-09-25T13:13:58-0400, snapshot roster/sources/foreign/verify/naver_003_0005021363.html) quote: \"김성환 장관은 이날 오전 세종로 정부서울청사 별관에서 열린 이임식에서\"",
+     "관보 제17971호 (2013-03-14) 인사, re-read by the verifier: \"윤병세(尹炳世) 국무위원에 임함 외교통상부장관에 보함 2013. 3. 11.\" | harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt (copy roster/sources/foreign/verify/gazette_hits/20130314_17971_00000000000000001363076221739000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)"
+    ]
+   },
+   "윤병세|2013-03-11": {
+    "start": [
+     "관보 제17971호 (2013-03-14) 인사, re-read by the verifier: \"윤병세(尹炳世) 국무위원에 임함 외교통상부장관에 보함 2013. 3. 11.\" | harvest/gazette_text/20130314_17971_00000000000000001363076221739000.txt (copy roster/sources/foreign/verify/gazette_hits/20130314_17971_00000000000000001363076221739000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001363076178957000&tocId=00000000000000001363076221739000&isTocOrder=N (accessed 2026-09-24T22:57:54-0400)"
+    ],
+    "end": [
+     "관보 제17983호 (2013-03-28) 인사, re-read by the verifier: \"윤병세(尹炳世) 국무위원에 임함 외교부장관에 보함 2013. 3. 23.\" | harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt (copy roster/sources/foreign/verify/gazette_hits/20130328_17983_00000000000000001364357833254000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)"
+    ]
+   },
+   "윤병세|2013-03-23": {
+    "start": [
+     "관보 제17983호 (2013-03-28) 인사, re-read by the verifier: \"윤병세(尹炳世) 국무위원에 임함 외교부장관에 보함 2013. 3. 23.\" | harvest/gazette_text/20130328_17983_00000000000000001364357833254000.txt (copy roster/sources/foreign/verify/gazette_hits/20130328_17983_00000000000000001364357833254000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001364357799299000&tocId=00000000000000001364357833254000&isTocOrder=N (accessed 2026-09-24T22:56:28-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 국민일보 20170619 '수장 바뀐 외교부 강경화 취임-윤병세 이임' news_id 01100201.20170619105344001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:53:50-0400, snapshot roster/sources/foreign/verify/bigkinds_2017-06-18_2017-06-20_988776bfbc.json) snippet: \"윤병세 전 외교부 장관이 이임식을 마친 뒤\"",
+     "뉴스1 2017-06-19 10:40 '윤병세 전 외교부 장관 이임식' https://n.news.naver.com/mnews/article/421/0002793153 (accessed 2026-09-25T13:15:57-0400, snapshot roster/sources/foreign/verify/naver_421_0002793153.html) quote: \"윤병세 전 외교부 장관이 19일 오전 서울 종로구 외교부청사에서 열린 이임식에서 이임사를 하고 있다\"",
+     "BigKinds metadata: 동아일보 20170619 '검증미흡 인정한 靑 “국회가 문제 지적땐 지명 철회할수도”' news_id 01100401.20170619114938010 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:54:10-0400, snapshot roster/sources/foreign/verify/bigkinds_2017-06-18_2017-06-19_c86bf46fbb.json) snippet: \"문재인 대통령은 18일 강경화 외교부 장관에게 임명장을 수여하면서\""
+    ]
+   },
+   "강경화|2017-06-18": {
+    "start": [
+     "BigKinds metadata: 동아일보 20170619 '검증미흡 인정한 靑 “국회가 문제 지적땐 지명 철회할수도”' news_id 01100401.20170619114938010 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:54:10-0400, snapshot roster/sources/foreign/verify/bigkinds_2017-06-18_2017-06-19_c86bf46fbb.json) snippet: \"문재인 대통령은 18일 강경화 외교부 장관에게 임명장을 수여하면서\"",
+     "한겨레 2017-06-18 11:35 ' 문 대통령, 오후 2시 강경화 장관 임명장 수여 ' https://n.news.naver.com/mnews/article/028/0002368771 (accessed 2026-09-25T21:55:09-0400, snapshot roster/sources/foreign/verify/naver_028_0002368771.html) quote: \"문재인 대통령은 18일 오후 2시 강경화 외교부 장관에 대한 임명장을 수여할 예정이라고 청와대가 밝혔다\"",
+     "YTN 2017-06-19 09:40 '야3당, 의총 열어 '강경화 임명' 대응 논의' https://n.news.naver.com/mnews/article/052/0001023536 (accessed 2026-09-25T13:18:11-0400, snapshot roster/sources/foreign/verify/naver_052_0001023536.html) quote: \"어제 임명장이 수여가 됐죠\""
+    ],
+    "end": [
+     "한겨레 2021-02-08 17:48 '‘굿바이, 외교부’ 강경화…“3년8개월, 마음 설레는 추억으로 남을 것”' https://n.news.naver.com/mnews/article/028/0002532072 (accessed 2026-09-25T13:19:10-0400, snapshot roster/sources/foreign/verify/naver_028_0002532072.html) quote: \"강경화 외교부 장관이 3년 8개월 만에 외교부를 떠났다\"",
+     "BigKinds metadata: 한국경제 20210208 ''퇴임' 강경화, 기자들이 격려 박수 치자 \"이제서야…\"' news_id 02100601.20210208200939001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:54:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2021-02-08_2021-02-09_10a6cfa415.json) snippet: \"강경화 외교부 장관이 8일 정의용 장관 후보자의 공식 임명을 앞두고\"",
+     "관보 제19943호 (2021-02-19) 인사, re-read by the verifier: \"정의용(鄭義溶) 국무위원에 임함 외교부장관에 보함 2021. 2. 9.\" | harvest/gazette_text/20210219_19943_00000000000000001613606350473000.txt (copy roster/sources/foreign/verify/gazette_hits/20210219_19943_00000000000000001613606350473000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001613606346551000&tocId=00000000000000001613606350473000&isTocOrder=N (accessed 2026-09-24T22:59:59-0400)"
+    ]
+   },
+   "정의용|2021-02-09": {
+    "start": [
+     "관보 제19943호 (2021-02-19) 인사, re-read by the verifier: \"정의용(鄭義溶) 국무위원에 임함 외교부장관에 보함 2021. 2. 9.\" | harvest/gazette_text/20210219_19943_00000000000000001613606350473000.txt (copy roster/sources/foreign/verify/gazette_hits/20210219_19943_00000000000000001613606350473000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=00000000000000001613606346551000&tocId=00000000000000001613606350473000&isTocOrder=N (accessed 2026-09-24T22:59:59-0400)"
+    ],
+    "end": [
+     "서울신문 2022-05-10 05:07 '文 “외교 공백 안 돼” 당부… 정의용 장관 이임식 미뤄' https://n.news.naver.com/mnews/article/081/0003271694 (accessed 2026-09-25T21:54:00-0400, snapshot roster/sources/foreign/verify/naver_081_0003271694.html) quote: \"외교안보 부처들은 후임이 임명될 때까지 현직에 남아 있는 것이 도리라는 (문재인 전) 대통령의 생각이 확고하신 것 같다\"",
+     "관보 제20255호 (2022-05-23) 인사, re-read by the verifier: \"박진(朴振) 국무위원에 임함 외교부장관에 보함 2022. 5. 12.\" | harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt (copy roster/sources/foreign/verify/gazette_hits/20220523_20255_I0000000000000001652659816213000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400)"
+    ]
+   },
+   "박진|2022-05-12": {
+    "start": [
+     "관보 제20255호 (2022-05-23) 인사, re-read by the verifier: \"박진(朴振) 국무위원에 임함 외교부장관에 보함 2022. 5. 12.\" | harvest/gazette_text/20220523_20255_I0000000000000001652659816213000.txt (copy roster/sources/foreign/verify/gazette_hits/20220523_20255_I0000000000000001652659816213000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001652949101222000&tocId=I0000000000000001652659816213000&isTocOrder=N (accessed 2026-09-24T22:33:40-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 서울신문 20240110 '尹정부 초대 외교장관 박진 이임… “지역구 돌아가서 열심히 뛸 것”' news_id 01100611.20240110172526001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:55:10-0400, snapshot roster/sources/foreign/verify/bigkinds_2024-01-10_2024-01-11_d9d72507c4.json) snippet: \"박진 외교부 장관이 10일 이임했다\"",
+     "BigKinds metadata: OBS 20240110 '윤 대통령, 조태열 외교부 장관 임명…박진 이임' news_id 08200101.20240110140903003 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:55:10-0400, snapshot roster/sources/foreign/verify/bigkinds_2024-01-10_2024-01-11_d9d72507c4.json) snippet: \"윤석열 대통령이 조태열 외교부 장관을 임명했습니다\"",
+     "관보 제20669호 (2024-01-17) 인사, re-read by the verifier: \"조태열(趙兌烈) 국무위원에 임함 외교부장관에 보함 2024. 1. 10.\" | harvest/gazette_text/20240117_20669_I0000000000000001704862002328000.txt (copy roster/sources/foreign/verify/gazette_hits/20240117_20669_I0000000000000001704862002328000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001705303685236000&tocId=I0000000000000001704862002328000&isTocOrder=N (accessed 2026-09-25T07:05:32-0400)"
+    ]
+   },
+   "조태열|2024-01-10": {
+    "start": [
+     "관보 제20669호 (2024-01-17) 인사, re-read by the verifier: \"조태열(趙兌烈) 국무위원에 임함 외교부장관에 보함 2024. 1. 10.\" | harvest/gazette_text/20240117_20669_I0000000000000001704862002328000.txt (copy roster/sources/foreign/verify/gazette_hits/20240117_20669_I0000000000000001704862002328000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001705303685236000&tocId=I0000000000000001704862002328000&isTocOrder=N (accessed 2026-09-25T07:05:32-0400)",
+     "BigKinds metadata: OBS 20240110 '윤 대통령, 조태열 외교부 장관 임명…박진 이임' news_id 08200101.20240110140903003 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:55:10-0400, snapshot roster/sources/foreign/verify/bigkinds_2024-01-10_2024-01-11_d9d72507c4.json) snippet: \"윤석열 대통령이 조태열 외교부 장관을 임명했습니다\""
+    ],
+    "end": [
+     "BigKinds metadata: 서울경제 20250721 '외교장관, 퇴임하며 남긴 말…\"국무위원 무거운 짐, 절대고독 절감\"' news_id 02100311.20250721105131001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:55:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2025-07-17_2025-07-22_2879c10865.json) snippet: \"21일 조현 외교부 장관의 취임과 함께 이임한 조태열 전 외교부 장관이\"",
+     "BigKinds metadata: 중앙일보 20250721 '내란 특검, 한덕수·이상민 위증 혐의 수사…계엄 국무회의 진실 가린다' news_id 01100901.20250721110558001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:55:30-0400, snapshot roster/sources/foreign/verify/bigkinds_2025-07-17_2025-07-22_2879c10865.json) snippet: \"특검팀은 지난 19일과 20일 조태열 전 외교부 장관과 김영호 통일부 장관 등 국무위원들을 참고인 신분으로 불러 조사했다\"",
+     "관보 제21043호 (2025-07-25) 인사, re-read by the verifier: \"조현(趙顯) 국무위원에 임함 외교부장관에 보함 2025. 7. 19.\" | harvest/gazette_text/20250725_21043_I0000000000000001753058642620000.txt (copy roster/sources/foreign/verify/gazette_hits/20250725_21043_I0000000000000001753058642620000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400)"
+    ]
+   },
+   "조현|2025-07-19": {
+    "start": [
+     "관보 제21043호 (2025-07-25) 인사, re-read by the verifier: \"조현(趙顯) 국무위원에 임함 외교부장관에 보함 2025. 7. 19.\" | harvest/gazette_text/20250725_21043_I0000000000000001753058642620000.txt (copy roster/sources/foreign/verify/gazette_hits/20250725_21043_I0000000000000001753058642620000.txt) | viewer https://gwanbo.go.kr/ezpdf/customLayout.jsp?contentId=I0000000000000001753255535402000&tocId=I0000000000000001753058642620000&isTocOrder=N (accessed 2026-09-24T22:59:51-0400)"
+    ],
+    "end": [
+     "BigKinds metadata: 세계일보 20260924 '조현, 우크라 외교장관과 뉴욕 회담…“필요한 지원 지속”' news_id 01100701.20260924161618001 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:56:01-0400, snapshot roster/sources/foreign/verify/bigkinds_2026-09-20_2026-09-25_95bee0e101.json) snippet: \"제81차 유엔총회 고위급회기 참석차 미국 뉴욕을 방문 중인 조현 외교부 장관이\"",
+     "BigKinds metadata: 문화일보 20260831 '‘대미 투자·원잠 협상’ 급한 산업·외교는 유임' news_id 01100501.20260831115622002 (search POST https://www.bigkinds.or.kr/api/news/search.do, accessed 2026-09-25T21:58:01-0400, snapshot roster/sources/foreign/verify/bigkinds_2026-08-25_2026-09-05_eafed15cda.json) snippet: \"김정관 산업통상부 장관과 조현 외교부 장관은 유임됐다\""
+    ]
+   }
+  },
+  "changes": [
+   {
+    "name": "유명환",
+    "field": "notes",
+    "old": "(no mention of the 2010-09-07 직무대행 label)",
+    "new": "transcript row of 2010-09-07 noted, end 2010-09-08 kept",
+    "evidence": "inputs/minister_role_meetings.csv role minister_acting, speaker 외교통상부장관직무대행 신각수, meeting_id 39757, 2010-09-07 | 파이낸셜뉴스 2010-09-09 15:38 '외교부, ‘장관 딸 특채 파동’ 문책 인사 착수' https://n.news.naver.com/mnews/article/014/0002336405 (accessed 2026-09-24T22:55:28-0400, snapshot roster/sources/foreign/verify/naver_014_0002336405.html) quote: \"이명박 대통령은 지난 8일 유 전 장관의 사표를 정식 수리한 것으로 확인됐다\""
+   },
+   {
+    "name": "정의용",
+    "field": "notes / verification status",
+    "old": "end 2022-05-12 (medium), 외교부 page 2022-05-11 noted",
+    "new": "status disputed, end 2022-05-12 kept",
+    "evidence": "서울신문 2022-05-10 05:07 '文 “외교 공백 안 돼” 당부… 정의용 장관 이임식 미뤄' https://n.news.naver.com/mnews/article/081/0003271694 (accessed 2026-09-25T21:54:00-0400, snapshot roster/sources/foreign/verify/naver_081_0003271694.html) quote: \"외교안보 부처들은 후임이 임명될 때까지 현직에 남아 있는 것이 도리라는 (문재인 전) 대통령의 생각이 확고하신 것 같다\" || 외교부 역대 장관 page https://www.mofa.go.kr/minister/wpge/m_20036/contents.do: \"39대 장관 정의용 (鄭義溶) 2021.02.09. - 2022.05.11.\" (accessed 2026-09-24T22:34:20-0400, snapshot roster/sources/foreign/mofa_past_ministers.html)"
+   },
+   {
+    "name": "신각수 (acting)",
+    "field": "sources",
+    "old": "news only",
+    "new": "added the four valid transcript rows and the 매일경제 2010-09-09 quote",
+    "evidence": "roster/sources/foreign/verify/transcript_check.json"
+   },
+   {
+    "name": "(lineage)",
+    "field": "issues",
+    "old": "9 issues",
+    "new": "11 issues (cross-lineage 2000-01-13/14 note, 정의용 dispute note)",
+    "evidence": "see issues"
+   }
+  ],
+  "completeness": [
+   "Independent holder lists not used by the builder. (1) The harvested gazette 인사 corpus, grepped for 외무부장관/외교통상부장관/외교부장관 followed by 보함/임함 with letter spacing allowed (roster/scripts/foreign_verify_01_gazette_grep.py, 14 notices in 13 files, 2001-03-26 to 2025-07-19). Every notice maps to a spell start. The only spell after 2001 without a notice is 강경화 (2017-06-18). A keyword search of the gazette 인사 index for 강경화, 2017-06-18..2017-12-31, returned 0 items (snapshot roster/sources/foreign/verify/gazette_search_강경화_2017H2.json). (2) kr-hearings transcripts, valid hearing types only: exactly 13 persons spoke as 외교(통상)부 장관 between 2000-06 and 2025-01 and all of them are in the file. (3) en.wikipedia 'Minister of Foreign Affairs (South Korea)' (oldid 1373781355) and Wikidata Q12592509, secondary, list the same 18 persons from 유종하 to 조현. Namu Wiki returned Cloudflare 403 or 404 for every title tried.",
+   "Transitions: 1998 유종하 (automatic dismissal on 1998-02-28 confirmed by 한국경제, 서울신문, 국민일보, 문화일보 and 세계일보 of 1998-02-28..03-03), 2003 최성홍 (to 02-27), 2008 송민순 (to 02-29), 2013 김성환 (to 03-11), 2017 윤병세 (to 06-18), 2022 정의용 (to 05-12, disputed by one day), 2025 조태열 (to 07-18). No appointment by an acting president (2004, 2016-17, 2024-25).",
+   "Renamed mid-tenure: 윤병세 split on 2013-03-23 with a new notice (관보 제17983호). 2008-02-29 kept the name 외교통상부, so 송민순 needs no split.",
+   "Elections: only 박진 left to run (2024-01-10). No foreign minister resigned for the 2000-2022 general or local elections or the 2026-06-03 local elections and by-elections. 조현 was kept in the 2026-08-30 reshuffle (문화일보 2026-08-31) and was in office on 2026-09-23/24 (세계일보 2026-09-24). A BigKinds search for 외교부 장관 후보자 for 2026-06-01..2026-09-24 finds no nominee.",
+   "Short tenures: none. The shortest spell is 윤병세's 외교통상부 spell (2013-03-11..03-22), created by the rename.",
+   "Withdrawn or rejected nominees: none found. likms has exactly 9 hearing requests for this office (independent searches for 외교부장관, 외교통상부장관, 외무부장관, 외교부, 외교통상부 in terms 15-22, roster/sources/foreign/verify/likms_search.json), all in nominations. BigKinds searches for 후보자 사퇴 and 지명/내정 철회 found no foreign-minister case."
+  ],
+  "transcript_check": "roster/scripts/foreign_verify_03_transcripts.py, output roster/sources/foreign/verify/transcript_check.json. 342 valid rows (327 minister, 8 nominee, 7 acting), 20 invalid-type rows skipped. All 327 minister rows fall inside the named person's spell. Acting rows: 유명환 2006-10-27/11-01 (직무대리 while 반기문 was minister), 신각수 2010-09-07..10-04, 박석환 2012-02-06, all already in acting. Nominee rows match the hearing dates of all 8 heard nominees up to 2024.",
+  "continuity": "roster/scripts/foreign_verify_07_continuity.py, output roster/sources/foreign/verify/continuity.json. No overlaps. Gaps 1998-02-28..03-02 (3 days, 차관 kept the ministry running), 2004-01-16 (1 day, 차관 김재섭), 2006-11-11..11-30 (20 days, acting 유명환), 2010-09-09..10-07 (29 days, acting 신각수). Same-day handovers 1998-08-04, 2000-01-14, 2001-03-26, 2002-02-04, 2003-02-27, 2008-02-29, 2013-03-11, 2017-06-18, 2022-05-12, 2024-01-10. Contiguous 2013-03-22/23, 2021-02-08/09, 2025-07-18/19. Every gap has an acting entry.",
+  "nominations_check": "9 likms bills (ZZ1831, ZZ1896, ZZ18112, ZZ19034, ZZ20040, ZZ21042, ZZ21102, ZZ21185, ZZ22053) re-read in harvest/likms/*.txt. Hearing dates match the transcript nominee rows (2006-11-16, 2008-02-27, 2010-10-07, 2013-02-28, 2017-06-07, 2021-02-05, 2022-05-02, 2024-01-08) and likms (조현 2025-07-17). Report adoption matches likms: not adopted for 송민순 (경과보고서 미채택), 강경화 and 박진 (no committee decision), adopted for 유명환 (2008-02-29), 김성환 (2010-10-08), 윤병세 (2013-02-28), 정의용 (2021-02-08), 조태열 (2024-01-09), 조현 (2025-07-18). Pre-2005 appointments correctly carry hearing_required false.",
+  "field_hygiene": "appointing_president matches the start date for all 18 spells (김영삼 1, 김대중 5, 노무현 3, 이명박 2, 박근혜 2, 문재인 2, 윤석열 2, 이재명 1), none by an acting president. deputy_pm false throughout (offices.json lists no 부총리 title for OF009, OF025, OF049). No suspensions. reorg_continuation and reappointed_on_reorg true only for 윤병세's 외교부 spell. end_reason values fit the sources (resigned for 박정수, 윤영관, 반기문, 유명환, resigned_to_run for 박진, ministry_reorganized for 유종하 and 윤병세 2013-03-22). mp_hint checked against na_members_15_22.csv (박정수, 한승수, 송민순, 정의용, 박진 and the 김성환 namesake). All offices in scope.",
+  "gazette_reread": "All 13 gazette-backed starts were re-read in the harvest text (quotes checked by the build script). They are the starts of 한승수, 최성홍, 윤영관, 반기문, 송민순, 유명환, 김성환, 윤병세 (twice), 정의용, 박진, 조태열, 조현.",
+  "non_gazette_starts": "유종하 1996-11-07, 박정수 1998-03-03, 홍순영 1998-08-04, 이정빈 2000-01-14 and 강경화 2017-06-18 were re-checked with news items the builder did not cite (per_spell_new_evidence).",
+  "scripts": [
+   "roster/scripts/foreign_verify_01_gazette_grep.py",
+   "roster/scripts/foreign_verify_02_independent_lists.py",
+   "roster/scripts/foreign_verify_03_transcripts.py",
+   "roster/scripts/foreign_verify_04_likms.py",
+   "roster/scripts/foreign_verify_05_bigkinds.py",
+   "roster/scripts/foreign_verify_06_naver.py",
+   "roster/scripts/foreign_verify_07_continuity.py",
+   "roster/scripts/foreign_verify_08_build.py",
+   "roster/scripts/foreign_verify_show_bk.py"
+  ],
+  "snapshots": "roster/sources/foreign/verify/"
+ }
+}
