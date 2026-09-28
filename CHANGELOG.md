@@ -1,5 +1,9 @@
 # Changelog
 
+## Metadata update after v2.0.0 (2026-09-28)
+
+- The kr-hearings-data entry of `linked_datasets` in `data/v2/MANIFEST.json` and the linked-datasets table of the README now report the link check on the released kr-hearings-data v10. The data files and their checksums are unchanged.
+
 ## v2.0.0 (2026-09-28)
 
 The dataset was rebuilt from primary sources. The first release is kept for reference only (see below).

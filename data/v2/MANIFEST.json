@@ -12,9 +12,9 @@
   },
   "kr-hearings-data": {
    "repository": "https://github.com/kyusik-yang/kr-hearings-data",
-   "version": "v10 build (not yet released)",
+   "version": "v10 (released 2026-09-28)",
    "used_for": "Links National Assembly speeches (terms 16-22) to spells.csv, nominations.csv and acting_heads.csv using ministry_alias.csv and person_name_variants.csv.",
-   "checked": "2026-09-28. Link check on the full v10 build: minister turns 1,151,623 linked and 66 unlinked (label errors in the minutes), nominee turns 138,743 linked and 0 unlinked, prime-minister turns 91,384 linked to spells plus 2,598 to acting heads, 2 unlinked (label fragments). No roster date change was needed."
+   "checked": "2026-09-28. Link check on the released v10: minister turns 1,151,503 of 1,151,689 linked. Of the other 186, 168 are withheld by the label-quality checks of kr-hearings-data and 18 have a printed label without a separable name (13) or name a person who did not hold the printed office on that date (5). Nominee turns 138,743 of 138,743 linked. Prime-minister turns 93,982 of 93,982 linked (91,384 to spells and 2,598 to acting heads). No roster date change was needed."
   }
  },
  "window": [

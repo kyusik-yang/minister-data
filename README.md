@@ -100,7 +100,7 @@ print(on[["name", "ministry", "spell_start", "spell_end", "dual_office_at_start"
 | Dataset | Version used | Role |
 |---|---|---|
 | [kna](https://github.com/kyusik-yang/kna) | 0.7.1 | National Assembly member lists (terms 17-22) and resignation motions used for dual-office coding |
-| [kr-hearings-data](https://github.com/kyusik-yang/kr-hearings-data) | v10 build | Parliamentary speeches linked to this dataset. Its full-build check (2026-09-28) linked all but 66 of 1.15 million minister turns, and those 66 are label errors in the minutes |
+| [kr-hearings-data](https://github.com/kyusik-yang/kr-hearings-data) | v10 | Parliamentary speeches linked to this dataset. In its v10 release (2026-09-28), 1,151,503 of 1,151,689 minister turns link to a spell, and every nominee and prime-minister turn links. Of the 186 unlinked minister turns, 168 are withheld by its label-quality checks and 18 have a label without a separable name or with an office the person did not hold on that date |
 
 The versions and check results are recorded in `data/v2/MANIFEST.json` under `linked_datasets`. When kna publishes a new release, run `python3 pipeline/build/check_linked_datasets.py`. It compares the local kna version with the recorded one and lists the steps to rebuild the National Assembly member table and the panel.
 
